@@ -1,0 +1,79 @@
+# Advanced Embedding System Requirements
+# Install with: pip install -r requirements_advanced.txt
+# Based on verified working setup with CUDA 12.1 support
+
+# ============================================================================
+# PyTorch with CUDA 12.1 support (VERIFIED WORKING)
+# ============================================================================
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
+# ============================================================================
+# NLP and Embedding Libraries (VERIFIED WORKING)
+# ============================================================================
+sentence-transformers>=2.2.0
+keybert>=0.8.0
+yake>=0.6.0
+bertopic>=0.16.0
+openai>=1.0.0
+
+# ============================================================================
+# Core Dependencies (VERIFIED WORKING)
+# ============================================================================
+transformers>=4.30.0,<4.50.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# ============================================================================
+# Advanced NLP for Stage 1 (NEW - Required for advanced features)
+# ============================================================================
+spacy>=3.5.0
+# Run after install: python -m spacy download en_core_web_sm
+
+# ============================================================================
+# Optimization and Utilities (VERIFIED WORKING)
+# ============================================================================
+hf-xet==1.1.3
+accelerate>=0.20.0  # Faster model loading for transformers
+
+# ============================================================================
+# Jupyter Support (VERIFIED WORKING)
+# ============================================================================
+jupyterlab>=4.0.0
+ipykernel>=7.0.0
+ipywidgets>=8.0.0
+
+# ============================================================================
+# Additional Dependencies for Pipeline
+# ============================================================================
+python-dotenv>=1.0.0
+requests>=2.31.0
+tqdm>=4.65.0  # Progress bars
+
+# ============================================================================
+# Development Tools (Optional)
+# ============================================================================
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
+# ============================================================================
+# Installation Notes:
+# ============================================================================
+# 1. Install base requirements:
+#    pip install -r requirements_advanced.txt
+#
+# 2. Download spaCy model (required for linguistic analysis):
+#    python -m spacy download en_core_web_sm
+#
+# 3. Verify installation:
+#    python -c "import torch; print(f'PyTorch: {torch.__version__}, CUDA: {torch.cuda.is_available()}')"
+#    python -c "from sentence_transformers import SentenceTransformer; print('sentence-transformers: OK')"
+#    python -c "from keybert import KeyBERT; print('KeyBERT: OK')"
+#    python -c "import spacy; print('spaCy: OK')"
+#
+# 4. Test advanced embedding system:
+#    python src/normalization/stage1_embedding_advanced.py
+

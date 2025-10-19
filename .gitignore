@@ -1,0 +1,19 @@
+# Python environment files
+.env
+
+# Python cache directories
+__pycache__/
+**/__pycache__/
+
+# Cache or temporary folders
+**.cache/
+
+# Virtual environments
+venv/
+**/venv/
+
+documentation/
+back_theories_database/
+output/
+test_runs/
+internal_notes/
