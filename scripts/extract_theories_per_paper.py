@@ -26,19 +26,21 @@ import argparse
 from tqdm import tqdm
 from datetime import datetime
 import time
+import asyncio
+from collections import deque
 
 from dotenv import load_dotenv
 load_dotenv()
 
 # Environment-configured limits (cast to proper types)
 try:
-    BACK_LIMIT = int(os.getenv('BACK_LIMIT', '40000'))
+    BACK_LIMIT = int(os.getenv('BACK_LIMIT', '20000'))
 except Exception:
-    BACK_LIMIT = 40000
+    BACK_LIMIT = 20000
 try:
-    MAX_TOKENS = int(os.getenv('MAX_TOKENS', '8000'))
+    MAX_TOKENS = int(os.getenv('MAX_TOKENS', '4000'))
 except Exception:
-    MAX_TOKENS = 8000
+    MAX_TOKENS = 4000
 try:
     TEMPERATURE = float(os.getenv('TEMPERATURE', '0.2'))
 except Exception:
@@ -50,9 +52,57 @@ if 'CUDA_VISIBLE_DEVICES' not in os.environ:
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from src.core.llm_integration import AzureOpenAIClient
+from src.core.llm_integration import OpenAIClient
 from src.core.text_preprocessor import TextPreprocessor
 from prompts.theory import THEORY_CRITERIA
+
+
+class RateLimiter:
+    """Rate limiter for API calls respecting TPM and RPM limits."""
+    
+    def __init__(self, max_tokens_per_minute: int, max_requests_per_minute: int, tokens_per_day: int):
+        self.max_tpm = max_tokens_per_minute
+        self.max_rpm = max_requests_per_minute
+        self.max_tpd = tokens_per_day
+        
+        self.token_timestamps = deque()
+        self.request_timestamps = deque()
+        self.daily_tokens = 0
+        self.day_start = time.time()
+        import threading
+        self._lock = threading.Lock()
+    
+    async def acquire(self, estimated_tokens: int):
+        """Wait until we can make a request within rate limits."""
+        # Non-blocking check - just track usage, don't wait
+        # The batch size controls concurrency naturally
+        with self._lock:
+            now = time.time()
+            
+            # Reset daily counter if new day
+            if now - self.day_start > 86400:
+                self.daily_tokens = 0
+                self.day_start = now
+            
+            # Remove old timestamps (older than 1 minute)
+            cutoff = now - 60
+            while self.token_timestamps and self.token_timestamps[0][0] < cutoff:
+                self.token_timestamps.popleft()
+            while self.request_timestamps and self.request_timestamps[0] < cutoff:
+                self.request_timestamps.popleft()
+            
+            # Record this request
+            self.token_timestamps.append((now, estimated_tokens))
+            self.request_timestamps.append(now)
+            self.daily_tokens += estimated_tokens
+            
+            # Calculate current usage for monitoring
+            current_tokens = sum(t[1] for t in self.token_timestamps)
+            current_requests = len(self.request_timestamps)
+        
+        # Only wait if we're way over limits (safety check)
+        if current_tokens > self.max_tpm * 1.5 or current_requests > self.max_rpm * 1.5:
+            await asyncio.sleep(2)  # Brief pause if severely over limit
 
 
 @dataclass
@@ -87,7 +137,14 @@ class TheoryExtractionPipeline:
     
     
     def __init__(self):
-        self.llm = AzureOpenAIClient()
+        if os.getenv('MODE') == "full_texts":
+            api_key = os.getenv('OPENAI_API_KEY2')
+        else:
+            api_key = os.getenv('OPENAI_API_KEY')
+
+
+
+        self.llm = OpenAIClient(api_key=api_key)
         self.preprocessor = TextPreprocessor()
         self.THEORY_CRITERIA = THEORY_CRITERIA
         import threading
@@ -95,6 +152,16 @@ class TheoryExtractionPipeline:
         # token/cost accumulators
         self._total_prompt_tokens = 0
         self._total_completion_tokens = 0
+        
+        # Rate limiting for gpt-4.1-mini: 200K TPM, 500 RPM
+        self.rate_limiter = RateLimiter(
+            max_tokens_per_minute=180000,  # 90% of 200K for safety
+            max_requests_per_minute=450,    # 90% of 500 for safety
+            tokens_per_day=1800000          # 90% of 2M for safety
+        )
+        
+        # System prompt for LLM
+        self.system_prompt = """You are a biologist with expertise in aging and senescence."""
     
     def _init_results_db(self, results_db: str):
         """Initialize results database tables if not exist."""
@@ -130,6 +197,20 @@ class TheoryExtractionPipeline:
                 paper_focus INTEGER,
                 key_concepts TEXT,
                 UNIQUE(doi, name)
+            )
+            """
+        )
+        # Table for papers that have full text but become invalid after preprocessing
+        cur.execute(
+            """
+            CREATE TABLE IF NOT EXISTS invalid_after_preprocessing (
+                doi TEXT PRIMARY KEY,
+                pmid TEXT,
+                title TEXT,
+                had_full_text BOOLEAN,
+                had_sections BOOLEAN,
+                preprocessing_issue TEXT,
+                timestamp TEXT
             )
             """
         )
@@ -185,6 +266,25 @@ class TheoryExtractionPipeline:
                     json.dumps(t.key_concepts),
                 ),
             )
+        conn.commit()
+        conn.close()
+    
+    def _record_invalid_preprocessing(self, results_db: str, doi: str, pmid: Optional[str], 
+                                      title: str, had_full_text: bool, had_sections: bool, 
+                                      issue: str):
+        """Record papers that had full text but became invalid after preprocessing."""
+        if not results_db:
+            return
+        conn = sqlite3.connect(results_db, timeout=30)
+        cur = conn.cursor()
+        cur.execute(
+            """
+            INSERT OR REPLACE INTO invalid_after_preprocessing 
+            (doi, pmid, title, had_full_text, had_sections, preprocessing_issue, timestamp)
+            VALUES (?, ?, ?, ?, ?, ?, ?)
+            """,
+            (doi, pmid, title, had_full_text, had_sections, issue, datetime.now().isoformat())
+        )
         conn.commit()
         conn.close()
 
@@ -292,7 +392,7 @@ class TheoryExtractionPipeline:
         return rows
     
        
-    def extract_theories_stage(self, paper: Dict, max_retries: int = 3) -> Dict:
+    async def extract_theories_stage(self, paper: Dict, max_retries: int = 3) -> Dict:
         """
         Extract theories with detailed analysis.
         Uses full text for comprehensive extraction.
@@ -353,34 +453,47 @@ Return ONLY valid JSON:"""
         last_error = None
         for attempt in range(1, max_retries + 1):
             try:
+                # Estimate tokens for rate limiting (rough: 4 chars = 1 token)
+                # estimated_tokens = (len(self.system_prompt) + len(prompt)) // 4 + MAX_TOKENS
+                
+                # Async rate limiting - DISABLED FOR TESTING
+                # await self.rate_limiter.acquire(estimated_tokens)
+                pass  # Rate limiting disabled
+                
+                # DEBUG: Time the API call
+                api_start = time.time()
+                
                 if "gpt-5" in self.llm.model:
-                        response = self.llm.client.chat.completions.create(
-                            model=self.llm.model,
-                            messages=[
-                                {"role": "system", "content": f"""You are a biologist with expertise in aging and senescence. 
-                                """},
+                    response = self.llm.client.chat.completions.create(
+                        model=self.llm.model,
+                        messages=[
+                            {"role": "system", "content": self.system_prompt},
                             {"role": "user", "content": prompt}
                         ],
                         max_completion_tokens=MAX_TOKENS
                     )
                 else:
                     response = self.llm.client.chat.completions.create(
-                            model=self.llm.model,
-                            messages=[
-                                {"role": "system", "content": f"""You are a biologist with expertise in aging and senescence. 
-                                """},
+                        model=self.llm.model,
+                        messages=[
+                            {"role": "system", "content": self.system_prompt},
                             {"role": "user", "content": prompt}
                         ],
                         temperature=TEMPERATURE,
                         max_tokens=MAX_TOKENS
                     )
 
+                # DEBUG: Log API call time
+                api_time = time.time() - api_start
+                if api_time > 10:
+                    print(f"\n⏱️  Slow API call for {paper.get('doi', 'unknown')}: {api_time:.1f}s")
+                
                 # Track usage for cost calculation
                 try:
                     usage = response.usage
                     with self._lock:
-                        self._total_prompt_tokens += int(getattr(usage, 'prompt_tokens', 0))
-                        self._total_completion_tokens += int(getattr(usage, 'completion_tokens', 0))
+                        self._total_prompt_tokens += usage.prompt_tokens
+                        self._total_completion_tokens += usage.completion_tokens
                 except Exception:
                     pass
                 result_text = response.choices[0].message.content.strip()
@@ -406,11 +519,11 @@ Return ONLY valid JSON:"""
             "theories": []
         }
     
-    def process_paper(self, paper: Dict) -> PaperTheoryExtraction:
+    async def process_paper(self, paper: Dict) -> PaperTheoryExtraction:
         """Process one paper through the pipeline."""
         
         # Stage 2: Extract theories
-        extraction_result = self.extract_theories_stage(paper)
+        extraction_result = await self.extract_theories_stage(paper)
         
         # Convert to AgingTheory objects
         theories = []
@@ -564,113 +677,176 @@ Return ONLY valid JSON:"""
         # Init results DB if provided and not in test mode
         if results_db and not test:
             self._init_results_db(results_db)
+        
+        # PERFORMANCE OPTIMIZATION: Pre-load all paper data into memory
+        print("\n📦 Pre-loading paper data into memory...")
+        papers_cache = {}
+        preprocessed_cache = {}
+        
+        try:
+            pconn = sqlite3.connect(f"file:{papers_db}?mode=ro", uri=True, timeout=30)
+        except Exception:
+            pconn = sqlite3.connect(papers_db, timeout=30)
+        pcur = pconn.cursor()
+        
+        # Fetch all papers we need in one query
+        dois_to_fetch = [row[0] for row in meta_rows]
+        if dois_to_fetch:
+            placeholders = ','.join(['?'] * len(dois_to_fetch))
+            pcur.execute(
+                f"""
+                SELECT doi, pmid, title, abstract, full_text, full_text_sections
+                FROM papers
+                WHERE doi IN ({placeholders})
+                """,
+                dois_to_fetch
+            )
             
-        # Process papers
-        results = []
+            print("⚙️  Pre-processing texts...")
+            invalid_after_preprocessing = []
+            for row in tqdm(pcur.fetchall(), desc="Loading & preprocessing"):
+                doi = row[0]
+                papers_cache[doi] = row
+                
+                # Pre-process text now instead of during LLM call
+                _, pmid_db, title_db, abstract, full_text, full_text_sections = row
+                has_full_text = bool((full_text and str(full_text).strip()))
+                has_sections = False
+                if full_text_sections and str(full_text_sections).strip():
+                    try:
+                        sections_obj = json.loads(full_text_sections) if isinstance(full_text_sections, str) else full_text_sections
+                        if isinstance(sections_obj, (list, dict)) and len(sections_obj) > 0:
+                            has_sections = True
+                    except Exception:
+                        has_sections = True
+                
+                if has_full_text or has_sections:
+                    processed_text = self.preprocessor.preprocess(full_text, full_text_sections, abstract)
+                    if processed_text:
+                        preprocessed_cache[doi] = processed_text
+                    else:
+                        # Track papers that had full text but became invalid after preprocessing
+                        issue = "Text became empty or too short after preprocessing (< 100 chars)"
+                        invalid_after_preprocessing.append({
+                            'doi': doi,
+                            'pmid': pmid_db,
+                            'title': title_db,
+                            'had_full_text': has_full_text,
+                            'had_sections': has_sections,
+                            'issue': issue
+                        })
+        
+        pconn.close()
+        print(f"✓ Loaded and preprocessed {len(preprocessed_cache)} papers")
+        
+        # Initialize stats early
         stats = {
-            'total_papers': len(meta_rows),
+            'total_papers': 0,  # Will be updated after filtering
             'papers_with_theories': 0,
             'papers_without_theories': 0,
             'total_theories_extracted': 0,
+            'papers_invalid_after_preprocessing': len(invalid_after_preprocessing) if invalid_after_preprocessing else 0,
             'prompt_tokens': 0,
             'completion_tokens': 0,
             'total_tokens': 0,
             'estimated_cost_usd': 0.0
         }
         
-        from concurrent.futures import ThreadPoolExecutor, as_completed
-        def _load_and_process(row):
-            doi, pmid, title, result, conf_score = row
-            # fetch from papers.db and preprocess
-            try:
-                conn = sqlite3.connect(f"file:{papers_db}?mode=ro", uri=True, timeout=30)
-            except Exception:
-                conn = sqlite3.connect(papers_db, timeout=30)
-            cur = conn.cursor()
-            cur.execute(
-                """
-                SELECT doi, pmid, title, abstract, full_text, full_text_sections
-                FROM papers
-                WHERE doi = ?
-                """,
-                (doi,),
-            )
-            paper_data = cur.fetchone()
-            conn.close()
-            if not paper_data:
-                raise ValueError("Paper full text not found")
-            _, pmid_db, title_db, abstract, full_text, full_text_sections = paper_data
-            has_full_text = bool((full_text and str(full_text).strip()))
-            has_sections = False
-            if full_text_sections and str(full_text_sections).strip():
-                try:
-                    sections_obj = json.loads(full_text_sections) if isinstance(full_text_sections, str) else full_text_sections
-                    if isinstance(sections_obj, (list, dict)) and len(sections_obj) > 0:
-                        has_sections = True
-                except Exception:
-                    has_sections = True
-            if not (has_full_text or has_sections):
-                raise ValueError("No full_text or full_text_sections available")
-            processed_text = self.preprocessor.preprocess(full_text, full_text_sections, abstract)
-            if not processed_text:
-                raise ValueError("No usable text after preprocessing")
-            paper = {
-                'doi': doi,
-                'pmid': pmid or pmid_db,
-                'title': title or title_db,
-                'abstract': abstract,
-                'full_text': processed_text,
-                'validation_result': result,
-                'confidence_score': conf_score,
-            }
-            return self.process_paper(paper)
+        # Record invalid papers to DB if not in test mode
+        if invalid_after_preprocessing:
+            print(f"⚠️  Found {len(invalid_after_preprocessing)} papers with full text that became invalid after preprocessing")
+            
+            if results_db and not test:
+                print("📝 Recording invalid papers to database...")
+                for invalid_paper in invalid_after_preprocessing:
+                    self._record_invalid_preprocessing(
+                        results_db,
+                        invalid_paper['doi'],
+                        invalid_paper['pmid'],
+                        invalid_paper['title'],
+                        invalid_paper['had_full_text'],
+                        invalid_paper['had_sections'],
+                        invalid_paper['issue']
+                    )
+                print(f"✓ Recorded {len(invalid_after_preprocessing)} invalid papers to 'invalid_after_preprocessing' table")
         
+        # Filter meta_rows to only include papers we successfully loaded
+        meta_rows = [row for row in meta_rows if row[0] in preprocessed_cache]
+        if not meta_rows:
+            print("\n❌ No papers with valid full text found")
+            return
+        
+        # Update total_papers count after filtering
+        stats['total_papers'] = len(meta_rows)
+            
+        # Process papers
+        results = []
+        
+        # Simple sequential processing (async removed for stability)
+        def _process_one_paper(row):
+            doi, pmid, title, result, conf_score = row
+            
+            try:
+                # OPTIMIZED: Use pre-loaded and pre-processed data
+                paper_data = papers_cache.get(doi)
+                if not paper_data:
+                    raise ValueError("Paper not found in cache")
+                
+                processed_text = preprocessed_cache.get(doi)
+                if not processed_text:
+                    raise ValueError("No preprocessed text available")
+                
+                _, pmid_db, title_db, abstract, _, _ = paper_data
+                
+                paper = {
+                    'doi': doi,
+                    'pmid': pmid or pmid_db,
+                    'title': title or title_db,
+                    'abstract': abstract,
+                    'full_text': processed_text,
+                    'validation_result': result,
+                    'confidence_score': conf_score,
+                }
+                
+                # Create event loop for this paper's async call
+                try:
+                    loop = asyncio.get_event_loop()
+                except RuntimeError:
+                    loop = asyncio.new_event_loop()
+                    asyncio.set_event_loop(loop)
+                
+                return loop.run_until_complete(self.process_paper(paper))
+            except Exception as e:
+                print(f"\n⚠️  Error processing {doi}: {e}")
+                import traceback
+                traceback.print_exc()
+                return None
+        
+        # Simple sequential processing with progress bar
         progress = tqdm(total=len(meta_rows), desc="Extracting theories")
         processed_count = 0
-        if max_workers and max_workers > 1:
-            with ThreadPoolExecutor(max_workers=max_workers) as ex:
-                future_map = {ex.submit(_load_and_process, row): row for row in meta_rows}
-                for fut in as_completed(future_map):
-                    row = future_map[fut]
-                    try:
-                        result = fut.result()
-                    except Exception as e:
-                        print(f"\n⚠️  Error processing {row[0]}: {e}")
-                    else:
-                        results.append(asdict(result))
-                        if results_db:
-                            with self._lock:
-                                self._upsert_paper_result_db(results_db, result)
-                        if result.contains_theory and result.theories:
-                            stats['papers_with_theories'] += 1
-                            stats['total_theories_extracted'] += len(result.theories)
-                        else:
-                            stats['papers_without_theories'] += 1
-                    finally:
-                        progress.update(1)
-                        processed_count += 1
-                        if processed_count % 300 == 0:
-                            self._save_checkpoint(results, stats, output_file)
-        else:
-            for row in meta_rows:
-                try:
-                    result = _load_and_process(row)
-                    results.append(asdict(result))
-                    if results_db:
+        
+        for row in meta_rows:
+            result = _process_one_paper(row)
+            
+            if result:
+                results.append(asdict(result))
+                if results_db and not test:
+                    with self._lock:
                         self._upsert_paper_result_db(results_db, result)
-                    if result.contains_theory and result.theories:
-                        stats['papers_with_theories'] += 1
-                        stats['total_theories_extracted'] += len(result.theories)
-
-                    else:
-                        stats['papers_without_theories'] += 1
-                except Exception as e:
-                    print(f"\n⚠️  Error processing {row[0]}: {e}")
-                finally:
-                    progress.update(1)
-                    processed_count += 1
-                    if processed_count % 300 == 0:
-                        self._save_checkpoint(results, stats, output_file)
+                if result.contains_theory and result.theories:
+                    stats['papers_with_theories'] += 1
+                    stats['total_theories_extracted'] += len(result.theories)
+                else:
+                    stats['papers_without_theories'] += 1
+            
+            progress.update(1)
+            processed_count += 1
+            
+            # Checkpoint every 300 papers
+            if processed_count % 300 == 0:
+                self._save_checkpoint(results, stats, output_file)
+        
         progress.close()
         
         # Finalize token usage and estimated cost
@@ -693,6 +869,7 @@ Return ONLY valid JSON:"""
         print(f"   Papers processed: {stats['total_papers']}")
         print(f"   Papers with theories: {stats['papers_with_theories']}")
         print(f"   Papers without theories: {stats['papers_without_theories']}")
+        print(f"   Papers invalid after preprocessing: {stats['papers_invalid_after_preprocessing']}")
         print(f"   Total theories extracted: {stats['total_theories_extracted']}")
         print(f"   Prompt tokens: {stats['prompt_tokens']}")
         print(f"   Completion tokens: {stats['completion_tokens']}")
@@ -748,7 +925,7 @@ def main():
     parser.add_argument(
         '--output',
         type=str,
-        default='theories_per_paper.json',
+        default='theories_per_paper_from_script.json',
         help='Output JSON file'
     )
     parser.add_argument(

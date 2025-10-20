@@ -1,0 +1,1015 @@
+{
+  "metadata": {
+    "stage": "stage3_mechanism_clustering",
+    "approach": "mechanism-based (not embedding-based)",
+    "statistics": {
+      "total_theories": 0,
+      "num_families": 7,
+      "num_parents": 9,
+      "num_children": 9,
+      "theories_without_mechanisms": 1
+    },
+    "taxonomy_summary": {
+      "primary_categories": 3,
+      "pathways": 4,
+      "molecules": 9
+    }
+  },
+  "theories": [
+    {
+      "name": "Hyperfunction theory of aging mediated by mTOR pathway",
+      "key_concepts": [
+        {
+          "concept": "mTOR drives growth and aging",
+          "description": "The mTOR (mechanistic Target of Rapamycin) pathway promotes cellular and organismal growth early in life, but after developmental growth is completed, continued mTOR activity drives aging by causing cellular hyperfunction, loss of homeostasis, and age-related diseases."
+        },
+        {
+          "concept": "Antagonistic pleiotropy of mTOR",
+          "description": "mTOR activity confers early-life advantages such as increased body size, robustness, and reproductive fitness, especially in males, but this comes at the cost of accelerated aging and earlier death, consistent with the evolutionary theory of antagonistic pleiotropy."
+        },
+        {
+          "concept": "Sex differences in mTOR activity explain lifespan differences",
+          "description": "Males have higher mTOR activity (measured by pS6 and p-AKT levels) than females, correlating with larger body size and faster aging, while females have lower mTOR activity and greater sensitivity to rapamycin, explaining their longer lifespan."
+        },
+        {
+          "concept": "Aging as a quasi-program",
+          "description": "Aging is not caused by accumulation of molecular damage but is a quasi-programmed continuation of developmental growth driven by nutrient- and hormone-sensing pathways like mTOR, leading to hyperfunction and age-related pathologies."
+        },
+        {
+          "concept": "Rapamycin as an mTOR inhibitor extends lifespan",
+          "description": "Rapamycin suppresses mTORC1 activity, reduces cellular senescence markers, and extends lifespan and healthspan in multiple species, with females showing higher sensitivity to rapamycin treatment."
+        }
+      ],
+      "description": "",
+      "evidence": "Experimental data showing higher levels of mTOR activity markers (pS6 and p-AKT) in young male mice compared to females; correlation of mTOR activity with body weight and insulin levels; rapamycin administration reducing pS6 levels more effectively in females; citations of prior studies on mTOR's role in aging and lifespan extension by rapamycin; discussion of evolutionary theory and antagonistic pleiotropy.",
+      "confidence_is_theory": "high",
+      "mode": "propose, test, discuss, synthesize",
+      "criteria_reasoning": "Meets all criteria: explains WHY aging occurs at organismal level via mTOR-driven hyperfunction; proposes causal mechanisms; generalizable across species; connects growth and aging; supported by experimental and literature evidence.",
+      "paper_focus": 10,
+      "doi": "10.18632/aging.100528",
+      "pmid": "23443503",
+      "paper_title": "Mechanistic or mammalian target of rapamycin (mTOR) may determine robustness in young male mice at the cost of accelerated aging.",
+      "timestamp": "2025-10-18T16:41:18.327244",
+      "theory_id": "T000039",
+      "enriched_text": "Hyperfunction theory of aging mediated by mTOR pathway. mTOR drives growth and aging: The mTOR (mechanistic Target of Rapamycin) pathway promotes cellular and organismal growth early in life, but after developmental growth is completed, continued mTOR activity drives aging by causing cellular hyperfunction, loss of homeostasis, and age-related diseases. | Antagonistic pleiotropy of mTOR: mTOR activity confers early-life advantages such as increased body size, robustness, and reproductive fitness, especially in males, but this comes at the cost of accelerated aging and earlier death, consistent with the evolutionary theory of antagonistic pleiotropy. | Sex differences in mTOR activity explain lifespan differences: Males have higher mTOR activity (measured by pS6 and p-AKT levels) than females, correlating with larger body size and faster aging, while females have lower mTOR activity and greater sensitivity to rapamycin, explaining their longer lifespan. | Aging as a quasi-program: Aging is not caused by accumulation of molecular damage but is a quasi-programmed continuation of developmental growth driven by nutrient- and hormone-sensing pathways like mTOR, leading to hyperfunction and age-related pathologies. | Rapamycin as an mTOR inhibitor extends lifespan: Rapamycin suppresses mTORC1 activity, reduces cellular senescence markers, and extends lifespan and healthspan in multiple species, with females showing higher sensitivity to rapamycin treatment.",
+      "concept_text": "mTOR drives growth and aging: The mTOR (mechanistic Target of Rapamycin) pathway promotes cellular and organismal growth early in life, but after developmental growth is completed, continued mTOR activity drives aging by causing cellular hyperfunction, loss of homeostasis, and age-related diseases. | Antagonistic pleiotropy of mTOR: mTOR activity confers early-life advantages such as increased body size, robustness, and reproductive fitness, especially in males, but this comes at the cost of accelerated aging and earlier death, consistent with the evolutionary theory of antagonistic pleiotropy. | Sex differences in mTOR activity explain lifespan differences: Males have higher mTOR activity (measured by pS6 and p-AKT levels) than females, correlating with larger body size and faster aging, while females have lower mTOR activity and greater sensitivity to rapamycin, explaining their longer lifespan. | Aging as a quasi-program: Aging is not caused by accumulation of molecular damage but is a quasi-programmed continuation of developmental growth driven by nutrient- and hormone-sensing pathways like mTOR, leading to hyperfunction and age-related pathologies. | Rapamycin as an mTOR inhibitor extends lifespan: Rapamycin suppresses mTORC1 activity, reduces cellular senescence markers, and extends lifespan and healthspan in multiple species, with females showing higher sensitivity to rapamycin treatment.",
+      "is_validated": false,
+      "validation_reason": ""
+    },
+    {
+      "name": "PARP-1 mediated telomere stability and accelerated aging theory",
+      "key_concepts": [
+        {
+          "concept": "Role of oxidative stress in telomere shortening",
+          "description": "Oxidative stress induces DNA damage preferentially at telomeric regions due to the high presence of GGG repeats, which are more susceptible to oxidation. This damage accelerates telomere shortening beyond the normal end-replication problem, leading to cellular senescence and biological aging."
+        },
+        {
+          "concept": "Dual role of PARP-1 in telomere maintenance",
+          "description": "PARP-1 contributes to telomere stability by enhancing DNA repair mechanisms that protect telomeres from oxidative damage, thereby potentially reducing the rate of telomere shortening. Conversely, PARP-1 acts as a coactivator of inflammatory transcription factors NF-\u03baB and AP-1, promoting inflammation and oxidative stress, which can accelerate telomere shortening."
+        },
+        {
+          "concept": "Impact of PARP-1 inhibition under normal and oxidative stress conditions",
+          "description": "Under normal conditions, chronic inhibition of PARP-1 accelerates telomere shortening, likely due to impaired DNA repair. However, under chronic oxidative stress, PARP-1 inhibition reduces telomere shortening, possibly by dampening inflammatory responses and oxidative damage."
+        },
+        {
+          "concept": "Subtelomeric DNA methylation and telomere stability",
+          "description": "Epigenetic regulation via methylation of subtelomeric regions influences telomere stability. Increased subtelomeric methylation correlates with shorter telomeres, suggesting that epigenetic changes modulate telomere dynamics and biological aging."
+        }
+      ],
+      "description": "",
+      "evidence": "Experimental data from human fibroblast cultures exposed to chronic oxidative stress (t-BHP) and treated with PARP-1 inhibitors (fisetin and minocycline) showed differential effects on telomere length and subtelomeric methylation. Immunohistochemical staining confirmed PARP-1 inhibition. Telomere length was measured by qPCR, and methylation status by methylation-specific PCR. Correlations between methylation and telomere length were statistically significant.",
+      "confidence_is_theory": "high",
+      "mode": "propose, test, discuss",
+      "criteria_reasoning": "The theory attempts to explain how biological aging occurs at the organismal level through mechanisms involving oxidative stress, DNA repair, inflammation, and epigenetic regulation of telomeres. It proposes causal mechanisms linking PARP-1 activity to telomere dynamics and aging, addressing general aging processes rather than a narrow phenomenon. Thus, it meets all core criteria for an aging theory.",
+      "paper_focus": 10,
+      "doi": "10.1155/2013/680414",
+      "pmid": "24319532",
+      "paper_title": "Accelerated aging during chronic oxidative stress: a role for PARP-1.",
+      "timestamp": "2025-10-18T16:20:02.724255",
+      "theory_id": "T000054",
+      "enriched_text": "PARP-1 mediated telomere stability and accelerated aging theory. Role of oxidative stress in telomere shortening: Oxidative stress induces DNA damage preferentially at telomeric regions due to the high presence of GGG repeats, which are more susceptible to oxidation. This damage accelerates telomere shortening beyond the normal end-replication problem, leading to cellular senescence and biological aging. | Dual role of PARP-1 in telomere maintenance: PARP-1 contributes to telomere stability by enhancing DNA repair mechanisms that protect telomeres from oxidative damage, thereby potentially reducing the rate of telomere shortening. Conversely, PARP-1 acts as a coactivator of inflammatory transcription factors NF-\u03baB and AP-1, promoting inflammation and oxidative stress, which can accelerate telomere shortening. | Impact of PARP-1 inhibition under normal and oxidative stress conditions: Under normal conditions, chronic inhibition of PARP-1 accelerates telomere shortening, likely due to impaired DNA repair. However, under chronic oxidative stress, PARP-1 inhibition reduces telomere shortening, possibly by dampening inflammatory responses and oxidative damage. | Subtelomeric DNA methylation and telomere stability: Epigenetic regulation via methylation of subtelomeric regions influences telomere stability. Increased subtelomeric methylation correlates with shorter telomeres, suggesting that epigenetic changes modulate telomere dynamics and biological aging.",
+      "concept_text": "Role of oxidative stress in telomere shortening: Oxidative stress induces DNA damage preferentially at telomeric regions due to the high presence of GGG repeats, which are more susceptible to oxidation. This damage accelerates telomere shortening beyond the normal end-replication problem, leading to cellular senescence and biological aging. | Dual role of PARP-1 in telomere maintenance: PARP-1 contributes to telomere stability by enhancing DNA repair mechanisms that protect telomeres from oxidative damage, thereby potentially reducing the rate of telomere shortening. Conversely, PARP-1 acts as a coactivator of inflammatory transcription factors NF-\u03baB and AP-1, promoting inflammation and oxidative stress, which can accelerate telomere shortening. | Impact of PARP-1 inhibition under normal and oxidative stress conditions: Under normal conditions, chronic inhibition of PARP-1 accelerates telomere shortening, likely due to impaired DNA repair. However, under chronic oxidative stress, PARP-1 inhibition reduces telomere shortening, possibly by dampening inflammatory responses and oxidative damage. | Subtelomeric DNA methylation and telomere stability: Epigenetic regulation via methylation of subtelomeric regions influences telomere stability. Increased subtelomeric methylation correlates with shorter telomeres, suggesting that epigenetic changes modulate telomere dynamics and biological aging.",
+      "is_validated": false,
+      "validation_reason": ""
+    },
+    {
+      "name": "Mitochondrial optimization theory of human longevity and intelligence evolution",
+      "key_concepts": [
+        {
+          "concept": "Fixation of human disease-associated mitochondrial mutations (FDDAMs) in nonhuman primates",
+          "description": "Certain mitochondrial DNA mutations associated with human diseases, especially late-onset diseases, are fixed in nonhuman primates but often rendered phenotypically inert by secondary compensatory changes."
+        },
+        {
+          "concept": "Gradual optimization of mitochondria in hominid lineage",
+          "description": "The human mitochondrion may have undergone adaptive evolutionary changes to optimize aerobic energy metabolism, particularly to meet the high energy demands of the large human brain and to delay neurodegeneration."
+        },
+        {
+          "concept": "Selection on longevity through mitochondrial evolution",
+          "description": "Some disease-associated mitochondrial sequences in nonhuman primates may reflect evolutionary pressures linked to the development of human longevity, suggesting a general pattern of selection on lifespan mediated by mitochondrial function."
+        },
+        {
+          "concept": "Role of compensatory mutations",
+          "description": "Secondary compensatory mutations in mitochondrial tRNAs and proteins can suppress deleterious effects of pathogenic mutations, explaining why some disease-associated mutations are fixed in other primates without causing pathology."
+        },
+        {
+          "concept": "Antagonistic pleiotropy and late-acting harmful mutations",
+          "description": "Some mitochondrial mutations may have beneficial effects early in life but deleterious effects later, consistent with antagonistic pleiotropy theory, contributing to late-onset diseases and aging phenotypes."
+        }
+      ],
+      "description": "",
+      "evidence": "Comparative mitochondrial DNA sequence analysis across 12 nonhuman primates identifying 46 FDDAMs; phylogenetic analyses; literature citations on mitochondrial diseases, aging, and evolutionary biology; statistical tests showing selection against disease-associated variants in nonhuman primates; examples of compensatory mutations; references to experimental data on mitochondrial DNA polymerase defects causing accelerated aging in mice.",
+      "confidence_is_theory": "high",
+      "mode": "propose, discuss, review, synthesize",
+      "criteria_reasoning": "The theory attempts to explain why and how biological aging occurs at the organismal level by linking mitochondrial genetic changes to the evolution of longevity and neurodegeneration delay in humans. It proposes causal mechanisms involving mitochondrial optimization and compensatory mutations, addresses aging broadly (not limited to a single organ or disease), and integrates evolutionary logic. Thus, it meets all core requirements of an aging theory.",
+      "paper_focus": 9,
+      "doi": "10.1007/s00239-004-0258-6",
+      "pmid": "16132471",
+      "paper_title": "Human disease-associated mitochondrial mutations fixed in nonhuman primates.",
+      "timestamp": "2025-10-18T14:57:10.093013",
+      "theory_id": "T000005",
+      "enriched_text": "Mitochondrial optimization theory of human longevity and intelligence evolution. Fixation of human disease-associated mitochondrial mutations (FDDAMs) in nonhuman primates: Certain mitochondrial DNA mutations associated with human diseases, especially late-onset diseases, are fixed in nonhuman primates but often rendered phenotypically inert by secondary compensatory changes. | Gradual optimization of mitochondria in hominid lineage: The human mitochondrion may have undergone adaptive evolutionary changes to optimize aerobic energy metabolism, particularly to meet the high energy demands of the large human brain and to delay neurodegeneration. | Selection on longevity through mitochondrial evolution: Some disease-associated mitochondrial sequences in nonhuman primates may reflect evolutionary pressures linked to the development of human longevity, suggesting a general pattern of selection on lifespan mediated by mitochondrial function. | Role of compensatory mutations: Secondary compensatory mutations in mitochondrial tRNAs and proteins can suppress deleterious effects of pathogenic mutations, explaining why some disease-associated mutations are fixed in other primates without causing pathology. | Antagonistic pleiotropy and late-acting harmful mutations: Some mitochondrial mutations may have beneficial effects early in life but deleterious effects later, consistent with antagonistic pleiotropy theory, contributing to late-onset diseases and aging phenotypes.",
+      "concept_text": "Fixation of human disease-associated mitochondrial mutations (FDDAMs) in nonhuman primates: Certain mitochondrial DNA mutations associated with human diseases, especially late-onset diseases, are fixed in nonhuman primates but often rendered phenotypically inert by secondary compensatory changes. | Gradual optimization of mitochondria in hominid lineage: The human mitochondrion may have undergone adaptive evolutionary changes to optimize aerobic energy metabolism, particularly to meet the high energy demands of the large human brain and to delay neurodegeneration. | Selection on longevity through mitochondrial evolution: Some disease-associated mitochondrial sequences in nonhuman primates may reflect evolutionary pressures linked to the development of human longevity, suggesting a general pattern of selection on lifespan mediated by mitochondrial function. | Role of compensatory mutations: Secondary compensatory mutations in mitochondrial tRNAs and proteins can suppress deleterious effects of pathogenic mutations, explaining why some disease-associated mutations are fixed in other primates without causing pathology. | Antagonistic pleiotropy and late-acting harmful mutations: Some mitochondrial mutations may have beneficial effects early in life but deleterious effects later, consistent with antagonistic pleiotropy theory, contributing to late-onset diseases and aging phenotypes.",
+      "is_validated": false,
+      "validation_reason": ""
+    },
+    {
+      "name": "Evolutionary Plant Senescence Syndrome Theory",
+      "key_concepts": [
+        {
+          "concept": "Ancient Core Senescence Process",
+          "description": "Senescence in modern land plants originates from an ancient core process traceable to unicellular photoautotrophs, involving fundamental biochemical and cellular mechanisms such as chlorophyll catabolism."
+        },
+        {
+          "concept": "Progressive Addition of Regulatory and Adaptive Systems",
+          "description": "Over evolutionary time, biochemical, cellular, integrative, and adaptive systems were progressively added to the core senescence process as plants adapted to new environmental and developmental contexts, including terrestrial life."
+        },
+        {
+          "concept": "Integration with Development and Adaptation",
+          "description": "Senescence became integrated with plant development and adaptation through the evolution of regulatory genes such as homeoprotein transcription factors and pigment metabolism pathways, linking senescence to morphogenesis and ecological interactions."
+        },
+        {
+          "concept": "Pigment Metabolism as a Senescence Marker",
+          "description": "The metabolism and catabolism of photosynthetic pigments (chlorophyll, carotenoids, anthocyanins) are central to the senescence syndrome, reflecting both ancient and more recent evolutionary innovations."
+        },
+        {
+          "concept": "Nutrient Remobilization and Source-Sink Differentiation",
+          "description": "Senescence involves nutrient salvage and redistribution, requiring structural differentiation into source and sink tissues, supported by evolved transporters and regulatory factors."
+        }
+      ],
+      "description": "",
+      "evidence": "Phylogenetic analyses of senescence-related genes across plant and microbial taxa; gene expression profiling in Arabidopsis; comparative sequence and protein structure analyses; evolutionary timelines inferred from taxonomic distribution; coexpression clustering of senescence genes.",
+      "confidence_is_theory": "high",
+      "mode": "review, synthesize",
+      "criteria_reasoning": "The theory explains WHY and HOW plant senescence occurs as a fundamental biological process with evolutionary origins and progressive elaborations, proposes causal mechanisms involving gene functions and regulatory networks, and addresses senescence broadly at the organismal and evolutionary scale, thus meeting all core criteria for an aging theory.",
+      "paper_focus": 10,
+      "doi": "10.1186/1471-2148-9-163",
+      "pmid": "19602260",
+      "paper_title": "Evolution of plant senescence.",
+      "timestamp": "2025-10-18T16:40:05.696485",
+      "theory_id": "T000042",
+      "enriched_text": "Evolutionary Plant Senescence Syndrome Theory. Ancient Core Senescence Process: Senescence in modern land plants originates from an ancient core process traceable to unicellular photoautotrophs, involving fundamental biochemical and cellular mechanisms such as chlorophyll catabolism. | Progressive Addition of Regulatory and Adaptive Systems: Over evolutionary time, biochemical, cellular, integrative, and adaptive systems were progressively added to the core senescence process as plants adapted to new environmental and developmental contexts, including terrestrial life. | Integration with Development and Adaptation: Senescence became integrated with plant development and adaptation through the evolution of regulatory genes such as homeoprotein transcription factors and pigment metabolism pathways, linking senescence to morphogenesis and ecological interactions. | Pigment Metabolism as a Senescence Marker: The metabolism and catabolism of photosynthetic pigments (chlorophyll, carotenoids, anthocyanins) are central to the senescence syndrome, reflecting both ancient and more recent evolutionary innovations. | Nutrient Remobilization and Source-Sink Differentiation: Senescence involves nutrient salvage and redistribution, requiring structural differentiation into source and sink tissues, supported by evolved transporters and regulatory factors.",
+      "concept_text": "Ancient Core Senescence Process: Senescence in modern land plants originates from an ancient core process traceable to unicellular photoautotrophs, involving fundamental biochemical and cellular mechanisms such as chlorophyll catabolism. | Progressive Addition of Regulatory and Adaptive Systems: Over evolutionary time, biochemical, cellular, integrative, and adaptive systems were progressively added to the core senescence process as plants adapted to new environmental and developmental contexts, including terrestrial life. | Integration with Development and Adaptation: Senescence became integrated with plant development and adaptation through the evolution of regulatory genes such as homeoprotein transcription factors and pigment metabolism pathways, linking senescence to morphogenesis and ecological interactions. | Pigment Metabolism as a Senescence Marker: The metabolism and catabolism of photosynthetic pigments (chlorophyll, carotenoids, anthocyanins) are central to the senescence syndrome, reflecting both ancient and more recent evolutionary innovations. | Nutrient Remobilization and Source-Sink Differentiation: Senescence involves nutrient salvage and redistribution, requiring structural differentiation into source and sink tissues, supported by evolved transporters and regulatory factors.",
+      "is_validated": false,
+      "validation_reason": ""
+    },
+    {
+      "name": "Systemic Inflammation Theory of Cardiac Aging",
+      "key_concepts": [
+        {
+          "concept": "Chronic low-grade inflammation as driver of aging",
+          "description": "Aging is associated with increased systemic levels of inflammatory cytokines (e.g., IL-6, TNF-\u03b1, CRP) even without overt disease, which contribute causally to structural and functional cardiac changes such as fibrosis, hypertrophy, and endothelial dysfunction."
+        },
+        {
+          "concept": "Inflammation-induced oxidative stress and mitochondrial damage",
+          "description": "Inflammatory processes promote reactive oxygen species (ROS) production and mitochondrial dysfunction, accelerating cellular senescence and tissue aging."
+        },
+        {
+          "concept": "Inflammation links cardiovascular risk factors and aging phenotype",
+          "description": "Systemic inflammation mediates the progression of hypertension, atherosclerosis, and other cardiovascular diseases common in aging, thus contributing to the cardiac aging phenotype."
+        }
+      ],
+      "description": "",
+      "evidence": "The paper cites studies showing elevated inflammatory markers in elderly populations, associations between IL-6 and cardiovascular mortality, and experimental data linking inflammation to cardiac remodeling and dysfunction.",
+      "confidence_is_theory": "high",
+      "mode": "review, discuss",
+      "criteria_reasoning": "This theory meets the criteria as it provides a generalizable, causal explanation for aging-related cardiac decline through systemic inflammation mechanisms, addressing broad aging processes beyond specific diseases.",
+      "paper_focus": 7,
+      "doi": "10.21037/jtd.2017.03.95",
+      "pmid": "28446965",
+      "paper_title": "Role of circulating factors in cardiac aging.",
+      "timestamp": "2025-10-18T15:44:52.364000",
+      "theory_id": "T000048",
+      "enriched_text": "Systemic Inflammation Theory of Cardiac Aging. Chronic low-grade inflammation as driver of aging: Aging is associated with increased systemic levels of inflammatory cytokines (e.g., IL-6, TNF-\u03b1, CRP) even without overt disease, which contribute causally to structural and functional cardiac changes such as fibrosis, hypertrophy, and endothelial dysfunction. | Inflammation-induced oxidative stress and mitochondrial damage: Inflammatory processes promote reactive oxygen species (ROS) production and mitochondrial dysfunction, accelerating cellular senescence and tissue aging. | Inflammation links cardiovascular risk factors and aging phenotype: Systemic inflammation mediates the progression of hypertension, atherosclerosis, and other cardiovascular diseases common in aging, thus contributing to the cardiac aging phenotype.",
+      "concept_text": "Chronic low-grade inflammation as driver of aging: Aging is associated with increased systemic levels of inflammatory cytokines (e.g., IL-6, TNF-\u03b1, CRP) even without overt disease, which contribute causally to structural and functional cardiac changes such as fibrosis, hypertrophy, and endothelial dysfunction. | Inflammation-induced oxidative stress and mitochondrial damage: Inflammatory processes promote reactive oxygen species (ROS) production and mitochondrial dysfunction, accelerating cellular senescence and tissue aging. | Inflammation links cardiovascular risk factors and aging phenotype: Systemic inflammation mediates the progression of hypertension, atherosclerosis, and other cardiovascular diseases common in aging, thus contributing to the cardiac aging phenotype.",
+      "is_validated": false,
+      "validation_reason": ""
+    },
+    {
+      "name": "Nrf2/sMAF Signalling as a Causal Mechanism of Biological Aging via Oxidative Stress Regulation",
+      "key_concepts": [
+        {
+          "concept": "Oxidative Stress and Aging",
+          "description": "Aging is driven in part by the accumulation of reactive oxygen species (ROS) produced mainly in mitochondria, causing oxidative damage to cells and tissues. This oxidative stress contributes broadly to biological aging and age-related diseases."
+        },
+        {
+          "concept": "Nrf2 as Master Regulator of Antioxidant Response",
+          "description": "Nrf2 is a transcription factor that regulates the expression of a broad set of antioxidative and detoxification genes. Under normal conditions, Nrf2 is degraded via the Keap1/CUL3 ubiquitin-proteasome pathway, but under oxidative stress, Nrf2 stabilizes, translocates to the nucleus, and activates antioxidant gene expression."
+        },
+        {
+          "concept": "sMAF Proteins as Essential Cofactors",
+          "description": "Small MAF proteins (sMAFs) heterodimerize with Nrf2 to bind Maf-recognition elements (MAREs) in DNA, enabling transcriptional activation of antioxidant genes. sMAFs also act as repressors when homodimerized, modulating the pathway."
+        },
+        {
+          "concept": "Nrf2/sMAF Dysregulation in Aging and Disease",
+          "description": "With aging, Nrf2 expression and activity decline, leading to impaired antioxidant defenses, mitochondrial dysfunction, ER stress, and increased oxidative damage. This dysregulation contributes causally to retinal aging and age-related diseases such as AMD, diabetic retinopathy, neurodegenerative diseases, and cancer."
+        },
+        {
+          "concept": "Therapeutic Targeting of Nrf2 Pathway",
+          "description": "Modulating Nrf2 activity, either activating it to enhance antioxidant defenses or inhibiting it in cancer contexts, represents a promising intervention strategy to alter the course of aging and age-related diseases, demonstrating the causal role of this pathway in aging."
+        }
+      ],
+      "description": "",
+      "evidence": "The paper reviews extensive literature including molecular mechanisms of Nrf2 regulation, expression patterns in retinal and other tissues, changes in aging and disease states, and experimental data showing that modulating Nrf2 affects cell survival and disease progression. It cites studies on mitochondrial dysfunction, ER stress, retinal degeneration, neurodegeneration, and cancer linked to Nrf2 activity.",
+      "confidence_is_theory": "high",
+      "mode": "review, discuss, synthesize",
+      "criteria_reasoning": "The Nrf2/sMAF signalling pathway is presented as a fundamental, generalizable biological mechanism explaining how oxidative stress contributes causally to aging at the organismal level. It proposes underlying molecular mechanisms and evolutionary logic (redox homeostasis). The scope covers systemic aging processes and multiple age-related diseases, not limited to a single organ or disease. Thus, it meets all core criteria for an aging theory.",
+      "paper_focus": 9,
+      "doi": "10.3390/biomedicines11061512",
+      "pmid": "37371607",
+      "paper_title": "The Role of Nrf2/sMAF Signalling in Retina Ageing and Retinal Diseases.",
+      "timestamp": "2025-10-18T15:05:20.659979",
+      "theory_id": "T000027",
+      "enriched_text": "Nrf2/sMAF Signalling as a Causal Mechanism of Biological Aging via Oxidative Stress Regulation. Oxidative Stress and Aging: Aging is driven in part by the accumulation of reactive oxygen species (ROS) produced mainly in mitochondria, causing oxidative damage to cells and tissues. This oxidative stress contributes broadly to biological aging and age-related diseases. | Nrf2 as Master Regulator of Antioxidant Response: Nrf2 is a transcription factor that regulates the expression of a broad set of antioxidative and detoxification genes. Under normal conditions, Nrf2 is degraded via the Keap1/CUL3 ubiquitin-proteasome pathway, but under oxidative stress, Nrf2 stabilizes, translocates to the nucleus, and activates antioxidant gene expression. | sMAF Proteins as Essential Cofactors: Small MAF proteins (sMAFs) heterodimerize with Nrf2 to bind Maf-recognition elements (MAREs) in DNA, enabling transcriptional activation of antioxidant genes. sMAFs also act as repressors when homodimerized, modulating the pathway. | Nrf2/sMAF Dysregulation in Aging and Disease: With aging, Nrf2 expression and activity decline, leading to impaired antioxidant defenses, mitochondrial dysfunction, ER stress, and increased oxidative damage. This dysregulation contributes causally to retinal aging and age-related diseases such as AMD, diabetic retinopathy, neurodegenerative diseases, and cancer. | Therapeutic Targeting of Nrf2 Pathway: Modulating Nrf2 activity, either activating it to enhance antioxidant defenses or inhibiting it in cancer contexts, represents a promising intervention strategy to alter the course of aging and age-related diseases, demonstrating the causal role of this pathway in aging.",
+      "concept_text": "Oxidative Stress and Aging: Aging is driven in part by the accumulation of reactive oxygen species (ROS) produced mainly in mitochondria, causing oxidative damage to cells and tissues. This oxidative stress contributes broadly to biological aging and age-related diseases. | Nrf2 as Master Regulator of Antioxidant Response: Nrf2 is a transcription factor that regulates the expression of a broad set of antioxidative and detoxification genes. Under normal conditions, Nrf2 is degraded via the Keap1/CUL3 ubiquitin-proteasome pathway, but under oxidative stress, Nrf2 stabilizes, translocates to the nucleus, and activates antioxidant gene expression. | sMAF Proteins as Essential Cofactors: Small MAF proteins (sMAFs) heterodimerize with Nrf2 to bind Maf-recognition elements (MAREs) in DNA, enabling transcriptional activation of antioxidant genes. sMAFs also act as repressors when homodimerized, modulating the pathway. | Nrf2/sMAF Dysregulation in Aging and Disease: With aging, Nrf2 expression and activity decline, leading to impaired antioxidant defenses, mitochondrial dysfunction, ER stress, and increased oxidative damage. This dysregulation contributes causally to retinal aging and age-related diseases such as AMD, diabetic retinopathy, neurodegenerative diseases, and cancer. | Therapeutic Targeting of Nrf2 Pathway: Modulating Nrf2 activity, either activating it to enhance antioxidant defenses or inhibiting it in cancer contexts, represents a promising intervention strategy to alter the course of aging and age-related diseases, demonstrating the causal role of this pathway in aging.",
+      "is_validated": false,
+      "validation_reason": ""
+    },
+    {
+      "name": "Cellular senescence and SASP as drivers of systemic aging",
+      "key_concepts": [
+        {
+          "concept": "Cellular senescence as a state of permanent cell cycle arrest",
+          "description": "Cells enter senescence in response to stress or damage, ceasing proliferation but remaining metabolically active."
+        },
+        {
+          "concept": "Senescence-associated secretory phenotype (SASP)",
+          "description": "Senescent cells secrete pro-inflammatory cytokines, chemokines, growth factors, and proteases that alter tissue microenvironment and promote chronic inflammation."
+        },
+        {
+          "concept": "SASP contributes to inflammaging and age-related tissue dysfunction",
+          "description": "Accumulation of senescent cells and their SASP factors drive chronic inflammation, impair tissue repair, and promote age-related diseases."
+        },
+        {
+          "concept": "NF-\u03baB signaling as a central regulator of SASP",
+          "description": "NF-\u03baB activation is a major pathway stimulating SASP factor production, and TLR ligands are potent activators of NF-\u03baB."
+        },
+        {
+          "concept": "Interconnection between TLR signaling and SASP",
+          "description": "Dysfunction of TLR signaling and chronic activation by endogenous ligands may promote SASP acquisition and sustain inflammaging."
+        }
+      ],
+      "description": "",
+      "evidence": "The paper reviews studies showing senescent cells in various tissues secrete SASP factors, NF-\u03baB activation drives SASP, and TLR ligands activate NF-\u03baB. It also presents data linking miRNA regulation of TLR signaling with senescence and SASP.",
+      "confidence_is_theory": "high",
+      "mode": "review, discuss, synthesize",
+      "criteria_reasoning": "This theory proposes a causal mechanism for aging via accumulation of senescent cells and their pro-inflammatory secretome, linking molecular pathways (NF-\u03baB, TLRs) to systemic aging. It is generalizable and addresses organism-level aging processes.",
+      "paper_focus": 9,
+      "doi": "10.1186/1742-4933-10-11",
+      "pmid": "23506673",
+      "paper_title": "Toll like receptor signaling in \"inflammaging\": microRNA as new players.",
+      "timestamp": "2025-10-18T16:03:11.836467",
+      "theory_id": "T000008",
+      "enriched_text": "Cellular senescence and SASP as drivers of systemic aging. Cellular senescence as a state of permanent cell cycle arrest: Cells enter senescence in response to stress or damage, ceasing proliferation but remaining metabolically active. | Senescence-associated secretory phenotype (SASP): Senescent cells secrete pro-inflammatory cytokines, chemokines, growth factors, and proteases that alter tissue microenvironment and promote chronic inflammation. | SASP contributes to inflammaging and age-related tissue dysfunction: Accumulation of senescent cells and their SASP factors drive chronic inflammation, impair tissue repair, and promote age-related diseases. | NF-\u03baB signaling as a central regulator of SASP: NF-\u03baB activation is a major pathway stimulating SASP factor production, and TLR ligands are potent activators of NF-\u03baB. | Interconnection between TLR signaling and SASP: Dysfunction of TLR signaling and chronic activation by endogenous ligands may promote SASP acquisition and sustain inflammaging.",
+      "concept_text": "Cellular senescence as a state of permanent cell cycle arrest: Cells enter senescence in response to stress or damage, ceasing proliferation but remaining metabolically active. | Senescence-associated secretory phenotype (SASP): Senescent cells secrete pro-inflammatory cytokines, chemokines, growth factors, and proteases that alter tissue microenvironment and promote chronic inflammation. | SASP contributes to inflammaging and age-related tissue dysfunction: Accumulation of senescent cells and their SASP factors drive chronic inflammation, impair tissue repair, and promote age-related diseases. | NF-\u03baB signaling as a central regulator of SASP: NF-\u03baB activation is a major pathway stimulating SASP factor production, and TLR ligands are potent activators of NF-\u03baB. | Interconnection between TLR signaling and SASP: Dysfunction of TLR signaling and chronic activation by endogenous ligands may promote SASP acquisition and sustain inflammaging.",
+      "is_validated": false,
+      "validation_reason": ""
+    },
+    {
+      "name": "Autophagy Induction as a Core Longevity Assurance Mechanism",
+      "key_concepts": [
+        {
+          "concept": "Autophagy as an anti-aging process",
+          "description": "Autophagy is an evolutionarily conserved cellular recycling pathway that maintains homeostasis by degrading damaged proteins and organelles. Its induction is linked to prevention, delay, and reduction in severity of multiple age-related diseases, including neurodegeneration, diabetes, and cancer."
+        },
+        {
+          "concept": "mTOR as a central regulator inhibiting autophagy",
+          "description": "The mechanistic target of rapamycin (mTOR), particularly mTORC1 complex, acts as a key inhibitor of autophagy. Inhibition of mTOR leads to autophagy induction, which is associated with longevity and anti-aging effects."
+        },
+        {
+          "concept": "Multiple longevity pathways converge on autophagy regulation",
+          "description": "Pathways such as AMPK, SIRT1, FOXO1, and others modulate autophagy, and their activation or inhibition affects aging processes. Autophagy is thus a core downstream mechanism through which these longevity pathways exert effects."
+        },
+        {
+          "concept": "Synergistic multi-compound/multi-target effects of traditional medicinal plants",
+          "description": "Traditional Persian medicinal plants contain multiple phytochemicals that can induce autophagy via different upstream pathways, potentially acting synergistically to promote anti-aging effects."
+        },
+        {
+          "concept": "Systems pharmacology and network biology approach",
+          "description": "Using gene set enrichment, protein-protein interaction networks, and chemoinformatics, the study identifies mTOR as a network hub targeted by phytochemicals, supporting the mechanistic basis of autophagy induction by these plants."
+        }
+      ],
+      "description": "",
+      "evidence": "Literature review linking phytochemicals from TPM plants to autophagy induction; gene set enrichment analysis showing targets enriched in autophagy and longevity pathways; PPI network analysis identifying mTOR as a key hub; molecular docking and molecular dynamics simulations demonstrating potential mTOR inhibition by phytochemicals such as cyclo-trijuglone; comparison with known mTOR inhibitor Torin2.",
+      "confidence_is_theory": "high",
+      "mode": "propose, discuss, synthesize",
+      "criteria_reasoning": "Meets all criteria: It proposes a generalizable causal mechanism for aging (autophagy regulation), addresses aging broadly through conserved pathways, and provides mechanistic explanations involving mTOR and other longevity regulators. The theory is not limited to a single organ or disease but relates to systemic aging processes.",
+      "paper_focus": 10,
+      "doi": "10.1038/s41598-020-79472-y",
+      "pmid": "33431946",
+      "paper_title": "A systems pharmacology approach to identify the autophagy-inducing effects of Traditional Persian medicinal plants.",
+      "timestamp": "2025-10-18T15:06:02.113023",
+      "theory_id": "T000059",
+      "enriched_text": "Autophagy Induction as a Core Longevity Assurance Mechanism. Autophagy as an anti-aging process: Autophagy is an evolutionarily conserved cellular recycling pathway that maintains homeostasis by degrading damaged proteins and organelles. Its induction is linked to prevention, delay, and reduction in severity of multiple age-related diseases, including neurodegeneration, diabetes, and cancer. | mTOR as a central regulator inhibiting autophagy: The mechanistic target of rapamycin (mTOR), particularly mTORC1 complex, acts as a key inhibitor of autophagy. Inhibition of mTOR leads to autophagy induction, which is associated with longevity and anti-aging effects. | Multiple longevity pathways converge on autophagy regulation: Pathways such as AMPK, SIRT1, FOXO1, and others modulate autophagy, and their activation or inhibition affects aging processes. Autophagy is thus a core downstream mechanism through which these longevity pathways exert effects. | Synergistic multi-compound/multi-target effects of traditional medicinal plants: Traditional Persian medicinal plants contain multiple phytochemicals that can induce autophagy via different upstream pathways, potentially acting synergistically to promote anti-aging effects. | Systems pharmacology and network biology approach: Using gene set enrichment, protein-protein interaction networks, and chemoinformatics, the study identifies mTOR as a network hub targeted by phytochemicals, supporting the mechanistic basis of autophagy induction by these plants.",
+      "concept_text": "Autophagy as an anti-aging process: Autophagy is an evolutionarily conserved cellular recycling pathway that maintains homeostasis by degrading damaged proteins and organelles. Its induction is linked to prevention, delay, and reduction in severity of multiple age-related diseases, including neurodegeneration, diabetes, and cancer. | mTOR as a central regulator inhibiting autophagy: The mechanistic target of rapamycin (mTOR), particularly mTORC1 complex, acts as a key inhibitor of autophagy. Inhibition of mTOR leads to autophagy induction, which is associated with longevity and anti-aging effects. | Multiple longevity pathways converge on autophagy regulation: Pathways such as AMPK, SIRT1, FOXO1, and others modulate autophagy, and their activation or inhibition affects aging processes. Autophagy is thus a core downstream mechanism through which these longevity pathways exert effects. | Synergistic multi-compound/multi-target effects of traditional medicinal plants: Traditional Persian medicinal plants contain multiple phytochemicals that can induce autophagy via different upstream pathways, potentially acting synergistically to promote anti-aging effects. | Systems pharmacology and network biology approach: Using gene set enrichment, protein-protein interaction networks, and chemoinformatics, the study identifies mTOR as a network hub targeted by phytochemicals, supporting the mechanistic basis of autophagy induction by these plants.",
+      "is_validated": false,
+      "validation_reason": ""
+    },
+    {
+      "name": "BRCA-related ATM-mediated DNA double-strand break repair theory of ovarian aging",
+      "key_concepts": [
+        {
+          "concept": "DNA double-strand breaks (DSBs) accumulate with age in oocytes",
+          "description": "Oocytes accumulate DNA DSBs over time due to endogenous and exogenous insults. These breaks are highly deleterious and require efficient repair to maintain oocyte viability and quality."
+        },
+        {
+          "concept": "ATM-mediated homologous recombination (HR) repair pathway is critical for DNA DSB repair in oocytes",
+          "description": "The ATM kinase orchestrates the HR repair pathway, which uses an intact homologous chromosome to accurately repair DNA DSBs. This pathway is considered the dominant and error-free repair mechanism in oocytes, which are arrested in meiotic prophase."
+        },
+        {
+          "concept": "BRCA1 and BRCA2 genes play essential roles in ATM-mediated DNA DSB repair",
+          "description": "BRCA1 is involved in damage sensing, checkpoint activation, and HR repair, while BRCA2 mainly facilitates HR repair by mediating RAD51 loading. Dysfunction or mutations in these genes impair DNA repair capacity."
+        },
+        {
+          "concept": "Age-related decline in expression and function of BRCA1 and other ATM pathway members leads to impaired DNA repair",
+          "description": "With advancing age, expression of BRCA1, ATM, MRE11, RAD51, and other repair genes declines in oocytes, resulting in accumulation of unrepaired DNA damage, increased apoptosis, and loss of primordial follicles."
+        },
+        {
+          "concept": "BRCA1 mutations cause accelerated ovarian aging and reduced ovarian reserve",
+          "description": "Women with BRCA1 mutations and BRCA1-mutant mice show reduced primordial follicle numbers, increased DNA damage accumulation, lower ovarian response to stimulation, and earlier menopause, indicating accelerated ovarian aging."
+        },
+        {
+          "concept": "DNA damage repair capacity influences chemotherapy-induced ovarian aging",
+          "description": "Chemotherapy induces DNA DSBs in oocytes; follicles with efficient ATM-mediated repair survive, while those with irreparable damage undergo apoptosis. Declining repair capacity with age exacerbates follicle loss after chemotherapy."
+        },
+        {
+          "concept": "Impaired DNA repair affects oocyte quality via meiotic dysfunction and chromosomal abnormalities",
+          "description": "Declining ATM-mediated repair and BRCA function contribute to defective meiotic spindle assembly, reduced chiasmata, weakened sister chromatid cohesion, increased aneuploidy, and telomere shortening in aging oocytes."
+        }
+      ],
+      "description": "",
+      "evidence": "The paper reviews laboratory studies showing age-related decline in DNA repair gene expression and increased DNA damage in oocytes; transgenic mouse models with BRCA1 mutations showing reduced follicle numbers and fertility; gene knockdown experiments increasing oocyte sensitivity to genotoxic stress; clinical data linking BRCA1 mutations to lower ovarian reserve, earlier menopause, and reduced oocyte yield; and GWAS identifying DNA repair genes as determinants of menopausal age.",
+      "confidence_is_theory": "high",
+      "mode": "review, discuss, synthesize",
+      "criteria_reasoning": "The theory proposes a generalizable, causal mechanism explaining ovarian aging as a fundamental biological aging process via declining DNA repair capacity mediated by BRCA-related ATM pathways. It addresses systemic aging of oocytes, not limited to a narrow phenomenon, and integrates molecular, cellular, organismal, and clinical evidence.",
+      "paper_focus": 10,
+      "doi": "10.1093/humupd/dmz043",
+      "pmid": "31822904",
+      "paper_title": "BRCA-related ATM-mediated DNA double-strand break repair and ovarian aging.",
+      "timestamp": "2025-10-18T15:23:16.234257",
+      "theory_id": "T000038",
+      "enriched_text": "BRCA-related ATM-mediated DNA double-strand break repair theory of ovarian aging. DNA double-strand breaks (DSBs) accumulate with age in oocytes: Oocytes accumulate DNA DSBs over time due to endogenous and exogenous insults. These breaks are highly deleterious and require efficient repair to maintain oocyte viability and quality. | ATM-mediated homologous recombination (HR) repair pathway is critical for DNA DSB repair in oocytes: The ATM kinase orchestrates the HR repair pathway, which uses an intact homologous chromosome to accurately repair DNA DSBs. This pathway is considered the dominant and error-free repair mechanism in oocytes, which are arrested in meiotic prophase. | BRCA1 and BRCA2 genes play essential roles in ATM-mediated DNA DSB repair: BRCA1 is involved in damage sensing, checkpoint activation, and HR repair, while BRCA2 mainly facilitates HR repair by mediating RAD51 loading. Dysfunction or mutations in these genes impair DNA repair capacity. | Age-related decline in expression and function of BRCA1 and other ATM pathway members leads to impaired DNA repair: With advancing age, expression of BRCA1, ATM, MRE11, RAD51, and other repair genes declines in oocytes, resulting in accumulation of unrepaired DNA damage, increased apoptosis, and loss of primordial follicles. | BRCA1 mutations cause accelerated ovarian aging and reduced ovarian reserve: Women with BRCA1 mutations and BRCA1-mutant mice show reduced primordial follicle numbers, increased DNA damage accumulation, lower ovarian response to stimulation, and earlier menopause, indicating accelerated ovarian aging. | DNA damage repair capacity influences chemotherapy-induced ovarian aging: Chemotherapy induces DNA DSBs in oocytes; follicles with efficient ATM-mediated repair survive, while those with irreparable damage undergo apoptosis. Declining repair capacity with age exacerbates follicle loss after chemotherapy. | Impaired DNA repair affects oocyte quality via meiotic dysfunction and chromosomal abnormalities: Declining ATM-mediated repair and BRCA function contribute to defective meiotic spindle assembly, reduced chiasmata, weakened sister chromatid cohesion, increased aneuploidy, and telomere shortening in aging oocytes.",
+      "concept_text": "DNA double-strand breaks (DSBs) accumulate with age in oocytes: Oocytes accumulate DNA DSBs over time due to endogenous and exogenous insults. These breaks are highly deleterious and require efficient repair to maintain oocyte viability and quality. | ATM-mediated homologous recombination (HR) repair pathway is critical for DNA DSB repair in oocytes: The ATM kinase orchestrates the HR repair pathway, which uses an intact homologous chromosome to accurately repair DNA DSBs. This pathway is considered the dominant and error-free repair mechanism in oocytes, which are arrested in meiotic prophase. | BRCA1 and BRCA2 genes play essential roles in ATM-mediated DNA DSB repair: BRCA1 is involved in damage sensing, checkpoint activation, and HR repair, while BRCA2 mainly facilitates HR repair by mediating RAD51 loading. Dysfunction or mutations in these genes impair DNA repair capacity. | Age-related decline in expression and function of BRCA1 and other ATM pathway members leads to impaired DNA repair: With advancing age, expression of BRCA1, ATM, MRE11, RAD51, and other repair genes declines in oocytes, resulting in accumulation of unrepaired DNA damage, increased apoptosis, and loss of primordial follicles. | BRCA1 mutations cause accelerated ovarian aging and reduced ovarian reserve: Women with BRCA1 mutations and BRCA1-mutant mice show reduced primordial follicle numbers, increased DNA damage accumulation, lower ovarian response to stimulation, and earlier menopause, indicating accelerated ovarian aging. | DNA damage repair capacity influences chemotherapy-induced ovarian aging: Chemotherapy induces DNA DSBs in oocytes; follicles with efficient ATM-mediated repair survive, while those with irreparable damage undergo apoptosis. Declining repair capacity with age exacerbates follicle loss after chemotherapy. | Impaired DNA repair affects oocyte quality via meiotic dysfunction and chromosomal abnormalities: Declining ATM-mediated repair and BRCA function contribute to defective meiotic spindle assembly, reduced chiasmata, weakened sister chromatid cohesion, increased aneuploidy, and telomere shortening in aging oocytes.",
+      "is_validated": false,
+      "validation_reason": ""
+    },
+    {
+      "name": "Aberrant redox signalling and impaired heat shock protein (HSP) mediated proteostasis theory of age-related muscle decline",
+      "key_concepts": [
+        {
+          "concept": "Redox signalling in muscle contraction",
+          "description": "Skeletal muscle generates reactive oxygen and nitrogen species (RONS) such as superoxide and nitric oxide during contraction, which activate redox-sensitive transcription factors (e.g., NF-\u03baB, AP-1, HSF1) leading to increased expression of cytoprotective proteins including superoxide dismutases, catalase, and heat shock proteins (HSPs). This signalling supports proteostasis and tissue remodeling intra- and inter-cellularly."
+        },
+        {
+          "concept": "Age-related attenuation of redox signalling",
+          "description": "With aging, the ability of skeletal muscle to respond to increased ROS generation by upregulating cytoprotective proteins via redox-sensitive transcription factors is severely diminished. This leads to loss of ROS homeostasis, increased oxidative damage, and dysfunction in muscle and potentially other tissues."
+        },
+        {
+          "concept": "Role of muscle-derived HSPs and exosomes in intercellular proteostasis",
+          "description": "Muscle cells release HSPs, often via exosomes, which can be taken up by other cells including motor neurons. This intercellular transfer of HSPs helps maintain proteostasis in cells that have limited intrinsic HSP production, such as neurons. Aging-associated reduction in muscle HSP release impairs this support, contributing to neuronal and muscle decline."
+        },
+        {
+          "concept": "Denervation and mitochondrial ROS production",
+          "description": "Loss of motor neurons and denervation lead to aberrant mitochondrial function in muscle fibers, increasing mitochondrial H2O2 production. This exacerbates oxidative stress and disrupts redox signalling, further impairing adaptive responses and muscle integrity during aging."
+        },
+        {
+          "concept": "Motor neuron integrity as a driver of muscle aging",
+          "description": "Evidence from Sod1 knockout mouse models indicates that loss of antioxidant capacity specifically in motor neurons leads to accelerated muscle aging and NMJ degeneration, implicating motor neuron redox imbalance as a causal factor in sarcopenia."
+        }
+      ],
+      "description": "",
+      "evidence": "The paper reviews multiple lines of evidence including rodent aging models, Sod1 knockout and neuron-specific rescue mice, studies of redox-sensitive transcription factor activation, mitochondrial ROS measurements, exosome-mediated HSP transfer, and human exercise studies showing attenuated redox responses with age.",
+      "confidence_is_theory": "high",
+      "mode": "review, synthesize, discuss",
+      "criteria_reasoning": "The theory attempts to explain WHY and HOW biological aging of muscle and neuromuscular systems occurs via impaired redox signalling and proteostasis mechanisms. It is generalizable to organismal aging since it links muscle function, motor neuron integrity, and intercellular communication. It proposes causal mechanisms involving redox signalling pathways, mitochondrial ROS, and HSP-mediated proteostasis. The scope is broad, addressing systemic aging processes rather than narrow phenomena.",
+      "paper_focus": 10,
+      "doi": "10.1016/j.freeradbiomed.2018.11.038",
+      "pmid": "30508577",
+      "paper_title": "Aberrant redox signalling and stress response in age-related muscle decline: Role in inter- and intra-cellular signalling.",
+      "timestamp": "2025-10-18T16:32:24.710920",
+      "theory_id": "T000228",
+      "enriched_text": "Aberrant redox signalling and impaired heat shock protein (HSP) mediated proteostasis theory of age-related muscle decline. Redox signalling in muscle contraction: Skeletal muscle generates reactive oxygen and nitrogen species (RONS) such as superoxide and nitric oxide during contraction, which activate redox-sensitive transcription factors (e.g., NF-\u03baB, AP-1, HSF1) leading to increased expression of cytoprotective proteins including superoxide dismutases, catalase, and heat shock proteins (HSPs). This signalling supports proteostasis and tissue remodeling intra- and inter-cellularly. | Age-related attenuation of redox signalling: With aging, the ability of skeletal muscle to respond to increased ROS generation by upregulating cytoprotective proteins via redox-sensitive transcription factors is severely diminished. This leads to loss of ROS homeostasis, increased oxidative damage, and dysfunction in muscle and potentially other tissues. | Role of muscle-derived HSPs and exosomes in intercellular proteostasis: Muscle cells release HSPs, often via exosomes, which can be taken up by other cells including motor neurons. This intercellular transfer of HSPs helps maintain proteostasis in cells that have limited intrinsic HSP production, such as neurons. Aging-associated reduction in muscle HSP release impairs this support, contributing to neuronal and muscle decline. | Denervation and mitochondrial ROS production: Loss of motor neurons and denervation lead to aberrant mitochondrial function in muscle fibers, increasing mitochondrial H2O2 production. This exacerbates oxidative stress and disrupts redox signalling, further impairing adaptive responses and muscle integrity during aging. | Motor neuron integrity as a driver of muscle aging: Evidence from Sod1 knockout mouse models indicates that loss of antioxidant capacity specifically in motor neurons leads to accelerated muscle aging and NMJ degeneration, implicating motor neuron redox imbalance as a causal factor in sarcopenia.",
+      "concept_text": "Redox signalling in muscle contraction: Skeletal muscle generates reactive oxygen and nitrogen species (RONS) such as superoxide and nitric oxide during contraction, which activate redox-sensitive transcription factors (e.g., NF-\u03baB, AP-1, HSF1) leading to increased expression of cytoprotective proteins including superoxide dismutases, catalase, and heat shock proteins (HSPs). This signalling supports proteostasis and tissue remodeling intra- and inter-cellularly. | Age-related attenuation of redox signalling: With aging, the ability of skeletal muscle to respond to increased ROS generation by upregulating cytoprotective proteins via redox-sensitive transcription factors is severely diminished. This leads to loss of ROS homeostasis, increased oxidative damage, and dysfunction in muscle and potentially other tissues. | Role of muscle-derived HSPs and exosomes in intercellular proteostasis: Muscle cells release HSPs, often via exosomes, which can be taken up by other cells including motor neurons. This intercellular transfer of HSPs helps maintain proteostasis in cells that have limited intrinsic HSP production, such as neurons. Aging-associated reduction in muscle HSP release impairs this support, contributing to neuronal and muscle decline. | Denervation and mitochondrial ROS production: Loss of motor neurons and denervation lead to aberrant mitochondrial function in muscle fibers, increasing mitochondrial H2O2 production. This exacerbates oxidative stress and disrupts redox signalling, further impairing adaptive responses and muscle integrity during aging. | Motor neuron integrity as a driver of muscle aging: Evidence from Sod1 knockout mouse models indicates that loss of antioxidant capacity specifically in motor neurons leads to accelerated muscle aging and NMJ degeneration, implicating motor neuron redox imbalance as a causal factor in sarcopenia.",
+      "is_validated": false,
+      "validation_reason": ""
+    }
+  ],
+  "families": [
+    {
+      "cluster_id": "F001",
+      "level": "family",
+      "name": "Life History Theory",
+      "theory_ids": [
+        "T000042"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "primary_category": "Evolutionary",
+        "secondary_category": "Life History Theory",
+        "common_mechanisms": [],
+        "common_pathways": []
+      },
+      "parent_cluster_id": null,
+      "child_cluster_ids": [
+        "P0001"
+      ]
+    },
+    {
+      "cluster_id": "F002",
+      "level": "family",
+      "name": "Cellular Senescence",
+      "theory_ids": [
+        "T000008"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "primary_category": "Molecular/Cellular",
+        "secondary_category": "Cellular Senescence",
+        "common_mechanisms": [],
+        "common_pathways": []
+      },
+      "parent_cluster_id": null,
+      "child_cluster_ids": [
+        "P0002"
+      ]
+    },
+    {
+      "cluster_id": "F003",
+      "level": "family",
+      "name": "Dna Damage",
+      "theory_ids": [
+        "T000054",
+        "T000038"
+      ],
+      "theory_count": 2,
+      "mechanism_signature": {
+        "primary_category": "Molecular/Cellular",
+        "secondary_category": "DNA Damage",
+        "common_mechanisms": [],
+        "common_pathways": []
+      },
+      "parent_cluster_id": null,
+      "child_cluster_ids": [
+        "P0003",
+        "P0004"
+      ]
+    },
+    {
+      "cluster_id": "F004",
+      "level": "family",
+      "name": "Metabolic Dysregulation (Nutrient sensing)",
+      "theory_ids": [
+        "T000039",
+        "T000059"
+      ],
+      "theory_count": 2,
+      "mechanism_signature": {
+        "primary_category": "Molecular/Cellular",
+        "secondary_category": "Metabolic Dysregulation",
+        "common_mechanisms": [
+          "Nutrient sensing"
+        ],
+        "common_pathways": [
+          "mTOR"
+        ]
+      },
+      "parent_cluster_id": null,
+      "child_cluster_ids": [
+        "P0005",
+        "P0006"
+      ]
+    },
+    {
+      "cluster_id": "F005",
+      "level": "family",
+      "name": "Mitochondrial Dysfunction",
+      "theory_ids": [
+        "T000005"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "primary_category": "Molecular/Cellular",
+        "secondary_category": "Mitochondrial Dysfunction",
+        "common_mechanisms": [],
+        "common_pathways": []
+      },
+      "parent_cluster_id": null,
+      "child_cluster_ids": [
+        "P0007"
+      ]
+    },
+    {
+      "cluster_id": "F006",
+      "level": "family",
+      "name": "Protein Damage",
+      "theory_ids": [
+        "T000228"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "primary_category": "Molecular/Cellular",
+        "secondary_category": "Protein Damage",
+        "common_mechanisms": [],
+        "common_pathways": []
+      },
+      "parent_cluster_id": null,
+      "child_cluster_ids": [
+        "P0008"
+      ]
+    },
+    {
+      "cluster_id": "F007",
+      "level": "family",
+      "name": "Inflammation",
+      "theory_ids": [
+        "T000048"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "primary_category": "Systemic",
+        "secondary_category": "Inflammation",
+        "common_mechanisms": [],
+        "common_pathways": []
+      },
+      "parent_cluster_id": null,
+      "child_cluster_ids": [
+        "P0009"
+      ]
+    }
+  ],
+  "parents": [
+    {
+      "cluster_id": "P0001",
+      "level": "parent",
+      "name": "Ancient Core Senescence Process",
+      "theory_ids": [
+        "T000042"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Ancient Core Senescence Process",
+        "common_pathways": [],
+        "common_molecules": [],
+        "mechanism_types": [
+          "Developmental"
+        ]
+      },
+      "parent_cluster_id": "F001",
+      "child_cluster_ids": [
+        "C0001"
+      ]
+    },
+    {
+      "cluster_id": "P0002",
+      "level": "parent",
+      "name": "Cell Cycle Arrest - NF-\u03baB, TLR",
+      "theory_ids": [
+        "T000008"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Cell cycle arrest",
+        "common_pathways": [
+          "NF-\u03baB",
+          "TLR"
+        ],
+        "common_molecules": [],
+        "mechanism_types": [
+          "Dysregulation"
+        ]
+      },
+      "parent_cluster_id": "F002",
+      "child_cluster_ids": [
+        "C0002"
+      ]
+    },
+    {
+      "cluster_id": "P0003",
+      "level": "parent",
+      "name": "Dna Double-Strand Break Accumulation - ATM-mediated DNA damage response pathway",
+      "theory_ids": [
+        "T000038"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "DNA double-strand break accumulation",
+        "common_pathways": [
+          "ATM-mediated DNA damage response pathway"
+        ],
+        "common_molecules": [
+          "BRCA1",
+          "BRCA2",
+          "ATM"
+        ],
+        "mechanism_types": [
+          "Loss_of_function"
+        ]
+      },
+      "parent_cluster_id": "F003",
+      "child_cluster_ids": [
+        "C0003"
+      ]
+    },
+    {
+      "cluster_id": "P0004",
+      "level": "parent",
+      "name": "Telomere Shortening",
+      "theory_ids": [
+        "T000054"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Telomere shortening",
+        "common_pathways": [],
+        "common_molecules": [
+          "PARP-1"
+        ],
+        "mechanism_types": [
+          "Loss_of_function"
+        ]
+      },
+      "parent_cluster_id": "F003",
+      "child_cluster_ids": [
+        "C0004"
+      ]
+    },
+    {
+      "cluster_id": "P0005",
+      "level": "parent",
+      "name": "Autophagy - mTOR",
+      "theory_ids": [
+        "T000059"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Autophagy",
+        "common_pathways": [
+          "mTOR"
+        ],
+        "common_molecules": [
+          "mTOR"
+        ],
+        "mechanism_types": [
+          "Loss_of_function"
+        ]
+      },
+      "parent_cluster_id": "F004",
+      "child_cluster_ids": [
+        "C0005"
+      ]
+    },
+    {
+      "cluster_id": "P0006",
+      "level": "parent",
+      "name": "Nutrient Sensing - mTOR",
+      "theory_ids": [
+        "T000039"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Nutrient sensing",
+        "common_pathways": [
+          "mTOR"
+        ],
+        "common_molecules": [
+          "mTOR",
+          "Rapamycin"
+        ],
+        "mechanism_types": [
+          "Hyperfunction"
+        ]
+      },
+      "parent_cluster_id": "F004",
+      "child_cluster_ids": [
+        "C0006"
+      ]
+    },
+    {
+      "cluster_id": "P0007",
+      "level": "parent",
+      "name": "Fixation Of Disease-Associated Mitochondrial Mutations",
+      "theory_ids": [
+        "T000005"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Fixation of disease-associated mitochondrial mutations",
+        "common_pathways": [],
+        "common_molecules": [
+          "mitochondrial DNA"
+        ],
+        "mechanism_types": [
+          "Loss_of_function"
+        ]
+      },
+      "parent_cluster_id": "F005",
+      "child_cluster_ids": [
+        "C0007"
+      ]
+    },
+    {
+      "cluster_id": "P0008",
+      "level": "parent",
+      "name": "Aberrant Redox Signalling",
+      "theory_ids": [
+        "T000228"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Aberrant redox signalling",
+        "common_pathways": [],
+        "common_molecules": [
+          "Heat shock proteins (HSPs)",
+          "Mitochondrial ROS"
+        ],
+        "mechanism_types": [
+          "Dysregulation"
+        ]
+      },
+      "parent_cluster_id": "F006",
+      "child_cluster_ids": [
+        "C0008"
+      ]
+    },
+    {
+      "cluster_id": "P0009",
+      "level": "parent",
+      "name": "Chronic Low-Grade Inflammation",
+      "theory_ids": [
+        "T000048"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Chronic low-grade inflammation",
+        "common_pathways": [],
+        "common_molecules": [],
+        "mechanism_types": [
+          "Dysregulation"
+        ]
+      },
+      "parent_cluster_id": "F007",
+      "child_cluster_ids": [
+        "C0009"
+      ]
+    }
+  ],
+  "children": [
+    {
+      "cluster_id": "C0001",
+      "level": "child",
+      "name": "Ancient Core Senescence Process",
+      "theory_ids": [
+        "T000042"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Ancient Core Senescence Process",
+        "common_pathways": [],
+        "common_molecules": [],
+        "mechanism_types": [
+          "Developmental"
+        ]
+      },
+      "parent_cluster_id": "P0001",
+      "child_cluster_ids": []
+    },
+    {
+      "cluster_id": "C0002",
+      "level": "child",
+      "name": "Cell Cycle Arrest - NF-\u03baB, TLR",
+      "theory_ids": [
+        "T000008"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Cell cycle arrest",
+        "common_pathways": [
+          "NF-\u03baB",
+          "TLR"
+        ],
+        "common_molecules": [],
+        "mechanism_types": [
+          "Dysregulation"
+        ]
+      },
+      "parent_cluster_id": "P0002",
+      "child_cluster_ids": []
+    },
+    {
+      "cluster_id": "C0003",
+      "level": "child",
+      "name": "Dna Double-Strand Break Accumulation - ATM-mediated DNA damage response pathway",
+      "theory_ids": [
+        "T000038"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "DNA double-strand break accumulation",
+        "common_pathways": [
+          "ATM-mediated DNA damage response pathway"
+        ],
+        "common_molecules": [
+          "BRCA1",
+          "BRCA2",
+          "ATM"
+        ],
+        "mechanism_types": [
+          "Loss_of_function"
+        ]
+      },
+      "parent_cluster_id": "P0003",
+      "child_cluster_ids": []
+    },
+    {
+      "cluster_id": "C0004",
+      "level": "child",
+      "name": "Telomere Shortening",
+      "theory_ids": [
+        "T000054"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Telomere shortening",
+        "common_pathways": [],
+        "common_molecules": [
+          "PARP-1"
+        ],
+        "mechanism_types": [
+          "Loss_of_function"
+        ]
+      },
+      "parent_cluster_id": "P0004",
+      "child_cluster_ids": []
+    },
+    {
+      "cluster_id": "C0005",
+      "level": "child",
+      "name": "Autophagy - mTOR",
+      "theory_ids": [
+        "T000059"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Autophagy",
+        "common_pathways": [
+          "mTOR"
+        ],
+        "common_molecules": [
+          "mTOR"
+        ],
+        "mechanism_types": [
+          "Loss_of_function"
+        ]
+      },
+      "parent_cluster_id": "P0005",
+      "child_cluster_ids": []
+    },
+    {
+      "cluster_id": "C0006",
+      "level": "child",
+      "name": "Nutrient Sensing - mTOR",
+      "theory_ids": [
+        "T000039"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Nutrient sensing",
+        "common_pathways": [
+          "mTOR"
+        ],
+        "common_molecules": [
+          "mTOR",
+          "Rapamycin"
+        ],
+        "mechanism_types": [
+          "Hyperfunction"
+        ]
+      },
+      "parent_cluster_id": "P0006",
+      "child_cluster_ids": []
+    },
+    {
+      "cluster_id": "C0007",
+      "level": "child",
+      "name": "Fixation Of Disease-Associated Mitochondrial Mutations",
+      "theory_ids": [
+        "T000005"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Fixation of disease-associated mitochondrial mutations",
+        "common_pathways": [],
+        "common_molecules": [
+          "mitochondrial DNA"
+        ],
+        "mechanism_types": [
+          "Loss_of_function"
+        ]
+      },
+      "parent_cluster_id": "P0007",
+      "child_cluster_ids": []
+    },
+    {
+      "cluster_id": "C0008",
+      "level": "child",
+      "name": "Aberrant Redox Signalling",
+      "theory_ids": [
+        "T000228"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Aberrant redox signalling",
+        "common_pathways": [],
+        "common_molecules": [
+          "Heat shock proteins (HSPs)",
+          "Mitochondrial ROS"
+        ],
+        "mechanism_types": [
+          "Dysregulation"
+        ]
+      },
+      "parent_cluster_id": "P0008",
+      "child_cluster_ids": []
+    },
+    {
+      "cluster_id": "C0009",
+      "level": "child",
+      "name": "Chronic Low-Grade Inflammation",
+      "theory_ids": [
+        "T000048"
+      ],
+      "theory_count": 1,
+      "mechanism_signature": {
+        "specific_mechanism": "Chronic low-grade inflammation",
+        "common_pathways": [],
+        "common_molecules": [],
+        "mechanism_types": [
+          "Dysregulation"
+        ]
+      },
+      "parent_cluster_id": "P0009",
+      "child_cluster_ids": []
+    }
+  ],
+  "taxonomy": {
+    "primary_categories": {
+      "Molecular/Cellular": 7,
+      "Evolutionary": 1,
+      "Systemic": 1
+    },
+    "secondary_categories": {
+      "Molecular/Cellular": {
+        "Metabolic Dysregulation": 2,
+        "DNA Damage": 2,
+        "Epigenetic Alterations": 1,
+        "Mitochondrial Dysfunction": 2,
+        "Cellular Senescence": 1,
+        "Protein Damage": 1,
+        "Intercellular Communication": 1
+      },
+      "Evolutionary": {
+        "Life History Theory": 1,
+        "Natural Selection": 1
+      },
+      "Systemic": {
+        "Inflammation": 1
+      }
+    },
+    "pathways": {
+      "mTOR": 2,
+      "NF-\u03baB": 1,
+      "TLR": 1,
+      "ATM-mediated DNA damage response pathway": 1
+    },
+    "molecules": {
+      "mTOR": 2,
+      "Rapamycin": 1,
+      "PARP-1": 1,
+      "mitochondrial DNA": 1,
+      "BRCA1": 1,
+      "BRCA2": 1,
+      "ATM": 1,
+      "Heat shock proteins (HSPs)": 1,
+      "Mitochondrial ROS": 1
+    }
+  }
+}

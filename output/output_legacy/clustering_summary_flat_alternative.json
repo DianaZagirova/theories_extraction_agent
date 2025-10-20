@@ -1,0 +1,6851 @@
+[
+  {
+    "theory_id": "T000001",
+    "theory_name": "Somatic Recombination Theory of Aging and Cancer",
+    "family_id": "F061",
+    "family_name": null,
+    "parent_id": "P0183",
+    "child_id": "C0295",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000002",
+    "theory_name": "Declining Force of Natural Selection with Age",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000003",
+    "theory_name": "Kin Selection and the Grandmother Hypothesis",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000004",
+    "theory_name": "Group Selection in Aging Evolution",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000005",
+    "theory_name": "Mitochondrial optimization theory of human longevity and intelligence evolution",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0042",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000006",
+    "theory_name": "IGF1 Signaling Pathway Theory of Aging and Longevity",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000007",
+    "theory_name": "Inflammaging theory",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000008",
+    "theory_name": "Cellular senescence and SASP as drivers of systemic aging",
+    "family_id": "F012",
+    "family_name": null,
+    "parent_id": "P0035",
+    "child_id": "C0051",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000009",
+    "theory_name": "MicroRNA regulation of Toll-like receptor signaling in aging",
+    "family_id": "F012",
+    "family_name": null,
+    "parent_id": "P0037",
+    "child_id": "C0054",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000010",
+    "theory_name": "Disposable Soma Theory",
+    "family_id": "F003",
+    "family_name": null,
+    "parent_id": "P0007",
+    "child_id": "C0013",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000011",
+    "theory_name": "Nutrient-Sensing mTOR Pathway Regulation of Aging and Reproduction",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000012",
+    "theory_name": "Hamiltonian hypothesis of age-dependent adaptation",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000013",
+    "theory_name": "Reactive Oxygen Species (ROS) Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000014",
+    "theory_name": "Mitochondrial Aging Theory",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000015",
+    "theory_name": "Extrachromosomal rDNA Circles (ERC) Accumulation Theory",
+    "family_id": "F057",
+    "family_name": null,
+    "parent_id": "P0175",
+    "child_id": "C0280",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000016",
+    "theory_name": "Calcium Homeostasis Feedback Control Model of Aging",
+    "family_id": "F030",
+    "family_name": null,
+    "parent_id": "P0098",
+    "child_id": "C0157",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000017",
+    "theory_name": "Cellular senescence theory of osteoporosis and bone aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000018",
+    "theory_name": "Metabolic Free Energy (MFE) Control and Data Rate Theorem (DRT) Analog Aging Model",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0157",
+    "child_id": "C0253",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000019",
+    "theory_name": "Inflammaging theory",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000020",
+    "theory_name": "Anti-inflammaging theory",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0112",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000021",
+    "theory_name": "Immunosenescence as a driver of inflammaging",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000022",
+    "theory_name": "Insulin/Insulin-like Growth Factor (IGF) Signaling Pathway Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000023",
+    "theory_name": "Caloric Restriction Mimetic (CRM) Theory",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000024",
+    "theory_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0098",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000025",
+    "theory_name": "Attentional Capacity Model of Cognitive Aging",
+    "family_id": "F017",
+    "family_name": null,
+    "parent_id": "P0055",
+    "child_id": "C0083",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000026",
+    "theory_name": "Inhibitory Deficit Model of Cognitive Aging",
+    "family_id": "F017",
+    "family_name": null,
+    "parent_id": "P0055",
+    "child_id": "C0083",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000027",
+    "theory_name": "Nrf2/sMAF Signalling as a Causal Mechanism of Biological Aging via Oxidative Stress Regulation",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000028",
+    "theory_name": "Stress Theory of Aging",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0152",
+    "child_id": "C0247",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000029",
+    "theory_name": "Radiation Hormesis as a Component of Stress-Derived Hormesis",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0155",
+    "child_id": "C0251",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000030",
+    "theory_name": "Sirtuin Activation Theory of Aging and Resveratrol",
+    "family_id": "F053",
+    "family_name": null,
+    "parent_id": "P0169",
+    "child_id": "C0267",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000031",
+    "theory_name": "Free Radical Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000032",
+    "theory_name": "Adaptive-Longevity Related Process Theory of Dietary Restriction",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000033",
+    "theory_name": "Remodeled reproductive regulatory pathway theory of aging in eusocial insects",
+    "family_id": "F064",
+    "family_name": null,
+    "parent_id": "P0188",
+    "child_id": "C0303",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000034",
+    "theory_name": "FOXO3-mediated Longevity Theory",
+    "family_id": "F023",
+    "family_name": null,
+    "parent_id": "P0073",
+    "child_id": "C0114",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000035",
+    "theory_name": "DYRK1A Overdose-Induced Progeroid Syndrome in Down Syndrome",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0041",
+    "child_id": "C0065",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000036",
+    "theory_name": "Aerobic Hypothesis of Longevity",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0232",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000037",
+    "theory_name": "Parental Age Effects on the Evolution of Aging",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000038",
+    "theory_name": "BRCA-related ATM-mediated DNA double-strand break repair theory of ovarian aging",
+    "family_id": "F021",
+    "family_name": null,
+    "parent_id": "P0068",
+    "child_id": "C0107",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000039",
+    "theory_name": "Hyperfunction theory of aging mediated by mTOR pathway",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000040",
+    "theory_name": "DNA Damage Accumulation and Repair Theory of Aging",
+    "family_id": "F021",
+    "family_name": null,
+    "parent_id": "P0068",
+    "child_id": "C0104",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000041",
+    "theory_name": "Yin-Yang Biphasic Immune Surveillance Theory of Aging and Cancer",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0123",
+    "child_id": "C0192",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000042",
+    "theory_name": "Evolutionary Plant Senescence Syndrome Theory",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0013",
+    "child_id": "C0020",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000043",
+    "theory_name": "DNA Repair Capacity Decline Theory of Aging and Cancer",
+    "family_id": "F021",
+    "family_name": null,
+    "parent_id": "P0068",
+    "child_id": "C0106",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000044",
+    "theory_name": "Cilia-mediated regulation of longevity via the insulin-IGF-1-like DAF-2 signaling pathway",
+    "family_id": "F052",
+    "family_name": null,
+    "parent_id": "P0168",
+    "child_id": "C0266",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000045",
+    "theory_name": "Replicative Senescence Theory of T Lymphocytes",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0299",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000046",
+    "theory_name": "Cellular Senescence Theory of Aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000047",
+    "theory_name": "Circulating Factors Theory of Cardiac Aging",
+    "family_id": "F033",
+    "family_name": null,
+    "parent_id": "P0107",
+    "child_id": "C0167",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000048",
+    "theory_name": "Systemic Inflammation Theory of Cardiac Aging",
+    "family_id": "F033",
+    "family_name": null,
+    "parent_id": "P0107",
+    "child_id": "C0167",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000049",
+    "theory_name": "Neurohormonal Activation Theory of Cardiac Aging",
+    "family_id": "F033",
+    "family_name": null,
+    "parent_id": "P0107",
+    "child_id": "C0167",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000050",
+    "theory_name": "Circulating Non-coding RNAs Theory in Cardiac Aging",
+    "family_id": "F033",
+    "family_name": null,
+    "parent_id": "P0107",
+    "child_id": "C0168",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000051",
+    "theory_name": "Life History Theory of Aging",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0232",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000052",
+    "theory_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging and Longevity",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000053",
+    "theory_name": "Adipose Tissue Metabolism and Adipokine Regulation Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000054",
+    "theory_name": "PARP-1 mediated telomere stability and accelerated aging theory",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000055",
+    "theory_name": "CRM1-mediated nuclear export theory of aging-related neuronal senescence",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0087",
+    "child_id": "C0142",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000056",
+    "theory_name": "Cellular Senescence Theory of Aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000057",
+    "theory_name": "Mitochondrial Dysfunction-Associated Senescence (MiDAS) Theory",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000058",
+    "theory_name": "Growth Hormone (GH) Action Theory of Aging-Related White Adipose Tissue Dysfunction and Senescence",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000059",
+    "theory_name": "Autophagy Induction as a Core Longevity Assurance Mechanism",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0011",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000060",
+    "theory_name": "Oxidative Stress Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000061",
+    "theory_name": "Synthetic Theory for the Origin of Human Menopause",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000062",
+    "theory_name": "Mutation accumulation and antagonistic pleiotropy theory of aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000063",
+    "theory_name": "Chromatin-mediated regulation of developmental plasticity and longevity via HPL-2",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0204",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000064",
+    "theory_name": "Immunosenescence and Inflammaging Theory",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0299",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000065",
+    "theory_name": "mTOR/PI3K Hyperfunction Theory of Aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000066",
+    "theory_name": "Cellular Senescence and Senescence-Associated Secretory Phenotype (SASP) Theory",
+    "family_id": "F012",
+    "family_name": null,
+    "parent_id": "P0035",
+    "child_id": "C0051",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000067",
+    "theory_name": "Caspase-3 Bifurcation Theory of Neuronal Aging and Plasticity",
+    "family_id": "F030",
+    "family_name": null,
+    "parent_id": "P0094",
+    "child_id": "C0153",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000068",
+    "theory_name": "Harman's mitochondrial free radical theory of aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000069",
+    "theory_name": "Nutrient-sensitive signaling pathways regulating aging via mitochondrial homeostasis",
+    "family_id": "F058",
+    "family_name": null,
+    "parent_id": "P0177",
+    "child_id": "C0283",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000070",
+    "theory_name": "Stem cell mitochondrial quality control and asymmetric segregation theory",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0031",
+    "child_id": "C0047",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000071",
+    "theory_name": "LIN28-let-7 regulatory switch theory of mitochondrial efficiency in aging",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000072",
+    "theory_name": "SIRT1-PGC1 mitochondrial regulation theory in stem cell aging",
+    "family_id": "F058",
+    "family_name": null,
+    "parent_id": "P0177",
+    "child_id": "C0283",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000073",
+    "theory_name": "Diabetes-Induced Advanced Brain Aging Theory",
+    "family_id": "F015",
+    "family_name": null,
+    "parent_id": "P0045",
+    "child_id": "C0071",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000074",
+    "theory_name": "Insulin Signaling Deficiency as a Driver of Cognitive Decline in Diabetes",
+    "family_id": "F015",
+    "family_name": null,
+    "parent_id": "P0045",
+    "child_id": "C0071",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000075",
+    "theory_name": "Advanced Glycation End Products (AGE) and Oxidative Stress Theory in Diabetes-Induced Brain Aging",
+    "family_id": "F015",
+    "family_name": null,
+    "parent_id": "P0045",
+    "child_id": "C0072",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000076",
+    "theory_name": "Hypothalamic-Pituitary-Adrenal (HPA) Axis Dysfunction Theory in Diabetes-Related Cognitive Decline",
+    "family_id": "F015",
+    "family_name": null,
+    "parent_id": "P0045",
+    "child_id": "C0071",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000077",
+    "theory_name": "Life History Theory (LHT) of Aging",
+    "family_id": "F043",
+    "family_name": null,
+    "parent_id": "P0137",
+    "child_id": "C0220",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000078",
+    "theory_name": "Cooperative Breeding Modulation of Aging",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0074",
+    "child_id": "C0121",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000079",
+    "theory_name": "Estradiol-Mediated Protection of Telomeres",
+    "family_id": "F043",
+    "family_name": null,
+    "parent_id": "P0137",
+    "child_id": "C0221",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000080",
+    "theory_name": "Exercise makes immunological space hypothesis",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0186",
+    "child_id": "C0301",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000081",
+    "theory_name": "Circadian Glucocorticoid Oscillation-Mediated Preservation of Neural Stem Cell Quiescence Theory",
+    "family_id": "F030",
+    "family_name": null,
+    "parent_id": "P0099",
+    "child_id": "C0158",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000082",
+    "theory_name": "Negative Senescence Theory",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000083",
+    "theory_name": "Critique and Extension of Hamilton's Mutation Accumulation Theory",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000084",
+    "theory_name": "Life-History Optimization Models of Senescence",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000085",
+    "theory_name": "Damage Accumulation and Asymmetric Partitioning Theory of Cellular Aging and Immortality",
+    "family_id": "F039",
+    "family_name": null,
+    "parent_id": "P0128",
+    "child_id": "C0203",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000086",
+    "theory_name": "Senescing Diversification Rate Theory for Asexual Lineages",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0014",
+    "child_id": "C0021",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000087",
+    "theory_name": "Epigenetic Drift Theory of Hematopoietic Stem Cell Aging",
+    "family_id": "F045",
+    "family_name": null,
+    "parent_id": "P0143",
+    "child_id": "C0230",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000088",
+    "theory_name": "Cellular Senescence Theory in Hematopoietic Stem Cell Aging",
+    "family_id": "F045",
+    "family_name": null,
+    "parent_id": "P0143",
+    "child_id": "C0231",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000089",
+    "theory_name": "Reactive Oxygen Species (ROS) Damage Accumulation Theory in HSC Aging",
+    "family_id": "F058",
+    "family_name": null,
+    "parent_id": "P0177",
+    "child_id": "C0285",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000090",
+    "theory_name": "Clonal Selection and Expansion Theory in Hematopoietic Aging",
+    "family_id": "F045",
+    "family_name": null,
+    "parent_id": "P0143",
+    "child_id": "C0230",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000091",
+    "theory_name": "Nutrient Sensing and Metabolic Regulation Theory in HSC Aging",
+    "family_id": "F058",
+    "family_name": null,
+    "parent_id": "P0177",
+    "child_id": "C0285",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000092",
+    "theory_name": "Inflammation-driven aging and cancer theory",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000093",
+    "theory_name": "Adaptive Aging as a Tuned Rate of Damage Accumulation",
+    "family_id": "F021",
+    "family_name": null,
+    "parent_id": "P0068",
+    "child_id": "C0104",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000094",
+    "theory_name": "Programmed Aging Theory",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000095",
+    "theory_name": "Evolutionary Theories of Aging: Mutation Accumulation and Antagonistic Pleiotropy",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000096",
+    "theory_name": "Demographic Theory of Aging",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000097",
+    "theory_name": "Xenohormetic, Hormetic and Cytostatic Selective Forces Driving Ecosystemic Evolution of Longevity Regulation Mechanisms",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0233",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000098",
+    "theory_name": "FOXO3-enhanced mesenchymal progenitor cell rejuvenation theory",
+    "family_id": "F023",
+    "family_name": null,
+    "parent_id": "P0073",
+    "child_id": "C0117",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000099",
+    "theory_name": "Membrane Unsaturation and Longevity Theory",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0002",
+    "child_id": "C0005",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000100",
+    "theory_name": "Telomere Shortening as a Mechanism of Accelerated Aging in Sepsis Survivors",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000101",
+    "theory_name": "Damage Load Theory of Aging and Evolution of Asymmetrical Damage Transmission",
+    "family_id": "F039",
+    "family_name": null,
+    "parent_id": "P0128",
+    "child_id": "C0203",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000102",
+    "theory_name": "Evolution of senescence via somatic differentiation rather than germ-line sequestration",
+    "family_id": "F003",
+    "family_name": null,
+    "parent_id": "P0008",
+    "child_id": "C0014",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000103",
+    "theory_name": "Sirt6-mediated developmental nutrient-dependent programming theory of aging",
+    "family_id": "F053",
+    "family_name": null,
+    "parent_id": "P0169",
+    "child_id": "C0267",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000104",
+    "theory_name": "Paternal Age at Conception (PAC) Effect on Offspring Telomere Length as an Adaptive Intergenerational Plasticity Mechanism",
+    "family_id": "F043",
+    "family_name": null,
+    "parent_id": "P0137",
+    "child_id": "C0220",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000105",
+    "theory_name": "TOR signaling pathway as a conserved nutrient-sensing aging regulator",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000106",
+    "theory_name": "Growth Rate-Lifespan Trade-off Theory",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000107",
+    "theory_name": "Oxidative Stress Resistance Theory of Aging",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0002",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000108",
+    "theory_name": "Telomere Dynamics Theory of Aging",
+    "family_id": "F043",
+    "family_name": null,
+    "parent_id": "P0137",
+    "child_id": "C0220",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000109",
+    "theory_name": "Life History Trade-off Theory of Aging",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0109",
+    "child_id": "C0171",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000110",
+    "theory_name": "Genomic Stability and DNA Repair Theory of Aging",
+    "family_id": "F021",
+    "family_name": null,
+    "parent_id": "P0068",
+    "child_id": "C0104",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000111",
+    "theory_name": "NRF2-Keap1 Pathway Longevity Theory",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0003",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000112",
+    "theory_name": "Transsulfuration Pathway and Hydrogen Sulfide Signaling Theory",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0130",
+    "child_id": "C0209",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000113",
+    "theory_name": "Evolutionary theory of reproductive senescence via weakened late-life selection",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000114",
+    "theory_name": "Evolutionary theory of aging based on declining selection with age",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000115",
+    "theory_name": "Biomolecular Longevity Network Progressing Through Checkpoints",
+    "family_id": "F057",
+    "family_name": null,
+    "parent_id": "P0175",
+    "child_id": "C0279",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000116",
+    "theory_name": "Insulin/Insulin-like Growth Factor-1 (IIS) Signaling Reduction Theory of Longevity",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000117",
+    "theory_name": "Declining force of natural selection theory of aging",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000118",
+    "theory_name": "Trade-off theory between immunity and longevity",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0165",
+    "child_id": "C0263",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000119",
+    "theory_name": "Tolerance-based immune defense theory in aging",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0299",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000120",
+    "theory_name": "Myelin Dysfunction as an Upstream Driver of Amyloid-\u03b2 Deposition in Alzheimer's Disease",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0171",
+    "child_id": "C0275",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000121",
+    "theory_name": "mTOR signaling theory of aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000122",
+    "theory_name": "Phenoptosis theory of aging",
+    "family_id": "F026",
+    "family_name": null,
+    "parent_id": "P0085",
+    "child_id": "C0138",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000123",
+    "theory_name": "Insulin/Insulin-like Growth Factor 1 (IIS) Signaling Longevity Assurance Theory",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000124",
+    "theory_name": "Aryl Hydrocarbon Receptor (AhR) Regulation of Hematopoietic Stem Cell Quiescence and Proliferation Theory",
+    "family_id": "F045",
+    "family_name": null,
+    "parent_id": "P0142",
+    "child_id": "C0229",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000125",
+    "theory_name": "Hypothesized Role of AhR in Regulation of Other Tissue Stem Cell Populations",
+    "family_id": "F045",
+    "family_name": null,
+    "parent_id": "P0142",
+    "child_id": "C0228",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000126",
+    "theory_name": "Biological Age Acceleration Theory of Environmental Risk Factors",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000127",
+    "theory_name": "Telomere Dysfunction Theory of Aging",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000128",
+    "theory_name": "Stem Cell Functional Decline Theory of Aging",
+    "family_id": "F031",
+    "family_name": null,
+    "parent_id": "P0100",
+    "child_id": "C0160",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000129",
+    "theory_name": "Mitochondrial Dysfunction Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000130",
+    "theory_name": "DNA Damage Response and p53 Activation Theory of Aging",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0041",
+    "child_id": "C0067",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000131",
+    "theory_name": "PACRG-mediated ciliary signaling theory of longevity regulation",
+    "family_id": "F052",
+    "family_name": null,
+    "parent_id": "P0168",
+    "child_id": "C0266",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000132",
+    "theory_name": "EFHC1-associated protofilament ribbon signaling theory of longevity",
+    "family_id": "F052",
+    "family_name": null,
+    "parent_id": "P0168",
+    "child_id": "C0266",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000133",
+    "theory_name": "Multi-mechanism Longevity and Disease Resistance Theory from Unconventional Vertebrates",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0232",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000134",
+    "theory_name": "Early Contact Inhibition Mediated by High-Molecular-Mass Hyaluronan in Naked Mole Rats",
+    "family_id": "F016",
+    "family_name": null,
+    "parent_id": "P0053",
+    "child_id": "C0081",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000135",
+    "theory_name": "Concerted Cell Death Mediated by Interferon Secretion in Blind Mole Rats",
+    "family_id": "F016",
+    "family_name": null,
+    "parent_id": "P0054",
+    "child_id": "C0082",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000136",
+    "theory_name": "Gene Duplication-Based Enhanced Tumor Suppression in Elephants",
+    "family_id": "F016",
+    "family_name": null,
+    "parent_id": "P0052",
+    "child_id": "C0080",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000137",
+    "theory_name": "Enhanced DNA Repair and Epigenetic Regulation in Long-Lived Whales",
+    "family_id": "F021",
+    "family_name": null,
+    "parent_id": "P0069",
+    "child_id": "C0108",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000138",
+    "theory_name": "Dampened Inflammatory Response as a Longevity Mechanism in Bats and Pangolins",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0004",
+    "child_id": "C0007",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000139",
+    "theory_name": "Cardiovascular Adaptations to Aging and Hypoxia in Hibernating Mammals and Large Vertebrates",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0145",
+    "child_id": "C0236",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000140",
+    "theory_name": "Comprehensive Conceptual Model of Human Aging Integrating Sources, Buffering Mechanisms, Subjective Experience, and Consequences",
+    "family_id": "F018",
+    "family_name": null,
+    "parent_id": "P0057",
+    "child_id": "C0088",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000141",
+    "theory_name": "Telomere-centric theory of cell aging",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000142",
+    "theory_name": "Life-history modulation of reproductive senescence theory",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0109",
+    "child_id": "C0171",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000143",
+    "theory_name": "Growth Hormone/Insulin-like Growth Factor 1 (GH/IGF-1) Axis Deficiency Theory of Delayed Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000144",
+    "theory_name": "Caloric Restriction (CR) Theory of Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000145",
+    "theory_name": "Canine Geriatric Syndrome (CGS) Framework",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0121",
+    "child_id": "C0190",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000146",
+    "theory_name": "Transcript Length-Dependent Scaling Law of Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000147",
+    "theory_name": "Viability Selection on Genetic Variants Affecting Survival",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0234",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000148",
+    "theory_name": "Insulin/Insulin-like Growth Factor 1 (IGF-1) Signaling Pathway Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000149",
+    "theory_name": "Torpor as a Longevity and Survival Mechanism Theory",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0158",
+    "child_id": "C0254",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000150",
+    "theory_name": "Metacaspase-mediated proteostasis theory of aging",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0038",
+    "child_id": "C0058",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000151",
+    "theory_name": "Microguarding theory of gene expression regulation",
+    "family_id": "F029",
+    "family_name": null,
+    "parent_id": "P0092",
+    "child_id": "C0149",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000152",
+    "theory_name": "Micromessenger theory of intercellular and interindividual miRNA communication",
+    "family_id": "F029",
+    "family_name": null,
+    "parent_id": "P0092",
+    "child_id": "C0150",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000153",
+    "theory_name": "Conflict hypothesis for microguards and micromessengers",
+    "family_id": "F029",
+    "family_name": null,
+    "parent_id": "P0092",
+    "child_id": "C0149",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000154",
+    "theory_name": "Growth Hormone/Insulin-like Growth Factor-1 (GH/IGF-1) Axis Aging Theory",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000155",
+    "theory_name": "mTOR pathway inhibition theory of aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000156",
+    "theory_name": "mTOR-driven vascular aging and cognitive impairment theory",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0009",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000157",
+    "theory_name": "Telomere Hypothesis of Senescence",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000158",
+    "theory_name": "Multiple Mitotic Clocks Model of Senescence",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000159",
+    "theory_name": "Calcium (Ca2+) Hypothesis of Aging and Alzheimer's Disease",
+    "family_id": "F030",
+    "family_name": null,
+    "parent_id": "P0094",
+    "child_id": "C0152",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000160",
+    "theory_name": "Chromatin Organization and Higher-Order Chromatin Structure Theory of Aging",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0041",
+    "child_id": "C0066",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000161",
+    "theory_name": "Antagonistic Pleiotropy and Trade-Offs Evolutionary Hypothesis of Longevity",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000162",
+    "theory_name": "Population-Specific Genetic Architecture of Longevity Shaped by Demography and Adaptive Events",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0234",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000163",
+    "theory_name": "Mitochondrial Bioenergetic Efficiency and Biogenesis Theory of Calorie Restriction",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000164",
+    "theory_name": "Telomere Attrition Theory of Aging",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000165",
+    "theory_name": "Genomic Instability Theory of Aging",
+    "family_id": "F021",
+    "family_name": null,
+    "parent_id": "P0068",
+    "child_id": "C0105",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000166",
+    "theory_name": "Epigenetic Alterations Theory of Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000167",
+    "theory_name": "Loss of Proteostasis Theory of Aging",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0038",
+    "child_id": "C0055",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000168",
+    "theory_name": "Disabled Macroautophagy Theory of Aging",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0086",
+    "child_id": "C0140",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000169",
+    "theory_name": "ApoD-mediated oxidative stress protection theory",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0004",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000170",
+    "theory_name": "IIS/TOR Network Evolutionary Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000171",
+    "theory_name": "Kin Selection Theory Explaining Evolution of Menopause and Post-Reproductive Lifespan",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000172",
+    "theory_name": "Grandmother Hypothesis for Evolution of Post-Reproductive Lifespan",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000173",
+    "theory_name": "Classical evolutionary theory of senescence (Medawar-Williams theory)",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000174",
+    "theory_name": "Derived evolutionary theories incorporating ecological complexity (density dependence and resource availability effects)",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000175",
+    "theory_name": "Williams' fecundity increase hypothesis",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0109",
+    "child_id": "C0171",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000176",
+    "theory_name": "mTORC1 signaling regulation theory of aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000177",
+    "theory_name": "Inhibitory Deficit Hypothesis of Aging",
+    "family_id": "F017",
+    "family_name": null,
+    "parent_id": "P0055",
+    "child_id": "C0083",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000178",
+    "theory_name": "Epigenetic chromatin repression loss theory of aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000179",
+    "theory_name": "BIAS Map Theory (Behaviors from Intergroup Affect and Stereotypes Map)",
+    "family_id": "F019",
+    "family_name": null,
+    "parent_id": "P0058",
+    "child_id": "C0090",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000180",
+    "theory_name": "Terror Management Theory (TMT) and Social Identity Theory (SIT) in Aging Stereotypes",
+    "family_id": "F019",
+    "family_name": null,
+    "parent_id": "P0058",
+    "child_id": "C0089",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000181",
+    "theory_name": "Stress resistance as a causal contributor to longevity and postponed senescence",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0002",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000182",
+    "theory_name": "FOXO/DAF-16 Longevity Regulatory Network Theory",
+    "family_id": "F023",
+    "family_name": null,
+    "parent_id": "P0073",
+    "child_id": "C0114",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000183",
+    "theory_name": "Microglia Senescence Theory of Aging-Related Neurodegeneration",
+    "family_id": "F006",
+    "family_name": null,
+    "parent_id": "P0016",
+    "child_id": "C0024",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000184",
+    "theory_name": "Disposable Soma Hypothesis of Senescence",
+    "family_id": "F003",
+    "family_name": null,
+    "parent_id": "P0007",
+    "child_id": "C0013",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000185",
+    "theory_name": "Antagonistic Pleiotropy Hypothesis",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000186",
+    "theory_name": "Mutation Accumulation Hypothesis",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000187",
+    "theory_name": "Theory of Skewed Intergenerational Support",
+    "family_id": "F049",
+    "family_name": null,
+    "parent_id": "P0159",
+    "child_id": "C0257",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000188",
+    "theory_name": "Boat-Carrying Theory of Intergenerational Relations",
+    "family_id": "F049",
+    "family_name": null,
+    "parent_id": "P0159",
+    "child_id": "C0256",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000189",
+    "theory_name": "Convoy Model of Social Relations",
+    "family_id": "F049",
+    "family_name": null,
+    "parent_id": "P0160",
+    "child_id": "C0258",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000190",
+    "theory_name": "Cognitive Reserve Theory",
+    "family_id": "F028",
+    "family_name": null,
+    "parent_id": "P0089",
+    "child_id": "C0144",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000191",
+    "theory_name": "Theory of Family Modernization",
+    "family_id": "F049",
+    "family_name": null,
+    "parent_id": "P0159",
+    "child_id": "C0255",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000192",
+    "theory_name": "Telomere Shortening Theory of Replicative Senescence with Oxidative Stress Contribution",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000193",
+    "theory_name": "Systems Thinking Approach to Aging",
+    "family_id": "F018",
+    "family_name": null,
+    "parent_id": "P0057",
+    "child_id": "C0085",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000194",
+    "theory_name": "Universal Principles Applied to Aging Therapy",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0097",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000195",
+    "theory_name": "Critique of Reductionist and Animal Model-Based Aging Research",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000197",
+    "theory_name": "Chaperone-Mediated Autophagy (CMA) as a Longevity Mechanism Modulated by Growth Hormone Signaling",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0086",
+    "child_id": "C0139",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000198",
+    "theory_name": "Macroautophagy (MA) Regulation by Growth Hormone and Thyroid Hormone Signaling in Aging",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0086",
+    "child_id": "C0139",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000199",
+    "theory_name": "Cellular Senescence Theory of Aging and Disease",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000200",
+    "theory_name": "Immunosenescence Theory of Aging",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0299",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000201",
+    "theory_name": "Antagonistic Pleiotropy in Cellular Senescence",
+    "family_id": "F035",
+    "family_name": null,
+    "parent_id": "P0116",
+    "child_id": "C0182",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000202",
+    "theory_name": "Inflammaging and Immunosenescence Feedback Loop Theory",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000203",
+    "theory_name": "Stem Cell Exhaustion Theory of Aging",
+    "family_id": "F031",
+    "family_name": null,
+    "parent_id": "P0100",
+    "child_id": "C0159",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000204",
+    "theory_name": "Life-History Trade-Off Theory of Aging",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000205",
+    "theory_name": "Retrograde Regulation Theory of Aging in Yeast",
+    "family_id": "F057",
+    "family_name": null,
+    "parent_id": "P0175",
+    "child_id": "C0279",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000206",
+    "theory_name": "Distinct FoxO Regulation by AKT-1 and SGK-1 in C. elegans Lifespan Control",
+    "family_id": "F023",
+    "family_name": null,
+    "parent_id": "P0073",
+    "child_id": "C0114",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000207",
+    "theory_name": "Hibernation Season Duration as a Mortality Reduction Strategy Influencing Longevity",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0145",
+    "child_id": "C0237",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000208",
+    "theory_name": "HLH30/ATGL1 axis regulation of nuclear lipid droplet homeostasis as a driver of aging",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0207",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000209",
+    "theory_name": "CB1 receptor-mediated regulation of mitochondrial quality control and aging-related cognitive decline",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0032",
+    "child_id": "C0048",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000210",
+    "theory_name": "Targeted Aging Interventions Theory",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0232",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000211",
+    "theory_name": "Antagonistic Pleiotropy Theory",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0078",
+    "child_id": "C0127",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000212",
+    "theory_name": "Hyperfunction Theory of Aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0064",
+    "child_id": "C0100",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000213",
+    "theory_name": "Telomere-mediated replicative senescence and tumor suppression theory",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000214",
+    "theory_name": "Evolutionary theory of aging based on extrinsic mortality and condition-dependent survival",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000215",
+    "theory_name": "HSF-1 mediated longevity downstream of TOR and IIS signaling pathways",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0204",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000216",
+    "theory_name": "Differential Survival and Selective Culling Theory of Aging-Related Cancer Mortality",
+    "family_id": "F038",
+    "family_name": null,
+    "parent_id": "P0126",
+    "child_id": "C0198",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000217",
+    "theory_name": "TIR-1 - JNK-1 - DAF-16 Longevity Signaling Pathway in C. elegans",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0204",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000218",
+    "theory_name": "Penna model of biological aging",
+    "family_id": "F041",
+    "family_name": null,
+    "parent_id": "P0132",
+    "child_id": "C0212",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000219",
+    "theory_name": "Aging as a Disorder of Habituation Theory",
+    "family_id": "F017",
+    "family_name": null,
+    "parent_id": "P0056",
+    "child_id": "C0084",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000220",
+    "theory_name": "Life History Trade-Off Theory in Polygynous Male Elephant Seals",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0109",
+    "child_id": "C0172",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000221",
+    "theory_name": "Cellular Senescence Theory of Aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000222",
+    "theory_name": "JNK Signaling Pathway as a Genetic Determinant of Aging",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0003",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000223",
+    "theory_name": "Nrf2/HO-1 system as an evolutionarily conserved anti-aging mechanism",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0003",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000224",
+    "theory_name": "Antagonistic pleiotropy of DNA damage checkpoint activation and histone degradation",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0041",
+    "child_id": "C0063",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000225",
+    "theory_name": "Genome instability as a driver of replicative aging in yeast",
+    "family_id": "F057",
+    "family_name": null,
+    "parent_id": "P0175",
+    "child_id": "C0280",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000226",
+    "theory_name": "Motherhood-Induced Cognitive Reserve Theory",
+    "family_id": "F028",
+    "family_name": null,
+    "parent_id": "P0089",
+    "child_id": "C0145",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000227",
+    "theory_name": "Frailty as an emergent property of complex systems dynamics and physiological dysregulation",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0153",
+    "child_id": "C0249",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000228",
+    "theory_name": "Aberrant redox signalling and impaired heat shock protein (HSP) mediated proteostasis theory of age-related muscle decline",
+    "family_id": "F008",
+    "family_name": null,
+    "parent_id": "P0023",
+    "child_id": "C0036",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000229",
+    "theory_name": "Evolutionary theories of aging: Antagonistic Pleiotropy and Disposable Soma",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000230",
+    "theory_name": "Post-maturity growth and delayed senescence theory",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000231",
+    "theory_name": "Allocation trade-off theory in reproductive senescence",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0074",
+    "child_id": "C0119",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000232",
+    "theory_name": "r- and K-selection theory",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0115",
+    "child_id": "C0180",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000233",
+    "theory_name": "Mild mitochondrial uncoupling theory of aging",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000234",
+    "theory_name": "Rate of Living Theory of Aging",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0152",
+    "child_id": "C0246",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000235",
+    "theory_name": "DNA Repair Longevity Assurance Theory",
+    "family_id": "F021",
+    "family_name": null,
+    "parent_id": "P0068",
+    "child_id": "C0104",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000236",
+    "theory_name": "Reactive Oxygen Species (ROS) Damage Accumulation Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000237",
+    "theory_name": "Mutation Accumulation Theory of Aging",
+    "family_id": "F061",
+    "family_name": null,
+    "parent_id": "P0183",
+    "child_id": "C0295",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000238",
+    "theory_name": "Antagonistic Pleiotropy of Genome Maintenance Theory",
+    "family_id": "F061",
+    "family_name": null,
+    "parent_id": "P0183",
+    "child_id": "C0295",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000239",
+    "theory_name": "Estrogenic-protective hypothesis of longevity",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0167",
+    "child_id": "C0265",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000240",
+    "theory_name": "Biological Embedding of Childhood Adversity Model",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0111",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000241",
+    "theory_name": "Caloric Restriction (CR) Theory of Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000242",
+    "theory_name": "Germ-line modulation of insulin/IGF signaling (IIS) theory of aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000243",
+    "theory_name": "Trade-off theory of reproduction versus lifespan",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0204",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000244",
+    "theory_name": "PAK1 kinase as a negative regulator of lifespan via FOXO inactivation",
+    "family_id": "F023",
+    "family_name": null,
+    "parent_id": "P0073",
+    "child_id": "C0115",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000245",
+    "theory_name": "Oncogenic kinase signaling pathways as regulators of aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000246",
+    "theory_name": "Physiological Network-Gompertz Survival Model of Aging Rate",
+    "family_id": "F041",
+    "family_name": null,
+    "parent_id": "P0133",
+    "child_id": "C0216",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000247",
+    "theory_name": "Integral Theory of Pelvic Floor Dysfunction and Overactive Bladder",
+    "family_id": "F056",
+    "family_name": "Singleton: Integral Theory of Pelvic Floor Dysfunction and Overactive Bladder",
+    "parent_id": "P0174",
+    "child_id": "C0278",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000248",
+    "theory_name": "IGF-I Signaling Modulation Theory of Aging and Longevity",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000249",
+    "theory_name": "Mutational Damage Accumulation Theory of Aging with Multistage Carcinogenesis",
+    "family_id": "F061",
+    "family_name": null,
+    "parent_id": "P0183",
+    "child_id": "C0297",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000250",
+    "theory_name": "Circulating Anti-Hypertrophic Factor Theory of Cardiac Aging",
+    "family_id": "F033",
+    "family_name": null,
+    "parent_id": "P0107",
+    "child_id": "C0167",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000251",
+    "theory_name": "Telomere Shortening as a Mitotic Clock Theory of Aging",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000252",
+    "theory_name": "p53-Mediated Replicative Senescence and Aging Theory",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0179",
+    "child_id": "C0291",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000253",
+    "theory_name": "Immortal DNA Strand Hypothesis",
+    "family_id": "F021",
+    "family_name": null,
+    "parent_id": "P0070",
+    "child_id": "C0109",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000254",
+    "theory_name": "Growth Rate-Lifespan Trade-Off Theory",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000255",
+    "theory_name": "Antagonistic Pleiotropy Theory of Senescence",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000256",
+    "theory_name": "Disposable Soma Theory of Senescence",
+    "family_id": "F003",
+    "family_name": null,
+    "parent_id": "P0007",
+    "child_id": "C0013",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000257",
+    "theory_name": "Brain Size and Homeostasis Theory of Senescence",
+    "family_id": "F028",
+    "family_name": null,
+    "parent_id": "P0091",
+    "child_id": "C0148",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000258",
+    "theory_name": "Mitochondrial Free Radical Damage Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000259",
+    "theory_name": "Mitochondrial Complex I Dysfunction and Anesthetic Sensitivity Theory",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0029",
+    "child_id": "C0045",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000260",
+    "theory_name": "General Stress Response (GSR) Modulation of Aging Rate in Escherichia coli",
+    "family_id": "F039",
+    "family_name": null,
+    "parent_id": "P0128",
+    "child_id": "C0202",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000261",
+    "theory_name": "Mitochondria-centered lipid remodeling theory of aging modulation by lithocholic acid",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0033",
+    "child_id": "C0049",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000262",
+    "theory_name": "Bile acid signaling theory of longevity and healthspan extension",
+    "family_id": "F004",
+    "family_name": null,
+    "parent_id": "P0010",
+    "child_id": "C0017",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000263",
+    "theory_name": "TGR5 receptor-mediated apoptotic pathway theory of anti-tumor effects of lithocholic acid",
+    "family_id": "F016",
+    "family_name": null,
+    "parent_id": "P0051",
+    "child_id": "C0079",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000264",
+    "theory_name": "Interorganelle Communication Model of Yeast Chronological Aging",
+    "family_id": "F057",
+    "family_name": null,
+    "parent_id": "P0175",
+    "child_id": "C0279",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000265",
+    "theory_name": "Autophagy-mediated stress resistance and longevity theory",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0086",
+    "child_id": "C0140",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000266",
+    "theory_name": "Ceramide-driven longevity assurance pathway regulated by GIMAP5",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0122",
+    "child_id": "C0191",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000267",
+    "theory_name": "Two-Phase Ageing Model (Smurf Phenotype Framework)",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0232",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000268",
+    "theory_name": "Evolutionary Model of Ageing Based on Fertility and Senescence Tradeoff",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000269",
+    "theory_name": "Inflammageing Theory (Referenced and Contextualized)",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000270",
+    "theory_name": "Network Theory of Ageing and Complex Systems Perspective",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0066",
+    "child_id": "C0102",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000271",
+    "theory_name": "Four-dimensional correlated frailty model of aging",
+    "family_id": "F038",
+    "family_name": null,
+    "parent_id": "P0126",
+    "child_id": "C0196",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000272",
+    "theory_name": "NAD World theory",
+    "family_id": "F053",
+    "family_name": null,
+    "parent_id": "P0169",
+    "child_id": "C0267",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000273",
+    "theory_name": "Mitochondrial Oxidative Stress Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000274",
+    "theory_name": "Homeoviscous Longevity Adaptation Theory",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0002",
+    "child_id": "C0005",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000275",
+    "theory_name": "NAD+ Metabolite Signaling Theory of Longevity",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000276",
+    "theory_name": "Knowledge-Enhanced Evolutionary Aging Model",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000277",
+    "theory_name": "Postreproductive period as a byproduct of differential reproductive and somatic senescence",
+    "family_id": "F065",
+    "family_name": null,
+    "parent_id": "P0189",
+    "child_id": "C0304",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000278",
+    "theory_name": "Disposable soma hypothesis (resource allocation trade-off between reproduction and somatic maintenance)",
+    "family_id": "F003",
+    "family_name": null,
+    "parent_id": "P0007",
+    "child_id": "C0013",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000279",
+    "theory_name": "Indeterminacy hypothesis for postreproductive period",
+    "family_id": "F065",
+    "family_name": null,
+    "parent_id": "P0189",
+    "child_id": "C0304",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000280",
+    "theory_name": "Random add-on hypothesis for postreproductive period",
+    "family_id": "F065",
+    "family_name": null,
+    "parent_id": "P0189",
+    "child_id": "C0305",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000281",
+    "theory_name": "Inverse-Warburg Effect in Alzheimer's Disease",
+    "family_id": "F006",
+    "family_name": null,
+    "parent_id": "P0016",
+    "child_id": "C0028",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000282",
+    "theory_name": "Brain Protection and Cognitive Reserve Theory of Aging",
+    "family_id": "F028",
+    "family_name": null,
+    "parent_id": "P0090",
+    "child_id": "C0147",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000283",
+    "theory_name": "Advanced Glycosylation End Products (AGEs) Theory of Aging and Diabetic Vascular Dysfunction",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000284",
+    "theory_name": "Serotonin (5-HT) modulation of brain aging theory",
+    "family_id": "F006",
+    "family_name": null,
+    "parent_id": "P0017",
+    "child_id": "C0029",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000285",
+    "theory_name": "Mitochondrial Electron Transport Chain (ETC) Dysfunction Theory of Aging",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000286",
+    "theory_name": "Telomerase Reverse Transcriptase (TERT) Extra-Telomeric Function Theory of Aging",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000287",
+    "theory_name": "Cellular Senescence as a Two-Phase Process Regulated by p130/Rbl2",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0179",
+    "child_id": "C0291",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000288",
+    "theory_name": "Somatic Mutation Accumulation Theory of Aging",
+    "family_id": "F061",
+    "family_name": null,
+    "parent_id": "P0183",
+    "child_id": "C0295",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000289",
+    "theory_name": "Cumulative Inequality (CI) Theory",
+    "family_id": "F049",
+    "family_name": null,
+    "parent_id": "P0161",
+    "child_id": "C0259",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000290",
+    "theory_name": "Mitochondrial DNA Mutation Accumulation Theory of Aging",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0042",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000291",
+    "theory_name": "Mitochondrial Dysfunction and Mitophagy in Aging",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000292",
+    "theory_name": "Cellular Senescence and Telomere Shortening Theory",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000293",
+    "theory_name": "Differential Kat3 Coactivator Usage Theory of Stem Cell Aging",
+    "family_id": "F035",
+    "family_name": null,
+    "parent_id": "P0119",
+    "child_id": "C0188",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000294",
+    "theory_name": "Epigenetic Loss of Gene Repression Theory of Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000295",
+    "theory_name": "Energy Dissipation and Dissipative Structure Theory of Aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0094",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000296",
+    "theory_name": "Critique of the Biological Clock (Intrinsic Program) Theory",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0179",
+    "child_id": "C0290",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000297",
+    "theory_name": "Free Radical and Oxidative Stress Theories of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000298",
+    "theory_name": "TOR (Target of Rapamycin) Nutrient Sensing and Aging Modulation Theory",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000299",
+    "theory_name": "JNK (Jun-N-terminal Kinase) Stress Signaling and Aging Modulation Theory",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0131",
+    "child_id": "C0210",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000300",
+    "theory_name": "Additive Interaction Theory of TOR and JNK Pathways in Aging",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000301",
+    "theory_name": "Cellular Senescence Theory of Aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000302",
+    "theory_name": "METTL1-WDR4 Complex Dysfunction in Aging-Associated Cellular Senescence",
+    "family_id": "F044",
+    "family_name": null,
+    "parent_id": "P0138",
+    "child_id": "C0224",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000303",
+    "theory_name": "IL-4-STAT6 Signaling Pathway in Delaying Macrophage Senescence",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000304",
+    "theory_name": "TIPE2-Mediated Regulation of SASP and Cellular Senescence in Osteoarthritis",
+    "family_id": "F026",
+    "family_name": null,
+    "parent_id": "P0083",
+    "child_id": "C0136",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000305",
+    "theory_name": "WTAP-Mediated m6A RNA Modification in Cellular Senescence and Skin Aging",
+    "family_id": "F044",
+    "family_name": null,
+    "parent_id": "P0140",
+    "child_id": "C0226",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000306",
+    "theory_name": "YTHDC1-Mediated DNA Repair Activation Prevents Pulmonary Cellular Senescence",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0043",
+    "child_id": "C0069",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000307",
+    "theory_name": "Epigenetic Pacemaker (EPM) model of aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000308",
+    "theory_name": "Infinite Leslie Matrix Model of Stable Population Theory with Mortality Plateaus",
+    "family_id": "F041",
+    "family_name": null,
+    "parent_id": "P0132",
+    "child_id": "C0211",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000309",
+    "theory_name": "Population Heterogeneity Theory of Aging",
+    "family_id": "F038",
+    "family_name": null,
+    "parent_id": "P0126",
+    "child_id": "C0195",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000310",
+    "theory_name": "Mitochondrial relatedness and selection theory of aging",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0042",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000311",
+    "theory_name": "Gut Microbiota Modulation Theory of Aging",
+    "family_id": "F004",
+    "family_name": null,
+    "parent_id": "P0009",
+    "child_id": "C0015",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000312",
+    "theory_name": "Methionine sulfoxide reductase (fRMsr) loss and restoration theory of aging",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0001",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000313",
+    "theory_name": "Mitochondrial oxidative damage and dysfunction theory of aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000314",
+    "theory_name": "Defective Mitochondria Theory of Aging",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0042",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000315",
+    "theory_name": "Evolutionary Tradeoff Theory of Aging",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000316",
+    "theory_name": "Resource Allocation Theory of Aging",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0074",
+    "child_id": "C0119",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000317",
+    "theory_name": "Direct Costs of Reproduction Theory",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0112",
+    "child_id": "C0177",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000318",
+    "theory_name": "Geometric Framework for Nutrition (GFN) Theory of Aging",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000319",
+    "theory_name": "Effective Population Size Governs Evolutionary Differences in Telomere Length Theory",
+    "family_id": "F043",
+    "family_name": null,
+    "parent_id": "P0137",
+    "child_id": "C0222",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000320",
+    "theory_name": "Oxidative Stress Imbalance Theory of Cellular Senescence",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000321",
+    "theory_name": "Psychological Stress Appraisal Theory of Cellular Aging",
+    "family_id": "F018",
+    "family_name": null,
+    "parent_id": "P0057",
+    "child_id": "C0086",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000322",
+    "theory_name": "Endogenous C-type RNA Tumor Virus Oncogene Activation Theory",
+    "family_id": "F016",
+    "family_name": null,
+    "parent_id": "P0049",
+    "child_id": "C0077",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000323",
+    "theory_name": "Epigenetic Aging Acceleration Theory in Painful Diabetic Neuropathy",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000324",
+    "theory_name": "Decelerating Selection for System Reliability Theory of Senescence",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000325",
+    "theory_name": "Caloric Restriction-Sir2/SIRT1 Activation Theory of Aging",
+    "family_id": "F053",
+    "family_name": null,
+    "parent_id": "P0169",
+    "child_id": "C0267",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000326",
+    "theory_name": "Pleiotropic Genetic Regulation of the Musculoskeletal System",
+    "family_id": "F026",
+    "family_name": null,
+    "parent_id": "P0084",
+    "child_id": "C0137",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000327",
+    "theory_name": "Systems Integrity Theory of Aging",
+    "family_id": "F018",
+    "family_name": null,
+    "parent_id": "P0057",
+    "child_id": "C0085",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000328",
+    "theory_name": "Mitochondrial ROS-Driven Telomere-Dependent Replicative Senescence Theory",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000329",
+    "theory_name": "DNA Damage Accumulation Theory of Aging",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0041",
+    "child_id": "C0064",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000330",
+    "theory_name": "Accumulated Damage Theory of Aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0094",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000331",
+    "theory_name": "Peto's paradox and evolution of natural anticancer mechanisms",
+    "family_id": "F016",
+    "family_name": null,
+    "parent_id": "P0048",
+    "child_id": "C0076",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000332",
+    "theory_name": "Evolutionary theory linking sex and aging via reproductive specialization and genetic regulation",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000333",
+    "theory_name": "HIF-1-dependent longevity regulation via folliculin (FLCN) pathway",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0204",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000334",
+    "theory_name": "Calorie Restriction-Induced Enhancement of Oxidative Metabolism as a Mechanism for Lifespan Extension in Saccharomyces cerevisiae",
+    "family_id": "F057",
+    "family_name": null,
+    "parent_id": "P0175",
+    "child_id": "C0279",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000335",
+    "theory_name": "Evolutionary theory of late life based on Hamilton's forces of natural selection",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000336",
+    "theory_name": "Death spiral model of late-life fecundity decline",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0077",
+    "child_id": "C0125",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000337",
+    "theory_name": "Steady-State Theory of Mutation Rates",
+    "family_id": "F061",
+    "family_name": null,
+    "parent_id": "P0183",
+    "child_id": "C0296",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000338",
+    "theory_name": "Plasticity of aging and task-dependent senescence in social insects",
+    "family_id": "F064",
+    "family_name": null,
+    "parent_id": "P0188",
+    "child_id": "C0303",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000339",
+    "theory_name": "Load-lightening hypothesis in cooperative breeding as a mechanism for extended breeder lifespan",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0074",
+    "child_id": "C0121",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000340",
+    "theory_name": "Proteostasis Dilution by Nuclear Size Increase Theory",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0040",
+    "child_id": "C0061",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000341",
+    "theory_name": "Oxidative Stress and Energy Balance Theory of Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000342",
+    "theory_name": "Developmental Biogerontology: Dynamic Balance of Autonomous and Integrative Dominants Theory",
+    "family_id": "F035",
+    "family_name": null,
+    "parent_id": "P0118",
+    "child_id": "C0187",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000343",
+    "theory_name": "Integrative Genome (IntG) and Housekeeping Genome (THG) Functional Pleiotropy Theory",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0104",
+    "child_id": "C0164",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000344",
+    "theory_name": "Aging-Carcinogenesis Trade-off Theory",
+    "family_id": "F035",
+    "family_name": null,
+    "parent_id": "P0118",
+    "child_id": "C0186",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000345",
+    "theory_name": "Geroprotection versus Anti-Aging Strategy Theory",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0078",
+    "child_id": "C0126",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000346",
+    "theory_name": "Myopic Selection Theory of Evolution and Aging",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000347",
+    "theory_name": "Cellular Senescence as a Homeostasis Imbalance Theory",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000348",
+    "theory_name": "p66Shc-mediated metabolic adaptation theory of aging",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0001",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000349",
+    "theory_name": "Resource Reallocation Hypothesis (RRH)",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0113",
+    "child_id": "C0178",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000350",
+    "theory_name": "Nutrient Recycling Hypothesis (NRH)",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000351",
+    "theory_name": "Vascular Aging Continuum Theory Linking Atherosclerosis and Cerebral Small Vessel Disease",
+    "family_id": "F033",
+    "family_name": null,
+    "parent_id": "P0108",
+    "child_id": "C0170",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000352",
+    "theory_name": "Extracellular Vesicles-Mediated Modulation of Aging via NAD+ Metabolism and SIRT1 Regulation",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000353",
+    "theory_name": "Epigenetic aging theory modulated by developmental plasticity",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000354",
+    "theory_name": "Coordination Dynamics Theory of Aging Neuro-Musculo-Skeletal System",
+    "family_id": "F008",
+    "family_name": null,
+    "parent_id": "P0024",
+    "child_id": "C0039",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000355",
+    "theory_name": "Environmental Canalization of Life Span via Heat Shock Response and Proteostasis",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0154",
+    "child_id": "C0250",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000356",
+    "theory_name": "Oxidative Damage Theory of Aging",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0001",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000357",
+    "theory_name": "Insulin/Insulin-like Growth Factor Signaling (IIS) Attenuation Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000358",
+    "theory_name": "Target of Rapamycin (TOR) Signaling Pathway in Aging and Obesity",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000359",
+    "theory_name": "Fat Turnover and Lipolysis as Mediators of Longevity",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000360",
+    "theory_name": "Obesity-Associated Inflammation and Insulin Resistance Theory",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0072",
+    "child_id": "C0113",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000361",
+    "theory_name": "Hexosamine Pathway-Mediated Organ Damage in Diet-Induced Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0019",
+    "child_id": "C0031",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000362",
+    "theory_name": "Programmed Aging Theory",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0095",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000363",
+    "theory_name": "Damage Dilution Theory of Rejuvenation",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0067",
+    "child_id": "C0103",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000364",
+    "theory_name": "Epigenetic Clock Theory of Aging and Rejuvenation",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000365",
+    "theory_name": "Mitochondrial Decay and Oxidative Stress Theory",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000366",
+    "theory_name": "Senescence Theory of Aging and Senotherapeutics",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000367",
+    "theory_name": "Pro-longevity Gene Regulation Theory (CISD2 Focus)",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0146",
+    "child_id": "C0238",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000368",
+    "theory_name": "G-Quadruplex (G4) Structures and Aging Theory",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0105",
+    "child_id": "C0165",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000369",
+    "theory_name": "Microbiota-Gut Homeostasis Theory of Aging",
+    "family_id": "F004",
+    "family_name": null,
+    "parent_id": "P0009",
+    "child_id": "C0015",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000370",
+    "theory_name": "Cellular Senescence Theory of Aging and Cancer",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000371",
+    "theory_name": "Terminal Investment Theory",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0074",
+    "child_id": "C0118",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000372",
+    "theory_name": "Cellular Senescence Theory of Aging and Tumor Suppression",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0179",
+    "child_id": "C0291",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000373",
+    "theory_name": "MST-FOXO Signaling Pathway Theory of Aging",
+    "family_id": "F023",
+    "family_name": null,
+    "parent_id": "P0073",
+    "child_id": "C0114",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000374",
+    "theory_name": "Soft Glassy Rheology (SGR) Model of Physical Aging",
+    "family_id": "F063",
+    "family_name": "Singleton: Soft Glassy Rheology (SGR) Model of Physical Aging",
+    "parent_id": "P0187",
+    "child_id": "C0302",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000375",
+    "theory_name": "Programmed Aging Theory (Phenoptosis) as Manifested by Thymic Involution",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0180",
+    "child_id": "C0292",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000376",
+    "theory_name": "GCN2-mediated amino acid sensing theory of aging and longevity",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000377",
+    "theory_name": "Life-history theory of resource allocation between somatic maintenance and reproduction",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0109",
+    "child_id": "C0171",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000378",
+    "theory_name": "Parental Investment Theory of Actuarial Senescence",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0074",
+    "child_id": "C0120",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000379",
+    "theory_name": "Intra-Sexual Competition Theory of Accelerated Senescence",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000380",
+    "theory_name": "PTEN/cyclin D1/E2F/Ezh2/p16ink4a signaling network theory of aging",
+    "family_id": "F035",
+    "family_name": null,
+    "parent_id": "P0116",
+    "child_id": "C0183",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000381",
+    "theory_name": "Life History Theory of Aging",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000382",
+    "theory_name": "Mutation Accumulation Theory of Aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000383",
+    "theory_name": "Antagonistic Pleiotropy Theory of Aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000384",
+    "theory_name": "Target of Rapamycin (TOR) Signaling Pathway in Aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000385",
+    "theory_name": "Mitochondrial DNA turnover and mutation accumulation theory of aging",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0042",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000386",
+    "theory_name": "AMPK-Calcineurin-CRTC-1-CREB Longevity Regulation Pathway",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0204",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000387",
+    "theory_name": "Replicative Senescence Theory of Aging via Telomere Shortening and Oxidative Stress",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000388",
+    "theory_name": "Telomere Attrition and Dysfunction as a Causal Driver of Systemic Aging via Metabolic Alterations",
+    "family_id": "F058",
+    "family_name": null,
+    "parent_id": "P0177",
+    "child_id": "C0286",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000389",
+    "theory_name": "Evolutionary transitions in individuality reinforced by physiological homeostasis and environmental fluctuation amplification",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0114",
+    "child_id": "C0179",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000390",
+    "theory_name": "Mitochondrial respiratory impairment theory of aging",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000391",
+    "theory_name": "Kin competition and limited dispersal shaping the evolution of senescence",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000392",
+    "theory_name": "Metabolic-Inflammatory Transition Theory of Female Brain Aging",
+    "family_id": "F015",
+    "family_name": null,
+    "parent_id": "P0047",
+    "child_id": "C0074",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000393",
+    "theory_name": "Mitochondrial DNA-mediated evolution of lifespan theory",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0042",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000394",
+    "theory_name": "Extrinsic Mortality-Induced Evolutionary Model of Aging, Time Preference, and Risk-Aversion",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000395",
+    "theory_name": "Bowles lifespan theory",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0166",
+    "child_id": "C0264",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000396",
+    "theory_name": "Lamarckian epigenetic inheritance theory of aging",
+    "family_id": "F029",
+    "family_name": null,
+    "parent_id": "P0093",
+    "child_id": "C0151",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000397",
+    "theory_name": "Cellular Senescence as a Programmed Developmental Mechanism",
+    "family_id": "F035",
+    "family_name": null,
+    "parent_id": "P0116",
+    "child_id": "C0181",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000398",
+    "theory_name": "Neuronal homeostasis regulation theory of aging via HPK-1",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0208",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000399",
+    "theory_name": "Protein Error Catastrophe Theory of Aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0063",
+    "child_id": "C0099",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000400",
+    "theory_name": "Error-Catastrophe Theory of Aging",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0235",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000401",
+    "theory_name": "DNA Damage Repair Decline Theory of Aging in Adult Stem Cells",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0041",
+    "child_id": "C0067",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000402",
+    "theory_name": "Senescence-Inflammatory Regulation of Reparative Cellular Reprogramming Threshold Model",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000403",
+    "theory_name": "Oxidative Stress-Induced Neuromuscular Junction Degeneration Theory of Sarcopenia",
+    "family_id": "F008",
+    "family_name": null,
+    "parent_id": "P0023",
+    "child_id": "C0036",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000404",
+    "theory_name": "Socioemotional Selectivity Theory (SST)",
+    "family_id": "F037",
+    "family_name": null,
+    "parent_id": "P0125",
+    "child_id": "C0194",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000405",
+    "theory_name": "Strength and Vulnerability Integration (SAVI) Theory",
+    "family_id": "F037",
+    "family_name": null,
+    "parent_id": "P0124",
+    "child_id": "C0193",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000406",
+    "theory_name": "Dynamic Integration Theory (DIT)",
+    "family_id": "F019",
+    "family_name": null,
+    "parent_id": "P0061",
+    "child_id": "C0093",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000407",
+    "theory_name": "Caloric Restriction-Induced Metabolic Reprogramming Theory of Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000408",
+    "theory_name": "p38 MAPK/ATF-7 Innate Immunity Nutrient-Sensing Longevity Tradeoff Theory",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000409",
+    "theory_name": "Mitonuclear Balance Theory of Aging",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0042",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000410",
+    "theory_name": "Geroscience Hypothesis",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000411",
+    "theory_name": "Cellular Senescence Theory of Aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000412",
+    "theory_name": "Deregulated Nutrient Sensing Theory",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000413",
+    "theory_name": "Inflammaging Theory",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000414",
+    "theory_name": "Mitochondrial Dysfunction Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000415",
+    "theory_name": "Epigenetic Alterations Theory",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000416",
+    "theory_name": "Loss of Proteostasis Theory",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0038",
+    "child_id": "C0055",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000417",
+    "theory_name": "Stem Cell Exhaustion Theory",
+    "family_id": "F031",
+    "family_name": null,
+    "parent_id": "P0100",
+    "child_id": "C0159",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000418",
+    "theory_name": "Delayed Effects Theories (DET) / Developmental Origins of Health and Disease (DOHaD) Paradigm",
+    "family_id": "F038",
+    "family_name": null,
+    "parent_id": "P0127",
+    "child_id": "C0201",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000419",
+    "theory_name": "HSF1-FOXO3 stress response axis as a regulator of lifespan and aging",
+    "family_id": "F023",
+    "family_name": null,
+    "parent_id": "P0073",
+    "child_id": "C0114",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000420",
+    "theory_name": "Kynurenine Pathway Down-Regulation Theory of Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000421",
+    "theory_name": "Extranuclear DNA Accumulation Theory of Aging-Related Inflammation and Senescence",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0041",
+    "child_id": "C0062",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000422",
+    "theory_name": "Age-specific survival as a threshold trait model",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000423",
+    "theory_name": "Growth Hormone (GH)/Insulin-like Growth Factor-1 (IGF-1) Signaling Attenuation Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000424",
+    "theory_name": "Forkhead Box O (FoxO) Transcription Factor Theory of Aging",
+    "family_id": "F023",
+    "family_name": null,
+    "parent_id": "P0073",
+    "child_id": "C0114",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000425",
+    "theory_name": "Sirtuin (Sirt) Regulation of Aging via Epigenetic Modulation of FoxO and Other Targets",
+    "family_id": "F053",
+    "family_name": null,
+    "parent_id": "P0169",
+    "child_id": "C0267",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000426",
+    "theory_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammaging Theory",
+    "family_id": "F012",
+    "family_name": null,
+    "parent_id": "P0035",
+    "child_id": "C0051",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000427",
+    "theory_name": "Neuropeptide Y (Npy) Role in Calorie Restriction-Mediated Longevity",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0021",
+    "child_id": "C0034",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000428",
+    "theory_name": "Dietary Restriction Longevity Extension Theory",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000429",
+    "theory_name": "Trained Innate Immunity (TII)",
+    "family_id": "F060",
+    "family_name": null,
+    "parent_id": "P0182",
+    "child_id": "C0294",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000430",
+    "theory_name": "Clonal Hematopoiesis of Indeterminate Potential (CHIP)",
+    "family_id": "F045",
+    "family_name": null,
+    "parent_id": "P0143",
+    "child_id": "C0230",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000431",
+    "theory_name": "Evolutionary Theories of Aging: Antagonistic Pleiotropy and Mutation Accumulation",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000432",
+    "theory_name": "Cellular Senescence and Replicative Limit Theory (Hayflick Limit and Telomere Shortening)",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000433",
+    "theory_name": "Genetic Basis of Segmental Progeroid Syndromes as Aging Models",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0044",
+    "child_id": "C0070",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000434",
+    "theory_name": "Oxidative Damage and Free Radical Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000435",
+    "theory_name": "Amyloid Hypothesis in Alzheimer's Disease as a Model of Aging-Related Neurodegeneration",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0170",
+    "child_id": "C0268",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000436",
+    "theory_name": "Antagonistic Pleiotropy in Androgen Receptor Gene Variation",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0079",
+    "child_id": "C0128",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000437",
+    "theory_name": "Ageome framework as a modular epigenetic aging theory",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000438",
+    "theory_name": "Continuusparity life history strategy",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0109",
+    "child_id": "C0173",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000439",
+    "theory_name": "Antagonistic pleiotropy theory of aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000440",
+    "theory_name": "Selection shadow hypothesis",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000441",
+    "theory_name": "Reproductive death in semelparous species",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0076",
+    "child_id": "C0124",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000442",
+    "theory_name": "DNA Damage Theory of Aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0094",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000443",
+    "theory_name": "Autophagy-Induced DNA Protection Theory",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0042",
+    "child_id": "C0068",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000444",
+    "theory_name": "Cumulative Stochastic Damage Theory of Aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0094",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000445",
+    "theory_name": "Programmed Aging as Deleterious Developmental Changes",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000446",
+    "theory_name": "Evolutionary Theories of Aging Related to Mortality Nadir and Fertility",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000447",
+    "theory_name": "Neuroendocrine Hypothalamic Degeneration Model of Aging",
+    "family_id": "F015",
+    "family_name": null,
+    "parent_id": "P0046",
+    "child_id": "C0073",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000448",
+    "theory_name": "Weakened Magnetic Braking Theory of Stellar Aging",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0163",
+    "child_id": "C0261",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000449",
+    "theory_name": "Transcriptional Feedback Inhibition Theory of Clonal Expansion of mtDNA Deletions",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0042",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000450",
+    "theory_name": "Autophagy Decline Theory of Aging",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0086",
+    "child_id": "C0140",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000451",
+    "theory_name": "Autophagy Dysfunction in Alzheimer's Disease Theory",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0087",
+    "child_id": "C0141",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000452",
+    "theory_name": "Autophagy and Cellular Senescence Interaction Theory",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0086",
+    "child_id": "C0140",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000453",
+    "theory_name": "Calorie Restriction-Induced Autophagy Theory of Longevity",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000454",
+    "theory_name": "Exercise-Induced Autophagy Theory for Metabolic Health and Longevity",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0088",
+    "child_id": "C0143",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000455",
+    "theory_name": "Specialized Ribosome Hypothesis",
+    "family_id": "F044",
+    "family_name": null,
+    "parent_id": "P0139",
+    "child_id": "C0225",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000456",
+    "theory_name": "Ribosome Concentration Hypothesis",
+    "family_id": "F044",
+    "family_name": null,
+    "parent_id": "P0139",
+    "child_id": "C0225",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000457",
+    "theory_name": "p53-Mediated Nucleolar Stress Response in Ribosomopathies",
+    "family_id": "F044",
+    "family_name": null,
+    "parent_id": "P0141",
+    "child_id": "C0227",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000458",
+    "theory_name": "Ribosomopathies as a Model for Aging and Neurodegeneration",
+    "family_id": "F044",
+    "family_name": null,
+    "parent_id": "P0138",
+    "child_id": "C0223",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000459",
+    "theory_name": "Programmatic aging theory",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0095",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000460",
+    "theory_name": "Physiological Complexity Loss Theory of Aging",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0153",
+    "child_id": "C0248",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000461",
+    "theory_name": "Rare Critical Events Theory of Disease Mortality",
+    "family_id": "F041",
+    "family_name": null,
+    "parent_id": "P0134",
+    "child_id": "C0217",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000462",
+    "theory_name": "Adaptive Aging Programming Theory in Feline Renal Aging",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0149",
+    "child_id": "C0241",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000463",
+    "theory_name": "p53-centered integration theory of caloric restriction-mediated longevity",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000464",
+    "theory_name": "Microbiome-mediated programmed death theory of aging",
+    "family_id": "F004",
+    "family_name": null,
+    "parent_id": "P0009",
+    "child_id": "C0016",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000465",
+    "theory_name": "Loss of chondrocyte differentiation block theory",
+    "family_id": "F026",
+    "family_name": null,
+    "parent_id": "P0082",
+    "child_id": "C0131",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000466",
+    "theory_name": "Extracellular matrix alteration theory of cartilage aging",
+    "family_id": "F026",
+    "family_name": null,
+    "parent_id": "P0082",
+    "child_id": "C0133",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000467",
+    "theory_name": "Reactive oxygen species (ROS) and oxidative stress theory in cartilage aging",
+    "family_id": "F026",
+    "family_name": null,
+    "parent_id": "P0082",
+    "child_id": "C0135",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000468",
+    "theory_name": "Evolutionary theory of aging applied to osteoarthritis",
+    "family_id": "F026",
+    "family_name": null,
+    "parent_id": "P0082",
+    "child_id": "C0134",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000469",
+    "theory_name": "TGF-beta signaling decline theory in aging cartilage",
+    "family_id": "F026",
+    "family_name": null,
+    "parent_id": "P0082",
+    "child_id": "C0131",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000470",
+    "theory_name": "Wear and tear theory of osteoarthritis",
+    "family_id": "F026",
+    "family_name": null,
+    "parent_id": "P0082",
+    "child_id": "C0132",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000471",
+    "theory_name": "Mitochondrial Stress Response (MSR) Regulation via CBP/p300-Mediated Epigenetic Control",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0034",
+    "child_id": "C0050",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000472",
+    "theory_name": "Integrated multiring model of ALS pathogenesis incorporating genetics, environment, and ageing",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0170",
+    "child_id": "C0273",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000473",
+    "theory_name": "Pace of Biological Aging Theory as a Mediator of Diet Effects on Aging and Dementia",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000474",
+    "theory_name": "Evolutionary theory of senescence based on extrinsic mortality and adaptive variation",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000475",
+    "theory_name": "Physiological stress and starvation-induced senescence in semelparous Pacific salmon",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0003",
+    "child_id": "C0006",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000476",
+    "theory_name": "Adaptive variation in reproductive senescence related to breeding timing and competition",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0109",
+    "child_id": "C0171",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000477",
+    "theory_name": "Methionine Restriction (MR) Healthspan Extension Theory via IGF-1 Signaling Reduction",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000478",
+    "theory_name": "Selenium Supplementation as an MR-like Intervention via IGF-1 Signaling Inhibition",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0020",
+    "child_id": "C0033",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000479",
+    "theory_name": "Insulin/IGF-1 Signaling Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000480",
+    "theory_name": "Mitochondrial Signaling and Free Radical Theory of Aging",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0204",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000481",
+    "theory_name": "Germline Signaling Theory of Aging",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0205",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000482",
+    "theory_name": "Neuronal Signaling Theory of Aging",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0204",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000483",
+    "theory_name": "Dietary Restriction (Caloric Restriction) Theory of Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000484",
+    "theory_name": "Autophagy Theory of Aging",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0086",
+    "child_id": "C0140",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000485",
+    "theory_name": "Hyperfunction Theory of Aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0064",
+    "child_id": "C0100",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000486",
+    "theory_name": "Antagonistic Pleiotropy Theory of Aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000487",
+    "theory_name": "AMPK-HIF Signaling Longevity and Cancer Regulation Theory",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0010",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000488",
+    "theory_name": "Telomere Maintenance Theory of Cellular Aging and Immortalization",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000489",
+    "theory_name": "Hallmarks of Ageing Theory",
+    "family_id": "F008",
+    "family_name": null,
+    "parent_id": "P0023",
+    "child_id": "C0036",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000490",
+    "theory_name": "Cellular Senescence Theory of Ageing",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000491",
+    "theory_name": "Epigenetic Alteration Theory of Ageing",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000492",
+    "theory_name": "Mitochondrial Dysfunction Theory of Ageing",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000493",
+    "theory_name": "Deregulated Nutrient Sensing Theory of Ageing",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000494",
+    "theory_name": "Extracellular Matrix Dysfunction Theory of Ageing",
+    "family_id": "F008",
+    "family_name": null,
+    "parent_id": "P0023",
+    "child_id": "C0038",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000495",
+    "theory_name": "Altered Intercellular Communication Theory of Ageing",
+    "family_id": "F008",
+    "family_name": null,
+    "parent_id": "P0023",
+    "child_id": "C0037",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000497",
+    "theory_name": "Mathematical Model of Aging Based on Coupled Physiological Systems with Critical/Fatal Limits",
+    "family_id": "F041",
+    "family_name": null,
+    "parent_id": "P0133",
+    "child_id": "C0215",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000498",
+    "theory_name": "Erikson's Ego Development Theory",
+    "family_id": "F019",
+    "family_name": null,
+    "parent_id": "P0060",
+    "child_id": "C0092",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000499",
+    "theory_name": "Caloric Restriction Remodeling of Cellular Quiescence Program Theory",
+    "family_id": "F057",
+    "family_name": null,
+    "parent_id": "P0175",
+    "child_id": "C0279",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000500",
+    "theory_name": "Mitochondrial Quality Control Theory of Aging",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000501",
+    "theory_name": "Mitochondrial Free Radical Theory of Aging (MRFT)",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000502",
+    "theory_name": "Programmed Cell Death (PCD) Theory of Aging",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000503",
+    "theory_name": "Lifelong demographic heterogeneity theory of aging",
+    "family_id": "F038",
+    "family_name": null,
+    "parent_id": "P0126",
+    "child_id": "C0199",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000504",
+    "theory_name": "Transcriptional Memory Theory of Aging via dFOXO Activation",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000505",
+    "theory_name": "Transition Probability Model of Cell Proliferation",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0178",
+    "child_id": "C0287",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000506",
+    "theory_name": "Healthspan-Gerospan Framework in Aging",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0206",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000507",
+    "theory_name": "Morphostatic Information Loss Theory of Aging",
+    "family_id": "F035",
+    "family_name": null,
+    "parent_id": "P0117",
+    "child_id": "C0185",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000508",
+    "theory_name": "Antagonistic pleiotropy theory of aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000509",
+    "theory_name": "Methuselah gene as a pleiotropic aging gene affecting lifespan and stress resistance",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0233",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000510",
+    "theory_name": "Cellular senescence theory of aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000511",
+    "theory_name": "Telomere Uncapping Theory of Cellular Senescence",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000512",
+    "theory_name": "Energy and Ca2+ Signaling Deficits Hypothesis of Sporadic Alzheimer's Disease",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0170",
+    "child_id": "C0271",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000513",
+    "theory_name": "Genetic Mechanism of Cellular Senescence Theory",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0179",
+    "child_id": "C0290",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000514",
+    "theory_name": "Calorie Restriction Theory of Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000515",
+    "theory_name": "Protein Restriction Theory of Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000516",
+    "theory_name": "Critical Period Hypothesis of Estrogen Neuroprotection",
+    "family_id": "F030",
+    "family_name": null,
+    "parent_id": "P0096",
+    "child_id": "C0155",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000517",
+    "theory_name": "Evolutionary theory of aging via postponed reproduction",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000518",
+    "theory_name": "Nutrient sensing pathway involvement in aging evolution (IIS/TOR signaling)",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0233",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000519",
+    "theory_name": "Life history trade-off theory (antagonistic pleiotropy)",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000520",
+    "theory_name": "mTOR-driven geroconversion theory of cellular senescence",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0010",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000521",
+    "theory_name": "Epigenetic Reprogramming Theory of Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000522",
+    "theory_name": "Cellular Senescence as a Driver of Systemic Aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000523",
+    "theory_name": "Gene Editing as a Mechanism to Modulate Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0106",
+    "child_id": "C0166",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000524",
+    "theory_name": "Stem Cell Therapy for Tissue Rejuvenation and Aging Delay",
+    "family_id": "F031",
+    "family_name": null,
+    "parent_id": "P0102",
+    "child_id": "C0162",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000525",
+    "theory_name": "Mitochondrial Dysfunction and Targeted Mitochondrial Editing Theory",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000526",
+    "theory_name": "Immunosenescence and Immune Rejuvenation Theory",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0299",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000527",
+    "theory_name": "Cellular Senescence Theory of Aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000528",
+    "theory_name": "Proteostasis theory of aging",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0038",
+    "child_id": "C0055",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000529",
+    "theory_name": "TOR signaling and protein translation regulation as a conserved longevity pathway",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0235",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000530",
+    "theory_name": "Telomere Shortening and Cellular Senescence Theory of Aging",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000531",
+    "theory_name": "Insulin/IGF-1 Signalling Pathway Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000532",
+    "theory_name": "Evolutionary Theory of Aging (Disposable Soma Theory)",
+    "family_id": "F003",
+    "family_name": null,
+    "parent_id": "P0007",
+    "child_id": "C0013",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000533",
+    "theory_name": "Evolutionary theory of senescence based on the accumulation of deleterious germline mutations under density regulation",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000534",
+    "theory_name": "Early-life inertia theory of senescence",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000535",
+    "theory_name": "Network Pharmacology-Based Synergistic Aging Delay Theory",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0205",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000536",
+    "theory_name": "Proteinopathy-induced senescent cell hypothesis of neurodegeneration",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0170",
+    "child_id": "C0274",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000537",
+    "theory_name": "Immune Senescence as a Driver of Accelerated Aging in HIV Infection",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0300",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000538",
+    "theory_name": "HIV Infection as a Model of Accelerated versus Accentuated Aging",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0300",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000539",
+    "theory_name": "Lamin A-mediated accelerated telomere attrition and replicative senescence theory",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000540",
+    "theory_name": "Adaptive Homeostasis Theory",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0039",
+    "child_id": "C0059",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000541",
+    "theory_name": "Oxygen Paradox Theory",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000542",
+    "theory_name": "French Paradox Hypothesis",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0022",
+    "child_id": "C0035",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000543",
+    "theory_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000544",
+    "theory_name": "Mitochondrial Dysfunction and Oxidative Stress Theory",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000545",
+    "theory_name": "Epigenetic Regulation Theory of Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000546",
+    "theory_name": "Cellular Senescence and Inflammaging Theory",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000547",
+    "theory_name": "Dietary Restriction and Longevity Pathways Theory",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000548",
+    "theory_name": "Life History Theory",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000549",
+    "theory_name": "Predictive Adaptive Response Theory",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0081",
+    "child_id": "C0130",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000550",
+    "theory_name": "Antagonistic Pleiotropy Theory",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000551",
+    "theory_name": "GATA transcription factor-mediated dietary amino acid signaling theory of aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000552",
+    "theory_name": "Germline DNA Mutation Accumulation Theory of Male Reproductive Aging",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0110",
+    "child_id": "C0175",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000553",
+    "theory_name": "SPARC deficiency-induced accelerated aging theory",
+    "family_id": "F055",
+    "family_name": null,
+    "parent_id": "P0173",
+    "child_id": "C0277",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000554",
+    "theory_name": "SPARC overexpression mimics exercise-induced anti-aging effects theory",
+    "family_id": "F055",
+    "family_name": null,
+    "parent_id": "P0173",
+    "child_id": "C0277",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000555",
+    "theory_name": "Copper homeostasis and mitochondrial respiration switch theory of aging in Podospora anserina",
+    "family_id": "F057",
+    "family_name": null,
+    "parent_id": "P0176",
+    "child_id": "C0282",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000556",
+    "theory_name": "Insulin Resistance as a Fundamental Aging and Chronic Disease Mechanism",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000557",
+    "theory_name": "Infection-Induced Cellular Senescence Theory of Aging and Alzheimer's Disease",
+    "family_id": "F012",
+    "family_name": null,
+    "parent_id": "P0035",
+    "child_id": "C0052",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000558",
+    "theory_name": "Epigenetic theory of aging modulated by nutrition",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000559",
+    "theory_name": "Evolutionary Life History Theory",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0109",
+    "child_id": "C0171",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000560",
+    "theory_name": "SIR2 (Sirtuin)-related aging regulation theory",
+    "family_id": "F053",
+    "family_name": null,
+    "parent_id": "P0169",
+    "child_id": "C0267",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000561",
+    "theory_name": "Pike's model of breast tissue aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0065",
+    "child_id": "C0101",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000562",
+    "theory_name": "Antagonistic Pleiotropy Theory of Aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000563",
+    "theory_name": "Autophagy Dysfunction and Aging Theory",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0086",
+    "child_id": "C0140",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000564",
+    "theory_name": "Common Molecular Basis Linking Longevity and Cancer via Tumor Suppressors and Oncogenes",
+    "family_id": "F016",
+    "family_name": null,
+    "parent_id": "P0048",
+    "child_id": "C0075",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000565",
+    "theory_name": "Bone Morphogenetic Protein (BMP) Signaling Theory of Aging-Related Tauopathy",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0170",
+    "child_id": "C0272",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000566",
+    "theory_name": "Telomere theory of cellular senescence",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000567",
+    "theory_name": "Replicative and Chronological Aging in Pathogenic Fungi as Drivers of Virulence",
+    "family_id": "F057",
+    "family_name": null,
+    "parent_id": "P0175",
+    "child_id": "C0281",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000568",
+    "theory_name": "Somatic Mutation Theory of Aging",
+    "family_id": "F061",
+    "family_name": null,
+    "parent_id": "P0183",
+    "child_id": "C0295",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000569",
+    "theory_name": "KIN4/MAST kinase-mediated modulation of insulin/IGF-1 signaling via PTEN interaction",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0204",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000570",
+    "theory_name": "Antagonistic pleiotropy theory of aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000571",
+    "theory_name": "Insulin/IGF-1 signaling pathway as a regulator of aging and longevity",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000572",
+    "theory_name": "Ceramide-mediated cellular senescence theory",
+    "family_id": "F035",
+    "family_name": null,
+    "parent_id": "P0116",
+    "child_id": "C0184",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000573",
+    "theory_name": "Phenotypic Plasticity of Lifespan and Somatic Maintenance",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0233",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000574",
+    "theory_name": "Mitochondrial Dysfunction as a Driver of Aging via Impaired Protein Homeostasis",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000575",
+    "theory_name": "Cellular Senescence Theory of Aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000576",
+    "theory_name": "Epigenetic Aging Theory via DNA Methylation Alterations",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000577",
+    "theory_name": "Cellular Senescence Theory of Aging",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0179",
+    "child_id": "C0290",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000578",
+    "theory_name": "Random Injury (Damage Accumulation) Theory of Aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0094",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000579",
+    "theory_name": "Programmed Aging Theory (Genetic Regulation Hypothesis)",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0179",
+    "child_id": "C0290",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000580",
+    "theory_name": "Optimal Competition Theory of Multicellular Ageing",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0178",
+    "child_id": "C0288",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000581",
+    "theory_name": "Strehler-Mildvan model of aging and mortality",
+    "family_id": "F041",
+    "family_name": null,
+    "parent_id": "P0133",
+    "child_id": "C0214",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000582",
+    "theory_name": "Frailty (hidden heterogeneity) models of mortality",
+    "family_id": "F038",
+    "family_name": null,
+    "parent_id": "P0126",
+    "child_id": "C0196",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000583",
+    "theory_name": "Integrative stochastic process model of human mortality and aging",
+    "family_id": "F038",
+    "family_name": null,
+    "parent_id": "P0126",
+    "child_id": "C0200",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000584",
+    "theory_name": "Genetic heterogeneity and pleiotropy in aging and longevity",
+    "family_id": "F038",
+    "family_name": null,
+    "parent_id": "P0126",
+    "child_id": "C0197",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000585",
+    "theory_name": "Environmental stress resistance and aging interaction theory",
+    "family_id": "F018",
+    "family_name": null,
+    "parent_id": "P0057",
+    "child_id": "C0087",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000586",
+    "theory_name": "Mitochondrial replication error theory of aging",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0042",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000587",
+    "theory_name": "Mitochondrial oxidative damage (free radical) theory of aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000588",
+    "theory_name": "Challenge Hypothesis",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0111",
+    "child_id": "C0176",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000589",
+    "theory_name": "Homeostatic Physiological Dysregulation (PD) Hypothesis",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0153",
+    "child_id": "C0248",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000590",
+    "theory_name": "Rate of Living Theory (Original and Reinterpreted)",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0152",
+    "child_id": "C0246",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000591",
+    "theory_name": "Genetically Programmed Switch Mechanism for Onset of Senescence",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0179",
+    "child_id": "C0290",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000592",
+    "theory_name": "Molecular Longevity Mechanisms Integrating Evolutionary and Intervention Strategies",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0232",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000593",
+    "theory_name": "Calcium Dysregulation Hypothesis of Brain Aging",
+    "family_id": "F030",
+    "family_name": null,
+    "parent_id": "P0094",
+    "child_id": "C0152",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000594",
+    "theory_name": "Antagonistic pleiotropy theory of aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000595",
+    "theory_name": "Disposable soma theory of aging",
+    "family_id": "F003",
+    "family_name": null,
+    "parent_id": "P0007",
+    "child_id": "C0013",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000596",
+    "theory_name": "Direct reproductive costs (direct constraints) model",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0112",
+    "child_id": "C0177",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000597",
+    "theory_name": "Adaptive evolution of signal transduction pathways modulating lifespan via the methuselah (mth) gene",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0233",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000598",
+    "theory_name": "Differential Heterogeneity Hypothesis",
+    "family_id": "F038",
+    "family_name": null,
+    "parent_id": "P0126",
+    "child_id": "C0195",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000599",
+    "theory_name": "Williams' Evolutionary Hypothesis on Senescence",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000600",
+    "theory_name": "Strehler-Mildvan Correlation (Compensation Law of Mortality)",
+    "family_id": "F041",
+    "family_name": null,
+    "parent_id": "P0135",
+    "child_id": "C0218",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000601",
+    "theory_name": "Dietary Restriction (DR) Longevity Signaling Theory",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000602",
+    "theory_name": "Sir2/Sirtuin-Mediated Longevity Theory",
+    "family_id": "F053",
+    "family_name": null,
+    "parent_id": "P0169",
+    "child_id": "C0267",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000603",
+    "theory_name": "Ontogenescence and Senescence as Distinct but Interacting Phenomena",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000604",
+    "theory_name": "Neural Economics and Aging Brain Capital (ABC) Model",
+    "family_id": "F028",
+    "family_name": null,
+    "parent_id": "P0090",
+    "child_id": "C0146",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000605",
+    "theory_name": "ABC-Neurodegeneration (ABC-ND) Model",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0170",
+    "child_id": "C0270",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000606",
+    "theory_name": "Amyloid-Tau Interaction Theory within ABC-AD Model",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0170",
+    "child_id": "C0269",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000607",
+    "theory_name": "Socially regulated plastic aging in honey bee workers",
+    "family_id": "F064",
+    "family_name": null,
+    "parent_id": "P0188",
+    "child_id": "C0303",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000608",
+    "theory_name": "Birth-Death Adaptive Dynamics Model of Ageing with Lansing Effect",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000609",
+    "theory_name": "Proteostasis Decline Theory of Aging",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0038",
+    "child_id": "C0055",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000610",
+    "theory_name": "Nrf2-mediated hormetic dose-response theory of aging and resilience",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0003",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000611",
+    "theory_name": "Endosymbiotic origin of apoptosis theory",
+    "family_id": "F047",
+    "family_name": null,
+    "parent_id": "P0151",
+    "child_id": "C0245",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000612",
+    "theory_name": "Maternal Care-Driven Evolution of Slow Life Histories",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0074",
+    "child_id": "C0122",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000613",
+    "theory_name": "Cognitive Reserve Theory",
+    "family_id": "F028",
+    "family_name": null,
+    "parent_id": "P0089",
+    "child_id": "C0144",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000614",
+    "theory_name": "Medawar's Evolutionary Theory of Aging",
+    "family_id": "F051",
+    "family_name": null,
+    "parent_id": "P0164",
+    "child_id": "C0262",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000615",
+    "theory_name": "Growth and Senescence as Concurrent Processes",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0178",
+    "child_id": "C0289",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000617",
+    "theory_name": "Viral Age Distortion Theory",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000618",
+    "theory_name": "Immunosenescence and Inflammaging as an Evolutionary Adaptive Response",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000619",
+    "theory_name": "Proteodynamics and Proteostasis in Aging and Autoimmunity",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0038",
+    "child_id": "C0057",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000620",
+    "theory_name": "Genetic and Epigenetic Regulation of Longevity and Immune Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000621",
+    "theory_name": "Autoimmune Ecology and Immune System Hyperstimulation",
+    "family_id": "F060",
+    "family_name": null,
+    "parent_id": "P0181",
+    "child_id": "C0293",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000622",
+    "theory_name": "Mitochondrial Dynamics and Structural Remodeling Theory of Aging Skeletal Muscle",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000623",
+    "theory_name": "Central Redox Theory",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0030",
+    "child_id": "C0046",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000624",
+    "theory_name": "Stress-induced phenoptosis regulated by FSHR1/GPCR signaling",
+    "family_id": "F047",
+    "family_name": null,
+    "parent_id": "P0150",
+    "child_id": "C0243",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000625",
+    "theory_name": "Hallmarks of Aging Theory",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0096",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000626",
+    "theory_name": "Cellular Senescence Theory of Aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000627",
+    "theory_name": "Genomic Instability Theory of Aging",
+    "family_id": "F021",
+    "family_name": null,
+    "parent_id": "P0068",
+    "child_id": "C0105",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000628",
+    "theory_name": "Telomere Attrition Theory of Aging",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000629",
+    "theory_name": "Epigenetic Alterations Theory of Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000630",
+    "theory_name": "Loss of Proteostasis Theory of Aging",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0038",
+    "child_id": "C0055",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000631",
+    "theory_name": "Impaired Macroautophagy Theory of Aging",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0086",
+    "child_id": "C0140",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000632",
+    "theory_name": "Mitochondrial Dysfunction Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000633",
+    "theory_name": "Deregulated Nutrient Sensing Theory of Aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000634",
+    "theory_name": "Stem Cell Exhaustion Theory of Aging",
+    "family_id": "F031",
+    "family_name": null,
+    "parent_id": "P0100",
+    "child_id": "C0159",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000635",
+    "theory_name": "Defective Intercellular Communication Theory of Aging",
+    "family_id": "F008",
+    "family_name": null,
+    "parent_id": "P0023",
+    "child_id": "C0037",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000636",
+    "theory_name": "Chronic Inflammation (Inflammaging) Theory of Aging",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000637",
+    "theory_name": "Gut Dysbiosis Theory of Aging",
+    "family_id": "F004",
+    "family_name": null,
+    "parent_id": "P0009",
+    "child_id": "C0015",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000638",
+    "theory_name": "Age-Dependent Loss of Cell Communication via Receptor Function Decline",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000639",
+    "theory_name": "Age-specific mutation theory of bacterial aging",
+    "family_id": "F039",
+    "family_name": null,
+    "parent_id": "P0128",
+    "child_id": "C0202",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000640",
+    "theory_name": "Calorie Restriction Mimetic Theory of Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000641",
+    "theory_name": "Cellular Senescence Modulation Theory by Metformin",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000642",
+    "theory_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000643",
+    "theory_name": "mTOR Inhibition Theory of Aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000644",
+    "theory_name": "AMPK Activation Theory of Aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0006",
+    "child_id": "C0012",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000645",
+    "theory_name": "Oxidative Stress and Inflammation Reduction Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000646",
+    "theory_name": "RASGRF1-mediated modulation of aging via IGF-I signaling and oxidative stress pathways",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000647",
+    "theory_name": "Free Radical Theory of Aging as related to RASGRF1 deficiency",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000648",
+    "theory_name": "Insulin/IGF-I Signaling (IIS) Theory of Aging in the context of RasGrf1 deficiency",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000649",
+    "theory_name": "Insulin/IGF Signaling (IIS) Pathway Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000650",
+    "theory_name": "Nicotinamide depletion activation of Sir2 as a mechanism for lifespan extension by calorie restriction",
+    "family_id": "F053",
+    "family_name": null,
+    "parent_id": "P0169",
+    "child_id": "C0267",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000651",
+    "theory_name": "Replicative Aging Stem Cell Hierarchy Model of Intestinal Crypts",
+    "family_id": "F031",
+    "family_name": null,
+    "parent_id": "P0101",
+    "child_id": "C0161",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000652",
+    "theory_name": "Age-related impairment of ubiquitin-proteasome system as a causal driver of organismal aging",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0038",
+    "child_id": "C0056",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000653",
+    "theory_name": "Sirt3-MnSOD Mitochondrial Fidelity and Aging Theory",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000654",
+    "theory_name": "Cognitive Reserve Theory",
+    "family_id": "F028",
+    "family_name": null,
+    "parent_id": "P0089",
+    "child_id": "C0144",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000655",
+    "theory_name": "Insulin/IGFR-1 Signaling Pathway as a Regulator of Aging and Immunity",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000656",
+    "theory_name": "p38 MAP Kinase Pathway in Innate Immunity and Aging",
+    "family_id": "F012",
+    "family_name": null,
+    "parent_id": "P0036",
+    "child_id": "C0053",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000657",
+    "theory_name": "Neuronal Dopaminergic Signaling in Regulation of Aging and Immunity",
+    "family_id": "F030",
+    "family_name": null,
+    "parent_id": "P0095",
+    "child_id": "C0154",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000658",
+    "theory_name": "CMV-Enhanced Immune Senescence via T Cell Competition Model",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0299",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000659",
+    "theory_name": "Replicative Ribosomal DNA Instability Theory of Aging",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0041",
+    "child_id": "C0062",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000660",
+    "theory_name": "Evolutionary Genetic Theory of Aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000661",
+    "theory_name": "Adaptive Phenoptosis Theory of Aging",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000662",
+    "theory_name": "Telomere-Subtelomeric Repression Model of Cellular Senescence and Aging",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000663",
+    "theory_name": "Phenoptosis as a Supra-Individual Evolutionary Strategy",
+    "family_id": "F047",
+    "family_name": null,
+    "parent_id": "P0150",
+    "child_id": "C0244",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000664",
+    "theory_name": "Post-Reproductive Life Span as a Population Stability Mechanism Theory",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0109",
+    "child_id": "C0171",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000665",
+    "theory_name": "Macronutrient Intake Theory of Dietary Restriction Effects on Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000666",
+    "theory_name": "Hedgehog Signaling Dysregulation Theory of Aging-Related Loss of Liver Resiliency",
+    "family_id": "F058",
+    "family_name": null,
+    "parent_id": "P0177",
+    "child_id": "C0284",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000667",
+    "theory_name": "Splicing regulation maintenance theory of negligible senescence",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0147",
+    "child_id": "C0239",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000668",
+    "theory_name": "Adaptive Insulin Resistance Theory in Obesity",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0026",
+    "child_id": "C0041",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000669",
+    "theory_name": "Proteostasis maintenance as a causal mechanism of slowed aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000670",
+    "theory_name": "DNA Repair Deficiency Theory of Aging",
+    "family_id": "F014",
+    "family_name": null,
+    "parent_id": "P0041",
+    "child_id": "C0064",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000671",
+    "theory_name": "Amyloidogenic Evolvability (aEVO) Theory",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0172",
+    "child_id": "C0276",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000672",
+    "theory_name": "Antagonistic Pleiotropy Theory of Aging (as applied to MSA)",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0172",
+    "child_id": "C0276",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000673",
+    "theory_name": "Nuclear Pore Complex (NPC) Quality Control Theory of Aging",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0040",
+    "child_id": "C0060",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000674",
+    "theory_name": "Hamiltonian evolutionary theory of aging",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000675",
+    "theory_name": "Neobalance evolutionary genetics theory of aging in outcrossing sexual populations",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000676",
+    "theory_name": "Evolutionary genetic system 1 (rarely sexual/asexual species) aging theory",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000677",
+    "theory_name": "Probabilistic Wear and Anti-Wear Model of Aging",
+    "family_id": "F041",
+    "family_name": null,
+    "parent_id": "P0133",
+    "child_id": "C0213",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000678",
+    "theory_name": "Oxidative Damage Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000679",
+    "theory_name": "Nitric Oxide and Peroxynitrite-Mediated Redox Signaling and Damage Theory",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000680",
+    "theory_name": "Dynamic heterogeneity theory of life histories and senescence",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0109",
+    "child_id": "C0171",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000681",
+    "theory_name": "Non-Darwinian stem cell niche evolution theory",
+    "family_id": "F061",
+    "family_name": null,
+    "parent_id": "P0184",
+    "child_id": "C0298",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000682",
+    "theory_name": "Cognitive Reserve Theory",
+    "family_id": "F028",
+    "family_name": null,
+    "parent_id": "P0089",
+    "child_id": "C0144",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000683",
+    "theory_name": "Insulin/Insulin-like Growth Factor Signalling (IIS) Theory of Aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000684",
+    "theory_name": "mTOR Signaling Theory of Aging",
+    "family_id": "F002",
+    "family_name": null,
+    "parent_id": "P0005",
+    "child_id": "C0008",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000685",
+    "theory_name": "Sirtuin-Mediated Longevity and Muscle Maintenance Theory",
+    "family_id": "F053",
+    "family_name": null,
+    "parent_id": "P0169",
+    "child_id": "C0267",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000686",
+    "theory_name": "Dietary Restriction (DR) Theory of Aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000687",
+    "theory_name": "Telomere Aging Clock Theory",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000688",
+    "theory_name": "Cellular Senescence as an Anti-Oncogenic Mechanism Theory",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0179",
+    "child_id": "C0291",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000689",
+    "theory_name": "Oncogene-Induced Premature Senescence Theory",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0179",
+    "child_id": "C0291",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000690",
+    "theory_name": "Glycosphingolipid accumulation theory of aging",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0019",
+    "child_id": "C0032",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000691",
+    "theory_name": "Relativistic Biological Space-Time Theory of Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000692",
+    "theory_name": "Phenoptosis theory (programmed organismal death)",
+    "family_id": "F047",
+    "family_name": null,
+    "parent_id": "P0150",
+    "child_id": "C0242",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000693",
+    "theory_name": "Reactive oxygen species (ROS) damage accumulation theory of aging in insects",
+    "family_id": "F001",
+    "family_name": null,
+    "parent_id": "P0001",
+    "child_id": "C0002",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000694",
+    "theory_name": "Antagonistic Pleiotropy Theory of Aging",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000695",
+    "theory_name": "Disposable Soma Theory",
+    "family_id": "F003",
+    "family_name": null,
+    "parent_id": "P0007",
+    "child_id": "C0013",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000696",
+    "theory_name": "Multifactorial Aging Theory",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0062",
+    "child_id": "C0094",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000697",
+    "theory_name": "Temporality in Reproductive Investment (TRI) Hypothesis",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0074",
+    "child_id": "C0118",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000698",
+    "theory_name": "Myelin Loss as a Causal Driver of Alzheimer's Disease Pathology",
+    "family_id": "F054",
+    "family_name": null,
+    "parent_id": "P0171",
+    "child_id": "C0275",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000699",
+    "theory_name": "Orgel error hypothesis of aging",
+    "family_id": "F020",
+    "family_name": null,
+    "parent_id": "P0063",
+    "child_id": "C0099",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000700",
+    "theory_name": "Domino Hypothesis of Age-Associated Immune Insufficiency",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0299",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000701",
+    "theory_name": "Clonal Exhaustion Hypothesis of Immunosenescence",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0299",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000702",
+    "theory_name": "Telomere Shortening Trade-off Theory in Stem Cells",
+    "family_id": "F050",
+    "family_name": null,
+    "parent_id": "P0162",
+    "child_id": "C0260",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000703",
+    "theory_name": "Apoptosis as a causal mechanism of aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000704",
+    "theory_name": "Mitochondrial Mutation Accumulation via Reduced Effective Population Size and Haploid Uniparental Inheritance",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0043",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000705",
+    "theory_name": "Coordinated Multi-Pathway Decline Theory of Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000706",
+    "theory_name": "Life Course Biological Aging Framework",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000707",
+    "theory_name": "Commitment Theory of Cellular Senescence",
+    "family_id": "F059",
+    "family_name": null,
+    "parent_id": "P0178",
+    "child_id": "C0287",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000708",
+    "theory_name": "Integrative Model of Aging, Stress, and Health",
+    "family_id": "F018",
+    "family_name": null,
+    "parent_id": "P0057",
+    "child_id": "C0086",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000709",
+    "theory_name": "Socioemotional Selectivity Theory (SST)",
+    "family_id": "F019",
+    "family_name": null,
+    "parent_id": "P0059",
+    "child_id": "C0091",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000710",
+    "theory_name": "Strength and Vulnerability Integration (SAVI) Model",
+    "family_id": "F037",
+    "family_name": null,
+    "parent_id": "P0124",
+    "child_id": "C0193",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000711",
+    "theory_name": "Glucocorticoid Cascade Hypothesis",
+    "family_id": "F030",
+    "family_name": null,
+    "parent_id": "P0097",
+    "child_id": "C0156",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000712",
+    "theory_name": "Inflammaging Theory",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000713",
+    "theory_name": "p53-MnSOD-p66shc Mitochondrial Redox Regulation Theory of Aging and Cancer",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000714",
+    "theory_name": "Mitochondrial Dysfunction Theory of Brain Aging",
+    "family_id": "F006",
+    "family_name": null,
+    "parent_id": "P0016",
+    "child_id": "C0023",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000715",
+    "theory_name": "Oxidative Damage Accumulation Theory in Brain Aging",
+    "family_id": "F006",
+    "family_name": null,
+    "parent_id": "P0016",
+    "child_id": "C0023",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000716",
+    "theory_name": "Impaired Cellular Waste Disposal Theory in Brain Aging",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0087",
+    "child_id": "C0141",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000717",
+    "theory_name": "Neuronal Calcium Dysregulation Theory of Brain Aging",
+    "family_id": "F030",
+    "family_name": null,
+    "parent_id": "P0094",
+    "child_id": "C0152",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000718",
+    "theory_name": "Compromised Adaptive Cellular Stress Response Theory in Brain Aging",
+    "family_id": "F006",
+    "family_name": null,
+    "parent_id": "P0016",
+    "child_id": "C0027",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000719",
+    "theory_name": "Neuroinflammation Theory of Brain Aging",
+    "family_id": "F006",
+    "family_name": null,
+    "parent_id": "P0016",
+    "child_id": "C0024",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000720",
+    "theory_name": "Impaired DNA Repair Theory of Brain Aging",
+    "family_id": "F006",
+    "family_name": null,
+    "parent_id": "P0016",
+    "child_id": "C0025",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000721",
+    "theory_name": "Epigenetic Maintenance and Genome Integrity Theory of Aging",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000722",
+    "theory_name": "Epigenetic alteration theory of aging-related circadian rhythm disruption and cognitive decline",
+    "family_id": "F032",
+    "family_name": null,
+    "parent_id": "P0103",
+    "child_id": "C0163",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000723",
+    "theory_name": "Sexual selection-driven elevated germline mutation rate theory",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0110",
+    "child_id": "C0174",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000724",
+    "theory_name": "Polygenic and Indirect Natural Selection Theory of Longevity Regulation",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0144",
+    "child_id": "C0232",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000725",
+    "theory_name": "Disposable Soma Hypothesis of Senescence",
+    "family_id": "F003",
+    "family_name": null,
+    "parent_id": "P0007",
+    "child_id": "C0013",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000726",
+    "theory_name": "Antagonistic Pleiotropy Hypothesis of Senescence",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000727",
+    "theory_name": "Sir2/Sirtuin-mediated Programmed Aging via NAD+-dependent Deacetylation and O-acetyl-ADP-ribose Signaling",
+    "family_id": "F053",
+    "family_name": null,
+    "parent_id": "P0169",
+    "child_id": "C0267",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000728",
+    "theory_name": "Epigenetic regulation of nuclear genes controlling mitochondrial translation as a cause of age-associated mitochondrial respiration defects",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000729",
+    "theory_name": "Centralized Pineal Gland Aging Clock Theory",
+    "family_id": "F048",
+    "family_name": null,
+    "parent_id": "P0156",
+    "child_id": "C0252",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000730",
+    "theory_name": "Telomere Dynamics and Telomerase Regulation as an Evolutionary Aging Mechanism in Ectotherms",
+    "family_id": "F043",
+    "family_name": null,
+    "parent_id": "P0137",
+    "child_id": "C0220",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000731",
+    "theory_name": "Anti-Cancer Hypothesis Linking Endothermy, Telomerase Repression, and Cancer Risk",
+    "family_id": "F016",
+    "family_name": null,
+    "parent_id": "P0050",
+    "child_id": "C0078",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000732",
+    "theory_name": "FoxO1-mediated fat catabolism as a pro-longevity adaptive pathway",
+    "family_id": "F023",
+    "family_name": null,
+    "parent_id": "P0073",
+    "child_id": "C0116",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000733",
+    "theory_name": "Nutrient restriction-induced lipophagy as a longevity mechanism",
+    "family_id": "F027",
+    "family_name": null,
+    "parent_id": "P0086",
+    "child_id": "C0139",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000734",
+    "theory_name": "Insulin/IGF-1 signaling modulation of adipose tissue aging",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000735",
+    "theory_name": "Insulin/IGF-1 Signaling Pathway Reduction-of-Function Longevity Theory",
+    "family_id": "F009",
+    "family_name": null,
+    "parent_id": "P0025",
+    "child_id": "C0040",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000736",
+    "theory_name": "Cellular senescence theory of aging as a driver of blood-brain barrier dysfunction",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000737",
+    "theory_name": "Proteostasis theory of aging",
+    "family_id": "F013",
+    "family_name": null,
+    "parent_id": "P0038",
+    "child_id": "C0055",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000738",
+    "theory_name": "Autophagy-mediated neuroendocrine regulation of lifespan via ATG-18 in C. elegans",
+    "family_id": "F040",
+    "family_name": null,
+    "parent_id": "P0129",
+    "child_id": "C0204",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000739",
+    "theory_name": "Premature Cellular Senescence as a Model for Accelerated Aging in Diabetes",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000740",
+    "theory_name": "Cardiac senescence as a causal mechanism of pathological cardiac hypertrophy",
+    "family_id": "F033",
+    "family_name": null,
+    "parent_id": "P0107",
+    "child_id": "C0169",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000741",
+    "theory_name": "Intracellular Entropy and Mitochondrial Efficiency Theory of Aging",
+    "family_id": "F011",
+    "family_name": null,
+    "parent_id": "P0028",
+    "child_id": "C0044",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000742",
+    "theory_name": "Host Senescence-Driven Virulence Evolution Theory",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0015",
+    "child_id": "C0022",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000743",
+    "theory_name": "Oxidative Damage Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000744",
+    "theory_name": "Protein Isoaspartate Damage Accumulation and Repair Deficiency Theory of Aging",
+    "family_id": "F006",
+    "family_name": null,
+    "parent_id": "P0016",
+    "child_id": "C0026",
+    "is_singleton": true
+  },
+  {
+    "theory_id": "T000745",
+    "theory_name": "Thymic Involution-Driven Immunosenescence Theory",
+    "family_id": "F062",
+    "family_name": null,
+    "parent_id": "P0185",
+    "child_id": "C0299",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000746",
+    "theory_name": "Replicative Aging as a Tumor Suppression Mechanism via Telomere Shortening",
+    "family_id": "F043",
+    "family_name": null,
+    "parent_id": "P0137",
+    "child_id": "C0220",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000747",
+    "theory_name": "Evolutionary Trade-Off Theory of Telomere Length and Telomerase Expression",
+    "family_id": "F043",
+    "family_name": null,
+    "parent_id": "P0137",
+    "child_id": "C0220",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000748",
+    "theory_name": "Deleterious In Late-Life (DILL) Mutation Accumulation Theory",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0012",
+    "child_id": "C0019",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000749",
+    "theory_name": "Antagonistic Pleiotropy Theory (BIEL+DILL Model)",
+    "family_id": "F025",
+    "family_name": null,
+    "parent_id": "P0080",
+    "child_id": "C0129",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000750",
+    "theory_name": "Molecular Evolutionary Model of Aging via Fixation Rates in Non-Recombining Genomes",
+    "family_id": "F010",
+    "family_name": null,
+    "parent_id": "P0027",
+    "child_id": "C0042",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000751",
+    "theory_name": "Gut microbiota remodeling as a modulator of systemic aging via gut-vascular axis",
+    "family_id": "F004",
+    "family_name": null,
+    "parent_id": "P0009",
+    "child_id": "C0015",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000752",
+    "theory_name": "Reactive Oxygen Species (ROS) Hormesis Theory of Aging",
+    "family_id": "F042",
+    "family_name": null,
+    "parent_id": "P0136",
+    "child_id": "C0219",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000753",
+    "theory_name": "Resource Reallocation Hypothesis (RRH)",
+    "family_id": "F034",
+    "family_name": null,
+    "parent_id": "P0113",
+    "child_id": "C0178",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000754",
+    "theory_name": "Nutrient Recycling Hypothesis (NRH)",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000755",
+    "theory_name": "Toxic Protein Hypothesis (TPH)",
+    "family_id": "F046",
+    "family_name": null,
+    "parent_id": "P0148",
+    "child_id": "C0240",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000756",
+    "theory_name": "Adaptive Plasticity via Nutrient Sensing Pathways",
+    "family_id": "F007",
+    "family_name": null,
+    "parent_id": "P0018",
+    "child_id": "C0030",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000757",
+    "theory_name": "DNA Damage Accumulation and Cellular Senescence Theory of Aging",
+    "family_id": "F036",
+    "family_name": null,
+    "parent_id": "P0120",
+    "child_id": "C0189",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000758",
+    "theory_name": "Inflammaging theory",
+    "family_id": "F022",
+    "family_name": null,
+    "parent_id": "P0071",
+    "child_id": "C0110",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000759",
+    "theory_name": "Neuroinflammation as a causal mechanism in neurological aging and disease",
+    "family_id": "F006",
+    "family_name": null,
+    "parent_id": "P0016",
+    "child_id": "C0024",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000760",
+    "theory_name": "Developmentally Programmed Cellular Senescence Theory",
+    "family_id": "F035",
+    "family_name": null,
+    "parent_id": "P0116",
+    "child_id": "C0181",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000761",
+    "theory_name": "Selection Hypothesis",
+    "family_id": "F065",
+    "family_name": null,
+    "parent_id": "P0190",
+    "child_id": "C0306",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000762",
+    "theory_name": "Constraint Hypothesis",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0075",
+    "child_id": "C0123",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000763",
+    "theory_name": "Restraint Hypothesis",
+    "family_id": "F024",
+    "family_name": null,
+    "parent_id": "P0074",
+    "child_id": "C0118",
+    "is_singleton": false
+  },
+  {
+    "theory_id": "T000764",
+    "theory_name": "Reproductive Senescence Hypothesis",
+    "family_id": "F005",
+    "family_name": null,
+    "parent_id": "P0011",
+    "child_id": "C0018",
+    "is_singleton": false
+  }
+]

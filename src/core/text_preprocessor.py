@@ -153,8 +153,10 @@ class TextPreprocessor:
         # Exclusions
         exclude_sections = [
             'references', 'bibliography', 'acknowledgments', 'acknowledgements',
-            'funding', 'competing interests', 'author contributions', 'data availability',
-            'supplementary', 'appendix', 'conflict of interest', 'acknowledgement'
+            'funding', 'competing interests', 'author contributions', 'data availability', 
+            'methods', 'materials', 'materials and methods', 'supplementary', 'appendix', 
+            'conflict of interest', 'acknowledgement', 'statistical analysis', 
+            'experimental setup', 'datasets'
         ]
 
         # Compute scores per available section
@@ -179,16 +181,41 @@ class TextPreprocessor:
         # Sort by score desc, then by a small tie-breaker on key
         scored.sort(key=lambda x: (-x[0], x[1].lower()))
 
-        # Assemble under a character budget
-        BUDGET = int(os.getenv('PREPROCESS_BUDGET_CHARS', '40000'))
-        PER_SECTION_CAP = int(os.getenv('PREPROCESS_PER_SECTION_CAP_CHARS', '12000'))  # prevent one long section from dominating
+        # Assemble under a character budget with adaptive allocation
+        BUDGET = int(os.getenv('PREPROCESS_BUDGET_CHARS', '20000'))
+        
+        # Adaptive per-section caps based on priority
+        def get_section_cap(key_lower):
+            if key_lower in ['abstract']:
+                return 3000  # Abstract: compact but complete
+            elif key_lower in ['introduction', 'background']:
+                return 5000  # Intro: more context needed
+            elif key_lower in ['discussion', 'conclusions', 'conclusion']:
+                return 6000  # Discussion: most theory-rich
+            elif key_lower in ['results']:
+                return 4000  # Results: less theory, more data
+            else:
+                return 3000  # Other sections: minimal
+        
+        # Smart sampling: take beginning + end for long sections
+        def smart_sample(text, max_chars):
+            if len(text) <= max_chars:
+                return text
+            # Take first 60% and last 40% to capture intro and conclusions
+            first_part = int(max_chars * 0.6)
+            last_part = max_chars - first_part
+            return text[:first_part] + "\n[...]\n" + text[-last_part:]
+        
         assembled = []
         used = 0
         for _, key, value in scored:
             if used >= BUDGET:
                 break
-            part = value[:PER_SECTION_CAP]
+            
+            section_cap = get_section_cap(key.lower())
+            part = smart_sample(value, section_cap)
             chunk = f"{key}\n{part}\n\n"
+            
             if used + len(chunk) > BUDGET:
                 # trim final chunk to fit
                 remaining = max(0, BUDGET - used)

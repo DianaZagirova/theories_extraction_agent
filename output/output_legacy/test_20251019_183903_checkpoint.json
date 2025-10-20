@@ -1,0 +1,531 @@
+{
+  "metadata": {
+    "extraction_date": "2025-10-19T18:40:00.723944",
+    "pipeline_version": "1.0",
+    "statistics": {
+      "total_papers": 10,
+      "papers_with_theories": 9,
+      "papers_without_theories": 1,
+      "total_theories_extracted": 16,
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "estimated_cost_usd": 0.0
+    }
+  },
+  "results": [
+    {
+      "doi": "10.1007/s11357-016-9895-0",
+      "pmid": "26957493",
+      "title": "Aging of perennial cells and organ parts according to the programmed aging paradigm.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Programmed Aging Paradigm Based on Telomere-Dependent Cell Turnover Decline",
+          "key_concepts": [
+            {
+              "concept": "Genetically Determined Programmed Aging",
+              "description": "Aging is a physiological phenomenon caused by specific genetically regulated mechanisms favored by evolution, implying that aging is programmed and potentially fully controllable."
+            },
+            {
+              "concept": "Telomere Shortening Limits Cell Replication",
+              "description": "Telomerase inhibition leads to progressive telomere shortening, which restricts stem cell replication capacity, causing gradual cell senescence and functional impairment."
+            },
+            {
+              "concept": "Progressive Slowing of Cell Turnover",
+              "description": "As stem cells lose replication ability due to telomere shortening, cell turnover slows down, leading to atrophy characterized by reduced cell numbers, hypertrophy of remaining cells, and altered cellular functions."
+            },
+            {
+              "concept": "Dependence of Perennial Cells on Cells with Turnover",
+              "description": "Cells without turnover (e.g., most neurons, photoreceptors) rely metabolically and functionally on supporting cells that undergo turnover; decline in turnover of these supporting cells impairs the vitality of perennial cells."
+            },
+            {
+              "concept": "Age-Related Diseases as Manifestations of Programmed Aging",
+              "description": "Clinical conditions such as Alzheimer's disease, Parkinson's disease, age-related macular degeneration, presbycusis, and olfactory dysfunction are interpreted as early manifestations of physiological aging caused by turnover decline in supporting cells."
+            },
+            {
+              "concept": "Risk and Protective Factors Influence Turnover and Aging",
+              "description": "Lifestyle and pharmacological factors that accelerate or decelerate cell turnover (e.g., smoking, diabetes, statins) modulate the progression of aging and related diseases, supporting the causal role of programmed turnover decline."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss, synthesize",
+          "evidence": "The paper reviews extensive literature on telomere biology, cell turnover in various tissues, clinical epidemiology of age-related diseases (AD, PD, AMD, presbycusis), and associations with risk/protective factors; it also discusses failures of alternative hypotheses and therapeutic attempts.",
+          "criteria_reasoning": "The theory explains aging as a fundamental, genetically programmed process involving telomere-dependent cell turnover decline affecting organism-wide aging; it proposes causal mechanisms and connects organ-specific phenomena to systemic aging, thus meeting all core criteria.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:39:08.953161"
+    },
+    {
+      "doi": "10.1038/s41467-021-23894-3",
+      "pmid": "34135334",
+      "title": "The long lives of primates and the 'invariant rate of ageing' hypothesis.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Invariant Rate of Ageing Hypothesis",
+          "key_concepts": [
+            {
+              "concept": "Fixed Rate of Ageing Within Species",
+              "description": "The hypothesis posits that the rate of ageing, defined as the rate at which mortality increases with age (senescence), is relatively fixed or invariant within species, including humans and nonhuman primates."
+            },
+            {
+              "concept": "Biological Constraints on Ageing Plasticity",
+              "description": "There are biological constraints that limit how much the rate of ageing can be slowed within a species, implying that environmental or external factors mainly affect early-life mortality and age-independent mortality rather than the intrinsic ageing rate."
+            },
+            {
+              "concept": "Mortality Parameter Variation",
+              "description": "Variation in mortality within species or genera is primarily driven by changes in pre-adult (infant and juvenile) mortality and age-independent mortality, while variation in the rate of ageing parameter (senescent mortality) is orders of magnitude smaller."
+            },
+            {
+              "concept": "Life Expectancy and Lifespan Equality Relationship",
+              "description": "A highly regular linear relationship exists between life expectancy and lifespan equality within primate genera, driven by variation in early mortality rather than changes in the rate of ageing."
+            },
+            {
+              "concept": "Cross-Genus Differences in Ageing Rate",
+              "description": "Differences in the rate of ageing are more pronounced between genera than within, suggesting that changes in the rate of ageing contribute to lifespan differences across taxa but remain constrained within taxa."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "test, discuss, synthesize",
+          "evidence": "Analysis of 39 datasets from humans and nonhuman primates across seven genera, including wild and captive populations; fitting of five-parameter Siler mortality models to age-specific mortality data; sensitivity analyses showing that variation in pre-adult and age-independent mortality explains within-genus variation in life expectancy and lifespan equality, while variation in the ageing rate parameter is minimal; statistical tests of regression lines relating life expectancy and lifespan equality; comparison of mortality parameter changes within and between genera.",
+          "criteria_reasoning": "Meets all core requirements: (1) Generalizability - explains ageing as a fundamental process constrained within species and genera; (2) Causal explanation - proposes biological constraints on the rate of ageing as a causal mechanism limiting lifespan extension; (3) Scope - addresses ageing broadly across primate species and humans, linking mortality patterns to ageing mechanisms rather than focusing on specific diseases or organs.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:39:14.275457"
+    },
+    {
+      "doi": "10.3390/ijms26030902",
+      "pmid": "39940672",
+      "title": "Preeclampsia as a Study Model for Aging: The Klotho Gene Paradigm.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Cellular Senescence Theory of Aging",
+          "key_concepts": [
+            {
+              "concept": "Cellular senescence as a driver of aging",
+              "description": "Cells exit the cell cycle and enter a state of replicative senescence due to loss of proliferative potential, contributing to tissue dysfunction and aging."
+            },
+            {
+              "concept": "Telomere shortening",
+              "description": "Progressive shortening of telomeres with each cell division leads to permanent cell cycle arrest, genomic instability, and is associated with age-related diseases."
+            },
+            {
+              "concept": "Senescence-Associated Secretory Phenotype (SASP)",
+              "description": "Senescent cells secrete pro-inflammatory cytokines, chemokines, and proteases that promote chronic inflammation and tissue dysfunction, exacerbating aging."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss, synthesize",
+          "evidence": "The paper cites studies showing shorter telomeres in preeclamptic placental tissue, elevated inflammatory cytokines (IL-6, IL-8, MCP-1, PAI-1) in aging and preeclampsia, and the role of SASP in age-related diseases.",
+          "criteria_reasoning": "Meets all criteria: explains a fundamental aging process at organism level, proposes causal mechanisms (senescence, telomere shortening, SASP), and addresses aging broadly beyond specific organs or diseases.",
+          "paper_focus": 9
+        },
+        {
+          "name": "Oxidative Stress and Mitochondrial Dysfunction Theory of Aging",
+          "key_concepts": [
+            {
+              "concept": "Imbalance between ROS production and antioxidant defenses",
+              "description": "Excess reactive oxygen species cause damage to DNA, proteins, and lipids, leading to cellular dysfunction and aging."
+            },
+            {
+              "concept": "Mitochondrial dysfunction as a source and target of ROS",
+              "description": "Mitochondrial inefficiency increases ROS production, which further damages mitochondria, creating a vicious cycle contributing to aging."
+            },
+            {
+              "concept": "Oxidative stress triggers pathological signaling and inflammation",
+              "description": "Elevated ROS activate inflammatory pathways and transcription factors that promote aging-related tissue damage."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss",
+          "evidence": "The paper references studies linking mitochondrial dysfunction and elevated ROS with aging phenotypes, cardiovascular disease, and preeclampsia; also discusses oxidative damage markers and antioxidant enzyme changes.",
+          "criteria_reasoning": "Meets criteria by proposing a general causal mechanism for aging applicable across tissues and diseases, explaining how oxidative damage drives aging processes.",
+          "paper_focus": 8
+        },
+        {
+          "name": "Epigenetic Alterations Theory of Aging",
+          "key_concepts": [
+            {
+              "concept": "DNA methylation changes",
+              "description": "Aberrant hyper- or hypomethylation of gene promoters alters gene expression, contributing to aging and age-related diseases."
+            },
+            {
+              "concept": "MicroRNAs as regulators and biomarkers",
+              "description": "miRNAs modulate gene expression post-transcriptionally and their dysregulation is linked to aging and diseases such as preeclampsia."
+            },
+            {
+              "concept": "Histone modifications",
+              "description": "Post-translational modifications of histones (acetylation, methylation) affect chromatin structure and gene accessibility, influencing aging-related gene expression patterns."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "review, discuss",
+          "evidence": "The paper summarizes studies showing altered DNA methylation patterns in aging and preeclampsia, miRNA expression changes correlated with aging and disease, and histone modification alterations linked to oxidative stress and aging.",
+          "criteria_reasoning": "Meets criteria by addressing broad aging mechanisms at molecular level with causal implications for aging phenotypes and disease susceptibility.",
+          "paper_focus": 7
+        },
+        {
+          "name": "Klotho Gene as a Programmed Aging and Cytoprotective Factor Theory",
+          "key_concepts": [
+            {
+              "concept": "Klotho gene regulates aging and longevity",
+              "description": "Klotho protein modulates oxidative stress and protects against age-related decline in multiple organs, influencing lifespan."
+            },
+            {
+              "concept": "Soluble Klotho (sKlotho) acts systemically",
+              "description": "sKlotho released into circulation exerts antioxidative and cytoprotective effects in kidney, brain, lung, cardiovascular system, and placenta."
+            },
+            {
+              "concept": "Klotho deficiency accelerates aging phenotypes",
+              "description": "Reduced Klotho expression or levels are associated with increased oxidative damage, organ dysfunction, and diseases linked to aging and preeclampsia."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss",
+          "evidence": "The paper reviews genetic and experimental studies showing Klotho mutant mice have increased oxidative damage and shorter lifespan, Klotho overexpression extends lifespan, and low Klotho levels correlate with preeclampsia and age-related diseases.",
+          "criteria_reasoning": "Meets criteria as it proposes a genetic program influencing aging systemically, with mechanistic insights into oxidative stress modulation and organ protection.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:39:24.549562"
+    },
+    {
+      "doi": "10.3389/fphys.2021.695392",
+      "pmid": "34566675",
+      "title": "A Hypothesis: The Interplay of Exercise and Physiological Heterogeneity as Drivers of Human Ageing.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Exercise-Heterogeneity Interaction Theory of Human Ageing",
+          "key_concepts": [
+            {
+              "concept": "Four Categories of Physiological Regulation",
+              "description": "Physiological processes are classified into four categories: A (processes declining with age alone), B (processes declining with age but modifiable by exercise), C (processes unaffected by age but modifiable by exercise), and D (processes independent of both age and exercise). The interaction of these categories shapes the ageing trajectory."
+            },
+            {
+              "concept": "Role of Exercise in Modulating Ageing Trajectory",
+              "description": "Sufficient physical activity maintains physiological coherence and integration during ageing, slowing decline and preventing lifestyle diseases. Absence of exercise leads to deterioration of physiology and increased incidence of lifestyle-related diseases."
+            },
+            {
+              "concept": "Physiological Heterogeneity and Individual Variation",
+              "description": "Individual differences in genetics, physiological responses, and adaptations to exercise create heterogeneity in ageing profiles and disease presentation. This heterogeneity influences the age and order of disease onset but operates within species-specific physiological constraints."
+            },
+            {
+              "concept": "Healthy Ageing as Maintenance of Integrated Function",
+              "description": "Healthy ageing is defined as being free from lifestyle-related diseases and maintaining whole-body integrated physiological function despite declining physical capacity. Exercise at or above an individual set point is necessary to achieve this state."
+            },
+            {
+              "concept": "Master Athletes as Models of Maximal Exercise and Ageing",
+              "description": "Master athletes exercising at maximal loads show consistent, discipline-independent decline in performance with age, reflecting the inherent human ageing process. Their physiological heterogeneity is constrained within species limits, supporting a universal ageing mechanism."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "propose, discuss, synthesize",
+          "evidence": "The paper synthesizes cross-sectional and longitudinal studies on VO2max, master athletes' performance data, and literature on exercise physiology and ageing. It cites studies showing exercise's impact on physiological categories, heterogeneity in exercise response, and disease incidence related to inactivity.",
+          "criteria_reasoning": "Meets all criteria: It proposes a generalizable, organism-level model explaining how ageing occurs via interactions of exercise, physiological heterogeneity, and regulatory categories. It provides causal explanations linking exercise and ageing mechanisms, addresses broad ageing processes beyond specific organs or diseases, and integrates evolutionary and physiological perspectives.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:39:29.122433"
+    },
+    {
+      "doi": "10.1155/2012/420637",
+      "pmid": "23118746",
+      "title": "The theory and practice of active aging.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Compression of Morbidity Theory",
+          "key_concepts": [
+            {
+              "concept": "Postponement of Functional Decline",
+              "description": "The theory posits that functional declines (morbidity, disability) can be delayed to a later age more than mortality is delayed, meaning people remain healthier longer despite living longer."
+            },
+            {
+              "concept": "Compression of Morbidity",
+              "description": "Morbidity is compressed into a shorter period near the end of life, reducing the total lifetime burden of disability and illness despite increased longevity."
+            },
+            {
+              "concept": "Modifiability of Aging",
+              "description": "Aging and its associated morbidity are plastic and modifiable by lifestyle choices such as vigorous exercise, non-smoking, and maintaining normal body weight."
+            },
+            {
+              "concept": "Dynamic Interaction Between Morbidity and Mortality",
+              "description": "The theory emphasizes that morbidity and mortality trends interact dynamically; postponing morbidity more than mortality leads to improved health outcomes and reduced cumulative lifetime morbidity."
+            },
+            {
+              "concept": "Health Risk Reduction as a Mechanism",
+              "description": "Reduction of health risks (e.g., inactivity, obesity, smoking) through lifestyle changes can delay morbidity and mortality, supporting the theory's causal mechanism."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "propose, discuss, test, review",
+          "evidence": "Longitudinal controlled studies comparing runners vs. controls and low-risk vs. high-risk cohorts show postponement of disability by 10-16 years and mortality by 3.3-7 years. Population studies (NLTCS, NHIS) show national declines in disability and mortality consistent with compression. Randomized trials of health risk reduction support morbidity reduction.",
+          "criteria_reasoning": "Meets all criteria: It is a generalizable theory explaining why aging-related morbidity and mortality occur and how they can be modulated; it proposes causal mechanisms via lifestyle and risk factors; it addresses aging broadly at the organism/population level; it is not limited to specific organs or diseases but connects lifestyle to systemic aging outcomes.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:39:33.577214"
+    },
+    {
+      "doi": "10.1037/0894-4105.21.6.657",
+      "pmid": "17983277",
+      "title": "Functional plasticity in cognitive aging: review and hypothesis.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Functional Plasticity in Cognitive Aging Hypothesis",
+          "key_concepts": [
+            {
+              "concept": "Brain Atrophy and Regional Shrinkage",
+              "description": "Aging is associated with regional brain volume loss, particularly in prefrontal cortex (PFC) and parietal cortex (PC), due to synapse loss, dendritic regression, white matter loss, and cell body shrinkage. However, this shrinkage does not consistently correlate with cognitive decline."
+            },
+            {
+              "concept": "Functional Plasticity as Adaptation",
+              "description": "Despite structural losses, the adult and aging brain retains the capacity for plastic change, including cortical reorganization and altered activation patterns, which can compensate for deficits and maintain cognitive function."
+            },
+            {
+              "concept": "Atrophy-Driven Functional Reorganization",
+              "description": "Loss of regional brain integrity drives functional reorganization through changes in processing strategy, recruiting adjacent or contralateral brain regions, leading to altered network dynamics that affect cognitive aging."
+            },
+            {
+              "concept": "Strategy-Induced Plasticity",
+              "description": "Cognitive deficits induce changes in processing strategies (self-initiated or training-initiated), which in turn drive neuronal plasticity and altered brain activation patterns, potentially ameliorating age-related cognitive decline."
+            },
+            {
+              "concept": "Interaction Between Loss and Compensation",
+              "description": "The hypothesis posits an interaction between structural decline and plasticity, where volume loss triggers compensatory plastic changes that alter the course of cognitive aging."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, propose, synthesize, hypothesis",
+          "evidence": "The paper reviews extensive neuroimaging, behavioral, and animal model data showing regional brain shrinkage with age, increased task-related activation in atrophic regions, evidence of adult and aging brain plasticity from training and sensory loss studies, and correlations between white matter integrity and cognition. It also cites human and animal studies demonstrating cortical reorganization after injury or training.",
+          "criteria_reasoning": "This hypothesis meets all criteria: it attempts to explain how aging occurs at the organismal cognitive level by proposing a fundamental mechanism (functional plasticity interacting with atrophy) that causally influences cognitive aging. It generalizes beyond specific diseases or organs, addresses causal mechanisms, and integrates structural and functional brain changes with cognitive outcomes.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:39:38.584989"
+    },
+    {
+      "doi": "10.3758/BF03210753",
+      "pmid": "24213930",
+      "title": "Constraints on theories of cognitive aging.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:39:39.079231"
+    },
+    {
+      "doi": "10.1113/JP274887",
+      "pmid": "28949008",
+      "title": "Vitamin D deficiency accelerates ageing and age-related diseases: a novel hypothesis.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Vitamin D deficiency accelerates aging hypothesis",
+          "key_concepts": [
+            {
+              "concept": "Vitamin D regulation of aging-related cellular processes",
+              "description": "Vitamin D is proposed to regulate multiple cellular processes known to influence aging, including autophagy, mitochondrial function, inflammation, oxidative stress, epigenetic modifications, DNA integrity, and calcium and reactive oxygen species (ROS) signaling."
+            },
+            {
+              "concept": "Vitamin D deficiency enhances aging mechanisms",
+              "description": "Deficiency in vitamin D leads to dysregulation and increased activity of aging-related processes, thereby accelerating the rate of biological aging and increasing susceptibility to age-related diseases."
+            },
+            {
+              "concept": "Vitamin D sufficiency slows aging and disease onset",
+              "description": "Adequate vitamin D levels maintain these cellular processes at lower, controlled rates, resulting in slower aging and reduced risk of diseases such as Alzheimer's, Parkinson's, multiple sclerosis, and cardiovascular disease."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "propose",
+          "evidence": "The hypothesis is based on existing literature linking vitamin D to regulation of key aging-related cellular processes. The paper synthesizes known roles of vitamin D in autophagy, mitochondrial function, inflammation, oxidative stress, epigenetics, DNA repair, and Ca2+/ROS signaling, citing these as mechanistic pathways through which vitamin D status could causally influence aging rate.",
+          "criteria_reasoning": "The hypothesis proposes a generalizable, organism-level causal mechanism explaining how vitamin D status modulates fundamental aging processes, thus meeting the core requirements of an aging theory. It addresses multiple interconnected aging pathways and links them to systemic aging and age-related diseases.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:39:42.983887"
+    },
+    {
+      "doi": "10.3389/fnagi.2022.1002096",
+      "pmid": "36212035",
+      "title": "25 years of neurocognitive aging theories: What have we learned?",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Brain Maintenance Theory",
+          "key_concepts": [
+            {
+              "concept": "Preservation of brain structure and function",
+              "description": "This concept emphasizes that some older adults maintain brain integrity similar to young adults, showing an absence of typical age-related decline in brain structure and function."
+            },
+            {
+              "concept": "Individual differences in aging trajectories",
+              "description": "Variability in genetic, lifestyle, and environmental factors leads to differences in brain aging, with some individuals exhibiting preserved brain health despite chronological aging."
+            },
+            {
+              "concept": "Relationship to cognition",
+              "description": "Maintained brain structure and function are associated with better cognitive performance and successful cognitive aging."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss, synthesize",
+          "evidence": "Citations include Nyberg et al. (2012) and Chen et al. (2022) showing preserved brain activity patterns in successful cognitive agers compared to average agers.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable mechanism explaining why some individuals age better cognitively and neurologically, linking brain preservation to aging outcomes.",
+          "paper_focus": 9
+        },
+        {
+          "name": "Scaffolding Theory of Aging and Cognition (STAC and STAC-r)",
+          "key_concepts": [
+            {
+              "concept": "Neural scaffolding as compensatory mechanism",
+              "description": "The brain recruits additional or alternative neural circuits (scaffolds) to compensate for neural insults such as shrinkage or white matter degradation, helping maintain cognitive function."
+            },
+            {
+              "concept": "Neural insults as drivers of brain changes",
+              "description": "Brain alterations are driven by neural insults that can occur at any age, not just chronological aging, including dopamine depletion and white matter degradation."
+            },
+            {
+              "concept": "Life-course influences",
+              "description": "The revised model (STAC-r) incorporates life experiences such as stress, fitness, and education, which influence the degree of brain degradation or preservation and scaffolding efficiency."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss, synthesize",
+          "evidence": "Citations include Park and Reuter-Lorenz (2009), Reuter-Lorenz and Park (2014), and empirical studies showing compensatory brain activation patterns.",
+          "criteria_reasoning": "Meets criteria as it provides a generalizable causal framework explaining how brain aging occurs and how compensatory mechanisms mitigate cognitive decline.",
+          "paper_focus": 8
+        },
+        {
+          "name": "Neural Dedifferentiation Theory",
+          "key_concepts": [
+            {
+              "concept": "Loss of neural distinctiveness",
+              "description": "With aging, brain regions become less selective in their activation patterns, leading to less specialized and more overlapping neural responses to stimuli."
+            },
+            {
+              "concept": "Underlying neurochemical causes",
+              "description": "Declines in inhibitory neurotransmitters such as GABA and loss of dopamine receptors contribute to reduced neural specificity."
+            },
+            {
+              "concept": "Extension to brain networks",
+              "description": "Dedifferentiation also occurs at the network level, with reduced segregation of functional brain networks correlating with poorer cognition."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss",
+          "evidence": "Empirical studies cited include Park et al. (2004), Koen and Rugg (2019), Lalwani et al. (2019), and Chan et al. (2014) showing reduced neural selectivity and network segregation with age.",
+          "criteria_reasoning": "Meets criteria as it proposes a mechanistic explanation for broad neural changes underlying cognitive aging, applicable across brain regions and functions.",
+          "paper_focus": 8
+        },
+        {
+          "name": "Neural Compensation Theory (including Atrophy-Compensation Hypothesis and PASA)",
+          "key_concepts": [
+            {
+              "concept": "Increased neural activity as compensation",
+              "description": "Age-related increases in brain activity, especially in prefrontal cortex (PFC), serve to compensate for structural or functional degradation elsewhere, supporting cognition."
+            },
+            {
+              "concept": "Posterior-to-Anterior Shift in Aging (PASA)",
+              "description": "A specific pattern where decreased activity in posterior sensory regions is accompanied by increased activity in anterior PFC regions with age."
+            },
+            {
+              "concept": "Scaffolding as compensatory recruitment",
+              "description": "Activation of secondary brain regions or networks (primarily PFC) that differ from those used by young adults to maintain cognitive performance."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "review, discuss, critique",
+          "evidence": "Citations include Cabeza (2002), Reuter-Lorenz and Cappell (2008), Davis et al. (2008), and McDonough and Madan (2021). The paper also discusses recent challenges and failures to replicate key predictions of these theories.",
+          "criteria_reasoning": "Meets criteria as it proposes causal mechanisms explaining how brain activity changes relate to aging and cognition at the organismal level, though some empirical support is contested.",
+          "paper_focus": 7
+        },
+        {
+          "name": "Neural Inefficiency Theory",
+          "key_concepts": [
+            {
+              "concept": "Increased brain activity reflects inefficiency",
+              "description": "Age-related increases in brain activity may not be compensatory but rather reflect non-selective or detrimental neural activation that impairs cognitive function."
+            },
+            {
+              "concept": "Inhibitory deficits and white matter degradation",
+              "description": "Failures in inhibitory neural circuits and reduced white matter integrity contribute to inability to suppress irrelevant brain activity, leading to inefficiency."
+            },
+            {
+              "concept": "Cognitive training effects",
+              "description": "Training can reduce excessive brain activity, supporting the idea that some increased activity is inefficient rather than compensatory."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "review, discuss",
+          "evidence": "Studies cited include Reuter-Lorenz et al. (2001), Logan et al. (2002), Lalwani et al. (2019), Bennett and Rypma (2013), and cognitive training research.",
+          "criteria_reasoning": "Meets criteria as it offers a mechanistic explanation for age-related brain activity changes with broad implications for cognitive aging.",
+          "paper_focus": 6
+        }
+      ],
+      "timestamp": "2025-10-19T18:39:56.216677"
+    },
+    {
+      "doi": "10.1002/ajhb.22243",
+      "pmid": "22290875",
+      "title": "The caloric restriction paradigm: implications for healthy human aging.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Caloric Restriction (CR) Longevity and Healthspan Extension Theory",
+          "key_concepts": [
+            {
+              "concept": "Caloric Restriction as a Longevity Intervention",
+              "description": "Reducing caloric intake by 10-30% without malnutrition extends lifespan and delays the onset of age-associated diseases across diverse species, including rodents, non-human primates, and potentially humans."
+            },
+            {
+              "concept": "Metabolic Regulation and Energy Homeostasis",
+              "description": "CR induces a shift in metabolism characterized by enhanced energy metabolism efficiency, diversion of metabolites away from storage pathways, and activation of pathways that increase disease resistance and cellular protection."
+            },
+            {
+              "concept": "Role of White Adipose Tissue (WAT)",
+              "description": "CR reduces fat mass and alters gene expression in WAT, decreasing pro-inflammatory gene expression and improving systemic metabolic homeostasis, which may underlie broad protection against age-related diseases."
+            },
+            {
+              "concept": "Molecular Pathways Mediating CR Effects",
+              "description": "Key nutrient-sensing and metabolic regulators such as SIRT1, AMPK, PGC-1\u03b1, and mTOR are involved in mediating CR's effects, coordinating mitochondrial biogenesis, energy metabolism, and cellular growth responses to nutrient availability."
+            },
+            {
+              "concept": "Evolutionary and Programmed Aspects",
+              "description": "CR is proposed to actively induce a longevity-promoting program rather than passively slowing metabolism, suggesting an evolved biological response to nutrient scarcity that enhances survival and delays aging."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss, synthesize",
+          "evidence": "Extensive citations of rodent lifespan studies, gene expression profiling across multiple tissues, non-human primate long-term CR studies showing delayed age-related diseases, human epidemiological data (e.g., Okinawa), and controlled human CR trials demonstrating improved metabolic and cardiovascular risk factors.",
+          "criteria_reasoning": "Meets all criteria: It proposes a generalizable, causal mechanism explaining how reduced caloric intake slows aging at the organismal level via metabolic and molecular pathways; it addresses aging broadly beyond specific diseases or organs; it synthesizes evolutionary and mechanistic insights.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:40:00.723375"
+    }
+  ]
+}

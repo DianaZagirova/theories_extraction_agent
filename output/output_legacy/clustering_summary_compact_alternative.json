@@ -1,0 +1,3763 @@
+[
+  {
+    "F001": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0001": {
+          "singleton": false,
+          "children": {
+            "C0001": {
+              "singleton": false,
+              "theories": [
+                "Methionine sulfoxide reductase (fRMsr) loss and restoration theory of aging",
+                "p66Shc-mediated metabolic adaptation theory of aging",
+                "Oxidative Damage Theory of Aging"
+              ]
+            },
+            "C0002": {
+              "singleton": false,
+              "theories": [
+                "Oxidative Stress Resistance Theory of Aging",
+                "Reactive oxygen species (ROS) damage accumulation theory of aging in insects",
+                "Stress resistance as a causal contributor to longevity and postponed senescence"
+              ]
+            },
+            "C0003": {
+              "singleton": false,
+              "theories": [
+                "JNK Signaling Pathway as a Genetic Determinant of Aging",
+                "Nrf2/HO-1 system as an evolutionarily conserved anti-aging mechanism",
+                "Nrf2-mediated hormetic dose-response theory of aging and resilience",
+                "NRF2-Keap1 Pathway Longevity Theory"
+              ]
+            },
+            "C0004": {
+              "singleton": true,
+              "theories": [
+                "ApoD-mediated oxidative stress protection theory"
+              ]
+            }
+          }
+        },
+        "P0002": {
+          "singleton": false,
+          "children": {
+            "C0005": {
+              "singleton": false,
+              "theories": [
+                "Membrane Unsaturation and Longevity Theory",
+                "Homeoviscous Longevity Adaptation Theory"
+              ]
+            }
+          }
+        },
+        "P0003": {
+          "singleton": false,
+          "children": {
+            "C0006": {
+              "singleton": false,
+              "theories": [
+                "Physiological stress and starvation-induced senescence in semelparous Pacific salmon"
+              ]
+            }
+          }
+        },
+        "P0004": {
+          "singleton": false,
+          "children": {
+            "C0007": {
+              "singleton": false,
+              "theories": [
+                "Dampened Inflammatory Response as a Longevity Mechanism in Bats and Pangolins"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F002": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0005": {
+          "singleton": false,
+          "children": {
+            "C0008": {
+              "singleton": false,
+              "theories": [
+                "Hyperfunction theory of aging mediated by mTOR pathway",
+                "mTOR signaling theory of aging",
+                "mTOR pathway inhibition theory of aging",
+                "mTORC1 signaling regulation theory of aging",
+                "TOR (Target of Rapamycin) Nutrient Sensing and Aging Modulation Theory",
+                "Target of Rapamycin (TOR) Signaling Pathway in Aging and Obesity",
+                "Target of Rapamycin (TOR) Signaling Pathway in Aging",
+                "Deregulated Nutrient Sensing Theory",
+                "Deregulated Nutrient Sensing Theory of Aging",
+                "mTOR Inhibition Theory of Aging",
+                "Proteostasis maintenance as a causal mechanism of slowed aging",
+                "mTOR Signaling Theory of Aging",
+                "Nutrient-Sensing mTOR Pathway Regulation of Aging and Reproduction",
+                "mTOR/PI3K Hyperfunction Theory of Aging",
+                "Oncogenic kinase signaling pathways as regulators of aging"
+              ]
+            },
+            "C0009": {
+              "singleton": true,
+              "theories": [
+                "mTOR-driven vascular aging and cognitive impairment theory"
+              ]
+            },
+            "C0010": {
+              "singleton": false,
+              "theories": [
+                "AMPK-HIF Signaling Longevity and Cancer Regulation Theory",
+                "mTOR-driven geroconversion theory of cellular senescence"
+              ]
+            },
+            "C0011": {
+              "singleton": true,
+              "theories": [
+                "Autophagy Induction as a Core Longevity Assurance Mechanism"
+              ]
+            }
+          }
+        },
+        "P0006": {
+          "singleton": false,
+          "children": {
+            "C0012": {
+              "singleton": false,
+              "theories": [
+                "AMPK Activation Theory of Aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F003": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0007": {
+          "singleton": false,
+          "children": {
+            "C0013": {
+              "singleton": false,
+              "theories": [
+                "Disposable Soma Theory",
+                "Disposable Soma Hypothesis of Senescence",
+                "Disposable Soma Theory of Senescence",
+                "Disposable soma hypothesis (resource allocation trade-off between reproduction and somatic maintenance)",
+                "Evolutionary Theory of Aging (Disposable Soma Theory)",
+                "Disposable soma theory of aging",
+                "Disposable Soma Theory",
+                "Disposable Soma Hypothesis of Senescence"
+              ]
+            }
+          }
+        },
+        "P0008": {
+          "singleton": false,
+          "children": {
+            "C0014": {
+              "singleton": false,
+              "theories": [
+                "Evolution of senescence via somatic differentiation rather than germ-line sequestration"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F004": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0009": {
+          "singleton": false,
+          "children": {
+            "C0015": {
+              "singleton": false,
+              "theories": [
+                "Gut Microbiota Modulation Theory of Aging",
+                "Microbiota-Gut Homeostasis Theory of Aging",
+                "Gut microbiota remodeling as a modulator of systemic aging via gut-vascular axis",
+                "Gut Dysbiosis Theory of Aging"
+              ]
+            },
+            "C0016": {
+              "singleton": true,
+              "theories": [
+                "Microbiome-mediated programmed death theory of aging"
+              ]
+            }
+          }
+        },
+        "P0010": {
+          "singleton": false,
+          "children": {
+            "C0017": {
+              "singleton": false,
+              "theories": [
+                "Bile acid signaling theory of longevity and healthspan extension"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F005": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0011": {
+          "singleton": false,
+          "children": {
+            "C0018": {
+              "singleton": false,
+              "theories": [
+                "Declining Force of Natural Selection with Age",
+                "Hamiltonian hypothesis of age-dependent adaptation",
+                "Negative Senescence Theory",
+                "Critique and Extension of Hamilton's Mutation Accumulation Theory",
+                "Life-History Optimization Models of Senescence",
+                "Classical evolutionary theory of senescence (Medawar-Williams theory)",
+                "Mutation Accumulation Hypothesis",
+                "Post-maturity growth and delayed senescence theory",
+                "Antagonistic Pleiotropy Theory of Senescence",
+                "Decelerating Selection for System Reliability Theory of Senescence",
+                "Myopic Selection Theory of Evolution and Aging",
+                "Kin competition and limited dispersal shaping the evolution of senescence",
+                "Age-specific survival as a threshold trait model",
+                "Selection shadow hypothesis",
+                "Evolutionary theory of senescence based on extrinsic mortality and adaptive variation",
+                "Evolutionary theory of senescence based on the accumulation of deleterious germline mutations under density regulation",
+                "Williams' Evolutionary Hypothesis on Senescence",
+                "Ontogenescence and Senescence as Distinct but Interacting Phenomena",
+                "Birth-Death Adaptive Dynamics Model of Ageing with Lansing Effect",
+                "Adaptive Phenoptosis Theory of Aging",
+                "Hamiltonian evolutionary theory of aging",
+                "Neobalance evolutionary genetics theory of aging in outcrossing sexual populations",
+                "Evolutionary genetic system 1 (rarely sexual/asexual species) aging theory",
+                "Reproductive Senescence Hypothesis",
+                "Derived evolutionary theories incorporating ecological complexity (density dependence and resource availability effects)"
+              ]
+            }
+          }
+        },
+        "P0012": {
+          "singleton": false,
+          "children": {
+            "C0019": {
+              "singleton": false,
+              "theories": [
+                "Deleterious In Late-Life (DILL) Mutation Accumulation Theory"
+              ]
+            }
+          }
+        },
+        "P0013": {
+          "singleton": false,
+          "children": {
+            "C0020": {
+              "singleton": false,
+              "theories": [
+                "Evolutionary Plant Senescence Syndrome Theory"
+              ]
+            }
+          }
+        },
+        "P0014": {
+          "singleton": false,
+          "children": {
+            "C0021": {
+              "singleton": false,
+              "theories": [
+                "Senescing Diversification Rate Theory for Asexual Lineages"
+              ]
+            }
+          }
+        },
+        "P0015": {
+          "singleton": false,
+          "children": {
+            "C0022": {
+              "singleton": false,
+              "theories": [
+                "Host Senescence-Driven Virulence Evolution Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F006": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0016": {
+          "singleton": false,
+          "children": {
+            "C0023": {
+              "singleton": false,
+              "theories": [
+                "Mitochondrial Dysfunction Theory of Brain Aging",
+                "Oxidative Damage Accumulation Theory in Brain Aging"
+              ]
+            },
+            "C0024": {
+              "singleton": false,
+              "theories": [
+                "Microglia Senescence Theory of Aging-Related Neurodegeneration",
+                "Neuroinflammation as a causal mechanism in neurological aging and disease",
+                "Neuroinflammation Theory of Brain Aging"
+              ]
+            },
+            "C0025": {
+              "singleton": true,
+              "theories": [
+                "Impaired DNA Repair Theory of Brain Aging"
+              ]
+            },
+            "C0026": {
+              "singleton": true,
+              "theories": [
+                "Protein Isoaspartate Damage Accumulation and Repair Deficiency Theory of Aging"
+              ]
+            },
+            "C0027": {
+              "singleton": true,
+              "theories": [
+                "Compromised Adaptive Cellular Stress Response Theory in Brain Aging"
+              ]
+            },
+            "C0028": {
+              "singleton": true,
+              "theories": [
+                "Inverse-Warburg Effect in Alzheimer's Disease"
+              ]
+            }
+          }
+        },
+        "P0017": {
+          "singleton": false,
+          "children": {
+            "C0029": {
+              "singleton": false,
+              "theories": [
+                "Serotonin (5-HT) modulation of brain aging theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F007": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0018": {
+          "singleton": false,
+          "children": {
+            "C0030": {
+              "singleton": false,
+              "theories": [
+                "Adaptive-Longevity Related Process Theory of Dietary Restriction",
+                "TOR signaling pathway as a conserved nutrient-sensing aging regulator",
+                "Caloric Restriction (CR) Theory of Aging",
+                "Caloric Restriction (CR) Theory of Aging",
+                "Oxidative Stress and Energy Balance Theory of Aging",
+                "GCN2-mediated amino acid sensing theory of aging and longevity",
+                "Caloric Restriction-Induced Metabolic Reprogramming Theory of Aging",
+                "p38 MAPK/ATF-7 Innate Immunity Nutrient-Sensing Longevity Tradeoff Theory",
+                "Kynurenine Pathway Down-Regulation Theory of Aging",
+                "Dietary Restriction Longevity Extension Theory",
+                "Calorie Restriction-Induced Autophagy Theory of Longevity",
+                "p53-centered integration theory of caloric restriction-mediated longevity",
+                "Methionine Restriction (MR) Healthspan Extension Theory via IGF-1 Signaling Reduction",
+                "Dietary Restriction (Caloric Restriction) Theory of Aging",
+                "Calorie Restriction Theory of Aging",
+                "Dietary Restriction and Longevity Pathways Theory",
+                "GATA transcription factor-mediated dietary amino acid signaling theory of aging",
+                "Dietary Restriction (DR) Longevity Signaling Theory",
+                "Calorie Restriction Mimetic Theory of Aging",
+                "Macronutrient Intake Theory of Dietary Restriction Effects on Aging",
+                "Dietary Restriction (DR) Theory of Aging",
+                "Caloric Restriction Mimetic (CRM) Theory",
+                "Nutrient Recycling Hypothesis (NRH)",
+                "Fat Turnover and Lipolysis as Mediators of Longevity",
+                "Protein Restriction Theory of Aging",
+                "Nutrient Recycling Hypothesis (NRH)",
+                "Adaptive Plasticity via Nutrient Sensing Pathways"
+              ]
+            }
+          }
+        },
+        "P0019": {
+          "singleton": false,
+          "children": {
+            "C0031": {
+              "singleton": true,
+              "theories": [
+                "Hexosamine Pathway-Mediated Organ Damage in Diet-Induced Aging"
+              ]
+            },
+            "C0032": {
+              "singleton": true,
+              "theories": [
+                "Glycosphingolipid accumulation theory of aging"
+              ]
+            }
+          }
+        },
+        "P0020": {
+          "singleton": false,
+          "children": {
+            "C0033": {
+              "singleton": false,
+              "theories": [
+                "Selenium Supplementation as an MR-like Intervention via IGF-1 Signaling Inhibition"
+              ]
+            }
+          }
+        },
+        "P0021": {
+          "singleton": false,
+          "children": {
+            "C0034": {
+              "singleton": false,
+              "theories": [
+                "Neuropeptide Y (Npy) Role in Calorie Restriction-Mediated Longevity"
+              ]
+            }
+          }
+        },
+        "P0022": {
+          "singleton": false,
+          "children": {
+            "C0035": {
+              "singleton": false,
+              "theories": [
+                "French Paradox Hypothesis"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F008": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0023": {
+          "singleton": false,
+          "children": {
+            "C0036": {
+              "singleton": false,
+              "theories": [
+                "Aberrant redox signalling and impaired heat shock protein (HSP) mediated proteostasis theory of age-related muscle decline",
+                "Oxidative Stress-Induced Neuromuscular Junction Degeneration Theory of Sarcopenia",
+                "Hallmarks of Ageing Theory"
+              ]
+            },
+            "C0037": {
+              "singleton": false,
+              "theories": [
+                "Defective Intercellular Communication Theory of Aging",
+                "Altered Intercellular Communication Theory of Ageing"
+              ]
+            },
+            "C0038": {
+              "singleton": true,
+              "theories": [
+                "Extracellular Matrix Dysfunction Theory of Ageing"
+              ]
+            }
+          }
+        },
+        "P0024": {
+          "singleton": false,
+          "children": {
+            "C0039": {
+              "singleton": false,
+              "theories": [
+                "Coordination Dynamics Theory of Aging Neuro-Musculo-Skeletal System"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F009": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0025": {
+          "singleton": false,
+          "children": {
+            "C0040": {
+              "singleton": false,
+              "theories": [
+                "IGF1 Signaling Pathway Theory of Aging and Longevity",
+                "Insulin/Insulin-like Growth Factor (IGF) Signaling Pathway Theory of Aging",
+                "Insulin/IGF-1 Signaling Pathway Theory of Aging and Longevity",
+                "Growth Hormone (GH) Action Theory of Aging-Related White Adipose Tissue Dysfunction and Senescence",
+                "Insulin/Insulin-like Growth Factor-1 (IIS) Signaling Reduction Theory of Longevity",
+                "Insulin/Insulin-like Growth Factor 1 (IIS) Signaling Longevity Assurance Theory",
+                "Growth Hormone/Insulin-like Growth Factor 1 (GH/IGF-1) Axis Deficiency Theory of Delayed Aging",
+                "Insulin/Insulin-like Growth Factor 1 (IGF-1) Signaling Pathway Theory of Aging",
+                "Growth Hormone/Insulin-like Growth Factor-1 (GH/IGF-1) Axis Aging Theory",
+                "IIS/TOR Network Evolutionary Theory of Aging",
+                "Germ-line modulation of insulin/IGF signaling (IIS) theory of aging",
+                "IGF-I Signaling Modulation Theory of Aging and Longevity",
+                "Insulin/Insulin-like Growth Factor Signaling (IIS) Attenuation Theory of Aging",
+                "Growth Hormone (GH)/Insulin-like Growth Factor-1 (IGF-1) Signaling Attenuation Theory of Aging",
+                "Insulin/IGF-1 Signaling Theory of Aging",
+                "Insulin/IGF-1 Signalling Pathway Theory of Aging",
+                "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+                "Insulin Resistance as a Fundamental Aging and Chronic Disease Mechanism",
+                "Insulin/IGF-1 signaling pathway as a regulator of aging and longevity",
+                "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+                "RASGRF1-mediated modulation of aging via IGF-I signaling and oxidative stress pathways",
+                "Insulin/IGF-I Signaling (IIS) Theory of Aging in the context of RasGrf1 deficiency",
+                "Insulin/IGF Signaling (IIS) Pathway Theory of Aging",
+                "Insulin/IGFR-1 Signaling Pathway as a Regulator of Aging and Immunity",
+                "Insulin/Insulin-like Growth Factor Signalling (IIS) Theory of Aging",
+                "Insulin/IGF-1 signaling modulation of adipose tissue aging",
+                "Insulin/IGF-1 Signaling Pathway Reduction-of-Function Longevity Theory",
+                "Adipose Tissue Metabolism and Adipokine Regulation Theory of Aging",
+                "Deregulated Nutrient Sensing Theory of Ageing"
+              ]
+            }
+          }
+        },
+        "P0026": {
+          "singleton": false,
+          "children": {
+            "C0041": {
+              "singleton": false,
+              "theories": [
+                "Adaptive Insulin Resistance Theory in Obesity"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F010": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0027": {
+          "singleton": false,
+          "children": {
+            "C0042": {
+              "singleton": false,
+              "theories": [
+                "Mitochondrial optimization theory of human longevity and intelligence evolution",
+                "Mitochondrial DNA Mutation Accumulation Theory of Aging",
+                "Mitochondrial relatedness and selection theory of aging",
+                "Defective Mitochondria Theory of Aging",
+                "Mitochondrial DNA turnover and mutation accumulation theory of aging",
+                "Mitochondrial DNA-mediated evolution of lifespan theory",
+                "Mitonuclear Balance Theory of Aging",
+                "Transcriptional Feedback Inhibition Theory of Clonal Expansion of mtDNA Deletions",
+                "Mitochondrial replication error theory of aging",
+                "Molecular Evolutionary Model of Aging via Fixation Rates in Non-Recombining Genomes"
+              ]
+            },
+            "C0043": {
+              "singleton": true,
+              "theories": [
+                "Mitochondrial Mutation Accumulation via Reduced Effective Population Size and Haploid Uniparental Inheritance"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F011": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0028": {
+          "singleton": false,
+          "children": {
+            "C0044": {
+              "singleton": false,
+              "theories": [
+                "Nrf2/sMAF Signalling as a Causal Mechanism of Biological Aging via Oxidative Stress Regulation",
+                "Mitochondrial Dysfunction-Associated Senescence (MiDAS) Theory",
+                "Mitochondrial Bioenergetic Efficiency and Biogenesis Theory of Calorie Restriction",
+                "Mild mitochondrial uncoupling theory of aging",
+                "Mitochondrial Electron Transport Chain (ETC) Dysfunction Theory of Aging",
+                "Oxidative Stress Imbalance Theory of Cellular Senescence",
+                "Mitochondrial ROS-Driven Telomere-Dependent Replicative Senescence Theory",
+                "Mitochondrial respiratory impairment theory of aging",
+                "Mitochondrial Quality Control Theory of Aging",
+                "Mitochondrial Dysfunction as a Driver of Aging via Impaired Protein Homeostasis",
+                "Mitochondrial Dynamics and Structural Remodeling Theory of Aging Skeletal Muscle",
+                "Sirt3-MnSOD Mitochondrial Fidelity and Aging Theory",
+                "p53-MnSOD-p66shc Mitochondrial Redox Regulation Theory of Aging and Cancer",
+                "Epigenetic regulation of nuclear genes controlling mitochondrial translation as a cause of age-associated mitochondrial respiration defects",
+                "Intracellular Entropy and Mitochondrial Efficiency Theory of Aging",
+                "LIN28-let-7 regulatory switch theory of mitochondrial efficiency in aging",
+                "Mitochondrial Dysfunction and Mitophagy in Aging",
+                "Additive Interaction Theory of TOR and JNK Pathways in Aging",
+                "Programmed Cell Death (PCD) Theory of Aging",
+                "Mitochondrial Dysfunction and Targeted Mitochondrial Editing Theory"
+              ]
+            }
+          }
+        },
+        "P0029": {
+          "singleton": false,
+          "children": {
+            "C0045": {
+              "singleton": false,
+              "theories": [
+                "Mitochondrial Complex I Dysfunction and Anesthetic Sensitivity Theory"
+              ]
+            }
+          }
+        },
+        "P0030": {
+          "singleton": false,
+          "children": {
+            "C0046": {
+              "singleton": false,
+              "theories": [
+                "Central Redox Theory"
+              ]
+            }
+          }
+        },
+        "P0031": {
+          "singleton": false,
+          "children": {
+            "C0047": {
+              "singleton": false,
+              "theories": [
+                "Stem cell mitochondrial quality control and asymmetric segregation theory"
+              ]
+            }
+          }
+        },
+        "P0032": {
+          "singleton": false,
+          "children": {
+            "C0048": {
+              "singleton": false,
+              "theories": [
+                "CB1 receptor-mediated regulation of mitochondrial quality control and aging-related cognitive decline"
+              ]
+            }
+          }
+        },
+        "P0033": {
+          "singleton": false,
+          "children": {
+            "C0049": {
+              "singleton": false,
+              "theories": [
+                "Mitochondria-centered lipid remodeling theory of aging modulation by lithocholic acid"
+              ]
+            }
+          }
+        },
+        "P0034": {
+          "singleton": false,
+          "children": {
+            "C0050": {
+              "singleton": false,
+              "theories": [
+                "Mitochondrial Stress Response (MSR) Regulation via CBP/p300-Mediated Epigenetic Control"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F012": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0035": {
+          "singleton": false,
+          "children": {
+            "C0051": {
+              "singleton": false,
+              "theories": [
+                "Cellular senescence and SASP as drivers of systemic aging",
+                "Cellular Senescence and Senescence-Associated Secretory Phenotype (SASP) Theory",
+                "Senescence-Associated Secretory Phenotype (SASP) and Inflammaging Theory"
+              ]
+            },
+            "C0052": {
+              "singleton": true,
+              "theories": [
+                "Infection-Induced Cellular Senescence Theory of Aging and Alzheimer's Disease"
+              ]
+            }
+          }
+        },
+        "P0036": {
+          "singleton": false,
+          "children": {
+            "C0053": {
+              "singleton": false,
+              "theories": [
+                "p38 MAP Kinase Pathway in Innate Immunity and Aging"
+              ]
+            }
+          }
+        },
+        "P0037": {
+          "singleton": false,
+          "children": {
+            "C0054": {
+              "singleton": false,
+              "theories": [
+                "MicroRNA regulation of Toll-like receptor signaling in aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F013": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0038": {
+          "singleton": false,
+          "children": {
+            "C0055": {
+              "singleton": false,
+              "theories": [
+                "Proteostasis theory of aging",
+                "Proteostasis Decline Theory of Aging",
+                "Loss of Proteostasis Theory of Aging",
+                "Proteostasis theory of aging",
+                "Loss of Proteostasis Theory of Aging",
+                "Loss of Proteostasis Theory"
+              ]
+            },
+            "C0056": {
+              "singleton": true,
+              "theories": [
+                "Age-related impairment of ubiquitin-proteasome system as a causal driver of organismal aging"
+              ]
+            },
+            "C0057": {
+              "singleton": true,
+              "theories": [
+                "Proteodynamics and Proteostasis in Aging and Autoimmunity"
+              ]
+            },
+            "C0058": {
+              "singleton": true,
+              "theories": [
+                "Metacaspase-mediated proteostasis theory of aging"
+              ]
+            }
+          }
+        },
+        "P0039": {
+          "singleton": false,
+          "children": {
+            "C0059": {
+              "singleton": false,
+              "theories": [
+                "Adaptive Homeostasis Theory"
+              ]
+            }
+          }
+        },
+        "P0040": {
+          "singleton": false,
+          "children": {
+            "C0060": {
+              "singleton": true,
+              "theories": [
+                "Nuclear Pore Complex (NPC) Quality Control Theory of Aging"
+              ]
+            },
+            "C0061": {
+              "singleton": true,
+              "theories": [
+                "Proteostasis Dilution by Nuclear Size Increase Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F014": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0041": {
+          "singleton": false,
+          "children": {
+            "C0062": {
+              "singleton": false,
+              "theories": [
+                "Extranuclear DNA Accumulation Theory of Aging-Related Inflammation and Senescence",
+                "Replicative Ribosomal DNA Instability Theory of Aging"
+              ]
+            },
+            "C0063": {
+              "singleton": true,
+              "theories": [
+                "Antagonistic pleiotropy of DNA damage checkpoint activation and histone degradation"
+              ]
+            },
+            "C0064": {
+              "singleton": false,
+              "theories": [
+                "DNA Damage Accumulation Theory of Aging",
+                "DNA Repair Deficiency Theory of Aging"
+              ]
+            },
+            "C0065": {
+              "singleton": true,
+              "theories": [
+                "DYRK1A Overdose-Induced Progeroid Syndrome in Down Syndrome"
+              ]
+            },
+            "C0066": {
+              "singleton": true,
+              "theories": [
+                "Chromatin Organization and Higher-Order Chromatin Structure Theory of Aging"
+              ]
+            },
+            "C0067": {
+              "singleton": false,
+              "theories": [
+                "DNA Damage Response and p53 Activation Theory of Aging",
+                "DNA Damage Repair Decline Theory of Aging in Adult Stem Cells"
+              ]
+            }
+          }
+        },
+        "P0042": {
+          "singleton": false,
+          "children": {
+            "C0068": {
+              "singleton": false,
+              "theories": [
+                "Autophagy-Induced DNA Protection Theory"
+              ]
+            }
+          }
+        },
+        "P0043": {
+          "singleton": false,
+          "children": {
+            "C0069": {
+              "singleton": false,
+              "theories": [
+                "YTHDC1-Mediated DNA Repair Activation Prevents Pulmonary Cellular Senescence"
+              ]
+            }
+          }
+        },
+        "P0044": {
+          "singleton": false,
+          "children": {
+            "C0070": {
+              "singleton": false,
+              "theories": [
+                "Genetic Basis of Segmental Progeroid Syndromes as Aging Models"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F015": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0045": {
+          "singleton": false,
+          "children": {
+            "C0071": {
+              "singleton": false,
+              "theories": [
+                "Diabetes-Induced Advanced Brain Aging Theory",
+                "Insulin Signaling Deficiency as a Driver of Cognitive Decline in Diabetes",
+                "Hypothalamic-Pituitary-Adrenal (HPA) Axis Dysfunction Theory in Diabetes-Related Cognitive Decline"
+              ]
+            },
+            "C0072": {
+              "singleton": true,
+              "theories": [
+                "Advanced Glycation End Products (AGE) and Oxidative Stress Theory in Diabetes-Induced Brain Aging"
+              ]
+            }
+          }
+        },
+        "P0046": {
+          "singleton": false,
+          "children": {
+            "C0073": {
+              "singleton": false,
+              "theories": [
+                "Neuroendocrine Hypothalamic Degeneration Model of Aging"
+              ]
+            }
+          }
+        },
+        "P0047": {
+          "singleton": false,
+          "children": {
+            "C0074": {
+              "singleton": false,
+              "theories": [
+                "Metabolic-Inflammatory Transition Theory of Female Brain Aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F016": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0048": {
+          "singleton": false,
+          "children": {
+            "C0075": {
+              "singleton": true,
+              "theories": [
+                "Common Molecular Basis Linking Longevity and Cancer via Tumor Suppressors and Oncogenes"
+              ]
+            },
+            "C0076": {
+              "singleton": true,
+              "theories": [
+                "Peto's paradox and evolution of natural anticancer mechanisms"
+              ]
+            }
+          }
+        },
+        "P0049": {
+          "singleton": false,
+          "children": {
+            "C0077": {
+              "singleton": false,
+              "theories": [
+                "Endogenous C-type RNA Tumor Virus Oncogene Activation Theory"
+              ]
+            }
+          }
+        },
+        "P0050": {
+          "singleton": false,
+          "children": {
+            "C0078": {
+              "singleton": false,
+              "theories": [
+                "Anti-Cancer Hypothesis Linking Endothermy, Telomerase Repression, and Cancer Risk"
+              ]
+            }
+          }
+        },
+        "P0051": {
+          "singleton": false,
+          "children": {
+            "C0079": {
+              "singleton": false,
+              "theories": [
+                "TGR5 receptor-mediated apoptotic pathway theory of anti-tumor effects of lithocholic acid"
+              ]
+            }
+          }
+        },
+        "P0052": {
+          "singleton": false,
+          "children": {
+            "C0080": {
+              "singleton": false,
+              "theories": [
+                "Gene Duplication-Based Enhanced Tumor Suppression in Elephants"
+              ]
+            }
+          }
+        },
+        "P0053": {
+          "singleton": false,
+          "children": {
+            "C0081": {
+              "singleton": false,
+              "theories": [
+                "Early Contact Inhibition Mediated by High-Molecular-Mass Hyaluronan in Naked Mole Rats"
+              ]
+            }
+          }
+        },
+        "P0054": {
+          "singleton": false,
+          "children": {
+            "C0082": {
+              "singleton": false,
+              "theories": [
+                "Concerted Cell Death Mediated by Interferon Secretion in Blind Mole Rats"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F017": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0055": {
+          "singleton": false,
+          "children": {
+            "C0083": {
+              "singleton": false,
+              "theories": [
+                "Attentional Capacity Model of Cognitive Aging",
+                "Inhibitory Deficit Model of Cognitive Aging",
+                "Inhibitory Deficit Hypothesis of Aging"
+              ]
+            }
+          }
+        },
+        "P0056": {
+          "singleton": false,
+          "children": {
+            "C0084": {
+              "singleton": false,
+              "theories": [
+                "Aging as a Disorder of Habituation Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F018": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0057": {
+          "singleton": false,
+          "children": {
+            "C0085": {
+              "singleton": false,
+              "theories": [
+                "Systems Thinking Approach to Aging",
+                "Systems Integrity Theory of Aging"
+              ]
+            },
+            "C0086": {
+              "singleton": false,
+              "theories": [
+                "Psychological Stress Appraisal Theory of Cellular Aging",
+                "Integrative Model of Aging, Stress, and Health"
+              ]
+            },
+            "C0087": {
+              "singleton": true,
+              "theories": [
+                "Environmental stress resistance and aging interaction theory"
+              ]
+            },
+            "C0088": {
+              "singleton": true,
+              "theories": [
+                "Comprehensive Conceptual Model of Human Aging Integrating Sources, Buffering Mechanisms, Subjective Experience, and Consequences"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F019": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0058": {
+          "singleton": false,
+          "children": {
+            "C0089": {
+              "singleton": true,
+              "theories": [
+                "Terror Management Theory (TMT) and Social Identity Theory (SIT) in Aging Stereotypes"
+              ]
+            },
+            "C0090": {
+              "singleton": true,
+              "theories": [
+                "BIAS Map Theory (Behaviors from Intergroup Affect and Stereotypes Map)"
+              ]
+            }
+          }
+        },
+        "P0059": {
+          "singleton": false,
+          "children": {
+            "C0091": {
+              "singleton": false,
+              "theories": [
+                "Socioemotional Selectivity Theory (SST)"
+              ]
+            }
+          }
+        },
+        "P0060": {
+          "singleton": false,
+          "children": {
+            "C0092": {
+              "singleton": false,
+              "theories": [
+                "Erikson's Ego Development Theory"
+              ]
+            }
+          }
+        },
+        "P0061": {
+          "singleton": false,
+          "children": {
+            "C0093": {
+              "singleton": false,
+              "theories": [
+                "Dynamic Integration Theory (DIT)"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F020": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0062": {
+          "singleton": false,
+          "children": {
+            "C0094": {
+              "singleton": false,
+              "theories": [
+                "Energy Dissipation and Dissipative Structure Theory of Aging",
+                "Accumulated Damage Theory of Aging",
+                "DNA Damage Theory of Aging",
+                "Cumulative Stochastic Damage Theory of Aging",
+                "Multifactorial Aging Theory",
+                "Random Injury (Damage Accumulation) Theory of Aging"
+              ]
+            },
+            "C0095": {
+              "singleton": false,
+              "theories": [
+                "Programmed Aging Theory",
+                "Programmatic aging theory"
+              ]
+            },
+            "C0096": {
+              "singleton": true,
+              "theories": [
+                "Hallmarks of Aging Theory"
+              ]
+            },
+            "C0097": {
+              "singleton": true,
+              "theories": [
+                "Universal Principles Applied to Aging Therapy"
+              ]
+            },
+            "C0098": {
+              "singleton": true,
+              "theories": [
+                "Advanced Glycation End Products (AGEs) Theory of Aging"
+              ]
+            }
+          }
+        },
+        "P0063": {
+          "singleton": false,
+          "children": {
+            "C0099": {
+              "singleton": false,
+              "theories": [
+                "Protein Error Catastrophe Theory of Aging",
+                "Orgel error hypothesis of aging"
+              ]
+            }
+          }
+        },
+        "P0064": {
+          "singleton": false,
+          "children": {
+            "C0100": {
+              "singleton": false,
+              "theories": [
+                "Hyperfunction Theory of Aging",
+                "Hyperfunction Theory of Aging"
+              ]
+            }
+          }
+        },
+        "P0065": {
+          "singleton": false,
+          "children": {
+            "C0101": {
+              "singleton": false,
+              "theories": [
+                "Pike's model of breast tissue aging"
+              ]
+            }
+          }
+        },
+        "P0066": {
+          "singleton": false,
+          "children": {
+            "C0102": {
+              "singleton": false,
+              "theories": [
+                "Network Theory of Ageing and Complex Systems Perspective"
+              ]
+            }
+          }
+        },
+        "P0067": {
+          "singleton": false,
+          "children": {
+            "C0103": {
+              "singleton": false,
+              "theories": [
+                "Damage Dilution Theory of Rejuvenation"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F021": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0068": {
+          "singleton": false,
+          "children": {
+            "C0104": {
+              "singleton": false,
+              "theories": [
+                "DNA Damage Accumulation and Repair Theory of Aging",
+                "Adaptive Aging as a Tuned Rate of Damage Accumulation",
+                "Genomic Stability and DNA Repair Theory of Aging",
+                "DNA Repair Longevity Assurance Theory"
+              ]
+            },
+            "C0105": {
+              "singleton": false,
+              "theories": [
+                "Genomic Instability Theory of Aging",
+                "Genomic Instability Theory of Aging"
+              ]
+            },
+            "C0106": {
+              "singleton": true,
+              "theories": [
+                "DNA Repair Capacity Decline Theory of Aging and Cancer"
+              ]
+            },
+            "C0107": {
+              "singleton": true,
+              "theories": [
+                "BRCA-related ATM-mediated DNA double-strand break repair theory of ovarian aging"
+              ]
+            }
+          }
+        },
+        "P0069": {
+          "singleton": false,
+          "children": {
+            "C0108": {
+              "singleton": false,
+              "theories": [
+                "Enhanced DNA Repair and Epigenetic Regulation in Long-Lived Whales"
+              ]
+            }
+          }
+        },
+        "P0070": {
+          "singleton": false,
+          "children": {
+            "C0109": {
+              "singleton": false,
+              "theories": [
+                "Immortal DNA Strand Hypothesis"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F022": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0071": {
+          "singleton": false,
+          "children": {
+            "C0110": {
+              "singleton": false,
+              "theories": [
+                "Inflammaging theory",
+                "Inflammaging theory",
+                "Immunosenescence as a driver of inflammaging",
+                "Inflammation-driven aging and cancer theory",
+                "Inflammaging Theory",
+                "Immunosenescence and Inflammaging as an Evolutionary Adaptive Response",
+                "Chronic Inflammation (Inflammaging) Theory of Aging",
+                "Inflammaging Theory",
+                "Inflammaging theory",
+                "Inflammaging and Immunosenescence Feedback Loop Theory",
+                "Inflammageing Theory (Referenced and Contextualized)"
+              ]
+            },
+            "C0111": {
+              "singleton": true,
+              "theories": [
+                "Biological Embedding of Childhood Adversity Model"
+              ]
+            },
+            "C0112": {
+              "singleton": true,
+              "theories": [
+                "Anti-inflammaging theory"
+              ]
+            }
+          }
+        },
+        "P0072": {
+          "singleton": false,
+          "children": {
+            "C0113": {
+              "singleton": false,
+              "theories": [
+                "Obesity-Associated Inflammation and Insulin Resistance Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F023": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0073": {
+          "singleton": false,
+          "children": {
+            "C0114": {
+              "singleton": false,
+              "theories": [
+                "FOXO3-mediated Longevity Theory",
+                "FOXO/DAF-16 Longevity Regulatory Network Theory",
+                "Distinct FoxO Regulation by AKT-1 and SGK-1 in C. elegans Lifespan Control",
+                "MST-FOXO Signaling Pathway Theory of Aging",
+                "HSF1-FOXO3 stress response axis as a regulator of lifespan and aging",
+                "Forkhead Box O (FoxO) Transcription Factor Theory of Aging"
+              ]
+            },
+            "C0115": {
+              "singleton": true,
+              "theories": [
+                "PAK1 kinase as a negative regulator of lifespan via FOXO inactivation"
+              ]
+            },
+            "C0116": {
+              "singleton": true,
+              "theories": [
+                "FoxO1-mediated fat catabolism as a pro-longevity adaptive pathway"
+              ]
+            },
+            "C0117": {
+              "singleton": true,
+              "theories": [
+                "FOXO3-enhanced mesenchymal progenitor cell rejuvenation theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F024": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0074": {
+          "singleton": false,
+          "children": {
+            "C0118": {
+              "singleton": false,
+              "theories": [
+                "Terminal Investment Theory",
+                "Temporality in Reproductive Investment (TRI) Hypothesis",
+                "Restraint Hypothesis"
+              ]
+            },
+            "C0119": {
+              "singleton": false,
+              "theories": [
+                "Allocation trade-off theory in reproductive senescence",
+                "Resource Allocation Theory of Aging"
+              ]
+            },
+            "C0120": {
+              "singleton": true,
+              "theories": [
+                "Parental Investment Theory of Actuarial Senescence"
+              ]
+            },
+            "C0121": {
+              "singleton": false,
+              "theories": [
+                "Load-lightening hypothesis in cooperative breeding as a mechanism for extended breeder lifespan",
+                "Cooperative Breeding Modulation of Aging"
+              ]
+            },
+            "C0122": {
+              "singleton": true,
+              "theories": [
+                "Maternal Care-Driven Evolution of Slow Life Histories"
+              ]
+            }
+          }
+        },
+        "P0075": {
+          "singleton": false,
+          "children": {
+            "C0123": {
+              "singleton": false,
+              "theories": [
+                "Constraint Hypothesis"
+              ]
+            }
+          }
+        },
+        "P0076": {
+          "singleton": false,
+          "children": {
+            "C0124": {
+              "singleton": false,
+              "theories": [
+                "Reproductive death in semelparous species"
+              ]
+            }
+          }
+        },
+        "P0077": {
+          "singleton": false,
+          "children": {
+            "C0125": {
+              "singleton": false,
+              "theories": [
+                "Death spiral model of late-life fecundity decline"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F025": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0078": {
+          "singleton": false,
+          "children": {
+            "C0126": {
+              "singleton": true,
+              "theories": [
+                "Geroprotection versus Anti-Aging Strategy Theory"
+              ]
+            },
+            "C0127": {
+              "singleton": true,
+              "theories": [
+                "Antagonistic Pleiotropy Theory"
+              ]
+            }
+          }
+        },
+        "P0079": {
+          "singleton": false,
+          "children": {
+            "C0128": {
+              "singleton": false,
+              "theories": [
+                "Antagonistic Pleiotropy in Androgen Receptor Gene Variation"
+              ]
+            }
+          }
+        },
+        "P0080": {
+          "singleton": false,
+          "children": {
+            "C0129": {
+              "singleton": false,
+              "theories": [
+                "Mutation accumulation and antagonistic pleiotropy theory of aging",
+                "Evolutionary Theories of Aging: Mutation Accumulation and Antagonistic Pleiotropy",
+                "Antagonistic Pleiotropy and Trade-Offs Evolutionary Hypothesis of Longevity",
+                "Antagonistic Pleiotropy Hypothesis",
+                "Evolutionary theories of aging: Antagonistic Pleiotropy and Disposable Soma",
+                "Mutation Accumulation Theory of Aging",
+                "Antagonistic Pleiotropy Theory of Aging",
+                "Evolutionary Theories of Aging: Antagonistic Pleiotropy and Mutation Accumulation",
+                "Antagonistic pleiotropy theory of aging",
+                "Antagonistic Pleiotropy Theory of Aging",
+                "Antagonistic pleiotropy theory of aging",
+                "Life history trade-off theory (antagonistic pleiotropy)",
+                "Antagonistic Pleiotropy Theory",
+                "Antagonistic Pleiotropy Theory of Aging",
+                "Antagonistic pleiotropy theory of aging",
+                "Antagonistic pleiotropy theory of aging",
+                "Evolutionary Genetic Theory of Aging",
+                "Antagonistic Pleiotropy Theory of Aging",
+                "Programmed Aging as Deleterious Developmental Changes",
+                "Early-life inertia theory of senescence",
+                "Antagonistic Pleiotropy Hypothesis of Senescence",
+                "Antagonistic Pleiotropy Theory (BIEL+DILL Model)"
+              ]
+            }
+          }
+        },
+        "P0081": {
+          "singleton": false,
+          "children": {
+            "C0130": {
+              "singleton": false,
+              "theories": [
+                "Predictive Adaptive Response Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F026": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0082": {
+          "singleton": false,
+          "children": {
+            "C0131": {
+              "singleton": false,
+              "theories": [
+                "Loss of chondrocyte differentiation block theory",
+                "TGF-beta signaling decline theory in aging cartilage"
+              ]
+            },
+            "C0132": {
+              "singleton": true,
+              "theories": [
+                "Wear and tear theory of osteoarthritis"
+              ]
+            },
+            "C0133": {
+              "singleton": true,
+              "theories": [
+                "Extracellular matrix alteration theory of cartilage aging"
+              ]
+            },
+            "C0134": {
+              "singleton": true,
+              "theories": [
+                "Evolutionary theory of aging applied to osteoarthritis"
+              ]
+            },
+            "C0135": {
+              "singleton": true,
+              "theories": [
+                "Reactive oxygen species (ROS) and oxidative stress theory in cartilage aging"
+              ]
+            }
+          }
+        },
+        "P0083": {
+          "singleton": false,
+          "children": {
+            "C0136": {
+              "singleton": false,
+              "theories": [
+                "TIPE2-Mediated Regulation of SASP and Cellular Senescence in Osteoarthritis"
+              ]
+            }
+          }
+        },
+        "P0084": {
+          "singleton": false,
+          "children": {
+            "C0137": {
+              "singleton": false,
+              "theories": [
+                "Pleiotropic Genetic Regulation of the Musculoskeletal System"
+              ]
+            }
+          }
+        },
+        "P0085": {
+          "singleton": false,
+          "children": {
+            "C0138": {
+              "singleton": false,
+              "theories": [
+                "Phenoptosis theory of aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F027": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0086": {
+          "singleton": false,
+          "children": {
+            "C0139": {
+              "singleton": false,
+              "theories": [
+                "Chaperone-Mediated Autophagy (CMA) as a Longevity Mechanism Modulated by Growth Hormone Signaling",
+                "Macroautophagy (MA) Regulation by Growth Hormone and Thyroid Hormone Signaling in Aging",
+                "Nutrient restriction-induced lipophagy as a longevity mechanism"
+              ]
+            },
+            "C0140": {
+              "singleton": false,
+              "theories": [
+                "Autophagy-mediated stress resistance and longevity theory",
+                "Autophagy Decline Theory of Aging",
+                "Autophagy Theory of Aging",
+                "Autophagy Dysfunction and Aging Theory",
+                "Impaired Macroautophagy Theory of Aging",
+                "Disabled Macroautophagy Theory of Aging",
+                "Autophagy and Cellular Senescence Interaction Theory"
+              ]
+            }
+          }
+        },
+        "P0087": {
+          "singleton": false,
+          "children": {
+            "C0141": {
+              "singleton": false,
+              "theories": [
+                "Impaired Cellular Waste Disposal Theory in Brain Aging",
+                "Autophagy Dysfunction in Alzheimer's Disease Theory"
+              ]
+            },
+            "C0142": {
+              "singleton": true,
+              "theories": [
+                "CRM1-mediated nuclear export theory of aging-related neuronal senescence"
+              ]
+            }
+          }
+        },
+        "P0088": {
+          "singleton": false,
+          "children": {
+            "C0143": {
+              "singleton": false,
+              "theories": [
+                "Exercise-Induced Autophagy Theory for Metabolic Health and Longevity"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F028": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0089": {
+          "singleton": false,
+          "children": {
+            "C0144": {
+              "singleton": false,
+              "theories": [
+                "Cognitive Reserve Theory",
+                "Cognitive Reserve Theory",
+                "Cognitive Reserve Theory",
+                "Cognitive Reserve Theory"
+              ]
+            },
+            "C0145": {
+              "singleton": true,
+              "theories": [
+                "Motherhood-Induced Cognitive Reserve Theory"
+              ]
+            }
+          }
+        },
+        "P0090": {
+          "singleton": false,
+          "children": {
+            "C0146": {
+              "singleton": true,
+              "theories": [
+                "Neural Economics and Aging Brain Capital (ABC) Model"
+              ]
+            },
+            "C0147": {
+              "singleton": true,
+              "theories": [
+                "Brain Protection and Cognitive Reserve Theory of Aging"
+              ]
+            }
+          }
+        },
+        "P0091": {
+          "singleton": false,
+          "children": {
+            "C0148": {
+              "singleton": false,
+              "theories": [
+                "Brain Size and Homeostasis Theory of Senescence"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F029": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0092": {
+          "singleton": false,
+          "children": {
+            "C0149": {
+              "singleton": false,
+              "theories": [
+                "Microguarding theory of gene expression regulation",
+                "Conflict hypothesis for microguards and micromessengers"
+              ]
+            },
+            "C0150": {
+              "singleton": true,
+              "theories": [
+                "Micromessenger theory of intercellular and interindividual miRNA communication"
+              ]
+            }
+          }
+        },
+        "P0093": {
+          "singleton": false,
+          "children": {
+            "C0151": {
+              "singleton": false,
+              "theories": [
+                "Lamarckian epigenetic inheritance theory of aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F030": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0094": {
+          "singleton": false,
+          "children": {
+            "C0152": {
+              "singleton": false,
+              "theories": [
+                "Calcium (Ca2+) Hypothesis of Aging and Alzheimer's Disease",
+                "Calcium Dysregulation Hypothesis of Brain Aging",
+                "Neuronal Calcium Dysregulation Theory of Brain Aging"
+              ]
+            },
+            "C0153": {
+              "singleton": true,
+              "theories": [
+                "Caspase-3 Bifurcation Theory of Neuronal Aging and Plasticity"
+              ]
+            }
+          }
+        },
+        "P0095": {
+          "singleton": false,
+          "children": {
+            "C0154": {
+              "singleton": false,
+              "theories": [
+                "Neuronal Dopaminergic Signaling in Regulation of Aging and Immunity"
+              ]
+            }
+          }
+        },
+        "P0096": {
+          "singleton": false,
+          "children": {
+            "C0155": {
+              "singleton": false,
+              "theories": [
+                "Critical Period Hypothesis of Estrogen Neuroprotection"
+              ]
+            }
+          }
+        },
+        "P0097": {
+          "singleton": false,
+          "children": {
+            "C0156": {
+              "singleton": false,
+              "theories": [
+                "Glucocorticoid Cascade Hypothesis"
+              ]
+            }
+          }
+        },
+        "P0098": {
+          "singleton": false,
+          "children": {
+            "C0157": {
+              "singleton": false,
+              "theories": [
+                "Calcium Homeostasis Feedback Control Model of Aging"
+              ]
+            }
+          }
+        },
+        "P0099": {
+          "singleton": false,
+          "children": {
+            "C0158": {
+              "singleton": false,
+              "theories": [
+                "Circadian Glucocorticoid Oscillation-Mediated Preservation of Neural Stem Cell Quiescence Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F031": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0100": {
+          "singleton": false,
+          "children": {
+            "C0159": {
+              "singleton": false,
+              "theories": [
+                "Stem Cell Exhaustion Theory of Aging",
+                "Stem Cell Exhaustion Theory of Aging",
+                "Stem Cell Exhaustion Theory"
+              ]
+            },
+            "C0160": {
+              "singleton": true,
+              "theories": [
+                "Stem Cell Functional Decline Theory of Aging"
+              ]
+            }
+          }
+        },
+        "P0101": {
+          "singleton": false,
+          "children": {
+            "C0161": {
+              "singleton": false,
+              "theories": [
+                "Replicative Aging Stem Cell Hierarchy Model of Intestinal Crypts"
+              ]
+            }
+          }
+        },
+        "P0102": {
+          "singleton": false,
+          "children": {
+            "C0162": {
+              "singleton": false,
+              "theories": [
+                "Stem Cell Therapy for Tissue Rejuvenation and Aging Delay"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F032": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0103": {
+          "singleton": false,
+          "children": {
+            "C0163": {
+              "singleton": false,
+              "theories": [
+                "Biological Age Acceleration Theory of Environmental Risk Factors",
+                "Transcript Length-Dependent Scaling Law of Aging",
+                "Epigenetic chromatin repression loss theory of aging",
+                "Epigenetic Loss of Gene Repression Theory of Aging",
+                "Epigenetic Pacemaker (EPM) model of aging",
+                "Epigenetic Aging Acceleration Theory in Painful Diabetic Neuropathy",
+                "Epigenetic aging theory modulated by developmental plasticity",
+                "Epigenetic Clock Theory of Aging and Rejuvenation",
+                "Ageome framework as a modular epigenetic aging theory",
+                "Pace of Biological Aging Theory as a Mediator of Diet Effects on Aging and Dementia",
+                "Epigenetic Alteration Theory of Ageing",
+                "Transcriptional Memory Theory of Aging via dFOXO Activation",
+                "Epigenetic Reprogramming Theory of Aging",
+                "Epigenetic Aging Theory via DNA Methylation Alterations",
+                "Relativistic Biological Space-Time Theory of Aging",
+                "Epigenetic Maintenance and Genome Integrity Theory of Aging",
+                "Epigenetic alteration theory of aging-related circadian rhythm disruption and cognitive decline",
+                "Epigenetic Alterations Theory of Aging",
+                "Critique of Reductionist and Animal Model-Based Aging Research",
+                "Epigenetic Alterations Theory",
+                "Epigenetic Regulation Theory of Aging",
+                "Epigenetic theory of aging modulated by nutrition",
+                "Genetic and Epigenetic Regulation of Longevity and Immune Aging",
+                "Epigenetic Alterations Theory of Aging",
+                "Coordinated Multi-Pathway Decline Theory of Aging"
+              ]
+            }
+          }
+        },
+        "P0104": {
+          "singleton": false,
+          "children": {
+            "C0164": {
+              "singleton": false,
+              "theories": [
+                "Integrative Genome (IntG) and Housekeeping Genome (THG) Functional Pleiotropy Theory"
+              ]
+            }
+          }
+        },
+        "P0105": {
+          "singleton": false,
+          "children": {
+            "C0165": {
+              "singleton": false,
+              "theories": [
+                "G-Quadruplex (G4) Structures and Aging Theory"
+              ]
+            }
+          }
+        },
+        "P0106": {
+          "singleton": false,
+          "children": {
+            "C0166": {
+              "singleton": false,
+              "theories": [
+                "Gene Editing as a Mechanism to Modulate Aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F033": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0107": {
+          "singleton": false,
+          "children": {
+            "C0167": {
+              "singleton": false,
+              "theories": [
+                "Circulating Factors Theory of Cardiac Aging",
+                "Systemic Inflammation Theory of Cardiac Aging",
+                "Neurohormonal Activation Theory of Cardiac Aging",
+                "Circulating Anti-Hypertrophic Factor Theory of Cardiac Aging"
+              ]
+            },
+            "C0168": {
+              "singleton": true,
+              "theories": [
+                "Circulating Non-coding RNAs Theory in Cardiac Aging"
+              ]
+            },
+            "C0169": {
+              "singleton": true,
+              "theories": [
+                "Cardiac senescence as a causal mechanism of pathological cardiac hypertrophy"
+              ]
+            }
+          }
+        },
+        "P0108": {
+          "singleton": false,
+          "children": {
+            "C0170": {
+              "singleton": false,
+              "theories": [
+                "Vascular Aging Continuum Theory Linking Atherosclerosis and Cerebral Small Vessel Disease"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F034": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0109": {
+          "singleton": false,
+          "children": {
+            "C0171": {
+              "singleton": false,
+              "theories": [
+                "Life History Trade-off Theory of Aging",
+                "Life-history modulation of reproductive senescence theory",
+                "Life-history theory of resource allocation between somatic maintenance and reproduction",
+                "Evolutionary Life History Theory",
+                "Post-Reproductive Life Span as a Population Stability Mechanism Theory",
+                "Dynamic heterogeneity theory of life histories and senescence",
+                "Williams' fecundity increase hypothesis",
+                "Adaptive variation in reproductive senescence related to breeding timing and competition"
+              ]
+            },
+            "C0172": {
+              "singleton": true,
+              "theories": [
+                "Life History Trade-Off Theory in Polygynous Male Elephant Seals"
+              ]
+            },
+            "C0173": {
+              "singleton": true,
+              "theories": [
+                "Continuusparity life history strategy"
+              ]
+            }
+          }
+        },
+        "P0110": {
+          "singleton": false,
+          "children": {
+            "C0174": {
+              "singleton": true,
+              "theories": [
+                "Sexual selection-driven elevated germline mutation rate theory"
+              ]
+            },
+            "C0175": {
+              "singleton": true,
+              "theories": [
+                "Germline DNA Mutation Accumulation Theory of Male Reproductive Aging"
+              ]
+            }
+          }
+        },
+        "P0111": {
+          "singleton": false,
+          "children": {
+            "C0176": {
+              "singleton": false,
+              "theories": [
+                "Challenge Hypothesis"
+              ]
+            }
+          }
+        },
+        "P0112": {
+          "singleton": false,
+          "children": {
+            "C0177": {
+              "singleton": false,
+              "theories": [
+                "Direct Costs of Reproduction Theory",
+                "Direct reproductive costs (direct constraints) model"
+              ]
+            }
+          }
+        },
+        "P0113": {
+          "singleton": false,
+          "children": {
+            "C0178": {
+              "singleton": false,
+              "theories": [
+                "Resource Reallocation Hypothesis (RRH)",
+                "Resource Reallocation Hypothesis (RRH)"
+              ]
+            }
+          }
+        },
+        "P0114": {
+          "singleton": false,
+          "children": {
+            "C0179": {
+              "singleton": false,
+              "theories": [
+                "Evolutionary transitions in individuality reinforced by physiological homeostasis and environmental fluctuation amplification"
+              ]
+            }
+          }
+        },
+        "P0115": {
+          "singleton": false,
+          "children": {
+            "C0180": {
+              "singleton": false,
+              "theories": [
+                "r- and K-selection theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F035": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0116": {
+          "singleton": false,
+          "children": {
+            "C0181": {
+              "singleton": false,
+              "theories": [
+                "Cellular Senescence as a Programmed Developmental Mechanism",
+                "Developmentally Programmed Cellular Senescence Theory"
+              ]
+            },
+            "C0182": {
+              "singleton": true,
+              "theories": [
+                "Antagonistic Pleiotropy in Cellular Senescence"
+              ]
+            },
+            "C0183": {
+              "singleton": true,
+              "theories": [
+                "PTEN/cyclin D1/E2F/Ezh2/p16ink4a signaling network theory of aging"
+              ]
+            },
+            "C0184": {
+              "singleton": true,
+              "theories": [
+                "Ceramide-mediated cellular senescence theory"
+              ]
+            }
+          }
+        },
+        "P0117": {
+          "singleton": false,
+          "children": {
+            "C0185": {
+              "singleton": false,
+              "theories": [
+                "Morphostatic Information Loss Theory of Aging"
+              ]
+            }
+          }
+        },
+        "P0118": {
+          "singleton": false,
+          "children": {
+            "C0186": {
+              "singleton": true,
+              "theories": [
+                "Aging-Carcinogenesis Trade-off Theory"
+              ]
+            },
+            "C0187": {
+              "singleton": true,
+              "theories": [
+                "Developmental Biogerontology: Dynamic Balance of Autonomous and Integrative Dominants Theory"
+              ]
+            }
+          }
+        },
+        "P0119": {
+          "singleton": false,
+          "children": {
+            "C0188": {
+              "singleton": false,
+              "theories": [
+                "Differential Kat3 Coactivator Usage Theory of Stem Cell Aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F036": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0120": {
+          "singleton": false,
+          "children": {
+            "C0189": {
+              "singleton": false,
+              "theories": [
+                "Cellular senescence theory of osteoporosis and bone aging",
+                "Cellular Senescence Theory of Aging",
+                "Cellular Senescence Theory of Aging",
+                "Cellular Senescence Theory of Aging and Disease",
+                "Cellular Senescence Theory of Aging",
+                "Advanced Glycosylation End Products (AGEs) Theory of Aging and Diabetic Vascular Dysfunction",
+                "Cellular Senescence Theory of Aging",
+                "Cellular Senescence as a Homeostasis Imbalance Theory",
+                "Extracellular Vesicles-Mediated Modulation of Aging via NAD+ Metabolism and SIRT1 Regulation",
+                "Senescence Theory of Aging and Senotherapeutics",
+                "Cellular Senescence Theory of Aging and Cancer",
+                "Senescence-Inflammatory Regulation of Reparative Cellular Reprogramming Threshold Model",
+                "Geroscience Hypothesis",
+                "Cellular Senescence Theory of Aging",
+                "Cellular Senescence Theory of Ageing",
+                "Cellular senescence theory of aging",
+                "Cellular Senescence as a Driver of Systemic Aging",
+                "Cellular Senescence Theory of Aging",
+                "Cellular Senescence Theory of Aging",
+                "Viral Age Distortion Theory",
+                "Cellular Senescence Theory of Aging",
+                "Age-Dependent Loss of Cell Communication via Receptor Function Decline",
+                "Apoptosis as a causal mechanism of aging",
+                "Life Course Biological Aging Framework",
+                "Cellular senescence theory of aging as a driver of blood-brain barrier dysfunction",
+                "DNA Damage Accumulation and Cellular Senescence Theory of Aging",
+                "IL-4-STAT6 Signaling Pathway in Delaying Macrophage Senescence",
+                "Cellular Senescence and Inflammaging Theory",
+                "Cellular Senescence Modulation Theory by Metformin",
+                "Premature Cellular Senescence as a Model for Accelerated Aging in Diabetes"
+              ]
+            }
+          }
+        },
+        "P0121": {
+          "singleton": false,
+          "children": {
+            "C0190": {
+              "singleton": false,
+              "theories": [
+                "Canine Geriatric Syndrome (CGS) Framework"
+              ]
+            }
+          }
+        },
+        "P0122": {
+          "singleton": false,
+          "children": {
+            "C0191": {
+              "singleton": false,
+              "theories": [
+                "Ceramide-driven longevity assurance pathway regulated by GIMAP5"
+              ]
+            }
+          }
+        },
+        "P0123": {
+          "singleton": false,
+          "children": {
+            "C0192": {
+              "singleton": false,
+              "theories": [
+                "Yin-Yang Biphasic Immune Surveillance Theory of Aging and Cancer"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F037": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0124": {
+          "singleton": false,
+          "children": {
+            "C0193": {
+              "singleton": false,
+              "theories": [
+                "Strength and Vulnerability Integration (SAVI) Theory",
+                "Strength and Vulnerability Integration (SAVI) Model"
+              ]
+            }
+          }
+        },
+        "P0125": {
+          "singleton": false,
+          "children": {
+            "C0194": {
+              "singleton": false,
+              "theories": [
+                "Socioemotional Selectivity Theory (SST)"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F038": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0126": {
+          "singleton": false,
+          "children": {
+            "C0195": {
+              "singleton": false,
+              "theories": [
+                "Population Heterogeneity Theory of Aging",
+                "Differential Heterogeneity Hypothesis"
+              ]
+            },
+            "C0196": {
+              "singleton": false,
+              "theories": [
+                "Four-dimensional correlated frailty model of aging",
+                "Frailty (hidden heterogeneity) models of mortality"
+              ]
+            },
+            "C0197": {
+              "singleton": true,
+              "theories": [
+                "Genetic heterogeneity and pleiotropy in aging and longevity"
+              ]
+            },
+            "C0198": {
+              "singleton": true,
+              "theories": [
+                "Differential Survival and Selective Culling Theory of Aging-Related Cancer Mortality"
+              ]
+            },
+            "C0199": {
+              "singleton": true,
+              "theories": [
+                "Lifelong demographic heterogeneity theory of aging"
+              ]
+            },
+            "C0200": {
+              "singleton": true,
+              "theories": [
+                "Integrative stochastic process model of human mortality and aging"
+              ]
+            }
+          }
+        },
+        "P0127": {
+          "singleton": false,
+          "children": {
+            "C0201": {
+              "singleton": false,
+              "theories": [
+                "Delayed Effects Theories (DET) / Developmental Origins of Health and Disease (DOHaD) Paradigm"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F039": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0128": {
+          "singleton": false,
+          "children": {
+            "C0202": {
+              "singleton": false,
+              "theories": [
+                "General Stress Response (GSR) Modulation of Aging Rate in Escherichia coli",
+                "Age-specific mutation theory of bacterial aging"
+              ]
+            },
+            "C0203": {
+              "singleton": false,
+              "theories": [
+                "Damage Accumulation and Asymmetric Partitioning Theory of Cellular Aging and Immortality",
+                "Damage Load Theory of Aging and Evolution of Asymmetrical Damage Transmission"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F040": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0129": {
+          "singleton": false,
+          "children": {
+            "C0204": {
+              "singleton": false,
+              "theories": [
+                "Chromatin-mediated regulation of developmental plasticity and longevity via HPL-2",
+                "HSF-1 mediated longevity downstream of TOR and IIS signaling pathways",
+                "TIR-1 - JNK-1 - DAF-16 Longevity Signaling Pathway in C. elegans",
+                "Trade-off theory of reproduction versus lifespan",
+                "HIF-1-dependent longevity regulation via folliculin (FLCN) pathway",
+                "AMPK-Calcineurin-CRTC-1-CREB Longevity Regulation Pathway",
+                "Mitochondrial Signaling and Free Radical Theory of Aging",
+                "KIN4/MAST kinase-mediated modulation of insulin/IGF-1 signaling via PTEN interaction",
+                "Autophagy-mediated neuroendocrine regulation of lifespan via ATG-18 in C. elegans",
+                "Neuronal Signaling Theory of Aging"
+              ]
+            },
+            "C0205": {
+              "singleton": false,
+              "theories": [
+                "Germline Signaling Theory of Aging",
+                "Network Pharmacology-Based Synergistic Aging Delay Theory"
+              ]
+            },
+            "C0206": {
+              "singleton": true,
+              "theories": [
+                "Healthspan-Gerospan Framework in Aging"
+              ]
+            },
+            "C0207": {
+              "singleton": true,
+              "theories": [
+                "HLH30/ATGL1 axis regulation of nuclear lipid droplet homeostasis as a driver of aging"
+              ]
+            },
+            "C0208": {
+              "singleton": true,
+              "theories": [
+                "Neuronal homeostasis regulation theory of aging via HPK-1"
+              ]
+            }
+          }
+        },
+        "P0130": {
+          "singleton": false,
+          "children": {
+            "C0209": {
+              "singleton": false,
+              "theories": [
+                "Transsulfuration Pathway and Hydrogen Sulfide Signaling Theory"
+              ]
+            }
+          }
+        },
+        "P0131": {
+          "singleton": false,
+          "children": {
+            "C0210": {
+              "singleton": false,
+              "theories": [
+                "JNK (Jun-N-terminal Kinase) Stress Signaling and Aging Modulation Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F041": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0132": {
+          "singleton": false,
+          "children": {
+            "C0211": {
+              "singleton": true,
+              "theories": [
+                "Infinite Leslie Matrix Model of Stable Population Theory with Mortality Plateaus"
+              ]
+            },
+            "C0212": {
+              "singleton": true,
+              "theories": [
+                "Penna model of biological aging"
+              ]
+            }
+          }
+        },
+        "P0133": {
+          "singleton": false,
+          "children": {
+            "C0213": {
+              "singleton": true,
+              "theories": [
+                "Probabilistic Wear and Anti-Wear Model of Aging"
+              ]
+            },
+            "C0214": {
+              "singleton": true,
+              "theories": [
+                "Strehler-Mildvan model of aging and mortality"
+              ]
+            },
+            "C0215": {
+              "singleton": true,
+              "theories": [
+                "Mathematical Model of Aging Based on Coupled Physiological Systems with Critical/Fatal Limits"
+              ]
+            },
+            "C0216": {
+              "singleton": true,
+              "theories": [
+                "Physiological Network-Gompertz Survival Model of Aging Rate"
+              ]
+            }
+          }
+        },
+        "P0134": {
+          "singleton": false,
+          "children": {
+            "C0217": {
+              "singleton": false,
+              "theories": [
+                "Rare Critical Events Theory of Disease Mortality"
+              ]
+            }
+          }
+        },
+        "P0135": {
+          "singleton": false,
+          "children": {
+            "C0218": {
+              "singleton": false,
+              "theories": [
+                "Strehler-Mildvan Correlation (Compensation Law of Mortality)"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F042": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0136": {
+          "singleton": false,
+          "children": {
+            "C0219": {
+              "singleton": false,
+              "theories": [
+                "Reactive Oxygen Species (ROS) Theory of Aging",
+                "Free Radical Theory of Aging",
+                "Oxidative Stress Theory of Aging",
+                "Harman's mitochondrial free radical theory of aging",
+                "Reactive Oxygen Species (ROS) Damage Accumulation Theory of Aging",
+                "Mitochondrial Free Radical Damage Theory of Aging",
+                "Mitochondrial Oxidative Stress Theory of Aging",
+                "Free Radical and Oxidative Stress Theories of Aging",
+                "Mitochondrial oxidative damage and dysfunction theory of aging",
+                "Mitochondrial Decay and Oxidative Stress Theory",
+                "Mitochondrial Dysfunction Theory of Aging",
+                "Mitochondrial Dysfunction Theory of Ageing",
+                "Mitochondrial Free Radical Theory of Aging (MRFT)",
+                "Oxygen Paradox Theory",
+                "Mitochondrial Dysfunction and Oxidative Stress Theory",
+                "Mitochondrial Dysfunction Theory of Aging",
+                "Free Radical Theory of Aging as related to RASGRF1 deficiency",
+                "Oxidative Damage Theory of Aging",
+                "Nitric Oxide and Peroxynitrite-Mediated Redox Signaling and Damage Theory",
+                "Oxidative Damage Theory of Aging",
+                "Reactive Oxygen Species (ROS) Hormesis Theory of Aging",
+                "Mitochondrial Aging Theory",
+                "Mitochondrial Dysfunction Theory of Aging",
+                "NAD+ Metabolite Signaling Theory of Longevity",
+                "Oxidative Damage and Free Radical Theory of Aging",
+                "Mitochondrial oxidative damage (free radical) theory of aging",
+                "Oxidative Stress and Inflammation Reduction Theory of Aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F043": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0137": {
+          "singleton": false,
+          "children": {
+            "C0220": {
+              "singleton": false,
+              "theories": [
+                "Life History Theory (LHT) of Aging",
+                "Paternal Age at Conception (PAC) Effect on Offspring Telomere Length as an Adaptive Intergenerational Plasticity Mechanism",
+                "Telomere Dynamics and Telomerase Regulation as an Evolutionary Aging Mechanism in Ectotherms",
+                "Replicative Aging as a Tumor Suppression Mechanism via Telomere Shortening",
+                "Telomere Dynamics Theory of Aging",
+                "Evolutionary Trade-Off Theory of Telomere Length and Telomerase Expression"
+              ]
+            },
+            "C0221": {
+              "singleton": true,
+              "theories": [
+                "Estradiol-Mediated Protection of Telomeres"
+              ]
+            },
+            "C0222": {
+              "singleton": true,
+              "theories": [
+                "Effective Population Size Governs Evolutionary Differences in Telomere Length Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F044": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0138": {
+          "singleton": false,
+          "children": {
+            "C0223": {
+              "singleton": true,
+              "theories": [
+                "Ribosomopathies as a Model for Aging and Neurodegeneration"
+              ]
+            },
+            "C0224": {
+              "singleton": true,
+              "theories": [
+                "METTL1-WDR4 Complex Dysfunction in Aging-Associated Cellular Senescence"
+              ]
+            }
+          }
+        },
+        "P0139": {
+          "singleton": false,
+          "children": {
+            "C0225": {
+              "singleton": false,
+              "theories": [
+                "Specialized Ribosome Hypothesis",
+                "Ribosome Concentration Hypothesis"
+              ]
+            }
+          }
+        },
+        "P0140": {
+          "singleton": false,
+          "children": {
+            "C0226": {
+              "singleton": false,
+              "theories": [
+                "WTAP-Mediated m6A RNA Modification in Cellular Senescence and Skin Aging"
+              ]
+            }
+          }
+        },
+        "P0141": {
+          "singleton": false,
+          "children": {
+            "C0227": {
+              "singleton": false,
+              "theories": [
+                "p53-Mediated Nucleolar Stress Response in Ribosomopathies"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F045": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0142": {
+          "singleton": false,
+          "children": {
+            "C0228": {
+              "singleton": true,
+              "theories": [
+                "Hypothesized Role of AhR in Regulation of Other Tissue Stem Cell Populations"
+              ]
+            },
+            "C0229": {
+              "singleton": true,
+              "theories": [
+                "Aryl Hydrocarbon Receptor (AhR) Regulation of Hematopoietic Stem Cell Quiescence and Proliferation Theory"
+              ]
+            }
+          }
+        },
+        "P0143": {
+          "singleton": false,
+          "children": {
+            "C0230": {
+              "singleton": false,
+              "theories": [
+                "Epigenetic Drift Theory of Hematopoietic Stem Cell Aging",
+                "Clonal Selection and Expansion Theory in Hematopoietic Aging",
+                "Clonal Hematopoiesis of Indeterminate Potential (CHIP)"
+              ]
+            },
+            "C0231": {
+              "singleton": true,
+              "theories": [
+                "Cellular Senescence Theory in Hematopoietic Stem Cell Aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F046": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0144": {
+          "singleton": false,
+          "children": {
+            "C0232": {
+              "singleton": false,
+              "theories": [
+                "Aerobic Hypothesis of Longevity",
+                "Life History Theory of Aging",
+                "Multi-mechanism Longevity and Disease Resistance Theory from Unconventional Vertebrates",
+                "Targeted Aging Interventions Theory",
+                "Two-Phase Ageing Model (Smurf Phenotype Framework)",
+                "Molecular Longevity Mechanisms Integrating Evolutionary and Intervention Strategies",
+                "Polygenic and Indirect Natural Selection Theory of Longevity Regulation"
+              ]
+            },
+            "C0233": {
+              "singleton": false,
+              "theories": [
+                "Xenohormetic, Hormetic and Cytostatic Selective Forces Driving Ecosystemic Evolution of Longevity Regulation Mechanisms",
+                "Methuselah gene as a pleiotropic aging gene affecting lifespan and stress resistance",
+                "Phenotypic Plasticity of Lifespan and Somatic Maintenance",
+                "Adaptive evolution of signal transduction pathways modulating lifespan via the methuselah (mth) gene",
+                "Nutrient sensing pathway involvement in aging evolution (IIS/TOR signaling)"
+              ]
+            },
+            "C0234": {
+              "singleton": false,
+              "theories": [
+                "Viability Selection on Genetic Variants Affecting Survival",
+                "Population-Specific Genetic Architecture of Longevity Shaped by Demography and Adaptive Events"
+              ]
+            },
+            "C0235": {
+              "singleton": false,
+              "theories": [
+                "Error-Catastrophe Theory of Aging",
+                "TOR signaling and protein translation regulation as a conserved longevity pathway"
+              ]
+            }
+          }
+        },
+        "P0145": {
+          "singleton": false,
+          "children": {
+            "C0236": {
+              "singleton": true,
+              "theories": [
+                "Cardiovascular Adaptations to Aging and Hypoxia in Hibernating Mammals and Large Vertebrates"
+              ]
+            },
+            "C0237": {
+              "singleton": true,
+              "theories": [
+                "Hibernation Season Duration as a Mortality Reduction Strategy Influencing Longevity"
+              ]
+            }
+          }
+        },
+        "P0146": {
+          "singleton": false,
+          "children": {
+            "C0238": {
+              "singleton": false,
+              "theories": [
+                "Pro-longevity Gene Regulation Theory (CISD2 Focus)"
+              ]
+            }
+          }
+        },
+        "P0147": {
+          "singleton": false,
+          "children": {
+            "C0239": {
+              "singleton": false,
+              "theories": [
+                "Splicing regulation maintenance theory of negligible senescence"
+              ]
+            }
+          }
+        },
+        "P0148": {
+          "singleton": false,
+          "children": {
+            "C0240": {
+              "singleton": false,
+              "theories": [
+                "Toxic Protein Hypothesis (TPH)"
+              ]
+            }
+          }
+        },
+        "P0149": {
+          "singleton": false,
+          "children": {
+            "C0241": {
+              "singleton": false,
+              "theories": [
+                "Adaptive Aging Programming Theory in Feline Renal Aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F047": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0150": {
+          "singleton": false,
+          "children": {
+            "C0242": {
+              "singleton": true,
+              "theories": [
+                "Phenoptosis theory (programmed organismal death)"
+              ]
+            },
+            "C0243": {
+              "singleton": true,
+              "theories": [
+                "Stress-induced phenoptosis regulated by FSHR1/GPCR signaling"
+              ]
+            },
+            "C0244": {
+              "singleton": true,
+              "theories": [
+                "Phenoptosis as a Supra-Individual Evolutionary Strategy"
+              ]
+            }
+          }
+        },
+        "P0151": {
+          "singleton": false,
+          "children": {
+            "C0245": {
+              "singleton": false,
+              "theories": [
+                "Endosymbiotic origin of apoptosis theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F048": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0152": {
+          "singleton": false,
+          "children": {
+            "C0246": {
+              "singleton": false,
+              "theories": [
+                "Rate of Living Theory of Aging",
+                "Rate of Living Theory (Original and Reinterpreted)"
+              ]
+            },
+            "C0247": {
+              "singleton": true,
+              "theories": [
+                "Stress Theory of Aging"
+              ]
+            }
+          }
+        },
+        "P0153": {
+          "singleton": false,
+          "children": {
+            "C0248": {
+              "singleton": false,
+              "theories": [
+                "Homeostatic Physiological Dysregulation (PD) Hypothesis",
+                "Physiological Complexity Loss Theory of Aging"
+              ]
+            },
+            "C0249": {
+              "singleton": true,
+              "theories": [
+                "Frailty as an emergent property of complex systems dynamics and physiological dysregulation"
+              ]
+            }
+          }
+        },
+        "P0154": {
+          "singleton": false,
+          "children": {
+            "C0250": {
+              "singleton": false,
+              "theories": [
+                "Environmental Canalization of Life Span via Heat Shock Response and Proteostasis"
+              ]
+            }
+          }
+        },
+        "P0155": {
+          "singleton": false,
+          "children": {
+            "C0251": {
+              "singleton": false,
+              "theories": [
+                "Radiation Hormesis as a Component of Stress-Derived Hormesis"
+              ]
+            }
+          }
+        },
+        "P0156": {
+          "singleton": false,
+          "children": {
+            "C0252": {
+              "singleton": false,
+              "theories": [
+                "Centralized Pineal Gland Aging Clock Theory"
+              ]
+            }
+          }
+        },
+        "P0157": {
+          "singleton": false,
+          "children": {
+            "C0253": {
+              "singleton": false,
+              "theories": [
+                "Metabolic Free Energy (MFE) Control and Data Rate Theorem (DRT) Analog Aging Model"
+              ]
+            }
+          }
+        },
+        "P0158": {
+          "singleton": false,
+          "children": {
+            "C0254": {
+              "singleton": false,
+              "theories": [
+                "Torpor as a Longevity and Survival Mechanism Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F049": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0159": {
+          "singleton": false,
+          "children": {
+            "C0255": {
+              "singleton": true,
+              "theories": [
+                "Theory of Family Modernization"
+              ]
+            },
+            "C0256": {
+              "singleton": true,
+              "theories": [
+                "Boat-Carrying Theory of Intergenerational Relations"
+              ]
+            },
+            "C0257": {
+              "singleton": true,
+              "theories": [
+                "Theory of Skewed Intergenerational Support"
+              ]
+            }
+          }
+        },
+        "P0160": {
+          "singleton": false,
+          "children": {
+            "C0258": {
+              "singleton": false,
+              "theories": [
+                "Convoy Model of Social Relations"
+              ]
+            }
+          }
+        },
+        "P0161": {
+          "singleton": false,
+          "children": {
+            "C0259": {
+              "singleton": false,
+              "theories": [
+                "Cumulative Inequality (CI) Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F050": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0162": {
+          "singleton": false,
+          "children": {
+            "C0260": {
+              "singleton": false,
+              "theories": [
+                "PARP-1 mediated telomere stability and accelerated aging theory",
+                "Telomere Shortening as a Mechanism of Accelerated Aging in Sepsis Survivors",
+                "Telomere Dysfunction Theory of Aging",
+                "Telomere-centric theory of cell aging",
+                "Telomere Hypothesis of Senescence",
+                "Telomere Attrition Theory of Aging",
+                "Telomere Shortening Theory of Replicative Senescence with Oxidative Stress Contribution",
+                "Telomere-mediated replicative senescence and tumor suppression theory",
+                "Telomere Shortening as a Mitotic Clock Theory of Aging",
+                "Telomerase Reverse Transcriptase (TERT) Extra-Telomeric Function Theory of Aging",
+                "Cellular Senescence and Telomere Shortening Theory",
+                "Replicative Senescence Theory of Aging via Telomere Shortening and Oxidative Stress",
+                "Cellular Senescence and Replicative Limit Theory (Hayflick Limit and Telomere Shortening)",
+                "Telomere Maintenance Theory of Cellular Aging and Immortalization",
+                "Telomere Uncapping Theory of Cellular Senescence",
+                "Telomere Shortening and Cellular Senescence Theory of Aging",
+                "Lamin A-mediated accelerated telomere attrition and replicative senescence theory",
+                "Telomere theory of cellular senescence",
+                "Telomere Attrition Theory of Aging",
+                "Telomere-Subtelomeric Repression Model of Cellular Senescence and Aging",
+                "Telomere Aging Clock Theory",
+                "Telomere Shortening Trade-off Theory in Stem Cells",
+                "Multiple Mitotic Clocks Model of Senescence"
+              ]
+            }
+          }
+        },
+        "P0163": {
+          "singleton": false,
+          "children": {
+            "C0261": {
+              "singleton": false,
+              "theories": [
+                "Weakened Magnetic Braking Theory of Stellar Aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F051": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0164": {
+          "singleton": false,
+          "children": {
+            "C0262": {
+              "singleton": false,
+              "theories": [
+                "Kin Selection and the Grandmother Hypothesis",
+                "Parental Age Effects on the Evolution of Aging",
+                "Synthetic Theory for the Origin of Human Menopause",
+                "Growth Rate-Lifespan Trade-off Theory",
+                "Evolutionary theory of reproductive senescence via weakened late-life selection",
+                "Evolutionary theory of aging based on declining selection with age",
+                "Declining force of natural selection theory of aging",
+                "Kin Selection Theory Explaining Evolution of Menopause and Post-Reproductive Lifespan",
+                "Life-History Trade-Off Theory of Aging",
+                "Evolutionary theory of aging based on extrinsic mortality and condition-dependent survival",
+                "Growth Rate-Lifespan Trade-Off Theory",
+                "Evolutionary Model of Ageing Based on Fertility and Senescence Tradeoff",
+                "Knowledge-Enhanced Evolutionary Aging Model",
+                "Evolutionary Tradeoff Theory of Aging",
+                "Evolutionary theory linking sex and aging via reproductive specialization and genetic regulation",
+                "Evolutionary theory of late life based on Hamilton's forces of natural selection",
+                "Intra-Sexual Competition Theory of Accelerated Senescence",
+                "Life History Theory of Aging",
+                "Extrinsic Mortality-Induced Evolutionary Model of Aging, Time Preference, and Risk-Aversion",
+                "Evolutionary theory of aging via postponed reproduction",
+                "Life History Theory",
+                "Medawar's Evolutionary Theory of Aging",
+                "Group Selection in Aging Evolution",
+                "Programmed Aging Theory",
+                "Demographic Theory of Aging",
+                "Grandmother Hypothesis for Evolution of Post-Reproductive Lifespan",
+                "Geometric Framework for Nutrition (GFN) Theory of Aging",
+                "Evolutionary Theories of Aging Related to Mortality Nadir and Fertility"
+              ]
+            }
+          }
+        },
+        "P0165": {
+          "singleton": false,
+          "children": {
+            "C0263": {
+              "singleton": false,
+              "theories": [
+                "Trade-off theory between immunity and longevity"
+              ]
+            }
+          }
+        },
+        "P0166": {
+          "singleton": false,
+          "children": {
+            "C0264": {
+              "singleton": false,
+              "theories": [
+                "Bowles lifespan theory"
+              ]
+            }
+          }
+        },
+        "P0167": {
+          "singleton": false,
+          "children": {
+            "C0265": {
+              "singleton": false,
+              "theories": [
+                "Estrogenic-protective hypothesis of longevity"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F052": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0168": {
+          "singleton": false,
+          "children": {
+            "C0266": {
+              "singleton": false,
+              "theories": [
+                "Cilia-mediated regulation of longevity via the insulin-IGF-1-like DAF-2 signaling pathway",
+                "PACRG-mediated ciliary signaling theory of longevity regulation",
+                "EFHC1-associated protofilament ribbon signaling theory of longevity"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F053": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0169": {
+          "singleton": false,
+          "children": {
+            "C0267": {
+              "singleton": false,
+              "theories": [
+                "Sirtuin Activation Theory of Aging and Resveratrol",
+                "Sirt6-mediated developmental nutrient-dependent programming theory of aging",
+                "NAD World theory",
+                "Caloric Restriction-Sir2/SIRT1 Activation Theory of Aging",
+                "Nicotinamide depletion activation of Sir2 as a mechanism for lifespan extension by calorie restriction",
+                "Sirtuin-Mediated Longevity and Muscle Maintenance Theory",
+                "Sir2/Sirtuin-mediated Programmed Aging via NAD+-dependent Deacetylation and O-acetyl-ADP-ribose Signaling",
+                "Sirtuin (Sirt) Regulation of Aging via Epigenetic Modulation of FoxO and Other Targets",
+                "SIR2 (Sirtuin)-related aging regulation theory",
+                "Sir2/Sirtuin-Mediated Longevity Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F054": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0170": {
+          "singleton": false,
+          "children": {
+            "C0268": {
+              "singleton": true,
+              "theories": [
+                "Amyloid Hypothesis in Alzheimer's Disease as a Model of Aging-Related Neurodegeneration"
+              ]
+            },
+            "C0269": {
+              "singleton": true,
+              "theories": [
+                "Amyloid-Tau Interaction Theory within ABC-AD Model"
+              ]
+            },
+            "C0270": {
+              "singleton": true,
+              "theories": [
+                "ABC-Neurodegeneration (ABC-ND) Model"
+              ]
+            },
+            "C0271": {
+              "singleton": true,
+              "theories": [
+                "Energy and Ca2+ Signaling Deficits Hypothesis of Sporadic Alzheimer's Disease"
+              ]
+            },
+            "C0272": {
+              "singleton": true,
+              "theories": [
+                "Bone Morphogenetic Protein (BMP) Signaling Theory of Aging-Related Tauopathy"
+              ]
+            },
+            "C0273": {
+              "singleton": true,
+              "theories": [
+                "Integrated multiring model of ALS pathogenesis incorporating genetics, environment, and ageing"
+              ]
+            },
+            "C0274": {
+              "singleton": true,
+              "theories": [
+                "Proteinopathy-induced senescent cell hypothesis of neurodegeneration"
+              ]
+            }
+          }
+        },
+        "P0171": {
+          "singleton": false,
+          "children": {
+            "C0275": {
+              "singleton": false,
+              "theories": [
+                "Myelin Dysfunction as an Upstream Driver of Amyloid-\u03b2 Deposition in Alzheimer's Disease",
+                "Myelin Loss as a Causal Driver of Alzheimer's Disease Pathology"
+              ]
+            }
+          }
+        },
+        "P0172": {
+          "singleton": false,
+          "children": {
+            "C0276": {
+              "singleton": false,
+              "theories": [
+                "Antagonistic Pleiotropy Theory of Aging (as applied to MSA)",
+                "Amyloidogenic Evolvability (aEVO) Theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F055": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0173": {
+          "singleton": false,
+          "children": {
+            "C0277": {
+              "singleton": false,
+              "theories": [
+                "SPARC deficiency-induced accelerated aging theory",
+                "SPARC overexpression mimics exercise-induced anti-aging effects theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F056": {
+      "name": "Singleton: Integral Theory of Pelvic Floor Dysfunction and Overactive Bladder",
+      "singleton": true,
+      "parents": {
+        "P0174": {
+          "singleton": true,
+          "children": {
+            "C0278": {
+              "singleton": true,
+              "theories": [
+                "Integral Theory of Pelvic Floor Dysfunction and Overactive Bladder"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F057": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0175": {
+          "singleton": false,
+          "children": {
+            "C0279": {
+              "singleton": false,
+              "theories": [
+                "Biomolecular Longevity Network Progressing Through Checkpoints",
+                "Retrograde Regulation Theory of Aging in Yeast",
+                "Interorganelle Communication Model of Yeast Chronological Aging",
+                "Calorie Restriction-Induced Enhancement of Oxidative Metabolism as a Mechanism for Lifespan Extension in Saccharomyces cerevisiae",
+                "Caloric Restriction Remodeling of Cellular Quiescence Program Theory"
+              ]
+            },
+            "C0280": {
+              "singleton": false,
+              "theories": [
+                "Genome instability as a driver of replicative aging in yeast",
+                "Extrachromosomal rDNA Circles (ERC) Accumulation Theory"
+              ]
+            },
+            "C0281": {
+              "singleton": true,
+              "theories": [
+                "Replicative and Chronological Aging in Pathogenic Fungi as Drivers of Virulence"
+              ]
+            }
+          }
+        },
+        "P0176": {
+          "singleton": false,
+          "children": {
+            "C0282": {
+              "singleton": false,
+              "theories": [
+                "Copper homeostasis and mitochondrial respiration switch theory of aging in Podospora anserina"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F058": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0177": {
+          "singleton": false,
+          "children": {
+            "C0283": {
+              "singleton": false,
+              "theories": [
+                "Nutrient-sensitive signaling pathways regulating aging via mitochondrial homeostasis",
+                "SIRT1-PGC1 mitochondrial regulation theory in stem cell aging"
+              ]
+            },
+            "C0284": {
+              "singleton": true,
+              "theories": [
+                "Hedgehog Signaling Dysregulation Theory of Aging-Related Loss of Liver Resiliency"
+              ]
+            },
+            "C0285": {
+              "singleton": false,
+              "theories": [
+                "Reactive Oxygen Species (ROS) Damage Accumulation Theory in HSC Aging",
+                "Nutrient Sensing and Metabolic Regulation Theory in HSC Aging"
+              ]
+            },
+            "C0286": {
+              "singleton": true,
+              "theories": [
+                "Telomere Attrition and Dysfunction as a Causal Driver of Systemic Aging via Metabolic Alterations"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F059": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0178": {
+          "singleton": false,
+          "children": {
+            "C0287": {
+              "singleton": false,
+              "theories": [
+                "Commitment Theory of Cellular Senescence",
+                "Transition Probability Model of Cell Proliferation"
+              ]
+            },
+            "C0288": {
+              "singleton": true,
+              "theories": [
+                "Optimal Competition Theory of Multicellular Ageing"
+              ]
+            },
+            "C0289": {
+              "singleton": true,
+              "theories": [
+                "Growth and Senescence as Concurrent Processes"
+              ]
+            }
+          }
+        },
+        "P0179": {
+          "singleton": false,
+          "children": {
+            "C0290": {
+              "singleton": false,
+              "theories": [
+                "Genetic Mechanism of Cellular Senescence Theory",
+                "Cellular Senescence Theory of Aging",
+                "Programmed Aging Theory (Genetic Regulation Hypothesis)",
+                "Critique of the Biological Clock (Intrinsic Program) Theory",
+                "Genetically Programmed Switch Mechanism for Onset of Senescence"
+              ]
+            },
+            "C0291": {
+              "singleton": false,
+              "theories": [
+                "p53-Mediated Replicative Senescence and Aging Theory",
+                "Cellular Senescence as a Two-Phase Process Regulated by p130/Rbl2",
+                "Cellular Senescence Theory of Aging and Tumor Suppression",
+                "Cellular Senescence as an Anti-Oncogenic Mechanism Theory",
+                "Oncogene-Induced Premature Senescence Theory"
+              ]
+            }
+          }
+        },
+        "P0180": {
+          "singleton": false,
+          "children": {
+            "C0292": {
+              "singleton": false,
+              "theories": [
+                "Programmed Aging Theory (Phenoptosis) as Manifested by Thymic Involution"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F060": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0181": {
+          "singleton": false,
+          "children": {
+            "C0293": {
+              "singleton": false,
+              "theories": [
+                "Autoimmune Ecology and Immune System Hyperstimulation"
+              ]
+            }
+          }
+        },
+        "P0182": {
+          "singleton": false,
+          "children": {
+            "C0294": {
+              "singleton": false,
+              "theories": [
+                "Trained Innate Immunity (TII)"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F061": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0183": {
+          "singleton": false,
+          "children": {
+            "C0295": {
+              "singleton": false,
+              "theories": [
+                "Somatic Recombination Theory of Aging and Cancer",
+                "Mutation Accumulation Theory of Aging",
+                "Antagonistic Pleiotropy of Genome Maintenance Theory",
+                "Somatic Mutation Accumulation Theory of Aging",
+                "Somatic Mutation Theory of Aging"
+              ]
+            },
+            "C0296": {
+              "singleton": true,
+              "theories": [
+                "Steady-State Theory of Mutation Rates"
+              ]
+            },
+            "C0297": {
+              "singleton": true,
+              "theories": [
+                "Mutational Damage Accumulation Theory of Aging with Multistage Carcinogenesis"
+              ]
+            }
+          }
+        },
+        "P0184": {
+          "singleton": false,
+          "children": {
+            "C0298": {
+              "singleton": false,
+              "theories": [
+                "Non-Darwinian stem cell niche evolution theory"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F062": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0185": {
+          "singleton": false,
+          "children": {
+            "C0299": {
+              "singleton": false,
+              "theories": [
+                "Replicative Senescence Theory of T Lymphocytes",
+                "Immunosenescence and Inflammaging Theory",
+                "Immunosenescence Theory of Aging",
+                "CMV-Enhanced Immune Senescence via T Cell Competition Model",
+                "Domino Hypothesis of Age-Associated Immune Insufficiency",
+                "Clonal Exhaustion Hypothesis of Immunosenescence",
+                "Thymic Involution-Driven Immunosenescence Theory",
+                "Tolerance-based immune defense theory in aging",
+                "Immunosenescence and Immune Rejuvenation Theory"
+              ]
+            },
+            "C0300": {
+              "singleton": false,
+              "theories": [
+                "Immune Senescence as a Driver of Accelerated Aging in HIV Infection",
+                "HIV Infection as a Model of Accelerated versus Accentuated Aging"
+              ]
+            }
+          }
+        },
+        "P0186": {
+          "singleton": false,
+          "children": {
+            "C0301": {
+              "singleton": false,
+              "theories": [
+                "Exercise makes immunological space hypothesis"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F063": {
+      "name": "Singleton: Soft Glassy Rheology (SGR) Model of Physical Aging",
+      "singleton": true,
+      "parents": {
+        "P0187": {
+          "singleton": true,
+          "children": {
+            "C0302": {
+              "singleton": true,
+              "theories": [
+                "Soft Glassy Rheology (SGR) Model of Physical Aging"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F064": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0188": {
+          "singleton": false,
+          "children": {
+            "C0303": {
+              "singleton": false,
+              "theories": [
+                "Remodeled reproductive regulatory pathway theory of aging in eusocial insects",
+                "Plasticity of aging and task-dependent senescence in social insects",
+                "Socially regulated plastic aging in honey bee workers"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "F065": {
+      "name": null,
+      "singleton": false,
+      "parents": {
+        "P0189": {
+          "singleton": false,
+          "children": {
+            "C0304": {
+              "singleton": false,
+              "theories": [
+                "Postreproductive period as a byproduct of differential reproductive and somatic senescence",
+                "Indeterminacy hypothesis for postreproductive period"
+              ]
+            },
+            "C0305": {
+              "singleton": true,
+              "theories": [
+                "Random add-on hypothesis for postreproductive period"
+              ]
+            }
+          }
+        },
+        "P0190": {
+          "singleton": false,
+          "children": {
+            "C0306": {
+              "singleton": false,
+              "theories": [
+                "Selection Hypothesis"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+]

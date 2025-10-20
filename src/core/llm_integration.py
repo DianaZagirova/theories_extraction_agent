@@ -4,7 +4,7 @@ Provides complete question-answering with context from vector database.
 """
 import os
 from typing import Dict, List, Optional
-from openai import AzureOpenAI
+from openai import AzureOpenAI, OpenAI
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -50,6 +50,54 @@ class AzureOpenAIClient:
         print(f"✓ Azure OpenAI client initialized")
         print(f"  Model: {self.model}")
         print(f"  Endpoint: {self.endpoint}")
+
+class OpenAIClient:
+    """OpenAI client with multi-key support for rate limit distribution."""
+    
+    def __init__(
+        self,
+        api_key: Optional[str] = None,
+        model: Optional[str] = None
+    ):
+        import threading
+        
+        # Support multiple API keys separated by comma
+        api_key_str = api_key or os.getenv('OPENAI_API_KEY')
+        if not api_key_str:
+            raise ValueError(
+                "OpenAI credentials not found. "
+                "Please set OPENAI_API_KEY in .env file."
+            )
+        
+        # Parse multiple keys if provided (comma-separated)
+        self.api_keys = [k.strip() for k in api_key_str.split(',') if k.strip()]
+        self.model = model or os.getenv('OPENAI_MODEL', 'gpt-4o-mini')
+        
+        # Create clients for each key
+        self.clients = [OpenAI(api_key=key) for key in self.api_keys]
+        self.current_key_index = 0
+        self._lock = threading.Lock()
+        
+        print(f"✓ OpenAI client initialized")
+        print(f"  Model: {self.model}")
+        print(f"  API Keys: {len(self.api_keys)} key(s) loaded")
+        if len(self.api_keys) > 1:
+            print(f"  Multi-key rotation enabled for rate limit distribution")
+    
+    def _get_next_client(self):
+        """Get next client in round-robin fashion."""
+        with self._lock:
+            client = self.clients[self.current_key_index]
+            self.current_key_index = (self.current_key_index + 1) % len(self.clients)
+            return client
+    
+    @property
+    def client(self):
+        """Return current client (for backward compatibility)."""
+        return self._get_next_client()
+
+
+
     
     def generate_response(
         self,
@@ -162,7 +210,7 @@ class CompleteRAGSystem:
     def __init__(
         self,
         rag_system,
-        llm_client: Optional[AzureOpenAIClient] = None,
+        llm_client: Optional = None,
         default_n_results: int = 10
     ):
         """
@@ -174,10 +222,14 @@ class CompleteRAGSystem:
             default_n_results: Default number of chunks to retrieve
         """
         self.rag = rag_system
-        self.llm = llm_client or AzureOpenAIClient()
+        self.use_module = os.getenv('USE_MODULE', 'openai')
+        if self.use_module == 'openai':
+            self.llm = llm_client or OpenAIClient()
+        else:
+            self.llm = llm_client or AzureOpenAIClient()
         self.default_n_results = default_n_results
         
-        print("✓ Complete RAG system ready")
+        print(f"✓ Complete RAG system ready with {self.use_module}")
     
     def answer_question(
         self,
@@ -324,7 +376,10 @@ if __name__ == "__main__":
     print("Testing Azure OpenAI connection...")
     
     try:
-        client = AzureOpenAIClient()
+        if os.getenv('USE_MODULE', 'openai') == 'openai':
+            client = OpenAIClient()
+        else:
+            client = AzureOpenAIClient()
         
         test_response = client.generate_response(
             messages=[

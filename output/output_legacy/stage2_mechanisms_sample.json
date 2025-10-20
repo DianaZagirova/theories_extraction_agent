@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "stage": "stage2_mechanism_extraction",
+    "statistics": {
+      "total_theories": 10,
+      "successful_extractions": 9,
+      "failed_extractions": 1,
+      "avg_confidence": 0.9277777777777777
+    },
+    "llm_model": "gpt-4.1-mini"
+  },
+  "mechanisms": [
+    {
+      "theory_id": "T000039",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR hyperactivation",
+        "Growth signaling",
+        "Rapamycin inhibition"
+      ],
+      "pathways": [
+        "mTOR"
+      ],
+      "molecules": [
+        "mTOR",
+        "Rapamycin"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "mTOR drives growth and aging",
+        "Antagonistic pleiotropy",
+        "Sex differences in mTOR activity",
+        "Aging as a quasi-program",
+        "Rapamycin extends lifespan"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The theory centers on mTOR, a molecular pathway regulating growth and aging, emphasizing hyperfunction rather than damage, with rapamycin as a key inhibitor; it also incorporates evolutionary concepts like antagonistic pleiotropy but primarily focuses on molecular mechanisms."
+    },
+    {
+      "theory_id": "T000054",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage",
+        "Epigenetic Alterations"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative stress",
+        "PARP-1 mediated telomere maintenance",
+        "Subtelomeric DNA methylation"
+      ],
+      "pathways": [],
+      "molecules": [
+        "PARP-1"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Loss_of_function",
+      "key_concepts": [
+        "Oxidative stress",
+        "Telomere stability",
+        "DNA methylation",
+        "PARP-1 function"
+      ],
+      "confidence": 0.9,
+      "reasoning": "The theory centers on molecular mechanisms involving PARP-1's role in telomere maintenance and the impact of oxidative stress and epigenetic changes on telomere stability, fitting well within molecular/cellular categories and loss of function due to PARP-1 inhibition."
+    },
+    {
+      "theory_id": "T000005",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "Fixation of disease-associated mitochondrial mutations",
+        "Gradual mitochondrial optimization",
+        "Compensatory mutations",
+        "Antagonistic pleiotropy"
+      ],
+      "pathways": [],
+      "molecules": [
+        "mitochondrial DNA"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Loss_of_function",
+      "key_concepts": [
+        "Mitochondrial dysfunction",
+        "Mutation fixation",
+        "Compensatory mutations",
+        "Antagonistic pleiotropy",
+        "Longevity selection"
+      ],
+      "confidence": 0.9,
+      "reasoning": "The theory centers on mitochondrial mutations and their evolutionary optimization affecting longevity, fitting molecular/cellular category with emphasis on mitochondrial dysfunction and evolutionary mechanisms like antagonistic pleiotropy."
+    },
+    {
+      "theory_id": "T000042",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory",
+        "Natural Selection"
+      ],
+      "specific_mechanisms": [
+        "Ancient Core Senescence Process",
+        "Progressive Addition of Regulatory Systems",
+        "Nutrient Remobilization",
+        "Source-Sink Differentiation"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Senescence",
+        "Pigment Metabolism",
+        "Nutrient Remobilization",
+        "Developmental Integration",
+        "Adaptation"
+      ],
+      "confidence": 0.85,
+      "reasoning": "The theory emphasizes evolutionary origins and developmental regulation of plant senescence integrating adaptive systems and nutrient remobilization, fitting best within evolutionary and developmental frameworks without specifying molecular pathways or molecules."
+    },
+    {
+      "theory_id": "T000048",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Chronic low-grade inflammation",
+        "Oxidative stress",
+        "Mitochondrial damage"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organ",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Chronic inflammation",
+        "Oxidative stress",
+        "Mitochondrial dysfunction",
+        "Cardiovascular aging"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The theory centers on systemic chronic inflammation driving cardiac aging through oxidative stress and mitochondrial damage, fitting best under systemic category with inflammation as key secondary category; no specific molecular pathways or molecules were mentioned."
+    },
+    {
+      "theory_id": "T000008",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Cellular Senescence"
+      ],
+      "specific_mechanisms": [
+        "Cell cycle arrest",
+        "Senescence-associated secretory phenotype (SASP)",
+        "Inflammaging",
+        "NF-\u03baB signaling",
+        "TLR signaling"
+      ],
+      "pathways": [
+        "NF-\u03baB",
+        "TLR"
+      ],
+      "molecules": [],
+      "biological_level": "Cellular",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Cellular senescence",
+        "SASP",
+        "Inflammaging",
+        "NF-\u03baB signaling",
+        "TLR signaling"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The theory centers on cellular senescence and SASP, which are molecular/cellular processes involving dysregulated signaling pathways like NF-\u03baB and TLR that drive systemic inflammation and tissue dysfunction."
+    },
+    {
+      "theory_id": "T000059",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Autophagy",
+        "Nutrient sensing",
+        "Multi-target pharmacology"
+      ],
+      "pathways": [
+        "mTOR"
+      ],
+      "molecules": [
+        "mTOR"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Loss_of_function",
+      "key_concepts": [
+        "Autophagy",
+        "mTOR regulation",
+        "Longevity pathways",
+        "Systems pharmacology",
+        "Network biology"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The theory centers on autophagy, a cellular degradation process regulated by mTOR, a key nutrient sensing pathway, emphasizing molecular and cellular mechanisms of aging and longevity."
+    },
+    {
+      "theory_id": "T000038",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "DNA double-strand break accumulation",
+        "ATM-mediated homologous recombination repair",
+        "BRCA1/BRCA2 gene function decline",
+        "Impaired DNA repair capacity"
+      ],
+      "pathways": [
+        "ATM-mediated DNA damage response pathway"
+      ],
+      "molecules": [
+        "BRCA1",
+        "BRCA2",
+        "ATM"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Loss_of_function",
+      "key_concepts": [
+        "DNA double-strand breaks",
+        "Homologous recombination repair",
+        "Ovarian aging",
+        "BRCA gene mutations",
+        "DNA repair decline with age"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The theory centers on molecular mechanisms involving DNA damage accumulation and repair decline mediated by BRCA and ATM genes in oocytes, fitting well within molecular/cellular categories and loss of function due to reduced DNA repair capacity."
+    },
+    {
+      "theory_id": "T000228",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Protein Damage",
+        "Mitochondrial Dysfunction",
+        "Intercellular Communication"
+      ],
+      "specific_mechanisms": [
+        "Aberrant redox signalling",
+        "Impaired heat shock protein (HSP) mediated proteostasis",
+        "Mitochondrial reactive oxygen species (ROS) production",
+        "Denervation-induced muscle decline",
+        "Exosome-mediated intercellular proteostasis"
+      ],
+      "pathways": [],
+      "molecules": [
+        "Heat shock proteins (HSPs)",
+        "Mitochondrial ROS"
+      ],
+      "biological_level": "Tissue",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Redox signalling",
+        "Proteostasis",
+        "Mitochondrial dysfunction",
+        "Denervation",
+        "Intercellular communication via exosomes"
+      ],
+      "confidence": 0.95,
+      "reasoning": "The theory focuses on molecular and cellular processes such as redox signalling and HSP-mediated proteostasis affecting muscle tissue, highlighting dysregulation rather than damage accumulation or programmed aging."
+    }
+  ]
+}

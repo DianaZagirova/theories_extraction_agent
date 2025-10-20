@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "extraction_date": "2025-10-19T18:06:59.870652",
+    "pipeline_version": "1.0",
+    "statistics": {
+      "total_papers": 3,
+      "papers_with_theories": 0,
+      "papers_without_theories": 3,
+      "total_theories_extracted": 0,
+      "prompt_tokens": 4477,
+      "completion_tokens": 24,
+      "total_tokens": 4501,
+      "estimated_cost_usd": 0.0018292000000000002
+    }
+  },
+  "results": [
+    {
+      "doi": "10.1210/endocr/bqaf033",
+      "pmid": "39996304",
+      "title": "GnRH and Cognition.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:06:59.735383"
+    },
+    {
+      "doi": "10.1093/evolut/qpac050",
+      "pmid": "36625461",
+      "title": "Phylogenetically controlled life history trait meta-analysis in cetaceans reveals unexpected negative brain size and longevity correlation.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:06:59.789617"
+    },
+    {
+      "doi": "10.1037/pag0000858",
+      "pmid": "39666486",
+      "title": "Experiential diversity theory of adult development and aging in daily life.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:06:59.870012"
+    }
+  ]
+}

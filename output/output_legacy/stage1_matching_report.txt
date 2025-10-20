@@ -1,0 +1,1357 @@
+================================================================================
+STAGE 1: FUZZY MATCHING REPORT
+================================================================================
+
+Total theories processed: 7675
+Successfully matched: 1469 (19.1%)
+Unmatched (for LLM): 6206 (80.9%)
+
+================================================================================
+MATCHED THEORIES (Sample: first 100)
+================================================================================
+
+1. ORIGINAL: Oxidative Stress Hypothesis of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Effects of caloric restriction on skeletal muscle mitochondrial proton leak in a...
+   DOI: 10.1093/gerona/56.3.b116
+
+2. ORIGINAL: Mitochondrial theory of aging
+   CANONICAL: Mitochondrial Decline Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Mammalian Mitochondria and Aging: An Update....
+   DOI: 10.1016/j.cmet.2016.09.017
+
+3. ORIGINAL: Programmed Aging Paradigm
+   CANONICAL: Programmed Longevity Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: The programmed aging paradigm: how we get old....
+   DOI: 10.1134/S0006297914100034
+
+4. ORIGINAL: Mutation accumulation theory
+   CANONICAL: Mutation Accumulation Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Evidence for a genetic basis of aging in two wild vertebrate populations....
+   DOI: 10.1016/j.cub.2007.11.043
+
+5. ORIGINAL: Disengagement Theory of Aging
+   CANONICAL: Disengagement Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Themes and issues in sociological theories of human aging....
+   DOI: 10.1159/000270878
+
+6. ORIGINAL: Antagonistic Pleiotropy Theory of Aging
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: New model systems for studying the evolutionary biology of aging: crustacea....
+   DOI: 10.1007/BF01435989
+
+7. ORIGINAL: Mutation Accumulation Theory of Aging
+   CANONICAL: Mutation Accumulation Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: New model systems for studying the evolutionary biology of aging: crustacea....
+   DOI: 10.1007/BF01435989
+
+8. ORIGINAL: Oxidative Stress Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Slow aging in mammals-Lessons from African mole-rats and bats....
+   DOI: 10.1016/j.semcdb.2017.07.006
+
+9. ORIGINAL: Oxidative Damage Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Superoxide dismutase mimetics elevate superoxide dismutase activity in vivo but ...
+   DOI: 10.1016/j.freeradbiomed.2004.04.005
+
+10. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Flavonoids and the brain: interactions at the blood-brain barrier and their phys...
+   DOI: 10.1016/j.freeradbiomed.2004.08.002
+
+11. ORIGINAL: DNA Damage Accumulation Theory of Aging
+   CANONICAL: Somatic DNA Damage Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Accumulation of DNA damage in pre- and posthepatectomized liver of aged rats....
+   DOI: 10.1016/s0047-6374(99)00039-1
+
+12. ORIGINAL: Dysdifferentiation Hypothesis of Aging and Cancer (DHAC)
+   CANONICAL: Dysdifferentiation Theory
+   Match Type: abbreviation
+   Score: 100.0
+   Paper: Dysdifferentiation hypothesis of aging and cancer: a comparison with the membran...
+   DOI: 10.1111/j.1749-6632.1988.tb35280.x
+
+13. ORIGINAL: Membrane Hypothesis of Aging (MHA)
+   CANONICAL: Membrane Theory
+   Match Type: abbreviation
+   Score: 100.0
+   Paper: Dysdifferentiation hypothesis of aging and cancer: a comparison with the membran...
+   DOI: 10.1111/j.1749-6632.1988.tb35280.x
+
+14. ORIGINAL: Telomere Shortening Theory of Aging
+   CANONICAL: Telomere Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Telomere, aging and age-related diseases....
+   DOI: 10.1007/s40520-013-0021-1
+
+15. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Aging and computational systems biology....
+   DOI: 10.1002/wsbm.1328
+
+16. ORIGINAL: Membrane Hypothesis of Aging
+   CANONICAL: Membrane Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Effect of centrophenoxine and BCE-001 treatment on lateral diffusion of proteins...
+   DOI: 10.1016/0531-5565(89)90004-1
+
+17. ORIGINAL: Mitochondrial Free Radical Theory of Aging (MFRTA) in the context of Calorie Restriction
+   CANONICAL: Mitochondrial Decline Theory
+   Match Type: abbreviation
+   Score: 100.0
+   Paper: Calorie restriction and age-related oxidative stress....
+   DOI: 10.1111/j.1749-6632.2000.tb06646.x
+
+18. ORIGINAL: Grandmother Hypothesis
+   CANONICAL: Intergenerational Transfers Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: The evolution of prolonged life after reproduction....
+   DOI: 10.1016/j.tree.2015.04.011
+
+19. ORIGINAL: Disposable soma theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Mathematical modeling of the aging processes and the mechanisms of mortality: pa...
+   DOI: 10.1016/s0531-5565(01)00092-4
+
+20. ORIGINAL: Oxidative Stress Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: The Physiological Conundrum That is the Domestic Dog....
+   DOI: 10.1093/icb/icab005
+
+21. ORIGINAL: Antagonistic Pleiotropy Theory
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: The evolution of menopause and human life span....
+   DOI: 10.1080/030144601300119052
+
+22. ORIGINAL: Disposable Soma Theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: The evolution of menopause and human life span....
+   DOI: 10.1080/030144601300119052
+
+23. ORIGINAL: Programmed Aging Theory
+   CANONICAL: Programmed Longevity Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: How evolutionary thinking affects people's ideas about aging interventions....
+   DOI: 10.1089/rej.2006.9.346
+
+24. ORIGINAL: Antagonistic Pleiotropy Theory
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Movement disorders: a brief overview from an evolutionary perspective....
+   DOI: 10.1007/s00702-025-03025-8
+
+25. ORIGINAL: Antagonistic Pleiotropy Theory
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: On the Cause and Mechanism of Phenoptosis....
+   DOI: 10.1134/S0006297917120069
+
+26. ORIGINAL: Oxidative Stress Hypothesis of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Does overexpression of Cu,Zn-SOD extend life span in Drosophila melanogaster?...
+   DOI: 10.1016/s0531-5565(02)00263-2
+
+27. ORIGINAL: Oxidative Stress Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Aldehyde Dehydrogenase 2 (ALDH2) and Aging: Is There a Sensible Link?...
+   DOI: 10.1007/978-981-13-6260-6_15
+
+28. ORIGINAL: Mitochondrial Dysfunction Theory of Aging
+   CANONICAL: Mitochondrial Decline Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Aldehyde Dehydrogenase 2 (ALDH2) and Aging: Is There a Sensible Link?...
+   DOI: 10.1007/978-981-13-6260-6_15
+
+29. ORIGINAL: DNA Damage Accumulation Theory of Cellular Aging
+   CANONICAL: Somatic DNA Damage Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: The role of DNA damage in cellular aging: is it time for a reassessment?...
+   DOI: 10.1016/0531-5565(95)02020-9
+
+30. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Calcium signaling alterations, oxidative stress, and autophagy in aging....
+   DOI: 10.1089/ars.2013.5777
+
+31. ORIGINAL: Programmed Aging Paradigm
+   CANONICAL: Programmed Longevity Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Elimination of Senescent Cells: Prospects According to the Subtelomere-Telomere ...
+   DOI: 10.1134/S0006297918120064
+
+32. ORIGINAL: Disposable soma theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Evolution of ageing....
+   DOI: 10.1016/s0047-6374(01)00419-5
+
+33. ORIGINAL: Antagonistic pleiotropy theory
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Evolution of ageing....
+   DOI: 10.1016/s0047-6374(01)00419-5
+
+34. ORIGINAL: Antagonistic Pleiotropy Theory of Aging
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Differential proteomics reveals age-dependent liver oxidative costs of innate im...
+   DOI: 10.1016/j.jprot.2015.09.008
+
+35. ORIGINAL: Disposable Soma Theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Differential proteomics reveals age-dependent liver oxidative costs of innate im...
+   DOI: 10.1016/j.jprot.2015.09.008
+
+36. ORIGINAL: Oxidative Stress Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Differential proteomics reveals age-dependent liver oxidative costs of innate im...
+   DOI: 10.1016/j.jprot.2015.09.008
+
+37. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Should antioxidant vitamins be routinely recommended for older people?...
+   DOI: 10.2165/00002512-199812030-00001
+
+38. ORIGINAL: Mitochondrial theory of aging
+   CANONICAL: Mitochondrial Decline Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Perspectives on the mitochondrial etiology of replicative aging in yeast....
+   DOI: 10.1016/j.exger.2010.02.002
+
+39. ORIGINAL: Error Catastrophe Hypothesis of Aging
+   CANONICAL: Error Catastrophe Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: The error catastrophe hypothesis with reference to aging and the evolution of th...
+   DOI: 10.1016/s0022-5193(75)80118-4
+
+40. ORIGINAL: Telomere Theory of Aging
+   CANONICAL: Telomere Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: How long should telomeres be?...
+   DOI: 10.1007/s11906-001-0029-3
+
+41. ORIGINAL: Antagonistic Pleiotropy Theory of Aging
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: How long should telomeres be?...
+   DOI: 10.1007/s11906-001-0029-3
+
+42. ORIGINAL: Disposable Soma Theory of Aging
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: How long should telomeres be?...
+   DOI: 10.1007/s11906-001-0029-3
+
+43. ORIGINAL: Oxidative Stress Hypothesis of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Overexpression of glutamate-cysteine ligase extends life span in Drosophila mela...
+   DOI: 10.1074/jbc.M508272200
+
+44. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Extension of life-span by overexpression of superoxide dismutase and catalase in...
+   DOI: 10.1126/science.8108730
+
+45. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Hyperoxia-induced clonogenic killing of HeLa cells associated with respiratory f...
+   DOI: 10.1016/0921-8734(90)90023-k
+
+46. ORIGINAL: Oxidative Damage Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Nutrition, oxidative damage, telomere shortening, and cellular senescence: indiv...
+   DOI: 10.1006/mgme.2000.3077
+
+47. ORIGINAL: Immunosenescence theory
+   CANONICAL: Immunological Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Aged Chinese rhesus macaques suffer severe phenotypic T- and B-cell aging accomp...
+   DOI: 10.1016/j.exger.2014.04.004
+
+48. ORIGINAL: Oxidative Stress Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Senescence in cell oxidative status in two bird species with contrasting life ex...
+   DOI: 10.1007/s00442-013-2840-3
+
+49. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Comments on review by Swaab--brain aging and Alzheimer's disease. "Wear and tear...
+   DOI: 10.1016/0197-4580(91)90010-h
+
+50. ORIGINAL: Disposable Soma Theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Comments on review by Swaab--brain aging and Alzheimer's disease. "Wear and tear...
+   DOI: 10.1016/0197-4580(91)90010-h
+
+51. ORIGINAL: Telomere Shortening Theory of Aging
+   CANONICAL: Telomere Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Short Telomere Length and Ischemic Heart Disease: Observational and Genetic Stud...
+   DOI: 10.1373/clinchem.2016.258566
+
+52. ORIGINAL: Antagonistic Pleiotropy Theory (AP)
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: abbreviation
+   Score: 100.0
+   Paper: Do we have genes that exist to hasten aging? New data, new arguments, but the an...
+   DOI: 10.2174/1874609808666150421131304
+
+53. ORIGINAL: Oxidative Stress Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: "The Same Thing That Makes You Live Can Kill You in the End": Exploring the Effe...
+   DOI: 10.1093/icb/icy090
+
+54. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Oxidative stress, accumulation of biological 'garbage', and aging....
+   DOI: 10.1089/ars.2006.8.197
+
+55. ORIGINAL: Maillard Reaction Theory of Aging
+   CANONICAL: Cross-Linking Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: The significance of the products of the Maillard (browning) reaction in diabetes...
+   DOI: 10.1111/j.1464-5491.1991.tb01643.x
+
+56. ORIGINAL: Modernization Theory
+   CANONICAL: Modernization Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Making sense of literary aging: Relevance of recent gerontological theory....
+   DOI: 10.1016/0890-4065(87)90006-5
+
+57. ORIGINAL: Epigenetic Clock Hypothesis
+   CANONICAL: Epigenetic Aging Clock Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: How does the body know how old it is? Introducing the epigenetic clock hypothesi...
+   DOI: 10.1159/000364929
+
+58. ORIGINAL: Telomere Attrition Theory of Aging
+   CANONICAL: Telomere Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Decline in telomere length with increasing age across nonhuman vertebrates: A me...
+   DOI: 10.1111/mec.16145
+
+59. ORIGINAL: Membrane hypothesis of aging
+   CANONICAL: Membrane Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Age-dependent decrease of the passive Rb+ and K+ permeability of the nerve cell ...
+   DOI: 10.1016/0167-4943(84)90012-8
+
+60. ORIGINAL: Mutation Accumulation Theory of Aging
+   CANONICAL: Mutation Accumulation Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Advice to an aging scientist....
+   DOI: 10.1016/s0047-6374(02)00021-0
+
+61. ORIGINAL: Antagonistic Pleiotropy Theory of Aging
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Advice to an aging scientist....
+   DOI: 10.1016/s0047-6374(02)00021-0
+
+62. ORIGINAL: Disposable Soma Theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Advice to an aging scientist....
+   DOI: 10.1016/s0047-6374(02)00021-0
+
+63. ORIGINAL: Membrane Hypothesis of Aging
+   CANONICAL: Membrane Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: In vivo studies on the age-dependent decrease of the rates of total and mRNA syn...
+   DOI: 10.1016/0167-4943(82)90004-8
+
+64. ORIGINAL: Oxidative Stress Hypothesis of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Role of oxidative stress and protein oxidation in the aging process....
+   DOI: 10.1016/s0891-5849(02)00856-0
+
+65. ORIGINAL: Disengagement Theory
+   CANONICAL: Disengagement Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Disengagement theory revisited....
+   DOI: 10.2190/AVQ9-HBK0-B7N1-BB0A
+
+66. ORIGINAL: Membrane hypothesis of aging
+   CANONICAL: Membrane Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Electron spin resonance spectroscopic demonstration of the hydroxyl free radical...
+   DOI: 10.1016/0167-4943(84)90031-1
+
+67. ORIGINAL: Membrane hypothesis of cellular aging
+   CANONICAL: Membrane Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: The role of membrane structure and function in cellular aging: a review....
+   DOI: 10.1016/0047-6374(79)90102-7
+
+68. ORIGINAL: Antagonistic Pleiotropy Theory
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: The non-existent aging program: how does it work?...
+   DOI: 10.1111/j.1474-9728.2004.00121.x
+
+69. ORIGINAL: Programmed Aging Theory
+   CANONICAL: Programmed Longevity Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Solving the programmed/non-programmed aging conundrum....
+   DOI: 10.2174/1874609808666150421131841
+
+70. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Biochemistry of aging....
+   DOI: 10.1126/science.134.3488.1402
+
+71. ORIGINAL: Programmed Aging Theory
+   CANONICAL: Programmed Longevity Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Is programmed aging a cause for optimism?...
+   DOI: 10.2174/1874609808666150422112826
+
+72. ORIGINAL: Telomere Shortening Theory of Aging
+   CANONICAL: Telomere Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Is programmed aging a cause for optimism?...
+   DOI: 10.2174/1874609808666150422112826
+
+73. ORIGINAL: Epigenetic Clock Hypothesis
+   CANONICAL: Epigenetic Aging Clock Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Is programmed aging a cause for optimism?...
+   DOI: 10.2174/1874609808666150422112826
+
+74. ORIGINAL: Oxidative Stress Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Vascular superoxide and hydrogen peroxide production and oxidative stress resist...
+   DOI: 10.1111/j.1474-9726.2007.00339.x
+
+75. ORIGINAL: Oxidative Stress Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Nutritional factors in cerebral aging and dementia: epidemiological arguments fo...
+   DOI: 10.1159/000054752
+
+76. ORIGINAL: Disposable soma theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Ageing of trees: application of general ageing theories....
+   DOI: 10.1016/j.arr.2013.07.001
+
+77. ORIGINAL: Oxidative Damage Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Dietary antioxidants and lifespan: Relevance of environmental conditions, diet, ...
+   DOI: 10.1016/j.exger.2023.112221
+
+78. ORIGINAL: Mutation Accumulation Theory
+   CANONICAL: Mutation Accumulation Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Gene action in the aging brain: an evolutionary biological perspective....
+   DOI: 10.1016/s0197-4580(01)00341-4
+
+79. ORIGINAL: Antagonistic Pleiotropy Theory
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Gene action in the aging brain: an evolutionary biological perspective....
+   DOI: 10.1016/s0197-4580(01)00341-4
+
+80. ORIGINAL: Membrane Hypothesis of Aging (MHA)
+   CANONICAL: Membrane Theory
+   Match Type: abbreviation
+   Score: 100.0
+   Paper: Pharmacological interventions against aging through the cell plasma membrane: a ...
+   DOI: 10.1111/j.1749-6632.2002.tb02102.x
+
+81. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Changes in oxygen-metabolizing enzymes and lipid peroxidation in human erythrocy...
+   DOI: 10.1016/0047-6374(85)90037-5
+
+82. ORIGINAL: Disposable Soma Theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Somatic mutations and ageing in silico....
+   DOI: 10.1016/s0047-6374(02)00177-x
+
+83. ORIGINAL: Disposable Soma Theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Genetics of aging: lessons from centenarians....
+   DOI: 10.1016/s0531-5565(99)00075-3
+
+84. ORIGINAL: Oxidative Stress Hypothesis of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Age-dependent effect of oxidative stress on cardiac sarcoplasmic reticulum vesic...
+   DOI: 10.33549/physiolres.931551
+
+85. ORIGINAL: Rate of Living Theory
+   CANONICAL: Rate of Living Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Metabolic mass, metabolic rate, caloric restriction, and aging in male Fischer 3...
+   DOI: 10.1016/s0047-6374(99)00094-9
+
+86. ORIGINAL: Mitochondrial Theory of Aging
+   CANONICAL: Mitochondrial Decline Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: [Is Biological Aging a Treatable Disease? A Consideration Based on Proposed Mech...
+   DOI: 10.1248/yakushi.23-00165-5
+
+87. ORIGINAL: Error Accumulation Theory
+   CANONICAL: Error Catastrophe Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Aging is a Side Effect of the Ontogenesis Program of Multicellular Organisms....
+   DOI: 10.1134/S0006297922120070
+
+88. ORIGINAL: Error Catastrophe Theory of Cellular Aging
+   CANONICAL: Error Catastrophe Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Fidelity of protein synthesis does not decline during aging of cultured human fi...
+   DOI: 10.1002/jcp.1041030215
+
+89. ORIGINAL: Disengagement Theory of Aging
+   CANONICAL: Disengagement Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Aging and voluntary association participation....
+   DOI: 10.1093/geronj/32.4.470
+
+90. ORIGINAL: Disposable Soma Theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Positive correlation between mammalian life span and cellular resistance to stre...
+   DOI: 10.1016/s0891-5849(98)00323-2
+
+91. ORIGINAL: Antagonistic Pleiotropy Theory
+   CANONICAL: Antagonistic Pleiotropy Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Hallmarks of the ageing lung....
+   DOI: 10.1183/09031936.00186914
+
+92. ORIGINAL: Disposable Soma Theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Hallmarks of the ageing lung....
+   DOI: 10.1183/09031936.00186914
+
+93. ORIGINAL: Membrane Hypothesis of Aging (MHA)
+   CANONICAL: Membrane Theory
+   Match Type: abbreviation
+   Score: 100.0
+   Paper: On the role of intracellular physicochemistry in quantitative gene expression du...
+   DOI: 10.1016/0167-4943(89)90042-3
+
+94. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Aging and the kidney....
+   DOI: 10.1097/MNH.0b013e328344c327
+
+95. ORIGINAL: Oxidative Stress Hypothesis of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Intermittent food restriction initiated late in life prolongs lifespan and retar...
+   DOI: 10.1007/s10522-017-9699-3
+
+96. ORIGINAL: Disposable Soma Theory
+   CANONICAL: Disposable Soma Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Can Any Biomarker Predict the Temporal Behavior of Aging?...
+   DOI: 10.1159/000430912
+
+97. ORIGINAL: Free Radical Theory of Aging
+   CANONICAL: Free Radical Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Experimental and empirical approaches in the study of aging....
+   DOI: 10.1023/a:1010033807151
+
+98. ORIGINAL: Mutation accumulation theory of aging
+   CANONICAL: Mutation Accumulation Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Age-associated increase of spontaneous mutant frequency and molecular nature of ...
+   DOI: 10.1016/s0027-5107(99)00200-6
+
+99. ORIGINAL: Oxidative Damage Theory of Aging
+   CANONICAL: Oxidative Stress Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Genetic analysis of ageing: role of oxidative damage and environmental stresses....
+   DOI: 10.1038/ng0596-25
+
+100. ORIGINAL: Membrane Hypothesis of Cellular Aging
+   CANONICAL: Membrane Theory
+   Match Type: exact
+   Score: 100.0
+   Paper: Effects of centrophenoxine on the monovalent electrolyte contents of the large b...
+   DOI: 10.1159/000212326
+
+
+... and 1369 more matched theories
+
+
+================================================================================
+UNMATCHED THEORIES (Sample: first 100)
+================================================================================
+
+1. ORIGINAL: DNA Damage Accumulation Model of Hematopoietic Stem Cell Aging
+   Best Match: Somatic DNA Damage Theory (score: 56.5)
+   Reason: Best match score (56.5) below threshold (90)
+   Paper: Advances in hematopoietic stem cell research through mouse genetics....
+   DOI: 10.1097/01.moh.0000231416.25956.35
+
+2. ORIGINAL: Stem Cell Aging Theory via Notch/Wnt Dysregulation
+   Best Match: Cross-Linking Theory (score: 58.2)
+   Reason: Best match score (58.2) below threshold (90)
+   Paper: A systems biology approach to Down syndrome: identification of Notch/Wnt dysregu...
+   DOI: 10.1016/j.bbadis.2009.01.015
+
+3. ORIGINAL: Evolutionary theory of aging based on extrinsic mortality
+   Best Match: Continuity Theory (score: 60.0)
+   Reason: Best match score (60.0) below threshold (90)
+   Paper: Species with a chemical defence, but not chemical offence, live longer....
+   DOI: 10.1111/jeb.12143
+
+4. ORIGINAL: Free Radical-Rate of Living Theory
+   Best Match: Free Radical Theory (score: 78.0)
+   Reason: Best match score (78.0) below threshold (90)
+   Paper: Imperceptible senescence: ageing in the ocean quahog Arctica islandica....
+   DOI: 10.1080/10715760802108849
+
+5. ORIGINAL: Mitophagy-Mitochondrial Biogenesis Coordination Theory of Aging
+   Best Match: Mitochondrial Decline Theory (score: 64.8)
+   Reason: Best match score (64.8) below threshold (90)
+   Paper: Coordination of mitophagy and mitochondrial biogenesis during ageing in C. elega...
+   DOI: 10.1038/nature14300
+
+6. ORIGINAL: Microglial Dysfunction Hypothesis of Aging-Related Neurodegeneration
+   Best Match: Dysdifferentiation Theory (score: 55.2)
+   Reason: Best match score (55.2) below threshold (90)
+   Paper: Microglial degeneration in the aging brain--bad news for neurons?...
+   DOI: 10.2741/2937
+
+7. ORIGINAL: Strehler-Mildvan theory of mortality and aging
+   Best Match: Continuity Theory (score: 63.3)
+   Reason: Best match score (63.3) below threshold (90)
+   Paper: Vitality heterogeneity in the Strehler-Mildvan theory of mortality....
+   DOI: 10.1016/j.mbs.2018.02.008
+
+8. ORIGINAL: Disrupted Feedback and Feedforward Regulation Theory of Aging in the Male GnRH-LH-Testosterone Axis
+   Best Match: Information Theory (score: 42.3)
+   Reason: Best match score (42.3) below threshold (90)
+   Paper: Hypothesis testing of the aging male gonadal axis via a biomathematical construc...
+   DOI: 10.1152/ajpregu.2001.280.6.R1755
+
+9. ORIGINAL: Immunosenescence-Related Reparative Failure Theory of Aging and Age-Related Disease
+   Best Match: Information Theory (score: 44.6)
+   Reason: Best match score (44.6) below threshold (90)
+   Paper: The pathogenesis of age-related macular degeneration is not inflammatory mediate...
+   DOI: 10.1016/j.mehy.2020.110392
+
+10. ORIGINAL: Oxidative Stress Theory of Aging with an Optimum Superoxide Level
+   Best Match: Oxidative Stress Theory (score: 52.3)
+   Reason: Best match score (52.3) below threshold (90)
+   Paper: Overexpression of Mn-containing superoxide dismutase in transgenic Drosophila me...
+   DOI: 10.1006/abbi.1999.1460
+
+11. ORIGINAL: Alternative Pathway Mechanism of Superoxide Dismutase (SOD) Overexpression
+   Best Match: Dysdifferentiation Theory (score: 39.3)
+   Reason: Best match score (39.3) below threshold (90)
+   Paper: Alternative pathways as mechanism for the negative effects associated with overe...
+   DOI: 10.1016/j.jtbi.2005.06.034
+
+12. ORIGINAL: Free Radical/Oxidative Damage Theory of Aging
+   Best Match: Oxidative Stress Theory (score: 75.3)
+   Reason: Best match score (75.3) below threshold (90)
+   Paper: Aging and protein oxidative damage....
+   DOI: 10.1016/0047-6374(94)90024-8
+
+13. ORIGINAL: Generalized Error Catastrophe Hypothesis of Ageing with Membrane Deterioration and Free Radical Pathology
+   Best Match: Membrane Theory (score: 42.1)
+   Reason: Best match score (42.1) below threshold (90)
+   Paper: Ageing of Neurospora crassa. IV. Induction of senescence in wild type by dietary...
+   DOI: 10.1016/0047-6374(76)90017-8
+
+14. ORIGINAL: DNA Damage and Repair Hypothesis of Aging
+   Best Match: Membrane Theory (score: 69.6)
+   Reason: Best match score (69.6) below threshold (90)
+   Paper: Genomic damage and its repair in young and aging brain....
+   DOI: 10.1007/BF02780607
+
+15. ORIGINAL: Evolutionary theory of senescence
+   Best Match: Evolvable Soma Theory (score: 70.2)
+   Reason: Best match score (70.2) below threshold (90)
+   Paper: Evidence for a genetic basis of aging in two wild vertebrate populations....
+   DOI: 10.1016/j.cub.2007.11.043
+
+16. ORIGINAL: Damage Accumulation Theory of Aging
+   Best Match: Somatic DNA Damage Theory (score: 86.2)
+   Reason: Best match score (86.2) below threshold (90)
+   Paper: Disease control and active and healthy ageing: new paradigms of therapeutic stra...
+   DOI: 10.2174/1381612820666140316132652
+
+17. ORIGINAL: Limited Stem Cell Replicative Capacity Theory of Aging
+   Best Match: Oxidative Stress Theory (score: 55.8)
+   Reason: Best match score (55.8) below threshold (90)
+   Paper: The role of limited cell replicative capacity in pathological age change. A revi...
+   DOI: 10.1016/0047-6374(82)90056-2
+
+18. ORIGINAL: Stochastic mitochondrial DNA turnover and damage theory of aging
+   Best Match: Mitochondrial Decline Theory (score: 66.0)
+   Reason: Best match score (66.0) below threshold (90)
+   Paper: Stochastic mitochondrial DNA changes: bioenergy decline in type I skeletal muscl...
+   DOI: 10.1023/a:1015290810222
+
+19. ORIGINAL: Aging-Related Multifactorial Theory of Alzheimer's Disease
+   Best Match: Mitochondrial Decline Theory (score: 55.2)
+   Reason: Best match score (55.2) below threshold (90)
+   Paper: What causes alzheimer's disease?...
+   DOI: 10.5114/fn.2013.37702
+
+20. ORIGINAL: Genetic Mutation Theory in Familial Alzheimer's Disease
+   Best Match: Mutation Accumulation Theory (score: 53.0)
+   Reason: Best match score (53.0) below threshold (90)
+   Paper: What causes alzheimer's disease?...
+   DOI: 10.5114/fn.2013.37702
+
+21. ORIGINAL: Life History Theory of Aging
+   Best Match: Aristotle's Theory of Aging (score: 76.4)
+   Reason: Best match score (76.4) below threshold (90)
+   Paper: New model systems for studying the evolutionary biology of aging: crustacea....
+   DOI: 10.1007/BF01435989
+
+22. ORIGINAL: Commitment theory of cellular aging
+   Best Match: Error Catastrophe Theory (score: 73.5)
+   Reason: Best match score (73.5) below threshold (90)
+   Paper: Testing the commitment theory of cellular aging....
+   DOI: 10.1126/science.910134
+
+23. ORIGINAL: Selection, Optimization, and Compensation (SOC) Model of Aging
+   Best Match: Information Theory (score: 50.0)
+   Reason: Best match score (50.0) below threshold (90)
+   Paper: Future time perspective and promotion focus as determinants of intraindividual c...
+   DOI: 10.1037/a0036768
+
+24. ORIGINAL: Future Time Perspective (FTP) Theory
+   Best Match: Stem Cell Exhaustion Theory (score: 54.0)
+   Reason: Best match score (54.0) below threshold (90)
+   Paper: Future time perspective and promotion focus as determinants of intraindividual c...
+   DOI: 10.1037/a0036768
+
+25. ORIGINAL: Tissue-Specific Genomic Instability Hypothesis
+   Best Match: Epigenetic Damage Theory (score: 56.0)
+   Reason: Best match score (56.0) below threshold (90)
+   Paper: Premature aging and predisposition to cancers caused by mutations in RecQ family...
+   DOI: 10.1111/j.1749-6632.2001.tb05642.x
+
+26. ORIGINAL: Glucocorticoid-Calcium Cascade Hypothesis of Brain Aging
+   Best Match: Danaid Theory (score: 55.7)
+   Reason: Best match score (55.7) below threshold (90)
+   Paper: Nimodipine's protection against corticosterone-induced morphological changes in ...
+   DOI: 10.1016/s0006-8993(96)01296-6
+
+27. ORIGINAL: Inter-postsynaptic Functional LINK (IPL) Mechanism of Nervous System Functions and Aging-Related Neurodegeneration
+   Best Match: Loss of Morphostatic Information Theory (score: 37.9)
+   Reason: Best match score (37.9) below threshold (90)
+   Paper: A Derived Mechanism of Nervous System Functions Explains Aging-Related Neurodege...
+   DOI: 10.2174/1874609813666191223092451
+
+28. ORIGINAL: Protein Homeostasis and Stress Resistance Theory
+   Best Match: Error Catastrophe Theory (score: 57.5)
+   Reason: Best match score (57.5) below threshold (90)
+   Paper: Slow aging in mammals-Lessons from African mole-rats and bats....
+   DOI: 10.1016/j.semcdb.2017.07.006
+
+29. ORIGINAL: Genome Maintenance (DNA Repair) Theory of Aging
+   Best Match: Information Theory (score: 63.5)
+   Reason: Best match score (63.5) below threshold (90)
+   Paper: Slow aging in mammals-Lessons from African mole-rats and bats....
+   DOI: 10.1016/j.semcdb.2017.07.006
+
+30. ORIGINAL: Cellular Senescence Theory of Aging
+   Best Match: Membrane Theory (score: 75.4)
+   Reason: Best match score (75.4) below threshold (90)
+   Paper: Cell senescence: role in aging and age-related diseases....
+   DOI: 10.1159/000358899
+
+31. ORIGINAL: Selection Theory of Mortality Deceleration
+   Best Match: Mutation Accumulation Theory (score: 62.9)
+   Reason: Best match score (62.9) below threshold (90)
+   Paper: Rethinking mortality deceleration....
+   DOI: 10.1080/19485565.2018.1511414
+
+32. ORIGINAL: Random mutational accumulation theory of germinal aging in Tetrahymena thermophila
+   Best Match: Continuity Theory (score: 47.0)
+   Reason: Best match score (47.0) below threshold (90)
+   Paper: Germinal aging in Tetrahymena thermophila....
+   DOI: 10.1016/0047-6374(79)90005-8
+
+33. ORIGINAL: Complex Network Damage Propagation Theory of Aging
+   Best Match: Information Theory (score: 61.4)
+   Reason: Best match score (61.4) below threshold (90)
+   Paper: Aging, frailty and complex networks....
+   DOI: 10.1007/s10522-017-9684-x
+
+34. ORIGINAL: Membrane Microviscosity and Lipid Peroxidation Theory of Aging
+   Best Match: Membrane Theory (score: 62.2)
+   Reason: Best match score (62.2) below threshold (90)
+   Paper: Ageing of Neurospora crassa. IX. Microviscosity properties of mitochondrial memb...
+   DOI: 10.1016/0047-6374(79)90033-2
+
+35. ORIGINAL: Proteolysis Inhibition Theory of Aging
+   Best Match: Thermodynamic Theory (score: 68.9)
+   Reason: Best match score (68.9) below threshold (90)
+   Paper: The protease inhibitor leupeptin induces several signs of aging in brain, retina...
+   DOI: 10.1016/0167-4943(91)90023-j
+
+36. ORIGINAL: Calcium Hypothesis of Brain Aging
+   Best Match: Danaid Theory (score: 75.0)
+   Reason: Best match score (75.0) below threshold (90)
+   Paper: The neurobiology of aging....
+   DOI: 10.1016/j.eplepsyres.2005.07.015
+
+37. ORIGINAL: Reactive Oxygen Species (ROS)-Induced Telomerase Nuclear Export Theory of Endothelial Cell Aging
+   Best Match: Information Theory (score: 41.8)
+   Reason: Best match score (41.8) below threshold (90)
+   Paper: Antioxidants inhibit nuclear export of telomerase reverse transcriptase and dela...
+   DOI: 10.1161/01.RES.0000121104.05977.F3
+
+38. ORIGINAL: "Speed"-Hypothesis of Cognitive Aging
+   Best Match: Membrane Theory (score: 64.6)
+   Reason: Best match score (64.6) below threshold (90)
+   Paper: [Speed of information processing and fluid intelligence in advanced age. A secon...
+   DOI: 10.1007/s003910050023
+
+39. ORIGINAL: Calcium Hypothesis of Neuronal Ageing
+   Best Match: Membrane Theory (score: 70.8)
+   Reason: Best match score (70.8) below threshold (90)
+   Paper: Calcium and normal brain ageing....
+   DOI: 10.1016/j.ceca.2009.11.013
+
+40. ORIGINAL: MAPK Dysregulation Theory of Aging via Cellular Senescence
+   Best Match: Membrane Theory (score: 63.0)
+   Reason: Best match score (63.0) below threshold (90)
+   Paper: Targeting pro-senescence mitogen activated protein kinase (Mapk) enzymes with bi...
+   DOI: 10.1016/j.fct.2019.05.052
+
+41. ORIGINAL: Caloric Restriction (CR) Theory of Aging
+   Best Match: Cross-Linking Theory (score: 66.7)
+   Reason: Best match score (66.7) below threshold (90)
+   Paper: Caloric restriction and aging in primates: Relevance to humans and possible CR m...
+   DOI: 10.1002/jemt.10214
+
+42. ORIGINAL: Reactive Oxygen Species (ROS)-Mediated Cellular Senescence Theory
+   Best Match: Stem Cell Exhaustion Theory (score: 56.5)
+   Reason: Best match score (56.5) below threshold (90)
+   Paper: Reactive oxygen species as mediators of cellular senescence....
+   DOI: 10.1080/15216540500091890
+
+43. ORIGINAL: Membrane pacemaker hypothesis
+   Best Match: Wear and Tear Theory (score: 64.2)
+   Reason: Best match score (64.2) below threshold (90)
+   Paper: Intra-specific variation in resting metabolic rate in MF1 mice is not associated...
+   DOI: 10.1016/j.mad.2007.11.001
+
+44. ORIGINAL: Retrograde Response Theory of Yeast Aging
+   Best Match: Thermodynamic Theory (score: 62.5)
+   Reason: Best match score (62.5) below threshold (90)
+   Paper: Metabolic mechanisms of yeast ageing....
+   DOI: 10.1016/s0531-5565(00)00146-7
+
+45. ORIGINAL: Caloric Restriction Response Theory in Yeast Aging
+   Best Match: Codon Restriction Theory (score: 62.2)
+   Reason: Best match score (62.2) below threshold (90)
+   Paper: Metabolic mechanisms of yeast ageing....
+   DOI: 10.1016/s0531-5565(00)00146-7
+
+46. ORIGINAL: Mitochondrial Free Radical Theory of Aging
+   Best Match: Mitochondrial Decline Theory (score: 88.1)
+   Reason: Best match score (88.1) below threshold (90)
+   Paper: The interaction between the renin-angiotensin system and peroxisome proliferator...
+   DOI: 10.2741/2125
+
+47. ORIGINAL: PPAR Modulation Theory of Aging
+   Best Match: Cross-Linking Theory (score: 76.7)
+   Reason: Best match score (76.7) below threshold (90)
+   Paper: The interaction between the renin-angiotensin system and peroxisome proliferator...
+   DOI: 10.2741/2125
+
+48. ORIGINAL: Renin-Angiotensin System (RAS) Modulation Theory of Aging
+   Best Match: Cross-Linking Theory (score: 58.1)
+   Reason: Best match score (58.1) below threshold (90)
+   Paper: The interaction between the renin-angiotensin system and peroxisome proliferator...
+   DOI: 10.2741/2125
+
+49. ORIGINAL: Caloric Restriction-Mediated Aging Retardation via PPAR and Mitochondrial Modulation
+   Best Match: Mitochondrial Decline Theory (score: 42.5)
+   Reason: Best match score (42.5) below threshold (90)
+   Paper: The interaction between the renin-angiotensin system and peroxisome proliferator...
+   DOI: 10.2741/2125
+
+50. ORIGINAL: Mitochondrial Prooxidant Generation Theory of Aging
+   Best Match: Mitochondrial Decline Theory (score: 73.1)
+   Reason: Best match score (73.1) below threshold (90)
+   Paper: Hydrogen peroxide production by mitochondria may be a biomarker of aging....
+   DOI: 10.1016/0047-6374(91)90130-r
+
+51. ORIGINAL: Combined Vitality Decline and Statistical Distribution Model of Mortality
+   Best Match: Antagonistic Pleiotropy Theory (score: 45.0)
+   Reason: Best match score (45.0) below threshold (90)
+   Paper: Rate of aging, rate of dying and the mechanism of mortality....
+   DOI: 10.1016/0167-4943(82)90003-6
+
+52. ORIGINAL: Organ metabolic rate rate-of-living theory
+   Best Match: Epigenetic Drift Theory (score: 55.1)
+   Reason: Best match score (55.1) below threshold (90)
+   Paper: Organ metabolic rates and aging: two hypotheses....
+   DOI: 10.1054/mehy.1997.0619
+
+53. ORIGINAL: Theory of Gerotranscendence
+   Best Match: Membrane Theory (score: 65.6)
+   Reason: Best match score (65.6) below threshold (90)
+   Paper: The theory of gerotranscendence in practice: guidelines for nursing - Part II....
+   DOI: 10.1111/j.1748-3743.2007.00086.x
+
+54. ORIGINAL: Inflammatory/Pathogen Burden Theory of Aging
+   Best Match: Information Theory (score: 65.9)
+   Reason: Best match score (65.9) below threshold (90)
+   Paper: Inflammation and ageing....
+   DOI: 10.1007/s00391-007-0486-7
+
+55. ORIGINAL: Free Radical (Oxidative Damage) Theory of Aging with Motorneuron-Specific Refinement
+   Best Match: Oxidative Stress Theory (score: 51.7)
+   Reason: Best match score (51.7) below threshold (90)
+   Paper: Extension of Drosophila lifespan by overexpression of human SOD1 in motorneurons...
+   DOI: 10.1038/534
+
+56. ORIGINAL: Cellular Oscillatory Dynamics Theory of Aging and Cellular Processes
+   Best Match: Cross-Linking Theory (score: 49.5)
+   Reason: Best match score (49.5) below threshold (90)
+   Paper: An appreciation of the prescience of Don Gilbert (1930-2011): master of the theo...
+   DOI: 10.1002/cbin.11341
+
+57. ORIGINAL: Processing Speed Theory of Cognitive Aging
+   Best Match: Thermodynamic Theory (score: 64.6)
+   Reason: Best match score (64.6) below threshold (90)
+   Paper: Cross-sectionally and longitudinally balanced effects of processing speed on int...
+   DOI: 10.1080/03610730290080290
+
+58. ORIGINAL: Insulin/IGF-1 Signaling (IIS) Reduction Theory of Aging
+   Best Match: Information Theory (score: 60.2)
+   Reason: Best match score (60.2) below threshold (90)
+   Paper: The roles of cellular and organismal aging in the development of late-onset mala...
+   DOI: 10.1146/annurev-pathol-012414-040508
+
+59. ORIGINAL: Dietary Restriction (DR) Longevity and Aging-Delay Theory
+   Best Match: Intergenerational Transfers Theory (score: 53.0)
+   Reason: Best match score (53.0) below threshold (90)
+   Paper: The roles of cellular and organismal aging in the development of late-onset mala...
+   DOI: 10.1146/annurev-pathol-012414-040508
+
+60. ORIGINAL: Target of Rapamycin (TOR) Signaling Reduction Theory of Aging
+   Best Match: Information Theory (score: 56.6)
+   Reason: Best match score (56.6) below threshold (90)
+   Paper: The roles of cellular and organismal aging in the development of late-onset mala...
+   DOI: 10.1146/annurev-pathol-012414-040508
+
+61. ORIGINAL: Cellular Proteostasis Decline Theory of Aging
+   Best Match: Aristotle's Theory of Aging (score: 61.1)
+   Reason: Best match score (61.1) below threshold (90)
+   Paper: The roles of cellular and organismal aging in the development of late-onset mala...
+   DOI: 10.1146/annurev-pathol-012414-040508
+
+62. ORIGINAL: Glucocorticoid-mediated telomere dynamics theory
+   Best Match: Telomere Theory (score: 54.1)
+   Reason: Best match score (54.1) below threshold (90)
+   Paper: Do glucocorticoids mediate the link between environmental conditions and telomer...
+   DOI: 10.1016/j.ygcen.2017.07.007
+
+63. ORIGINAL: Cellular Senescence-Induced Oxidative Stress Theory of Endothelial Aging
+   Best Match: Membrane Theory (score: 54.7)
+   Reason: Best match score (54.7) below threshold (90)
+   Paper: Senescence-Induced Oxidative Stress Causes Endothelial Dysfunction....
+   DOI: 10.1093/gerona/glv008
+
+64. ORIGINAL: Telomere Attrition and Cellular Senescence Theory
+   Best Match: Telomere Theory (score: 67.6)
+   Reason: Best match score (67.6) below threshold (90)
+   Paper: Aging and computational systems biology....
+   DOI: 10.1002/wsbm.1328
+
+65. ORIGINAL: Mitochondrial Dynamics and Quality Control Theory
+   Best Match: Mitochondrial Decline Theory (score: 69.1)
+   Reason: Best match score (69.1) below threshold (90)
+   Paper: Aging and computational systems biology....
+   DOI: 10.1002/wsbm.1328
+
+66. ORIGINAL: Protein Glycation Theory of Aging
+   Best Match: Cross-Linking Theory (score: 80.6)
+   Reason: Best match score (80.6) below threshold (90)
+   Paper: The role of glycation in aging and diabetes mellitus....
+   DOI: 10.1007/BF00364840
+
+67. ORIGINAL: Thrifty Genotype Theory
+   Best Match: Phenoptosis Theory (score: 58.5)
+   Reason: Best match score (58.5) below threshold (90)
+   Paper: The young hunter hypothesis: age-related weight gain--a tribute to the thrifty t...
+   DOI: 10.1054/mehy.2000.1112
+
+68. ORIGINAL: Thrifty Phenotype Theory
+   Best Match: Phenoptosis Theory (score: 61.9)
+   Reason: Best match score (61.9) below threshold (90)
+   Paper: The young hunter hypothesis: age-related weight gain--a tribute to the thrifty t...
+   DOI: 10.1054/mehy.2000.1112
+
+69. ORIGINAL: Reduced fasting glucose utilization theory of aging
+   Best Match: Cross-Linking Theory (score: 60.0)
+   Reason: Best match score (60.0) below threshold (90)
+   Paper: Low utilization of circulating glucose after food withdrawal in Snell dwarf mice...
+   DOI: 10.1074/jbc.M700484200
+
+70. ORIGINAL: Oxidative Stress Theory of Aging and Alzheimer's Disease
+   Best Match: Oxidative Stress Theory (score: 58.2)
+   Reason: Best match score (58.2) below threshold (90)
+   Paper: Oxidative Stress Is a Central Target for Physical Exercise Neuroprotection Again...
+   DOI: 10.1093/gerona/glv005
+
+71. ORIGINAL: Thyroid Hormone Energy Allocation Theory of Human Aging and Life History Evolution
+   Best Match: Cross-Linking Theory (score: 45.0)
+   Reason: Best match score (45.0) below threshold (90)
+   Paper: Hierarchies in the energy budget: Thyroid hormones and the evolution of human li...
+   DOI: 10.1002/evan.22000
+
+72. ORIGINAL: Hypertrophy hypothesis of replicative aging in yeast
+   Best Match: Dysdifferentiation Theory (score: 58.0)
+   Reason: Best match score (58.0) below threshold (90)
+   Paper: Hypertrophy hypothesis as an alternative explanation of the phenomenon of replic...
+   DOI: 10.1111/j.1567-1364.2011.00759.x
+
+73. ORIGINAL: Iron-Driven Free Radical Damage Theory of Aging
+   Best Match: Free Radical Theory (score: 69.4)
+   Reason: Best match score (69.4) below threshold (90)
+   Paper: Most free-radical injury is iron-related: it is promoted by iron, hemin, holofer...
+   DOI: 10.1002/stem.5530120305
+
+74. ORIGINAL: NAD+-dependent sirtuin-mediated aging theory
+   Best Match: Developmental Theory (score: 54.8)
+   Reason: Best match score (54.8) below threshold (90)
+   Paper: NAD+/NADH and NADP+/NADPH in cellular functions and cell death: regulation and b...
+   DOI: 10.1089/ars.2007.1672
+
+75. ORIGINAL: PARP-1-mediated DNA damage repair and aging theory
+   Best Match: Oxidative Stress Theory (score: 61.0)
+   Reason: Best match score (61.0) below threshold (90)
+   Paper: NAD+/NADH and NADP+/NADPH in cellular functions and cell death: regulation and b...
+   DOI: 10.1089/ars.2007.1672
+
+76. ORIGINAL: Proteostasis Network Decline Theory of Aging
+   Best Match: Aristotle's Theory of Aging (score: 64.8)
+   Reason: Best match score (64.8) below threshold (90)
+   Paper: The proteostasis network and its decline in ageing....
+   DOI: 10.1038/s41580-019-0101-y
+
+77. ORIGINAL: Insulin/Insulin-like Growth Factor 1 (IIS) Signaling Pathway in Aging and Proteostasis
+   Best Match: Dysdifferentiation Theory (score: 35.8)
+   Reason: Best match score (35.8) below threshold (90)
+   Paper: The proteostasis network and its decline in ageing....
+   DOI: 10.1038/s41580-019-0101-y
+
+78. ORIGINAL: Dietary Restriction and Longevity Signaling Theory
+   Best Match: Codon Restriction Theory (score: 56.8)
+   Reason: Best match score (56.8) below threshold (90)
+   Paper: The proteostasis network and its decline in ageing....
+   DOI: 10.1038/s41580-019-0101-y
+
+79. ORIGINAL: Chronic Immune Stimulation Theory of Accelerated Aging in Opiate Addiction
+   Best Match: Information Theory (score: 50.0)
+   Reason: Best match score (50.0) below threshold (90)
+   Paper: Chronic immune stimulation as a contributing cause of chronic disease in opiate ...
+   DOI: 10.1016/j.mehy.2010.07.047
+
+80. ORIGINAL: Biphasic Mitochondrial Metabolism Dysregulation Theory of Aging
+   Best Match: Mitochondrial Decline Theory (score: 63.0)
+   Reason: Best match score (63.0) below threshold (90)
+   Paper: Biphasic Modeling of Mitochondrial Metabolism Dysregulation during Aging....
+   DOI: 10.1016/j.tibs.2017.06.005
+
+81. ORIGINAL: Socioemotional Selectivity Theory (SST)
+   Best Match: Activity Theory (score: 68.9)
+   Reason: Best match score (68.9) below threshold (90)
+   Paper: The influence of age and time horizon perspective on consumer behavior....
+   DOI: 10.1016/j.copsyc.2018.07.008
+
+82. ORIGINAL: Robertson's Right Hemisphere Cognitive Reserve Theory
+   Best Match: Codon Restriction Theory (score: 49.4)
+   Reason: Best match score (49.4) below threshold (90)
+   Paper: Plasticity of the Right-Lateralized Cognitive Reserve Network in Ageing....
+   DOI: 10.1093/cercor/bhx085
+
+83. ORIGINAL: Socioemotional Selectivity Theory (SST)
+   Best Match: Activity Theory (score: 68.9)
+   Reason: Best match score (68.9) below threshold (90)
+   Paper: The roles of chronological age and time perspective in memory positivity....
+   DOI: 10.1080/13825585.2017.1356262
+
+84. ORIGINAL: Thrifty Phenotype Theory in Reproductive Aging
+   Best Match: Aristotle's Theory of Aging (score: 57.5)
+   Reason: Best match score (57.5) below threshold (90)
+   Paper: Early life exposure to famine and reproductive aging among Chinese women....
+   DOI: 10.1097/GME.0000000000001259
+
+85. ORIGINAL: Evolutionary theory of senescence based on extrinsic mortality
+   Best Match: Continuity Theory (score: 50.5)
+   Reason: Best match score (50.5) below threshold (90)
+   Paper: The evolution of senescence in natural populations of guppies (Poecilia reticula...
+   DOI: 10.1016/s0531-5565(00)00241-2
+
+86. ORIGINAL: Selection, Optimization, and Compensation (SOC) Model of Lifespan Development
+   Best Match: Loss of Morphostatic Information Theory (score: 41.4)
+   Reason: Best match score (41.4) below threshold (90)
+   Paper: Strive to Win or Not to Lose? Age-Related Differences in Framing Effects on Effo...
+   DOI: 10.1093/geronb/gbz136
+
+87. ORIGINAL: Genome Rearrangement Theory of Aging
+   Best Match: Disengagement Theory (score: 69.7)
+   Reason: Best match score (69.7) below threshold (90)
+   Paper: Large genome rearrangements as a primary cause of aging....
+   DOI: 10.1016/s0047-6374(02)00028-3
+
+88. ORIGINAL: Cellular Senescence Theory of Aging
+   Best Match: Membrane Theory (score: 75.4)
+   Reason: Best match score (75.4) below threshold (90)
+   Paper: Vascular cell senescence and vascular aging....
+   DOI: 10.1016/j.yjmcc.2003.11.010
+
+89. ORIGINAL: Telomere Shortening Hypothesis of Cellular Senescence and Aging
+   Best Match: Telomere Theory (score: 61.5)
+   Reason: Best match score (61.5) below threshold (90)
+   Paper: Vascular cell senescence and vascular aging....
+   DOI: 10.1016/j.yjmcc.2003.11.010
+
+90. ORIGINAL: Insulin/IGF-1 Signaling Pathway and Longevity Regulation
+   Best Match: Age Stratification Theory (score: 40.0)
+   Reason: Best match score (40.0) below threshold (90)
+   Paper: Vascular cell senescence and vascular aging....
+   DOI: 10.1016/j.yjmcc.2003.11.010
+
+91. ORIGINAL: Mitochondrial membrane permeability and water loss hypothesis of aging
+   Best Match: Mitochondrial Decline Theory (score: 62.5)
+   Reason: Best match score (62.5) below threshold (90)
+   Paper: A mitochondrial membrane hypothesis of aging....
+   DOI: 10.1016/s0022-5193(87)80123-6
+
+92. ORIGINAL: Mother Hypothesis
+   Best Match: Intergenerational Transfers Theory (score: 82.1)
+   Reason: Best match score (82.1) below threshold (90)
+   Paper: The evolution of prolonged life after reproduction....
+   DOI: 10.1016/j.tree.2015.04.011
+
+93. ORIGINAL: Mitochondrial Oxidant Theory of Aging (Revisited by Mitohormesis and Hyperfunction Hypothesis)
+   Best Match: Mitochondrial Decline Theory (score: 47.6)
+   Reason: Best match score (47.6) below threshold (90)
+   Paper: Mitochondria and metabolic homeostasis....
+   DOI: 10.1089/ars.2013.5255
+
+94. ORIGINAL: Mitochondrial Genome Variability Theory of Aging and Longevity
+   Best Match: Mitochondrial Decline Theory (score: 65.4)
+   Reason: Best match score (65.4) below threshold (90)
+   Paper: Inherited variability of the mitochondrial genome and successful aging in humans...
+   DOI: 10.1111/j.1749-6632.2000.tb06648.x
+
+95. ORIGINAL: Vitality-based heterogeneity model of aging and mortality
+   Best Match: Dysdifferentiation Theory (score: 51.4)
+   Reason: Best match score (51.4) below threshold (90)
+   Paper: Mathematical modeling of the aging processes and the mechanisms of mortality: pa...
+   DOI: 10.1016/s0531-5565(01)00092-4
+
+96. ORIGINAL: Population heterogeneity and mortality deceleration theory
+   Best Match: Epigenetic Drift Theory (score: 51.8)
+   Reason: Best match score (51.8) below threshold (90)
+   Paper: Mathematical modeling of the aging processes and the mechanisms of mortality: pa...
+   DOI: 10.1016/s0531-5565(01)00092-4
+
+97. ORIGINAL: Evolutionary theories of aging (mutation accumulation and antagonistic pleiotropy)
+   Best Match: Antagonistic Pleiotropy Theory (score: 55.8)
+   Reason: Best match score (55.8) below threshold (90)
+   Paper: Mathematical modeling of the aging processes and the mechanisms of mortality: pa...
+   DOI: 10.1016/s0531-5565(01)00092-4
+
+98. ORIGINAL: Phenotypic Plasticity Theory of Aging
+   Best Match: Cross-Linking Theory (score: 66.7)
+   Reason: Best match score (66.7) below threshold (90)
+   Paper: What are the effects of maternal and pre-adult environments on ageing in humans,...
+   DOI: 10.1016/j.mad.2004.07.013
+
+99. ORIGINAL: Stem Cell Theory of Aging and Disease
+   Best Match: Hallmarks of Aging Theory (score: 64.5)
+   Reason: Best match score (64.5) below threshold (90)
+   Paper: Role of diet and nutrition on the alteration of the quality and quantity of stem...
+   DOI: 10.2174/138161208786264106
+
+100. ORIGINAL: Damage Accumulation Theory with Emphasis on Oxidative Stress and DNA Damage
+   Best Match: Somatic DNA Damage Theory (score: 57.1)
+   Reason: Best match score (57.1) below threshold (90)
+   Paper: Role of diet and nutrition on the alteration of the quality and quantity of stem...
+   DOI: 10.2174/138161208786264106
+
+
+... and 6106 more unmatched theories
+
+
+================================================================================
+STATISTICS BY MATCH TYPE
+================================================================================
+
+Abbreviation matches: 115 (1.5%)
+Exact matches: 1330 (17.3%)
+High confidence fuzzy matches: 24 (0.3%)
+No match (needs LLM): 6206 (80.9%)
+
+================================================================================
+TOP 20 MOST FREQUENTLY MATCHED CANONICAL THEORIES
+================================================================================
+
+ 290 theories → Free Radical Theory
+ 215 theories → Disposable Soma Theory
+ 190 theories → Antagonistic Pleiotropy Theory
+ 167 theories → Mitochondrial Decline Theory
+ 125 theories → Oxidative Stress Theory
+  97 theories → Mutation Accumulation Theory
+  45 theories → Telomere Theory
+  45 theories → Rate of Living Theory
+  32 theories → Membrane Theory
+  31 theories → Hallmarks of Aging Theory
+  25 theories → Error Catastrophe Theory
+  24 theories → Programmed Longevity Theory
+  22 theories → Somatic DNA Damage Theory
+  19 theories → Hyperfunction Theory
+  17 theories → Disengagement Theory
+  17 theories → Immunological Theory
+  14 theories → Stem Cell Exhaustion Theory
+  13 theories → Epigenetic Aging Clock Theory
+  12 theories → Activity Theory
+  10 theories → Protein Damage Theory

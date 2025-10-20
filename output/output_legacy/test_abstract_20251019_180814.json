@@ -1,0 +1,830 @@
+{
+  "metadata": {
+    "extraction_date": "2025-10-19T18:09:04.034832",
+    "pipeline_version": "1.0",
+    "statistics": {
+      "total_papers": 30,
+      "papers_with_theories": 20,
+      "papers_without_theories": 10,
+      "total_theories_extracted": 22,
+      "prompt_tokens": 43628,
+      "completion_tokens": 7563,
+      "total_tokens": 51191,
+      "estimated_cost_usd": 0.029552000000000002
+    }
+  },
+  "results": [
+    {
+      "doi": "10.1037/pag0000858",
+      "pmid": "39666486",
+      "title": "Experiential diversity theory of adult development and aging in daily life.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:08:25.781302"
+    },
+    {
+      "doi": "10.1210/endocr/bqaf033",
+      "pmid": "39996304",
+      "title": "GnRH and Cognition.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:08:25.806581"
+    },
+    {
+      "doi": "10.1093/evolut/qpac050",
+      "pmid": "36625461",
+      "title": "Phylogenetically controlled life history trait meta-analysis in cetaceans reveals unexpected negative brain size and longevity correlation.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:08:26.033548"
+    },
+    {
+      "doi": "10.1021/acs.jpclett.5c01933",
+      "pmid": "40702405",
+      "title": "Investigating Mechanisms of Ovarian Aging and Menopause Timing Using a Stochastic Approach.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:08:26.242585"
+    },
+    {
+      "doi": "10.1007/s40656-023-00566-7",
+      "pmid": "36862350",
+      "title": "Evolution within the body: the rise and fall of somatic Darwinism in the late nineteenth century.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Somatic Darwinism",
+          "key_concepts": [
+            {
+              "concept": "Struggle for existence between body parts",
+              "description": "This concept posits that within an organism, different body parts or cells compete in a manner analogous to natural selection, driving adaptive changes through population dynamics rather than predetermined harmony."
+            },
+            {
+              "concept": "Population cell dynamics guiding adaptation",
+              "description": "Adaptive changes in the organism are driven by the dynamics of cell populations competing and evolving, rather than by a fixed, genetically programmed developmental plan."
+            },
+            {
+              "concept": "Phagocyte-driven selection in immunity and senescence",
+              "description": "Elie Metchnikoff extended somatic Darwinism to immunity and aging, proposing that phagocytes mediate selection and struggle at the cellular level, influencing development, pathology, and senescence as evolutionary processes within the body."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "review, discuss, historical analysis",
+          "evidence": "Historical citations of foundational work by Ernst Haeckel, Wilhelm Preyer, Wilhelm Roux, and Elie Metchnikoff; conceptual framework linking somatic evolution to immunity and senescence; no new experimental data presented.",
+          "criteria_reasoning": "Meets criteria as it proposes a general causal mechanism (cellular competition and selection) explaining aging (senescence) at the organismal level; it is generalizable beyond specific organs or diseases and provides a mechanistic evolutionary explanation for aging processes.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:31.206598"
+    },
+    {
+      "doi": "10.1016/j.jep.2025.119399",
+      "pmid": "39890089",
+      "title": "Crassifolin A prolongs lifespan and healthspan in Caenorhabditis elegans via activating autophagy.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Autophagy activation theory of aging",
+          "key_concepts": [
+            {
+              "concept": "Autophagy as a longevity mechanism",
+              "description": "Autophagy is a cellular degradation and recycling process that maintains cellular homeostasis by removing damaged organelles and proteins. Its activation is proposed to promote lifespan and healthspan by preventing cellular damage accumulation, a key driver of aging."
+            },
+            {
+              "concept": "Integration of aging-related signaling pathways",
+              "description": "The theory involves multiple conserved signaling pathways, including insulin/insulin-like signaling (IIS), dietary restriction (DR), and germline signaling, which converge to regulate transcription factors such as DAF-16/FOXO, SKN-1/NRF2, HSF-1, HLH-30/TFEB, and nuclear receptor DAF-12. These factors collectively induce autophagy and promote longevity."
+            },
+            {
+              "concept": "Molecular regulation of systemic aging",
+              "description": "By activating these pathways and transcription factors, autophagy is upregulated systemically, suggesting a causal mechanism by which cellular maintenance processes delay organismal aging and extend healthspan."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "test, discuss",
+          "evidence": "Experimental data from C. elegans lifespan and healthspan assays; molecular analyses including RT-qPCR, western blotting, and fluorescence quantification of transgenic reporter strains demonstrating pathway activation and autophagy induction.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism (autophagy activation) underlying aging at the organismal level, integrates multiple conserved aging pathways, and provides mechanistic insight rather than mere correlation.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:31.374776"
+    },
+    {
+      "doi": "10.1152/physrev.00017.2021",
+      "pmid": "35343830",
+      "title": "Evolutionarily conserved transcription factors as regulators of longevity and targets for geroprotection.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Transcriptional Regulation Theory of Aging",
+          "key_concepts": [
+            {
+              "concept": "Evolutionarily conserved transcription factors",
+              "description": "Certain transcription factors conserved across species regulate key transcriptional networks that control metabolic homeostasis and stress responses, which are early hallmarks of aging. These factors influence lifespan and health span in multiple model organisms, suggesting a fundamental role in aging."
+            },
+            {
+              "concept": "Transcriptional network aberrations as aging drivers",
+              "description": "Aberrations in transcriptional networks are among the earliest detectable changes in aging, implying that dysregulation of gene expression programs is a causal mechanism contributing to aging and age-related diseases."
+            },
+            {
+              "concept": "Targeting transcription factors for geroprotection",
+              "description": "Modulating the activity of these conserved transcription factors represents a promising strategy to mitigate age-related diseases and potentially slow the aging process itself, indicating a mechanistic link between transcriptional regulation and systemic aging."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss, synthesize",
+          "evidence": "Citations and evidence from multiple multicellular model organisms (nematodes, flies, mice) demonstrating that conserved transcription factors impact longevity and age-related diseases; tentative links to human aging are also discussed.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable, causal mechanism (transcriptional regulation by conserved factors) underlying aging at the organismal level, supported by cross-species evidence and connected to systemic aging and longevity.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:32.597372"
+    },
+    {
+      "doi": "10.1111/brv.13074",
+      "pmid": "38468146",
+      "title": "Social life results in social stress protection: a novel concept to explain individual life-history patterns in social insects.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Social stress protection theory",
+          "key_concepts": [
+            {
+              "concept": "Social stress protection",
+              "description": "A general concept proposing that social groups provide collective defenses against a broad range of biotic and abiotic stressors, beyond the previously recognized social immunity against pathogens and parasites. This group-level protection reduces individual stress exposure and damage."
+            },
+            {
+              "concept": "Reduced individual-level defenses",
+              "description": "Because social insects benefit from group-level stress protection, individuals may evolve to invest less in their own direct defenses, optimizing their life-history traits such as longevity and aging plasticity."
+            },
+            {
+              "concept": "Evolution of aging plasticity in social insects",
+              "description": "The social stress protection mechanism may have enabled the evolution of exceptional aging plasticity seen in social insects, by buffering individuals from environmental stresses that typically accelerate aging."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "propose, discuss",
+          "evidence": "Conceptual reasoning supported by examples from honey bees and other social insects; references to known social immunity literature; discussion of life expectancy patterns in honey bees; no direct experimental data presented in abstract.",
+          "criteria_reasoning": "Meets criteria as it proposes a general causal mechanism explaining how social living influences aging and life-history patterns at the organismal level. It attempts to explain why social insects exhibit exceptional aging plasticity through a fundamental process (social stress protection). It is not limited to a narrow phenomenon and suggests evolutionary and mechanistic implications.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:32.611957"
+    },
+    {
+      "doi": "10.2174/1874609808666150702095803",
+      "pmid": "26135528",
+      "title": "The Fallacy of the Longevity Elixir: Negligible Senescence May be Achieved, but Not by Using Something Physical.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Evolutionary techno-cultural modulation of aging",
+          "key_concepts": [
+            {
+              "concept": "Fundamental stochastic nature of aging",
+              "description": "Aging is characterized as a continuous process of degeneration driven by stochastic (random) damage accumulation, which underlies loss of function and disease."
+            },
+            {
+              "concept": "Limitations of regenerative biotechnologies",
+              "description": "Physical or regenerative biotechnologies are unlikely to effectively counteract the fundamental aging process due to their disruptive interference with the organism's complex dynamic architecture and insurmountable translational challenges."
+            },
+            {
+              "concept": "Evolutionary and techno-cultural mechanisms as solutions",
+              "description": "Rather than physical interventions, global and abstract methods aligned with evolutionary mechanisms and techno-cultural societal necessities may reduce the importance of aging, potentially rendering it evolutionarily unnecessary."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "discuss, critique, propose alternative framework",
+          "evidence": "Conceptual reasoning and theoretical arguments; no direct experimental data presented; references to clinical and translational challenges.",
+          "criteria_reasoning": "Meets criteria as it proposes a general causal explanation for aging (stochastic degeneration), critiques existing intervention approaches, and suggests an evolutionary framework for aging modulation applicable at the organismal level.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:35.949725"
+    },
+    {
+      "doi": "10.1007/978-1-4615-2926-2_3",
+      "pmid": "8368137",
+      "title": "Genetic and molecular basis for cellular senescence.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Cellular Senescence Theory of Aging",
+          "key_concepts": [
+            {
+              "concept": "Finite cellular lifespan",
+              "description": "Normal human and rodent cells have a limited number of divisions in culture, after which they undergo morphological changes and cease proliferation, a process termed cellular senescence."
+            },
+            {
+              "concept": "Genetic basis of senescence",
+              "description": "Experimental evidence supports that cellular senescence is genetically programmed, with specific genes mapped to chromosomes that regulate the senescence process."
+            },
+            {
+              "concept": "Cell cycle control alterations",
+              "description": "Senescent cells show changes in cell cycle regulation, particularly involving phosphorylation of the retinoblastoma gene, which controls entry into the DNA synthesis phase."
+            },
+            {
+              "concept": "Link between cellular senescence and organismal aging",
+              "description": "Although not yet proven, it is proposed that aging at the cellular level contributes causally to the aging of the whole organism."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "discuss",
+          "evidence": "Experimental results showing correction of senescence defects by chromosome transfer, mapping of senescence genes, and observations of cell cycle gene alterations in senescent cells.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable, causal mechanism for aging at the cellular level with potential organismal implications; addresses fundamental aging processes rather than a narrow phenomenon.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:37.849550"
+    },
+    {
+      "doi": "10.1093/jeb/voaf094",
+      "pmid": "40794958",
+      "title": "Luck can explain the positive link between fecundity and longevity: The Matthew effect in social insects and beyond.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:08:38.250100"
+    },
+    {
+      "doi": "10.1007/s10522-025-10313-z",
+      "pmid": "40853391",
+      "title": "Beta-Hydroxybutyrate but not NMN supplementation mimics caloric restriction reducing early mortality in Daphnia.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "NAD+ homeostasis as a mechanism of caloric restriction-mediated lifespan extension",
+          "key_concepts": [
+            {
+              "concept": "NAD+ homeostasis",
+              "description": "NAD+ levels and their regulation are proposed as a key determinant of lifespan, mediating the beneficial effects of caloric restriction (CR). Maintaining NAD+ abundance is suggested to influence aging processes at the organismal level."
+            },
+            {
+              "concept": "Caloric restriction (CR) lifespan extension",
+              "description": "CR is known to extend lifespan across species, and this theory posits that one mechanism for this effect is through modulation of NAD+ metabolism, which impacts aging-related pathways."
+            },
+            {
+              "concept": "Ketone bodies and NAD+ precursors as CR mimetics",
+              "description": "Beta-hydroxybutyrate (BHB), a ketone body, and nicotinamide mononucleotide (NMN), an NAD+ precursor, are hypothesized to mimic CR effects by regulating NAD+ levels, thereby potentially extending lifespan and improving age-related outcomes."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "test, discuss",
+          "evidence": "Experimental lifespan assays in Daphnia showing that BHB reduces early mortality similar to CR, whereas NMN does not; RNAseq data showing gene expression changes in BHB-treated animals; fecundity and lipofuscin accumulation measurements.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism (NAD+ homeostasis) underlying aging and lifespan extension, tested in a model organism with relevance to systemic aging processes.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:38.337887"
+    },
+    {
+      "doi": "10.1111/1365-2656.14048",
+      "pmid": "38279640",
+      "title": "Polyphenism predicts actuarial senescence and lifespan in tiger salamanders.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:08:38.887955"
+    },
+    {
+      "doi": "10.20837/4201902165",
+      "pmid": "30679396",
+      "title": "[Mineral metabolism and aging.].",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Phosphorus-Calciprotein Particle (CPP) Pro-Aging Theory",
+          "key_concepts": [
+            {
+              "concept": "Phosphorus as a pro-aging factor",
+              "description": "Phosphorus, present in blood primarily as phosphate ions and calciprotein particles (CPP), is identified as a factor that accelerates aging processes in mammals. Elevated phosphorus levels correlate with aging and decline in renal function."
+            },
+            {
+              "concept": "Calciprotein particles (CPP) as pathogenic agents",
+              "description": "CPP are colloidal particles composed of calcium-phosphate and the serum protein fetuin-A. These particles increase in concentration with age and renal dysfunction and have the capacity to induce inflammation and vascular smooth muscle cell calcification, suggesting a causal role in systemic aging."
+            },
+            {
+              "concept": "Inflammation and vascular calcification as aging mechanisms",
+              "description": "CPP-induced inflammation and vascular smooth muscle cell calcification are proposed mechanisms by which phosphorus contributes to aging, linking mineral metabolism dysregulation to systemic aging phenotypes."
+            },
+            {
+              "concept": "Therapeutic targeting of phosphate and CPP",
+              "description": "Interventions aimed at reducing phosphate levels or CPP formation are hypothesized to mitigate aging processes, indicating a potential practical anti-aging strategy."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "propose, hypothesize",
+          "evidence": "Analysis of a mutant mouse model exhibiting accelerated aging implicates phosphorus; in vitro studies show CPP induce inflammation and vascular calcification; observed increase of CPP with age and renal decline cited.",
+          "criteria_reasoning": "Meets criteria as it proposes a general causal mechanism linking mineral metabolism (phosphorus and CPP) to systemic aging processes, with underlying biological mechanisms (inflammation, calcification) and potential therapeutic implications. It is not limited to a single organ or disease but suggests a fundamental aging driver.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:39.248700"
+    },
+    {
+      "doi": "10.14336/AD.2024.1697",
+      "pmid": "40249926",
+      "title": "LLMs and AI Life Models for Traditional Chinese Medicine-derived Geroprotector Formulation.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:08:39.469133"
+    },
+    {
+      "doi": "10.1016/j.arr.2024.102503",
+      "pmid": "39284417",
+      "title": "Senoinflammation as the underlying mechanism of aging and its modulation by calorie restriction.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Senoinflammation theory of aging",
+          "key_concepts": [
+            {
+              "concept": "Senoinflammation",
+              "description": "A chronic, unresolved low-grade inflammatory process that affects multiple organs and systemic functions, contributing broadly to aging and systemic degeneration."
+            },
+            {
+              "concept": "Senescence-associated secretory phenotype (SASP)",
+              "description": "A pro-inflammatory secretory profile produced by senescent cells that promotes metabolic dysregulation and inflammation, thereby driving aging and age-related diseases."
+            },
+            {
+              "concept": "Metabolic dysregulation linked to inflammation",
+              "description": "The theory posits that age-related inflammation (senoinflammation) is causally related to metabolic disturbances, which exacerbate systemic aging processes."
+            },
+            {
+              "concept": "Calorie restriction as a modulator",
+              "description": "Calorie restriction suppresses pro-inflammatory cytokines, chemokines, lipid accumulation, and SASP, thereby mitigating senoinflammation and its aging effects."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss, synthesize",
+          "evidence": "Biochemical and molecular biology data supporting senoinflammation; experimental data from calorie restriction studies showing suppression of inflammatory markers and SASP.",
+          "criteria_reasoning": "Meets criteria as it proposes a general causal mechanism explaining how chronic inflammation driven by senescent cells and metabolic dysregulation causes systemic aging; it is generalizable across multiple organs and systemic functions; it provides causal explanations rather than mere correlations.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:41.396774"
+    },
+    {
+      "doi": "10.1016/j.arr.2025.102833",
+      "pmid": "40651558",
+      "title": "Decoding DNA repair regulation across human lifespan variability.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "DNA Repair Regulation Theory of Aging",
+          "key_concepts": [
+            {
+              "concept": "DNA repair as a fundamental aging mechanism",
+              "description": "DNA repair is an evolutionarily conserved process essential for maintaining genetic stability. Its efficiency and regulation are proposed to influence aging and longevity by preventing accumulation of genetic damage that contributes to functional decline."
+            },
+            {
+              "concept": "Variability in DNA repair correlates with lifespan diversity",
+              "description": "Human lifespan varies widely, from progeroid syndromes with very short lifespans to exceptional longevity. This variability is linked to differences in DNA repair capacity and regulation, suggesting DNA repair pathways are key determinants of aging rate."
+            },
+            {
+              "concept": "Targeted modulation of DNA repair pathways as intervention",
+              "description": "Understanding molecular regulation of DNA repair across diverse aging trajectories may enable development of therapies that precisely modulate these pathways to promote healthy longevity."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, synthesize",
+          "evidence": "Integrates multiple lines of evidence from human and animal studies on DNA repair and aging; comparative analyses of lifespan variability in humans; citations of prior research linking DNA repair to longevity.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable, causal mechanism explaining aging at the organism level through DNA repair regulation; addresses broad aging variability; not limited to specific diseases or organs.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:46.173493"
+    },
+    {
+      "doi": "10.1080/17513758.2023.2256766",
+      "pmid": "37708171",
+      "title": "Growth rate, evolutionary entropy and ageing across the tree of life.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Evolutionary entropy theory of aging",
+          "key_concepts": [
+            {
+              "concept": "Evolutionary entropy as a fitness measure",
+              "description": "Evolutionary entropy quantifies the diversity and uncertainty in the age-specific reproduction and survival schedule of a population, serving as a complementary measure to growth rate for assessing Darwinian fitness."
+            },
+            {
+              "concept": "Sensitivity of evolutionary entropy to age",
+              "description": "The sensitivity of evolutionary entropy to changes in age-specific mortality or fertility is typically a convex function, indicating stronger natural selection pressures at younger and older ages, which contrasts with the monotonic decline in sensitivity of growth rate with age."
+            },
+            {
+              "concept": "Diversity in aging patterns explained by entropy sensitivity",
+              "description": "Because the sensitivity functions of evolutionary entropy exhibit a wider range of behaviors than growth rate sensitivity, evolutionary entropy provides a valuable framework for explaining diverse aging patterns across species, including phenomena like negative senescence."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "discuss, formalize, synthesize",
+          "evidence": "Theoretical analysis of sensitivity functions of growth rate and evolutionary entropy across populations; conceptual arguments supported by mathematical properties of entropy and growth rate sensitivities; references to observed aging patterns such as negative senescence.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable, causal explanation for aging patterns based on evolutionary principles applicable across the tree of life; addresses aging broadly through population-level fitness measures; provides an organizing principle linking selection intensity and aging.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:46.254395"
+    },
+    {
+      "doi": "10.1016/j.ejcb.2023.151340",
+      "pmid": "37423036",
+      "title": "Clones of aging: When better fitness can be dangerous.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:08:46.642499"
+    },
+    {
+      "doi": "10.1007/3-211-27577-0_12",
+      "pmid": "15986732",
+      "title": "Treating the aging brain: cortical reorganization and behavior.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:08:46.923292"
+    },
+    {
+      "doi": "10.1016/j.pbi.2024.102602",
+      "pmid": "39024859",
+      "title": "Time's up: Epigenetic clocks in plants.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Epigenetic clock theory of aging",
+          "key_concepts": [
+            {
+              "concept": "DNA methylation as a biomarker of aging",
+              "description": "DNA methylation patterns change predictably with age, allowing the construction of epigenetic clocks that estimate organismal age with high accuracy. These methylation changes serve as molecular proxies reflecting biological aging processes."
+            },
+            {
+              "concept": "Epigenetic clocks as measures of biological time",
+              "description": "Epigenetic clocks do not merely track chronological age but may reflect underlying biological aging mechanisms. In animals, these clocks correlate with organismal aging, while in plants, they also capture time scales beyond individual lifespan, such as circadian rhythms and evolutionary time."
+            },
+            {
+              "concept": "Differences in epigenetic clocks between plants and animals",
+              "description": "Plant epigenetic clocks differ from animal clocks in key ways, including their ability to measure time across multiple scales\u2014from daily circadian rhythms to centuries-long aging and millennia-scale evolutionary changes\u2014suggesting distinct biological bases and mechanisms."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "review, classify, discuss",
+          "evidence": "Summary and synthesis of emerging evidence from DNA methylation studies in plants and animals; comparative analysis of clock features across different time scales; citations of recent research demonstrating epigenetic clocks in plants.",
+          "criteria_reasoning": "Meets criteria as it addresses a general biological aging mechanism (epigenetic changes) applicable across organisms, proposes a causal biomolecular mechanism (DNA methylation dynamics) underlying aging, and discusses broad scope including organismal aging and evolutionary time. Although focused on epigenetic clocks, it engages with their role as causal or mechanistic aging indicators rather than mere correlates.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:48.293341"
+    },
+    {
+      "doi": "10.1530/REP-22-0325",
+      "pmid": "36215096",
+      "title": "Does single-strand DNA break repair capacity influence oocyte maintenance and quality?",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": false,
+      "theories": [],
+      "timestamp": "2025-10-19T18:08:48.773289"
+    },
+    {
+      "doi": "10.1146/annurev-genet-011725-091634",
+      "pmid": "40829791",
+      "title": "Genetic and Genomic Insights into Planarian Biology.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Regeneration-driven rejuvenation theory",
+          "key_concepts": [
+            {
+              "concept": "Whole-body regeneration as a mechanism for reversing aging",
+              "description": "Planarians possess the ability to regenerate any lost tissue, and this regenerative capacity can reverse age-associated physiological decline, effectively making older planarians biologically younger."
+            },
+            {
+              "concept": "Stem cell function in lifespan regulation",
+              "description": "The theory implicates stem cells as central players in maintaining tissue homeostasis and enabling rejuvenation, linking their function directly to lifespan regulation and healthspan improvement."
+            },
+            {
+              "concept": "Genomic and genetic basis of aging and rejuvenation",
+              "description": "Advances in genomic technologies have revealed molecular and genetic mechanisms underlying regeneration and age reversal, suggesting that these processes are governed by fundamental biological programs."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "discuss, review, synthesize",
+          "evidence": "Citations of recent experimental data showing regeneration in older planarians reverses physiological decline; references to next-generation sequencing and genomic studies transforming understanding of aging and rejuvenation.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism explaining how biological aging can be reversed through regeneration, implicates stem cells and genetic programs, and addresses aging broadly beyond a single organ or disease.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:52.030999"
+    },
+    {
+      "doi": "10.1101/cshperspect.a041699",
+      "pmid": "39694811",
+      "title": "Life and Death without Telomerase: The <i>Saccharomyces cerevisiae</i> Model.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Replicative Senescence as an Anticancer Mechanism",
+          "key_concepts": [
+            {
+              "concept": "Telomerase Inactivation and Telomere Dynamics",
+              "description": "The absence of telomerase leads to progressive telomere shortening, which triggers cellular responses including replicative senescence. This process limits proliferative capacity and acts as a barrier to uncontrolled cell division, thereby functioning as an anticancer mechanism."
+            },
+            {
+              "concept": "Cellular Heterogeneity and Telomeric State Transitions",
+              "description": "Variability in cellular responses to telomerase loss arises from differences in telomeric states, which influence the risk of senescence evasion. This heterogeneity is critical for understanding how cells manage genome stability and proliferative limits."
+            },
+            {
+              "concept": "Inter-organelle Communication upon Telomerase Loss",
+              "description": "The interplay between the nucleus and other organelles following telomerase inactivation reveals complex intracellular signaling networks that impact cellular aging and genome maintenance, reflecting evolutionary conserved mechanisms."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss, synthesize",
+          "evidence": "Insights derived from studies in Saccharomyces cerevisiae, including molecular investigations of telomere biology, intracellular signaling, and organelle responses; references to foundational discoveries in cell cycle and DNA repair mechanisms; comparative implications for human replicative senescence.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism (telomerase loss leading to replicative senescence) explaining why biological aging occurs at the cellular and organismal level, with broad implications beyond yeast to eukaryotes including humans.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:53.133829"
+    },
+    {
+      "doi": "10.1037/dev0000349",
+      "pmid": "28541063",
+      "title": "Getting together: Social contact frequency across the life span.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Socioemotional Selectivity Theory",
+          "key_concepts": [
+            {
+              "concept": "Motivation shifts with age",
+              "description": "This theory posits that as people age, their motivational priorities shift toward emotionally meaningful goals and relationships, leading to selective social interactions that prioritize close family and friends."
+            },
+            {
+              "concept": "Emotional regulation and social network pruning",
+              "description": "Older adults tend to reduce the size of their social networks but maintain or increase the quality of close social contacts to optimize emotional well-being."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "discuss",
+          "evidence": "The paper discusses longitudinal data showing stable family contact frequency and declining nonfamily contact frequency, consistent with socioemotional selectivity theory predictions.",
+          "criteria_reasoning": "Meets criteria as it proposes a general psychosocial aging theory explaining why social contact patterns change with age, addressing broad aging-related social behavior and underlying motivational mechanisms.",
+          "paper_focus": 8
+        },
+        {
+          "name": "Social Convoy Theory",
+          "key_concepts": [
+            {
+              "concept": "Social networks as dynamic convoys",
+              "description": "This theory conceptualizes social relationships as convoys that accompany individuals throughout life, providing support and influencing health and well-being."
+            },
+            {
+              "concept": "Stability and change in social networks",
+              "description": "While the composition of social convoys changes over time, core relationships remain stable and continue to provide essential social support."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "discuss",
+          "evidence": "The study's findings on stable family contact and changing nonfamily contact frequencies are interpreted in light of social convoy theory's emphasis on stable core relationships.",
+          "criteria_reasoning": "Meets criteria as it offers a general psychosocial aging framework explaining social network dynamics over the lifespan and their impact on aging outcomes.",
+          "paper_focus": 7
+        },
+        {
+          "name": "Evolutionary Life History Approach",
+          "key_concepts": [
+            {
+              "concept": "Trade-offs in resource allocation",
+              "description": "This approach explains aging and social behavior as outcomes of evolutionary trade-offs in energy and resource allocation between growth, reproduction, and maintenance."
+            },
+            {
+              "concept": "Adaptive social behavior across lifespan",
+              "description": "Social contact patterns are shaped by evolutionary pressures optimizing survival and reproductive success at different life stages."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "discuss",
+          "evidence": "The paper relates observed social contact trajectories to evolutionary life history theory, suggesting evolutionary explanations for changes in social behavior with age.",
+          "criteria_reasoning": "Meets criteria as it provides a broad evolutionary framework explaining why aging-related changes in social behavior occur, linking to organism-level aging processes.",
+          "paper_focus": 6
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:54.154390"
+    },
+    {
+      "doi": "10.1016/j.arr.2024.102392",
+      "pmid": "38925481",
+      "title": "Endogenous retroviruses in multiple sclerosis: A network-based etiopathogenic model.",
+      "validation_result": "valid",
+      "confidence_score": 8,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Endogenous Retrovirus Activation as a Driver of System-Specific Aging",
+          "key_concepts": [
+            {
+              "concept": "Endogenous Retrovirus Transactivation",
+              "description": "The activation of human endogenous retroviruses (HERVs) acts as a critical node in the pathogenesis of multiple sclerosis and is proposed to contribute to aging-related neurodegeneration by promoting epigenetic noise and cellular disorganization."
+            },
+            {
+              "concept": "Epigenomic Entropy and Aging",
+              "description": "Increased epigenomic entropy, conceptualized as epigenetic noise, leads to the proliferation of disorganized cellular subpopulations, accelerating system-specific aging processes and contributing to inflammation and organ-specific functional decline."
+            },
+            {
+              "concept": "Inflammation and Aging as Interlinked Processes",
+              "description": "Inflammation and aging are described as two sides of the same coin, representing plastic dis-adaptation to external stimuli with system-specific degrees of freedom, where inflammation accelerates organ-specific aging and disrupts systemic communication."
+            },
+            {
+              "concept": "Network-Based Molecular Overlap",
+              "description": "Shared molecular networks responding to endogenous retrovirus reactivation underlie overlapping neurological symptoms and syndromes, suggesting a systemic mechanism linking retroviral activation, inflammation, and aging-related neurodegeneration."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "propose, discuss, review",
+          "evidence": "The paper reviews preclinical, clinical, epidemiological, and evolutionary evidence linking endogenous retrovirus activation to multiple sclerosis and extends this to aging-related neurodegeneration; it also discusses therapeutic implications such as anti-retroviral therapy.",
+          "criteria_reasoning": "The theory proposes a general causal mechanism (endogenous retrovirus activation leading to epigenomic entropy and system-specific aging) that attempts to explain aging-related neurodegeneration beyond a single disease, linking inflammation and aging as interconnected processes. It addresses aging broadly at the organism/system level and proposes underlying mechanisms, thus meeting the core criteria for an aging theory.",
+          "paper_focus": 8
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:56.626710"
+    },
+    {
+      "doi": "10.1006/jtbi.1994.1190",
+      "pmid": "7996857",
+      "title": "DNA repair and the evolution of longevity: a critical analysis.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "DNA Repair Rate Theory of Longevity",
+          "key_concepts": [
+            {
+              "concept": "DNA repair rates correlate with lifespan",
+              "description": "This concept proposes that species with higher DNA repair rates tend to have longer maximum lifespans, suggesting that efficient DNA repair mechanisms contribute causally to longevity by preventing accumulation of genetic damage."
+            },
+            {
+              "concept": "Confounding effects of body size and phylogeny",
+              "description": "The theory acknowledges that observed correlations between DNA repair rates and lifespan may be confounded by body size and evolutionary relatedness (phylogeny), which independently influence both traits, complicating causal interpretations."
+            },
+            {
+              "concept": "Comparative analysis controlling for confounders",
+              "description": "The approach involves reanalyzing existing comparative data while statistically controlling for body size and phylogenetic relationships to test whether the DNA repair-longevity correlation holds as a general aging mechanism."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "critique,test",
+          "evidence": "Reanalysis of existing comparative data sets controlling for body size and phylogeny; discussion of prior studies correlating DNA repair rates and lifespan among mammals.",
+          "criteria_reasoning": "Meets criteria as it proposes a general biological mechanism (DNA repair efficiency) underlying aging and lifespan differences across species, attempts causal explanation, and addresses broad organismal aging rather than a narrow phenomenon. The paper critically tests the validity of this theory by controlling confounders.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:57.327676"
+    },
+    {
+      "doi": "10.1038/s43587-025-00850-0",
+      "pmid": "40205073",
+      "title": "Promoting health and survival through lowered body temperature.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Body Temperature Modulation Theory of Aging",
+          "key_concepts": [
+            {
+              "concept": "Lowered Core Body Temperature Increases Longevity",
+              "description": "Reducing core body temperature (T_b) is associated with increased lifespan across species, suggesting a fundamental role of temperature in aging processes."
+            },
+            {
+              "concept": "Temperature Influences Aging via Specific Molecular Pathways",
+              "description": "Cold promotes longevity not only through thermodynamic effects on chemical reactions or reduced mitochondrial reactive oxygen species but also by modulating nutrient sensing, proteostasis, and the structure/function of proteins and nucleic acids."
+            },
+            {
+              "concept": "Epigenetic and Cellular Responses to Temperature",
+              "description": "Lowering T_b affects epigenetic signatures, inflammation, and induces RNA-binding cold shock proteins, activates cold-sensitive kinases, and alters RNA splicing, thereby reshaping the cellular environment in ways that may slow aging."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "review, discuss, synthesize",
+          "evidence": "Summarizes cross-species lifespan data, recent findings in invertebrates on nutrient sensing and proteostasis pathways, molecular effects on temperature-sensitive ion channels and nucleic acid structures, and epigenetic/inflammatory changes.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable, causal explanation for aging based on body temperature modulation affecting multiple fundamental biological processes relevant to organismal aging.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:08:59.845857"
+    },
+    {
+      "doi": "10.1016/j.mad.2020.111251",
+      "pmid": "32389691",
+      "title": "The role of Sestrins in the regulation of the aging process.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Sestrin-mediated regulation of aging",
+          "key_concepts": [
+            {
+              "concept": "Stress response and antioxidant function",
+              "description": "Sestrins are a conserved family of proteins that respond to cellular stress by exerting antioxidant effects, thereby protecting cells from damage caused by oxidative stress, which is a key contributor to aging."
+            },
+            {
+              "concept": "Regulation of autophagy",
+              "description": "Sestrins regulate autophagy, a cellular degradation and recycling process that maintains cellular homeostasis and removes damaged components, which is crucial for delaying aging and promoting longevity."
+            },
+            {
+              "concept": "Metabolic homeostasis and nutritional sensing",
+              "description": "Sestrins influence metabolic pathways and nutritional sensing mechanisms, helping to maintain metabolic balance, which affects lifespan and health span by modulating energy use and stress resistance."
+            },
+            {
+              "concept": "Immunity modulation",
+              "description": "Sestrins play a role in regulating immune functions, which can impact aging by influencing inflammation and immune system decline associated with age."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "review, discuss",
+          "evidence": "Summarizes a series of studies demonstrating Sestrins' involvement in aging-related processes such as nutritional perception, metabolism, immunity, autophagy, lifespan, and health span; evolutionary conservation supports their fundamental role.",
+          "criteria_reasoning": "Meets all criteria: the theory proposes a generalizable, causal mechanism by which Sestrins regulate fundamental aging processes across organisms, addressing broad aging phenomena beyond specific diseases or organs.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:09:02.322849"
+    },
+    {
+      "doi": "10.1016/j.cmet.2025.09.002",
+      "pmid": "41056945",
+      "title": "The energy resistance principle.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Energy Resistance Principle (ERP)",
+          "key_concepts": [
+            {
+              "concept": "Energy resistance (\u00e9R) as fundamental property",
+              "description": "Energy resistance is described as a fundamental property in biological systems that enables the transformation of energy, converting the potential energy from food-derived electrons into useful work necessary for sustaining life."
+            },
+            {
+              "concept": "Excess energy resistance causes aging and disease",
+              "description": "While energy resistance is essential for life, excess energy resistance leads to reductive and oxidative stress, heat generation, inflammation, molecular damage, and information loss, which are recognized hallmarks of aging and disease."
+            },
+            {
+              "concept": "Modulation of energy resistance influences health and aging",
+              "description": "Factors such as disease-causing stressors elevate energy resistance and circulating GDF15 levels, whereas restorative interventions like sleep and physical activity reduce energy resistance, promoting healing and influencing the aging process."
+            }
+          ],
+          "confidence_is_theory": "high",
+          "mode": "propose, discuss, test",
+          "evidence": "The abstract references conceptual arguments linking energy resistance to known hallmarks of aging and disease, mentions correlations with GDF15 levels, and suggests testability of the framework, though no specific experimental data are detailed in the abstract.",
+          "criteria_reasoning": "The ERP proposes a generalizable, causal mechanism explaining how bioenergetic transformations and their dysregulation drive aging at the organismal level. It addresses fundamental biological processes, links to systemic aging hallmarks, and offers a testable framework, thus meeting all core criteria for an aging theory.",
+          "paper_focus": 10
+        }
+      ],
+      "timestamp": "2025-10-19T18:09:04.033790"
+    }
+  ]
+}

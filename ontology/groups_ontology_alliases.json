@@ -1,0 +1,417 @@
+{
+  "TheoriesOfAging": {
+    "Evolutionary Theories of Aging": {
+      "Mutation-Driven Theories": [
+        {
+          "name": "Mutation Accumulation Theory",
+          "aliases": [
+            "Mutation Accumulation Hypothesis",
+            "Deleterious Mutations Theory",
+            "Late-acting Mutation Theory",
+            "Medawar's Theory"
+          ],
+          "abbreviations": ["MA"]
+        },
+        {
+          "name": "Error Catastrophe Theory",
+          "aliases": [
+            "Error Accumulation Theory",
+            "Orgel's Theory",
+            "Catastrophic Error Hypothesis",
+            "Protein error catastrophe theory",
+            "Orgel's theory for cellular aging"
+          ]
+        }
+      ],
+      "Programmed Evolutionary Theories": [
+        {
+          "name": "Antagonistic Pleiotropy Theory",
+          "aliases": [
+            "Antagonistic Pleiotropy Hypothesis",
+            "Williams' Theory",
+            "Williams' Antagonistic Pleiotropy Hypothesis",
+            "AP Theory",
+            "George Williams' antagonistic pleiotropy theory"
+          ],
+          "abbreviations":["AP", "APT"]
+        },
+        {
+          "name": "Phenoptosis Theory",
+          "aliases": [
+            "Programmed Death Theory",
+            "Genetically Programmed Organismal Death",
+            "Age-induced phenoptosis",
+            "Chronic phenoptosis"
+          ]
+        },
+        {
+          "name": "Aging as a Spandrel Theory",
+          "aliases": [
+            "Spandrel Theory of Aging"
+          ]
+        },
+        {
+          "name": "Hyperfunction Theory",
+          "aliases": [
+            "Quasi-programmed Aging Theory",
+            "Hyperfunction Aging Model",
+            "Blagosklonny's Hyperfunction Theory",
+            "Blagosklonny's Theory",
+            "Cellular hyperfunctionality"
+          ]
+        }
+      ],
+      "Resource Allocation Theories": [
+        {
+          "name": "Disposable Soma Theory",
+          "aliases": [
+            "Disposable Soma Hypothesis",
+            "Somatic Maintenance Trade-off Theory",
+            "Kirkwood's disposable soma theory"
+          ],
+          "abbreviations":[ "DST", "DS", "DSH"]
+        },
+        {
+          "name": "Evolvable Soma Theory",
+          "aliases": [
+            "Adaptive Soma Theory",
+            "Evolutionary Soma Theory"
+          ],
+          "abbreviations":[ "EST", "ES"]
+        },
+        {
+          "name": "Intergenerational Transfers Theory",
+          "aliases": [  "Intergenerational Transfers Hypothesis"
+          ]
+        },
+        {
+          "name": "Danaid Theory",
+          "aliases": [
+            "Danaid Aging Hypothesis"
+          ]
+        }
+      ],
+      "Pathogen-Driven Theories": [
+        {
+          "name": "Pathogen Control Theory",
+          "aliases": [
+            "Pathogen Defense Theory",
+            "Infection-driven Aging Theory",
+            "Pathogen control hypothesis"
+          ]
+        }
+      ]
+    },
+    "Molecular and Cellular Damage Theories": {
+      "Damage Accumulation Theories": [
+        {
+          "name": "Wear and Tear Theory",
+          "aliases": [
+            "Wear-and-Tear Hypothesis",
+            "Mechanical Damage Theory",
+            "Fundamental limitations theory"
+          ]
+        },
+        {
+          "name": "Waste Accumulation Theory",
+          "aliases": [
+            "Toxic Waste Theory",
+            "Cellular Waste Accumulation Hypothesis"
+          ]
+        }
+      ],
+      "Cellular Senescence Theories": [
+        {
+          "name": "Telomere Theory",
+          "aliases": [
+            "Telomere Shortening Theory",
+            "Telomere Attrition Theory",
+            "Telomere hypothesis of aging",
+            "Telomere Loss Theory"
+          ]
+        },
+        {
+        "name": "Cellular Senescence Theory",
+        "aliases": [
+          "Cellular Senescence Theory of Aging",
+          "Cellular Senescence Theory of Ageing",
+          "Cellular senescence theory",
+          "Senescent Cell Theory"
+        ],
+        "abbreviations": ["CST"]
+      },
+        {
+          "name": "Stem Cell Exhaustion Theory",
+          "aliases": [
+            "Stem Cell Senescence Theory",
+            "Stem Cell Decline Hypothesis"
+          ]
+        }
+      ],
+      "Protein and DNA Damage Theories": [
+        {
+          "name": "Oxidative Stress Theory",
+          "aliases": [
+            "Oxidative Damage Theory",
+            "ROS Theory",
+            "Oxidative damage theory of aging"
+          ],
+          "abbreviations": ["OST", "OS"]
+        },
+        {
+          "name": "Free Radical Theory",
+          "aliases": [
+            "Free Radical Aging Theory",
+            "Harman’s Theory",
+            "Free Radical Damage Theory"
+          ],
+          "abbreviations": ["FRT", "FRTA"]
+        },
+        {
+          "name": "Somatic DNA Damage Theory",
+          "aliases": [
+            "DNA Damage Accumulation Theory"
+          ]
+        },
+        {
+          "name": "Cross-Linking Theory",
+          "aliases": [
+            "Crosslink Theory",
+            "Maillard Reaction Theory",
+            "Glycosylation Theory of Aging",
+            "Glycosylation hypothesis",
+            "Cross-Linkage Theory",
+            "Molecular Cross-Linking Theory"
+          ]
+        },
+        {
+          "name": "Protein Damage Theory",
+          "aliases": [
+            "Protein Aging Theory",
+            "Loss of Proteostasis"
+          ]
+        },
+        {
+          "name": "Mitochondrial Decline Theory",
+          "aliases": [
+            "Mitochondrial Theory of Aging",
+            "Mitochondrial Dysfunction Theory",
+            "Mitochondrial free-radical theory of aging"
+          ],
+          "abbreviations": ["MDT", "MFRTA"]
+        },
+        {
+          "name": "Membrane Theory",
+          "aliases": [
+            "Membrane Hypothesis of Aging",
+            "Membrane Peroxidation Theory",
+            "Cell Membrane Theory of Senescence",
+            "Membrane Hypothesis of Aging"
+          ],
+          "abbreviations": ["MHA"]
+        }
+      ],
+      "Metabolic Byproduct Theories": [
+        {
+          "name": "Rate of Living Theory",
+          "aliases": [
+            "Rate-of-Living Hypothesis",
+            "Stress hypothesis",
+            "Pearl's Rate of Living Theory"
+          ],
+          "abbreviations": ["RLT"]
+        },
+        {
+          "name": "Energy Consumption Theory",
+          "aliases": [
+            "Caloric Burn Hypothesis"
+          ]
+        },
+        {
+          "name": "Thermodynamic Theory",
+          "aliases": [
+            "Entropy Theory of Aging"
+          ]
+        },
+        {
+          "name": "Dissipation Theory",
+          "aliases": [
+            "Dissipative Structures Theory"
+          ]
+        },
+        {
+          "name": "Deprivation-Syndrome Theory",
+          "aliases": [
+            "Resource Deprivation Theory"
+          ]
+        }
+      ]
+    },
+    "Genetic/Programmed Theories": {
+      "Genetic Regulation Theories": [
+        {
+          "name": "Programmed Longevity Theory",
+          "aliases": [
+            "Programmed Aging Theory",
+            "Genetic Program Theory",
+            "Programmed ageing",
+            "Genetically programmed ageing",
+            "Theory of programmed death"
+          ]
+        },
+        {
+          "name": "Neuroendocrine Theory",
+          "aliases": [
+            "Neuroendocrine Control Theory",
+            "Neuroendocrine Hypothesis",
+            "Neuroendocrine Control or Pacemaker Theory",
+            "Neuro-endocrine theory"
+          ]
+        },
+        {
+          "name": "Immunological Theory",
+          "aliases": [
+            "Immune System Aging Theory",
+            "Immunosenescence Hypothesis",
+            "Autoimmune Theory",
+            "Immunologic theory of aging",
+            "Immunosenescence"
+          ]
+        },
+        {
+          "name": "Codon Restriction Theory",
+          "aliases": [
+            "Codon Limitation Theory"
+          ]
+        },
+        {
+          "name": "Developmental Theory",
+          "aliases": [
+            "Developmental Clock Theory",
+            "Aging as a Developmental Process",
+            "Developmental theory of aging"
+          ],
+          "abbreviations": ["DTA"]
+        }
+      ],
+      "Epigenetic Theories": [
+        {
+          "name": "Epigenetic Damage Theory",
+          "aliases": [
+            "Epigenetic Instability Theory"
+          ]
+        },
+        {
+          "name": "Epigenetic Drift Theory",
+          "aliases": [
+            "Epigenetic Variation Theory",
+            "Age-associated epigenetic drift"
+          ]
+        },
+        {
+          "name": "Epigenetic Aging Clock Theory",
+          "aliases": [
+            "Epigenetic Clock Theory",
+            "DNA Methylation Clock Theory",
+            "Epigenetic Aging Clock's Theory"
+          ]
+        },
+        {
+          "name": "Loss of Morphostatic Information Theory",
+          "aliases": [
+            "Morphostasis Theory"
+          ]
+        }
+      ],
+      "Information-Based Theories": [
+        {
+          "name": "Information Theory",
+          "aliases": [
+            "Information Loss Theory",
+            "Biological Information Theory of Aging",
+            "Sinclair's Information Theory of Aging",
+            "Sinclair's Theory of Aging"
+          ]
+        },
+        {
+          "name": "Dysdifferentiation Theory",
+          "aliases": [
+            "Dysdifferentiation Hypothesis",
+            "Dysdifferentiation hypothesis of aging and cance"
+          ],
+          "abbreviations": ["DHAC"]
+        }
+      ]
+    },
+    "Systemic/Integrative Theories": {
+      "Physiological Regulation Theories": [
+        {
+          "name": "Hallmarks of Aging",
+          "aliases": [
+            "Hallmarks Framework",
+            "Hallmarks Model of Aging"
+          ],
+          "abbreviations": ["HoA"]
+        }
+      ]
+    },
+    "Sociological and Psychological Theories": {
+      "Social Role Theories": [
+        {
+          "name": "Activity Theory",
+          "aliases": [
+            "Social Activity Theory",
+            "Normal theory of aging",
+            "Lay theory of aging"
+          ]
+        },
+        {
+          "name": "Disengagement Theory",
+          "aliases": [
+            "Social Disengagement Theory",
+            "Disengagement theory of ageing"
+          ]
+        },
+        {
+          "name": "Continuity Theory",
+          "aliases": [
+            "Continuity Hypothesis",
+            "Continuity theory of normal aging"
+          ]
+        }
+      ],
+      "Cultural/Structural Theories": [
+        {
+          "name": "Modernization Theory",
+          "aliases": [
+            "Social Modernization Theory"
+          ]
+        },
+        {
+          "name": "Age Stratification Theory",
+          "aliases": [
+            "Social Stratification by Age",
+            "Aging and society perspective"
+          ]
+        },
+        {
+          "name": "Subculture Theory",
+          "aliases": [
+            "Aging Subculture Theory"
+          ]
+        }
+      ]
+    },
+    "Philosophical/Classical Theories": {
+      "Ancient and Foundational Theories": [
+        {
+          "name": "Aristotle's Theory of Aging",
+          "aliases": [
+            "Aristotelian Aging Theory",
+            "Aristotle’s View on Aging"
+          ]
+        }
+      ]
+    }
+  }
+}

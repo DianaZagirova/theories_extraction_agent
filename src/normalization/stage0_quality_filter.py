@@ -65,7 +65,9 @@ class QualityFilter:
             'low_confidence': 0,
             'medium_validated': 0,
             'medium_rejected': 0,
-            'total_output': 0
+            'total_output': 0,
+            'from_fulltext': 0,
+            'from_abstract_only': 0
         }
     
     def load_theories(self, json_path: str) -> List[Theory]:
@@ -90,7 +92,7 @@ class QualityFilter:
                     key_concepts=theory_data.get('key_concepts', []),
                     description=theory_data.get('description', ''),
                     evidence=theory_data.get('evidence', ''),
-                    confidence_is_theory=theory_data.get('confidence_is_theory', 'unknown'),
+                    confidence_is_theory=self._normalize_confidence(theory_data.get('confidence_is_theory', 'unknown')),
                     mode=theory_data.get('mode', ''),
                     criteria_reasoning=theory_data.get('criteria_reasoning', ''),
                     paper_focus=theory_data.get('paper_focus', 0),
@@ -103,6 +105,163 @@ class QualityFilter:
         
         self.stats['total_input'] = len(theories)
         print(f"✓ Loaded {len(theories)} theories from {len(data.get('results', []))} papers")
+        
+        return theories
+
+    def _normalize_confidence(self, val) -> str:
+        """
+        Map various confidence labels to one of {'high','medium','low','unknown'}.
+        
+        Handles complex LLM outputs like:
+        - 'high (established theory)'
+        - 'medium-high'
+        - 'high (as a known theory, but low focus here)'
+        - 'low to medium'
+        
+        Strategy:
+        1. Extract the primary confidence level (before parentheses/qualifiers)
+        2. Handle compound levels (medium-high, low-medium)
+        3. Ignore context qualifiers in parentheses
+        """
+        if val is None:
+            return 'unknown'
+        
+        s = str(val).strip().lower()
+        if not s:
+            return 'unknown'
+        
+        # Direct matches (fast path)
+        if s in {'high', 'medium', 'low', 'unknown'}:
+            return s
+        
+        # Extract primary confidence before parentheses
+        # e.g., "high (established theory)" -> "high"
+        if '(' in s:
+            primary = s.split('(')[0].strip()
+            if primary in {'high', 'medium', 'low'}:
+                return primary
+        
+        # Handle compound levels (hyphenated or "to")
+        # Priority: If contains both levels, take the higher one
+        # medium-high, high-medium -> high
+        # low-medium, medium-low -> medium
+        # low-high -> medium (rare, but conservative)
+        
+        has_high = 'high' in s
+        has_medium = 'medium' in s
+        has_low = 'low' in s
+        
+        # Count how many confidence levels are mentioned
+        count = sum([has_high, has_medium, has_low])
+        
+        if count >= 2:
+            # Multiple levels mentioned - use priority
+            if has_high and has_medium:
+                return 'medium'  # medium-high -> high
+            if has_medium and has_low:
+                return 'low'  # low-medium -> medium
+            if has_high and has_low:
+                return 'low'  # low-high -> medium (conservative)
+        
+        # Single level with qualifiers
+        if has_high:
+            return 'high'
+        if has_medium:
+            return 'medium'
+        if has_low:
+            return 'low'
+        
+        # Special cases
+        if 'very high' in s or 'extremely high' in s or 'classical' in s or 'established' in s:
+            return 'high'
+        if 'very low' in s or 'extremely low' in s:
+            return 'low'
+        
+        # Fallback: unknown
+        return 'unknown'
+    
+    def load_and_combine_theories(self, abstract_json: str, fulltext_json: str) -> List[Theory]:
+        """
+        Load and combine theories from both abstract and full-text files.
+        Prioritizes full-text data when DOI exists in both files.
+        
+        Args:
+            abstract_json: Path to theories_abstract_per_paper.json
+            fulltext_json: Path to theories_per_paper.json
+        
+        Returns:
+            Combined list of theories with full-text prioritized
+        """
+        print("\n📂 Loading and combining theories from both sources...")
+        
+        # Load full-text theories
+        print(f"\n1️⃣  Loading full-text theories from {fulltext_json}...")
+        with open(fulltext_json, 'r') as f:
+            fulltext_data = json.load(f)
+        
+        # Load abstract theories
+        print(f"2️⃣  Loading abstract theories from {abstract_json}...")
+        with open(abstract_json, 'r') as f:
+            abstract_data = json.load(f)
+        
+        # Build DOI sets for tracking
+        fulltext_dois = {paper['doi'] for paper in fulltext_data.get('results', []) 
+                        if paper.get('theories')}
+        
+        print(f"\n📊 Source statistics:")
+        print(f"   Full-text papers with theories: {len(fulltext_dois)}")
+        
+        abstract_papers = [p for p in abstract_data.get('results', []) if p.get('theories')]
+        print(f"   Abstract papers with theories: {len(abstract_papers)}")
+        
+        # Combine papers: full-text first, then abstracts not in full-text
+        combined_papers = []
+        
+        # Add all full-text papers
+        combined_papers.extend(fulltext_data.get('results', []))
+        
+        # Add abstract papers only if DOI not in full-text
+        abstract_only_count = 0
+        for paper in abstract_data.get('results', []):
+            if paper.get('doi') not in fulltext_dois:
+                combined_papers.append(paper)
+                if paper.get('theories'):
+                    abstract_only_count += 1
+        
+        print(f"\n✓ Combined papers:")
+        print(f"   From full-text: {len(fulltext_dois)}")
+        print(f"   From abstract only: {abstract_only_count}")
+        print(f"   Total papers with theories: {len(fulltext_dois) + abstract_only_count}")
+        
+        # Convert to Theory objects
+        theories = []
+        theory_counter = 0
+        
+        for paper in combined_papers:
+            if not paper.get('theories'):
+                continue
+            
+            for theory_data in paper['theories']:
+                theory_counter += 1
+                theory = Theory(
+                    theory_id=f"T{theory_counter:06d}",
+                    name=theory_data.get('name', ''),
+                    key_concepts=theory_data.get('key_concepts', []),
+                    description=theory_data.get('description', ''),
+                    evidence=theory_data.get('evidence', ''),
+                    confidence_is_theory=self._normalize_confidence(theory_data.get('confidence_is_theory', 'unknown')),
+                    mode=theory_data.get('mode', ''),
+                    criteria_reasoning=theory_data.get('criteria_reasoning', ''),
+                    paper_focus=theory_data.get('paper_focus', 0),
+                    doi=paper.get('doi', ''),
+                    pmid=paper.get('pmid', ''),
+                    paper_title=paper.get('title', ''),
+                    timestamp=paper.get('timestamp', '')
+                )
+                theories.append(theory)
+        
+        self.stats['total_input'] = len(theories)
+        print(f"\n✓ Total theories loaded: {len(theories)}")
         
         return theories
     
@@ -344,6 +503,21 @@ Return STRICTLY a single-line JSON object with keys:
 def main():
     """Run Stage 0 quality filtering."""
     from src.core.llm_integration import AzureOpenAIClient
+    import argparse
+    
+    # Parse arguments
+    parser = argparse.ArgumentParser(description='Stage 0: Quality Filtering')
+    parser.add_argument('--abstract-json', type=str, default='theories_abstract_per_paper.json',
+                       help='Path to abstract theories JSON')
+    parser.add_argument('--fulltext-json', type=str, default='theories_per_paper.json',
+                       help='Path to full-text theories JSON')
+    parser.add_argument('--single-file', type=str, default=None,
+                       help='Use single file instead of combining (overrides --abstract-json and --fulltext-json)')
+    parser.add_argument('--output', type=str, default='output/stage0_filtered_theories.json',
+                       help='Output path for filtered theories')
+    parser.add_argument('--validate-medium', action='store_true',
+                       help='Enable LLM validation for medium confidence theories')
+    args = parser.parse_args()
     
     # Initialize
     print("🚀 Starting Stage 0: Quality Filtering\n")
@@ -360,23 +534,30 @@ def main():
     # Initialize filter
     filter_engine = QualityFilter(llm_client=llm_client)
     
-    # Load theories
-    theories = filter_engine.load_theories('theories_per_paper.json')
+    # Load theories (combined or single file)
+    if args.single_file:
+        print(f"📂 Using single file: {args.single_file}")
+        theories = filter_engine.load_theories(args.single_file)
+    else:
+        print(f"📂 Combining theories from:")
+        print(f"   Abstract: {args.abstract_json}")
+        print(f"   Full-text: {args.fulltext_json}")
+        theories = filter_engine.load_and_combine_theories(
+            args.abstract_json,
+            args.fulltext_json
+        )
     
     # Filter by confidence
     filtered = filter_engine.filter_by_confidence(
         theories, 
-        validate_medium=False  # Set to True to enable LLM validation
+        validate_medium=args.validate_medium
     )
     
     # Enrich with concept data
     enriched = filter_engine.enrich_theories(filtered)
     
     # Save results
-    filter_engine.save_filtered_theories(
-        enriched, 
-        'output/stage0_filtered_theories.json'
-    )
+    filter_engine.save_filtered_theories(enriched, args.output)
     
     # Print statistics
     filter_engine.print_statistics()

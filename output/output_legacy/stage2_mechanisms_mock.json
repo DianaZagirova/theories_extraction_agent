@@ -1,0 +1,1314 @@
+{
+  "metadata": {
+    "stage": "stage2_mechanism_extraction",
+    "note": "MOCK DATA FOR TESTING",
+    "statistics": {
+      "total_theories": 50,
+      "successful_extractions": 50,
+      "failed_extractions": 0,
+      "avg_confidence": 0.85
+    }
+  },
+  "mechanisms": [
+    {
+      "theory_id": "T000001",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "pathways": [
+        "mTOR",
+        "insulin/IGF-1"
+      ],
+      "molecules": [
+        "mTOR",
+        "S6K"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000002",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "pathways": [
+        "p53",
+        "ATM"
+      ],
+      "molecules": [
+        "telomerase",
+        "p53"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000003",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory"
+      ],
+      "specific_mechanisms": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000005",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "pathways": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "molecules": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000006",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "pathways": [
+        "NF-kB",
+        "IL-6"
+      ],
+      "molecules": [
+        "NF-kB",
+        "IL-6",
+        "TNF-alpha"
+      ],
+      "biological_level": "Organism",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000007",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "pathways": [
+        "mTOR",
+        "insulin/IGF-1"
+      ],
+      "molecules": [
+        "mTOR",
+        "S6K"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000008",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "pathways": [
+        "p53",
+        "ATM"
+      ],
+      "molecules": [
+        "telomerase",
+        "p53"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000010",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory"
+      ],
+      "specific_mechanisms": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000012",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "pathways": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "molecules": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000013",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "pathways": [
+        "NF-kB",
+        "IL-6"
+      ],
+      "molecules": [
+        "NF-kB",
+        "IL-6",
+        "TNF-alpha"
+      ],
+      "biological_level": "Organism",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000016",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "pathways": [
+        "mTOR",
+        "insulin/IGF-1"
+      ],
+      "molecules": [
+        "mTOR",
+        "S6K"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000017",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "pathways": [
+        "p53",
+        "ATM"
+      ],
+      "molecules": [
+        "telomerase",
+        "p53"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000018",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory"
+      ],
+      "specific_mechanisms": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000019",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "pathways": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "molecules": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000021",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "pathways": [
+        "NF-kB",
+        "IL-6"
+      ],
+      "molecules": [
+        "NF-kB",
+        "IL-6",
+        "TNF-alpha"
+      ],
+      "biological_level": "Organism",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000022",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "pathways": [
+        "mTOR",
+        "insulin/IGF-1"
+      ],
+      "molecules": [
+        "mTOR",
+        "S6K"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000025",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "pathways": [
+        "p53",
+        "ATM"
+      ],
+      "molecules": [
+        "telomerase",
+        "p53"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000026",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory"
+      ],
+      "specific_mechanisms": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000027",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "pathways": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "molecules": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000028",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "pathways": [
+        "NF-kB",
+        "IL-6"
+      ],
+      "molecules": [
+        "NF-kB",
+        "IL-6",
+        "TNF-alpha"
+      ],
+      "biological_level": "Organism",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000029",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "pathways": [
+        "mTOR",
+        "insulin/IGF-1"
+      ],
+      "molecules": [
+        "mTOR",
+        "S6K"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000030",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "pathways": [
+        "p53",
+        "ATM"
+      ],
+      "molecules": [
+        "telomerase",
+        "p53"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000031",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory"
+      ],
+      "specific_mechanisms": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000032",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "pathways": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "molecules": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000033",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "pathways": [
+        "NF-kB",
+        "IL-6"
+      ],
+      "molecules": [
+        "NF-kB",
+        "IL-6",
+        "TNF-alpha"
+      ],
+      "biological_level": "Organism",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000034",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "pathways": [
+        "mTOR",
+        "insulin/IGF-1"
+      ],
+      "molecules": [
+        "mTOR",
+        "S6K"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000035",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "pathways": [
+        "p53",
+        "ATM"
+      ],
+      "molecules": [
+        "telomerase",
+        "p53"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000036",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory"
+      ],
+      "specific_mechanisms": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000037",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "pathways": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "molecules": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000038",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "pathways": [
+        "NF-kB",
+        "IL-6"
+      ],
+      "molecules": [
+        "NF-kB",
+        "IL-6",
+        "TNF-alpha"
+      ],
+      "biological_level": "Organism",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000039",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "pathways": [
+        "mTOR",
+        "insulin/IGF-1"
+      ],
+      "molecules": [
+        "mTOR",
+        "S6K"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000040",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "pathways": [
+        "p53",
+        "ATM"
+      ],
+      "molecules": [
+        "telomerase",
+        "p53"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000041",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory"
+      ],
+      "specific_mechanisms": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000042",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "pathways": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "molecules": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000043",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "pathways": [
+        "NF-kB",
+        "IL-6"
+      ],
+      "molecules": [
+        "NF-kB",
+        "IL-6",
+        "TNF-alpha"
+      ],
+      "biological_level": "Organism",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000044",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "pathways": [
+        "mTOR",
+        "insulin/IGF-1"
+      ],
+      "molecules": [
+        "mTOR",
+        "S6K"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000045",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "pathways": [
+        "p53",
+        "ATM"
+      ],
+      "molecules": [
+        "telomerase",
+        "p53"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000046",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory"
+      ],
+      "specific_mechanisms": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000047",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "pathways": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "molecules": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000048",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "pathways": [
+        "NF-kB",
+        "IL-6"
+      ],
+      "molecules": [
+        "NF-kB",
+        "IL-6",
+        "TNF-alpha"
+      ],
+      "biological_level": "Organism",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000049",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "pathways": [
+        "mTOR",
+        "insulin/IGF-1"
+      ],
+      "molecules": [
+        "mTOR",
+        "S6K"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000051",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "pathways": [
+        "p53",
+        "ATM"
+      ],
+      "molecules": [
+        "telomerase",
+        "p53"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000052",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory"
+      ],
+      "specific_mechanisms": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000054",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "pathways": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "molecules": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000055",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "pathways": [
+        "NF-kB",
+        "IL-6"
+      ],
+      "molecules": [
+        "NF-kB",
+        "IL-6",
+        "TNF-alpha"
+      ],
+      "biological_level": "Organism",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000056",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Metabolic Dysregulation"
+      ],
+      "specific_mechanisms": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "pathways": [
+        "mTOR",
+        "insulin/IGF-1"
+      ],
+      "molecules": [
+        "mTOR",
+        "S6K"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Hyperfunction",
+      "key_concepts": [
+        "Nutrient sensing",
+        "mTOR signaling"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000057",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "DNA Damage"
+      ],
+      "specific_mechanisms": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "pathways": [
+        "p53",
+        "ATM"
+      ],
+      "molecules": [
+        "telomerase",
+        "p53"
+      ],
+      "biological_level": "Molecular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "Telomere shortening",
+        "Oxidative damage"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000058",
+      "primary_category": "Evolutionary",
+      "secondary_categories": [
+        "Life History Theory"
+      ],
+      "specific_mechanisms": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "pathways": [],
+      "molecules": [],
+      "biological_level": "Organism",
+      "mechanism_type": "Developmental",
+      "key_concepts": [
+        "Natural selection",
+        "Trade-offs"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000059",
+      "primary_category": "Molecular/Cellular",
+      "secondary_categories": [
+        "Mitochondrial Dysfunction"
+      ],
+      "specific_mechanisms": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "pathways": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "molecules": [
+        "PGC-1alpha",
+        "AMPK"
+      ],
+      "biological_level": "Cellular",
+      "mechanism_type": "Damage",
+      "key_concepts": [
+        "ROS production",
+        "Mitochondrial biogenesis"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    },
+    {
+      "theory_id": "T000060",
+      "primary_category": "Systemic",
+      "secondary_categories": [
+        "Inflammation"
+      ],
+      "specific_mechanisms": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "pathways": [
+        "NF-kB",
+        "IL-6"
+      ],
+      "molecules": [
+        "NF-kB",
+        "IL-6",
+        "TNF-alpha"
+      ],
+      "biological_level": "Organism",
+      "mechanism_type": "Dysregulation",
+      "key_concepts": [
+        "Inflammaging",
+        "Cytokine production"
+      ],
+      "confidence": 0.85,
+      "reasoning": "Mock mechanism for testing"
+    }
+  ]
+}
