@@ -1,0 +1,188 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 23,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+        "theory_ids": [
+          "T016244",
+          "T016404",
+          "T016462",
+          "T016435",
+          "T016429",
+          "T016212",
+          "T016389",
+          "T016243",
+          "T016231",
+          "T016521",
+          "T016255",
+          "T016139",
+          "T016187"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS Production and Signaling Theory",
+        "theory_ids": [
+          "T016285",
+          "T016393"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Proteostasis and UPRmt Activation Theory",
+        "theory_ids": [
+          "T016329",
+          "T016398",
+          "T016320",
+          "T016372"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitochondrial Calcium Handling and Muscle Aging Theory",
+        "theory_ids": [
+          "T016273",
+          "T016514"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016244",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Focuses on mtDNA mutation accumulation, respiratory chain decline, and ROS-induced mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T016404",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Emphasizes mtDNA oxidative damage accumulation and ATP decline in aging muscle, linking mtDNA damage to mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T016462",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Describes mtDNA rearrangements causing senescence and links respiratory function and ROS to mitochondrial genome instability."
+        },
+        {
+          "theory_id": "T016435",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Connects mitochondrial dysfunction, copper homeostasis, mtDNA rearrangements, and ROS in aging of Podospora anserina."
+        },
+        {
+          "theory_id": "T016429",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Focuses on mtDNA reorganization, ROS balance, mitochondrial-nuclear signaling, and repair pathways affecting aging."
+        },
+        {
+          "theory_id": "T016212",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Centers on mtDNA mutations and rearrangements accumulating with age causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T016389",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Highlights ROS production causing mtDNA mutations and mitochondrial dysfunction leading to aging phenotypes."
+        },
+        {
+          "theory_id": "T016243",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Links mitochondrial ROS production at complexes I and III to mtDNA oxidative damage accumulation and aging."
+        },
+        {
+          "theory_id": "T016231",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Describes mitochondrial dysfunction increasing ROS, causing oxidative damage and mitochondrial impairment in aging."
+        },
+        {
+          "theory_id": "T016521",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS as primary aging drivers causing oxidative damage and senescence."
+        },
+        {
+          "theory_id": "T016255",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Details mitochondria as ROS sources causing oxidative damage and mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T016139",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production causing mtDNA damage and the role of mitophagy in aging."
+        },
+        {
+          "theory_id": "T016187",
+          "subcluster_name": "Mitochondrial DNA Instability and ROS Damage Theory",
+          "reasoning": "General mitochondrial dysfunction and oxidative damage accumulation causing systemic aging and inflammation."
+        },
+        {
+          "theory_id": "T016374",
+          "subcluster_name": "Mitochondrial ROS Production and Complex I Modulation Theory",
+          "reasoning": "Focuses on complex I content modulating mitochondrial ROS production and lifespan differences across species."
+        },
+        {
+          "theory_id": "T016306",
+          "subcluster_name": "Mitochondrial ROS Signaling and H2O2 Sensing Theory",
+          "reasoning": "Describes mitochondrial H2O2 as a signaling molecule modulating adaptive stress responses and lifespan."
+        },
+        {
+          "theory_id": "T016285",
+          "subcluster_name": "Mitochondrial ROS Production and Signaling Theory",
+          "reasoning": "Explores dual role of mitochondrial ROS in damage and signaling, including hormesis and reverse electron transport."
+        },
+        {
+          "theory_id": "T016393",
+          "subcluster_name": "Mitochondrial ROS Production and Signaling Theory",
+          "reasoning": "Shows distinct mitochondrial dysfunction modes affecting ROS metabolism and lifespan via different mechanisms."
+        },
+        {
+          "theory_id": "T016329",
+          "subcluster_name": "Mitochondrial Proteostasis and UPRmt Activation Theory",
+          "reasoning": "Focuses on mitochondrial unfolded protein response (UPRmt) activation via chaperones improving healthspan."
+        },
+        {
+          "theory_id": "T016398",
+          "subcluster_name": "Mitochondrial Proteostasis and UPRmt Activation Theory",
+          "reasoning": "Describes mitochondrial stress in neurons triggering systemic signaling affecting organismal aging and healthspan."
+        },
+        {
+          "theory_id": "T016320",
+          "subcluster_name": "Mitochondrial Proteostasis and UPRmt Activation Theory",
+          "reasoning": "LCA-induced mitochondrial lipidome and proteome remodeling triggers mitochondria-to-nucleus signaling and anti-aging transcription."
+        },
+        {
+          "theory_id": "T016372",
+          "subcluster_name": "Mitochondrial Proteostasis and UPRmt Activation Theory",
+          "reasoning": "Lipid remodeling of mitochondrial membranes alters morphology and function, promoting longevity in yeast."
+        },
+        {
+          "theory_id": "T016502",
+          "subcluster_name": "Mitochondrial Biogenesis and Mitophagy Regulation Theory",
+          "reasoning": "PGC1\u03b1 fine-tuning balances mitochondrial biogenesis and mitophagy, critical for mitochondrial homeostasis and aging."
+        },
+        {
+          "theory_id": "T016273",
+          "subcluster_name": "Mitochondrial Calcium Handling and Muscle Aging Theory",
+          "reasoning": "Focuses on age-related decline in mitochondrial calcium retention and mPTP sensitivity driving muscle aging."
+        },
+        {
+          "theory_id": "T016514",
+          "subcluster_name": "Mitochondrial Calcium Handling and Muscle Aging Theory",
+          "reasoning": "Links mitochondrial ROS, calcium dysregulation, and mitochondrial dysfunction to muscle atrophy and aging."
+        },
+        {
+          "theory_id": "T016286",
+          "subcluster_name": "Mitochondrial ROS Production and Metabolic Rate Theory",
+          "reasoning": "Connects mitochondrial free radical generation, metabolic rate, and damage accumulation to aging and lifespan."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:47:56"
+}

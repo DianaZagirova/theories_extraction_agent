@@ -1,0 +1,204 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 19,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+        "theory_ids": [
+          "T017142",
+          "T017156",
+          "T016571",
+          "T016509",
+          "T016565",
+          "T017040",
+          "T016577",
+          "T016981",
+          "T017172",
+          "T017128"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Senescence via ROS and DNA Damage",
+        "theory_ids": [
+          "T017247",
+          "T016515",
+          "T016485",
+          "T016961",
+          "T016829",
+          "T016645",
+          "T016831"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype and Therapeutic Targeting",
+        "theory_ids": [
+          "T016764",
+          "T016813",
+          "T016567",
+          "T016724",
+          "T016478"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Metabolic Regulation of Cellular Senescence by Dietary Factors",
+        "theory_ids": [
+          "T016715",
+          "T016774",
+          "T016537",
+          "T014204",
+          "T017004"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T017142",
+          "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+          "reasoning": "Focuses on cellular senescence as a tumor suppressor mechanism that accumulates and drives aging and age-related diseases."
+        },
+        {
+          "theory_id": "T017156",
+          "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+          "reasoning": "Describes senescence induced by telomere shortening and DNA damage activating tumor suppressor pathways leading to aging and vascular disease."
+        },
+        {
+          "theory_id": "T016571",
+          "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+          "reasoning": "Explores the trade-off between tumor suppression via apoptosis and senescence and aging acceleration due to tissue depletion."
+        },
+        {
+          "theory_id": "T016509",
+          "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+          "reasoning": "Details FOXO-mediated oncogene-induced senescence as a tumor suppressive mechanism linking ROS signaling to senescence and aging."
+        },
+        {
+          "theory_id": "T016565",
+          "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+          "reasoning": "Focuses on apoptosis and growth signaling trade-offs balancing cancer risk and aging, linked to senescence pathways."
+        },
+        {
+          "theory_id": "T017040",
+          "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+          "reasoning": "Describes senescence in stem cell niches preventing mutant cell proliferation and cancer, linking senescence to aging and cancer risk."
+        },
+        {
+          "theory_id": "T016577",
+          "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+          "reasoning": "Focuses on p53-mediated tumor suppression inducing senescence/apoptosis with trade-offs affecting longevity and aging."
+        },
+        {
+          "theory_id": "T016981",
+          "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+          "reasoning": "Explains dual roles of senescence in tumor suppression and carcinogenesis via oxidative DNA damage and telomere shortening."
+        },
+        {
+          "theory_id": "T017172",
+          "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+          "reasoning": "Links progeroid syndromes and normal aging through cellular senescence as a tumor suppressive and aging mechanism."
+        },
+        {
+          "theory_id": "T017128",
+          "subcluster_name": "Senescence as Tumor Suppression and Aging Driver",
+          "reasoning": "Focuses on Werner syndrome as a model of accelerated senescence driven by genomic instability and oxidative stress."
+        },
+        {
+          "theory_id": "T017247",
+          "subcluster_name": "Oxidative Stress-Induced Senescence via ROS and DNA Damage",
+          "reasoning": "Describes TSP1-induced endothelial senescence mediated by ROS generation and p53-p21cip-Rb DNA damage response pathway."
+        },
+        {
+          "theory_id": "T016515",
+          "subcluster_name": "Oxidative Stress-Induced Senescence via ROS and DNA Damage",
+          "reasoning": "Focuses on oxidative stress causing premature senescence via ROS accumulation and Nrf2 antioxidant defense pathways."
+        },
+        {
+          "theory_id": "T016485",
+          "subcluster_name": "Oxidative Stress-Induced Senescence via ROS and DNA Damage",
+          "reasoning": "Details TXNIP-AKT axis regulating glucose metabolism and ROS production leading to metabolic stress-induced senescence."
+        },
+        {
+          "theory_id": "T016961",
+          "subcluster_name": "Oxidative Stress-Induced Senescence via ROS and DNA Damage",
+          "reasoning": "Describes senescence in lung aging driven by telomere attrition, DNA damage, oxidative stress, and SASP-mediated inflammation."
+        },
+        {
+          "theory_id": "T016829",
+          "subcluster_name": "Oxidative Stress-Induced Senescence via ROS and DNA Damage",
+          "reasoning": "Focuses on S6K1 regulation of SASP and inflammaging through ROS and inflammatory signaling pathways."
+        },
+        {
+          "theory_id": "T016645",
+          "subcluster_name": "Oxidative Stress-Induced Senescence via ROS and DNA Damage",
+          "reasoning": "ATF7 suppresses senescence and SASP by epigenetic repression and reducing ROS, linking oxidative stress to senescence control."
+        },
+        {
+          "theory_id": "T016831",
+          "subcluster_name": "Oxidative Stress-Induced Senescence via ROS and DNA Damage",
+          "reasoning": "Describes impaired immune clearance of senescent cells due to aging-related anergy, with metabolic and inflammatory stress involvement."
+        },
+        {
+          "theory_id": "T016764",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Therapeutic Targeting",
+          "reasoning": "Focuses on SASP as a driver of aging and senotherapeutic approaches targeting senescent cells to alleviate age-related diseases."
+        },
+        {
+          "theory_id": "T016813",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Therapeutic Targeting",
+          "reasoning": "Describes senescent cell accumulation in endocrine organs, SASP effects, and senolytic interventions to improve aging outcomes."
+        },
+        {
+          "theory_id": "T016567",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Therapeutic Targeting",
+          "reasoning": "Highlights SASP secretion by senescent cells and senolytic drug interventions reducing systemic aging and tissue dysfunction."
+        },
+        {
+          "theory_id": "T016724",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Therapeutic Targeting",
+          "reasoning": "Focuses on senolytic drugs targeting senescent cells and pathways to extend lifespan and healthspan."
+        },
+        {
+          "theory_id": "T016478",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Therapeutic Targeting",
+          "reasoning": "Describes senescent cell burden causing aging phenotypes and senotherapeutics preventing senescence to extend healthspan."
+        },
+        {
+          "theory_id": "T016715",
+          "subcluster_name": "Metabolic Regulation of Cellular Senescence by Dietary Factors",
+          "reasoning": "Explores how dietary branched-chain amino acids modulate tissue-specific senescence and mitochondrial function affecting aging."
+        },
+        {
+          "theory_id": "T016774",
+          "subcluster_name": "Metabolic Regulation of Cellular Senescence by Dietary Factors",
+          "reasoning": "Reframes senescence as adaptive remodeling activation with beneficial early-life roles and pathogenic late-life hyperfunction."
+        },
+        {
+          "theory_id": "T016537",
+          "subcluster_name": "Metabolic Regulation of Cellular Senescence by Dietary Factors",
+          "reasoning": "Focuses on autophagy decline with age affecting cellular homeostasis, oxidative stress, and senescence-related aging."
+        },
+        {
+          "theory_id": "T014204",
+          "subcluster_name": "Metabolic Regulation of Cellular Senescence by Dietary Factors",
+          "reasoning": "Describes microglial senescence and immune exhaustion driven by oxidative damage and neuroinflammation in brain aging."
+        },
+        {
+          "theory_id": "T017004",
+          "subcluster_name": "Metabolic Regulation of Cellular Senescence by Dietary Factors",
+          "reasoning": "Details senescence in lung cells tipping balance toward apoptosis and chronic inflammation in COPD pathogenesis."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:10:04"
+}

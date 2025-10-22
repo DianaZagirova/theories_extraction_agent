@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 12,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Repair Capacity and Lifespan Correlation Theory",
+        "theory_ids": [
+          "T015652",
+          "T014363",
+          "T014263",
+          "T015390",
+          "T015460",
+          "T015845"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+        "theory_ids": [
+          "T014555",
+          "T014833",
+          "T015813",
+          "T016039",
+          "T014576",
+          "T014345",
+          "T015231",
+          "T015203",
+          "T014199"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Organ-Specific DNA Damage Accumulation and Repair Decline Theory",
+        "theory_ids": [
+          "T015619",
+          "T015811"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Molecular Damage Accumulation Theory",
+        "theory_ids": [
+          "T015383",
+          "T012595"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015652",
+          "subcluster_name": "DNA Repair Capacity and Lifespan Correlation Theory",
+          "reasoning": "Focuses on DNA repair efficiency, especially excision repair of UV damage, correlating with species lifespan and longevity."
+        },
+        {
+          "theory_id": "T014555",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Emphasizes accumulation of DNA damage, genomic instability, and decline in repair mechanisms as drivers of aging."
+        },
+        {
+          "theory_id": "T014833",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Highlights mutation accumulation due to ROS and improved genome maintenance under calorie restriction affecting aging."
+        },
+        {
+          "theory_id": "T015707",
+          "subcluster_name": "Transcription-Associated DNA Damage Theory",
+          "reasoning": "Focuses on DNA damage caused by transcription processes and its correlation with aging rate and metabolism."
+        },
+        {
+          "theory_id": "T015813",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Describes DNA damage accumulation, transcription stress, and genomic instability in DNA repair-deficient progeroid mice."
+        },
+        {
+          "theory_id": "T016039",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Shows ROS-induced DNA damage and compromised repair accelerating aging in yeast, linking genome instability to aging."
+        },
+        {
+          "theory_id": "T014363",
+          "subcluster_name": "DNA Repair Capacity and Lifespan Correlation Theory",
+          "reasoning": "Discusses accumulation of DNA damage and decline in repair capacity with age, linking repair efficiency to aging and cancer."
+        },
+        {
+          "theory_id": "T015903",
+          "subcluster_name": "Telomere-Associated DNA Damage and Senescence Theory",
+          "reasoning": "Focuses on DNA double strand breaks, telomere shortening as DNA damage, and DNA damage-induced cellular senescence."
+        },
+        {
+          "theory_id": "T015619",
+          "subcluster_name": "Organ-Specific DNA Damage Accumulation and Repair Decline Theory",
+          "reasoning": "Highlights organ-specific DNA damage accumulation and repair decline, especially in brain and heart as lifespan pacemakers."
+        },
+        {
+          "theory_id": "T014576",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Links persistent DNA damage, oxidative stress, and inflammation in obesity to accelerated aging via impaired repair."
+        },
+        {
+          "theory_id": "T014532",
+          "subcluster_name": "DNA Damage-Induced GH/IGF1 Suppression Theory",
+          "reasoning": "Describes DNA damage causing suppression of GH/IGF1 axis, metabolic adaptation, and links to progeroid and natural aging."
+        },
+        {
+          "theory_id": "T014373",
+          "subcluster_name": "DNA Damage-Driven Epigenetic Reorganization Theory",
+          "reasoning": "Focuses on DNA damage inducing epigenetic changes via chromatin modifier redistribution contributing to aging phenotypes."
+        },
+        {
+          "theory_id": "T014345",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Proposes accumulation of DNA strand breaks and decline in repair capacity as causes of cellular senescence and aging."
+        },
+        {
+          "theory_id": "T015231",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Emphasizes endogenous ROS-induced DNA damage accumulation and synergistic DNA repair pathways in lifespan extension."
+        },
+        {
+          "theory_id": "T014263",
+          "subcluster_name": "DNA Repair Capacity and Lifespan Correlation Theory",
+          "reasoning": "Highlights PARP1's role in DNA repair and genome maintenance linking DNA damage accumulation to aging and inflammation."
+        },
+        {
+          "theory_id": "T014928",
+          "subcluster_name": "rDNA Origin Activation and Replicative Lifespan Theory",
+          "reasoning": "Focuses on rDNA replication origin polymorphisms affecting replication dynamics and lifespan, modulated by calorie restriction."
+        },
+        {
+          "theory_id": "T015811",
+          "subcluster_name": "Organ-Specific DNA Damage Accumulation and Repair Decline Theory",
+          "reasoning": "Describes organ-specific DNA damage accumulation rates and repair capacity differences correlating with species lifespan."
+        },
+        {
+          "theory_id": "T015203",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Links DNA damage accumulation and repair decline to aging and age-related diseases, emphasizing fundamental aging mechanism."
+        },
+        {
+          "theory_id": "T015571",
+          "subcluster_name": "DNA Double Strand Break Recognition and Telomere Maintenance Theory",
+          "reasoning": "Focuses on enhanced DSB recognition proteins (Ku80/70, DNA-PKcs) correlating with longevity and telomere capping."
+        },
+        {
+          "theory_id": "T015383",
+          "subcluster_name": "Molecular Damage Accumulation Theory",
+          "reasoning": "Broadly addresses accumulation of diverse molecular damages including DNA, oxidative, and translational errors driving aging."
+        },
+        {
+          "theory_id": "T014199",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Discusses DNA damage accumulation, ROS sources, repair decline, and DNA damage as causal driver of cellular senescence."
+        },
+        {
+          "theory_id": "T015390",
+          "subcluster_name": "DNA Repair Capacity and Lifespan Correlation Theory",
+          "reasoning": "Highlights enhanced DNA damage response and repair mechanisms in long-lived species maintaining genome integrity."
+        },
+        {
+          "theory_id": "T015460",
+          "subcluster_name": "DNA Repair Capacity and Lifespan Correlation Theory",
+          "reasoning": "Shows correlation between excision repair capacity and species lifespan, supporting repair efficiency as aging determinant."
+        },
+        {
+          "theory_id": "T015845",
+          "subcluster_name": "DNA Repair Capacity and Lifespan Correlation Theory",
+          "reasoning": "Links excision repair capacity of UV damage and genetic factors (H-2 locus) to lifespan differences in mice strains."
+        },
+        {
+          "theory_id": "T015735",
+          "subcluster_name": "DNA Damage Response and Genomic Stability Theory",
+          "reasoning": "Focuses on 53BP1's role in DNA damage response, species differences in repair efficiency, and genomic stability linked to lifespan."
+        },
+        {
+          "theory_id": "T012595",
+          "subcluster_name": "Molecular Damage Accumulation Theory",
+          "reasoning": "Emphasizes irreversible oxidative damage to proteins and lipids, lipofuscin accumulation, and their causal role in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:45:02"
+}

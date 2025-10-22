@@ -1,0 +1,15 @@
+Transform this question into 2 declarative statements or passages might appear in a scientific paper's abstract, results, or discussion section. Try to use different wording but similar meaning in these 2 statements
+
+Question: {query}
+#for each query
+Rules:
+1. Convert from question format to declarative/descriptive format
+2. Use scientific terminology and formal academic language
+3. Make it sound like it's from a research paper (not a question)
+4. Keep it concise (2 sentences max per each statement)
+5. Include key scientific terms and concepts from the question
+6. Remove question marks and interrogative structure
+Example:
+Question: "Does it suggest an aging biomarker?"
+Transformed: "This study identifies and validates aging biomarkers associated with mortality and age-related physiological decline.", "..."
+Now transform the given question:

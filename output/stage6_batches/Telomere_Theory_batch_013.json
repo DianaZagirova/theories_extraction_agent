@@ -1,0 +1,211 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 13,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere Shortening and Stem Cell Dysfunction Theory",
+        "theory_ids": [
+          "T019680",
+          "T019389",
+          "T019570",
+          "T018985",
+          "T019001"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Stress-Accelerated Telomere Shortening Theory",
+        "theory_ids": [
+          "T019692",
+          "T019597",
+          "T019071",
+          "T018178"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Hayflick Limit and Immune Aging Theory",
+        "theory_ids": [
+          "T019077",
+          "T019225"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Shelterin Complex and Telomere Protection Theory",
+        "theory_ids": [
+          "T019157",
+          "T019501",
+          "T019434",
+          "T019691"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Telomere Dysfunction-Induced DNA Damage Response Theory",
+        "theory_ids": [
+          "T019525",
+          "T018948",
+          "T019574"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Telomere Dysfunction-Induced Senescence Theory",
+        "theory_ids": [
+          "T019058",
+          "T019628"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018943",
+          "subcluster_name": "Telomere-Mitochondrial Axis Theory",
+          "reasoning": "Focuses on telomere shortening inducing mitochondrial dysfunction via TP53 and SIRT1 pathways, linking telomere attrition to mitochondrial health and aging."
+        },
+        {
+          "theory_id": "T019680",
+          "subcluster_name": "Telomere Shortening and Stem Cell Dysfunction Theory",
+          "reasoning": "Emphasizes telomere shortening and telomerase deficiency impairing stem cell function and regenerative capacity, driving aging."
+        },
+        {
+          "theory_id": "T019692",
+          "subcluster_name": "Stress-Accelerated Telomere Shortening Theory",
+          "reasoning": "Describes how early life psychological stress accelerates telomere shortening, promoting premature cellular and systemic aging."
+        },
+        {
+          "theory_id": "T019597",
+          "subcluster_name": "Stress-Accelerated Telomere Shortening Theory",
+          "reasoning": "Focuses on chronic social stress accelerating telomere attrition and linking psychosocial stress to biological aging."
+        },
+        {
+          "theory_id": "T019389",
+          "subcluster_name": "Telomere Shortening and Stem Cell Dysfunction Theory",
+          "reasoning": "Details telomere shortening causing stem cell dysfunction, reduced tissue renewal, and aging phenotypes."
+        },
+        {
+          "theory_id": "T019077",
+          "subcluster_name": "Hayflick Limit and Immune Aging Theory",
+          "reasoning": "Centers on telomere shortening limiting T cell proliferation (Hayflick limit), causing immune senescence and loss of naive T-cell diversity."
+        },
+        {
+          "theory_id": "T019634",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Describes telomere shortening causing chromosomal instability, cellular senescence with SASP, oxidative stress, and apoptosis driving aging."
+        },
+        {
+          "theory_id": "T019237",
+          "subcluster_name": "Telomere Length Dynamics and Aging Theory",
+          "reasoning": "Focuses on telomere length synchrony across tissues, partitioning inherited length and attrition rate as determinants of aging and longevity."
+        },
+        {
+          "theory_id": "T019157",
+          "subcluster_name": "Shelterin Complex and Telomere Protection Theory",
+          "reasoning": "Highlights shelterin complex proteins regulating telomere protection, length, and DNA damage response activation influencing aging."
+        },
+        {
+          "theory_id": "T019501",
+          "subcluster_name": "Shelterin Complex and Telomere Protection Theory",
+          "reasoning": "Focuses on telomere shortening causing dysfunction, DNA damage response, and shelterin proteins maintaining telomere integrity and cellular viability."
+        },
+        {
+          "theory_id": "T019525",
+          "subcluster_name": "Telomere Dysfunction-Induced DNA Damage Response Theory",
+          "reasoning": "Describes telomere dysfunction activating DNA damage response that upregulates ACE2 expression, linking telomere damage to aging and disease susceptibility."
+        },
+        {
+          "theory_id": "T019750",
+          "subcluster_name": "Telomere Shortening and Telomerase Regulation Theory",
+          "reasoning": "Focuses on telomere shortening as a biological clock regulated by telomerase repression and epigenetic control influencing aging and tumorigenesis."
+        },
+        {
+          "theory_id": "T019434",
+          "subcluster_name": "Shelterin Complex and Telomere Protection Theory",
+          "reasoning": "Emphasizes shelterin disruption and telomere uncapping causing vascular cell senescence and dysfunction independent of telomere length."
+        },
+        {
+          "theory_id": "T019225",
+          "subcluster_name": "Hayflick Limit and Immune Aging Theory",
+          "reasoning": "Discusses the Hayflick limit as a finite cell division capacity relevant to aging, distinguishing senescent from terminal postmitotic cells."
+        },
+        {
+          "theory_id": "T019058",
+          "subcluster_name": "Telomere Dysfunction-Induced Senescence Theory",
+          "reasoning": "Focuses on telomere dysfunction and shelterin loss inducing senescence in postmitotic cells independent of telomere length."
+        },
+        {
+          "theory_id": "T019628",
+          "subcluster_name": "Telomere Dysfunction-Induced Senescence Theory",
+          "reasoning": "Describes telomeres as sensors of stress causing length-independent dysfunction, persistent DDR, SASP, and paracrine senescence driving tissue aging."
+        },
+        {
+          "theory_id": "T019356",
+          "subcluster_name": "Telomere-Mediated Tumor Suppression and Inflammation Theory",
+          "reasoning": "Links telomere shortening to tumor suppressor activation, replicative senescence, SASP-driven inflammation, and aging disease outcomes."
+        },
+        {
+          "theory_id": "T019570",
+          "subcluster_name": "Telomere Shortening and Stem Cell Dysfunction Theory",
+          "reasoning": "Details telomere shortening limiting replicative lifespan, telomerase repression, and genetic diseases linking telomere erosion to aging."
+        },
+        {
+          "theory_id": "T019071",
+          "subcluster_name": "Stress-Accelerated Telomere Shortening Theory",
+          "reasoning": "Shows early post-natal stress accelerates telomere loss via oxidative stress and glucocorticoids, predicting lifespan and systemic aging."
+        },
+        {
+          "theory_id": "T018948",
+          "subcluster_name": "Telomere Dysfunction-Induced DNA Damage Response Theory",
+          "reasoning": "Focuses on telomere shortening causing DNA damage signaling, chromosomal abnormalities, and insufficient telomerase activity driving aging."
+        },
+        {
+          "theory_id": "T018985",
+          "subcluster_name": "Telomere Shortening and Stem Cell Dysfunction Theory",
+          "reasoning": "Describes telomere shortening as a mitotic clock triggering replicative senescence and tumor suppression, with cell-type specific dynamics."
+        },
+        {
+          "theory_id": "T019691",
+          "subcluster_name": "Shelterin Complex and Telomere Protection Theory",
+          "reasoning": "Pin1 regulates TRF1 stability, a shelterin protein essential for telomere maintenance; its dysregulation leads to telomere loss and premature aging."
+        },
+        {
+          "theory_id": "T019424",
+          "subcluster_name": "Telomerase Regulation by Hormones Theory",
+          "reasoning": "Estrogen regulates telomerase activity via receptor-mediated transcription and signaling pathways, influencing telomere maintenance and aging."
+        },
+        {
+          "theory_id": "T019001",
+          "subcluster_name": "Telomere Shortening and Stem Cell Dysfunction Theory",
+          "reasoning": "Telomere attrition as a biomarker of aging influenced by genetics, environment, and telomerase activity affecting tissue function."
+        },
+        {
+          "theory_id": "T019541",
+          "subcluster_name": "Telomere Position Effect on Gene Expression Theory",
+          "reasoning": "Telomere length-dependent chromatin looping regulates gene expression over long distances, linking telomere shortening to epigenetic aging effects."
+        },
+        {
+          "theory_id": "T019574",
+          "subcluster_name": "Telomere Dysfunction-Induced DNA Damage Response Theory",
+          "reasoning": "Telomere dysfunction triggers DNA damage signaling and p53 activation; telomerase reactivation reverses tissue degeneration and aging phenotypes."
+        },
+        {
+          "theory_id": "T018178",
+          "subcluster_name": "Stress-Accelerated Telomere Shortening Theory",
+          "reasoning": "Leukocyte telomere length shortens with age influenced by demographic and lifestyle factors, serving as a biomarker of biological aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:24:07"
+}

@@ -1,0 +1,201 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 22,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+        "theory_ids": [
+          "T025839",
+          "T026533",
+          "T026009",
+          "T026112",
+          "T025896",
+          "T026217",
+          "T025865",
+          "T025920",
+          "T026317",
+          "T026288",
+          "T026539",
+          "T026525",
+          "T025978",
+          "T026580",
+          "T026101",
+          "T026659",
+          "T025456"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "Telomere-Associated Oxidative Stress Theory",
+        "theory_ids": [
+          "T026629",
+          "T026111"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+        "theory_ids": [
+          "T026516",
+          "T026520"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025839",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Focuses on ROS as causal agents causing molecular damage and signaling imbalance leading to aging."
+        },
+        {
+          "theory_id": "T026533",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Emphasizes accumulation of oxidative damage from ROS and balance between oxidants and antioxidants."
+        },
+        {
+          "theory_id": "T026629",
+          "subcluster_name": "Telomere-Associated Oxidative Stress Theory",
+          "reasoning": "Links oxidative stress to telomere shortening and aging, with emphasis on telomere dynamics."
+        },
+        {
+          "theory_id": "T026111",
+          "subcluster_name": "Telomere-Associated Oxidative Stress Theory",
+          "reasoning": "Details oxidative stress accelerating telomere shortening causing cellular senescence."
+        },
+        {
+          "theory_id": "T026009",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Describes ROS production during reproduction increasing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T025842",
+          "subcluster_name": "Oxidative and Glycoxidative Damage Theory",
+          "reasoning": "Combines oxidative and glycoxidative damage as drivers of aging, highlighting bird adaptations."
+        },
+        {
+          "theory_id": "T026112",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Focuses on ROS accumulation causing damage to proteins and DNA, mitigated by antioxidative defenses."
+        },
+        {
+          "theory_id": "T025838",
+          "subcluster_name": "ROS Metabolism and Neuronal Aging Theory",
+          "reasoning": "Focuses on ROS metabolism in motorneurons as lifespan-limiting, emphasizing enzymatic regulation of ROS."
+        },
+        {
+          "theory_id": "T025896",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Links oxidative damage accumulation to brain aging and memory impairment."
+        },
+        {
+          "theory_id": "T026217",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Describes ROS damage and redox signaling dysregulation as contributors to aging."
+        },
+        {
+          "theory_id": "T025865",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Emphasizes oxidative damage accumulation and genetic/dietary modulation of oxidative stress."
+        },
+        {
+          "theory_id": "T025920",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Focuses on ROS-driven oxidative damage accumulation and caloric restriction mitigating damage."
+        },
+        {
+          "theory_id": "T026028",
+          "subcluster_name": "Protein Oxidation and Degradation Dysfunction Theory",
+          "reasoning": "Focuses on oxidative distress causing protein oxidation and impaired degradation leading to aging."
+        },
+        {
+          "theory_id": "T026723",
+          "subcluster_name": "Oxidative-Inflammatory Theory of Aging",
+          "reasoning": "Highlights interplay between oxidative stress and inflammation driving aging, with sex differences."
+        },
+        {
+          "theory_id": "T026317",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Describes free radicals causing oxidative damage and redox network complexity in aging."
+        },
+        {
+          "theory_id": "T026288",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Focuses on molecular oxidative damage accumulation and antioxidative enzyme roles in aging."
+        },
+        {
+          "theory_id": "T026516",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Emphasizes mitochondrial bioenergetics producing ROS that drive aging via oxidative damage."
+        },
+        {
+          "theory_id": "T026539",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Links oxidative damage accumulation and antioxidant defenses to lifespan and aging."
+        },
+        {
+          "theory_id": "T026525",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Focuses on ROS causing oxidative damage and age-related diseases, modulated by antioxidant defenses."
+        },
+        {
+          "theory_id": "T025978",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Describes ROS roles in signaling and damage with sex differences in antioxidant defense affecting aging."
+        },
+        {
+          "theory_id": "T026655",
+          "subcluster_name": "RAAS-Linked Oxidative Stress Theory of Aging",
+          "reasoning": "Links oxidative stress in aging to RAAS activation increasing ROS production and inflammation."
+        },
+        {
+          "theory_id": "T026520",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial energy metabolism producing ROS that cause aging-related damage."
+        },
+        {
+          "theory_id": "T026580",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Describes oxidative damage accumulation to proteins and lipids as aging markers and lifespan correlates."
+        },
+        {
+          "theory_id": "T026101",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Focuses on ROS accumulation and failure of repair systems causing lens aging and cataracts."
+        },
+        {
+          "theory_id": "T026659",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Emphasizes oxidative damage accumulation and evolved protective mechanisms influencing aging rates."
+        },
+        {
+          "theory_id": "T025456",
+          "subcluster_name": "Free Radical and ROS Damage Theory of Aging",
+          "reasoning": "Describes ROS accumulation causing muscle aging and sarcopenia with hormetic dual roles of ROS."
+        },
+        {
+          "theory_id": "T025383",
+          "subcluster_name": "Glycation-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on glycation inactivating antioxidant enzymes, leading to oxidative stress and aging."
+        },
+        {
+          "theory_id": "T024704",
+          "subcluster_name": "Oxidative Inhibition of Autophagy Theory",
+          "reasoning": "Describes oxidative stress inhibiting autophagy via oxidation of Atg3 and Atg7 enzymes."
+        },
+        {
+          "theory_id": "T024686",
+          "subcluster_name": "Oxidative Stress in Alzheimer's Disease Theory",
+          "reasoning": "Focuses on oxidative stress causing AD lesions and linking oxidative damage to general aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:43:16"
+}

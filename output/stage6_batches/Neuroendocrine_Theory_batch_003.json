@@ -1,0 +1,223 @@
+{
+  "cluster_name": "Neuroendocrine Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "HPA Axis Dysregulation Neuroendocrine Theory",
+        "theory_ids": [
+          "T024910",
+          "T019623",
+          "T020436"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Hormonal Imbalance and Immune Signaling Neuroendocrine Theory",
+        "theory_ids": [
+          "T022667",
+          "T020184",
+          "T021742"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Immune-Neuroendocrine Thymic Involution Theory",
+        "theory_ids": [
+          "T019756",
+          "T021886"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Neuroendocrine Network Disruption Theory",
+        "theory_ids": [
+          "T021568",
+          "T020505",
+          "T020116"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Hormonal Deficiency and Replacement Neuroendocrine Theory",
+        "theory_ids": [
+          "T023443",
+          "T021835",
+          "T023337",
+          "T022457",
+          "T020546"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Neuroendocrine Signaling Theory",
+        "theory_ids": [
+          "T022104",
+          "T022065",
+          "T021025",
+          "T018057",
+          "T020776"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Neuroendocrine-Ovarian Interaction Theory of Reproductive Aging",
+        "theory_ids": [
+          "T025063",
+          "T020948",
+          "T023905",
+          "T020673"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024910",
+          "subcluster_name": "HPA Axis Dysregulation Neuroendocrine Theory",
+          "reasoning": "Focuses on chronic HPA axis activation, glucocorticoid-mediated damage, and stress hormone feedback disruption driving aging."
+        },
+        {
+          "theory_id": "T019623",
+          "subcluster_name": "HPA Axis Dysregulation Neuroendocrine Theory",
+          "reasoning": "Describes glucocorticoid receptor loss in hippocampus and HPA axis hyperactivity causing neurodegeneration and cognitive decline."
+        },
+        {
+          "theory_id": "T020436",
+          "subcluster_name": "HPA Axis Dysregulation Neuroendocrine Theory",
+          "reasoning": "Details age-related decline in corticosteroid secretion and receptor plasticity affecting neuroendocrine regulation and cognition."
+        },
+        {
+          "theory_id": "T022667",
+          "subcluster_name": "Hormonal Imbalance and Immune Signaling Neuroendocrine Theory",
+          "reasoning": "Links age-related cortisol:DHEA imbalance to impaired immune PKC signaling via RACK1 regulation."
+        },
+        {
+          "theory_id": "T020184",
+          "subcluster_name": "Hormonal Imbalance and Immune Signaling Neuroendocrine Theory",
+          "reasoning": "Connects decline in adrenal androgens (DHEA) to increased IL-6 and immunosenescence, linking endocrinosenescence to immune aging."
+        },
+        {
+          "theory_id": "T019756",
+          "subcluster_name": "Immune-Neuroendocrine Thymic Involution Theory",
+          "reasoning": "Emphasizes thymic involution driven by hypothalamic and neuroendocrine changes causing immune decline and systemic aging."
+        },
+        {
+          "theory_id": "T021886",
+          "subcluster_name": "Immune-Neuroendocrine Thymic Involution Theory",
+          "reasoning": "Describes integrated immune-neuroendocrine network with thymic hormone decline disrupting homeostasis and driving aging."
+        },
+        {
+          "theory_id": "T021568",
+          "subcluster_name": "Neuroendocrine Network Disruption Theory",
+          "reasoning": "Focuses on aging-induced disruption of neuroendocrine feedback/feedforward loops and loss of hormone pulsatility and synchrony."
+        },
+        {
+          "theory_id": "T020505",
+          "subcluster_name": "Neuroendocrine Network Disruption Theory",
+          "reasoning": "Describes hormone secretion alterations, hypophysectomy effects, and pituitary hormone roles in systemic aging regulation."
+        },
+        {
+          "theory_id": "T023414",
+          "subcluster_name": "Hormonal Pleiotropy and Trade-off Neuroendocrine Theory",
+          "reasoning": "Explains aging as a result of hormonal pleiotropy mediating trade-offs between reproduction, survival, and immune function."
+        },
+        {
+          "theory_id": "T020116",
+          "subcluster_name": "Neuroendocrine Network Disruption Theory",
+          "reasoning": "Proposes aging as failure of integrated hormonal homeostasis and adaptation, with dysregulated feedback loops accelerating aging."
+        },
+        {
+          "theory_id": "T023443",
+          "subcluster_name": "Hormonal Deficiency and Replacement Neuroendocrine Theory",
+          "reasoning": "Focuses on age-related hormone declines causing aging phenotypes and potential reversal by hormone replacement therapy."
+        },
+        {
+          "theory_id": "T021835",
+          "subcluster_name": "Hormonal Deficiency and Replacement Neuroendocrine Theory",
+          "reasoning": "Links decline in GH/IGF-1 and anabolic hormones plus increased cytokines to body composition changes and aging."
+        },
+        {
+          "theory_id": "T023337",
+          "subcluster_name": "Hormonal Deficiency and Replacement Neuroendocrine Theory",
+          "reasoning": "Describes somatotropic axis (GH/IGF-1) decline causing cerebrovascular aging and systemic aging phenotypes."
+        },
+        {
+          "theory_id": "T022457",
+          "subcluster_name": "Hormonal Deficiency and Replacement Neuroendocrine Theory",
+          "reasoning": "Shows GH receptor deficiency reduces inflammasome activation and immune senescence, linking somatotropic axis to inflammaging."
+        },
+        {
+          "theory_id": "T020546",
+          "subcluster_name": "Hormonal Deficiency and Replacement Neuroendocrine Theory",
+          "reasoning": "Demonstrates pituitary hormone reduction (via food restriction or hypophysectomy) slows aging and extends lifespan."
+        },
+        {
+          "theory_id": "T021742",
+          "subcluster_name": "Hormonal Imbalance and Immune Signaling Neuroendocrine Theory",
+          "reasoning": "Describes aging driven by insulin-GH axis imbalance and cumulative growth factor exposure promoting aging and disease."
+        },
+        {
+          "theory_id": "T022104",
+          "subcluster_name": "Insulin/IGF-1 Neuroendocrine Signaling Theory",
+          "reasoning": "Focuses on insulin/IGF-1 signaling pathway in neurons regulating lifespan and stress resistance across species."
+        },
+        {
+          "theory_id": "T022065",
+          "subcluster_name": "Insulin/IGF-1 Neuroendocrine Signaling Theory",
+          "reasoning": "Details conserved insulin/IGF-1 signaling in C. elegans regulating longevity via endocrine communication and nuclear factors."
+        },
+        {
+          "theory_id": "T021025",
+          "subcluster_name": "Insulin/IGF-1 Neuroendocrine Signaling Theory",
+          "reasoning": "Links reproductive diapause and juvenile hormone downregulation to slowed aging via insulin-like receptor signaling."
+        },
+        {
+          "theory_id": "T018057",
+          "subcluster_name": "Insulin/IGF-1 Neuroendocrine Signaling Theory",
+          "reasoning": "Describes endocrine signaling pathways involving nuclear hormone receptors regulating reproductive longevity in C. elegans."
+        },
+        {
+          "theory_id": "T020776",
+          "subcluster_name": "Insulin/IGF-1 Neuroendocrine Signaling Theory",
+          "reasoning": "Shows neuronal and endocrine gene downregulation affecting longevity via DAF-16/FOXO and sensory signaling in C. elegans."
+        },
+        {
+          "theory_id": "T025063",
+          "subcluster_name": "Neuroendocrine-Ovarian Interaction Theory of Reproductive Aging",
+          "reasoning": "Focuses on multifactorial neuroendocrine and ovarian interactions driving reproductive aging stages."
+        },
+        {
+          "theory_id": "T020948",
+          "subcluster_name": "Neuroendocrine-Ovarian Interaction Theory of Reproductive Aging",
+          "reasoning": "Emphasizes hypothalamic-pituitary axis dysfunction and neurotransmitter changes impairing reproductive hormone cycles."
+        },
+        {
+          "theory_id": "T023905",
+          "subcluster_name": "Neuroendocrine-Ovarian Interaction Theory of Reproductive Aging",
+          "reasoning": "Describes neuroendocrine timekeeping decline disrupting circadian and pulsatile hormone secretion in reproductive aging."
+        },
+        {
+          "theory_id": "T020673",
+          "subcluster_name": "Neuroendocrine-Ovarian Interaction Theory of Reproductive Aging",
+          "reasoning": "Links lifetime gonadal hormone exposure via HPG axis to frailty and late-life robustness differences."
+        },
+        {
+          "theory_id": "T023201",
+          "subcluster_name": "Juvenile Hormone Regulation Neuroendocrine Theory",
+          "reasoning": "Focuses on juvenile hormone's role in regulating senescence, reproduction, and environmental modulation of aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:40:47"
+}

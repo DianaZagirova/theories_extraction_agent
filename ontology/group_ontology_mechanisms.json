@@ -1,4 +1,5 @@
-[{
+[
+  {
     "theory_name": "Cellular Senescence Theory",
     "key_players": [
       "p16INK4a",
@@ -47,6 +48,33 @@
     "adaptiveness": "Both/Context-dependent"
   },
   {
+    "theory_name": "Aristotle's Theory of Aging",
+    "key_players": [
+      "'Vital heat' (innate/connatural heat)",
+      "'Natural illness'",
+      "Soul",
+      "Body",
+      "Elements (hot, cold, wet, dry)",
+      "Heart (source of heat)",
+      "Lungs (cooling mechanism)",
+      "Natural moisture",
+      "Fuel"
+    ],
+    "pathways": [
+      "Loss of vital heat."
+    ],
+    "mechanisms": [
+      "Aging is a 'natural illness'—a non-pathological, inevitable process of decline.",
+      "The primary cause of aging is the gradual loss of the body's 'vital heat,' which is produced in the heart.",
+      "This loss of heat is accompanied by a drying of the body's 'natural moisture,' which acts as fuel for the heat.",
+      "The decline in vital heat leads to a weakening of both physical and mental faculties, as body and soul are jointly involved."
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Not-stated"
+  },
+  {
     "theory_name": "Disengagement Theory",
     "key_players": [
       "aging individual",
@@ -68,7 +96,11 @@
       "This process is considered natural, acceptable, and beneficial for both the individual (allowing focus on end-of-life) and society (ensuring social stability).",
       "Involves a reduction in social interaction frequency and a relinquishing of social roles to younger generations.",
       "The individual is freed from social norms as interaction decreases."
-    ]
+    ],
+    "level_of_explanation": "Societal",
+    "type_of_cause": "Both",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Adaptive"
   },
   {
     "theory_name": "Activity Theory",
@@ -91,7 +123,11 @@
       "Assumes a positive relationship between activity and life satisfaction.",
       "When older adults lose roles (e.g., through retirement), they should replace them with new activities to maintain well-being and a sense of purpose.",
       "Staying active resists social pressures that might otherwise limit an older person's world."
-    ]
+    ],
+    "level_of_explanation": "Societal",
+    "type_of_cause": "Both",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Adaptive"
   },
   {
     "theory_name": "Continuity Theory",
@@ -120,7 +156,11 @@
       "Individuals use past experiences and established coping strategies to adapt to the changes of aging.",
       "Emphasizes consistency of lifestyle, identity, and personality over the life course.",
       "Adaptation involves using familiar strategies to navigate new challenges, rather than radically changing one's life."
-    ]
+    ],
+    "level_of_explanation": "Societal",
+    "type_of_cause": "Both",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Adaptive"
   },
   {
     "theory_name": "Modernization Theory",
@@ -144,7 +184,11 @@
       "Industrialization, new technology, and mass education devalue the traditional knowledge and skills held by the elderly.",
       "Younger generations gain higher status through formal education, while older workers' skills become obsolete.",
       "This leads to a loss of authority, reduced social status, and increased social segregation for the elderly."
-    ]
+    ],
+    "level_of_explanation": "Societal",
+    "type_of_cause": "Extrinsic",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Not-stated"
   },
   {
     "theory_name": "Age Stratification Theory",
@@ -172,7 +216,11 @@
       "Each age cohort is influenced by its shared historical context and experiences, shaping its life course.",
       "Focuses on the dynamic between aging individuals moving through the life course and the age-graded social structure they inhabit.",
       "Age-based inequalities can lead to ageism and disparities in areas like employment, health, and political representation."
-    ]
+    ],
+    "level_of_explanation": "Societal",
+    "type_of_cause": "Extrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Not-stated"
   },
   {
     "theory_name": "Subculture Theory",
@@ -195,7 +243,11 @@
       "This subculture arises from shared experiences of aging and common societal attitudes (e.g., ageism) that can lead to social segregation.",
       "Concentrated interaction among older people (e.g., in retirement communities) fosters the development of this subculture.",
       "The subculture provides social integration, emotional support, and can lead to an enhanced, positive self-conception."
-    ]
+    ],
+    "level_of_explanation": "Societal",
+    "type_of_cause": "Extrinsic",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Both/Context-dependent"
   },
   {
     "theory_name": "Mutation Accumulation Theory",
@@ -230,7 +282,11 @@
       "Mutations are effectively neutral or have only small negative effects early in life.",
       "Aging is the phenotypic expression of a collection of late-onset genetic disorders (e.g., Huntington's disease).",
       "Predicts an age-related increase in genetic variance and inbreeding depression."
-    ]
+    ],
+    "level_of_explanation": "Population",
+    "type_of_cause": "Both",
+    "temporal_focus": "Post-reproductive",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Antagonistic Pleiotropy Theory",
@@ -262,7 +318,11 @@
       "Aging is the unselected, detrimental late-life cost of early-life fitness advantages.",
       "Creates a negative genetic correlation between reproduction and lifespan.",
       "Example: p53 provides early-life tumor suppression but can accelerate aging by limiting stem cell renewal."
-    ]
+    ],
+    "level_of_explanation": "Population",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Both/Context-dependent"
   },
   {
     "theory_name": "Disposable Soma Theory",
@@ -296,7 +356,11 @@
       "The soma is 'disposable' after the reproductive period.",
       "Aging results from the gradual accumulation of unrepaired somatic damage (e.g., mutations, protein damage).",
       "Germ-line cells are protected with high-fidelity maintenance, while somatic cells are maintained at a lower level."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Both",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Both/Context-dependent"
   },
   {
     "theory_name": "Phenoptosis Theory",
@@ -330,7 +394,11 @@
       "Programmed death removes older, weaker, or infectious individuals from the population.",
       "Frees up resources for younger generations, increasing their fitness.",
       "Accelerates generational turnover, thereby increasing the speed of evolution and adaptation for the species."
-    ]
+    ],
+    "level_of_explanation": "Population",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Adaptive"
   },
   {
     "theory_name": "Evolvable Soma Theory",
@@ -354,7 +422,11 @@
       "Aging is the cumulative result of these evolutionary \"experiments\" (e.g., late-acting gene expression changes).",
       "Most experiments are harmful and cause bodily damage (aging), but a few are beneficial and can be co-opted by evolution for future adaptation.",
       "Aging enhances a species' long-term evolvability by allowing for innovation with reduced fitness impact."
-    ]
+    ],
+    "level_of_explanation": "Population",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Post-reproductive",
+    "adaptiveness": "Adaptive"
   },
   {
     "theory_name": "Pathogen Control Theory",
@@ -377,7 +449,11 @@
       "Older individuals are more likely to have accumulated a high burden of chronic, transmissible pathogens.",
       "A restricted lifespan is selected for to remove these older, infectious individuals from the population.",
       "This removal protects younger, healthier relatives from infection, thereby increasing the inclusive fitness of the lineage via kin selection."
-    ]
+    ],
+    "level_of_explanation": "Population",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Adaptive"
   },
   {
     "theory_name": "Aging as a Spandrel Theory",
@@ -402,7 +478,11 @@
       "It is an unavoidable architectural or developmental consequence of evolving complex biological systems and developmental programs.",
       "This is a theory of constraint, not of trade-off (like Antagonistic Pleiotropy).",
       "The features of aging were not built by natural selection for their current role but arose as a necessary consequence of other evolved structures or processes."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Intergenerational Transfers Theory",
@@ -432,7 +512,11 @@
       "The force of natural selection on survival depends not only on remaining fertility but also on the net transfers an individual is expected to make to others (the 'transfer effect').",
       "Post-reproductive survival is selected for because older individuals (e.g., grandparents) provide crucial resources to their descendants, increasing their inclusive fitness.",
       "Explains long post-reproductive lifespans and the evolution of menopause in humans."
-    ]
+    ],
+    "level_of_explanation": "Population",
+    "type_of_cause": "Both",
+    "temporal_focus": "Post-reproductive",
+    "adaptiveness": "Adaptive"
   },
   {
     "theory_name": "Danaid Theory",
@@ -456,7 +540,11 @@
       "Complex organisms are fundamentally \"unmaintainable\" indefinitely, like the leaky vessels of the Danaids.",
       "Constraints include the loss of information required for repair (e.g., developmental cues are no longer present).",
       "Repair processes are subject to diminishing marginal returns, making perfect maintenance energetically unfeasible or impossible."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Telomere Theory",
@@ -487,7 +575,59 @@
       "With each cell division, the telomeres at the ends of chromosomes progressively shorten because DNA polymerase cannot fully replicate the chromosome ends.",
       "Telomerase, the enzyme that can extend telomeres, is inactive in most somatic cells but active in germline, stem, and cancer cells.",
       "When telomeres reach a critically short length, they trigger a DNA damage response, leading to irreversible cell cycle arrest (replicative senescence) or apoptosis."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Both/Context-dependent"
+  },
+  {
+    "theory_name": "Cellular Senescence Theory",
+    "key_players": [
+      "p16INK4a",
+      "p21CIP1",
+      "p53",
+      "BCL-2 family proteins",
+      "SASP factors (e",
+      "g",
+      "IL-6",
+      "IL-1β",
+      "proteases)",
+      "Telomeres",
+      "mitochondria",
+      "chromatin",
+      "lysosomes",
+      "Cyclin-dependent kinases (CDKs)",
+      "Retinoblastoma protein (RB)",
+      "ATM",
+      "ATR",
+      "Senescence-associated β-galactosidase (SA-β-gal)",
+      "RAS",
+      "BRAF",
+      "PTEN",
+      "Macrophages",
+      "NK cells",
+      "170"
+    ],
+    "pathways": [
+      "p53/p21 pathway",
+      "p16INK4a/Rb pathway",
+      "DNA Damage Response (DDR)",
+      "Senescence-Associated Secretory Phenotype (SASP)",
+      "Autophagy. 173"
+    ],
+    "mechanisms": [
+      "Triggered by various intrinsic (e.g., telomere shortening, DNA damage, oncogene activation) and extrinsic (e.g., UV radiation, chemotherapy) stressors. 170",
+      "Induces a stable cell cycle arrest, primarily via the p53/p21 and/or p16INK4a/Rb tumor suppressor pathways. 173",
+      "Senescent cells develop a complex phenotype, including resistance to apoptosis and secretion of a pro-inflammatory Senescence-Associated Secretory Phenotype (SASP). 170",
+      "Transient senescence is beneficial for tumor suppression, wound healing, and embryogenesis, with senescent cells cleared by the immune system. 173",
+      "With age, immune clearance falters, leading to the chronic accumulation of senescent cells. 175",
+      "The accumulation of senescent cells and their SASP drives chronic inflammation (\"inflammaging\"), tissue dysfunction, and age-related diseases. 171"
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Both",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Both/Context-dependent"
   },
   {
     "theory_name": "Programmed Longevity Theory",
@@ -513,7 +653,11 @@
       "The lifespan of a species is determined by a genetic program.",
       "Aging is caused by the sequential switching on and off of specific 'gerontogenes' that regulate the rate of aging.",
       "Conserved signaling pathways, such as the Insulin/IGF-1 pathway, act as master regulators of the aging rate across many species."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Not-stated"
   },
   {
     "theory_name": "Codon Restriction Theory",
@@ -535,7 +679,11 @@
       "This restriction is caused by age-related changes in the availability or function of specific tRNAs or their charging enzymes (aminoacyl-tRNA synthetases).",
       "The inability to accurately or efficiently translate certain codons impairs the synthesis of a specific subset of proteins.",
       "The resulting deficiency in these key proteins leads to cellular dysfunction and aging."
-    ]
+    ],
+    "level_of_explanation": "Molecular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Neuroendocrine Theory",
@@ -569,7 +717,11 @@
       "The hypothalamus acts as a \"pacemaker\" for systemic aging by regulating the entire endocrine system.",
       "With age, the hypothalamus loses its sensitivity to hormonal feedback, disrupting homeostatic balance.",
       "This leads to dysregulation in the levels of many key hormones (e.g., decreased GH, sex hormones; increased cortisol), causing widespread physiological decline."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Immunological Theory",
@@ -600,7 +752,11 @@
       "Involves a decline in adaptive immunity (e.g., reduced production of new T-cells due to thymic involution) and a hyperactivation of innate immunity.",
       "Leads to a state of chronic, low-grade, systemic inflammation known as 'inflammaging'.",
       "Results in increased vulnerability to infections, decreased vaccine efficacy, and higher incidence of autoimmune diseases and cancer."
-    ]
+    ],
+    "level_of_explanation": "Tissue/Organ",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Hyperfunction Theory",
@@ -626,7 +782,11 @@
       "Growth-promoting pathways (e.g., mTOR) that are essential for development become \"hyperfunctional\" in post-reproductive, non-growing organisms.",
       "This cellular hyperfunction (e.g., excess protein synthesis, hypertrophy) is not a result of damage but is the direct driver of age-related pathologies.",
       "Functional decline and molecular damage are secondary consequences of this primary hyperfunction."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Post-reproductive",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Developmental Theory",
@@ -649,7 +809,11 @@
       "Driven by \"developmental inertia\" rather than a specific, dedicated aging program.",
       "Provides a mechanistic basis for the Antagonistic Pleiotropy theory, where the \"program\" itself has pleiotropic effects over time.",
       "Aging is caused by intrinsic design flaws in the developmental \"software\" encoded in the DNA."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Late-life",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Free Radical Theory",
@@ -676,7 +840,11 @@
       "Highly reactive free radicals (a subset of ROS) are generated as byproducts of normal aerobic metabolism, primarily in mitochondria.",
       "These free radicals cause cumulative, widespread oxidative damage to macromolecules, including DNA, proteins, and lipids.",
       "This accumulated damage impairs cellular function, leading to cellular dysfunction, senescence, and organismal aging."
-    ]
+    ],
+    "level_of_explanation": "Molecular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Oxidative Stress Theory",
@@ -706,7 +874,11 @@
       "Progressive and irreversible accumulation of oxidative damage to macromolecules impairs physiological function.",
       "Oxidative damage to lipids (lipid peroxidation), DNA (e.g., 8-OHdG), and proteins (carbonylation) accumulates with age.",
       "Age-related oxidative stress activates redox-sensitive transcription factors, leading to chronic low-grade inflammation ('inflammaging')."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Both",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Somatic DNA Damage Theory",
@@ -737,7 +909,11 @@
       "DNA repair systems are imperfect and become less efficient with age, allowing damage to persist.",
       "Accumulated DNA damage leads to mutations, chromosomal instability, and altered gene expression (e.g., by blocking transcription).",
       "These genetic and epigenetic alterations cause cellular dysfunction, senescence, or apoptosis, contributing to tissue decline and aging."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Both",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Cross-Linking Theory",
@@ -761,7 +937,11 @@
       "AGEs can form permanent cross-links between adjacent molecules, causing them to become stiff, less elastic, and dysfunctional.",
       "Cross-linking inhibits the function of proteases, preventing the normal breakdown and removal of damaged proteins.",
       "Contributes to wrinkling (collagen cross-linking), cataracts (lens protein cross-linking), and atherosclerosis."
-    ]
+    ],
+    "level_of_explanation": "Tissue/Organ",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Error Catastrophe Theory",
@@ -784,7 +964,11 @@
       "This creates a positive feedback loop, where errors in translation machinery lead to an exponentially increasing rate of synthesis of faulty proteins.",
       "This cascade of errors culminates in an \"error catastrophe,\" causing widespread cellular dysfunction and death.",
       "The theory is now largely discredited for protein synthesis but has been re-proposed as a \"somatic mutation catastrophe\" for DNA repair machinery."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Protein Damage Theory",
@@ -814,7 +998,11 @@
       "This collapse is caused by an increased rate of protein damage (e.g., misfolding, oxidation) and a concurrent decline in the efficiency of protein quality control systems (chaperones, UPS, autophagy).",
       "Leads to the accumulation of dysfunctional, misfolded, and aggregated proteins, which can be toxic to the cell.",
       "Aggregates can sequester essential cellular components, further disrupting cellular function."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Mitochondrial Decline Theory",
@@ -844,7 +1032,11 @@
       "A \"vicious cycle\" occurs: mtDNA mutations impair respiratory chain function, leading to increased ROS production, which in turn causes more mtDNA damage and further dysfunction.",
       "Age-related decline in mitochondrial function leads to decreased ATP production, altered redox balance, and impaired cellular energy homeostasis.",
       "The efficiency of mitochondrial quality control (mitophagy and biogenesis) declines with age, leading to an accumulation of dysfunctional mitochondria."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Membrane Theory",
@@ -866,7 +1058,11 @@
       "This is caused by changes in lipid composition (e.g., decreased PUFAs, increased saturated fats) and oxidative damage to lipids (lipid peroxidation).",
       "Increased rigidity impairs the function of embedded membrane proteins, such as receptors, ion channels, and transporters.",
       "Impaired membrane function disrupts cellular homeostasis, signal transduction, and the ability to transfer chemicals and electrical signals."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Waste Accumulation Theory",
@@ -891,7 +1087,11 @@
       "Lipofuscin is composed of highly oxidized and cross-linked proteins and lipids that cannot be degraded by lysosomal enzymes.",
       "The accumulation of this \"garbage\" clogs lysosomes and autophagic vesicles, impairing the cell's entire autophagy and recycling system.",
       "This leads to a \"garbage catastrophe,\" widespread cellular dysfunction, and increased susceptibility to stress."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Wear and Tear Theory",
@@ -922,7 +1122,11 @@
       "Aging is the cumulative result of damage from both internal (metabolic byproducts) and external (environmental) stressors.",
       "Although the body has repair mechanisms, they are not perfect, and damage gradually accumulates, leading to deterioration.",
       "This accumulated damage eventually leads to the failure of cells, tissues, and organs."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Both",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Stem Cell Exhaustion Theory",
@@ -955,7 +1159,11 @@
       "This decline is caused by both intrinsic factors (e.g., accumulated DNA damage, telomere shortening, epigenetic changes) and extrinsic factors (e.g., deterioration of the stem cell niche).",
       "Reduced stem cell function compromises the ability of tissues to regenerate and maintain homeostasis.",
       "This leads to tissue atrophy, functional decline, and increased frailty."
-    ]
+    ],
+    "level_of_explanation": "Tissue/Organ",
+    "type_of_cause": "Both",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Dysdifferentiation Theory",
@@ -981,7 +1189,11 @@
       "This leads to an increase in \"transcriptional noise\" and the inappropriate expression of genes that should be silenced in a given cell type.",
       "The loss of cellular identity and proper gene regulation impairs tissue function.",
       "This process is driven by the deterioration of epigenetic control mechanisms, potentially accelerated by molecular damage like that from ROS."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Information Theory",
@@ -1008,7 +1220,11 @@
       "DNA damage, particularly double-strand breaks, forces chromatin-modifying proteins to relocate to the site of damage for repair.",
       "After repair, these proteins do not always return to their original locations perfectly, leading to a gradual scrambling or \"loss of information\" in the epigenome.",
       "This epigenetic noise disrupts youthful gene expression patterns, causing cells to lose their identity and function, which manifests as aging."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Epigenetic Damage Theory",
@@ -1034,7 +1250,11 @@
       "This damage includes the erosion of heterochromatin, shifts in DNA methylation, and altered histone modifications.",
       "Damage is driven by environmental insults, metabolic byproducts, errors during DNA replication, and the process of DNA repair itself.",
       "The cumulative epigenetic damage leads to dysregulated gene expression, loss of cellular identity, and functional decline."
-    ]
+    ],
+    "level_of_explanation": "Molecular",
+    "type_of_cause": "Both",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Epigenetic Drift Theory",
@@ -1055,7 +1275,11 @@
       "This drift reflects the imperfect maintenance and copying of epigenetic marks (especially DNA methylation) during cell division over a lifetime.",
       "Leads to increased cell-to-cell variability in gene expression within a tissue (epigenetic mosaicism).",
       "This increased \"disorder\" or transcriptional noise contributes to a decline in tissue function and stem cell plasticity."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Epigenetic Aging Clock Theory",
@@ -1083,7 +1307,11 @@
       "Algorithms (\"epigenetic clocks\") are built to estimate biological age based on these patterns.",
       "The deviation between biological and chronological age (\"age acceleration\") is a powerful predictor of morbidity and mortality.",
       "These clocks serve as biomarkers to quantify the aging process and evaluate interventions, though the underlying cause of the \"ticking\" is debated (e.g., byproduct of somatic mutations or an intrinsic process)."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Not-stated"
   },
   {
     "theory_name": "Loss of Morphostatic Information Theory",
@@ -1110,7 +1338,11 @@
       "It is caused by the progressive loss of the complex biological information (the body's \"software\" or \"blueprint\") that guides cell behavior.",
       "This information is largely encoded in endogenous bioelectric and epigenetic signals that coordinate cells.",
       "The failure of this high-level regulatory information leads to a loss of anatomical homeostasis, organ malfunction, and functional decline."
-    ]
+    ],
+    "level_of_explanation": "Tissue/Organ",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Rate of Living Theory",
@@ -1133,7 +1365,11 @@
       "Organisms have a finite amount of \"vital energy\" or a fixed number of heartbeats to expend over their lifetime.",
       "Higher metabolic rates lead to faster accumulation of damaging metabolic byproducts (linking to the Free Radical Theory).",
       "Largely discredited by observations of long-lived species with high metabolic rates (e.g., birds, bats)."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Energy Consumption Theory",
@@ -1157,7 +1393,11 @@
       "Total energy expenditure declines with age, driven by decreases in both RMR (due to loss of organ mass) and activity EE.",
       "The age-related decline in activity EE may be governed by changes in central neuromodulators (e.g., orexin, dopamine) that control arousal and motivation.",
       "In frail individuals, an increase in RMR may occur, reflecting the extra energetic cost of maintaining homeostasis in the face of disease and dysfunction."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Not-stated"
   },
   {
     "theory_name": "Thermodynamic Theory",
@@ -1180,7 +1420,11 @@
       "Living organisms are open, self-organizing systems that maintain low entropy by consuming energy and dissipating waste.",
       "Aging occurs as the organism's ability to maintain this low-entropy, far-from-equilibrium state declines, and it trends towards thermodynamic equilibrium (death).",
       "The specific Gibbs function of formation of supramolecular structures tends toward a minimum, driving changes in tissue composition and morphology."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Dissipation Theory",
@@ -1202,7 +1446,11 @@
       "Aging is fundamentally a dissipative process within a biological system, where energy and order are lost over time due to non-conservative forces.",
       "Uses ergodic theory to decompose cellular dynamics into a \"conservative\" (recurrent) part and a \"dissipative\" (non-recurrent) part.",
       "Aging represents the predominance of the dissipative part, where the system deviates from its youthful, recurrent states and does not return, leading to increased entropy."
-    ]
+    ],
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Non-adaptive"
   },
   {
     "theory_name": "Deprivation-Syndrome Theory",
@@ -1225,7 +1473,11 @@
       "Aging is a stress-resistance phenotype of the soma that actively counteracts a death pathway inflicted upon it by germ cells.",
       "This is rooted in a germ-soma conflict over limited resources, where somatic death is the evolutionary default state enforced by \"selfish\" germline genes.",
       "Aging is a survival response (a \"deprivation syndrome\") modulated by the reproductive phase and orchestrated by the neuroendocrine system."
-    ]
+    ],
+    "level_of_explanation": "Organismal",
+    "type_of_cause": "Intrinsic",
+    "temporal_focus": "Reproductive",
+    "adaptiveness": "Both/Context-dependent"
   },
   {
     "theory_name": "Hallmarks of Aging",
@@ -1249,29 +1501,10 @@
       "Not a single theory, but an integrated framework that categorizes the major, interconnected biological mechanisms believed to drive aging.",
       "Organizes mechanisms into three groups: primary hallmarks (causes of damage), antagonistic hallmarks (responses to damage that can become deleterious), and integrative hallmarks (culprits of the phenotype).",
       "Provides a consensus model for modern aging research, emphasizing the interconnectedness of different damage and signaling pathways."
-    ]
-  },
-  {
-    "theory_name": "Aristotle's Theory of Aging",
-    "key_players": [
-      "'Vital heat' (innate/connatural heat)",
-      "'Natural illness'",
-      "Soul",
-      "Body",
-      "Elements (hot, cold, wet, dry)",
-      "Heart (source of heat)",
-      "Lungs (cooling mechanism)",
-      "Natural moisture",
-      "Fuel"
     ],
-    "pathways": [
-      "Loss of vital heat."
-    ],
-    "mechanisms": [
-      "Aging is a 'natural illness'—a non-pathological, inevitable process of decline.",
-      "The primary cause of aging is the gradual loss of the body's 'vital heat,' which is produced in the heart.",
-      "This loss of heat is accompanied by a drying of the body's 'natural moisture,' which acts as fuel for the heat.",
-      "The decline in vital heat leads to a weakening of both physical and mental faculties, as body and soul are jointly involved."
-    ]
+    "level_of_explanation": "Cellular",
+    "type_of_cause": "Both",
+    "temporal_focus": "Lifelong",
+    "adaptiveness": "Not-stated"
   }
 ]

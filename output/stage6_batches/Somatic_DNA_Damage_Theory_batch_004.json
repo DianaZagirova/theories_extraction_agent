@@ -1,0 +1,210 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+        "theory_ids": [
+          "T004923",
+          "T004149",
+          "T004562",
+          "T004807",
+          "T005447",
+          "T005345",
+          "T004270",
+          "T004756",
+          "T004920",
+          "T004384",
+          "T005434",
+          "T005669",
+          "T004811",
+          "T005348",
+          "T003952"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Genomic Instability and RecQ Helicase Deficiency Aging Theory",
+        "theory_ids": [
+          "T004523",
+          "T005580"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Damage and Mutation Rate Aging Theory",
+        "theory_ids": [
+          "T005062",
+          "T005125"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and NAD+ Depletion in DNA Repair Deficiency Aging Theory",
+        "theory_ids": [
+          "T004261",
+          "T005209",
+          "T004258"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Evolutionary Decline of Natural Selection and Aging Theory",
+        "theory_ids": [
+          "T005044",
+          "T005021",
+          "T005055",
+          "T004280"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T004923",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Focuses on DNA repair mechanisms maintaining nuclear genomic stability as a determinant of longevity and aging."
+        },
+        {
+          "theory_id": "T004149",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Emphasizes PARP-1 mediated poly(ADP-ribosyl)ation in nuclear DNA repair correlating with species longevity."
+        },
+        {
+          "theory_id": "T004562",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Describes DNA damage accumulation impairing hematopoietic stem cell function via nuclear DNA repair defects."
+        },
+        {
+          "theory_id": "T004807",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Shows that enhanced DNA repair reduces somatic nuclear DNA damage and extends lifespan."
+        },
+        {
+          "theory_id": "T005447",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Links nuclear DNA damage accumulation to cellular senescence driving aging."
+        },
+        {
+          "theory_id": "T005345",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Focuses on transcriptional repression of nuclear DNA repair genes as a cause of cellular senescence."
+        },
+        {
+          "theory_id": "T004270",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Highlights superior nuclear DNA repair capacity as a longevity assurance system in long-lived species."
+        },
+        {
+          "theory_id": "T004756",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Proposes DNA damage accumulation and enhanced repair as drivers of aging and longevity across species."
+        },
+        {
+          "theory_id": "T004920",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Focuses on accumulation of oxidative nuclear DNA lesions and insufficient repair contributing to aging."
+        },
+        {
+          "theory_id": "T004384",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Describes genomic instability from nuclear DNA damage accumulation as a cause of aging in myocardium."
+        },
+        {
+          "theory_id": "T005434",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Shows Werner syndrome model where nuclear DNA repair defects cause systemic aging and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T005669",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Uses C. elegans to link nuclear DNA repair defects and genomic instability to aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T004811",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Focuses on impaired double-strand break repair in vascular cells causing DNA damage accumulation and vascular aging."
+        },
+        {
+          "theory_id": "T005348",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Describes aprataxin deficiency causing accumulation of oxidative nuclear DNA breaks and premature senescence."
+        },
+        {
+          "theory_id": "T003952",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Longevity Assurance Theory",
+          "reasoning": "Details PARP-1 role in telomere stability and nuclear DNA repair affecting aging under oxidative stress."
+        },
+        {
+          "theory_id": "T004523",
+          "subcluster_name": "Genomic Instability and RecQ Helicase Deficiency Aging Theory",
+          "reasoning": "Focuses on RecQ helicase mutations causing genomic instability and differential premature aging phenotypes."
+        },
+        {
+          "theory_id": "T005580",
+          "subcluster_name": "Genomic Instability and RecQ Helicase Deficiency Aging Theory",
+          "reasoning": "Describes RecQ helicase deficiency causing recombination errors, genomic instability, and premature aging."
+        },
+        {
+          "theory_id": "T005641",
+          "subcluster_name": "DNA Base Excision Repair Deficiency and Oxidative Damage Aging Theory",
+          "reasoning": "Focuses on reduced BER capacity, especially DNA polymerase beta deficiency, leading to oxidative DNA damage accumulation and aging."
+        },
+        {
+          "theory_id": "T005062",
+          "subcluster_name": "Mitochondrial DNA Damage and Mutation Rate Aging Theory",
+          "reasoning": "Describes accumulation of mitochondrial DNA rearrangements with age impairing mitochondrial function."
+        },
+        {
+          "theory_id": "T005125",
+          "subcluster_name": "Mitochondrial DNA Damage and Mutation Rate Aging Theory",
+          "reasoning": "Proposes selective pressure on mitochondrial mutation rates and mitochondrial protein evolution affecting longevity."
+        },
+        {
+          "theory_id": "T004261",
+          "subcluster_name": "Mitochondrial Dysfunction and NAD+ Depletion in DNA Repair Deficiency Aging Theory",
+          "reasoning": "Links DNA repair defects to mitochondrial dysfunction via NAD+ depletion and impaired mitophagy in Cockayne syndrome."
+        },
+        {
+          "theory_id": "T005209",
+          "subcluster_name": "Mitochondrial Dysfunction and NAD+ Depletion in DNA Repair Deficiency Aging Theory",
+          "reasoning": "Focuses on age-dependent decline in axonal transport of mitochondria causing mitochondrial dysfunction and neuronal aging."
+        },
+        {
+          "theory_id": "T004258",
+          "subcluster_name": "Mitochondrial Dysfunction and NAD+ Depletion in DNA Repair Deficiency Aging Theory",
+          "reasoning": "Links ER decline affecting mitochondrial maintenance and dynamics contributing to aging and Alzheimer's disease."
+        },
+        {
+          "theory_id": "T005044",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Aging Theory",
+          "reasoning": "Describes aging as shaped by declining force of natural selection post-reproduction affecting immune defense and aging pace."
+        },
+        {
+          "theory_id": "T005021",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Aging Theory",
+          "reasoning": "Focuses on defective induction of stress-induced premature senescence in fibroblasts leading to keloid formation, linked to aging mechanisms."
+        },
+        {
+          "theory_id": "T005055",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Aging Theory",
+          "reasoning": "Proposes death spiral as a distinct late-life phase reflecting systemic physiological decline, related to evolutionary aging processes."
+        },
+        {
+          "theory_id": "T004280",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Aging Theory",
+          "reasoning": "Links DNA damage and senescence rates to gestation period and lifespan across placental mammals, reflecting evolutionary aging modulation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:39:38"
+}

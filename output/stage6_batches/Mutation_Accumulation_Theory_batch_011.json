@@ -1,0 +1,188 @@
+{
+  "cluster_name": "Mutation Accumulation Theory",
+  "batch_num": 11,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+        "theory_ids": [
+          "T026476",
+          "T026700",
+          "T026480",
+          "T026562",
+          "T026743",
+          "T026720",
+          "T026827",
+          "T026760",
+          "T026070",
+          "T026052",
+          "T026496",
+          "T026979",
+          "T004172",
+          "T007817",
+          "T001555",
+          "T026782",
+          "T026805",
+          "T000225"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 18
+      },
+      {
+        "subcluster_name": "Somatic Mutation Accumulation Theory",
+        "theory_ids": [
+          "T027439",
+          "T014337",
+          "T026473",
+          "T026475",
+          "T022805",
+          "T023107",
+          "T021122"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mutation Accumulation Theory",
+        "theory_ids": [
+          "T023673"
+        ],
+        "theory_count": 1,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "1 theories not assigned"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026476",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Focuses on weakened purifying selection on late-acting deleterious germline mutations accumulating with age, causing aging."
+        },
+        {
+          "theory_id": "T026700",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of late-acting deleterious germline variants due to weak selection at old age."
+        },
+        {
+          "theory_id": "T026480",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Emphasizes accumulation of late-acting deleterious mutations in germline affecting aging."
+        },
+        {
+          "theory_id": "T026562",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Discusses age-specific deleterious mutations accumulating in populations due to weak late-life selection."
+        },
+        {
+          "theory_id": "T026743",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Highlights age-dependent accumulation of deleterious germline mutations influenced by population size."
+        },
+        {
+          "theory_id": "T026720",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of late-acting deleterious mutations in germline due to declining selection with age."
+        },
+        {
+          "theory_id": "T026827",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Describes age-specific accumulation of deleterious mutations with worsening effects contributing to aging."
+        },
+        {
+          "theory_id": "T026760",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Combines mutation accumulation and antagonistic pleiotropy focusing on late-acting deleterious germline mutations."
+        },
+        {
+          "theory_id": "T026070",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Muller's hypothesis on accumulation of recessive deleterious germline mutations increasing genetic load."
+        },
+        {
+          "theory_id": "T026052",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Hamilton's force of selection theory explaining senescence via declining selection on late-acting germline mutations."
+        },
+        {
+          "theory_id": "T026496",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Classic evolutionary theories including mutation accumulation of germline mutations causing aging."
+        },
+        {
+          "theory_id": "T026979",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Evolutionary genetic theory emphasizing genetic basis of aging shaped by natural selection on germline variants."
+        },
+        {
+          "theory_id": "T004172",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Differential survival and selective culling affecting gene pool composition and aging-related disease susceptibility."
+        },
+        {
+          "theory_id": "T007817",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Genetic polymorphisms modulating cancer susceptibility and longevity via germline variants."
+        },
+        {
+          "theory_id": "T001555",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Condition-dependent mortality shaping lifespan evolution via selective disappearance affecting gene pool."
+        },
+        {
+          "theory_id": "T026782",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Classical theory linking sex-specific life history and resource allocation trade-offs to aging patterns."
+        },
+        {
+          "theory_id": "T026805",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Classical evolutionary theories positing inevitability of senescence due to evolutionary forces on germline."
+        },
+        {
+          "theory_id": "T000225",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Senescence as decline in residual reproductive value linked to evolutionary decline in fitness with age."
+        },
+        {
+          "theory_id": "T027439",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Focuses on somatic mutation accumulation rate as determinant of lifespan and aging."
+        },
+        {
+          "theory_id": "T014337",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Somatic mutation accumulation causing cellular dysfunction and organismal aging."
+        },
+        {
+          "theory_id": "T026473",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Mutation accumulation in yeast somatic cells linked to lifespan shortening."
+        },
+        {
+          "theory_id": "T026475",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Somatic mutation accumulation in long-lived trees with limits on mutation burden."
+        },
+        {
+          "theory_id": "T022805",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Somatic mutations in neurons causing brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T023107",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Somatic CAG repeat instability causing neurodegenerative disease aging."
+        },
+        {
+          "theory_id": "T021122",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Oxidative nucleotide pool sanitization reducing somatic mutation accumulation and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:03:44"
+}

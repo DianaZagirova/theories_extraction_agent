@@ -1,0 +1,209 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 10,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+        "theory_ids": [
+          "T016017",
+          "T015951",
+          "T015632",
+          "T015387",
+          "T014663",
+          "T015485",
+          "T016570",
+          "T015473",
+          "T015539",
+          "T015654"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Driven Telomere Attrition Theory",
+        "theory_ids": [
+          "T016545",
+          "T016391"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Germline Inheritance of Telomere Length Theory",
+        "theory_ids": [
+          "T015699",
+          "T016118",
+          "T016145",
+          "T013482"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Evolutionary Telomere Maintenance and Tumor Suppression Theory",
+        "theory_ids": [
+          "T015624",
+          "T016544",
+          "T010675"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Telomerase Reverse Transcriptase Non-Telomeric Function Theory",
+        "theory_ids": [
+          "T016384",
+          "T016448"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Replicative Aging by Asymmetric Damage Segregation Theory",
+        "theory_ids": [
+          "T014324",
+          "T014488"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016017",
+          "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+          "reasoning": "Focuses on telomere shortening as aging driver and telomerase activity counteracting attrition, with examples in eusocial insects."
+        },
+        {
+          "theory_id": "T015951",
+          "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+          "reasoning": "Describes telomere shortening driving aging and telomerase activation protecting telomeres and delaying aging."
+        },
+        {
+          "theory_id": "T015632",
+          "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+          "reasoning": "Emphasizes telomere shortening causing cellular senescence and telomerase maintaining telomere length to influence aging."
+        },
+        {
+          "theory_id": "T015387",
+          "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+          "reasoning": "Details telomere shortening as mitotic clock inducing senescence and the balance with telomerase activity in skin aging."
+        },
+        {
+          "theory_id": "T014663",
+          "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+          "reasoning": "Shows telomerase synergizing with calorie restriction to maintain telomeres and extend health span and longevity."
+        },
+        {
+          "theory_id": "T015485",
+          "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+          "reasoning": "Critically appraises telomere shortening causing replicative senescence and telomerase role in mammalian aging."
+        },
+        {
+          "theory_id": "T016570",
+          "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+          "reasoning": "Describes telomere erosion as mitotic clock triggering senescence and tumor suppression, balancing aging and cancer."
+        },
+        {
+          "theory_id": "T015473",
+          "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+          "reasoning": "Links telomere shortening with age and reproduction, showing telomere length predicts lifespan in seabirds."
+        },
+        {
+          "theory_id": "T015539",
+          "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+          "reasoning": "Shows slower telomere shortening in long-lived species, linking telomere dynamics to lifespan differences."
+        },
+        {
+          "theory_id": "T015654",
+          "subcluster_name": "Telomere Attrition and Telomerase Activity Theory",
+          "reasoning": "Focuses on telomere shortening rate predicting species lifespan, linking molecular telomere dynamics to aging."
+        },
+        {
+          "theory_id": "T016083",
+          "subcluster_name": "Telomere Maintenance and Immune Aging Trade-off Theory",
+          "reasoning": "Describes trade-off between immune response and telomere maintenance, with age-dependent impairment of telomere regulation during inflammation."
+        },
+        {
+          "theory_id": "T016545",
+          "subcluster_name": "Oxidative Stress-Driven Telomere Attrition Theory",
+          "reasoning": "Focuses on oxidative stress accelerating telomere loss and aging, highlighting growth trade-offs and stress hormone effects."
+        },
+        {
+          "theory_id": "T016391",
+          "subcluster_name": "Oxidative Stress-Driven Telomere Attrition Theory",
+          "reasoning": "Links oxidative stress to accelerated telomere shortening and aging, with reproduction influencing telomere dynamics."
+        },
+        {
+          "theory_id": "T015699",
+          "subcluster_name": "Germline Inheritance of Telomere Length Theory",
+          "reasoning": "Emphasizes maternal age-related germline telomere shortening transmitted across generations affecting offspring longevity."
+        },
+        {
+          "theory_id": "T016118",
+          "subcluster_name": "Germline Inheritance of Telomere Length Theory",
+          "reasoning": "Demonstrates paternal age effect on offspring telomere length and lifespan, highlighting germline inheritance mechanisms."
+        },
+        {
+          "theory_id": "T016145",
+          "subcluster_name": "Germline Inheritance of Telomere Length Theory",
+          "reasoning": "Discusses genetic and environmental regulation of telomere length, emphasizing inheritance and telomere as molecular clock."
+        },
+        {
+          "theory_id": "T013482",
+          "subcluster_name": "Germline Inheritance of Telomere Length Theory",
+          "reasoning": "Proposes telomere length and integrity in gametes determine offspring longevity, with parental age effects influencing transmission."
+        },
+        {
+          "theory_id": "T015624",
+          "subcluster_name": "Evolutionary Telomere Maintenance and Tumor Suppression Theory",
+          "reasoning": "Explains evolution of telomere maintenance and tumor suppressor mechanisms differing by body size and lifespan across mammals."
+        },
+        {
+          "theory_id": "T016544",
+          "subcluster_name": "Evolutionary Telomere Maintenance and Tumor Suppression Theory",
+          "reasoning": "Describes evolutionary trade-off between telomere length, cancer resistance, and degenerative diseases shaping telomere biology."
+        },
+        {
+          "theory_id": "T010675",
+          "subcluster_name": "Evolutionary Telomere Maintenance and Tumor Suppression Theory",
+          "reasoning": "Presents telomere erosion as tumor suppressor mechanism evolved to balance cancer risk and tissue regeneration."
+        },
+        {
+          "theory_id": "T015991",
+          "subcluster_name": "Telomere Dysfunction Cascade in Premature Aging Theory",
+          "reasoning": "Details telomere dysfunction triggering p53 activation, mitochondrial ROS, and premature aging cascade in Werner syndrome."
+        },
+        {
+          "theory_id": "T016384",
+          "subcluster_name": "Telomerase Reverse Transcriptase Non-Telomeric Function Theory",
+          "reasoning": "Focuses on TERT's telomere-independent protective roles in stem cells against ROS-induced apoptosis and aging."
+        },
+        {
+          "theory_id": "T016448",
+          "subcluster_name": "Telomerase Reverse Transcriptase Non-Telomeric Function Theory",
+          "reasoning": "Describes dual nuclear and mitochondrial functions of TERT beyond telomere maintenance, protecting against aging-related damage."
+        },
+        {
+          "theory_id": "T016741",
+          "subcluster_name": "Alternative Telomere Lengthening in Long-Lived Bats Theory",
+          "reasoning": "Shows bats maintain telomeres without telomerase via ALT and DNA repair genes, supporting exceptional longevity."
+        },
+        {
+          "theory_id": "T014324",
+          "subcluster_name": "Replicative Aging by Asymmetric Damage Segregation Theory",
+          "reasoning": "Explains replicative aging in unicellular organisms via asymmetric segregation of damaged proteins causing aging."
+        },
+        {
+          "theory_id": "T014488",
+          "subcluster_name": "Replicative Aging by Asymmetric Damage Segregation Theory",
+          "reasoning": "Focuses on yeast replicative aging caused by accumulation of extrachromosomal rDNA circles retained asymmetrically in mother cells."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:22:55"
+}

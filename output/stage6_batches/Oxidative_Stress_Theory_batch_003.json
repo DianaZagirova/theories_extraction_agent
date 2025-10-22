@@ -1,0 +1,222 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Caloric Restriction and Lipid Peroxidation Theory",
+        "theory_ids": [
+          "T005040",
+          "T004936",
+          "T004445",
+          "T002965",
+          "T005542",
+          "T005745",
+          "T004574"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+        "theory_ids": [
+          "T005104",
+          "T005137",
+          "T004461",
+          "T005210",
+          "T005572",
+          "T003190",
+          "T005682",
+          "T003799",
+          "T005612",
+          "T004423"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T005454",
+          "T005721",
+          "T005165",
+          "T002054",
+          "T003062",
+          "T004555",
+          "T004426"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Tissue Peroxidation and Longevity Theory",
+        "theory_ids": [
+          "T005008",
+          "T004649",
+          "T005064",
+          "T003995",
+          "T004084",
+          "T004134"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005040",
+          "subcluster_name": "Caloric Restriction and Lipid Peroxidation Theory",
+          "reasoning": "Focuses on caloric restriction effects on lifespan via modulation of lipid peroxidation and oxidative damage, emphasizing genotype-environment interactions and lipid oxidative products."
+        },
+        {
+          "theory_id": "T004936",
+          "subcluster_name": "Caloric Restriction and Lipid Peroxidation Theory",
+          "reasoning": "Describes how caloric restriction reduces mitochondrial ROS production and oxidative damage, linking CR to lifespan extension through modulation of oxidative stress."
+        },
+        {
+          "theory_id": "T004445",
+          "subcluster_name": "Caloric Restriction and Lipid Peroxidation Theory",
+          "reasoning": "Discusses oxidative stress as a driver of aging and how antioxidant enzymes modulate damage, with emphasis on caloric restriction reducing oxidative damage and extending lifespan."
+        },
+        {
+          "theory_id": "T002965",
+          "subcluster_name": "Caloric Restriction and Lipid Peroxidation Theory",
+          "reasoning": "Focuses on caloric restriction slowing aging by reducing oxidative damage and enhancing antioxidant defenses and repair mechanisms."
+        },
+        {
+          "theory_id": "T005542",
+          "subcluster_name": "Caloric Restriction and Lipid Peroxidation Theory",
+          "reasoning": "Describes mitohormesis triggered by calorie restriction mimetics and triglyceride depletion, activating sirtuin pathways and antioxidant defenses to promote longevity."
+        },
+        {
+          "theory_id": "T005745",
+          "subcluster_name": "Caloric Restriction and Lipid Peroxidation Theory",
+          "reasoning": "Explains mitohormesis induced by caloric restriction mimetics that increase mitochondrial ROS signaling to enhance antioxidant defenses and autophagy, promoting longevity."
+        },
+        {
+          "theory_id": "T004574",
+          "subcluster_name": "Caloric Restriction and Lipid Peroxidation Theory",
+          "reasoning": "Focuses on lipid peroxidation biomarkers and antioxidant vitamin E deficiency accelerating aging phenotypes, linking oxidative damage to functional decline."
+        },
+        {
+          "theory_id": "T005104",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+          "reasoning": "Proposes a genetic regulatory network (oxy-regulon) controlling antioxidant enzyme expression that determines lifespan by modulating oxidative stress defenses."
+        },
+        {
+          "theory_id": "T005137",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+          "reasoning": "Emphasizes extracellular superoxide dismutase (ecSOD) as a key antioxidant enzyme whose decline with age causes oxidative stress and endothelial dysfunction."
+        },
+        {
+          "theory_id": "T004461",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+          "reasoning": "Highlights the role of mitochondrial ROS and antioxidant enzymes like Cu,ZnSOD in skeletal muscle aging, linking enzyme activity to oxidative damage and functional decline."
+        },
+        {
+          "theory_id": "T005210",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+          "reasoning": "Focuses on imbalance of antioxidant enzymes (SOD1/Gpx1 ratio) leading to hydrogen peroxide accumulation and cellular senescence, implicating enzyme regulation in aging."
+        },
+        {
+          "theory_id": "T005572",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+          "reasoning": "Describes mitochondrial ROS production and antioxidant enzyme scavenging balance in fungal aging models, linking enzyme activity to lifespan modulation."
+        },
+        {
+          "theory_id": "T003190",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+          "reasoning": "Discusses evolution and coordination of antioxidant defense mechanisms, highlighting genetic and metabolic adaptations influencing oxidative stress resistance."
+        },
+        {
+          "theory_id": "T005682",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+          "reasoning": "Focuses on ROS accumulation and antioxidant defense inefficiency in yeast chronological aging, linking enzyme activity and stress resistance to lifespan."
+        },
+        {
+          "theory_id": "T003799",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+          "reasoning": "Describes mitochondrial dysfunction, ROS imbalance, and mtDNA damage in aging, emphasizing antioxidant defense decline and genetic factors in oxidative stress."
+        },
+        {
+          "theory_id": "T005612",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+          "reasoning": "Details ROS production, antioxidant defenses, and systemic oxidative damage accumulation in aging males, highlighting enzymatic and non-enzymatic antioxidants."
+        },
+        {
+          "theory_id": "T004423",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes Theory",
+          "reasoning": "Focuses on ROS damage accumulation and metallothionein antioxidant regulation via genetic pathways, linking gene expression control to oxidative stress and aging."
+        },
+        {
+          "theory_id": "T005454",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Emphasizes oxidative stress causing DNA damage and antioxidant depletion leading to cellular senescence, particularly in human peritoneal mesothelial cells."
+        },
+        {
+          "theory_id": "T005721",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes oxidative stress-driven premature immunosenescence via ROS-induced DNA damage, telomere shortening, and inflammatory feedback loops in T cells."
+        },
+        {
+          "theory_id": "T005165",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on oxidative stress accelerating telomere shortening and dysfunction, linking ROS damage to cellular senescence and biological aging."
+        },
+        {
+          "theory_id": "T002054",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes oxidative stress causing premature loss of meiotic cohesion in oocytes, leading to chromosome segregation errors and reproductive aging."
+        },
+        {
+          "theory_id": "T003062",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Links oxidative DNA damage to PARP hyperactivation causing NAD+ depletion, impairing energy metabolism and sirtuin activity, accelerating cellular aging."
+        },
+        {
+          "theory_id": "T004555",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Highlights ROS-induced cellular damage and apoptosis mediated by p66shc, linking oxidative stress signaling to aging and degenerative diseases."
+        },
+        {
+          "theory_id": "T004426",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on region-specific oxidative protein damage in brain causing cognitive and motor decline, linking oxidative stress to functional senescence."
+        },
+        {
+          "theory_id": "T005008",
+          "subcluster_name": "Tissue Peroxidation and Longevity Theory",
+          "reasoning": "Proposes that tissue-specific peroxidation potential and antioxidant defenses determine species longevity, emphasizing biochemical tissue properties in aging."
+        },
+        {
+          "theory_id": "T004649",
+          "subcluster_name": "Tissue Peroxidation and Longevity Theory",
+          "reasoning": "Links accumulation of protein oxidative damage and insufficient repair to physiological aging rate and life expectancy, focusing on protein carbonyls as biomarkers."
+        },
+        {
+          "theory_id": "T005064",
+          "subcluster_name": "Tissue Peroxidation and Longevity Theory",
+          "reasoning": "Emphasizes oxidative DNA and protein damage accumulation influenced by metabolic rate, correlating damage levels with life expectancy in houseflies."
+        },
+        {
+          "theory_id": "T003995",
+          "subcluster_name": "Tissue Peroxidation and Longevity Theory",
+          "reasoning": "Describes oxidative damage mitigation in social insects linked to caste longevity, highlighting enhanced oxidation-reduction gene expression and reproductive status."
+        },
+        {
+          "theory_id": "T004084",
+          "subcluster_name": "Tissue Peroxidation and Longevity Theory",
+          "reasoning": "Proposes urate as a major endogenous antioxidant influencing longevity by scavenging oxygen radicals, linking antioxidant concentration per metabolic rate to lifespan."
+        },
+        {
+          "theory_id": "T004134",
+          "subcluster_name": "Tissue Peroxidation and Longevity Theory",
+          "reasoning": "Presents computational models of ROS production, signaling, and scavenging, emphasizing mitochondrial ROS bistability and redox balance in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:16:53"
+}

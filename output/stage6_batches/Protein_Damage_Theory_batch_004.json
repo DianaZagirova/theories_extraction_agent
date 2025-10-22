@@ -1,0 +1,197 @@
+{
+  "cluster_name": "Protein Damage Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+        "theory_ids": [
+          "T011249",
+          "T011058",
+          "T013274",
+          "T009972",
+          "T012635",
+          "T011638",
+          "T013570",
+          "T013545",
+          "T014520",
+          "T010954",
+          "T009366",
+          "T013363",
+          "T012957",
+          "T012119",
+          "T013262",
+          "T014540",
+          "T010552"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "Protein Oxidation and Aggregation Theory",
+        "theory_ids": [
+          "T014053",
+          "T008593",
+          "T012467"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Altered Protein Accumulation and Stability Theory",
+        "theory_ids": [
+          "T008227",
+          "T004983"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011249",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Focuses on mitochondrial proteostasis and resource allocation within the proteostasis network, emphasizing maintenance of protein turnover and quality control as central to aging."
+        },
+        {
+          "theory_id": "T011058",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Describes the decline of the proteostasis network including chaperones, proteasome, and autophagy, linking proteostasis loss to aging and reproductive decline."
+        },
+        {
+          "theory_id": "T013274",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Details proteostasis collapse due to impaired folding, stress responses, and chronic misfolding, highlighting proteostasis network failure as a driver of aging."
+        },
+        {
+          "theory_id": "T009972",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Focuses on proteostasis loss in the eye, emphasizing chaperone failure, oxidative stress, and protein aggregation as mechanisms of aging."
+        },
+        {
+          "theory_id": "T012635",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Highlights proteasome decline as a key mechanism in proteostasis loss and aging, with evidence that proteasome activity modulates lifespan."
+        },
+        {
+          "theory_id": "T011638",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Focuses on protein quality control system failure including chaperones, proteasome, and unfolded protein response decline driving proteostasis loss in aging."
+        },
+        {
+          "theory_id": "T013570",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Describes the proteostasis network as a complex system whose age-dependent decline leads to protein aggregation and aging phenotypes."
+        },
+        {
+          "theory_id": "T013545",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Proposes early adulthood proteostasis collapse due to impaired stress responses and proteostasis regulators as a fundamental aging event."
+        },
+        {
+          "theory_id": "T014520",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Emphasizes the importance of chaperones and proteolytic systems in proteostasis and their age-related decline causing protein damage accumulation."
+        },
+        {
+          "theory_id": "T010954",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Links proteostasis collapse to chaperone depletion and cell cycle arrest, highlighting proteostasis network failure as a driver of cellular aging."
+        },
+        {
+          "theory_id": "T009366",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Describes proteostasis network decline as a causal driver of aging, involving chaperones, proteasome, and autophagy across tissues and organismal levels."
+        },
+        {
+          "theory_id": "T013363",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Focuses on proteolysis dysfunction and proteostasis network decline leading to protein aggregation, inflammation, and aging-related diseases."
+        },
+        {
+          "theory_id": "T012957",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Details decline in proteostasis pathways including autophagy, heat shock response, and ubiquitin-proteasome system as mechanisms of aging."
+        },
+        {
+          "theory_id": "T012119",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Describes proteostasis collapse and proteasome dysfunction as causal in aging, with proteasome enhancement extending lifespan."
+        },
+        {
+          "theory_id": "T013262",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Focuses on proteasome decline with age impairing protein degradation and accelerating aging, highlighting proteasome as a key proteostasis component."
+        },
+        {
+          "theory_id": "T014540",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Shows how aging and calorie restriction modulate proteasome activity and oxidative protein damage, linking proteostasis maintenance to lifespan."
+        },
+        {
+          "theory_id": "T010552",
+          "subcluster_name": "Proteostasis Network Decline and Maintenance Theory",
+          "reasoning": "Describes proteostatic dysfunction in aging and traumatic brain injury, focusing on impaired stress responses and proteostasis network failure."
+        },
+        {
+          "theory_id": "T013836",
+          "subcluster_name": "Chaperonin-Mediated Proteostasis Maintenance Theory",
+          "reasoning": "Focuses on TRiC/CCT chaperonin complex and its subunit CCT8 in maintaining proteostasis and extending lifespan by preventing protein aggregation."
+        },
+        {
+          "theory_id": "T011063",
+          "subcluster_name": "Proteostasis Maintenance via Protein Synthesis Regulation Theory",
+          "reasoning": "Emphasizes the ratio of protein synthesis to DNA synthesis as a key mechanism allocating resources to proteostasis maintenance and slowed aging."
+        },
+        {
+          "theory_id": "T013618",
+          "subcluster_name": "Proteostatic Energy Cost Minimization Theory",
+          "reasoning": "Proposes that minimizing energy cost of proteostasis maintenance shapes proteome evolution and impacts aging via resource allocation trade-offs."
+        },
+        {
+          "theory_id": "T010749",
+          "subcluster_name": "Metabolic Regulation of Proteostasis Theory",
+          "reasoning": "Links metabolic signaling pathways (IIS, TOR, AMPK, sirtuins) to regulation of proteostasis mechanisms influencing aging and systemic integration."
+        },
+        {
+          "theory_id": "T014053",
+          "subcluster_name": "Protein Oxidation and Aggregation Theory",
+          "reasoning": "Focuses on accumulation of oxidized proteins and aggregates, lipofuscin buildup, and oxidative stress driving proteostasis impairment and aging."
+        },
+        {
+          "theory_id": "T008593",
+          "subcluster_name": "Protein Oxidation and Aggregation Theory",
+          "reasoning": "Highlights reactive protein oxidation products as active drivers of aging through propagation of molecular damage and accumulation of oxidized proteins."
+        },
+        {
+          "theory_id": "T012467",
+          "subcluster_name": "Protein Oxidation and Aggregation Theory",
+          "reasoning": "Focuses on protein carbonylation, a ROS-dependent oxidative modification, accumulating with age and impairing proteostasis and cellular function."
+        },
+        {
+          "theory_id": "T008227",
+          "subcluster_name": "Altered Protein Accumulation and Stability Theory",
+          "reasoning": "Proposes accumulation of altered proteins with decreased thermal stability due to mutations and modifications as a primary aging process."
+        },
+        {
+          "theory_id": "T004983",
+          "subcluster_name": "Altered Protein Accumulation and Stability Theory",
+          "reasoning": "Describes proteome stabilization by trehalose reducing protein turnover and aggregation, promoting longevity via enhanced protein stability."
+        },
+        {
+          "theory_id": "T010581",
+          "subcluster_name": "Protein Racemization and Spontaneous PTM Theory",
+          "reasoning": "Focuses on spontaneous racemization and irreversible post-translational modifications causing loss of protein function and contributing to aging."
+        },
+        {
+          "theory_id": "T006906",
+          "subcluster_name": "Transcription Error-Induced Amyloidogenesis Theory",
+          "reasoning": "Proposes that transcription errors generate mutant amyloid-like proteins that seed aggregation, linking DNA damage to proteotoxicity and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:05:29"
+}

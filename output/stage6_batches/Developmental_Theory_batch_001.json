@@ -1,0 +1,153 @@
+{
+  "cluster_name": "Developmental Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Temporal Scaling Developmental Theory",
+        "theory_ids": [
+          "T003905",
+          "T004662",
+          "T009832",
+          "T007462"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Developmental Rate and Longevity Theory",
+        "theory_ids": [
+          "T005537",
+          "T005815",
+          "T005423",
+          "T004673",
+          "T008483",
+          "T003443",
+          "T007295"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Gene Regulation Continuity Developmental Theory",
+        "theory_ids": [
+          "T004808",
+          "T000285",
+          "T008617",
+          "T001419",
+          "T009776",
+          "T004847",
+          "T005181"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T003905",
+          "subcluster_name": "Temporal Scaling Developmental Theory",
+          "reasoning": "This theory focuses on temporal scaling of aging dynamics and lifespan distributions, emphasizing a systemic rate constant governing aging progression, fitting the temporal scaling mechanistic theme."
+        },
+        {
+          "theory_id": "T004662",
+          "subcluster_name": "Temporal Scaling Developmental Theory",
+          "reasoning": "It describes aging as a fixed trajectory modulated by a rate constant, with lifespan changes manifesting as time axis scaling, matching the temporal scaling mechanism."
+        },
+        {
+          "theory_id": "T009832",
+          "subcluster_name": "Temporal Scaling Developmental Theory",
+          "reasoning": "This theory integrates life history and molecular aging through temporal scaling of development, reproduction, and aging, fitting the temporal scaling theme."
+        },
+        {
+          "theory_id": "T007462",
+          "subcluster_name": "Temporal Scaling Developmental Theory",
+          "reasoning": "It proposes evolutionary ontogenetic regulatory changes that scale somatic growth and aging rates across species, consistent with temporal scaling of developmental and aging processes."
+        },
+        {
+          "theory_id": "T005537",
+          "subcluster_name": "Developmental Rate and Longevity Theory",
+          "reasoning": "This theory links developmental rate causally to adult lifespan, emphasizing developmental timing and programming effects on aging, fitting a developmental rate-longevity mechanistic cluster."
+        },
+        {
+          "theory_id": "T005815",
+          "subcluster_name": "Developmental Rate and Longevity Theory",
+          "reasoning": "It highlights pleiotropic genetic effects linking development and aging, and trade-offs between growth rate and lifespan, consistent with developmental rate influencing longevity."
+        },
+        {
+          "theory_id": "T005423",
+          "subcluster_name": "Developmental Rate and Longevity Theory",
+          "reasoning": "This theory describes aging as a programmed sequence of gene regulation phases extending development, linking gene regulation timing to lifespan, fitting developmental rate and longevity."
+        },
+        {
+          "theory_id": "T004673",
+          "subcluster_name": "Developmental Rate and Longevity Theory",
+          "reasoning": "It emphasizes genetic regulation of aging rate linked to developmental timing and biosenescent processes, with slowed development increasing longevity, matching developmental rate and longevity."
+        },
+        {
+          "theory_id": "T008483",
+          "subcluster_name": "Developmental Rate and Longevity Theory",
+          "reasoning": "This theory views aging as a genetically programmed continuum of development and maturation, with species-specific lifespan determined by genetic regulation, consistent with developmental rate and longevity."
+        },
+        {
+          "theory_id": "T003443",
+          "subcluster_name": "Developmental Rate and Longevity Theory",
+          "reasoning": "It conceptualizes aging as a software design flaw in the developmental genetic program, with species differences explained by developmental pace, fitting developmental rate and longevity."
+        },
+        {
+          "theory_id": "T007295",
+          "subcluster_name": "Developmental Rate and Longevity Theory",
+          "reasoning": "This theory proposes aging as a consequence of continued somatic remodeling (developmental inertia) beyond maturity, linking ongoing developmental processes to aging progression."
+        },
+        {
+          "theory_id": "T004808",
+          "subcluster_name": "Gene Regulation Continuity Developmental Theory",
+          "reasoning": "It focuses on continuity of gene expression regulation from development into aging, with miRNAs and TFs modulating gene expression trajectories, fitting a gene regulation continuity theme."
+        },
+        {
+          "theory_id": "T000285",
+          "subcluster_name": "Gene Regulation Continuity Developmental Theory",
+          "reasoning": "This theory highlights conserved epigenetic remodeling of developmental gene networks as a fundamental aging mechanism, supporting continuity of developmental regulation into aging."
+        },
+        {
+          "theory_id": "T008617",
+          "subcluster_name": "Gene Regulation Continuity Developmental Theory",
+          "reasoning": "It proposes aging driven by decay of developmental signaling pathways and derepression of p16INK4a, integrating multiple developmental pathways in aging regulation."
+        },
+        {
+          "theory_id": "T001419",
+          "subcluster_name": "Gene Regulation Continuity Developmental Theory",
+          "reasoning": "This theory links genetic and epigenetic drift in developmental programs to aging, implicating developmental signaling pathways like Hedgehog and Wnt in aging mechanisms."
+        },
+        {
+          "theory_id": "T009776",
+          "subcluster_name": "Gene Regulation Continuity Developmental Theory",
+          "reasoning": "DevAge posits aging as a developmental program active throughout life, with shared molecular pathways between development and aging, fitting gene regulation continuity."
+        },
+        {
+          "theory_id": "T004847",
+          "subcluster_name": "Gene Regulation Continuity Developmental Theory",
+          "reasoning": "It views development and aging as a continuum with early life programming influencing lifelong aging trajectories, emphasizing gene regulatory and epigenetic mechanisms."
+        },
+        {
+          "theory_id": "T005181",
+          "subcluster_name": "Gene Regulation Continuity Developmental Theory",
+          "reasoning": "This theory emphasizes developmental plasticity, embryonic senescence, and genetic/epigenetic drift disrupting developmental programs leading to aging, fitting gene regulation continuity."
+        },
+        {
+          "theory_id": "T005748",
+          "subcluster_name": "Mitochondrial Dysfunction Developmental Programming Theory",
+          "reasoning": "It focuses on developmental programming of aging via mitochondrial dysfunction caused by early life nutrient restriction, linking mitochondrial deficits to accelerated aging."
+        },
+        {
+          "theory_id": "T004979",
+          "subcluster_name": "Gene Repression Loss Cellular Senescence Theory",
+          "reasoning": "This theory explains cellular senescence by stochastic loss of repressor gene copies leading to inhibitor gene expression and cell cycle arrest, a distinct gene repression loss mechanism."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:52:27"
+}

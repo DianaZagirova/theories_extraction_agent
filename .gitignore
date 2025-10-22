@@ -12,8 +12,28 @@ __pycache__/
 venv/
 **/venv/
 
-documentation/
+# documentation/
 back_theories_database/
-output/
+# output/
 test_runs/
 internal_notes/
+
+
+normalization_legacy/
+ontology/legacy
+output/prototype
+
+src/normalization/normalization_legacy
+output/output_legacy
+qa_results_deprecated
+# scripts/clusterization
+#git rm -r --cached src/normalization/normalization_legacy
+
+
+theories_abstract_per_paper_checkpoint.json
+theories_abstract_per_paper.json
+theories_abstract.db
+theories_per_paper_checkpoint.json
+theories_per_paper_from_script.json
+theories_per_paper.json
+theories.db

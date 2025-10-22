@@ -1,0 +1,235 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 13,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Lipid Peroxidation-Driven Free Radical Theory",
+        "theory_ids": [
+          "T013025",
+          "T013068",
+          "T012887",
+          "T013118"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Protein Oxidation and Oxidative Stress Theory",
+        "theory_ids": [
+          "T013557",
+          "T013139",
+          "T013083",
+          "T013299",
+          "T013665",
+          "T013542",
+          "T012877",
+          "T013671",
+          "T013305"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T013498",
+          "T013324",
+          "T013204",
+          "T013633",
+          "T013087",
+          "T013041",
+          "T013092",
+          "T013175",
+          "T013234",
+          "T013106"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "ROS-Induced Cellular Senescence Free Radical Theory",
+        "theory_ids": [
+          "T012849",
+          "T012712"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Photoaging Free Radical Theory",
+        "theory_ids": [
+          "T013448",
+          "T013717"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Free Radical-Glycation Synergistic Damage Theory",
+        "theory_ids": [
+          "T012335",
+          "T013714"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T013025",
+          "subcluster_name": "Lipid Peroxidation-Driven Free Radical Theory",
+          "reasoning": "Focuses on free radical-induced lipid peroxidation and its role in aging, especially via dietary polyunsaturated fatty acids increasing lipid peroxide levels."
+        },
+        {
+          "theory_id": "T013068",
+          "subcluster_name": "Lipid Peroxidation-Driven Free Radical Theory",
+          "reasoning": "Emphasizes the role of dietary fat unsaturation in promoting lipid peroxidation and accelerating aging through free radical chain reactions."
+        },
+        {
+          "theory_id": "T012887",
+          "subcluster_name": "Lipid Peroxidation-Driven Free Radical Theory",
+          "reasoning": "Highlights free radical-induced lipid peroxidation in the CNS, linking dietary fat composition to oxidative damage and cognitive decline."
+        },
+        {
+          "theory_id": "T013118",
+          "subcluster_name": "Lipid Peroxidation-Driven Free Radical Theory",
+          "reasoning": "Describes membrane susceptibility to oxidative damage, especially mitochondrial membranes rich in fatty acids, driving aging via lipid peroxidation."
+        },
+        {
+          "theory_id": "T013557",
+          "subcluster_name": "Protein Oxidation and Oxidative Stress Theory",
+          "reasoning": "Focuses on oxidative stress causing protein carbonylation and damage, emphasizing protein oxidation as a biomarker and driver of aging."
+        },
+        {
+          "theory_id": "T013139",
+          "subcluster_name": "Protein Oxidation and Oxidative Stress Theory",
+          "reasoning": "Details specificity and accumulation of protein carbonylation as a key oxidative damage mechanism contributing to aging."
+        },
+        {
+          "theory_id": "T013083",
+          "subcluster_name": "Protein Oxidation and Oxidative Stress Theory",
+          "reasoning": "Focuses on superoxide dismutase activity and its role in protecting against free radical-induced protein damage during aging."
+        },
+        {
+          "theory_id": "T013299",
+          "subcluster_name": "Protein Oxidation and Oxidative Stress Theory",
+          "reasoning": "Discusses antioxidant supplementation reducing oxidative damage accumulation, particularly protein oxidation, to slow aging."
+        },
+        {
+          "theory_id": "T013665",
+          "subcluster_name": "Protein Oxidation and Oxidative Stress Theory",
+          "reasoning": "Shows vitamin E antioxidant effects in reducing oxidative protein damage and extending cellular lifespan."
+        },
+        {
+          "theory_id": "T013542",
+          "subcluster_name": "Protein Oxidation and Oxidative Stress Theory",
+          "reasoning": "Explores antioxidants' role in neutralizing free radicals to reduce oxidative damage, including protein oxidation, affecting aging."
+        },
+        {
+          "theory_id": "T012877",
+          "subcluster_name": "Protein Oxidation and Oxidative Stress Theory",
+          "reasoning": "Focuses on NADPH-dependent antioxidant defense systems that protect proteins and other macromolecules from oxidative damage."
+        },
+        {
+          "theory_id": "T013671",
+          "subcluster_name": "Protein Oxidation and Oxidative Stress Theory",
+          "reasoning": "Examines glutathione redox regulation and its limited correlation with lifespan, highlighting redox balance in oxidative stress."
+        },
+        {
+          "theory_id": "T013498",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production during electron transport as a primary cause of oxidative damage and aging."
+        },
+        {
+          "theory_id": "T013324",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS attenuation by bilirubin reducing oxidative damage, inflammation, and improving mitochondrial function."
+        },
+        {
+          "theory_id": "T013204",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Integrates mitochondrial ROS production, mitochondrial DNA damage, and metabolic rate as central to aging mechanisms."
+        },
+        {
+          "theory_id": "T013633",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Links rate of mitochondrial oxygen radical production across species to lifespan, highlighting mitochondrial ROS as aging determinant."
+        },
+        {
+          "theory_id": "T013087",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes oxygen metabolism generating ROS that cause oxidative damage, emphasizing mitochondrial origin and oxygen toxicity."
+        },
+        {
+          "theory_id": "T013041",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial metabolism as main source of free radicals causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T013092",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights ROS-induced oxidative damage affecting stem cells, linking mitochondrial ROS to aging via regenerative decline."
+        },
+        {
+          "theory_id": "T013175",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes accumulation of oxygen-derived free radical damage from mitochondrial metabolism as central to aging."
+        },
+        {
+          "theory_id": "T013234",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial electron transport efficiency and ROS production rate as determinants of aging and lifespan."
+        },
+        {
+          "theory_id": "T013106",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial free radical production causing oxidative damage to cellular components leading to aging."
+        },
+        {
+          "theory_id": "T012849",
+          "subcluster_name": "ROS-Induced Cellular Senescence Free Radical Theory",
+          "reasoning": "Focuses on ROS as signaling molecules inducing cellular senescence via specific pathways, linking oxidative stress to aging."
+        },
+        {
+          "theory_id": "T012712",
+          "subcluster_name": "ROS-Induced Cellular Senescence Free Radical Theory",
+          "reasoning": "Highlights oxidative DNA damage and repair decline in neurons contributing to senescence and neurodegeneration in aging."
+        },
+        {
+          "theory_id": "T013448",
+          "subcluster_name": "Photoaging Free Radical Theory",
+          "reasoning": "Describes UV-induced ROS generation causing oxidative damage to skin components, leading to photoaging."
+        },
+        {
+          "theory_id": "T013717",
+          "subcluster_name": "Photoaging Free Radical Theory",
+          "reasoning": "Focuses on UVA radiation generating ROS via photosensitizers causing oxidative damage and structural skin changes in photoaging."
+        },
+        {
+          "theory_id": "T012335",
+          "subcluster_name": "Free Radical-Glycation Synergistic Damage Theory",
+          "reasoning": "Proposes synergistic aging damage from free radicals and Maillard reaction products (AGEs), amplifying oxidative and glycation damage."
+        },
+        {
+          "theory_id": "T013714",
+          "subcluster_name": "Free Radical-Glycation Synergistic Damage Theory",
+          "reasoning": "Emphasizes combined effects of free radical damage and Maillard reaction products in aging, with protective mechanisms in birds."
+        },
+        {
+          "theory_id": "T012820",
+          "subcluster_name": "Amyloidosis-Linked Free Radical Theory",
+          "reasoning": "Links oxidative degradation of connective tissue glycoproteins to amyloidosis formation, a downstream effect of free radical damage."
+        },
+        {
+          "theory_id": "T013305",
+          "subcluster_name": "Protein Oxidation and Oxidative Stress Theory",
+          "reasoning": "Extends oxidative damage theory to prokaryotes, highlighting oxidative attack on aberrant proteins as aging mechanism."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:13:00"
+}

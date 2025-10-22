@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 37,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T023739",
+          "T023851",
+          "T024163",
+          "T024098",
+          "T023784",
+          "T023731",
+          "T023681",
+          "T024051",
+          "T023764"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+        "theory_ids": [
+          "T023834",
+          "T023796",
+          "T024177",
+          "T023798",
+          "T023688",
+          "T023721",
+          "T024039",
+          "T024099",
+          "T024100"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Lysosomal and Autophagy-Related Cellular Senescence Theory",
+        "theory_ids": [
+          "T023829",
+          "T023807",
+          "T023698",
+          "T024020",
+          "T023426"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Progenitor Cell Senescence and Tissue Regeneration Decline Theory",
+        "theory_ids": [
+          "T023762",
+          "T024104",
+          "T024094"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T023739",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on oxidative stress as a primary driver of cellular senescence and aging via ROS/RONS imbalance and antioxidant defense failure."
+        },
+        {
+          "theory_id": "T023851",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Emphasizes oxidative stress as a trigger of neuronal senescence and brain aging, linking ROS damage to senescence mechanisms."
+        },
+        {
+          "theory_id": "T024163",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Highlights oxidative damage accelerating senescence in skin aging, with ROS-induced DNA and telomere damage."
+        },
+        {
+          "theory_id": "T024098",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes senescence induction by multiple stressors including oxidative stress, with SASP and apoptosis resistance."
+        },
+        {
+          "theory_id": "T023784",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Includes macromolecular damage such as DNA breaks and oxidative stress as key drivers of senescence and inflammaging."
+        },
+        {
+          "theory_id": "T023731",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on DNA damage and genomic instability including aneuploidy as mechanisms driving senescence, often linked to oxidative stress."
+        },
+        {
+          "theory_id": "T023681",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "MicroRNA regulation of senescence pathways including DNA damage response and telomere shortening, processes often linked to oxidative stress."
+        },
+        {
+          "theory_id": "T024051",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes senescence induction by genotoxic damage and mitochondrial dysfunction, both related to oxidative stress."
+        },
+        {
+          "theory_id": "T023764",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes molecular pathways reinforcing senescence including p16INK4a and NF-\u03baB, downstream of oxidative and genotoxic stress."
+        },
+        {
+          "theory_id": "T023834",
+          "subcluster_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+          "reasoning": "Focuses on senescence in immune cells, SASP-driven chronic inflammation, and immune dysfunction as drivers of aging and autoimmunity."
+        },
+        {
+          "theory_id": "T023796",
+          "subcluster_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+          "reasoning": "Describes senescent microglia/macrophages in CNS lesions secreting SASP factors that impair remyelination and promote inflammation."
+        },
+        {
+          "theory_id": "T024177",
+          "subcluster_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+          "reasoning": "Senescence of multiple CNS immune and glial cell types with SASP promoting inflammation and disease progression in multiple sclerosis."
+        },
+        {
+          "theory_id": "T023798",
+          "subcluster_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+          "reasoning": "General theory emphasizing senescent cell accumulation, SASP-driven inflammation, apoptosis resistance, and senolytic interventions."
+        },
+        {
+          "theory_id": "T023688",
+          "subcluster_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+          "reasoning": "Links cellular senescence and SASP to chronic inflammation and frailty, highlighting systemic inflammatory burden."
+        },
+        {
+          "theory_id": "T023721",
+          "subcluster_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+          "reasoning": "Focuses on irreversible growth arrest, SASP secretion, and senolytic therapies targeting inflammation-driven aging."
+        },
+        {
+          "theory_id": "T024039",
+          "subcluster_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+          "reasoning": "Details SASP proteomic profile and its systemic inflammatory effects driving aging traits and pathologies."
+        },
+        {
+          "theory_id": "T024099",
+          "subcluster_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+          "reasoning": "Describes senescent cell accumulation and SASP-driven chronic inflammation causing tissue dysfunction in the eye."
+        },
+        {
+          "theory_id": "T024100",
+          "subcluster_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+          "reasoning": "Vascular senescence with SASP disrupts blood-brain barrier integrity and promotes inflammation in Alzheimer's disease."
+        },
+        {
+          "theory_id": "T023829",
+          "subcluster_name": "Lysosomal and Autophagy-Related Cellular Senescence Theory",
+          "reasoning": "Focuses on TFEB/TFE3-driven lysosomal biogenesis as essential for senescent cell survival and SASP regulation."
+        },
+        {
+          "theory_id": "T023807",
+          "subcluster_name": "Lysosomal and Autophagy-Related Cellular Senescence Theory",
+          "reasoning": "Cholesterol accumulation induces senescence via lysosomal ABCA1 trafficking dysfunction and mTORC1 activation."
+        },
+        {
+          "theory_id": "T023698",
+          "subcluster_name": "Lysosomal and Autophagy-Related Cellular Senescence Theory",
+          "reasoning": "SUV39H1-mediated heterochromatin regulation affects genome stability and senescence, linking chromatin state to lysosomal/autophagy pathways."
+        },
+        {
+          "theory_id": "T024020",
+          "subcluster_name": "Lysosomal and Autophagy-Related Cellular Senescence Theory",
+          "reasoning": "p53 isoform regulation of senescence involves DNA repair and autophagy-related protein degradation pathways."
+        },
+        {
+          "theory_id": "T023426",
+          "subcluster_name": "Lysosomal and Autophagy-Related Cellular Senescence Theory",
+          "reasoning": "\u0394133p53 isoform inhibits astrocyte senescence and neurotoxicity, implicating autophagy and proteostasis in senescence regulation."
+        },
+        {
+          "theory_id": "T023762",
+          "subcluster_name": "Progenitor Cell Senescence and Tissue Regeneration Decline Theory",
+          "reasoning": "Senescence of progenitor cells impairs tissue repair and promotes fibrosis, highlighting stem cell exhaustion mechanisms."
+        },
+        {
+          "theory_id": "T024104",
+          "subcluster_name": "Progenitor Cell Senescence and Tissue Regeneration Decline Theory",
+          "reasoning": "Senescent alveolar epithelial progenitors contribute to idiopathic pulmonary fibrosis via SASP and stem cell exhaustion."
+        },
+        {
+          "theory_id": "T024094",
+          "subcluster_name": "Progenitor Cell Senescence and Tissue Regeneration Decline Theory",
+          "reasoning": "BMAL1-AP-1 interaction modulates senescence programming affecting chromatin and gene expression, impacting tissue regeneration."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:27:54"
+}

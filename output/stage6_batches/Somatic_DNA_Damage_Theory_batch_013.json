@@ -1,0 +1,218 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 13,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nucleotide Excision Repair Deficiency and DNA Damage Accumulation Theory",
+        "theory_ids": [
+          "T017676",
+          "T017331",
+          "T016472",
+          "T017683",
+          "T016144",
+          "T017644",
+          "T017063"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "PARP-Mediated DNA Repair and Genomic Stability Theory",
+        "theory_ids": [
+          "T017509",
+          "T016143",
+          "T017793",
+          "T016371"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Molecular Damage Accumulation via AGEs and Lipofuscin Theory",
+        "theory_ids": [
+          "T016297",
+          "T016785"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Genome Instability and Telomere Maintenance Theory",
+        "theory_ids": [
+          "T016366",
+          "T016341",
+          "T017099"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T017676",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and DNA Damage Accumulation Theory",
+          "reasoning": "Focuses on accumulation of transcription-blocking DNA damage and defects in transcription-coupled NER causing aging phenotypes."
+        },
+        {
+          "theory_id": "T016394",
+          "subcluster_name": "Oxidative DNA Damage and Metabolic Rate Theory",
+          "reasoning": "Centers on endogenous oxidative DNA damage from metabolism, linking metabolic rate, oxidative damage, and aging."
+        },
+        {
+          "theory_id": "T016583",
+          "subcluster_name": "Base Excision Repair Deficiency and DNA Damage Accumulation Theory",
+          "reasoning": "Emphasizes accumulation of DNA damage and imperfect base excision repair leading to neurodegeneration and aging."
+        },
+        {
+          "theory_id": "T017331",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and DNA Damage Accumulation Theory",
+          "reasoning": "Describes DNA repair defects, especially NER and RecQ helicase mutations, causing genomic instability and premature aging."
+        },
+        {
+          "theory_id": "T017509",
+          "subcluster_name": "PARP-Mediated DNA Repair and Genomic Stability Theory",
+          "reasoning": "Focuses on PARP enzymes regulating DNA repair, telomere maintenance, and cell death pathways to maintain genome stability."
+        },
+        {
+          "theory_id": "T016297",
+          "subcluster_name": "Molecular Damage Accumulation via AGEs and Lipofuscin Theory",
+          "reasoning": "Highlights accumulation of advanced glycation end products and lipofuscin disrupting proteostasis and contributing to aging."
+        },
+        {
+          "theory_id": "T016234",
+          "subcluster_name": "DNA Mismatch Repair Deficiency and Genome Stability Theory",
+          "reasoning": "Focuses on MMR system defects causing mutation accumulation, microsatellite instability, and telomere dysfunction in aging."
+        },
+        {
+          "theory_id": "T016472",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and DNA Damage Accumulation Theory",
+          "reasoning": "Links DNA excision repair capacity, especially NER, to lifespan and aging-related diseases."
+        },
+        {
+          "theory_id": "T017683",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and DNA Damage Accumulation Theory",
+          "reasoning": "Posits aging results from accumulation of unrepaired DNA damage and declining repair capacity."
+        },
+        {
+          "theory_id": "T016366",
+          "subcluster_name": "Genome Instability and Telomere Maintenance Theory",
+          "reasoning": "Emphasizes genome instability including rDNA circles and telomere dysfunction as drivers of aging."
+        },
+        {
+          "theory_id": "T016143",
+          "subcluster_name": "PARP-Mediated DNA Repair and Genomic Stability Theory",
+          "reasoning": "Describes poly(ADP-ribosyl)ation by PARP as a key regulator of DNA repair, genome stability, and lifespan."
+        },
+        {
+          "theory_id": "T016785",
+          "subcluster_name": "Molecular Damage Accumulation via AGEs and Lipofuscin Theory",
+          "reasoning": "Focuses on accumulation of random molecular damage and role of autophagy in mitigating damage."
+        },
+        {
+          "theory_id": "T016936",
+          "subcluster_name": "Stochastic Genetic Damage Accumulation Theory",
+          "reasoning": "Models aging as accumulation of random hits to gene-bearing chromosomes leading to loss of functional somatic cells."
+        },
+        {
+          "theory_id": "T016144",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and DNA Damage Accumulation Theory",
+          "reasoning": "Correlates DNA excision repair capacity with maximum lifespan, emphasizing repair of UV-induced lesions."
+        },
+        {
+          "theory_id": "T017522",
+          "subcluster_name": "DNA Damage-Induced IIS Adaptive Response and Proteostasis Theory",
+          "reasoning": "Describes DNA damage triggering adaptive modulation of IIS and other pathways, with proteostasis impairment and autophagy activation."
+        },
+        {
+          "theory_id": "T016341",
+          "subcluster_name": "Genome Instability and Telomere Maintenance Theory",
+          "reasoning": "Focuses on accumulation of mutations and epimutations, genome maintenance systems, and clonal expansion causing aging."
+        },
+        {
+          "theory_id": "T017644",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and DNA Damage Accumulation Theory",
+          "reasoning": "Shows cell-autonomous progeroid phenotypes caused by NER (XPG) deficiency and DNA damage accumulation."
+        },
+        {
+          "theory_id": "T017099",
+          "subcluster_name": "Genome Instability and Telomere Maintenance Theory",
+          "reasoning": "Links genomic instability and DNA damage accumulation to cellular senescence and organismal aging."
+        },
+        {
+          "theory_id": "T016446",
+          "subcluster_name": "Genotoxic Stress-Induced Senescence and Aging Theory",
+          "reasoning": "Focuses on DNA damage-induced senescence as a rate-limiting factor in aging, with biomarkers like SA-\u03b2-gal."
+        },
+        {
+          "theory_id": "T017793",
+          "subcluster_name": "PARP-Mediated DNA Repair and Genomic Stability Theory",
+          "reasoning": "Describes age-related decline in PARP-1 activity impairing nuclear proteasome activation and DNA repair."
+        },
+        {
+          "theory_id": "T016944",
+          "subcluster_name": "Damage Segregation and Repair Trade-off in Cellular Aging Theory",
+          "reasoning": "Models trade-offs between damage repair and growth, and damage segregation strategies in unicellular aging."
+        },
+        {
+          "theory_id": "T016371",
+          "subcluster_name": "PARP-Mediated DNA Repair and Genomic Stability Theory",
+          "reasoning": "Details PARP activation by DNA damage, energy depletion, inflammation, and links to aging and pathology."
+        },
+        {
+          "theory_id": "T017352",
+          "subcluster_name": "Molecular Fidelity Loss and Thermodynamic Instability Theory",
+          "reasoning": "Proposes aging as stochastic loss of molecular fidelity due to thermodynamic instability post-reproductive maturity."
+        },
+        {
+          "theory_id": "T016532",
+          "subcluster_name": "Mitochondrial DNA Deletion Formation and Structural Instability Theory",
+          "reasoning": "Focuses on mtDNA secondary structure and repeat patterns causing deletions contributing to mitochondrial aging."
+        },
+        {
+          "theory_id": "T017063",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and DNA Damage Accumulation Theory",
+          "reasoning": "Describes DNA repair defects including RecQ helicase and NER mutations causing progeroid syndromes and aging."
+        },
+        {
+          "theory_id": "T015707",
+          "subcluster_name": "Transcription-Associated DNA Damage and Aging Rate Theory",
+          "reasoning": "Links transcription-associated DNA damage and mutagenesis to aging rate and lifespan differences."
+        },
+        {
+          "theory_id": "T015903",
+          "subcluster_name": "DNA Double Strand Break Accumulation and Telomere Shortening Theory",
+          "reasoning": "Emphasizes accumulation of DSBs and telomere attrition triggering senescence and aging."
+        },
+        {
+          "theory_id": "T014532",
+          "subcluster_name": "DNA Damage-Induced GH/IGF1 Axis Suppression and Aging Theory",
+          "reasoning": "Describes DNA damage suppressing GH/IGF1 axis as an adaptive metabolic response influencing aging."
+        },
+        {
+          "theory_id": "T014373",
+          "subcluster_name": "DNA Damage-Driven Epigenetic Reorganization Theory",
+          "reasoning": "Focuses on DNA damage-induced chromatin modifier redistribution causing epigenetic changes contributing to aging."
+        },
+        {
+          "theory_id": "T014928",
+          "subcluster_name": "rDNA Origin Activation and Replicative Lifespan Modulation Theory",
+          "reasoning": "Links rDNA replication origin polymorphisms and calorie restriction to genome replication dynamics and lifespan."
+        },
+        {
+          "theory_id": "T015571",
+          "subcluster_name": "DNA Double Strand Break Recognition and Telomere Capping Theory",
+          "reasoning": "Correlates enhanced DSB recognition proteins (Ku, DNA-PKcs) with telomere maintenance and species longevity."
+        },
+        {
+          "theory_id": "T015735",
+          "subcluster_name": "DNA Damage Response and Genomic Stability via 53BP1 Theory",
+          "reasoning": "Highlights 53BP1 role in DNA damage response, checkpoint control, and species differences in genomic stability."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:45:36"
+}

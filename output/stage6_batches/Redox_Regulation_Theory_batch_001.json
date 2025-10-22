@@ -1,0 +1,118 @@
+{
+  "cluster_name": "Redox Regulation Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Redox Network Plasticity and Genome-Exposome Interaction Aging Theory",
+        "theory_ids": [
+          "T010219",
+          "T010259"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011233",
+          "subcluster_name": "Mitochondrial ROS and Redox Imbalance Aging Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction, ROS overproduction, antioxidant decline, and magnesium's role in restoring mitochondrial redox balance."
+        },
+        {
+          "theory_id": "T014214",
+          "subcluster_name": "Redox Signaling and Nrf2 Pathway Aging Theory",
+          "reasoning": "Emphasizes ROS as signaling molecules, Nrf2 pathway decline, and electrophilic lipid mediators in redox signaling dysregulation during aging."
+        },
+        {
+          "theory_id": "T000241",
+          "subcluster_name": "Thiol Redox Homeostasis and Signaling Aging Theory",
+          "reasoning": "Centers on thiol/disulfide redox shifts, oxidation of cysteine residues, and impairment of thiol redox enzymes affecting signaling in aging."
+        },
+        {
+          "theory_id": "T006571",
+          "subcluster_name": "Reactive Oxygen and Nitrogen Species Signaling Aging Theory",
+          "reasoning": "Highlights regulated roles of superoxide, hydrogen peroxide, nitric oxide, and peroxynitrite as signaling molecules essential for healthy aging."
+        },
+        {
+          "theory_id": "T012475",
+          "subcluster_name": "Redox-Telomere-Antioncogene Axis Aging Theory",
+          "reasoning": "Links oxidative stress, telomere attrition, tumor suppressor regulation, and PUFA modulation in aging via a redox-telomere-antioncogene axis."
+        },
+        {
+          "theory_id": "T010219",
+          "subcluster_name": "Redox Network Plasticity and Genome-Exposome Interaction Aging Theory",
+          "reasoning": "Focuses on redox networks as adaptive genome-exposome interfaces, decline in plasticity, and interconnected failure of redox-dependent systems."
+        },
+        {
+          "theory_id": "T000399",
+          "subcluster_name": "Pentose Phosphate Pathway and NADPH Redox Aging Theory",
+          "reasoning": "Emphasizes PPP regulation, NADPH production, and RPIA control as critical for maintaining redox homeostasis and promoting longevity."
+        },
+        {
+          "theory_id": "T010259",
+          "subcluster_name": "Redox Network Plasticity and Genome-Exposome Interaction Aging Theory",
+          "reasoning": "Shares core concepts with T010219 on redox proteome/metabolome networks, exposure memory, and thiol/disulfide redox couples in aging."
+        },
+        {
+          "theory_id": "T010627",
+          "subcluster_name": "Redox Signaling and Protein Thiol Regulation Aging Theory",
+          "reasoning": "Focuses on ROS as signaling molecules, spatiotemporal ROS dynamics, and reversible oxidation of protein thiols regulating lifespan."
+        },
+        {
+          "theory_id": "T002560",
+          "subcluster_name": "NADH/NAD+ Ratio and Sirtuin Expression Redox Aging Theory",
+          "reasoning": "Centers on cytosolic redox state regulating sirtuin expression via NADH/NAD+ ratio and lactate/pyruvate signaling in aging."
+        },
+        {
+          "theory_id": "T002843",
+          "subcluster_name": "Tissue-Specific Protein Cysteine Redox Regulation Aging Theory",
+          "reasoning": "Describes reversible cysteine oxidation regulating tissue-specific redox networks and age-dependent remodeling of redox-sensitive proteins."
+        },
+        {
+          "theory_id": "T014222",
+          "subcluster_name": "Redox-Thriftiness and Metabolic Syndrome Aging Theory",
+          "reasoning": "Integrates mitochondrial redox regulation, insulin resistance, hormesis, and metabolic flexibility in aging and metabolic syndrome."
+        },
+        {
+          "theory_id": "T014045",
+          "subcluster_name": "Redox-Bioenergetics and Circadian Mitochondrial Regulation Aging Theory",
+          "reasoning": "Focuses on circadian regulation of redox, mitochondrial bioenergetics, cysteine-mediated signaling, and sleep-wake metabolic cycles."
+        },
+        {
+          "theory_id": "T000307",
+          "subcluster_name": "Redox Signaling-Dependent Protein Aggregation Aging Theory",
+          "reasoning": "Highlights dual ROS roles in signaling and damage, reversible cysteine oxidation-induced protein aggregation, and feed-forward ROS-aggregate loops."
+        },
+        {
+          "theory_id": "T001099",
+          "subcluster_name": "NADPH-Mediated Antioxidant Defense and G6PD Regulation Aging Theory",
+          "reasoning": "Emphasizes NADPH production via G6PD in PPP as central to antioxidant defense, muscle function, and lifespan extension."
+        },
+        {
+          "theory_id": "T004317",
+          "subcluster_name": "Redox Stress and Caloric Restriction Energy Balance Aging Theory",
+          "reasoning": "Links pro-oxidizing redox shifts to energy imbalance, metabolic rate, and genotype-specific effects of caloric restriction on aging."
+        },
+        {
+          "theory_id": "T012529",
+          "subcluster_name": "Redox Signaling Disruption and Compartmentalized Redox Homeostasis Aging Theory",
+          "reasoning": "Focuses on ROS dual roles, redox-sensitive cysteine switches, compartmentalized redox states, and signaling disruption in aging."
+        },
+        {
+          "theory_id": "T003212",
+          "subcluster_name": "Thiol Redox Circuit Disruption and Nonradical Oxidants Aging Theory",
+          "reasoning": "Describes disruption of thiol redox circuits by nonradical oxidants, reversible thiol modifications, and organized redox control networks."
+        },
+        {
+          "theory_id": "T000041",
+          "subcluster_name": "Redox Stress and Pro-oxidizing Shift in Thiol Signaling Aging Theory",
+          "reasoning": "Emphasizes physiological ROS signaling, pro-oxidizing thiol shifts, and disruption of redox-regulated signaling pathways in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:54:35"
+}

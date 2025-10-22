@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 7,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T004608",
+          "T004749",
+          "T004494",
+          "T004683",
+          "T004276",
+          "T004340",
+          "T004371",
+          "T004269",
+          "T004493",
+          "T004465",
+          "T004303",
+          "T004730"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Molecular Genetic Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T004533",
+          "T004400",
+          "T004519",
+          "T004460",
+          "T004487",
+          "T004613",
+          "T004679"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Declining Selection Force Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T004525",
+          "T004738",
+          "T004592",
+          "T004295",
+          "T004550",
+          "T004268",
+          "T004701"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T004608",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on genes with early-life reproductive benefits but late-life deleterious effects, emphasizing trade-offs between early fecundity and longevity."
+        },
+        {
+          "theory_id": "T004749",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes early-life reproductive investment favored by selection despite later survival costs, highlighting resource allocation trade-offs."
+        },
+        {
+          "theory_id": "T004494",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Explores conditional trade-offs between early-life fitness (reproduction) and longevity, linking metabolic and environmental factors."
+        },
+        {
+          "theory_id": "T004683",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Shows genetic and physiological trade-offs between early reproduction and somatic maintenance affecting lifespan."
+        },
+        {
+          "theory_id": "T004276",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on reproductive-longevity trade-off mediated by GnRH1 and neuroendocrine factors linking reproduction to aging diseases."
+        },
+        {
+          "theory_id": "T004340",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Demonstrates selection for early reproduction accelerates aging via metabolic remodeling, illustrating life-history trade-offs."
+        },
+        {
+          "theory_id": "T004371",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Examines human menopause as an evolved reproductive senescence trait, highlighting reproductive-somatic aging decoupling."
+        },
+        {
+          "theory_id": "T004269",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Explains menopause as an antagonistic pleiotropy outcome where early-life reproductive adaptations cause late-life health decline."
+        },
+        {
+          "theory_id": "T004493",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Links human menopause evolution to learning, skill transfer, and economic productivity, emphasizing reproductive-somatic senescence separation."
+        },
+        {
+          "theory_id": "T004465",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Connects sex, reproductive specialization, and aging via hormonal and transcriptional regulation affecting reproductive aging."
+        },
+        {
+          "theory_id": "T004303",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes IGF1 signaling mediating genetic trade-offs between sexual maturation timing and lifespan, linking reproduction and aging."
+        },
+        {
+          "theory_id": "T004730",
+          "subcluster_name": "Reproductive Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on sex-specific selection pressures and extrinsic hazards shaping antagonistic pleiotropy and sex differences in aging."
+        },
+        {
+          "theory_id": "T004533",
+          "subcluster_name": "Molecular Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Details ApoE alleles' pleiotropic effects on immunity, neurodegeneration, and cardiovascular disease influencing aging."
+        },
+        {
+          "theory_id": "T004400",
+          "subcluster_name": "Molecular Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Links evolution of ApoE isoforms and Alzheimer disease timing to reproductive schedule and grandmothering, highlighting molecular pleiotropy."
+        },
+        {
+          "theory_id": "T004519",
+          "subcluster_name": "Molecular Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes p53 tumor suppressor's dual role in cancer prevention early in life and aging acceleration later, illustrating molecular pleiotropy."
+        },
+        {
+          "theory_id": "T004460",
+          "subcluster_name": "Molecular Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on p53 gene family roles in reproduction and tumor suppression, showing antagonistic pleiotropy between fertility and longevity."
+        },
+        {
+          "theory_id": "T004487",
+          "subcluster_name": "Molecular Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Explores growth hormone signaling's pleiotropic effects promoting early-life fitness but accelerating aging and reducing lifespan."
+        },
+        {
+          "theory_id": "T004613",
+          "subcluster_name": "Molecular Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Proposes senescence as an evolved regulated process controlled by genes with early benefits but late-life deleterious effects."
+        },
+        {
+          "theory_id": "T004679",
+          "subcluster_name": "Molecular Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Combines mutation accumulation and antagonistic pleiotropy with sex differences, emphasizing genetic mechanisms of senescence."
+        },
+        {
+          "theory_id": "T004525",
+          "subcluster_name": "Declining Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Centers on the decline of natural selection force with age as a driver of aging and senescence evolution."
+        },
+        {
+          "theory_id": "T004738",
+          "subcluster_name": "Declining Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes extrinsic mortality shaping aging rate via trade-offs between fecundity and longevity under natural selection."
+        },
+        {
+          "theory_id": "T004592",
+          "subcluster_name": "Declining Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Models senescence evolution as a balance of mortality and maternity functions optimizing population growth under declining selection."
+        },
+        {
+          "theory_id": "T004295",
+          "subcluster_name": "Declining Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Shows longevity evolution via selection on repair and maintenance genes favored under low extrinsic mortality conditions."
+        },
+        {
+          "theory_id": "T004550",
+          "subcluster_name": "Declining Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Formalizes survival-fertility trade-offs in life cycle evolution, linking demographic parameters to natural selection strength."
+        },
+        {
+          "theory_id": "T004268",
+          "subcluster_name": "Declining Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Presents myopic local selection driving evolution and aging via information trapping and energy-dependent degradation."
+        },
+        {
+          "theory_id": "T004701",
+          "subcluster_name": "Declining Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes group-level homeostasis and environmental fluctuation amplification as mechanisms reinforcing evolutionary transitions."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:48:47"
+}

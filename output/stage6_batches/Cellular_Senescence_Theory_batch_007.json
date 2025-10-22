@@ -1,0 +1,266 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 7,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Autophagy Decline-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T004955",
+          "T004219",
+          "T005143",
+          "T004885",
+          "T004627",
+          "T004540",
+          "T004497",
+          "T004472"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Evolutionary Conflict and Cellular Senescence Theory",
+        "theory_ids": [
+          "T004617",
+          "T004855",
+          "T005029",
+          "T004624",
+          "T005239",
+          "T005105",
+          "T003875"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Oxidative DNA Damage-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T004150",
+          "T004775"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Tumor Suppressor p53-Mediated Cellular Senescence Theory",
+        "theory_ids": [
+          "T004928",
+          "T004135"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+        "theory_ids": [
+          "T005012",
+          "T005103",
+          "T005130",
+          "T004997",
+          "T004943",
+          "T004958",
+          "T005265",
+          "T005294",
+          "T004827",
+          "T005303"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype and Inflammaging Theory",
+        "theory_ids": [
+          "T004657",
+          "T005022",
+          "T004782",
+          "T004939",
+          "T004320",
+          "T003966"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T004955",
+          "subcluster_name": "Autophagy Decline-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on age-related decline in autophagy causing accumulation of damaged organelles and proteins, leading to cellular senescence and aging phenotypes."
+        },
+        {
+          "theory_id": "T004219",
+          "subcluster_name": "Autophagy Decline-Driven Cellular Senescence Theory",
+          "reasoning": "Describes tissue-specific decline in autophagic activity with age contributing to cellular senescence and organismal aging."
+        },
+        {
+          "theory_id": "T005143",
+          "subcluster_name": "Autophagy Decline-Driven Cellular Senescence Theory",
+          "reasoning": "Details Rubicon-mediated suppression of autophagy as a conserved aging mechanism promoting senescence and age-related pathology."
+        },
+        {
+          "theory_id": "T004885",
+          "subcluster_name": "Autophagy Decline-Driven Cellular Senescence Theory",
+          "reasoning": "Links DNA damage response and mitochondrial dysfunction to senescence and SASP, highlighting autophagy impairment in aging."
+        },
+        {
+          "theory_id": "T004627",
+          "subcluster_name": "Autophagy Decline-Driven Cellular Senescence Theory",
+          "reasoning": "Discusses senolytic treatment effects and repair capacity impairment, implicating autophagy and senescent cell clearance in aging."
+        },
+        {
+          "theory_id": "T004540",
+          "subcluster_name": "Autophagy Decline-Driven Cellular Senescence Theory",
+          "reasoning": "Premature cellular senescence in brain linked to metabolic dysfunction and toxic secretome, implicating autophagy and senescence pathways."
+        },
+        {
+          "theory_id": "T004497",
+          "subcluster_name": "Autophagy Decline-Driven Cellular Senescence Theory",
+          "reasoning": "PAI-1 regulates extracellular proteolysis affecting senescence and systemic aging, connected to cellular homeostasis and autophagy."
+        },
+        {
+          "theory_id": "T004472",
+          "subcluster_name": "Autophagy Decline-Driven Cellular Senescence Theory",
+          "reasoning": "Protease inhibitor-induced lamin A defects cause reversible senescence linked to impaired proteostasis and autophagy."
+        },
+        {
+          "theory_id": "T004617",
+          "subcluster_name": "Evolutionary Conflict and Cellular Senescence Theory",
+          "reasoning": "Describes multicellularity contradiction model where unicellular autonomy conflicts with multicellular control, underlying senescence and cancer."
+        },
+        {
+          "theory_id": "T004855",
+          "subcluster_name": "Evolutionary Conflict and Cellular Senescence Theory",
+          "reasoning": "Explains cellular senescence as antagonistic pleiotropy balancing tumor suppression early in life and cancer promotion late in life."
+        },
+        {
+          "theory_id": "T005029",
+          "subcluster_name": "Evolutionary Conflict and Cellular Senescence Theory",
+          "reasoning": "Tumor suppressor activation prevents cancer but induces senescence and immune aging, illustrating evolutionary trade-offs."
+        },
+        {
+          "theory_id": "T004624",
+          "subcluster_name": "Evolutionary Conflict and Cellular Senescence Theory",
+          "reasoning": "INK4-ARF locus tumor suppressor network restricts proliferation to prevent cancer but limits regeneration, contributing to aging."
+        },
+        {
+          "theory_id": "T005239",
+          "subcluster_name": "Evolutionary Conflict and Cellular Senescence Theory",
+          "reasoning": "p53 integrates tumor suppression, IGF-1 signaling, and inflammation, with age-related decline affecting longevity and cancer risk."
+        },
+        {
+          "theory_id": "T005105",
+          "subcluster_name": "Evolutionary Conflict and Cellular Senescence Theory",
+          "reasoning": "p53 activity balances tumor suppression and aging via feedback loops, exemplifying antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T003875",
+          "subcluster_name": "Evolutionary Conflict and Cellular Senescence Theory",
+          "reasoning": "Genetic basis of cellular senescence as a dominant phenotype, supporting programmed senescence as an evolutionary mechanism."
+        },
+        {
+          "theory_id": "T004150",
+          "subcluster_name": "Oxidative DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Oxidative DNA damage accumulation triggers senescence via mitochondrial ROS, linking metabolic stress to aging."
+        },
+        {
+          "theory_id": "T004775",
+          "subcluster_name": "Oxidative DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Oxidative DNA damage in vascular cells induces senescence and SASP, driving vascular aging and calcification in CKD."
+        },
+        {
+          "theory_id": "T004928",
+          "subcluster_name": "Tumor Suppressor p53-Mediated Cellular Senescence Theory",
+          "reasoning": "p53 regulates senescence and aging via isoform balance and interactions with ubiquitin ligases and nuclear bodies."
+        },
+        {
+          "theory_id": "T005012",
+          "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+          "reasoning": "p16-RB signaling enforces senescence and limits proliferation, conserved across species as a fundamental aging mechanism."
+        },
+        {
+          "theory_id": "T005103",
+          "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+          "reasoning": "p16INK4a expression as biomarker of senescence and aging acceleration, especially after chemotherapy-induced stress."
+        },
+        {
+          "theory_id": "T005130",
+          "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+          "reasoning": "Replicative senescence limits hematopoietic stem cell divisions via cell cycle checkpoints involving p16 and related pathways."
+        },
+        {
+          "theory_id": "T004997",
+          "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+          "reasoning": "Proliferative lifespan checkpoints mediated by p53 and pRb pathways enforce senescence in a cell-type specific manner."
+        },
+        {
+          "theory_id": "T004943",
+          "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+          "reasoning": "Telomere shortening triggers replicative senescence acting as tumor suppressor, linked to p16-RB and p53 pathways."
+        },
+        {
+          "theory_id": "T004958",
+          "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+          "reasoning": "Endothelial cell senescence mediated by p53/p21 and p16 pathways contributes to vascular aging and dysfunction."
+        },
+        {
+          "theory_id": "T005265",
+          "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+          "reasoning": "Defines senescence hallmarks including irreversible arrest and SASP, emphasizing p16 and p21 pathways in aging."
+        },
+        {
+          "theory_id": "T005294",
+          "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+          "reasoning": "Highlights senescent cell accumulation and SASP effects, with focus on senolytic therapies targeting p16/p21 pathways."
+        },
+        {
+          "theory_id": "T004827",
+          "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+          "reasoning": "Senescent cell accumulation and SASP in skeletal muscle impair tissue function, linked to p16-RB mediated senescence."
+        },
+        {
+          "theory_id": "T005303",
+          "subcluster_name": "Tumor Suppressor p16-RB Pathway Cellular Senescence Theory",
+          "reasoning": "Senescence in immune cells characterized by p16/p21 mediated arrest and SASP contributes to immunosenescence."
+        },
+        {
+          "theory_id": "T004657",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Inflammaging Theory",
+          "reasoning": "Focuses on SASP-driven chronic inflammation (inflammaging) as a key driver of aging and age-related diseases."
+        },
+        {
+          "theory_id": "T005022",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Inflammaging Theory",
+          "reasoning": "Describes SASP and aberrant gene expression causing systemic inflammation and multi-system dysfunction in aging."
+        },
+        {
+          "theory_id": "T004782",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Inflammaging Theory",
+          "reasoning": "SASP remodels tissue microenvironment, promotes secondary senescence, and drives systemic aging via inflammatory signaling."
+        },
+        {
+          "theory_id": "T004939",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Inflammaging Theory",
+          "reasoning": "p52-mediated signaling promotes SASP and paracrine senescence, amplifying inflammatory aging processes."
+        },
+        {
+          "theory_id": "T004135",
+          "subcluster_name": "Tumor Suppressor p53-Mediated Cellular Senescence Theory",
+          "reasoning": "p53 activation in Brca1-deficient mice induces senescence causing premature aging and tumor suppression."
+        },
+        {
+          "theory_id": "T004320",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Inflammaging Theory",
+          "reasoning": "Senescence-induced inflammation and NF-\u03baB signaling drive epithelial plasticity and carcinogenesis via SASP."
+        },
+        {
+          "theory_id": "T003966",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype and Inflammaging Theory",
+          "reasoning": "Accumulation of senescent T cells with SASP contributes to immune insufficiency and inflammaging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:03:05"
+}

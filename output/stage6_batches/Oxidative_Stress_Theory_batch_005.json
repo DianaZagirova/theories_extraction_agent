@@ -1,0 +1,239 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 5,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+        "theory_ids": [
+          "T007474",
+          "T007559",
+          "T007456",
+          "T007945",
+          "T007635",
+          "T008038",
+          "T007662",
+          "T007577",
+          "T007394",
+          "T007571",
+          "T007052",
+          "T006566",
+          "T006544",
+          "T006530",
+          "T007065",
+          "T006995"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Genetic Variation and Oxidative Stress Resistance Theory",
+        "theory_ids": [
+          "T007592",
+          "T007899",
+          "T007014",
+          "T007885",
+          "T007704",
+          "T007700"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Pathology and Aging Theory",
+        "theory_ids": [
+          "T007904",
+          "T007965",
+          "T007773",
+          "T007912",
+          "T007710",
+          "T007667",
+          "T007886"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T007474",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, antioxidant defenses, and mitochondrial dysfunction as central to aging."
+        },
+        {
+          "theory_id": "T007559",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Emphasizes ROS from metabolism, antioxidant enzyme mimetics, and mitochondrial oxidative damage driving aging."
+        },
+        {
+          "theory_id": "T007456",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes ROS imbalance, oxidative damage accumulation, and cellular senescence linked to mitochondrial ROS."
+        },
+        {
+          "theory_id": "T007945",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Highlights ROS molecular damage, redox signaling disruption, and musculoskeletal aging linked to mitochondrial ROS."
+        },
+        {
+          "theory_id": "T007635",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Details mitochondrial respiration as antioxidant defense and ROS regulation affecting cell fate and aging."
+        },
+        {
+          "theory_id": "T008038",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction as ROS source, oxidative damage, and neurodegenerative aging."
+        },
+        {
+          "theory_id": "T007662",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links mitochondrial ROS production, antioxidant defenses, and vascular aging in species with different longevity."
+        },
+        {
+          "theory_id": "T007577",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes ROS accumulation from mitochondria, SOD enzyme roles, and tissue degeneration driving aging."
+        },
+        {
+          "theory_id": "T007394",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on glutathione antioxidant system, mitochondrial ROS detoxification, and lifespan extension."
+        },
+        {
+          "theory_id": "T007571",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Connects metabolic rate, mitochondrial ROS production, selective protein oxidation, and aging rate."
+        },
+        {
+          "theory_id": "T007052",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes mitochondrial ROS production, proton leak, oxidative damage, and caloric restriction effects on aging."
+        },
+        {
+          "theory_id": "T006566",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing protein oxidation correlating with lifespan across species."
+        },
+        {
+          "theory_id": "T006544",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Shows reduced mitochondrial ROS production and oxidative damage correlating with exceptional longevity."
+        },
+        {
+          "theory_id": "T006530",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Highlights catalase antioxidant defense reducing mitochondrial ROS and cardiac aging."
+        },
+        {
+          "theory_id": "T007065",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Proposes an optimum mitochondrial superoxide level regulated by Mn SOD affecting oxidative stress and aging."
+        },
+        {
+          "theory_id": "T006995",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Mitohormesis theory where mitochondrial ROS act as signaling molecules inducing protective stress responses."
+        },
+        {
+          "theory_id": "T007386",
+          "subcluster_name": "Stem Cell Depletion by Oxygen Radicals Theory",
+          "reasoning": "Focuses on oxygen radical damage causing stem cell loss and decline in tissue regenerative capacity."
+        },
+        {
+          "theory_id": "T007425",
+          "subcluster_name": "Telomere-Associated Oxidative Stress Theory",
+          "reasoning": "Links oxidative damage accelerating telomere shortening, triggering cellular senescence and aging."
+        },
+        {
+          "theory_id": "T007592",
+          "subcluster_name": "Genetic Variation and Oxidative Stress Resistance Theory",
+          "reasoning": "Emphasizes genetic variation in oxidative stress resistance and lifespan, with antioxidant rescue effects."
+        },
+        {
+          "theory_id": "T007899",
+          "subcluster_name": "Genetic Variation and Oxidative Stress Resistance Theory",
+          "reasoning": "Proposes oxidative damage as a public aging mechanism with evolutionary variability and stress resistance."
+        },
+        {
+          "theory_id": "T007014",
+          "subcluster_name": "Genetic Variation and Oxidative Stress Resistance Theory",
+          "reasoning": "Describes genetic correlation between oxidative stress resistance and reproductive lifespan in birds."
+        },
+        {
+          "theory_id": "T007885",
+          "subcluster_name": "Genetic Variation and Oxidative Stress Resistance Theory",
+          "reasoning": "Shows antioxidant enzyme activity influencing aging rate and lifespan extension by dietary restriction."
+        },
+        {
+          "theory_id": "T007704",
+          "subcluster_name": "Genetic Variation and Oxidative Stress Resistance Theory",
+          "reasoning": "Examines antioxidant enzyme expression and oxidative damage accumulation in long-lived honeybees."
+        },
+        {
+          "theory_id": "T007700",
+          "subcluster_name": "Genetic Variation and Oxidative Stress Resistance Theory",
+          "reasoning": "Discusses antioxidant supplementation effects on lifespan modulated by genotype and environment."
+        },
+        {
+          "theory_id": "T007904",
+          "subcluster_name": "Oxidative Stress-Induced Pathology and Aging Theory",
+          "reasoning": "Links oxidative stress to high blood pressure pathology via redox imbalance, fibrogenesis, and ion pump inhibition."
+        },
+        {
+          "theory_id": "T007965",
+          "subcluster_name": "Oxidative Stress-Induced Pathology and Aging Theory",
+          "reasoning": "Focuses on xanthine oxidoreductase-derived ROS causing cardiovascular oxidative damage and aging."
+        },
+        {
+          "theory_id": "T007773",
+          "subcluster_name": "Oxidative Stress-Induced Pathology and Aging Theory",
+          "reasoning": "Describes oxidative damage accumulation impairing cardiac sarcoplasmic reticulum function and aging."
+        },
+        {
+          "theory_id": "T007912",
+          "subcluster_name": "Oxidative Stress-Induced Pathology and Aging Theory",
+          "reasoning": "Details oxidative stress causing membrane lipid peroxidation and synaptic plasticity impairment in hippocampus."
+        },
+        {
+          "theory_id": "T007710",
+          "subcluster_name": "Oxidative Stress-Induced Pathology and Aging Theory",
+          "reasoning": "Explains neuronal vulnerability in Alzheimer's due to intrinsic and systemic oxidative stress."
+        },
+        {
+          "theory_id": "T007667",
+          "subcluster_name": "Oxidative Stress-Induced Pathology and Aging Theory",
+          "reasoning": "Links oxidative stress to brain aging and dementia, modulated by antioxidants and lipid metabolism."
+        },
+        {
+          "theory_id": "T007886",
+          "subcluster_name": "Oxidative Stress-Induced Pathology and Aging Theory",
+          "reasoning": "Describes oxidative stress involvement in Werner syndrome phenotype via DNA repair and redox pathways."
+        },
+        {
+          "theory_id": "T008088",
+          "subcluster_name": "Hydroxyl Radical-Mediated Oxidative Stress Theory",
+          "reasoning": "Focuses on hydroxyl radical as primary oxidative agent and melatonin as scavenger in aging."
+        },
+        {
+          "theory_id": "T006575",
+          "subcluster_name": "Glycation and Oxidative Stress Theory",
+          "reasoning": "Describes oxidative glycation, AGE formation, and free radical production contributing to aging and diabetic complications."
+        },
+        {
+          "theory_id": "T007587",
+          "subcluster_name": "Oxygen Diffusion Barrier and Oxidative Stress Theory",
+          "reasoning": "Proposes age-related oxygen diffusion barrier in liver cells causing oxidative stress and metabolic impairment."
+        },
+        {
+          "theory_id": "T006862",
+          "subcluster_name": "Lipid Homeostasis and Proteostasis Regulation Theory",
+          "reasoning": "Describes oleic acid-induced SKN-1A activation linking lipid metabolism, proteostasis, and aging regulation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:26:21"
+}

@@ -1,0 +1,334 @@
+{
+  "cluster_name": "Caloric Restriction Mimetics Theory",
+  "batches_completed": 2,
+  "batch_results": [
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Glucose Metabolism-Targeting Caloric Restriction Mimetics Theory",
+          "theory_ids": [
+            "T014953",
+            "T014977",
+            "T015128",
+            "T014954",
+            "T015197",
+            "T014761",
+            "T009218"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 7
+        },
+        {
+          "subcluster_name": "Sirtuin Activation-Based Caloric Restriction Mimetics Theory",
+          "theory_ids": [
+            "T015013",
+            "T015170",
+            "T014867",
+            "T014970",
+            "T014869",
+            "T014597",
+            "T004324"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 7
+        },
+        {
+          "subcluster_name": "Autophagy Induction-Based Caloric Restriction Mimetics Theory",
+          "theory_ids": [
+            "T015054",
+            "T002903",
+            "T015036",
+            "T014916",
+            "T015010",
+            "T015031",
+            "T000791",
+            "T015053"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T014953",
+            "subcluster_name": "Glucose Metabolism-Targeting Caloric Restriction Mimetics Theory",
+            "reasoning": "Focuses on upstream CR mimetics that modulate glucose metabolism and glycolysis inhibition to mimic CR effects."
+          },
+          {
+            "theory_id": "T014977",
+            "subcluster_name": "Glucose Metabolism-Targeting Caloric Restriction Mimetics Theory",
+            "reasoning": "Describes alpha-glucosidase inhibition by acarbose affecting glucose absorption, fitting glucose metabolism targeting."
+          },
+          {
+            "theory_id": "T015128",
+            "subcluster_name": "Glucose Metabolism-Targeting Caloric Restriction Mimetics Theory",
+            "reasoning": "Centers on glycolytic inhibition as a strategy to mimic CR, directly targeting glucose metabolism."
+          },
+          {
+            "theory_id": "T014954",
+            "subcluster_name": "Glucose Metabolism-Targeting Caloric Restriction Mimetics Theory",
+            "reasoning": "Discusses CRMs affecting glucose and lipid metabolism and gut microbiota, linking to metabolic upstream effects."
+          },
+          {
+            "theory_id": "T015197",
+            "subcluster_name": "Glucose Metabolism-Targeting Caloric Restriction Mimetics Theory",
+            "reasoning": "INDY gene reduction modulates citrate transport and metabolism, impacting energy metabolism similar to CR."
+          },
+          {
+            "theory_id": "T014761",
+            "subcluster_name": "Glucose Metabolism-Targeting Caloric Restriction Mimetics Theory",
+            "reasoning": "Focuses on glycolytic inhibition as an upstream target to mimic CR effects on energy utilization."
+          },
+          {
+            "theory_id": "T009218",
+            "subcluster_name": "Glucose Metabolism-Targeting Caloric Restriction Mimetics Theory",
+            "reasoning": "Emphasizes upstream energy utilization inhibition, especially glycolysis, to induce CR-like hormesis."
+          },
+          {
+            "theory_id": "T015013",
+            "subcluster_name": "Sirtuin Activation-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "Focuses on NAD+ modulation and SIRT1 activation as key mediators of CR mimetic effects."
+          },
+          {
+            "theory_id": "T015170",
+            "subcluster_name": "Sirtuin Activation-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "Describes small molecule activators of SIRT1 replicating CR signaling pathways and mitochondrial biogenesis."
+          },
+          {
+            "theory_id": "T014867",
+            "subcluster_name": "Sirtuin Activation-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "Resveratrol partially mimics CR via chromatin remodeling and transcriptional regulation involving sirtuins."
+          },
+          {
+            "theory_id": "T014970",
+            "subcluster_name": "Sirtuin Activation-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "Resveratrol activates AMPK and indirectly SIRT1, mediating CR-like metabolic benefits."
+          },
+          {
+            "theory_id": "T014869",
+            "subcluster_name": "Sirtuin Activation-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "20-Hydroxyecdysone acts on SIRT6 and PI3K/Akt/mTOR pathways, overlapping with sirtuin-mediated CR effects."
+          },
+          {
+            "theory_id": "T014597",
+            "subcluster_name": "Sirtuin Activation-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "General overview of CR mimetics acting via nutrient sensing pathways including sirtuins, AMPK, mTOR."
+          },
+          {
+            "theory_id": "T004324",
+            "subcluster_name": "Sirtuin Activation-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "Metformin mimics CR by modulating insulin/IGF-1, AMPK, mTOR, and sirtuin pathways."
+          },
+          {
+            "theory_id": "T015054",
+            "subcluster_name": "Autophagy Induction-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "Focuses on CRMs inducing autophagy via TFEB/TFE3 and protein deacetylation, key for cellular maintenance."
+          },
+          {
+            "theory_id": "T002903",
+            "subcluster_name": "Autophagy Induction-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "Emphasizes autophagy induction through EP300 inhibition and protein acetylation reduction as CR mimetic mechanism."
+          },
+          {
+            "theory_id": "T015036",
+            "subcluster_name": "Autophagy Induction-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "\u03b2-Hydroxybutyrate mimics CR by modulating FoxO1/PGC-1\u03b1 to reduce inflammation and oxidative stress, linked to autophagy."
+          },
+          {
+            "theory_id": "T014916",
+            "subcluster_name": "Autophagy Induction-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "rBTI extends lifespan via IIS downregulation and ROS signaling, activating stress resistance pathways related to autophagy."
+          },
+          {
+            "theory_id": "T015010",
+            "subcluster_name": "Autophagy Induction-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "CR mimetics extend lifespan via TOR inhibition and pathways independent of DAF-16, implicating autophagy and stress responses."
+          },
+          {
+            "theory_id": "T015031",
+            "subcluster_name": "Autophagy Induction-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "Micronutrient blend mimics CR transcriptomic signatures across tissues, involving stress response and autophagy pathways."
+          },
+          {
+            "theory_id": "T000791",
+            "subcluster_name": "Autophagy Induction-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "H2S mediates CR benefits by interacting with nutrient sensing and stress response pathways including autophagy."
+          },
+          {
+            "theory_id": "T015053",
+            "subcluster_name": "Autophagy Induction-Based Caloric Restriction Mimetics Theory",
+            "reasoning": "Hormesis via glyceollin I induces stress resistance and CR-like effects, linked to autophagy and longevity."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "INDY Transporter Reduction Caloric Restriction Mimetics",
+          "theory_ids": [
+            "T015308",
+            "T015205",
+            "T021065",
+            "T015219"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 4
+        },
+        {
+          "subcluster_name": "Ion Channel and Metabolic Modulation Caloric Restriction Mimetics",
+          "theory_ids": [
+            "T019427",
+            "T014994",
+            "T024830",
+            "T015894",
+            "T015206",
+            "T026117",
+            "T016229",
+            "T027504"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "SIRT1 Activation Caloric Restriction Mimetics",
+          "theory_ids": [
+            "T015279",
+            "T024494",
+            "T024346",
+            "T016052",
+            "T026878",
+            "T004428",
+            "T015282",
+            "T014835"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "Caloric Restriction Mimetics Theory",
+          "theory_ids": [
+            "T024462"
+          ],
+          "theory_count": 1,
+          "mechanism_focus": "",
+          "status": "singleton_warning",
+          "warning_reason": "1 subclusters too small"
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T015308",
+            "subcluster_name": "INDY Transporter Reduction Caloric Restriction Mimetics",
+            "reasoning": "This theory focuses on INDY gene mutation reducing Krebs cycle intermediate transport, mimicking CR by altering metabolism and mitochondrial biogenesis."
+          },
+          {
+            "theory_id": "T015205",
+            "subcluster_name": "INDY Transporter Reduction Caloric Restriction Mimetics",
+            "reasoning": "Describes INDY reduction effects on metabolism, AMPK activation, and mitochondrial biogenesis mimicking CR."
+          },
+          {
+            "theory_id": "T021065",
+            "subcluster_name": "INDY Transporter Reduction Caloric Restriction Mimetics",
+            "reasoning": "Focuses on Indy gene mutation creating a metabolic state similar to CR via transporter function alteration."
+          },
+          {
+            "theory_id": "T015219",
+            "subcluster_name": "INDY Transporter Reduction Caloric Restriction Mimetics",
+            "reasoning": "Details INDY citrate transporter reduction leading to metabolic and longevity effects mimicking CR."
+          },
+          {
+            "theory_id": "T019427",
+            "subcluster_name": "Ion Channel and Metabolic Modulation Caloric Restriction Mimetics",
+            "reasoning": "Psora-4 acts via potassium channel inhibition affecting mitochondrial function and metabolism to mimic CR."
+          },
+          {
+            "theory_id": "T014994",
+            "subcluster_name": "Ion Channel and Metabolic Modulation Caloric Restriction Mimetics",
+            "reasoning": "SOD mimics interfere with mitochondrial electron transport chain, reducing metabolism and mimicking CR effects."
+          },
+          {
+            "theory_id": "T024830",
+            "subcluster_name": "Ion Channel and Metabolic Modulation Caloric Restriction Mimetics",
+            "reasoning": "High-fiber diet induces metabolic and transcriptomic changes mimicking CR without reducing intake."
+          },
+          {
+            "theory_id": "T015894",
+            "subcluster_name": "Ion Channel and Metabolic Modulation Caloric Restriction Mimetics",
+            "reasoning": "Folic acid supplementation enhances oxidative stress resistance and modulates nutrient sensing pathways mimicking CR."
+          },
+          {
+            "theory_id": "T015206",
+            "subcluster_name": "Ion Channel and Metabolic Modulation Caloric Restriction Mimetics",
+            "reasoning": "Plant extracts induce CR-like metabolic changes including mitochondrial respiration and ROS modulation."
+          },
+          {
+            "theory_id": "T026117",
+            "subcluster_name": "Ion Channel and Metabolic Modulation Caloric Restriction Mimetics",
+            "reasoning": "Baicalein acts as a CRM by improving antioxidant profile and inducing autophagy, mimicking CR effects."
+          },
+          {
+            "theory_id": "T016229",
+            "subcluster_name": "Ion Channel and Metabolic Modulation Caloric Restriction Mimetics",
+            "reasoning": "General CR mimetics targeting metabolic pathways including glycolytic inhibitors and antioxidants."
+          },
+          {
+            "theory_id": "T027504",
+            "subcluster_name": "Ion Channel and Metabolic Modulation Caloric Restriction Mimetics",
+            "reasoning": "CR mimetics act on insulin, mTOR, AMPK, and mitochondrial metabolism pathways to mimic CR."
+          },
+          {
+            "theory_id": "T015279",
+            "subcluster_name": "SIRT1 Activation Caloric Restriction Mimetics",
+            "reasoning": "Resveratrol activates SIRT1, modulating mitochondrial biogenesis and longevity pathways mimicking CR."
+          },
+          {
+            "theory_id": "T024494",
+            "subcluster_name": "SIRT1 Activation Caloric Restriction Mimetics",
+            "reasoning": "Natural products activate SIRT1 and NAD+ metabolism, epigenetic regulation, and autophagy to mimic CR."
+          },
+          {
+            "theory_id": "T024346",
+            "subcluster_name": "SIRT1 Activation Caloric Restriction Mimetics",
+            "reasoning": "Resveratrol extends lifespan via SIRT1 activation and epigenetic regulation mimicking CR."
+          },
+          {
+            "theory_id": "T016052",
+            "subcluster_name": "SIRT1 Activation Caloric Restriction Mimetics",
+            "reasoning": "Resveratrol and rapamycin mimic dietary restriction by targeting sirtuins, AMPK, and TOR pathways."
+          },
+          {
+            "theory_id": "T026878",
+            "subcluster_name": "SIRT1 Activation Caloric Restriction Mimetics",
+            "reasoning": "SGLT2 inhibitors induce nutrient deprivation activating AMPK and SIRT1, mimicking CR effects."
+          },
+          {
+            "theory_id": "T004428",
+            "subcluster_name": "SIRT1 Activation Caloric Restriction Mimetics",
+            "reasoning": "Metformin activates AMPK and modulates insulin signaling, mimicking CR effects on metabolism and lifespan."
+          },
+          {
+            "theory_id": "T015282",
+            "subcluster_name": "SIRT1 Activation Caloric Restriction Mimetics",
+            "reasoning": "CRMs act upstream or downstream of energy metabolism including AMPK, mTOR, and sirtuin pathways."
+          },
+          {
+            "theory_id": "T014835",
+            "subcluster_name": "SIRT1 Activation Caloric Restriction Mimetics",
+            "reasoning": "Describes natural compounds like resveratrol, rapamycin, and metformin as CR mimetics targeting metabolic pathways."
+          },
+          {
+            "theory_id": "T024462",
+            "subcluster_name": "Nutrient Sensing Pathway Genetic Mimicry of Caloric Restriction",
+            "reasoning": "Yeast lifespan extension via deletion of nutrient sensing genes TOR1, SCH9, and RAS2 mimics CR effects genetically."
+          }
+        ]
+      }
+    }
+  ],
+  "timestamp": "2025-10-22 12:04:49"
+}

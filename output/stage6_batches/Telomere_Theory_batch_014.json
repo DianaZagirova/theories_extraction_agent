@@ -1,0 +1,223 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 14,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+        "theory_ids": [
+          "T020120",
+          "T019761",
+          "T019845",
+          "T019993",
+          "T019956",
+          "T020093",
+          "T020000",
+          "T020024",
+          "T019983",
+          "T020110",
+          "T020079",
+          "T019777",
+          "T019861",
+          "T020032",
+          "T019634",
+          "T020096",
+          "T019750"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "Immune System Telomere Attrition and Aging Theory",
+        "theory_ids": [
+          "T019932",
+          "T019925",
+          "T019883",
+          "T019237"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Telomere Position Effect and Gene Regulation Theory",
+        "theory_ids": [
+          "T020257",
+          "T019541"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020120",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere shortening as a mitotic clock causing replicative senescence and aging, with emphasis on telomerase activity and species-specific telomere dynamics."
+        },
+        {
+          "theory_id": "T019761",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Describes telomere shortening as a mitotic clock leading to cellular senescence, with telomerase modulation and cell type differences in telomere dynamics."
+        },
+        {
+          "theory_id": "T019845",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere attrition triggering senescence and SASP, with shelterin complex role and telomerase activity in proliferative cells."
+        },
+        {
+          "theory_id": "T019993",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere shortening as a molecular clock limiting replicative capacity and tumor suppression via senescence."
+        },
+        {
+          "theory_id": "T019956",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Details telomere erosion causing replicative senescence, DNA damage response activation, and tissue dysfunction."
+        },
+        {
+          "theory_id": "T020093",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Highlights telomerase insufficiency causing telomere shortening and replicative senescence, with tissue-specific effects and genetic defects."
+        },
+        {
+          "theory_id": "T020000",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Describes telomere structure, end replication problem, telomere shortening as mitotic clock, and telomerase role in aging and cancer."
+        },
+        {
+          "theory_id": "T020024",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Focuses on telomeres as chromosome end protectors, shortening as mitotic clock, and telomere dysfunction triggering senescence and crisis."
+        },
+        {
+          "theory_id": "T019983",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening limiting proliferation, inducing senescence, impairing stem cells, and causing organismal aging."
+        },
+        {
+          "theory_id": "T020110",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Describes telomere erosion triggering replicative senescence and links telomerase activity to cancer and aging."
+        },
+        {
+          "theory_id": "T020079",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Details telomere shortening as mitotic clock, telomerase repression in somatic cells, and senescence/crisis phases."
+        },
+        {
+          "theory_id": "T019777",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Covers telomere structure, end replication problem, telomerase activity, and tumor suppression via senescence."
+        },
+        {
+          "theory_id": "T019861",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere shortening causing senescence, telomere uncapping, DNA damage response, and shelterin protein roles."
+        },
+        {
+          "theory_id": "T020032",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Discusses telomere shortening driving replicative senescence, telomerase regulation, and telomere-binding proteins in hematopoietic progenitors."
+        },
+        {
+          "theory_id": "T019634",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Describes telomere shortening causing chromosomal instability, senescence, SASP, and oxidative stress-induced apoptosis."
+        },
+        {
+          "theory_id": "T020096",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Highlights telomere shortening as intrinsic aging mechanism, DNA damage checkpoint activation, and stem cell aging."
+        },
+        {
+          "theory_id": "T019750",
+          "subcluster_name": "Telomere Shortening and Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere shortening as biological clock, telomerase role in maintenance, and balance between senescence and tumorigenesis."
+        },
+        {
+          "theory_id": "T019932",
+          "subcluster_name": "Immune System Telomere Attrition and Aging Theory",
+          "reasoning": "Focuses on telomere shortening in immune cells causing immunosenescence and links to rheumatic diseases."
+        },
+        {
+          "theory_id": "T019925",
+          "subcluster_name": "Immune System Telomere Attrition and Aging Theory",
+          "reasoning": "Describes telomere length as biomarker and driver of aging, with lifestyle modulation affecting telomere shortening and healthspan."
+        },
+        {
+          "theory_id": "T019883",
+          "subcluster_name": "Immune System Telomere Attrition and Aging Theory",
+          "reasoning": "Emphasizes exercise-induced telomerase activation preserving telomere length and modulating aging via immune cell telomere biology."
+        },
+        {
+          "theory_id": "T019237",
+          "subcluster_name": "Immune System Telomere Attrition and Aging Theory",
+          "reasoning": "Describes leukocyte telomere length dynamics, synchrony across tissues, and partitioning of inherited vs attrition components."
+        },
+        {
+          "theory_id": "T020320",
+          "subcluster_name": "Non-Replicative Cell Telomere Attrition Theory",
+          "reasoning": "Shows telomere shortening in non-dividing neurons causing senescence-like phenotypes independent of replication."
+        },
+        {
+          "theory_id": "T020257",
+          "subcluster_name": "Telomere Position Effect and Gene Regulation Theory",
+          "reasoning": "Focuses on telomere shortening altering chromosomal looping and subtelomeric gene expression contributing to aging."
+        },
+        {
+          "theory_id": "T019541",
+          "subcluster_name": "Telomere Position Effect and Gene Regulation Theory",
+          "reasoning": "Describes telomere length-dependent chromatin looping regulating gene expression over long distances, affecting aging."
+        },
+        {
+          "theory_id": "T020247",
+          "subcluster_name": "Short Telomere-Mediated Degenerative Aging Theory",
+          "reasoning": "Emphasizes inherited short telomeres causing systemic degenerative defects and aging phenotypes independent of telomerase mutations."
+        },
+        {
+          "theory_id": "T020437",
+          "subcluster_name": "Telomere Dysfunction-Induced Senescence (TDIS) Theory",
+          "reasoning": "Focuses on telomeres as sensors of genotoxic stress triggering persistent DNA damage response and tumor-suppressive senescence."
+        },
+        {
+          "theory_id": "T020319",
+          "subcluster_name": "Telomere Shortening-Induced Apoptosis-to-Senescence Switch Theory",
+          "reasoning": "Describes p53 and mTOR/AKT pathway-mediated switch from apoptosis to senescence upon telomere shortening during aging."
+        },
+        {
+          "theory_id": "T020326",
+          "subcluster_name": "Oxidative Stress-Accelerated Telomere Shortening Theory",
+          "reasoning": "Highlights oxidative stress accelerating telomere shortening and destabilizing t-loop, triggering p53-dependent senescence."
+        },
+        {
+          "theory_id": "T020071",
+          "subcluster_name": "Replication Fork Collapse and WRN Deficiency Theory",
+          "reasoning": "Focuses on WRN helicase deficiency causing replication fork collapse, genomic instability, and premature senescence."
+        },
+        {
+          "theory_id": "T019356",
+          "subcluster_name": "Telomere-Mediated Tumor Suppression and Inflammation Theory",
+          "reasoning": "Links telomere shortening-induced senescence and crisis to tumor suppression and proinflammatory SASP contributing to aging."
+        },
+        {
+          "theory_id": "T019860",
+          "subcluster_name": "Shelterin Dysfunction and Telomere Shortening Theory",
+          "reasoning": "Emphasizes shelterin complex dysfunction causing telomere uncapping, DNA damage response activation, and premature senescence."
+        },
+        {
+          "theory_id": "T019424",
+          "subcluster_name": "Estrogen Regulation of Telomerase Activity Theory",
+          "reasoning": "Describes estrogen-mediated upregulation of telomerase activity via receptor and signaling pathways affecting aging."
+        },
+        {
+          "theory_id": "T018943",
+          "subcluster_name": "Telomere-Mitochondrial Axis of Aging Theory",
+          "reasoning": "Focuses on telomere shortening inducing mitochondrial dysfunction via p53 repression of mitochondrial biogenesis regulators."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:24:33"
+}

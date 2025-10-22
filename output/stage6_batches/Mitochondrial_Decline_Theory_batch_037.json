@@ -1,0 +1,223 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 37,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+        "theory_ids": [
+          "T024734",
+          "T024840",
+          "T024629",
+          "T025040",
+          "T025246",
+          "T024611",
+          "T024729",
+          "T025271",
+          "T025008",
+          "T024041"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Mitochondrial Protein Quality Control Decline Aging Theory",
+        "theory_ids": [
+          "T025197",
+          "T024858",
+          "T024598",
+          "T024059",
+          "T024749",
+          "T025103",
+          "T024775"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Quality Control and Organelle Interaction Aging Theory",
+        "theory_ids": [
+          "T025220",
+          "T025346",
+          "T024657",
+          "T024709"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+        "theory_ids": [
+          "T025083",
+          "T025474",
+          "T024676",
+          "T025153",
+          "T024328",
+          "T024914"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial Hyperfunction and Senescence Aging Theory",
+        "theory_ids": [
+          "T025004",
+          "T024948"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024734",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+          "reasoning": "Focuses on mitochondrial ROS overproduction causing oxidative damage and vascular aging, highlighting ROS, antioxidant decline, and p66Shc role."
+        },
+        {
+          "theory_id": "T024840",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+          "reasoning": "Emphasizes mitochondrial ROS as a central driver of aging and systemic physiological decline via oxidative damage."
+        },
+        {
+          "theory_id": "T024629",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+          "reasoning": "Details mitochondrial ROS accumulation and SOD2 enzyme role in regulating oxidative damage and aging-related neurodegeneration."
+        },
+        {
+          "theory_id": "T025040",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+          "reasoning": "Describes mitochondrial ROS production imbalance and oxidative damage as key drivers of mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T025246",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+          "reasoning": "Focuses on mitochondrial superoxide radicals causing oxidative damage and lifespan limitation, with SOD2 as a protective factor."
+        },
+        {
+          "theory_id": "T024611",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+          "reasoning": "Links mitochondrial ROS overproduction due to SDH mutations to oxidative damage and premature aging."
+        },
+        {
+          "theory_id": "T024729",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+          "reasoning": "Highlights mitochondrial ROS generation causing mtDNA mutations and systemic mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T025271",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+          "reasoning": "Describes mitochondrial decay driven by oxidative damage feedback loops and antioxidant decline causing aging."
+        },
+        {
+          "theory_id": "T025008",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+          "reasoning": "Focuses on mitochondrial DNA instability and ROS overproduction causing oxidative damage and cardiac aging."
+        },
+        {
+          "theory_id": "T024041",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Aging Theory",
+          "reasoning": "Describes mitochondrial calcium overload via TRPC3 causing ROS increase and mitochondrial dysfunction in renal aging."
+        },
+        {
+          "theory_id": "T025197",
+          "subcluster_name": "Mitochondrial Protein Quality Control Decline Aging Theory",
+          "reasoning": "Focuses on decline of mitochondrial protein quality control systems leading to accumulation of damaged proteins and dysfunction."
+        },
+        {
+          "theory_id": "T024858",
+          "subcluster_name": "Mitochondrial Protein Quality Control Decline Aging Theory",
+          "reasoning": "Emphasizes mitochondrial dynamics (fusion/fission) as mechanisms maintaining protein quality and mitochondrial function in aging."
+        },
+        {
+          "theory_id": "T024598",
+          "subcluster_name": "Mitochondrial Protein Quality Control Decline Aging Theory",
+          "reasoning": "Highlights mitochondrial small heat shock proteins as chaperones maintaining proteostasis and extending lifespan by preserving mitochondrial function."
+        },
+        {
+          "theory_id": "T024059",
+          "subcluster_name": "Mitochondrial Protein Quality Control Decline Aging Theory",
+          "reasoning": "Focuses on supramolecular organization of respiratory chain complexes stabilizing function and reducing ROS, linking structure to quality control."
+        },
+        {
+          "theory_id": "T024749",
+          "subcluster_name": "Mitochondrial Protein Quality Control Decline Aging Theory",
+          "reasoning": "Describes caloric restriction promoting mitochondrial biogenesis and quality control, maintaining mitochondrial function and slowing aging."
+        },
+        {
+          "theory_id": "T025103",
+          "subcluster_name": "Mitochondrial Protein Quality Control Decline Aging Theory",
+          "reasoning": "Details decline in mitochondrial biogenesis and PGC-1 coactivators impairing mitochondrial function and contributing to aging."
+        },
+        {
+          "theory_id": "T024775",
+          "subcluster_name": "Mitochondrial Protein Quality Control Decline Aging Theory",
+          "reasoning": "Links age-related decline in Pgc-1\u03b1 expression to reduced mitochondrial oxidative capacity and systemic metabolic dysfunction."
+        },
+        {
+          "theory_id": "T025220",
+          "subcluster_name": "Mitochondrial Quality Control and Organelle Interaction Aging Theory",
+          "reasoning": "Focuses on mitochondria-lysosome contacts regulating mitochondrial dynamics and oxidative stress, affecting stem cell aging."
+        },
+        {
+          "theory_id": "T025346",
+          "subcluster_name": "Mitochondrial Quality Control and Organelle Interaction Aging Theory",
+          "reasoning": "Describes mitophagy dysfunction causing accumulation of damaged mitochondria and systemic aging phenotypes."
+        },
+        {
+          "theory_id": "T024657",
+          "subcluster_name": "Mitochondrial Quality Control and Organelle Interaction Aging Theory",
+          "reasoning": "Emphasizes mitophagy decline disrupting mitochondrial homeostasis and contributing causally to aging and age-related diseases."
+        },
+        {
+          "theory_id": "T024709",
+          "subcluster_name": "Mitochondrial Quality Control and Organelle Interaction Aging Theory",
+          "reasoning": "Highlights mitophagy as a key mitochondrial quality control mechanism whose impairment accelerates aging."
+        },
+        {
+          "theory_id": "T025083",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Focuses on mtDNA common deletion accumulation causing mitochondrial dysfunction, ROS increase, and SASP-driven skin aging."
+        },
+        {
+          "theory_id": "T025474",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Describes somatic mtDNA mutation accumulation and tissue-specific dynamics contributing to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T024676",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Focuses on mtDNA mutation accumulation and clonal expansion in stem cells causing tissue aging."
+        },
+        {
+          "theory_id": "T025153",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Proposes mtDNA mutations and deletions as causal drivers of aging and explores gene therapy to reverse mitochondrial defects."
+        },
+        {
+          "theory_id": "T024328",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Emphasizes accumulation of mtDNA mutations and polymorphisms causing mitochondrial dysfunction and systemic aging."
+        },
+        {
+          "theory_id": "T024914",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Links mtDNA copy number decline, mutations, and mitochondrial quality control disruption to ovarian aging and cellular senescence."
+        },
+        {
+          "theory_id": "T025004",
+          "subcluster_name": "Mitochondrial Hyperfunction and Senescence Aging Theory",
+          "reasoning": "Describes mitochondrial hyper-function in senescent cells causing increased ROS, morphological changes, and apoptosis contributing to aging."
+        },
+        {
+          "theory_id": "T024948",
+          "subcluster_name": "Mitochondrial Hyperfunction and Senescence Aging Theory",
+          "reasoning": "Focuses on mitochondrial permeability transition activation causing apoptosis and immunosenescence linked to mitochondrial dysfunction."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:53:46"
+}

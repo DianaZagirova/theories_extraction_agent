@@ -1,0 +1,184 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 36,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+        "theory_ids": [
+          "T024677",
+          "T024821",
+          "T025646",
+          "T025355",
+          "T025054",
+          "T024741",
+          "T024652",
+          "T024632",
+          "T024654",
+          "T025581",
+          "T025089",
+          "T024661",
+          "T025165",
+          "T024682",
+          "T025463",
+          "T024793"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Dietary Restriction and Calorie Restriction Theories",
+        "theory_ids": [
+          "T025627",
+          "T024792",
+          "T025679",
+          "T025564",
+          "T024690"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Evolutionary Disposable Soma and Life-History Trade-off Theories",
+        "theory_ids": [
+          "T024688",
+          "T024637",
+          "T025693"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024677",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "This theory focuses on the insulin/IGF-1 signaling network as a central regulator of aging, growth, and metabolism, fitting well with other IIS pathway-centered theories."
+        },
+        {
+          "theory_id": "T024821",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Describes the role of insulin/IGF-1 signaling in longevity and protein homeostasis, aligning with IIS pathway mechanisms."
+        },
+        {
+          "theory_id": "T025646",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Focuses on IRS-2 as a key adaptor in insulin signaling affecting lifespan, clearly part of the IIS signaling theme."
+        },
+        {
+          "theory_id": "T025355",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Describes insulin receptor and TOR signaling in cardiac aging, part of IIS and related nutrient sensing pathways."
+        },
+        {
+          "theory_id": "T025054",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Focuses on IIS regulation of longevity via DAF-16/FOXO and SMK-1 modulation, a core IIS mechanism."
+        },
+        {
+          "theory_id": "T024741",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Describes IIS regulation of lifespan via DAF-16/FOXO in C. elegans, fitting IIS pathway cluster."
+        },
+        {
+          "theory_id": "T024652",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Focuses on insulin/IGF signaling in Drosophila lifespan and reproduction, part of IIS signaling mechanisms."
+        },
+        {
+          "theory_id": "T024632",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "MYC-mediated regulation of IGF1 signaling modulates aging, linking to IIS and mTOR pathways."
+        },
+        {
+          "theory_id": "T024654",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Describes IIS reduction effects on longevity and stress resistance via DAF-16 and metabolic shifts, core IIS theme."
+        },
+        {
+          "theory_id": "T025581",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "IGF-1 signaling modulation by dietary restriction affecting aging, fits IIS signaling cluster."
+        },
+        {
+          "theory_id": "T025089",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Focuses on DAF-16/FOXO regulation by IIS and germline ablation, part of IIS longevity mechanisms."
+        },
+        {
+          "theory_id": "T024661",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "IIS pathway regulation of aging and downstream effectors Sirt1 and Foxo3a, fits IIS cluster."
+        },
+        {
+          "theory_id": "T025165",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "IIS regulation of lifespan and cognitive aging via DAF-16/FOXO, part of IIS signaling mechanisms."
+        },
+        {
+          "theory_id": "T024682",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "IIS modulation delays aging and neurodegenerative disease progression, fits IIS signaling cluster."
+        },
+        {
+          "theory_id": "T025463",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "IIS regulation of longevity via FoxO transcription factors, core IIS signaling mechanism."
+        },
+        {
+          "theory_id": "T024793",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "IIS pathway and FOXO1 regulation of lifespan, fits IIS signaling cluster."
+        },
+        {
+          "theory_id": "T025402",
+          "subcluster_name": "Metabolic and Energetic Regulation Theories",
+          "reasoning": "Focuses on energetic and metabolic pathways including AMPK, mTOR, sirtuins, and IIS as central to aging and resilience."
+        },
+        {
+          "theory_id": "T025627",
+          "subcluster_name": "Dietary Restriction and Calorie Restriction Theories",
+          "reasoning": "Describes calorie restriction effects on aging and neurodegeneration via oxidative stress reduction and energy homeostasis."
+        },
+        {
+          "theory_id": "T024792",
+          "subcluster_name": "Dietary Restriction and Calorie Restriction Theories",
+          "reasoning": "Intermittent fasting dietary restriction modulates energy homeostasis and reduces oxidative damage, fits dietary restriction theme."
+        },
+        {
+          "theory_id": "T025679",
+          "subcluster_name": "Dietary Restriction and Calorie Restriction Theories",
+          "reasoning": "Caloric restriction theory focusing on reduction of endogenous damage and metabolic shifts, fits dietary restriction cluster."
+        },
+        {
+          "theory_id": "T025564",
+          "subcluster_name": "Dietary Restriction and Calorie Restriction Theories",
+          "reasoning": "Dietary restriction slows aging via reduced metabolic damage and gene expression changes, fits dietary restriction cluster."
+        },
+        {
+          "theory_id": "T024690",
+          "subcluster_name": "Dietary Restriction and Calorie Restriction Theories",
+          "reasoning": "Calorie restriction extends lifespan and reduces chronic disease risk, core dietary restriction mechanism."
+        },
+        {
+          "theory_id": "T024688",
+          "subcluster_name": "Evolutionary Disposable Soma and Life-History Trade-off Theories",
+          "reasoning": "Classic disposable soma theory emphasizing evolutionary trade-offs between reproduction and maintenance."
+        },
+        {
+          "theory_id": "T024637",
+          "subcluster_name": "Evolutionary Disposable Soma and Life-History Trade-off Theories",
+          "reasoning": "Life-history trade-off theory focusing on reproduction-lifespan resource allocation, fits evolutionary disposable soma theme."
+        },
+        {
+          "theory_id": "T025693",
+          "subcluster_name": "Evolutionary Disposable Soma and Life-History Trade-off Theories",
+          "reasoning": "Germline immortality theory contrasting germline vs somatic maintenance, related to evolutionary resource allocation and soma maintenance."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:14:19"
+}

@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Mutation Accumulation Theory",
+  "batch_num": 9,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+        "theory_ids": [
+          "T014218",
+          "T014178",
+          "T016600",
+          "T013967",
+          "T014529",
+          "T014349",
+          "T014499",
+          "T017034",
+          "T017312",
+          "T016982",
+          "T017318"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Genetic Modulation and Mutation Accumulation Theory",
+        "theory_ids": [
+          "T019538",
+          "T016718",
+          "T015864",
+          "T016885",
+          "T014058",
+          "T015954",
+          "T013933"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Somatic Mutation Accumulation and Genome Instability Theory",
+        "theory_ids": [
+          "T017102",
+          "T014271",
+          "T013939",
+          "T018161",
+          "T018602",
+          "T014302"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T014218",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "Focuses on accumulation of late-acting deleterious alleles due to declining natural selection with age, explaining senescence from an evolutionary perspective."
+        },
+        {
+          "theory_id": "T014178",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "Describes accumulation of late-acting deleterious mutations and age-dependent inbreeding depression consistent with evolutionary mutation accumulation."
+        },
+        {
+          "theory_id": "T016600",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "Emphasizes evolutionary accumulation of late-acting deleterious mutations due to weaker selection at older ages."
+        },
+        {
+          "theory_id": "T013967",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "Focuses on age-dependent accumulation of deleterious mutations and increasing genetic variance with age, fitting evolutionary mutation accumulation."
+        },
+        {
+          "theory_id": "T014529",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "Describes spontaneous mutation accumulation affecting life history traits and increasing mutational variance over generations."
+        },
+        {
+          "theory_id": "T014349",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "Mathematical modeling of declining force of natural selection with age leading to mutation accumulation and senescence."
+        },
+        {
+          "theory_id": "T014499",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "QTL studies showing late-acting deleterious mutations accumulate due to weak selection, consistent with evolutionary mutation accumulation."
+        },
+        {
+          "theory_id": "T017034",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "Integrates mutation accumulation and antagonistic pleiotropy models emphasizing evolutionary weakening of selection with age."
+        },
+        {
+          "theory_id": "T017312",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "Classical evolutionary theory describing aging as a consequence of declining natural selection and life history trade-offs."
+        },
+        {
+          "theory_id": "T016982",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "Evolutionary senescence theory highlighting declining selection with age and life history trade-offs shaping aging."
+        },
+        {
+          "theory_id": "T017318",
+          "subcluster_name": "Evolutionary Mutation Accumulation Theory of Senescence",
+          "reasoning": "Describes aging as a byproduct of late-acting mutation accumulation shaped by extrinsic mortality and weak selection."
+        },
+        {
+          "theory_id": "T019538",
+          "subcluster_name": "Genetic Modulation and Mutation Accumulation Theory",
+          "reasoning": "Focuses on genetic heterogeneity, allelic variation, and mapping of aging-related genes modulating mutation accumulation effects."
+        },
+        {
+          "theory_id": "T016718",
+          "subcluster_name": "Genetic Modulation and Mutation Accumulation Theory",
+          "reasoning": "Describes longevity assurance genes modulating aging rate and mutation effects, linking genetics to mutation accumulation."
+        },
+        {
+          "theory_id": "T015864",
+          "subcluster_name": "Genetic Modulation and Mutation Accumulation Theory",
+          "reasoning": "Shows genetic control of aging via age-1 gene mutation extending lifespan, illustrating genetic modulation of mutation accumulation."
+        },
+        {
+          "theory_id": "T016885",
+          "subcluster_name": "Genetic Modulation and Mutation Accumulation Theory",
+          "reasoning": "Modern medicine reduces natural selection, allowing accumulation of deleterious cardiovascular disease genes, a genetic modulation of mutation accumulation."
+        },
+        {
+          "theory_id": "T014058",
+          "subcluster_name": "Genetic Modulation and Mutation Accumulation Theory",
+          "reasoning": "Life history theory including genetic adaptation and plasticity affecting energy allocation and aging, modulating mutation accumulation effects."
+        },
+        {
+          "theory_id": "T015954",
+          "subcluster_name": "Genetic Modulation and Mutation Accumulation Theory",
+          "reasoning": "Mutation accumulation limits clonal lifespan in unicellular organisms, with genetic control and telomere involvement modulating effects."
+        },
+        {
+          "theory_id": "T013933",
+          "subcluster_name": "Genetic Modulation and Mutation Accumulation Theory",
+          "reasoning": "Clonal expansion of mutant stem cells with proliferative advantage modulates aging, linking genetic mutation accumulation to systemic aging."
+        },
+        {
+          "theory_id": "T017102",
+          "subcluster_name": "Somatic Mutation Accumulation and Genome Instability Theory",
+          "reasoning": "Focuses on stochastic accumulation of somatic mutations causing genomic instability and functional decline in aging tissues."
+        },
+        {
+          "theory_id": "T014271",
+          "subcluster_name": "Somatic Mutation Accumulation and Genome Instability Theory",
+          "reasoning": "Describes increased spontaneous somatic mutations with age due to faulty DNA replication and repair enzymes causing aging."
+        },
+        {
+          "theory_id": "T013939",
+          "subcluster_name": "Somatic Mutation Accumulation and Genome Instability Theory",
+          "reasoning": "Somatic mutation theory emphasizing transposable element movement causing DNA damage and reduced lifespan."
+        },
+        {
+          "theory_id": "T018161",
+          "subcluster_name": "Somatic Mutation Accumulation and Genome Instability Theory",
+          "reasoning": "Single-cell sequencing reveals accumulation of somatic mutations in functional genomic regions contributing to aging and cancer."
+        },
+        {
+          "theory_id": "T018602",
+          "subcluster_name": "Somatic Mutation Accumulation and Genome Instability Theory",
+          "reasoning": "Genome instability and transcriptional deregulation from somatic mutation accumulation cause stochastic aging phenotypes."
+        },
+        {
+          "theory_id": "T014302",
+          "subcluster_name": "Somatic Mutation Accumulation and Genome Instability Theory",
+          "reasoning": "DNA damage accumulation and error-prone repair lead to somatic mutations and functional decline in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:02:56"
+}

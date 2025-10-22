@@ -1,0 +1,205 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 16,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "p53 Pathway-Mediated Cellular Senescence Theory",
+        "theory_ids": [
+          "T013065",
+          "T012022",
+          "T011093"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Oxidative Stress and Caveolin-1 Mediated Senescence Theory",
+        "theory_ids": [
+          "T011542",
+          "T011543",
+          "T011614",
+          "T011799"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "NF-kB and Inflammatory Signaling-Driven Senescence Theory",
+        "theory_ids": [
+          "T013009",
+          "T012272",
+          "T012662",
+          "T012684",
+          "T012492",
+          "T011346",
+          "T011744",
+          "T012897"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Telomere-Associated and DNA Damage-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T012916",
+          "T011854",
+          "T011531",
+          "T012282",
+          "T011502",
+          "T012550",
+          "T012357",
+          "T011714"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Immune System Senescence and Host Susceptibility Theory",
+        "theory_ids": [
+          "T012388",
+          "T011383",
+          "T012879"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T013065",
+          "subcluster_name": "p53 Pathway-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on p53 protein variations and their dual role in modulating cellular senescence and aging."
+        },
+        {
+          "theory_id": "T012022",
+          "subcluster_name": "p53 Pathway-Mediated Cellular Senescence Theory",
+          "reasoning": "Describes p53 network regulating DNA damage responses, balancing tumor suppression and aging via senescence."
+        },
+        {
+          "theory_id": "T011093",
+          "subcluster_name": "p53 Pathway-Mediated Cellular Senescence Theory",
+          "reasoning": "Emphasizes BTK regulation of p53-induced senescence and its impact on senescent cell accumulation and aging."
+        },
+        {
+          "theory_id": "T011542",
+          "subcluster_name": "Oxidative Stress and Caveolin-1 Mediated Senescence Theory",
+          "reasoning": "Highlights caveolin-1 as a mediator of oxidative stress-induced premature senescence via multiple signaling pathways."
+        },
+        {
+          "theory_id": "T011543",
+          "subcluster_name": "Oxidative Stress and Caveolin-1 Mediated Senescence Theory",
+          "reasoning": "Focuses on caveolin-1 involvement in replicative and stress-induced premature senescence driven by oxidative stress."
+        },
+        {
+          "theory_id": "T011614",
+          "subcluster_name": "Oxidative Stress and Caveolin-1 Mediated Senescence Theory",
+          "reasoning": "Describes oxidative stress, ROS, and inflammation driving senescence and SASP, with impaired autophagy contributing."
+        },
+        {
+          "theory_id": "T011799",
+          "subcluster_name": "Oxidative Stress and Caveolin-1 Mediated Senescence Theory",
+          "reasoning": "Details telomere erosion and oxidative stress as key drivers of replicative senescence and cellular aging."
+        },
+        {
+          "theory_id": "T013009",
+          "subcluster_name": "NF-kB and Inflammatory Signaling-Driven Senescence Theory",
+          "reasoning": "Focuses on NF-kB signaling dysregulation linking oxidative stress, inflammation, and immune homeostasis to senescence."
+        },
+        {
+          "theory_id": "T012272",
+          "subcluster_name": "NF-kB and Inflammatory Signaling-Driven Senescence Theory",
+          "reasoning": "Describes cGAS/STING pathway activation by cytosolic DNA leading to NF-kB-mediated inflamm-aging and senescence."
+        },
+        {
+          "theory_id": "T012662",
+          "subcluster_name": "NF-kB and Inflammatory Signaling-Driven Senescence Theory",
+          "reasoning": "Links cellular senescence, SASP, immunosenescence, and inflammation in multimorbidity via inflammatory pathways."
+        },
+        {
+          "theory_id": "T012684",
+          "subcluster_name": "NF-kB and Inflammatory Signaling-Driven Senescence Theory",
+          "reasoning": "Highlights accelerated senescence, immunosenescence, and inflammation driving cardiovascular disease in CKD."
+        },
+        {
+          "theory_id": "T012492",
+          "subcluster_name": "NF-kB and Inflammatory Signaling-Driven Senescence Theory",
+          "reasoning": "Focuses on redox-senescence axis, SASP, and dual roles of senescence in cancer and age-related inflammation."
+        },
+        {
+          "theory_id": "T011346",
+          "subcluster_name": "NF-kB and Inflammatory Signaling-Driven Senescence Theory",
+          "reasoning": "Describes senescence-associated fibrosis driven by SASP, redox imbalance, and chronic inflammation."
+        },
+        {
+          "theory_id": "T011744",
+          "subcluster_name": "NF-kB and Inflammatory Signaling-Driven Senescence Theory",
+          "reasoning": "Covers senescence and SASP roles in lung aging and disease, emphasizing inflammatory microenvironment effects."
+        },
+        {
+          "theory_id": "T012897",
+          "subcluster_name": "NF-kB and Inflammatory Signaling-Driven Senescence Theory",
+          "reasoning": "COPD as accelerated aging disease driven by oxidative stress, DNA damage, inflammation, and senescence."
+        },
+        {
+          "theory_id": "T012916",
+          "subcluster_name": "Telomere-Associated and DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative senescence via telomere shortening and stress-induced senescence in cardiovascular aging."
+        },
+        {
+          "theory_id": "T011854",
+          "subcluster_name": "Telomere-Associated and DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Describes telomere shortening as primary cause of replicative senescence and its role in aging."
+        },
+        {
+          "theory_id": "T011531",
+          "subcluster_name": "Telomere-Associated and DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes irreversible cell cycle arrest from telomere shortening and DNA damage with SASP effects."
+        },
+        {
+          "theory_id": "T012282",
+          "subcluster_name": "Telomere-Associated and DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on endogenous nuclear DNA damage accumulation driving senescence independent of telomere attrition."
+        },
+        {
+          "theory_id": "T011502",
+          "subcluster_name": "Telomere-Associated and DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescence and apoptosis regulation affecting tissue homeostasis and aging."
+        },
+        {
+          "theory_id": "T012550",
+          "subcluster_name": "Telomere-Associated and DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Covers senescence induced by telomere shortening, DNA damage, oxidative stress, and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T012357",
+          "subcluster_name": "Telomere-Associated and DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Describes irreversible growth arrest and accumulation of senescent cardiac cells impairing tissue renewal."
+        },
+        {
+          "theory_id": "T011714",
+          "subcluster_name": "Telomere-Associated and DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Details telomere attrition, mitochondrial dysfunction, and key signaling pathways driving cardiovascular senescence."
+        },
+        {
+          "theory_id": "T012388",
+          "subcluster_name": "Immune System Senescence and Host Susceptibility Theory",
+          "reasoning": "Focuses on replicative senescence of lymphocytes, immune defects, and stem cell regeneration affecting immune aging."
+        },
+        {
+          "theory_id": "T011383",
+          "subcluster_name": "Immune System Senescence and Host Susceptibility Theory",
+          "reasoning": "Links senescence-driven immune decline to host susceptibility and epidemiological patterns of infectious diseases."
+        },
+        {
+          "theory_id": "T012879",
+          "subcluster_name": "Immune System Senescence and Host Susceptibility Theory",
+          "reasoning": "Discusses accumulation of senescent cells impairing tissue regeneration and promoting chronic inflammation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:08:47"
+}

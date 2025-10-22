@@ -1,0 +1,189 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 11,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Somatic Maintenance and Stress Resistance Disposable Soma Theory",
+        "theory_ids": [
+          "T007833",
+          "T008156",
+          "T007890",
+          "T007758",
+          "T007285"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Reproductive Investment and Somatic Maintenance Trade-off Disposable Soma Theory",
+        "theory_ids": [
+          "T008145",
+          "T007770",
+          "T008164",
+          "T007253",
+          "T008202"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Dietary Restriction Adaptive Resource Reallocation Disposable Soma Theory",
+        "theory_ids": [
+          "T008320",
+          "T008263",
+          "T007436",
+          "T007967",
+          "T007307"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Reduction Disposable Soma Theory",
+        "theory_ids": [
+          "T007884",
+          "T007148",
+          "T008093",
+          "T007324",
+          "T007793",
+          "T008101",
+          "T007754"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T007833",
+          "subcluster_name": "Somatic Maintenance and Stress Resistance Disposable Soma Theory",
+          "reasoning": "Focuses on investment in somatic maintenance and enhanced cellular stress resistance as mechanisms underlying longevity, consistent with classic disposable soma concepts emphasizing somatic durability."
+        },
+        {
+          "theory_id": "T008156",
+          "subcluster_name": "Somatic Maintenance and Stress Resistance Disposable Soma Theory",
+          "reasoning": "Emphasizes trade-off between reproduction and somatic maintenance with accumulation of molecular damage causing aging, fitting the somatic maintenance and damage accumulation theme."
+        },
+        {
+          "theory_id": "T007890",
+          "subcluster_name": "Somatic Maintenance and Stress Resistance Disposable Soma Theory",
+          "reasoning": "Describes evolutionary trade-offs between reproduction and maintenance leading to imperfect repair and aging, aligning with somatic maintenance and damage accumulation mechanisms."
+        },
+        {
+          "theory_id": "T007758",
+          "subcluster_name": "Somatic Maintenance and Stress Resistance Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation trade-offs between reproduction and somatic maintenance, with energetic costs shaping lifespan, consistent with somatic maintenance disposable soma theory."
+        },
+        {
+          "theory_id": "T008154",
+          "subcluster_name": "Germ Line Versus Soma Resource Allocation Disposable Soma Theory",
+          "reasoning": "Highlights preferential resource allocation to germ line maintenance at the expense of soma, emphasizing germ line immortality versus somatic aging, a distinct disposable soma subtheme."
+        },
+        {
+          "theory_id": "T007285",
+          "subcluster_name": "Somatic Maintenance and Stress Resistance Disposable Soma Theory",
+          "reasoning": "Describes life-history trade-offs where investment in reproduction reduces somatic maintenance causing accelerated aging, fitting the somatic maintenance and damage accumulation theme."
+        },
+        {
+          "theory_id": "T008145",
+          "subcluster_name": "Reproductive Investment and Somatic Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Focuses on energy allocation hierarchy prioritizing somatic maintenance over reproduction during early adulthood, highlighting reproductive investment trade-offs within disposable soma framework."
+        },
+        {
+          "theory_id": "T007770",
+          "subcluster_name": "Reproductive Investment and Somatic Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Emphasizes increased late-life reproductive output and survival shaping longevity, reflecting reproductive investment trade-offs central to disposable soma theory."
+        },
+        {
+          "theory_id": "T008164",
+          "subcluster_name": "Reproductive Investment and Somatic Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Shows increased reproductive traits with age and prolonged reproductive longevity, illustrating reproductive investment trade-offs influencing aging."
+        },
+        {
+          "theory_id": "T007253",
+          "subcluster_name": "Reproductive Investment and Somatic Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Focuses on reproductive senescence and decline in reproductive effort with age, reflecting reproductive allocation trade-offs within disposable soma theory."
+        },
+        {
+          "theory_id": "T008202",
+          "subcluster_name": "Reproductive Investment and Somatic Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Describes life history trade-offs where reproductive costs modulate longevity and caloric restriction effects, fitting reproductive investment and somatic maintenance trade-off theme."
+        },
+        {
+          "theory_id": "T008320",
+          "subcluster_name": "Dietary Restriction Adaptive Resource Reallocation Disposable Soma Theory",
+          "reasoning": "Proposes adaptive resource reallocation from reproduction to somatic maintenance during dietary restriction, emphasizing evolutionary basis of DR-induced longevity."
+        },
+        {
+          "theory_id": "T008263",
+          "subcluster_name": "Dietary Restriction Adaptive Resource Reallocation Disposable Soma Theory",
+          "reasoning": "Focuses on dietary restriction as an adaptive response reallocating resources from reproduction to somatic maintenance, consistent with DR evolutionary adaptation."
+        },
+        {
+          "theory_id": "T007436",
+          "subcluster_name": "Dietary Restriction Adaptive Resource Reallocation Disposable Soma Theory",
+          "reasoning": "Describes caloric restriction slowing aging and extending lifespan, serving as benchmark for aging retardation, fitting dietary restriction and resource reallocation theme."
+        },
+        {
+          "theory_id": "T007967",
+          "subcluster_name": "Dietary Restriction Adaptive Resource Reallocation Disposable Soma Theory",
+          "reasoning": "Details caloric restriction effects on lifespan extension and aging retardation via reduced somatic damage, aligning with dietary restriction and resource reallocation mechanisms."
+        },
+        {
+          "theory_id": "T007307",
+          "subcluster_name": "Dietary Restriction Adaptive Resource Reallocation Disposable Soma Theory",
+          "reasoning": "Explores caloric restriction mechanisms including oxidative damage attenuation and immune senescence delay, consistent with dietary restriction and somatic maintenance reallocation."
+        },
+        {
+          "theory_id": "T007884",
+          "subcluster_name": "Insulin/IGF-1 Signaling Reduction Disposable Soma Theory",
+          "reasoning": "Focuses on IIS pathway regulation of aging and lifespan extension via reduced signaling, a conserved nutrient sensing mechanism linked to disposable soma theory."
+        },
+        {
+          "theory_id": "T007148",
+          "subcluster_name": "Insulin/IGF-1 Signaling Reduction Disposable Soma Theory",
+          "reasoning": "Describes IIS reduction elevating stress resistance and proteostasis, linking insulin signaling modulation to aging and disposable soma mechanisms."
+        },
+        {
+          "theory_id": "T008093",
+          "subcluster_name": "Insulin/IGF-1 Signaling Reduction Disposable Soma Theory",
+          "reasoning": "Details downregulation of IGF-1 signaling extending lifespan and enhancing oxidative stress resistance, fitting IIS reduction and disposable soma framework."
+        },
+        {
+          "theory_id": "T007324",
+          "subcluster_name": "Insulin/IGF-1 Signaling Reduction Disposable Soma Theory",
+          "reasoning": "Shows dietary lipid unsaturation modulating IIS pathway gene expression and lifespan, linking metabolic regulation via IIS to aging."
+        },
+        {
+          "theory_id": "T007793",
+          "subcluster_name": "Insulin/IGF-1 Signaling Reduction Disposable Soma Theory",
+          "reasoning": "Focuses on PI3K/Akt/Foxo pathway regulation of aging and longevity, with Pten modulating IIS signaling to promote lifespan extension."
+        },
+        {
+          "theory_id": "T008101",
+          "subcluster_name": "Insulin/IGF-1 Signaling Reduction Disposable Soma Theory",
+          "reasoning": "Explores neuronal insulin signaling and resistance in aging-associated diseases, highlighting complex IIS roles in aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T007754",
+          "subcluster_name": "Insulin/IGF-1 Signaling Reduction Disposable Soma Theory",
+          "reasoning": "Describes peripheral IGF-1 overexpression accelerating aging in major depressive disorder, illustrating dualistic IIS effects on aging."
+        },
+        {
+          "theory_id": "T007962",
+          "subcluster_name": "Reproductive Aging Biomarker Disposable Soma Theory",
+          "reasoning": "Proposes reproductive system aging as a biomarker of organismal aging, linking reproductive decline to systemic aging processes."
+        },
+        {
+          "theory_id": "T007498",
+          "subcluster_name": "Cognitive Resource Depletion Aging Theory",
+          "reasoning": "Focuses on limited cognitive resources and vigilance decrement with aging, representing a distinct mechanistic theme outside classical disposable soma but related to aging resource allocation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:03:32"
+}

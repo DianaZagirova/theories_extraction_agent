@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 21,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+        "theory_ids": [
+          "T015578",
+          "T015628",
+          "T015653",
+          "T015443",
+          "T015754",
+          "T015622",
+          "T015446",
+          "T015397",
+          "T015629",
+          "T015592",
+          "T015461",
+          "T015376",
+          "T015703",
+          "T014924",
+          "T015572",
+          "T015664"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Mitochondrial Antioxidant Defense and Longevity Regulation Theory",
+        "theory_ids": [
+          "T015570",
+          "T015396",
+          "T015475"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS Signaling and Apoptosis-Mediated Longevity Theory",
+        "theory_ids": [
+          "T015480",
+          "T015708",
+          "T015729"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Mitochondrial Quality Control and Lifespan Regulation Theory",
+        "theory_ids": [
+          "T015413",
+          "T015728",
+          "T015546"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015578",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Focuses on mitochondrial DNA damage, bioenergy deficits, and ROS production impairing mitochondrial function and aging."
+        },
+        {
+          "theory_id": "T015628",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Emphasizes mitochondrial respiratory chain dysfunction, ROS dual role, and bioenergetic changes affecting lifespan."
+        },
+        {
+          "theory_id": "T015653",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Highlights mitochondrial DNA instability, ROS generation, and mitochondrial-nuclear signaling impacting aging."
+        },
+        {
+          "theory_id": "T015443",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Describes mitochondrial ROS production, damage accumulation, and alternative respiratory pathways reducing ROS."
+        },
+        {
+          "theory_id": "T015754",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Focuses on oxidative damage to mtDNA by mitochondrial free radicals correlating inversely with lifespan."
+        },
+        {
+          "theory_id": "T015622",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Details mitochondrial ROS as aging driver, mtDNA damage, and antioxidant defenses influencing lifespan."
+        },
+        {
+          "theory_id": "T015446",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Centers on mitochondrial deterioration via ROS damage and antioxidant targeting to slow aging."
+        },
+        {
+          "theory_id": "T015397",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Describes mitochondrial DNA damage, metabolic triad dysfunction, and reduced neuronal homeostasis in aging."
+        },
+        {
+          "theory_id": "T015629",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Focuses on ROS-induced damage, vicious cycle of mitochondrial dysfunction, and evolutionary detoxification."
+        },
+        {
+          "theory_id": "T015592",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Highlights superoxide radical production by mitochondria and its inverse correlation with lifespan."
+        },
+        {
+          "theory_id": "T015461",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Discusses mitochondrial ROS production, lifespan correlation, and dietary modulation of ROS."
+        },
+        {
+          "theory_id": "T015376",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Describes mitochondrial ROS production, oxidative damage accumulation, and mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T015703",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Focuses on mitochondria as ROS source and target, mitochondrial dysfunction accelerating aging, and paradoxical lifespan extension."
+        },
+        {
+          "theory_id": "T014924",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction, ROS damage, and mitochondrial regulation of senescence in aging."
+        },
+        {
+          "theory_id": "T015572",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Details mitochondrial ROS as causal agents of aging, antioxidant targeting, and systemic healthspan effects."
+        },
+        {
+          "theory_id": "T015664",
+          "subcluster_name": "Mitochondrial ROS and Bioenergetic Decline Theory",
+          "reasoning": "Focuses on oxidative stress as aging cause, antioxidant enzymes role, and mitochondrial localization importance."
+        },
+        {
+          "theory_id": "T015570",
+          "subcluster_name": "Mitochondrial Antioxidant Defense and Longevity Regulation Theory",
+          "reasoning": "Centers on mitochondrial thioredoxin reductase 2 (TXNRD2) as a key antioxidant enzyme correlating with lifespan."
+        },
+        {
+          "theory_id": "T015396",
+          "subcluster_name": "Mitochondrial Antioxidant Defense and Longevity Regulation Theory",
+          "reasoning": "Focuses on mitochondrial-nuclear DNA compatibility affecting mitochondrial function, ROS defense, and healthy aging."
+        },
+        {
+          "theory_id": "T015475",
+          "subcluster_name": "Mitochondrial Antioxidant Defense and Longevity Regulation Theory",
+          "reasoning": "Highlights mitochondrial hydrogen peroxide as a genetically controlled signaling molecule influencing aging."
+        },
+        {
+          "theory_id": "T015480",
+          "subcluster_name": "Mitochondrial ROS Signaling and Apoptosis-Mediated Longevity Theory",
+          "reasoning": "Describes mitochondrial ROS as hormetic longevity signals activating intrinsic apoptosis pathway components non-apoptotically."
+        },
+        {
+          "theory_id": "T015708",
+          "subcluster_name": "Mitochondrial ROS Signaling and Apoptosis-Mediated Longevity Theory",
+          "reasoning": "Focuses on caloric restriction enhancing mitochondrial apoptosis capacity to remove damaged cells and extend lifespan."
+        },
+        {
+          "theory_id": "T015413",
+          "subcluster_name": "Mitochondrial Quality Control and Lifespan Regulation Theory",
+          "reasoning": "Emphasizes mitochondrial protein/organelle quality control mechanisms like mitophagy and asymmetric inheritance in aging."
+        },
+        {
+          "theory_id": "T015728",
+          "subcluster_name": "Mitochondrial Quality Control and Lifespan Regulation Theory",
+          "reasoning": "Focuses on mtDNA maintenance, mtROS signaling, and DNA damage response integration regulating yeast lifespan."
+        },
+        {
+          "theory_id": "T015546",
+          "subcluster_name": "Mitochondrial Quality Control and Lifespan Regulation Theory",
+          "reasoning": "Describes mitochondrial respiratory chain dysfunction triggering retrograde signaling affecting lifespan in species-specific ways."
+        },
+        {
+          "theory_id": "T015729",
+          "subcluster_name": "Mitochondrial ROS Signaling and Apoptosis-Mediated Longevity Theory",
+          "reasoning": "Details mitochondrial ROS as signaling molecules activating nuclear antioxidant defenses and modulating aging rate."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:46:13"
+}

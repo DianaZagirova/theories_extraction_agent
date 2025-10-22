@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+        "theory_ids": [
+          "T008823",
+          "T008688",
+          "T008764",
+          "T008763",
+          "T008549",
+          "T008679",
+          "T008329",
+          "T008681",
+          "T008804",
+          "T008408",
+          "T008816",
+          "T008648",
+          "T009273",
+          "T009143",
+          "T008750",
+          "T008524",
+          "T008521"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "Telomerase-Mediated Telomere Stabilization and Apoptosis Resistance Theory",
+        "theory_ids": [
+          "T008517",
+          "T009392",
+          "T009264",
+          "T008782",
+          "T008751",
+          "T008876",
+          "T008327",
+          "T009226"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Telomere-p53-PGC-1 Mitochondrial Dysfunction Unifying Aging Theory",
+        "theory_ids": [
+          "T007330",
+          "T008630",
+          "T007656"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T008823",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Focuses on genetic control, inheritance, and homeostasis of telomere length as a determinant of aging."
+        },
+        {
+          "theory_id": "T008688",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Emphasizes chromosome-specific telomere length profiles and genetic/epigenetic control of telomere length."
+        },
+        {
+          "theory_id": "T008764",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Describes telomere length establishment during development and its programming by prenatal environment."
+        },
+        {
+          "theory_id": "T008763",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Links telomere attrition and genetic mutations (WRN) affecting telomere maintenance and replicative lifespan."
+        },
+        {
+          "theory_id": "T008549",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Details telomere length as a replication timer regulated by telomerase and its role in senescence and cancer."
+        },
+        {
+          "theory_id": "T008679",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Focuses on telomere structure, progressive shortening, and telomerase activity in cellular lifespan regulation."
+        },
+        {
+          "theory_id": "T008329",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Describes telomere attrition as molecular clock and telomerase role in cellular immortality and aging."
+        },
+        {
+          "theory_id": "T008681",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Explains telomere shortening due to end replication problem and telomerase maintenance in germline cells."
+        },
+        {
+          "theory_id": "T008804",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Details telomerase repression in somatic cells and telomere shortening as mitotic clock triggering senescence."
+        },
+        {
+          "theory_id": "T008408",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Shows telomerase reconstitution extends replicative lifespan by elongating telomeres in somatic cells."
+        },
+        {
+          "theory_id": "T008816",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Describes telomere shortening as cause of senescence and telomerase activity maintaining telomere length."
+        },
+        {
+          "theory_id": "T008648",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Mathematical modeling of telomere shortening due to end-replication problem and its role in cellular aging."
+        },
+        {
+          "theory_id": "T009273",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Telomere shortening as mitotic clock driving cellular and organismal aging and stem cell dysfunction."
+        },
+        {
+          "theory_id": "T009143",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Correlates telomere attrition rate with lifespan across species and telomerase role in telomere repair."
+        },
+        {
+          "theory_id": "T008750",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Links growth conditions and oxidative stress to telomere erosion as a causal aging mechanism."
+        },
+        {
+          "theory_id": "T008524",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Shows testosterone accelerates telomere shortening linking reproductive investment to aging."
+        },
+        {
+          "theory_id": "T008521",
+          "subcluster_name": "Telomere Length Homeostasis and Genetic Regulation Theory",
+          "reasoning": "Focuses on telomere shortening in oocytes causing reproductive aging and apoptosis."
+        },
+        {
+          "theory_id": "T008517",
+          "subcluster_name": "Telomerase-Mediated Telomere Stabilization and Apoptosis Resistance Theory",
+          "reasoning": "Highlights telomerase activity maintaining telomere stability and conferring apoptosis resistance."
+        },
+        {
+          "theory_id": "T009392",
+          "subcluster_name": "Telomerase-Mediated Telomere Stabilization and Apoptosis Resistance Theory",
+          "reasoning": "Describes telomere shortening inducing aging phenotypes and non-canonical TERT functions affecting apoptosis."
+        },
+        {
+          "theory_id": "T009264",
+          "subcluster_name": "Telomerase-Mediated Telomere Stabilization and Apoptosis Resistance Theory",
+          "reasoning": "Links cardiovascular aging factors accelerating telomere attrition and systemic aging."
+        },
+        {
+          "theory_id": "T008782",
+          "subcluster_name": "Telomerase-Mediated Telomere Stabilization and Apoptosis Resistance Theory",
+          "reasoning": "Describes ionizing radiation accelerating telomere shortening causing vascular dysfunction and aging."
+        },
+        {
+          "theory_id": "T008751",
+          "subcluster_name": "Telomerase-Mediated Telomere Stabilization and Apoptosis Resistance Theory",
+          "reasoning": "Shows telomere shortening triggers DNA damage and fibrosis, with telomerase silencing limiting regeneration."
+        },
+        {
+          "theory_id": "T008876",
+          "subcluster_name": "Telomerase-Mediated Telomere Stabilization and Apoptosis Resistance Theory",
+          "reasoning": "Two-hit model of telomere shortening in female germline causing reproductive aging and apoptosis."
+        },
+        {
+          "theory_id": "T008327",
+          "subcluster_name": "Telomerase-Mediated Telomere Stabilization and Apoptosis Resistance Theory",
+          "reasoning": "Telomere shortening triggers DNA damage checkpoints inducing senescence as tumor suppressive mechanism."
+        },
+        {
+          "theory_id": "T009226",
+          "subcluster_name": "Telomerase-Mediated Telomere Stabilization and Apoptosis Resistance Theory",
+          "reasoning": "Telomere dysfunction triggers DNA damage response leading to senescence or apoptosis preventing cancer."
+        },
+        {
+          "theory_id": "T007330",
+          "subcluster_name": "Telomere-p53-PGC-1 Mitochondrial Dysfunction Unifying Aging Theory",
+          "reasoning": "Links telomere dysfunction to p53 activation and mitochondrial decline driving systemic aging."
+        },
+        {
+          "theory_id": "T008630",
+          "subcluster_name": "Telomere-p53-PGC-1 Mitochondrial Dysfunction Unifying Aging Theory",
+          "reasoning": "Proposes telomere damage in long-lived post-mitotic cells causes mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T007656",
+          "subcluster_name": "Telomere-p53-PGC-1 Mitochondrial Dysfunction Unifying Aging Theory",
+          "reasoning": "Describes telomere shortening causing epigenetic and genetic instability beyond telomeres contributing to aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:22:12"
+}

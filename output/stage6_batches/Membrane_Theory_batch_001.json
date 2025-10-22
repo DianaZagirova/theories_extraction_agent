@@ -1,0 +1,177 @@
+{
+  "cluster_name": "Membrane Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+        "theory_ids": [
+          "T004717",
+          "T000101",
+          "T007112",
+          "T007258",
+          "T002330",
+          "T008065",
+          "T007737",
+          "T007609",
+          "T007181",
+          "T008586",
+          "T007975",
+          "T007643"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+        "theory_ids": [
+          "T007553",
+          "T007977",
+          "T007864",
+          "T008026",
+          "T008447",
+          "T007567",
+          "T008180",
+          "T008539",
+          "T007928",
+          "T008124",
+          "T008336",
+          "T007139"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T004717",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Focuses on membrane lipid unsaturation, PUFA content, and lipid peroxidation affecting mitochondrial function and lifespan."
+        },
+        {
+          "theory_id": "T000101",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Emphasizes changes in membrane PUFA metabolism, lipid composition, and bioactive lipid signaling in aging."
+        },
+        {
+          "theory_id": "T007112",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Centers on mitochondrial membrane microviscosity changes driven by lipid peroxidation affecting aging."
+        },
+        {
+          "theory_id": "T007258",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Describes loss of membrane lipid asymmetry due to lipid peroxidation and its functional consequences in aging."
+        },
+        {
+          "theory_id": "T002330",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Focuses on decline in neuronal membrane fluidity and altered lipid composition as a cause of aging and AD."
+        },
+        {
+          "theory_id": "T008065",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Links mitochondrial DNA damage and membrane lipid peroxidation by reactive oxygen metabolites to aging."
+        },
+        {
+          "theory_id": "T007737",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Discusses plasma membrane alterations including free radical damage and residual heat affecting aging."
+        },
+        {
+          "theory_id": "T007609",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Details hydroxyl radical scavenging protecting membrane lipids and proteins from oxidative damage."
+        },
+        {
+          "theory_id": "T007181",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Shows age-related decrease in membrane protein lateral diffusion due to oxidative damage and membrane deterioration."
+        },
+        {
+          "theory_id": "T008586",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Correlates membrane protein lateral diffusion decline and increased rigidity with aging and lifespan differences."
+        },
+        {
+          "theory_id": "T007975",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Describes membrane cross-linking, rigidity, and damage accumulation impairing membrane function and gene expression."
+        },
+        {
+          "theory_id": "T007643",
+          "subcluster_name": "Membrane Lipid Composition and Peroxidation Theory",
+          "reasoning": "Focuses on age-dependent membrane rigidity, altered lipid composition, and decreased potassium permeability."
+        },
+        {
+          "theory_id": "T007553",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Centers on age-dependent decrease in passive potassium permeability and its effects on intracellular ionic strength."
+        },
+        {
+          "theory_id": "T007977",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Focuses on free radical-induced cross-linking of membrane proteins reducing permeability and causing cellular dysfunction."
+        },
+        {
+          "theory_id": "T007864",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Describes hydroxyl radical damage causing decreased membrane permeability and intracellular dehydration."
+        },
+        {
+          "theory_id": "T008026",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Shows decreased potassium permeability leading to intracellular potassium accumulation and cytoplasmic dehydration."
+        },
+        {
+          "theory_id": "T008447",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Links decreased membrane permeability to potassium accumulation, chromatin condensation, and RNA synthesis decline."
+        },
+        {
+          "theory_id": "T007567",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Describes decreased potassium permeability causing increased intracellular ionic strength and slowed nuclear synthesis."
+        },
+        {
+          "theory_id": "T008180",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Shows vitamin E deficiency exacerbates membrane permeability loss and intracellular potassium accumulation."
+        },
+        {
+          "theory_id": "T008539",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Focuses on increased membrane rigidity reducing potassium permeability and increasing intracellular ionic strength."
+        },
+        {
+          "theory_id": "T007928",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Describes membrane rigidity-induced potassium permeability decrease and pharmacological modulation by centrophenoxine."
+        },
+        {
+          "theory_id": "T008124",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Links age-dependent potassium permeability loss to increased ionic strength and intracellular colloid condensation."
+        },
+        {
+          "theory_id": "T008336",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Explains free radical-induced membrane cross-linking reduces ion permeability causing intracellular potassium increase."
+        },
+        {
+          "theory_id": "T007139",
+          "subcluster_name": "Membrane Permeability Decline and Ionic Imbalance Theory",
+          "reasoning": "Describes free radical damage causing loss of membrane permeability, intracellular dehydration, and enzymatic inhibition."
+        },
+        {
+          "theory_id": "T008183",
+          "subcluster_name": "Intracellular Density and Enzyme Activity Decline Theory",
+          "reasoning": "Focuses on increased intracellular dry mass and viscosity down-regulating enzyme activities during aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:57:30"
+}

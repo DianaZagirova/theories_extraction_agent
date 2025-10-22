@@ -1,0 +1,219 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 14,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Disposable Soma Theory",
+        "theory_ids": [
+          "T010976",
+          "T010921",
+          "T010693",
+          "T010697",
+          "T010780",
+          "T010549",
+          "T010328",
+          "T010955"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+        "theory_ids": [
+          "T010499",
+          "T010812",
+          "T010377",
+          "T010572",
+          "T011045",
+          "T010655",
+          "T010769",
+          "T010575",
+          "T010763",
+          "T010774",
+          "T010542",
+          "T010346",
+          "T010134",
+          "T010790",
+          "T010792",
+          "T011060",
+          "T011160",
+          "T010480"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 18
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T010976",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Disposable Soma Theory",
+          "reasoning": "This theory focuses on the IIS and mTOR nutrient-sensing pathways regulating aging and longevity, fitting the signaling pathway mechanistic theme."
+        },
+        {
+          "theory_id": "T010921",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Disposable Soma Theory",
+          "reasoning": "Describes the conserved insulin/IGF-1 signaling pathway and its role in lifespan regulation, matching the IIS/mTOR signaling subcluster."
+        },
+        {
+          "theory_id": "T010693",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Disposable Soma Theory",
+          "reasoning": "Focuses on IIS pathway in C. elegans and downstream FOXO regulation, fitting the insulin/IGF-1 signaling mechanistic theme."
+        },
+        {
+          "theory_id": "T010697",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Disposable Soma Theory",
+          "reasoning": "Emphasizes insulin/IGF-1 signaling and oxidative stress interaction in aging, consistent with IIS/mTOR signaling mechanisms."
+        },
+        {
+          "theory_id": "T010780",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Disposable Soma Theory",
+          "reasoning": "Links reproduction-driven sterol competition and mTOR signaling affecting aging, fitting nutrient signaling and metabolic regulation theme."
+        },
+        {
+          "theory_id": "T010549",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Disposable Soma Theory",
+          "reasoning": "Involves hormonal regulation including mTOR signaling with antagonistic pleiotropy affecting reproduction and aging."
+        },
+        {
+          "theory_id": "T010328",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Disposable Soma Theory",
+          "reasoning": "Caloric restriction modulates IIS and mTOR pathways to extend lifespan, fitting nutrient sensing and signaling subcluster."
+        },
+        {
+          "theory_id": "T010955",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Disposable Soma Theory",
+          "reasoning": "Calorie restriction theory involving suppression of IGF signaling and mTOR, aligning with nutrient sensing and signaling mechanisms."
+        },
+        {
+          "theory_id": "T010499",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Focuses on energy allocation trade-offs between reproduction and somatic maintenance, with evolutionary basis and dietary restriction effects."
+        },
+        {
+          "theory_id": "T010812",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Describes energy allocation trade-offs in bacteria and single-celled organisms between reproduction and soma maintenance."
+        },
+        {
+          "theory_id": "T010377",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Explains sex differences in lifespan via optimal energy allocation between somatic maintenance and reproduction."
+        },
+        {
+          "theory_id": "T010572",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Describes resource allocation trade-off between germline and soma maintenance, fitting energy allocation and reproduction trade-off theme."
+        },
+        {
+          "theory_id": "T011045",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Focuses on metabolic trade-offs between fertility and longevity, consistent with energy allocation and reproduction trade-off."
+        },
+        {
+          "theory_id": "T010655",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Examines fertility-longevity trade-offs in humans, fitting the energy allocation and reproduction trade-off subcluster."
+        },
+        {
+          "theory_id": "T010769",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Discusses fertility and longevity trade-offs based on resource allocation between reproduction and maintenance."
+        },
+        {
+          "theory_id": "T010575",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Explores costs of reproduction on lifespan via oxidative stress, fitting energy allocation and reproduction trade-off mechanisms."
+        },
+        {
+          "theory_id": "T010763",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Analyzes female fertility and longevity trade-offs influenced by environmental factors, consistent with energy allocation and reproduction trade-off."
+        },
+        {
+          "theory_id": "T010774",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Describes physiological deterioration from reproduction-maintenance trade-offs leading to senescence."
+        },
+        {
+          "theory_id": "T010542",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Shows reproductive effort accelerates senescence via resource allocation trade-offs."
+        },
+        {
+          "theory_id": "T010346",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Revisits disposable soma theory emphasizing energy and time allocation trade-offs between reproduction and maintenance."
+        },
+        {
+          "theory_id": "T010134",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Focuses on early-late life energy allocation trade-offs affecting molecular maintenance and oxidative stress."
+        },
+        {
+          "theory_id": "T010790",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Links disposable soma theory to resource allocation trade-offs and survival strategies like torpor."
+        },
+        {
+          "theory_id": "T010792",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Combines disposable soma and maintenance gap theories focusing on resource allocation trade-offs affecting growth, fecundity, and mortality."
+        },
+        {
+          "theory_id": "T011060",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Describes resource allocation trade-offs under caloric restriction affecting reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T011160",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Models trade-offs between growth, damage accumulation, and repair shaping mortality trajectories and life history optimization."
+        },
+        {
+          "theory_id": "T011146",
+          "subcluster_name": "Reproductive Activation and Longevity Disposable Soma Theory in Social Insects",
+          "reasoning": "Focuses on reproduction-linked intrinsic survival advantage in social insect queens, highlighting phenotypic plasticity and endocrine regulation."
+        },
+        {
+          "theory_id": "T010480",
+          "subcluster_name": "Energy Allocation and Reproduction Trade-Off Disposable Soma Theory",
+          "reasoning": "Describes brain size and somatic maintenance trade-offs affecting intrinsic lifespan, fitting energy allocation theme."
+        },
+        {
+          "theory_id": "T010016",
+          "subcluster_name": "Mortality Risk Optimization via Restrained Somatic Maintenance Disposable Soma Theory",
+          "reasoning": "Proposes somatic maintenance allocation tuned by environmental mortality risk, emphasizing restrained maintenance rather than reproduction trade-offs."
+        },
+        {
+          "theory_id": "T009425",
+          "subcluster_name": "Resource Acquisition and Allocation Genetic Variation Theory",
+          "reasoning": "Focuses on genetic variation in resource acquisition driving plasticity in life-history allocation, distinct from classical disposable soma trade-offs."
+        },
+        {
+          "theory_id": "T007825",
+          "subcluster_name": "Resource Redistribution and Ontogenesis Side Effect Disposable Soma Theory",
+          "reasoning": "Describes aging as a side effect of ontogenetic resource shift from housekeeping to integrative genes, a distinct mechanistic theme."
+        },
+        {
+          "theory_id": "T007962",
+          "subcluster_name": "Reproductive Aging as Biomarker Disposable Soma Theory",
+          "reasoning": "Focuses on reproductive system aging as a biomarker of organismal aging, emphasizing hormonal and biomarker relationships."
+        },
+        {
+          "theory_id": "T007498",
+          "subcluster_name": "Cognitive Resource Depletion Theory Related to Aging",
+          "reasoning": "Describes vigilance decrement due to cognitive resource depletion, a mechanism distinct from disposable soma but related to aging."
+        },
+        {
+          "theory_id": "T008942",
+          "subcluster_name": "Life History Trade-Off and Non-Senescence in Hydra",
+          "reasoning": "Focuses on resource allocation trade-offs in hydra with phenotypic plasticity and non-senescence via continuous regeneration."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:05:00"
+}

@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 20,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+        "theory_ids": [
+          "T024110",
+          "T024256",
+          "T024402",
+          "T024578",
+          "T024574",
+          "T024366",
+          "T024342",
+          "T024217",
+          "T024207"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Antioxidant Defense and ROS Damage Accumulation Theory",
+        "theory_ids": [
+          "T024399",
+          "T023975",
+          "T024352",
+          "T024327",
+          "T024416",
+          "T024544",
+          "T024279",
+          "T024215",
+          "T024360"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Nrf2-Regulated Antioxidant Defense Theory",
+        "theory_ids": [
+          "T023357",
+          "T024109",
+          "T024608",
+          "T024597"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "ROS Signaling and Protein Oxidation Theory",
+        "theory_ids": [
+          "T023988",
+          "T024028",
+          "T024427",
+          "T022834"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024110",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction as a primary source of ROS causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T024256",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Emphasizes mitochondrial DNA damage and ROS accumulation driving aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T024402",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Highlights oxidative damage to mitochondrial and nuclear DNA as a key aging mechanism."
+        },
+        {
+          "theory_id": "T024578",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes mitochondrial electron transport chain decline and ROS damage accumulation as aging drivers."
+        },
+        {
+          "theory_id": "T024574",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondria as main ROS source and mitochondrial dysfunction influencing aging."
+        },
+        {
+          "theory_id": "T024366",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links mitochondrial dysfunction and ROS to neurodegeneration and aging via redox regulation."
+        },
+        {
+          "theory_id": "T024342",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Connects mitochondrial ROS to activation of proteolytic systems causing muscle atrophy in aging."
+        },
+        {
+          "theory_id": "T024217",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes mitochondrial dysfunction and mtDNA damage from ROS as triggers of cellular senescence."
+        },
+        {
+          "theory_id": "T024207",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Emphasizes mitochondrial ROS generation causing oxidative stress and inflamm-aging."
+        },
+        {
+          "theory_id": "T024399",
+          "subcluster_name": "Antioxidant Defense and ROS Damage Accumulation Theory",
+          "reasoning": "Focuses on ROS damage accumulation and modulation of antioxidant defenses affecting lifespan."
+        },
+        {
+          "theory_id": "T023975",
+          "subcluster_name": "Antioxidant Defense and ROS Damage Accumulation Theory",
+          "reasoning": "Highlights antioxidant defense decline and dietary antioxidants mitigating oxidative damage in aging."
+        },
+        {
+          "theory_id": "T024352",
+          "subcluster_name": "Antioxidant Defense and ROS Damage Accumulation Theory",
+          "reasoning": "Describes age-related decline in antioxidant enzymes leading to oxidative damage and functional decline."
+        },
+        {
+          "theory_id": "T024327",
+          "subcluster_name": "Antioxidant Defense and ROS Damage Accumulation Theory",
+          "reasoning": "Focuses on oxidative damage biomarkers and chronic inflammation linking oxidative stress to aging diseases."
+        },
+        {
+          "theory_id": "T024416",
+          "subcluster_name": "Antioxidant Defense and ROS Damage Accumulation Theory",
+          "reasoning": "Discusses oxidative damage accumulation and limitations of oxidative stress as sole aging cause."
+        },
+        {
+          "theory_id": "T024544",
+          "subcluster_name": "Antioxidant Defense and ROS Damage Accumulation Theory",
+          "reasoning": "Shows caloric restriction reduces oxidative damage and oxidative stress biomarkers in aging."
+        },
+        {
+          "theory_id": "T024279",
+          "subcluster_name": "Antioxidant Defense and ROS Damage Accumulation Theory",
+          "reasoning": "Describes balance between ROS and antioxidants and caloric restriction effects on oxidative stress."
+        },
+        {
+          "theory_id": "T024215",
+          "subcluster_name": "Antioxidant Defense and ROS Damage Accumulation Theory",
+          "reasoning": "Details ROS production, antioxidant defenses, and oxidative damage as drivers of aging."
+        },
+        {
+          "theory_id": "T024360",
+          "subcluster_name": "Antioxidant Defense and ROS Damage Accumulation Theory",
+          "reasoning": "Describes antioxidant defense mechanisms and ROS accumulation influencing longevity and aging."
+        },
+        {
+          "theory_id": "T023357",
+          "subcluster_name": "Nrf2-Regulated Antioxidant Defense Theory",
+          "reasoning": "Emphasizes Nrf2 as master regulator of antioxidant gene expression controlling oxidative stress and aging."
+        },
+        {
+          "theory_id": "T024109",
+          "subcluster_name": "Nrf2-Regulated Antioxidant Defense Theory",
+          "reasoning": "Discusses ROS dual roles and dysregulation mechanisms, highlighting antioxidant defense regulation."
+        },
+        {
+          "theory_id": "T024608",
+          "subcluster_name": "Nrf2-Regulated Antioxidant Defense Theory",
+          "reasoning": "Focuses on ROS as signaling molecules and redox balance dynamics influencing aging and antioxidant responses."
+        },
+        {
+          "theory_id": "T024597",
+          "subcluster_name": "Nrf2-Regulated Antioxidant Defense Theory",
+          "reasoning": "Describes ROS metabolism, SOD role, and manganese-induced ROS scavenging linked to oxidative stress control."
+        },
+        {
+          "theory_id": "T023988",
+          "subcluster_name": "ROS Signaling and Protein Oxidation Theory",
+          "reasoning": "Focuses on protein oxidation by ROS and the evolving understanding of ROS as regulated signaling molecules."
+        },
+        {
+          "theory_id": "T024028",
+          "subcluster_name": "ROS Signaling and Protein Oxidation Theory",
+          "reasoning": "Highlights ROS as gene expression regulators and their role in cellular senescence via redox signaling."
+        },
+        {
+          "theory_id": "T024427",
+          "subcluster_name": "ROS Signaling and Protein Oxidation Theory",
+          "reasoning": "Describes oxidative stress inducing senescence via p38 MAPK and lamin B1 accumulation, a signaling pathway."
+        },
+        {
+          "theory_id": "T022834",
+          "subcluster_name": "ROS Signaling and Protein Oxidation Theory",
+          "reasoning": "Links oxidative stress to enhanced insulin signaling and aging via ROS-driven signaling pathways."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:41:53"
+}

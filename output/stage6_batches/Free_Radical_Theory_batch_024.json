@@ -1,0 +1,187 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 24,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Classic Oxidative Damage Accumulation Free Radical Theory",
+        "theory_ids": [
+          "T027493",
+          "T027031"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Free Radical Theory of Vascular Aging and Atherosclerosis",
+        "theory_ids": [
+          "T027086",
+          "T027179"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Free Radical Theory",
+        "theory_ids": [
+          "T012292",
+          "T026399",
+          "T026825",
+          "T018273",
+          "T022445",
+          "T022306",
+          "T012470",
+          "T026912",
+          "T026846",
+          "T013640",
+          "T014508",
+          "T013944",
+          "T026847",
+          "T026841",
+          "T024364",
+          "T026989",
+          "T027389",
+          "T016451",
+          "T015990",
+          "T009671",
+          "T026997"
+        ],
+        "theory_count": 21,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "21 subclusters too small"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027493",
+          "subcluster_name": "Classic Oxidative Damage Accumulation Free Radical Theory",
+          "reasoning": "This theory focuses on accumulation of oxidative damage by ROS causing functional decline and aging, representing the core classic free radical theory."
+        },
+        {
+          "theory_id": "T012292",
+          "subcluster_name": "Tissue-Specific Oxidative Damage Free Radical Theories",
+          "reasoning": "Focuses on ovarian aging caused by ROS accumulation and antioxidant decline, a tissue-specific application of free radical damage."
+        },
+        {
+          "theory_id": "T026399",
+          "subcluster_name": "Mitochondrial and Cytoplasmic Superoxide Imbalance Free Radical Theory",
+          "reasoning": "Emphasizes superoxide anion imbalance in mitochondria and cytoplasm triggering cellular aging markers, highlighting subcellular ROS imbalance."
+        },
+        {
+          "theory_id": "T027086",
+          "subcluster_name": "Free Radical Theory of Vascular Aging and Atherosclerosis",
+          "reasoning": "Links free radical oxidative damage to vascular endothelial injury and atherosclerosis, focusing on cardiovascular aging mechanisms."
+        },
+        {
+          "theory_id": "T026825",
+          "subcluster_name": "ROS-Induced Cell Death and Homeostasis Disruption Free Radical Theory",
+          "reasoning": "Focuses on ROS accumulation disrupting cellular homeostasis and triggering programmed cell death pathways in aging."
+        },
+        {
+          "theory_id": "T018273",
+          "subcluster_name": "Metabolic Rate and Oxidative Stress Free Radical Theory",
+          "reasoning": "Connects metabolic activity, ROS production, and oxidative damage with aging, highlighting metabolic rate\u2019s role in ROS generation."
+        },
+        {
+          "theory_id": "T022445",
+          "subcluster_name": "Glutathione Depletion and Redox Imbalance Brain Aging Free Radical Theory",
+          "reasoning": "Focuses on age-dependent glutathione decline causing redox imbalance, neuroinflammation, and cognitive decline in brain aging."
+        },
+        {
+          "theory_id": "T022306",
+          "subcluster_name": "Radical-Mediated Structural Protein Damage Free Radical Theory",
+          "reasoning": "Emphasizes hydroxyl radical-mediated oxidative cleavage of cartilage proteoglycans, linking free radicals to structural tissue aging."
+        },
+        {
+          "theory_id": "T012470",
+          "subcluster_name": "Glutathione Deficiency Brain Aging Free Radical Theory",
+          "reasoning": "Highlights glutathione decline as a major antioxidant loss driving oxidative stress and brain aging."
+        },
+        {
+          "theory_id": "T026912",
+          "subcluster_name": "Antioxidant Enzyme Modulation Free Radical Theory",
+          "reasoning": "Focuses on role of antioxidant enzymes like Cu-Zn SOD in scavenging superoxide radicals and influencing lifespan."
+        },
+        {
+          "theory_id": "T026846",
+          "subcluster_name": "Spin-Trapping Antioxidant Intervention Free Radical Theory",
+          "reasoning": "Describes spin-trap agents quenching free radicals to reduce oxidative damage and extend lifespan."
+        },
+        {
+          "theory_id": "T013640",
+          "subcluster_name": "Nitric Oxide-Integrated Free Radical Theory",
+          "reasoning": "Revises classic theory by incorporating beneficial roles of nitric oxide free radicals in vascular aging and systemic aging."
+        },
+        {
+          "theory_id": "T014508",
+          "subcluster_name": "Protein Oxidation Accumulation Free Radical Theory",
+          "reasoning": "Focuses on oxidative modifications of proteins, especially carbonylation, accumulating with age and causing functional decline."
+        },
+        {
+          "theory_id": "T013944",
+          "subcluster_name": "Melatonin Protective Antioxidant Free Radical Theory",
+          "reasoning": "Highlights melatonin as a free radical scavenger whose decline with age reduces antioxidant defense and promotes aging."
+        },
+        {
+          "theory_id": "T026847",
+          "subcluster_name": "Mitochondrial DNA Damage and Cell Differentiation Free Radical Theory",
+          "reasoning": "Emphasizes free radical damage to mtDNA causing bioenergetic decline and senescence, integrating cell differentiation concepts."
+        },
+        {
+          "theory_id": "T027179",
+          "subcluster_name": "Free Radical Theory of Vascular Aging and Atherosclerosis",
+          "reasoning": "Focuses on free radical-induced lipid peroxidation and membrane damage promoting atherosclerosis and systemic aging."
+        },
+        {
+          "theory_id": "T026841",
+          "subcluster_name": "Glutathione Metabolism and Antioxidant Defense Free Radical Theory",
+          "reasoning": "Describes role of glutathione metabolism and antioxidant defenses in protecting against ROS and aging."
+        },
+        {
+          "theory_id": "T024364",
+          "subcluster_name": "Uncoupling Protein-Mediated Mitochondrial ROS Control Free Radical Theory",
+          "reasoning": "Focuses on UCPs reducing mitochondrial ROS production and oxidative damage, linking mitochondrial uncoupling to aging."
+        },
+        {
+          "theory_id": "T026989",
+          "subcluster_name": "Lipid Peroxidation Accumulation Free Radical Theory",
+          "reasoning": "Emphasizes progressive lipid peroxidation by free radicals as a key mediator of aging-related cellular damage."
+        },
+        {
+          "theory_id": "T027389",
+          "subcluster_name": "Mitochondrial Dysfunction and ROS Accumulation Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing mtDNA and protein damage, impairing mitochondrial function and driving aging."
+        },
+        {
+          "theory_id": "T027031",
+          "subcluster_name": "Classic Oxidative Damage Accumulation Free Radical Theory",
+          "reasoning": "Describes cumulative oxidative damage by free radicals and the role of antioxidant defenses and environmental factors in aging."
+        },
+        {
+          "theory_id": "T016451",
+          "subcluster_name": "Ocular Tissue Free Radical Detoxification Decline Theory",
+          "reasoning": "Focuses on enzymatic degradation of free radical detoxification in eye tissues causing oxidative damage and ocular aging."
+        },
+        {
+          "theory_id": "T015990",
+          "subcluster_name": "Selective Protein Oxidative Damage Free Radical Theory",
+          "reasoning": "Highlights selective oxidative damage to specific proteins causing functional decline and lifespan effects."
+        },
+        {
+          "theory_id": "T009671",
+          "subcluster_name": "Melanin-Associated Oxidative Stress Free Radical Theory",
+          "reasoning": "Focuses on ROS generated by melanin biosynthesis causing oxidative damage and loss of melanocytes with aging."
+        },
+        {
+          "theory_id": "T026997",
+          "subcluster_name": "Nitric Oxide and Reactive Nitrogen Species Interaction Free Radical Theory",
+          "reasoning": "Emphasizes ROS accumulation and interaction with reactive nitrogen species disrupting signaling in cardiovascular aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:18:56"
+}

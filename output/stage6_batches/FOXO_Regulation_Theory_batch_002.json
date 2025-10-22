@@ -1,0 +1,194 @@
+{
+  "cluster_name": "FOXO Regulation Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+        "theory_ids": [
+          "T020764",
+          "T017567",
+          "T023283",
+          "T022280",
+          "T024219",
+          "T016574",
+          "T017037",
+          "T024675",
+          "T019057",
+          "T017769",
+          "T020182",
+          "T016985",
+          "T016723",
+          "T020081",
+          "T017870"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Pharmaceutical and Nutraceutical Activation of FOXO3 for Longevity Theory",
+        "theory_ids": [
+          "T027253",
+          "T022985"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "FOXO Regulation in Longevity and Tumor Suppression Theory",
+        "theory_ids": [
+          "T025610",
+          "T022303",
+          "T016464",
+          "T021069",
+          "T025591",
+          "T002076"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "FOXO Regulation Theory",
+        "theory_ids": [
+          "T016402",
+          "T019859"
+        ],
+        "theory_count": 2,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "2 subclusters too small"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020764",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Focuses on FOXO as downstream effectors of insulin/IGF signaling, regulated by PI3K/Akt pathway, controlling lifespan via stress resistance and metabolism."
+        },
+        {
+          "theory_id": "T017567",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Emphasizes DAF-16/FOXO regulation by insulin/IGF-1 signaling and lifespan extension via oxidative stress resistance and proteostasis."
+        },
+        {
+          "theory_id": "T023283",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Describes FOXO regulation by insulin/IGF signaling and post-translational modifications controlling longevity and stress resistance."
+        },
+        {
+          "theory_id": "T022280",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Details conserved IIS-FOXO pathway regulating longevity, stress resistance, autophagy, and stem cell maintenance."
+        },
+        {
+          "theory_id": "T024219",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Focuses on FOXO isoforms, genetic associations with longevity, and evolutionary aging theories linked to insulin/growth factor signaling."
+        },
+        {
+          "theory_id": "T016574",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Highlights FoxO regulation by insulin/PI3K/Akt and stress signaling, evolutionary conservation, and FoxO-p53 network in aging."
+        },
+        {
+          "theory_id": "T017037",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Describes FOXO regulation by insulin/IGF-1 and stress pathways, post-translational modifications, and conserved longevity functions."
+        },
+        {
+          "theory_id": "T024675",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Focuses on PI3K-Akt pathway inhibition of FOXO and conserved FOXO target genes mediating aging-related processes."
+        },
+        {
+          "theory_id": "T019057",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Emphasizes FOXO regulation by IIS pathway, role in autophagy, proteostasis, and oxidative stress resistance for longevity."
+        },
+        {
+          "theory_id": "T017769",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Details FOXO3 regulation of longevity via insulin/IGF-1 signaling, stem cell maintenance, and chromatin-mediated gene regulation."
+        },
+        {
+          "theory_id": "T020182",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Describes FOXO regulation by insulin/IGF signaling and 14-3-3 proteins antagonizing FOXO, modulating growth, apoptosis, and lifespan."
+        },
+        {
+          "theory_id": "T016985",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Focuses on FOXO1 in metabolic adaptation, DNA repair, tumor suppression, and longevity regulated by insulin/IGF-1 signaling."
+        },
+        {
+          "theory_id": "T016723",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Describes cell-nonautonomous FOXO signaling downstream of insulin/IGF pathways influencing systemic aging and metabolism."
+        },
+        {
+          "theory_id": "T020081",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Explores dose- and tissue-dependent FOXO effects on metabolism, proteostasis, and aging, regulated by insulin/IGF-1 signaling."
+        },
+        {
+          "theory_id": "T017870",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Mediated FOXO Longevity Regulation Theory",
+          "reasoning": "Highlights FOXO integration of metabolic and environmental signals via insulin/growth factor pathways to maintain homeostasis and longevity."
+        },
+        {
+          "theory_id": "T027253",
+          "subcluster_name": "Pharmaceutical and Nutraceutical Activation of FOXO3 for Longevity Theory",
+          "reasoning": "Focuses on FOXO3 as a geroprotective gene activated by pharmaceuticals and nutraceuticals targeting aging pathways."
+        },
+        {
+          "theory_id": "T022985",
+          "subcluster_name": "Pharmaceutical and Nutraceutical Activation of FOXO3 for Longevity Theory",
+          "reasoning": "Describes FoxO1-SIRT1 positive feedback loop modulated by activators like resveratrol, influencing aging and metabolism."
+        },
+        {
+          "theory_id": "T025610",
+          "subcluster_name": "FOXO Regulation in Longevity and Tumor Suppression Theory",
+          "reasoning": "Focuses on FOXO as a molecular link between longevity and tumor suppression via cell cycle arrest, apoptosis, and stress resistance."
+        },
+        {
+          "theory_id": "T022303",
+          "subcluster_name": "FOXO Regulation in Longevity and Tumor Suppression Theory",
+          "reasoning": "Describes FOXO roles in aging and cancer, integrating tumor suppression with longevity via stress resistance and DNA repair."
+        },
+        {
+          "theory_id": "T016464",
+          "subcluster_name": "FOXO Regulation in Longevity and Tumor Suppression Theory",
+          "reasoning": "Focuses on FoxO3 regulation of neural stem cell homeostasis, quiescence, and prevention of premature differentiation linked to aging."
+        },
+        {
+          "theory_id": "T021069",
+          "subcluster_name": "FOXO Regulation in Longevity and Tumor Suppression Theory",
+          "reasoning": "Details FoxO3-mediated oxidative stress resistance in cardiac aging, promoting antioxidant enzyme expression and protecting heart function."
+        },
+        {
+          "theory_id": "T025591",
+          "subcluster_name": "FOXO Regulation in Longevity and Tumor Suppression Theory",
+          "reasoning": "Describes dysregulated FOXO in cartilage aging and osteoarthritis, linking FOXO activity to tissue homeostasis and inflammation."
+        },
+        {
+          "theory_id": "T002076",
+          "subcluster_name": "FOXO Regulation in Longevity and Tumor Suppression Theory",
+          "reasoning": "Focuses on FOXO role in genomic stability, DNA repair, redox balance, and cell fate decisions critical for aging and longevity."
+        },
+        {
+          "theory_id": "T016402",
+          "subcluster_name": "FOXO Regulation of Neuromuscular Junction Homeostasis Theory",
+          "reasoning": "Focuses on FOXO regulation of neuromuscular junction morphology and function, cytoskeletal dynamics, and signaling pathways during aging."
+        },
+        {
+          "theory_id": "T019859",
+          "subcluster_name": "FOXO Regulation of Autophagy and Cellular Senescence Theory",
+          "reasoning": "Emphasizes FOXO regulation of autophagy and cellular senescence, maintaining cellular homeostasis and longevity."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:59:45"
+}

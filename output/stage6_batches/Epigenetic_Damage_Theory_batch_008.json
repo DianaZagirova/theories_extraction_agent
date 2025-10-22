@@ -1,0 +1,185 @@
+{
+  "cluster_name": "Epigenetic Damage Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+        "theory_ids": [
+          "T017890",
+          "T022230",
+          "T021472",
+          "T021107",
+          "T014947",
+          "T027176",
+          "T017564",
+          "T026599",
+          "T009418",
+          "T018282",
+          "T027393",
+          "T027398"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Nutrition-Driven Epigenetic Aging Modulation Theory",
+        "theory_ids": [
+          "T019788",
+          "T002266",
+          "T017633",
+          "T004414",
+          "T017823",
+          "T024299",
+          "T022093"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Psychosocial Stress-Induced Epigenetic Aging Acceleration Theory",
+        "theory_ids": [
+          "T017679",
+          "T024838",
+          "T027288",
+          "T001585",
+          "T002098",
+          "T005212"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T017890",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Focuses on age-related DNA methylation changes in multi-copy gene regions and coordinated histone modifications linking development and aging epigenome remodeling."
+        },
+        {
+          "theory_id": "T022230",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Describes large-scale chromatin remodeling during aging linked to developmental programs and domain-specific chromatin changes influenced by genomic features."
+        },
+        {
+          "theory_id": "T021472",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Explores dual roles of DNA methylation in aging, selective preservation of methylation marks, and environment-genome interactions shaping aging phenotypes."
+        },
+        {
+          "theory_id": "T021107",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Focuses on hierarchical methylation networks controlling aging-related methylation changes, consistent across epigenetic clocks, reflecting regulatory epigenetic remodeling."
+        },
+        {
+          "theory_id": "T014947",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Describes tissue-specific global DNA methylation changes during aging influenced by nutrition, linking epigenetic remodeling to developmental and aging processes."
+        },
+        {
+          "theory_id": "T027176",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Covers chromatin modifications and chromatin-modifying enzymes regulating aging and healthspan, emphasizing epigenetic inheritance and remodeling."
+        },
+        {
+          "theory_id": "T017564",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Proposes replicative senescence as an epigenetic process involving molecular chaperones, linking epigenetic regulation to aging and cellular homeostasis."
+        },
+        {
+          "theory_id": "T026599",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Shows how DNA topoisomerase modulation reprograms the epigenetic landscape, affecting aging hallmarks and gene expression patterns conserved across species."
+        },
+        {
+          "theory_id": "T009418",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Links stem cell-driven developmental processes and morphogen pathway damage to epigenetic dysregulation causing aging and cancer, emphasizing developmental epigenetic control."
+        },
+        {
+          "theory_id": "T018282",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Focuses on epigenetic regulation of ribosomal DNA methylation modulated by aging and caloric restriction, affecting transcription and energy homeostasis."
+        },
+        {
+          "theory_id": "T027393",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Describes aging epigenome alterations and rejuvenation potential via epigenetic interventions, highlighting epigenetic remodeling as causal in aging."
+        },
+        {
+          "theory_id": "T027398",
+          "subcluster_name": "Developmental and Domain-Specific Epigenome Remodeling Theory",
+          "reasoning": "Details epigenetic reprogramming to reverse aging and increase longevity, focusing on resetting epigenetic marks and epigenetic clock modulation."
+        },
+        {
+          "theory_id": "T019788",
+          "subcluster_name": "Nutrition-Driven Epigenetic Aging Modulation Theory",
+          "reasoning": "Emphasizes nutritional influences on epigenetic marks via methyl donor availability affecting aging and age-related diseases."
+        },
+        {
+          "theory_id": "T002266",
+          "subcluster_name": "Nutrition-Driven Epigenetic Aging Modulation Theory",
+          "reasoning": "Focuses on nutrition-driven epigenetic modifications during critical developmental windows shaping aging and longevity."
+        },
+        {
+          "theory_id": "T017633",
+          "subcluster_name": "Nutrition-Driven Epigenetic Aging Modulation Theory",
+          "reasoning": "Highlights epigenetics as the mediator linking genetics and lifestyle factors such as diet and behavior to aging and longevity."
+        },
+        {
+          "theory_id": "T004414",
+          "subcluster_name": "Nutrition-Driven Epigenetic Aging Modulation Theory",
+          "reasoning": "Describes metformin's epigenetic effects on longevity pathways including AMPK and mTOR signaling, linking metabolism, nutrition, and epigenetic aging."
+        },
+        {
+          "theory_id": "T017823",
+          "subcluster_name": "Nutrition-Driven Epigenetic Aging Modulation Theory",
+          "reasoning": "Focuses on adipose tissue aging driven by epigenetic modifications influenced by metabolic and nutritional states."
+        },
+        {
+          "theory_id": "T024299",
+          "subcluster_name": "Nutrition-Driven Epigenetic Aging Modulation Theory",
+          "reasoning": "Describes exosome-derived microRNAs as epigenetic regulators influenced by metabolic and nutritional factors affecting aging."
+        },
+        {
+          "theory_id": "T022093",
+          "subcluster_name": "Nutrition-Driven Epigenetic Aging Modulation Theory",
+          "reasoning": "Links plasma lipid profiles to epigenetic age acceleration, showing metabolic-nutritional influence on epigenetic aging and cardiovascular risk."
+        },
+        {
+          "theory_id": "T017679",
+          "subcluster_name": "Psychosocial Stress-Induced Epigenetic Aging Acceleration Theory",
+          "reasoning": "Focuses on psychosocial stress, especially racial discrimination, causing DNA methylation changes that accelerate epigenetic aging."
+        },
+        {
+          "theory_id": "T024838",
+          "subcluster_name": "Psychosocial Stress-Induced Epigenetic Aging Acceleration Theory",
+          "reasoning": "Describes early-life psychosocial stress embedding via epigenetic age acceleration, linking stress to altered aging trajectories."
+        },
+        {
+          "theory_id": "T027288",
+          "subcluster_name": "Psychosocial Stress-Induced Epigenetic Aging Acceleration Theory",
+          "reasoning": "Proposes epigenomic memory as a molecular record of environmental and stress exposures that persistently drive aging and can be reset for rejuvenation."
+        },
+        {
+          "theory_id": "T001585",
+          "subcluster_name": "Psychosocial Stress-Induced Epigenetic Aging Acceleration Theory",
+          "reasoning": "Suggests epigenomic maintenance system differences underlie tissue-specific aging rates, implicating stress and maintenance in epigenetic aging."
+        },
+        {
+          "theory_id": "T002098",
+          "subcluster_name": "Psychosocial Stress-Induced Epigenetic Aging Acceleration Theory",
+          "reasoning": "Highlights noncoding RNAs regulating epigenetic changes in response to stress and aging, modulating senescence and inflammation."
+        },
+        {
+          "theory_id": "T005212",
+          "subcluster_name": "Psychosocial Stress-Induced Epigenetic Aging Acceleration Theory",
+          "reasoning": "Models epigenetic contributions to mortality patterns, including environmental epigenetics that may reflect stress-induced aging acceleration."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:19:55"
+}

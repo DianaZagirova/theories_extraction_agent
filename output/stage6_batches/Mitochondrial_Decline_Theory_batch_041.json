@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 41,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+        "theory_ids": [
+          "T025278",
+          "T024961",
+          "T022194",
+          "T019513",
+          "T026039",
+          "T021713",
+          "T022472"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+        "theory_ids": [
+          "T024750",
+          "T023653",
+          "T022228",
+          "T015627"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitochondrial Oxidative Phosphorylation Dysfunction Theory",
+        "theory_ids": [
+          "T023865",
+          "T025073",
+          "T025178",
+          "T026229",
+          "T025573",
+          "T026147",
+          "T026049"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+        "theory_ids": [
+          "T025992",
+          "T018194",
+          "T023711",
+          "T023207",
+          "T016897",
+          "T026037",
+          "T017050"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025278",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Focuses on accumulation and mosaic distribution of mtDNA deletions causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T024961",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Describes ovarian aging driven by accumulation of large-scale mtDNA deletions impairing mitochondrial function."
+        },
+        {
+          "theory_id": "T022194",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Details tissue-specific accumulation of somatic mtDNA deletions contributing to aging-related functional decline."
+        },
+        {
+          "theory_id": "T019513",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Explains progressive accumulation of multiple independent mtDNA deletions with age affecting mitochondrial function."
+        },
+        {
+          "theory_id": "T026039",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Focuses on age-related accumulation of specific mtDNA deletions impairing neuronal energy production in aging and Alzheimer\u2019s."
+        },
+        {
+          "theory_id": "T021713",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Links mitochondrial topoisomerase dysfunction to mtDNA attrition and respiratory chain defects contributing to aging."
+        },
+        {
+          "theory_id": "T022472",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Describes mtDNA heteroplasmy dynamics and inheritance affecting mitochondrial genome variability and aging."
+        },
+        {
+          "theory_id": "T024750",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Focuses on somatic accumulation of mtDNA point mutations in tRNA genes impairing mitochondrial protein synthesis and aging."
+        },
+        {
+          "theory_id": "T023653",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Describes clonal expansion of mtDNA point mutations causing respiratory chain deficiency and stem cell dysfunction."
+        },
+        {
+          "theory_id": "T022228",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Explains mtDNA mutation accumulation in hematopoietic stem cells causing premature aging phenotypes distinct from physiological aging."
+        },
+        {
+          "theory_id": "T015627",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Proposes mtDNA base composition influences genome stability and species lifespan, linking mtDNA mutability to aging."
+        },
+        {
+          "theory_id": "T023865",
+          "subcluster_name": "Mitochondrial Oxidative Phosphorylation Dysfunction Theory",
+          "reasoning": "Describes thioretinaco complex role in oxidative phosphorylation and mitochondrial ATP synthesis mechanism."
+        },
+        {
+          "theory_id": "T025073",
+          "subcluster_name": "Mitochondrial Oxidative Phosphorylation Dysfunction Theory",
+          "reasoning": "Details age-related decline in oxidative phosphorylation capacity and ANT modification impairing ATP production."
+        },
+        {
+          "theory_id": "T025178",
+          "subcluster_name": "Mitochondrial Oxidative Phosphorylation Dysfunction Theory",
+          "reasoning": "Focuses on complex III QO site defect increasing ROS production and oxidative damage in aging heart mitochondria."
+        },
+        {
+          "theory_id": "T026229",
+          "subcluster_name": "Mitochondrial Oxidative Phosphorylation Dysfunction Theory",
+          "reasoning": "Proposes kinase-linked mild depolarization of mitochondrial membrane potential modulates ROS and mitochondrial aging."
+        },
+        {
+          "theory_id": "T025573",
+          "subcluster_name": "Mitochondrial Oxidative Phosphorylation Dysfunction Theory",
+          "reasoning": "Explores caloric restriction effects on mitochondrial ROS, biogenesis, and protein deacetylation impacting mitochondrial function."
+        },
+        {
+          "theory_id": "T026147",
+          "subcluster_name": "Mitochondrial Oxidative Phosphorylation Dysfunction Theory",
+          "reasoning": "Describes impaired AMPK-NAD+-PGC1\u03b1-SIRT1 signaling pathway reducing mitochondrial turnover and function during aging."
+        },
+        {
+          "theory_id": "T026049",
+          "subcluster_name": "Mitochondrial Oxidative Phosphorylation Dysfunction Theory",
+          "reasoning": "Links mitochondrial efficiency in oxidative phosphorylation to intelligence, health, and aging mechanisms."
+        },
+        {
+          "theory_id": "T025992",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Focuses on mitochondrial redox impairment, endosymbiotic crosstalk deterioration, and mitochondrial role in cellular senescence and SASP."
+        },
+        {
+          "theory_id": "T018194",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Describes mitochondrial chaperone mortalin dysfunction leading to mitochondrial impairment and neuronal cellular senescence."
+        },
+        {
+          "theory_id": "T023711",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Links mitochondrial dysfunction to impaired Fe-S cluster biogenesis causing nuclear genomic instability and aging-related cellular decline."
+        },
+        {
+          "theory_id": "T023207",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Explains mitochondrial hyperfission and dynamics imbalance causing vascular mitochondrial dysfunction and aging-related microvascular disease."
+        },
+        {
+          "theory_id": "T016897",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Proposes mitochondria integrate psychosocial stress into cellular aging via mitochondrial allostatic load and systemic signaling."
+        },
+        {
+          "theory_id": "T026037",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Describes mitochondrial defects influencing nuclear silencing and lifespan extension pathways linking mitochondria to aging regulation."
+        },
+        {
+          "theory_id": "T017050",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Focuses on mitochondrial-nuclear genome interaction dysregulation after sexual reproduction disrupting mitochondrial function and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:57:34"
+}

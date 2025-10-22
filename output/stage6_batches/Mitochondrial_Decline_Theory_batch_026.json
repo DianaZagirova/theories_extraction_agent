@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 26,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Oxidative Mutation Theory",
+        "theory_ids": [
+          "T018211",
+          "T018345",
+          "T018477",
+          "T018137",
+          "T018588",
+          "T018187",
+          "T018196",
+          "T018467"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+        "theory_ids": [
+          "T018280",
+          "T018524",
+          "T018538",
+          "T018183",
+          "T018496",
+          "T018167",
+          "T018556",
+          "T018198"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial Energy Decline and Cognitive Aging Theory",
+        "theory_ids": [
+          "T018251",
+          "T018418",
+          "T018561",
+          "T018376",
+          "T018362",
+          "T018087"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial Unfolded Protein Response (UPRmt) Theory",
+        "theory_ids": [
+          "T018130",
+          "T018515"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018211",
+          "subcluster_name": "Mitochondrial DNA Oxidative Mutation Theory",
+          "reasoning": "Focuses on specific mtDNA mutational signatures caused by oxidative damage and their accumulation with age."
+        },
+        {
+          "theory_id": "T018345",
+          "subcluster_name": "Mitochondrial DNA Oxidative Mutation Theory",
+          "reasoning": "Emphasizes mtDNA mutations and repair mechanisms influencing aging through oxidative damage."
+        },
+        {
+          "theory_id": "T018477",
+          "subcluster_name": "Mitochondrial DNA Oxidative Mutation Theory",
+          "reasoning": "Describes age-dependent accumulation of mtDNA deletions and duplications impairing mitochondrial function."
+        },
+        {
+          "theory_id": "T018137",
+          "subcluster_name": "Mitochondrial DNA Oxidative Mutation Theory",
+          "reasoning": "Details accumulation of mtDNA mutations and compensatory mtDNA copy number increase due to oxidative damage."
+        },
+        {
+          "theory_id": "T018588",
+          "subcluster_name": "Mitochondrial DNA Oxidative Mutation Theory",
+          "reasoning": "Links mtDNA mutation load to cellular senescence and metabolic shifts contributing to aging."
+        },
+        {
+          "theory_id": "T018187",
+          "subcluster_name": "Mitochondrial DNA Oxidative Mutation Theory",
+          "reasoning": "Focuses on mtDNA deletions and oxidative stress markers accumulating with age in mitochondria."
+        },
+        {
+          "theory_id": "T018196",
+          "subcluster_name": "Mitochondrial DNA Oxidative Mutation Theory",
+          "reasoning": "Describes ROS-induced mtDNA damage, vicious cycle of mutations, and mitochondrial quality control decline."
+        },
+        {
+          "theory_id": "T018467",
+          "subcluster_name": "Mitochondrial DNA Oxidative Mutation Theory",
+          "reasoning": "Highlights ROS-induced mtDNA damage and mitochondrial dysfunction in brain aging."
+        },
+        {
+          "theory_id": "T018280",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, oxidative damage to macromolecules, and impaired degradation systems."
+        },
+        {
+          "theory_id": "T018524",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS as primary aging factor causing mtDNA damage and signaling effects."
+        },
+        {
+          "theory_id": "T018538",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Links mitochondrial dysfunction and ROS accumulation to age-related physiological decline."
+        },
+        {
+          "theory_id": "T018183",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Correlates low mitochondrial ROS production rates with longevity and reduced oxidative damage."
+        },
+        {
+          "theory_id": "T018496",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Describes free radical damage to mitochondria, metabolic instability, and oxygen tension effects."
+        },
+        {
+          "theory_id": "T018167",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Details mitochondrial dysfunction, ROS accumulation, and feedback loops accelerating aging."
+        },
+        {
+          "theory_id": "T018556",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Focuses on ROS-driven mitochondrial damage, vicious cycle, and mitophagy regulation by dietary interventions."
+        },
+        {
+          "theory_id": "T018198",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Links mitochondrial respiratory chain dysfunction, oxidative stress, and antioxidant defense in aging."
+        },
+        {
+          "theory_id": "T018251",
+          "subcluster_name": "Mitochondrial Energy Decline and Cognitive Aging Theory",
+          "reasoning": "Focuses on mitochondrial energy production decline affecting cognition and systemic health during aging."
+        },
+        {
+          "theory_id": "T018418",
+          "subcluster_name": "Mitochondrial Energy Decline and Cognitive Aging Theory",
+          "reasoning": "Describes decreased mitochondrial gene expression and function as a fundamental aging feature across tissues."
+        },
+        {
+          "theory_id": "T018561",
+          "subcluster_name": "Mitochondrial Energy Decline and Cognitive Aging Theory",
+          "reasoning": "Emphasizes decline in mitochondrial mass, function, dynamics, and retrograde signaling in aging."
+        },
+        {
+          "theory_id": "T018376",
+          "subcluster_name": "Mitochondrial Energy Decline and Cognitive Aging Theory",
+          "reasoning": "Details age-related decline in mitochondrial oxidative capacity and biogenesis, and caloric restriction effects."
+        },
+        {
+          "theory_id": "T018362",
+          "subcluster_name": "Mitochondrial Energy Decline and Cognitive Aging Theory",
+          "reasoning": "Proposes organelle degeneration including mitochondria initiates aging and spreads systemic aging signals."
+        },
+        {
+          "theory_id": "T018130",
+          "subcluster_name": "Mitochondrial Unfolded Protein Response (UPRmt) Theory",
+          "reasoning": "Focuses on mitochondrial unfolded protein response activation as a protective mechanism linked to aging."
+        },
+        {
+          "theory_id": "T018515",
+          "subcluster_name": "Mitochondrial Unfolded Protein Response (UPRmt) Theory",
+          "reasoning": "Describes mitochondrial aspartate transporter distress triggering retrograde signaling and lifespan extension."
+        },
+        {
+          "theory_id": "T018327",
+          "subcluster_name": "Mitochondrial-Lysosomal Aging Theory",
+          "reasoning": "Highlights interplay of mitochondrial damage and lysosomal degradation impairment in postmitotic cell aging."
+        },
+        {
+          "theory_id": "T018087",
+          "subcluster_name": "Mitochondrial Energy Decline and Cognitive Aging Theory",
+          "reasoning": "Focuses on mild mitochondrial ETC impairment affecting lifespan and aging via energy metabolism changes."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:49:17"
+}

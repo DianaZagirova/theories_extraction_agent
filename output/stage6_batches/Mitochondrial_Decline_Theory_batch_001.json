@@ -1,0 +1,212 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+        "theory_ids": [
+          "T000833",
+          "T000798",
+          "T000330",
+          "T000347",
+          "T000975",
+          "T000721",
+          "T000070",
+          "T000404",
+          "T000228",
+          "T000727"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Mitochondrial Electron Transport Chain Dysfunction and Complex I Theory",
+        "theory_ids": [
+          "T000158",
+          "T000906",
+          "T000803",
+          "T000585",
+          "T000240"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction-Driven Inflammaging and ROS Signaling Theory",
+        "theory_ids": [
+          "T000099",
+          "T000065",
+          "T000396"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Mitochondrial Quality Control and Proteostasis Theory",
+        "theory_ids": [
+          "T000439",
+          "T000223",
+          "T000219"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Mitofusin-Mediated Mitochondrial Structural Remodeling Theory",
+        "theory_ids": [
+          "T000902",
+          "T000233"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Evolutionary Optimization and Longevity Theory",
+        "theory_ids": [
+          "T000805",
+          "T000432",
+          "T000744"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000833",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Focuses on mtDNA deletions mediated by direct repeats and their accumulation with age causing mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T000798",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Centers on accumulation of somatic mtDNA mutations causing mitochondrial dysfunction and aging phenotypes."
+        },
+        {
+          "theory_id": "T000330",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Emphasizes mtDNA mutation accumulation and resulting mitochondrial dysfunction driving systemic aging."
+        },
+        {
+          "theory_id": "T000347",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Describes mtDNA mutation accumulation in PolG mutator mice causing premature aging, highlighting mutation-driven aging."
+        },
+        {
+          "theory_id": "T000975",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Focuses on mtDNA mutations and ROS vicious cycle causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T000721",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Details mtDNA deletion mutations causing ETC abnormalities and apoptosis leading to sarcopenia."
+        },
+        {
+          "theory_id": "T000070",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Proposes mtDNA mutation accumulation as an aging clock causing mitochondrial dysfunction and age-related diseases."
+        },
+        {
+          "theory_id": "T000404",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Describes mtDNA mutations and ROS vicious cycle with impaired mitochondrial turnover contributing to aging."
+        },
+        {
+          "theory_id": "T000228",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Focuses on oxidative stress-induced mtDNA damage accumulation impairing mitochondrial function and driving aging."
+        },
+        {
+          "theory_id": "T000727",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Explains how mtDNA deletion mutations induce apoptosis and necrosis in skeletal muscle causing sarcopenia."
+        },
+        {
+          "theory_id": "T000158",
+          "subcluster_name": "Mitochondrial Electron Transport Chain Dysfunction and Complex I Theory",
+          "reasoning": "Focuses on mitochondrial complex I dysfunction and its role in aging and age-related diseases."
+        },
+        {
+          "theory_id": "T000906",
+          "subcluster_name": "Mitochondrial Electron Transport Chain Dysfunction and Complex I Theory",
+          "reasoning": "Describes how ETC gene knockdown modulates lifespan, implicating ETC dysfunction in aging."
+        },
+        {
+          "theory_id": "T000803",
+          "subcluster_name": "Mitochondrial Electron Transport Chain Dysfunction and Complex I Theory",
+          "reasoning": "Focuses on oxidative damage to mitochondrial proteins from ROS affecting ETC function and lifespan."
+        },
+        {
+          "theory_id": "T000585",
+          "subcluster_name": "Mitochondrial Electron Transport Chain Dysfunction and Complex I Theory",
+          "reasoning": "Mitochondrial free radical theory emphasizing ROS accumulation damaging ETC and mitochondrial components."
+        },
+        {
+          "theory_id": "T000240",
+          "subcluster_name": "Mitochondrial Electron Transport Chain Dysfunction and Complex I Theory",
+          "reasoning": "Genetic variants in nuclear-encoded mitochondrial genes affecting ETC and mitochondrial function influence longevity."
+        },
+        {
+          "theory_id": "T000099",
+          "subcluster_name": "Mitochondrial Dysfunction-Driven Inflammaging and ROS Signaling Theory",
+          "reasoning": "Links mitochondrial dysfunction and ROS overproduction to activation of inflammatory pathways driving inflammaging."
+        },
+        {
+          "theory_id": "T000065",
+          "subcluster_name": "Mitochondrial Dysfunction-Driven Inflammaging and ROS Signaling Theory",
+          "reasoning": "Proposes adaptive mitochondrial ROS signaling (MARS) as a hormetic mechanism promoting longevity via signaling."
+        },
+        {
+          "theory_id": "T000396",
+          "subcluster_name": "Mitochondrial Dysfunction-Driven Inflammaging and ROS Signaling Theory",
+          "reasoning": "Describes mitochondrial dysfunction in aging muscle driven by sporadic denervation and ROS-mediated damage."
+        },
+        {
+          "theory_id": "T000439",
+          "subcluster_name": "Mitochondrial Quality Control and Proteostasis Theory",
+          "reasoning": "Focuses on mitochondrial protein quality control mechanisms maintaining mitochondrial health and preventing aging."
+        },
+        {
+          "theory_id": "T000223",
+          "subcluster_name": "Mitochondrial Quality Control and Proteostasis Theory",
+          "reasoning": "Emphasizes mitochondrial network dynamics and metabolic-epigenome axis regulating mitochondrial quality and aging."
+        },
+        {
+          "theory_id": "T000219",
+          "subcluster_name": "Mitochondrial Quality Control and Proteostasis Theory",
+          "reasoning": "Describes intracellular mtDNA evolution and quality control via fusion, fission, and mitophagy maintaining function."
+        },
+        {
+          "theory_id": "T000902",
+          "subcluster_name": "Mitofusin-Mediated Mitochondrial Structural Remodeling Theory",
+          "reasoning": "Focuses on age-related mitochondrial structural remodeling in skeletal muscle mediated by mitofusin proteins."
+        },
+        {
+          "theory_id": "T000233",
+          "subcluster_name": "Mitofusin-Mediated Mitochondrial Structural Remodeling Theory",
+          "reasoning": "Details loss of mitofusin 2 and mitochondrial dynamics causing structural changes and dysfunction in aging muscle."
+        },
+        {
+          "theory_id": "T000805",
+          "subcluster_name": "Mitochondrial Evolutionary Optimization and Longevity Theory",
+          "reasoning": "Proposes evolutionary optimization of mitochondria in hominids with compensatory mutations enhancing longevity."
+        },
+        {
+          "theory_id": "T000432",
+          "subcluster_name": "Mitochondrial Evolutionary Optimization and Longevity Theory",
+          "reasoning": "Describes mitochondrial protein import suppression triggering metabolic reprogramming and lifespan extension."
+        },
+        {
+          "theory_id": "T000744",
+          "subcluster_name": "Mitochondrial Evolutionary Optimization and Longevity Theory",
+          "reasoning": "Uncoupling to survive hypothesis linking mitochondrial uncoupling, reduced ROS, and altered metabolism to aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:38:15"
+}

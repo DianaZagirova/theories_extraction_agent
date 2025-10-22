@@ -1,0 +1,183 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+        "theory_ids": [
+          "T003236",
+          "T003550",
+          "T003170",
+          "T003569",
+          "T003581",
+          "T003327",
+          "T003444",
+          "T003587",
+          "T003273",
+          "T003107",
+          "T003442"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Life-History Trade-Off Theory of Aging",
+        "theory_ids": [
+          "T003229",
+          "T003515",
+          "T003092",
+          "T003138",
+          "T003659",
+          "T003160",
+          "T003244",
+          "T003490"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Caloric Restriction and Nutrient Sensing Theory of Aging",
+        "theory_ids": [
+          "T003474",
+          "T003312",
+          "T003665",
+          "T003339"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T003236",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "This theory focuses on the IIS pathway and its role in lifespan regulation via DAF-16/FOXO and related molecular mechanisms."
+        },
+        {
+          "theory_id": "T003550",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "Centers on IGF1 signaling's conserved role in longevity and genetic regulation of IGF1 levels affecting lifespan."
+        },
+        {
+          "theory_id": "T003170",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "Describes IRS1's role in IIS-mediated aging and lifespan extension, fitting IIS pathway modulation theme."
+        },
+        {
+          "theory_id": "T003569",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "Focuses on conserved IIS pathway, IRS-PI3K-Akt-Foxo axis, and tissue-specific effects on aging."
+        },
+        {
+          "theory_id": "T003581",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "Highlights IIS as nutrient-sensing pathway with cell-type-specific effects on lifespan."
+        },
+        {
+          "theory_id": "T003327",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "Discusses conserved IIS hormonal pathway in mammals and its relevance to human longevity."
+        },
+        {
+          "theory_id": "T003444",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "Focuses on insulin receptor and downstream forkhead transcription factors regulating aging."
+        },
+        {
+          "theory_id": "T003587",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "Describes IGF1 receptor mutations in centenarians and their impact on IIS and longevity."
+        },
+        {
+          "theory_id": "T003273",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "Details IIS pathway regulation of lifespan via FOXO transcription factors and evolutionary conservation."
+        },
+        {
+          "theory_id": "T003107",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "Describes interplay of DAF-16, SIR-2.1, and cofactors modulating IIS pathway and aging."
+        },
+        {
+          "theory_id": "T003442",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Pathway Theory of Aging",
+          "reasoning": "Explains tyraminergic modulation of IIS pathway affecting stress resistance and lifespan."
+        },
+        {
+          "theory_id": "T003121",
+          "subcluster_name": "Reproductive Signaling Tradeoff Theory",
+          "reasoning": "Focuses on reproductive signaling trade-offs affecting longevity via germline and somatic gonad signals."
+        },
+        {
+          "theory_id": "T003229",
+          "subcluster_name": "Life-History Trade-Off Theory of Aging",
+          "reasoning": "Emphasizes energetic trade-offs between reproduction and somatic maintenance influencing aging."
+        },
+        {
+          "theory_id": "T003515",
+          "subcluster_name": "Life-History Trade-Off Theory of Aging",
+          "reasoning": "Describes sex differences in senescence due to intra-sexual competition and somatic maintenance trade-offs."
+        },
+        {
+          "theory_id": "T003092",
+          "subcluster_name": "Life-History Trade-Off Theory of Aging",
+          "reasoning": "Focuses on early-life nutrition affecting resource allocation trade-offs and aging trajectories."
+        },
+        {
+          "theory_id": "T003138",
+          "subcluster_name": "Life-History Trade-Off Theory of Aging",
+          "reasoning": "Classic disposable soma concept emphasizing trade-off between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T003659",
+          "subcluster_name": "Life-History Trade-Off Theory of Aging",
+          "reasoning": "Describes resource allocation shifts between reproduction and somatic maintenance affecting longevity."
+        },
+        {
+          "theory_id": "T003160",
+          "subcluster_name": "Life-History Trade-Off Theory of Aging",
+          "reasoning": "Details evolutionary optimization of resource allocation between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T003244",
+          "subcluster_name": "Life-History Trade-Off Theory of Aging",
+          "reasoning": "Applies disposable soma trade-off concept to plant senescence and resource allocation."
+        },
+        {
+          "theory_id": "T003474",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing Theory of Aging",
+          "reasoning": "Focuses on caloric restriction effects on lifespan via nutrient sensing pathways including IIS and mTOR."
+        },
+        {
+          "theory_id": "T003312",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing Theory of Aging",
+          "reasoning": "Describes caloric restriction extending lifespan through metabolic and molecular pathways conserved across species."
+        },
+        {
+          "theory_id": "T003665",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing Theory of Aging",
+          "reasoning": "Explains evolutionary nutrient-sensing adaptations to starvation shaping lifespan extension capacity."
+        },
+        {
+          "theory_id": "T003339",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing Theory of Aging",
+          "reasoning": "Proposes metabolic efficiency and fat maintenance as key factors in dietary restriction-induced longevity."
+        },
+        {
+          "theory_id": "T003490",
+          "subcluster_name": "Life-History Trade-Off Theory of Aging",
+          "reasoning": "Pace of Life Syndrome integrates life history and physiological traits along a fast-slow continuum, related to resource allocation trade-offs."
+        },
+        {
+          "theory_id": "T003347",
+          "subcluster_name": "Reproductive Aging and Systemic Aging Interconnection Theory",
+          "reasoning": "Links reproductive aging (menopause timing) with systemic and brain aging via genetic, molecular, and metabolic pathways."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:00:31"
+}

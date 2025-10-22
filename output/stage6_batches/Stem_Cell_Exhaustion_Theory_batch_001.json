@@ -1,0 +1,188 @@
+{
+  "cluster_name": "Stem Cell Exhaustion Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Stem Cell Niche Aging and Microenvironment Theory",
+        "theory_ids": [
+          "T003069",
+          "T001243",
+          "T005637",
+          "T004567",
+          "T004852",
+          "T000728",
+          "T000661",
+          "T003802"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Tumor Suppressor-Mediated Stem Cell Maintenance Theory",
+        "theory_ids": [
+          "T006331",
+          "T000156"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Stem Cell Hierarchy and Replicative Senescence Theory",
+        "theory_ids": [
+          "T004896",
+          "T000444",
+          "T002587",
+          "T005540"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Stem Cell-Mediated Immortality and Modularity Theory in Simple Organisms",
+        "theory_ids": [
+          "T002599",
+          "T003320",
+          "T005474",
+          "T000338",
+          "T005582",
+          "T005710",
+          "T003386"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T003069",
+          "subcluster_name": "Stem Cell Niche Aging and Microenvironment Theory",
+          "reasoning": "Focuses on aging driven by biochemical and systemic changes in the stem cell niche affecting stem cell function."
+        },
+        {
+          "theory_id": "T001243",
+          "subcluster_name": "Stem Cell Niche Aging and Microenvironment Theory",
+          "reasoning": "Emphasizes the role of stem cell biological age and niche/systemic factors in modulating stem cell senescence and aging."
+        },
+        {
+          "theory_id": "T005637",
+          "subcluster_name": "Stem Cell Niche Aging and Microenvironment Theory",
+          "reasoning": "Describes aging due to impaired adhesion and altered interactions between hematopoietic stem cells and their niche."
+        },
+        {
+          "theory_id": "T004567",
+          "subcluster_name": "Stem Cell Niche Aging and Microenvironment Theory",
+          "reasoning": "Highlights the importance of stem cell-niche interactions in aging and cancer, focusing on stemness and microenvironmental context."
+        },
+        {
+          "theory_id": "T004852",
+          "subcluster_name": "Stem Cell Niche Aging and Microenvironment Theory",
+          "reasoning": "Focuses on stem cell senescence and functional decline influenced by niche and systemic factors, including caloric restriction effects."
+        },
+        {
+          "theory_id": "T000728",
+          "subcluster_name": "Stem Cell Niche Aging and Microenvironment Theory",
+          "reasoning": "Discusses intrinsic and extrinsic regulation of stem cell aging, including niche signals and genetic factors."
+        },
+        {
+          "theory_id": "T000661",
+          "subcluster_name": "Stem Cell Niche Aging and Microenvironment Theory",
+          "reasoning": "Describes tumor suppressor regulation of stem cell dynamics affecting aging, linking intrinsic stem cell changes with niche effects."
+        },
+        {
+          "theory_id": "T003802",
+          "subcluster_name": "Stem Cell Niche Aging and Microenvironment Theory",
+          "reasoning": "Explains stem cell exhaustion caused by DNA damage responses and tumor suppressor activation affecting stem cell pools and niche."
+        },
+        {
+          "theory_id": "T006331",
+          "subcluster_name": "Tumor Suppressor-Mediated Stem Cell Maintenance Theory",
+          "reasoning": "Focuses specifically on TAp63 tumor suppressor's role in maintaining adult stem cell genomic stability and preventing premature aging."
+        },
+        {
+          "theory_id": "T000156",
+          "subcluster_name": "Tumor Suppressor-Mediated Stem Cell Maintenance Theory",
+          "reasoning": "Describes the evolutionary trade-off between stem cell replicative limits, tumor suppression, and aging."
+        },
+        {
+          "theory_id": "T004896",
+          "subcluster_name": "Stem Cell Hierarchy and Replicative Senescence Theory",
+          "reasoning": "Centers on multi-tiered stem cell organization, division rates, and replicative senescence as mechanisms controlling longevity."
+        },
+        {
+          "theory_id": "T000444",
+          "subcluster_name": "Stem Cell Hierarchy and Replicative Senescence Theory",
+          "reasoning": "Proposes age-dependent decrease in stem cell division rates slows mutation accumulation and cancer incidence."
+        },
+        {
+          "theory_id": "T002587",
+          "subcluster_name": "Stem Cell Hierarchy and Replicative Senescence Theory",
+          "reasoning": "Models stochastic stem cell renewal dynamics and progressive cell cycle lengthening leading to quiescence and aging."
+        },
+        {
+          "theory_id": "T005540",
+          "subcluster_name": "Stem Cell Hierarchy and Replicative Senescence Theory",
+          "reasoning": "Uses embryonic stem cells as a model to study replicative senescence, telomere dynamics, and cell cycle control in aging."
+        },
+        {
+          "theory_id": "T002599",
+          "subcluster_name": "Stem Cell-Mediated Immortality and Modularity Theory in Simple Organisms",
+          "reasoning": "Focuses on stem cell plasticity and modularity in plants and animals enabling continuous renewal and potential immortality."
+        },
+        {
+          "theory_id": "T003320",
+          "subcluster_name": "Stem Cell-Mediated Immortality and Modularity Theory in Simple Organisms",
+          "reasoning": "Attributes longevity and biological immortality in simple animals to abundant pluripotent stem cells and regeneration."
+        },
+        {
+          "theory_id": "T005474",
+          "subcluster_name": "Stem Cell-Mediated Immortality and Modularity Theory in Simple Organisms",
+          "reasoning": "Describes continuous stem cell self-renewal in Hydra enabling negligible senescence and inducible aging phenotypes."
+        },
+        {
+          "theory_id": "T000338",
+          "subcluster_name": "Stem Cell-Mediated Immortality and Modularity Theory in Simple Organisms",
+          "reasoning": "Explains Hydra's biological immortality through continuous stem cell renewal and lack of senescence."
+        },
+        {
+          "theory_id": "T005582",
+          "subcluster_name": "Stem Cell-Mediated Immortality and Modularity Theory in Simple Organisms",
+          "reasoning": "Focuses on flatworm neoblast stem cells' role in tissue homeostasis and aging via stem cell decline and regeneration."
+        },
+        {
+          "theory_id": "T005710",
+          "subcluster_name": "Stem Cell-Mediated Immortality and Modularity Theory in Simple Organisms",
+          "reasoning": "Links planarian aging to stem cell pool depletion and accumulation of senescent cells affecting regeneration."
+        },
+        {
+          "theory_id": "T003386",
+          "subcluster_name": "Stem Cell-Mediated Immortality and Modularity Theory in Simple Organisms",
+          "reasoning": "In Botryllus schlosseri, organismal aging is driven by stem cell aging and loss of regenerative potential."
+        },
+        {
+          "theory_id": "T001665",
+          "subcluster_name": "Programmed Stem Cell Death and Regulatory Feedback Theory in Plants",
+          "reasoning": "Describes stem cell decline and programmed cell death in Arabidopsis inflorescence meristem regulated by WUS-CLV3 feedback and ROS."
+        },
+        {
+          "theory_id": "T000872",
+          "subcluster_name": "Stem and Progenitor Cell Population Dynamics Theory",
+          "reasoning": "Focuses on stem and progenitor cell compartment dynamics, division modes, and quiescence affecting mammary gland aging."
+        },
+        {
+          "theory_id": "T006605",
+          "subcluster_name": "Mesenchymal Stem Cell Exhaustion and Metabolic Disease Theory",
+          "reasoning": "Proposes mesenchymal stem cell pool depletion underlies aging and metabolic diseases via chronic inflammation and mobilization."
+        },
+        {
+          "theory_id": "T002132",
+          "subcluster_name": "Somatic Cell Depletion and Mitochondrial Dysfunction Theory",
+          "reasoning": "Links mitochondrial dysfunction-induced somatic cell loss to aging and lifespan limitation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:31:04"
+}

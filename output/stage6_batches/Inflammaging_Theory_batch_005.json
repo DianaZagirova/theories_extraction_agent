@@ -1,0 +1,214 @@
+{
+  "cluster_name": "Inflammaging Theory",
+  "batch_num": 5,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Oxidative Stress-Driven Inflammaging Theory",
+        "theory_ids": [
+          "T025242",
+          "T025104",
+          "T023772",
+          "T023801",
+          "T026423",
+          "T024938"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Glycosylation-Linked Inflammaging Theory",
+        "theory_ids": [
+          "T025549",
+          "T025647"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Neuro-Immune-Endocrine Dysregulation Inflammaging Theory",
+        "theory_ids": [
+          "T026350",
+          "T026753"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+        "theory_ids": [
+          "T024011",
+          "T026436",
+          "T026227",
+          "T024943",
+          "T025922",
+          "T022329",
+          "T024672",
+          "T025981",
+          "T023618",
+          "T026218",
+          "T026394"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Senescence and Homeostatic Imbalance Inflammaging Theory",
+        "theory_ids": [
+          "T025969",
+          "T025316",
+          "T017708",
+          "T021251"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025242",
+          "subcluster_name": "Oxidative Stress-Driven Inflammaging Theory",
+          "reasoning": "Focuses on oxidative stress and ROS as primary drivers of inflammation and vascular aging, highlighting cross-talk between oxidative stress and inflammation."
+        },
+        {
+          "theory_id": "T025104",
+          "subcluster_name": "Oxidative Stress-Driven Inflammaging Theory",
+          "reasoning": "Emphasizes the interaction between oxidative stress and inflammaging, with cellular senescence and SASP contributing to chronic inflammation."
+        },
+        {
+          "theory_id": "T023772",
+          "subcluster_name": "Oxidative Stress-Driven Inflammaging Theory",
+          "reasoning": "Describes inflammaging in the context of oxidative stress, cellular senescence, and stem cell exhaustion, particularly in lung disease."
+        },
+        {
+          "theory_id": "T023801",
+          "subcluster_name": "Oxidative Stress-Driven Inflammaging Theory",
+          "reasoning": "Links inflammaging with cardiovascular aging, emphasizing oxidative stress markers and cardiac-specific inflammation biomarkers."
+        },
+        {
+          "theory_id": "T026423",
+          "subcluster_name": "Oxidative Stress-Driven Inflammaging Theory",
+          "reasoning": "Connects inflammaging with vascular aging and ischemic stroke, highlighting decreased stress coping and oxidative damage."
+        },
+        {
+          "theory_id": "T024938",
+          "subcluster_name": "Oxidative Stress-Driven Inflammaging Theory",
+          "reasoning": "Details multiple causes of inflammaging including mitochondrial dysfunction and senescent cells, focusing on cardiovascular disease and oxidative stress."
+        },
+        {
+          "theory_id": "T025549",
+          "subcluster_name": "Glycosylation-Linked Inflammaging Theory",
+          "reasoning": "Focuses on aberrant glycosylation of IgG and plasma proteins as drivers and biomarkers of inflammaging, linking glycosylation changes to inflammation."
+        },
+        {
+          "theory_id": "T025647",
+          "subcluster_name": "Glycosylation-Linked Inflammaging Theory",
+          "reasoning": "Describes altered N-glycosylation of IgG (IgG-G0) as a pro-inflammatory factor that perpetuates inflammaging through immune activation."
+        },
+        {
+          "theory_id": "T026746",
+          "subcluster_name": "Gut Microbiome and Barrier Dysfunction Inflammaging Theory",
+          "reasoning": "Highlights the gut as a key site of inflammaging, with microbiome dysbiosis and barrier impairment driving systemic inflammation and aging."
+        },
+        {
+          "theory_id": "T026350",
+          "subcluster_name": "Neuro-Immune-Endocrine Dysregulation Inflammaging Theory",
+          "reasoning": "Focuses on autonomic nervous system imbalance and neuroendocrine dysregulation as drivers of inflammaging and accelerated aging."
+        },
+        {
+          "theory_id": "T026753",
+          "subcluster_name": "Neuro-Immune-Endocrine Dysregulation Inflammaging Theory",
+          "reasoning": "Emphasizes neuroinflammation, immune cell infiltration, and IL2-mediated immune modulation in brain inflammaging and cognitive aging."
+        },
+        {
+          "theory_id": "T023782",
+          "subcluster_name": "Innate Immune Gene Upregulation Inflammaging Theory",
+          "reasoning": "Focuses on conserved innate immune gene overexpression and antimicrobial peptides as hallmarks of inflammaging across species."
+        },
+        {
+          "theory_id": "T024011",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Describes chronic low-grade inflammation driven by cytokines and dysregulated immune responses including immunosenescence."
+        },
+        {
+          "theory_id": "T026436",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Focuses on proinflammatory cytokines IL-6, IL-1\u03b2, TNF-\u03b1 as markers and mediators of inflammaging, with sex hormone modulation."
+        },
+        {
+          "theory_id": "T026227",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Discusses inflammaging measured by circulating cytokines and highlights population variability in inflammatory signatures."
+        },
+        {
+          "theory_id": "T024943",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Describes the vicious cycle between cellular senescence, SASP cytokines, and chronic inflammation driving vascular aging."
+        },
+        {
+          "theory_id": "T025922",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Focuses on genetic control of inflammatory response, immunosenescence, and cytokine markers predicting frailty and mortality."
+        },
+        {
+          "theory_id": "T022329",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Highlights elevated inflammatory markers with age and accelerated inflammaging in progeroid syndrome, emphasizing cytokine-driven inflammation."
+        },
+        {
+          "theory_id": "T024672",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Explains inflammation as an antagonistic pleiotropy mechanism with lifetime infection exposure influencing inflammaging and aging."
+        },
+        {
+          "theory_id": "T025981",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Describes sex/gender differences in innate and adaptive immunity changes that exacerbate inflammaging and senescent cell accumulation."
+        },
+        {
+          "theory_id": "T023618",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Focuses on dysregulated immune responses and inflammatory pathways (NF-kB, NLRP3) driving inflammaging in periodontal disease."
+        },
+        {
+          "theory_id": "T026218",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Positions inflammaging as a mechanistic link to age-associated diseases, emphasizing systemic inflammation and therapeutic targeting."
+        },
+        {
+          "theory_id": "T026394",
+          "subcluster_name": "Cytokine and Immune Dysregulation Inflammaging Theory",
+          "reasoning": "Describes multiple sources of inflammatory stimuli driving chronic inflammation and aging, highlighting inflammation as a causal driver."
+        },
+        {
+          "theory_id": "T004698",
+          "subcluster_name": "Psychosocial Stress-Linked Inflammaging Theory",
+          "reasoning": "Links psychosocial stressors such as intimate partner violence to elevated inflammation and accelerated inflammaging."
+        },
+        {
+          "theory_id": "T025969",
+          "subcluster_name": "Senescence and Homeostatic Imbalance Inflammaging Theory",
+          "reasoning": "Introduces cold-inflammaging as a pre-phase of inflammaging, emphasizing homeostatic imbalance, SASP, gut microbiota, and molecular waste accumulation."
+        },
+        {
+          "theory_id": "T025316",
+          "subcluster_name": "Senescence and Homeostatic Imbalance Inflammaging Theory",
+          "reasoning": "Focuses on immune dysregulation, cellular senescence with SASP, and epigenetic alterations contributing to inflammaging and metabolic disease."
+        },
+        {
+          "theory_id": "T017708",
+          "subcluster_name": "Senescence and Homeostatic Imbalance Inflammaging Theory",
+          "reasoning": "Emphasizes impaired resolution of inflammation due to macrophage dysfunction and reduced pro-resolving mediators leading to chronic inflammation."
+        },
+        {
+          "theory_id": "T021251",
+          "subcluster_name": "Senescence and Homeostatic Imbalance Inflammaging Theory",
+          "reasoning": "Describes geroprotective interventions targeting inflammation and metabolic reprogramming downstream of inflammaging and senescence."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:30:07"
+}

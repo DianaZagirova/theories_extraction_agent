@@ -1,0 +1,199 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 20,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "RECQ Helicase Deficiency and Telomere Dysfunction DNA Damage Theory",
+        "theory_ids": [
+          "T023937",
+          "T023707",
+          "T023258",
+          "T023943"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Nucleotide Excision Repair Deficiency and Segmental Progeroid Syndromes Aging Theory",
+        "theory_ids": [
+          "T023737",
+          "T023631"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "DNA-PKcs Deficiency and DNA Repair Impairment Aging Theory",
+        "theory_ids": [
+          "T023449",
+          "T024562"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "General DNA Damage Accumulation and Stem Cell Exhaustion Aging Theory",
+        "theory_ids": [
+          "T023244",
+          "T023729",
+          "T023728",
+          "T023708",
+          "T024138"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Oxidative DNA Damage and Base Excision Repair Decline Aging Theory",
+        "theory_ids": [
+          "T023696",
+          "T023674"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T023937",
+          "subcluster_name": "RECQ Helicase Deficiency and Telomere Dysfunction DNA Damage Theory",
+          "reasoning": "Focuses on WRN helicase mutations causing genomic instability and telomere maintenance defects leading to premature aging."
+        },
+        {
+          "theory_id": "T023507",
+          "subcluster_name": "DNA Damage Response Decline and p53 Dysfunction Aging Theory",
+          "reasoning": "Centers on age-related decline in p53 function and upstream ATM kinase impairing DNA damage response and apoptosis."
+        },
+        {
+          "theory_id": "T023720",
+          "subcluster_name": "Genomic Instability and Replicative DNA Damage Accumulation Theory",
+          "reasoning": "Emphasizes age-dependent genomic instability, loss of heterozygosity, and oxidative damage to genome maintenance proteins."
+        },
+        {
+          "theory_id": "T023715",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and Telomere Attrition Aging Theory",
+          "reasoning": "Highlights DNA damage accumulation due to NER defects (XPB helicase) and consequent telomere shortening driving senescence."
+        },
+        {
+          "theory_id": "T023404",
+          "subcluster_name": "Transcription-Coupled Nucleotide Excision Repair Ubiquitination Mechanism Theory",
+          "reasoning": "Focuses on ubiquitination of stalled RNA polymerase II promoting TC-NER and DNA damage resistance."
+        },
+        {
+          "theory_id": "T023355",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage and Repair Aging Theory",
+          "reasoning": "Describes mitochondrial ROS causing mtDNA damage and the role of mitochondrial BER proteins CSA/CSB in repair and aging."
+        },
+        {
+          "theory_id": "T023737",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and Segmental Progeroid Syndromes Aging Theory",
+          "reasoning": "Focuses on ERCC4/XPF mutations impairing NER and interstrand crosslink repair causing genomic instability and premature aging."
+        },
+        {
+          "theory_id": "T023707",
+          "subcluster_name": "RECQ Helicase Deficiency and Telomere Dysfunction DNA Damage Theory",
+          "reasoning": "Describes loss of RECQ helicases (WRN, BLM, RECQL4) causing genomic instability, telomere maintenance defects, and premature aging syndromes."
+        },
+        {
+          "theory_id": "T023693",
+          "subcluster_name": "rDNA Instability and Sirtuin-Mediated Chromatin Silencing Aging Theory",
+          "reasoning": "Focuses on rDNA genomic instability driving senescence, with sirtuin proteins maintaining rDNA stability via chromatin silencing."
+        },
+        {
+          "theory_id": "T023449",
+          "subcluster_name": "DNA-PKcs Deficiency and DNA Repair Impairment Aging Theory",
+          "reasoning": "Describes DNA-PKcs loss impairing NHEJ repair, causing progenitor cell expansion, senescence, and genomic instability."
+        },
+        {
+          "theory_id": "T023244",
+          "subcluster_name": "General DNA Damage Accumulation and Stem Cell Exhaustion Aging Theory",
+          "reasoning": "Broad theory of DNA damage accumulation impairing repair and stem cell function, leading to senescence and aging."
+        },
+        {
+          "theory_id": "T023729",
+          "subcluster_name": "General DNA Damage Accumulation and Stem Cell Exhaustion Aging Theory",
+          "reasoning": "Emphasizes DNA damage accumulation from ROS and repair defects causing genomic instability and aging phenotypes."
+        },
+        {
+          "theory_id": "T024562",
+          "subcluster_name": "DNA-PKcs Deficiency and DNA Repair Impairment Aging Theory",
+          "reasoning": "Focuses on DNA-PKcs mutations causing defective NHEJ, telomere dysfunction, and premature replicative senescence."
+        },
+        {
+          "theory_id": "T023696",
+          "subcluster_name": "Oxidative DNA Damage and Base Excision Repair Decline Aging Theory",
+          "reasoning": "Describes ROS-induced oxidative DNA damage and decline in BER capacity leading to neurodegeneration and aging."
+        },
+        {
+          "theory_id": "T023258",
+          "subcluster_name": "RECQ Helicase Deficiency and Telomere Dysfunction DNA Damage Theory",
+          "reasoning": "Details RecQ helicases' role in genome stability, repair, and telomere maintenance; their deficiency causes premature aging."
+        },
+        {
+          "theory_id": "T023728",
+          "subcluster_name": "General DNA Damage Accumulation and Stem Cell Exhaustion Aging Theory",
+          "reasoning": "Focuses on DNA repair defects causing genomic instability, DNA damage response failure, and aging."
+        },
+        {
+          "theory_id": "T023708",
+          "subcluster_name": "General DNA Damage Accumulation and Stem Cell Exhaustion Aging Theory",
+          "reasoning": "Emphasizes DNA damage accumulation in stem cells leading to exhaustion and aging phenotypes."
+        },
+        {
+          "theory_id": "T023742",
+          "subcluster_name": "Telomere Dysfunction and Shelterin Degradation DNA Damage Aging Theory",
+          "reasoning": "Focuses on LMNA mutations causing DNA damage, TRF2 degradation, shelterin loss, and telomere dysfunction driving aging."
+        },
+        {
+          "theory_id": "T023719",
+          "subcluster_name": "Genomic Instability and Chromosomal Mosaicism Aging Theory",
+          "reasoning": "Describes genomic instability with mosaic loss of chromosome Y as a biomarker and causal factor in aging."
+        },
+        {
+          "theory_id": "T023943",
+          "subcluster_name": "RECQ Helicase Deficiency and Telomere Dysfunction DNA Damage Theory",
+          "reasoning": "Links DNA damage accumulation, telomere shortening, and defective DNA repair (e.g., WRN mutations) to premature aging."
+        },
+        {
+          "theory_id": "T023674",
+          "subcluster_name": "Oxidative DNA Damage and Base Excision Repair Decline Aging Theory",
+          "reasoning": "Focuses on DNA damage accumulation and repair decline in neurons causing neurodegeneration and aging."
+        },
+        {
+          "theory_id": "T023629",
+          "subcluster_name": "DNA Damage Response-Driven Vascular Aging Theory",
+          "reasoning": "Describes DNA damage accumulation and impaired repair in vascular cells causing intrinsic vascular aging and dysfunction."
+        },
+        {
+          "theory_id": "T023631",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and Segmental Progeroid Syndromes Aging Theory",
+          "reasoning": "Focuses on ERCC1 deficiency causing DNA repair defects, genomic instability, and premature aging phenotypes."
+        },
+        {
+          "theory_id": "T023683",
+          "subcluster_name": "DNA Damage Accumulation in Hematopoietic Stem Cell Aging Theory",
+          "reasoning": "Describes DNA damage accumulation and repair decline in hematopoietic stem cells causing functional decline and aging."
+        },
+        {
+          "theory_id": "T024138",
+          "subcluster_name": "General DNA Damage Accumulation and Stem Cell Exhaustion Aging Theory",
+          "reasoning": "Broad theory linking DNA damage accumulation, repair pathway inefficiency, oxidative stress, and metabolic dysfunction to aging."
+        },
+        {
+          "theory_id": "T022597",
+          "subcluster_name": "Genomic Instability and Chromatin Regulation Aging Theory",
+          "reasoning": "Emphasizes DNA metabolism, heterochromatin changes, and genome stability as unified mechanisms driving aging."
+        },
+        {
+          "theory_id": "T021358",
+          "subcluster_name": "Macromolecular Deterioration Theory of Aging",
+          "reasoning": "Focuses on accumulation of spontaneous chemical modifications in long-lived proteins impairing tissue function and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:53:14"
+}

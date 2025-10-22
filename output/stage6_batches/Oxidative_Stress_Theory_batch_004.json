@@ -1,0 +1,202 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+        "theory_ids": [
+          "T005771",
+          "T006530",
+          "T006539",
+          "T006566",
+          "T006568",
+          "T006578",
+          "T006809",
+          "T006835",
+          "T007065",
+          "T007306",
+          "T007119"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Telomere-Associated Oxidative Stress and Cellular Senescence Theory",
+        "theory_ids": [
+          "T006210",
+          "T005165",
+          "T002054"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005771",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Focuses on superoxide dismutase activity and antioxidant defense modulating oxidative damage to proteins and lifespan."
+        },
+        {
+          "theory_id": "T006530",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Emphasizes catalase overexpression reducing protein oxidative damage and improving function, highlighting antioxidant enzyme roles."
+        },
+        {
+          "theory_id": "T006539",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Describes balance between ROS production and antioxidant/repair systems affecting protein oxidation and aging."
+        },
+        {
+          "theory_id": "T006566",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Links mitochondrial ROS and protein oxidation levels to lifespan differences, focusing on antioxidant defense and biomolecular sensitivity."
+        },
+        {
+          "theory_id": "T006568",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Shows oxidative protein damage in brain regions correlates with aging and is modulated by caloric restriction affecting antioxidant defenses."
+        },
+        {
+          "theory_id": "T006578",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Focuses on ROS-induced protein oxidation in C. elegans and genetic modulation of antioxidant defenses affecting lifespan."
+        },
+        {
+          "theory_id": "T006809",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Highlights thioredoxin antioxidant system's role in modulating oxidative damage and aging."
+        },
+        {
+          "theory_id": "T006835",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Describes mitochondrial ROS production, oxidative protein damage, and antioxidant defense systems influencing aging in C. elegans."
+        },
+        {
+          "theory_id": "T007065",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Proposes an optimum superoxide level regulated by Mn SOD affecting oxidative damage and lifespan, emphasizing antioxidant enzyme balance."
+        },
+        {
+          "theory_id": "T007306",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Examines effects of Cu,Zn-SOD overexpression on oxidative damage and lifespan, focusing on antioxidant enzyme roles."
+        },
+        {
+          "theory_id": "T007119",
+          "subcluster_name": "Antioxidant Enzyme Defense and Protein Oxidation Theory",
+          "reasoning": "Tests SOD mimetics effects on oxidative damage and aging, emphasizing antioxidant enzyme modulation."
+        },
+        {
+          "theory_id": "T005104",
+          "subcluster_name": "Genetic Regulation of Antioxidant Enzymes and Longevity Theory",
+          "reasoning": "Focuses on genetic co-regulation of antioxidant enzymes (oxy-regulon) controlling oxidative stress defenses and lifespan."
+        },
+        {
+          "theory_id": "T005210",
+          "subcluster_name": "Antioxidant Enzyme Imbalance and Cellular Senescence Theory",
+          "reasoning": "Describes how imbalance in SOD and glutathione peroxidase activities leads to H2O2-mediated cellular senescence."
+        },
+        {
+          "theory_id": "T005137",
+          "subcluster_name": "Extracellular Superoxide Dismutase and Vascular Aging Theory",
+          "reasoning": "Focuses on extracellular SOD decline causing vascular oxidative stress and endothelial dysfunction during aging."
+        },
+        {
+          "theory_id": "T006210",
+          "subcluster_name": "Telomere-Associated Oxidative Stress and Cellular Senescence Theory",
+          "reasoning": "Describes oxidative stress causing telomere erosion, chondrocyte senescence, and cartilage aging."
+        },
+        {
+          "theory_id": "T005165",
+          "subcluster_name": "Telomere-Associated Oxidative Stress and Cellular Senescence Theory",
+          "reasoning": "Focuses on oxidative stress accelerating telomere shortening and its impact on biological aging."
+        },
+        {
+          "theory_id": "T002054",
+          "subcluster_name": "Telomere-Associated Oxidative Stress and Cellular Senescence Theory",
+          "reasoning": "Shows oxidative stress in oocytes causes premature loss of meiotic cohesion, linking oxidative damage to chromosomal aging."
+        },
+        {
+          "theory_id": "T006454",
+          "subcluster_name": "Genomic Instability and Oxidative Stress-Induced Transcriptional Fidelity Loss Theory",
+          "reasoning": "Focuses on ROS-induced RNA-DNA differences and genomic entropy impairing transcriptional fidelity and accelerating aging."
+        },
+        {
+          "theory_id": "T007014",
+          "subcluster_name": "Evolutionary Life-History Trade-Off with Oxidative Stress Theory",
+          "reasoning": "Links oxidative stress resistance genetically to reproduction-longevity trade-offs and cellular senescence."
+        },
+        {
+          "theory_id": "T007102",
+          "subcluster_name": "Comparative Oxidative Damage and Longevity Theory",
+          "reasoning": "Examines ROS damage and antioxidant defenses in long-lived mammals, challenging simple oxidative damage-longevity correlations."
+        },
+        {
+          "theory_id": "T006667",
+          "subcluster_name": "Oxidative Stress-Induced PI3K/AKT/mTOR Pathway Activation and Accelerated Aging Theory",
+          "reasoning": "Describes oxidative stress activating PI3K/AKT/mTOR signaling causing stem cell depletion, senescence, and accelerated aging."
+        },
+        {
+          "theory_id": "T006658",
+          "subcluster_name": "ROS Signaling in Stem Cell Function and Aging Theory",
+          "reasoning": "Focuses on ROS as signaling molecules regulating stem cell fate and aging via redox-sensitive pathways."
+        },
+        {
+          "theory_id": "T006995",
+          "subcluster_name": "Mitohormesis and Mitochondrial ROS Signaling Theory",
+          "reasoning": "Proposes low-level mitochondrial ROS induce adaptive stress responses promoting longevity via mitohormesis."
+        },
+        {
+          "theory_id": "T007052",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Feedback Theory",
+          "reasoning": "Describes mitochondrial ROS causing oxidative damage that increases proton leak and ROS production, accelerated by aging."
+        },
+        {
+          "theory_id": "T007173",
+          "subcluster_name": "Oxidative Stress in Brain Aging and Alzheimer's Disease Theory",
+          "reasoning": "Links oxidative stress and mitochondrial dysfunction to brain aging, AD pathology, and systemic frailty."
+        },
+        {
+          "theory_id": "T004555",
+          "subcluster_name": "Oxidative Stress and Redox Signaling in Age-Related Degeneration Theory",
+          "reasoning": "Focuses on ROS causing cellular damage and apoptosis with dual signaling/damage roles in aging and osteoporosis."
+        },
+        {
+          "theory_id": "T000146",
+          "subcluster_name": "Redox Signaling and Oxidative Stress in Cognitive Aging Theory",
+          "reasoning": "Emphasizes redox signaling disruption by H2O2 affecting neuronal function and cognitive decline beyond oxidative damage."
+        },
+        {
+          "theory_id": "T004426",
+          "subcluster_name": "Brain Region-Specific Oxidative Protein Damage and Functional Decline Theory",
+          "reasoning": "Links region-specific oxidative protein damage in brain to independent cognitive and motor aging declines."
+        },
+        {
+          "theory_id": "T001645",
+          "subcluster_name": "MAO-B Mediated Oxidative Stress and Neurodegeneration Theory",
+          "reasoning": "Focuses on age-related MAO-B increase producing H2O2 causing neuronal oxidative damage and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T007339",
+          "subcluster_name": "Immune Activation-Induced Oxidative Stress and Aging Theory",
+          "reasoning": "Describes oxidative costs of innate immune activation increasing ROS and impairing antioxidant defenses with age."
+        },
+        {
+          "theory_id": "T006575",
+          "subcluster_name": "Oxidative Glycation and Free Radical Chain Reaction Theory",
+          "reasoning": "Focuses on advanced glycation end products formation coupled with oxidative stress and free radical propagation in aging."
+        },
+        {
+          "theory_id": "T007372",
+          "subcluster_name": "Oxidative Modification and Vascular Aging Theory",
+          "reasoning": "Proposes oxidative damage to vascular components drives cardiovascular aging and age-related diseases."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 02:35:55"
+}

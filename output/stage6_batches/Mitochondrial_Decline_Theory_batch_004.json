@@ -1,0 +1,202 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+        "theory_ids": [
+          "T004046",
+          "T003957",
+          "T004874",
+          "T003731",
+          "T004267",
+          "T004618",
+          "T004140",
+          "T004422",
+          "T004013",
+          "T004052",
+          "T003602"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Evolution-Driven Longevity Theory",
+        "theory_ids": [
+          "T004883",
+          "T004565"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Uncoupling and Longevity Evolution Theory",
+        "theory_ids": [
+          "T004381",
+          "T003682",
+          "T004607"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Turnover Theory",
+        "theory_ids": [
+          "T003535",
+          "T003634",
+          "T004099",
+          "T004769",
+          "T004642"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial Hormesis (Mitohormesis) Theory",
+        "theory_ids": [
+          "T003736",
+          "T003884"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T004046",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial free radical (ROS) generation causing oxidative damage to mtDNA driving aging."
+        },
+        {
+          "theory_id": "T003957",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T004874",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Highlights balance of mitochondrial ROS production and removal affecting aging."
+        },
+        {
+          "theory_id": "T003731",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial ROS generation and oxidative damage as aging drivers."
+        },
+        {
+          "theory_id": "T004267",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes adaptive evolution reducing mitochondrial ROS production to extend lifespan."
+        },
+        {
+          "theory_id": "T004618",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial complex I ROS production and oxidative stress in aging."
+        },
+        {
+          "theory_id": "T004140",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Links mtDNA deletions causing ETC dysfunction and increased ROS driving aging."
+        },
+        {
+          "theory_id": "T004422",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Mitochondrial dysfunction increases mtROS causing inflammaging and immunosenescence."
+        },
+        {
+          "theory_id": "T004013",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "mtDNA deletions cause mitochondrial enzymatic dysfunction and ROS-related cardiac aging."
+        },
+        {
+          "theory_id": "T004052",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Accumulation of heteroplasmic mtDNA mutations in NADH dehydrogenase genes increases ROS and aging."
+        },
+        {
+          "theory_id": "T003602",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Mitochondrial genetic variation affects ROS production and mitochondrial dysfunction in aging."
+        },
+        {
+          "theory_id": "T004883",
+          "subcluster_name": "Mitochondrial DNA Evolution-Driven Longevity Theory",
+          "reasoning": "Focuses on mtDNA haplotype evolution and mitonuclear epistasis shaping lifespan."
+        },
+        {
+          "theory_id": "T004565",
+          "subcluster_name": "Mitochondrial DNA Evolution-Driven Longevity Theory",
+          "reasoning": "Adaptive selection of mtDNA-coded protein mutations reduces ROS and extends longevity."
+        },
+        {
+          "theory_id": "T004381",
+          "subcluster_name": "Mitochondrial Uncoupling and Longevity Evolution Theory",
+          "reasoning": "Describes mitochondrial uncoupling increasing proton leak to reduce ROS and extend lifespan."
+        },
+        {
+          "theory_id": "T003682",
+          "subcluster_name": "Mitochondrial Uncoupling and Longevity Evolution Theory",
+          "reasoning": "Mild mitochondrial uncoupling reduces ROS production and preserves mitochondrial function with age."
+        },
+        {
+          "theory_id": "T004607",
+          "subcluster_name": "Mitochondrial Uncoupling and Longevity Evolution Theory",
+          "reasoning": "Uncoupling to survive hypothesis posits decreased membrane potential lowers ROS and promotes longevity."
+        },
+        {
+          "theory_id": "T003535",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Turnover Theory",
+          "reasoning": "Focuses on mtDNA turnover rate affecting mutation accumulation and aging."
+        },
+        {
+          "theory_id": "T003634",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Turnover Theory",
+          "reasoning": "Age-related accumulation of mtDNA deletions impairs ETC and contributes to aging."
+        },
+        {
+          "theory_id": "T004099",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Turnover Theory",
+          "reasoning": "Somatic mtDNA mutations accumulate and clonally expand causing mitochondrial dysfunction in aging."
+        },
+        {
+          "theory_id": "T004769",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Turnover Theory",
+          "reasoning": "Cryptic mtDNA mutations accumulate in single cells causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T004642",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Turnover Theory",
+          "reasoning": "Heteroplasmy variance increases with age and generations, influencing mtDNA mutation load and aging."
+        },
+        {
+          "theory_id": "T003406",
+          "subcluster_name": "Mitochondrial Protein Heterogeneity and Fragmentation Theory",
+          "reasoning": "Mitochondrial fragmentation causes protein distribution heterogeneity disrupting mitochondrial function."
+        },
+        {
+          "theory_id": "T004894",
+          "subcluster_name": "Mitochondrial Mitokine-Mediated Immune Aging Theory",
+          "reasoning": "Mitochondrial dysfunction triggers mitokine release modulating immune aging and inflammaging."
+        },
+        {
+          "theory_id": "T003736",
+          "subcluster_name": "Mitochondrial Hormesis (Mitohormesis) Theory",
+          "reasoning": "Low-level mitochondrial ROS induce beneficial adaptive responses promoting longevity."
+        },
+        {
+          "theory_id": "T003884",
+          "subcluster_name": "Mitochondrial Hormesis (Mitohormesis) Theory",
+          "reasoning": "Mild mitochondrial stress triggers retrograde signaling and mitokine release enhancing lifespan."
+        },
+        {
+          "theory_id": "T004297",
+          "subcluster_name": "Mitochondrial Dysfunction and Metabolic Regulation Theory",
+          "reasoning": "Mitochondrial metabolic decline, NAD+ depletion, and altered signaling pathways drive aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:39:28"
+}

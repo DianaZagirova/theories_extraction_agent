@@ -1,0 +1,221 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 9,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+        "theory_ids": [
+          "T011935",
+          "T011727",
+          "T011884",
+          "T009609",
+          "T011735",
+          "T012262",
+          "T012252",
+          "T011684",
+          "T011104"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+        "theory_ids": [
+          "T011830",
+          "T012073",
+          "T012313",
+          "T011932",
+          "T010911",
+          "T012380",
+          "T012207",
+          "T012375",
+          "T012167",
+          "T012390",
+          "T012225",
+          "T011987",
+          "T012095",
+          "T011667"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Nrf2-Mediated Antioxidant Defense Theory",
+        "theory_ids": [
+          "T011805",
+          "T011275",
+          "T012368",
+          "T012304",
+          "T012429",
+          "T012303",
+          "T011756",
+          "T009547"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011935",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Focuses on mild mitochondrial ROS elevation triggering adaptive stress responses and systemic mitokine signaling promoting longevity."
+        },
+        {
+          "theory_id": "T011727",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Describes mild mitochondrial stress increasing ROS as signals to induce protective mechanisms and extend lifespan."
+        },
+        {
+          "theory_id": "T011884",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Emphasizes mitochondrial unfolded protein response and mitohormesis as key mitochondrial signaling pathways regulating aging."
+        },
+        {
+          "theory_id": "T009609",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Highlights mild mitochondrial uncoupling inducing integrated stress response and mitokine-mediated systemic longevity effects."
+        },
+        {
+          "theory_id": "T011735",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Links mitochondrial ROS production and species longevity, focusing on mitochondrial ROS as a driver and modulator of aging."
+        },
+        {
+          "theory_id": "T012262",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Focuses on mitochondrial DNA mutations caused by ROS and bioenergetic decline as central to aging."
+        },
+        {
+          "theory_id": "T012252",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Details mitochondrial ROS generation, mtDNA damage, and mitochondrial dysfunction driving cardiovascular aging."
+        },
+        {
+          "theory_id": "T011684",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Describes mitochondrial ROS overproduction, antioxidant enzyme decline, and p66Shc regulation linking mitochondrial ROS to aging."
+        },
+        {
+          "theory_id": "T011104",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Explores mitochondrial electron transport chain as main ROS source and its variation across species affecting longevity."
+        },
+        {
+          "theory_id": "T011830",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Focuses on ROS-induced protein oxidation via disulfide bond formation impairing Ca2+ signaling and cellular function."
+        },
+        {
+          "theory_id": "T012073",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Highlights dual role of ROS in signaling and damage, emphasizing redox homeostasis and antioxidant defenses."
+        },
+        {
+          "theory_id": "T012313",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Describes exercise-induced ROS hormesis where moderate ROS act as signaling molecules triggering adaptive responses."
+        },
+        {
+          "theory_id": "T011932",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Shows dietary restriction reduces free radical and lipid peroxide production, linking ROS and redox balance to aging."
+        },
+        {
+          "theory_id": "T010911",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Details plasma membrane redox system and antioxidant defenses mitigating ROS-induced protein and lipid damage."
+        },
+        {
+          "theory_id": "T012380",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Focuses on oxidant-antioxidant imbalance causing molecular damage and the complex role of oxidative stress signaling."
+        },
+        {
+          "theory_id": "T012207",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Presents integrated view of ROS accumulation, oxidative damage, and antioxidant defense imbalance driving aging."
+        },
+        {
+          "theory_id": "T012375",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Uses yeast model to study antioxidant potential and oxidative stress as causal driver of aging via macromolecular damage."
+        },
+        {
+          "theory_id": "T012167",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Describes antioxidant and insulin/IGF-1 signaling pathways mitigating ROS accumulation and oxidative damage."
+        },
+        {
+          "theory_id": "T012390",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Uses erythrocytes to study oxidative stress biomarkers and age-related decline in antioxidant enzymes."
+        },
+        {
+          "theory_id": "T012225",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Discusses antioxidant supplementation to enhance defenses and reduce oxidative damage in aging."
+        },
+        {
+          "theory_id": "T011987",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Genetic evidence supports oxidative damage accumulation as causal mechanism of aging."
+        },
+        {
+          "theory_id": "T012095",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Free radical accumulation overwhelms repair capacity causing molecular damage and functional decline."
+        },
+        {
+          "theory_id": "T011667",
+          "subcluster_name": "Protein Oxidation and Redox Signaling Theory",
+          "reasoning": "Focuses on lipid peroxidation and antioxidant enzyme activity changes with age affecting membrane integrity."
+        },
+        {
+          "theory_id": "T011805",
+          "subcluster_name": "Nrf2-Mediated Antioxidant Defense Theory",
+          "reasoning": "Emphasizes SKN-1/NRF2 transcription factor activation enhancing antioxidant enzyme expression and lifespan extension."
+        },
+        {
+          "theory_id": "T011275",
+          "subcluster_name": "Nrf2-Mediated Antioxidant Defense Theory",
+          "reasoning": "Highlights Nrf2 as master regulator of antioxidant defenses and mitochondrial homeostasis influencing aging."
+        },
+        {
+          "theory_id": "T012368",
+          "subcluster_name": "Nrf2-Mediated Antioxidant Defense Theory",
+          "reasoning": "Describes Nrf2 and NF-\u03baB interplay regulating oxidative stress and inflammation in aging."
+        },
+        {
+          "theory_id": "T012304",
+          "subcluster_name": "Nrf2-Mediated Antioxidant Defense Theory",
+          "reasoning": "Links oxidative stress, inflammation, and immunosenescence with transcriptional regulation involving NF-\u03baB and Nrf2."
+        },
+        {
+          "theory_id": "T012429",
+          "subcluster_name": "Nrf2-Mediated Antioxidant Defense Theory",
+          "reasoning": "Focuses on macrophage-driven oxidative-inflammatory stress and lipofuscin accumulation in aging."
+        },
+        {
+          "theory_id": "T012303",
+          "subcluster_name": "Nrf2-Mediated Antioxidant Defense Theory",
+          "reasoning": "Integrates oxidative stress and inflammation with immune system dysfunction and mitochondrial ROS."
+        },
+        {
+          "theory_id": "T011756",
+          "subcluster_name": "Nrf2-Mediated Antioxidant Defense Theory",
+          "reasoning": "Details oxidative-inflammatory stress in immune cells as predictive markers of lifespan and aging."
+        },
+        {
+          "theory_id": "T009547",
+          "subcluster_name": "Nrf2-Mediated Antioxidant Defense Theory",
+          "reasoning": "Melatonin acts as endogenous antioxidant reducing oxidative/nitrosative stress, linking to aging mitigation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:28:34"
+}

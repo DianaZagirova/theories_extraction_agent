@@ -1,0 +1,241 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 34,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+        "theory_ids": [
+          "T022564",
+          "T022743",
+          "T022823",
+          "T022582",
+          "T022762",
+          "T022690",
+          "T022929"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+        "theory_ids": [
+          "T022813",
+          "T022593",
+          "T023153",
+          "T021461"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitochondrial Complex I Mutation Impact on Aging Theory",
+        "theory_ids": [
+          "T022450",
+          "T021679",
+          "T022541"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Dynamics Theory",
+        "theory_ids": [
+          "T022811",
+          "T022938",
+          "T022639",
+          "T021414",
+          "T022720",
+          "T022885",
+          "T022528",
+          "T023035",
+          "T022735"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Mitochondrial Stress Signaling and Hormesis Theory",
+        "theory_ids": [
+          "T022310",
+          "T022736",
+          "T022287",
+          "T022585",
+          "T021861"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial Lon Protease Decline Theory",
+        "theory_ids": [
+          "T021237",
+          "T022643"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022564",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial ROS production causing oxidative damage to mtDNA and proteins leading to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T022743",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Emphasizes mitochondrial superoxide anion production causing oxidative damage and apoptosis driving aging."
+        },
+        {
+          "theory_id": "T022823",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Highlights mitochondrial ROS generation, oxidative DNA damage, and caloric restriction effects on ROS in aging."
+        },
+        {
+          "theory_id": "T022582",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes mitochondrial ROS as primary source of oxidative damage to mtDNA and mitochondrial dysfunction in aging."
+        },
+        {
+          "theory_id": "T022762",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial ROS production causing oxidative damage to mitochondrial components and cognitive aging."
+        },
+        {
+          "theory_id": "T022690",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Links accumulation of mtDNA mutations from oxygen damage and ROS to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T022929",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes ROS damage causing mtDNA mutations and a vicious cycle of mitochondrial damage limiting lifespan."
+        },
+        {
+          "theory_id": "T022813",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Focuses on age-dependent accumulation of mtDNA deletions via DNA repair mechanisms impairing mitochondrial function."
+        },
+        {
+          "theory_id": "T022593",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Describes oxidative damage leading to clonal expansion of defective mitochondria and impaired autophagic removal."
+        },
+        {
+          "theory_id": "T023153",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Describes mitochondrial plasmid insertional mutagenesis causing defective mitochondria accumulation and senescence."
+        },
+        {
+          "theory_id": "T021461",
+          "subcluster_name": "Mitochondrial DNA Deletion Accumulation Theory",
+          "reasoning": "Focuses on somatic mtDNA control region mutations remodeling replication and maintaining mitochondrial function in aging."
+        },
+        {
+          "theory_id": "T022450",
+          "subcluster_name": "Mitochondrial Complex I Mutation Impact on Aging Theory",
+          "reasoning": "Focuses on specific mtDNA complex I mutations altering mitochondrial function and lifespan."
+        },
+        {
+          "theory_id": "T021679",
+          "subcluster_name": "Mitochondrial Complex I Mutation Impact on Aging Theory",
+          "reasoning": "Describes clk-1 mutation affecting coenzyme Q biosynthesis, altering mitochondrial respiration and aging."
+        },
+        {
+          "theory_id": "T022541",
+          "subcluster_name": "Mitochondrial Complex I Mutation Impact on Aging Theory",
+          "reasoning": "Focuses on cardiolipin peroxidation disrupting inner mitochondrial membrane and respiratory complexes, impairing bioenergetics."
+        },
+        {
+          "theory_id": "T022811",
+          "subcluster_name": "Mitochondrial Dysfunction and Dynamics Theory",
+          "reasoning": "Describes mitochondrial functional decline, dynamics imbalance, and regulation by nutrient sensors in aging."
+        },
+        {
+          "theory_id": "T022938",
+          "subcluster_name": "Mitochondrial Dysfunction and Dynamics Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction, fusion/fission imbalance, impaired mitophagy, and altered morphology in aging."
+        },
+        {
+          "theory_id": "T022639",
+          "subcluster_name": "Mitochondrial Dysfunction and Dynamics Theory",
+          "reasoning": "Describes mitochondrial fission/fusion gene overexpression affecting mitochondrial morphology and lifespan via stress responses."
+        },
+        {
+          "theory_id": "T021414",
+          "subcluster_name": "Mitochondrial Dysfunction and Dynamics Theory",
+          "reasoning": "Focuses on mitochondrial fusion/fission balance, fragmentation, and their role in aging and programmed cell death."
+        },
+        {
+          "theory_id": "T022720",
+          "subcluster_name": "Mitochondrial Dysfunction and Dynamics Theory",
+          "reasoning": "Describes early mitochondrial dysfunction, oxidative damage, impaired biogenesis, and degradation pathways in aging."
+        },
+        {
+          "theory_id": "T022885",
+          "subcluster_name": "Mitochondrial Dysfunction and Dynamics Theory",
+          "reasoning": "Links mitochondrial ATP decline, ROS damage, impaired mitophagy, and systemic aging phenotypes like mobility loss."
+        },
+        {
+          "theory_id": "T022528",
+          "subcluster_name": "Mitochondrial Dysfunction and Dynamics Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction, mitophagy regulation, mtDNA-driven inflammation, and mitochondrial outer membrane permeabilization in aging."
+        },
+        {
+          "theory_id": "T023035",
+          "subcluster_name": "Mitochondrial Dysfunction and Dynamics Theory",
+          "reasoning": "Describes NRTI-induced mitochondrial dysfunction, increased ROS, impaired mitophagy, and premature endothelial senescence."
+        },
+        {
+          "theory_id": "T022735",
+          "subcluster_name": "Mitochondrial Dysfunction and Dynamics Theory",
+          "reasoning": "Focuses on mitochondrial membrane potential decline, ATP reduction, ROS increase, and cell loss in aging tissues."
+        },
+        {
+          "theory_id": "T022310",
+          "subcluster_name": "Mitochondrial Stress Signaling and Hormesis Theory",
+          "reasoning": "Describes mitoflash frequency as mitochondrial activity biomarker influencing aging rate and metabolic remodeling."
+        },
+        {
+          "theory_id": "T022736",
+          "subcluster_name": "Mitochondrial Stress Signaling and Hormesis Theory",
+          "reasoning": "Focuses on mitochondrial unfolded protein response (UPRMT) signaling promoting longevity via mitochondrial-nuclear communication."
+        },
+        {
+          "theory_id": "T022287",
+          "subcluster_name": "Mitochondrial Stress Signaling and Hormesis Theory",
+          "reasoning": "Describes mitochondrial hormesis and mitokine signaling mediating systemic longevity benefits from mild mitochondrial stress."
+        },
+        {
+          "theory_id": "T022585",
+          "subcluster_name": "Mitochondrial Stress Signaling and Hormesis Theory",
+          "reasoning": "Focuses on mitochondrial signaling pathways including sirtuins, p66Shc, and cAMP affecting aging beyond energy production."
+        },
+        {
+          "theory_id": "T021861",
+          "subcluster_name": "Mitochondrial Stress Signaling and Hormesis Theory",
+          "reasoning": "Describes mitochondrial stress-specific HSF-1 remodeling proteostasis to protect against age-related protein homeostasis collapse."
+        },
+        {
+          "theory_id": "T021237",
+          "subcluster_name": "Mitochondrial Lon Protease Decline Theory",
+          "reasoning": "Focuses on biphasic regulation and age-related decline of Lon protease impairing mitochondrial protein quality control."
+        },
+        {
+          "theory_id": "T022643",
+          "subcluster_name": "Mitochondrial Lon Protease Decline Theory",
+          "reasoning": "Emphasizes Lon protease role in degrading oxidized mitochondrial proteins and its decline contributing to aging."
+        },
+        {
+          "theory_id": "T022045",
+          "subcluster_name": "Mitochondrial Lysosomal Axis and Lipofuscin Theory",
+          "reasoning": "Describes lipofuscin accumulation in lysosomes causing proteasome inhibition, redox cycling, and chronic oxidative stress in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:52:34"
+}

@@ -1,0 +1,263 @@
+{
+  "cluster_name": "Immunological Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Immunosenescence and Inflammaging Mechanisms",
+        "theory_ids": [
+          "T018164",
+          "T017810",
+          "T018242",
+          "T008771"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Thymic Involution-Driven Immunosenescence",
+        "theory_ids": [
+          "T016249",
+          "T016399",
+          "T018497",
+          "T017889",
+          "T018025",
+          "T017705"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Immunosenescence and Cellular Immune Aging",
+        "theory_ids": [
+          "T018133",
+          "T014522"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Inflammation-Energy Metabolism Feedback in Aging",
+        "theory_ids": [
+          "T017373",
+          "T002839"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Senoinflammation: Chronic Inflammation and Metabolic Dysregulation",
+        "theory_ids": [
+          "T015126",
+          "T014606",
+          "T004867"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Inflammation Theory of Endothelial Aging",
+        "theory_ids": [
+          "T018118",
+          "T006150"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "CMV-Driven Immune Risk Profile and Immunosenescence",
+        "theory_ids": [
+          "T018679",
+          "T017119"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Inflammation-Driven Hematopoietic Stem Cell Aging and Malignancy",
+        "theory_ids": [
+          "T004111",
+          "T006612"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018164",
+          "subcluster_name": "Immunosenescence and Inflammaging Mechanisms",
+          "reasoning": "Focuses on immune aging characterized by immunosenescence and chronic low-grade inflammation (inflammaging) with epigenetic regulation and autoimmunity."
+        },
+        {
+          "theory_id": "T016249",
+          "subcluster_name": "Thymic Involution-Driven Immunosenescence",
+          "reasoning": "Centers on thymic involution causing decline in naive T cell output and immune aging, with genetic and hormonal influences."
+        },
+        {
+          "theory_id": "T015644",
+          "subcluster_name": "Genetic Regulation of Immune Aging",
+          "reasoning": "Emphasizes genetic control of immune response genes affecting lifespan and immune function."
+        },
+        {
+          "theory_id": "T018133",
+          "subcluster_name": "Immunosenescence and Cellular Immune Aging",
+          "reasoning": "Describes cellular-level immune aging including T cell dysfunction, thymic involution, stem cell aging, and systemic factors."
+        },
+        {
+          "theory_id": "T015123",
+          "subcluster_name": "Arachidonic Acid Metabolism and Inflammation Resolution Imbalance",
+          "reasoning": "Focuses on imbalance of pro- and anti-inflammatory lipid mediators from arachidonic acid metabolism driving chronic inflammation in aging."
+        },
+        {
+          "theory_id": "T017810",
+          "subcluster_name": "Immunosenescence and Inflammaging Mechanisms",
+          "reasoning": "Describes shift from adaptive to innate immunity and chronic inflammation as drivers of systemic aging."
+        },
+        {
+          "theory_id": "T017455",
+          "subcluster_name": "NLRP3 Inflammasome-Driven Inflammaging",
+          "reasoning": "Focuses on NLRP3 inflammasome activation by metabolic and mitochondrial dysfunction as a key driver of inflammaging."
+        },
+        {
+          "theory_id": "T017406",
+          "subcluster_name": "Inflammatory Host Response and Life History Regulation",
+          "reasoning": "Explains inflammatory host response as an evolutionary regulator of life history trade-offs between fertility and maintenance."
+        },
+        {
+          "theory_id": "T016399",
+          "subcluster_name": "Thymic Involution-Driven Immunosenescence",
+          "reasoning": "Details thymic involution and peripheral naive T cell maintenance decline as causes of immunosenescence."
+        },
+        {
+          "theory_id": "T018497",
+          "subcluster_name": "Thymic Involution-Driven Immunosenescence",
+          "reasoning": "Attributes thymic involution primarily to intrinsic proliferative decline of thymic epithelial cells."
+        },
+        {
+          "theory_id": "T017889",
+          "subcluster_name": "Thymic Involution-Driven Immunosenescence",
+          "reasoning": "Describes thymic involution, hematopoietic stem cell aging, and T cell replicative senescence as mechanisms of immune aging."
+        },
+        {
+          "theory_id": "T017373",
+          "subcluster_name": "Inflammation-Energy Metabolism Feedback in Aging",
+          "reasoning": "Links chronic inflammation induced by energy accumulation to metabolic regulation and aging."
+        },
+        {
+          "theory_id": "T015126",
+          "subcluster_name": "Senoinflammation: Chronic Inflammation and Metabolic Dysregulation",
+          "reasoning": "Defines senoinflammation as chronic low-grade inflammation driven by senescent cells and metabolic dysfunction."
+        },
+        {
+          "theory_id": "T018118",
+          "subcluster_name": "Inflammation Theory of Endothelial Aging",
+          "reasoning": "Focuses on chronic inflammation and NF-\u03baB activation causing endothelial dysfunction and vascular aging."
+        },
+        {
+          "theory_id": "T018025",
+          "subcluster_name": "Thymic Involution-Driven Immunosenescence",
+          "reasoning": "Details thymic involution and compensatory peripheral T cell proliferation leading to immunosenescence."
+        },
+        {
+          "theory_id": "T018679",
+          "subcluster_name": "CMV-Driven Immune Risk Profile and Immunosenescence",
+          "reasoning": "Links persistent CMV infection to immune risk profile, T cell clonal expansions, and systemic immunosenescence."
+        },
+        {
+          "theory_id": "T017119",
+          "subcluster_name": "CMV-Driven Immune Risk Profile and Immunosenescence",
+          "reasoning": "Describes chronic CMV antigenic stress causing CD8+ T cell clonal expansions and immune aging."
+        },
+        {
+          "theory_id": "T017171",
+          "subcluster_name": "TLR4 Polymorphism-Mediated Inflammation and Aging",
+          "reasoning": "Focuses on TLR4 genetic variants modulating inflammatory responses and influencing aging and age-related diseases."
+        },
+        {
+          "theory_id": "T018242",
+          "subcluster_name": "Immunosenescence and Inflammaging Mechanisms",
+          "reasoning": "Describes interplay of immunosenescence and inflammaging driving neurodegeneration and systemic aging."
+        },
+        {
+          "theory_id": "T018050",
+          "subcluster_name": "Inflammation and Immune Modulation in Delayed Aging",
+          "reasoning": "Shows altered immune gene expression and reduced inflammation contributing to delayed aging in Ames dwarf mice."
+        },
+        {
+          "theory_id": "T017035",
+          "subcluster_name": "Immunosenescence and Mortality in Natural Populations",
+          "reasoning": "Links immune decline against parasites to increased mortality, highlighting immunosenescence as causal in aging."
+        },
+        {
+          "theory_id": "T017705",
+          "subcluster_name": "Thymic Involution-Driven Immunosenescence",
+          "reasoning": "Proposes thymic involution as a pacemaker of aging via autoimmune processes and pineal-thymus regulation."
+        },
+        {
+          "theory_id": "T017755",
+          "subcluster_name": "Immune Dysfunction as a Driver of Systemic Aging",
+          "reasoning": "Attributes early immune decline and genetic/environmental modulation to systemic aging acceleration."
+        },
+        {
+          "theory_id": "T014606",
+          "subcluster_name": "Senoinflammation: Chronic Inflammation and Metabolic Dysregulation",
+          "reasoning": "Describes senoinflammation involving SASP, immune dysregulation, and key inflammatory signaling pathways."
+        },
+        {
+          "theory_id": "T014522",
+          "subcluster_name": "Immunosenescence and Cellular Immune Aging",
+          "reasoning": "Details thymic involution, B and innate immune cell defects, and ROS in immune aging."
+        },
+        {
+          "theory_id": "T002839",
+          "subcluster_name": "Inflammation-Energy Metabolism Feedback in Aging",
+          "reasoning": "Links chronic inflammation driven by innate immune signaling to metabolic dysfunction and aging."
+        },
+        {
+          "theory_id": "T004867",
+          "subcluster_name": "Senoinflammation: Chronic Inflammation and Metabolic Dysregulation",
+          "reasoning": "Integrates immune, metabolic, and redox signaling in chronic inflammation driving aging, modulated by calorie restriction."
+        },
+        {
+          "theory_id": "T004111",
+          "subcluster_name": "Inflammation-Driven Hematopoietic Stem Cell Aging and Malignancy",
+          "reasoning": "Focuses on inflammation-induced HSC functional decline, mutagenesis, and clonal hematopoiesis driving aging and cancer."
+        },
+        {
+          "theory_id": "T006150",
+          "subcluster_name": "Inflammation Theory of Endothelial Aging",
+          "reasoning": "Describes chronic inflammation and NF-\u03baB activation causing endothelial dysfunction and vascular aging."
+        },
+        {
+          "theory_id": "T011777",
+          "subcluster_name": "Autoantibody Accumulation and Immune-Driven Aging",
+          "reasoning": "Focuses on antibody repertoire changes, somatic hypermutation, and autoantibody-driven chronic inflammation accelerating aging."
+        },
+        {
+          "theory_id": "T008771",
+          "subcluster_name": "Immunosenescence and Inflammaging Mechanisms",
+          "reasoning": "Describes adaptive immune decline and inflammaging as key contributors to aging and mortality."
+        },
+        {
+          "theory_id": "T008987",
+          "subcluster_name": "Unresolved Inflammation and Immune Dysregulation in Aging",
+          "reasoning": "Focuses on imbalance of inflammatory responses ('Yin-Yang'), immune pleiotropy, and tissue integrity erosion driving aging."
+        },
+        {
+          "theory_id": "T007578",
+          "subcluster_name": "Inflammation-Induced Premature Endothelial Senescence",
+          "reasoning": "Links chronic inflammatory ROS damage and transcriptional infidelity to endothelial senescence and systemic aging."
+        },
+        {
+          "theory_id": "T006612",
+          "subcluster_name": "Inflammation-Driven Hematopoietic Stem Cell Aging and Malignancy",
+          "reasoning": "Describes inflammation-induced irreversible HSC exhaustion and accelerated hematopoietic aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:13:45"
+}

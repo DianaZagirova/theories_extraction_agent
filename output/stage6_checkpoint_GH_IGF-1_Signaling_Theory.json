@@ -1,0 +1,385 @@
+{
+  "cluster_name": "GH/IGF-1 Signaling Theory",
+  "batches_completed": 2,
+  "batch_results": [
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Sensory Neuron-Mediated Insulin/IGF-1 Signaling Theory",
+          "theory_ids": [
+            "T002719",
+            "T015769",
+            "T002727",
+            "T016093"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 4
+        },
+        {
+          "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+          "theory_ids": [
+            "T002887",
+            "T000997",
+            "T013873",
+            "T016096",
+            "T015175",
+            "T008225",
+            "T015772",
+            "T014389",
+            "T015056",
+            "T015117",
+            "T015229",
+            "T014523",
+            "T003437"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 13
+        },
+        {
+          "subcluster_name": "GH/IGF-1 Axis Developmental and Signal Transduction Theory",
+          "theory_ids": [
+            "T004025",
+            "T012269",
+            "T015140",
+            "T014695",
+            "T001058",
+            "T015983",
+            "T016018"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 7
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T002719",
+            "subcluster_name": "Sensory Neuron-Mediated Insulin/IGF-1 Signaling Theory",
+            "reasoning": "Focuses on sensory neuron regulation of lifespan via modulation of insulin/IGF-1 signaling, emphasizing neuroendocrine and environmental cue integration."
+          },
+          {
+            "theory_id": "T015769",
+            "subcluster_name": "Sensory Neuron-Mediated Insulin/IGF-1 Signaling Theory",
+            "reasoning": "Describes sensory neuron-derived insulin-like peptides modulating IIS pathway and aging, highlighting neuroendocrine control of longevity."
+          },
+          {
+            "theory_id": "T002727",
+            "subcluster_name": "Sensory Neuron-Mediated Insulin/IGF-1 Signaling Theory",
+            "reasoning": "Emphasizes evolutionary conservation of GH/IGF-1/insulin pathway including sensory regulation aspects influencing lifespan."
+          },
+          {
+            "theory_id": "T016093",
+            "subcluster_name": "Sensory Neuron-Mediated Insulin/IGF-1 Signaling Theory",
+            "reasoning": "Includes neuroendocrine IGF1 roles in cell fate and aging, with links to sensory and systemic signaling affecting longevity."
+          },
+          {
+            "theory_id": "T002887",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Focuses on GH/IGF-1 axis effects on lifespan, sexual dimorphism, and trade-offs between cancer protection and cardiovascular risks."
+          },
+          {
+            "theory_id": "T000997",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Describes lifespan extension and healthspan improvement via GH/IGF-1 reduction, with links to caloric restriction and disease modulation."
+          },
+          {
+            "theory_id": "T013873",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Highlights somatopause, lifespan extension by reduced GH/IGF-1 signaling, and protection from age-related diseases."
+          },
+          {
+            "theory_id": "T016096",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Focuses on lifespan effects of altered IGF1 levels, SOCS2 regulation, and GH/IGF-1 signaling balance impacting aging."
+          },
+          {
+            "theory_id": "T015175",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Discusses genetic mutations reducing GH/IGF-1 signaling and their shared anti-aging mechanisms with calorie restriction."
+          },
+          {
+            "theory_id": "T008225",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Describes lifespan extension via GH-IGF-1 axis suppression and improved glucose-insulin metabolism mimicking calorie restriction."
+          },
+          {
+            "theory_id": "T015772",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Covers evolutionary conservation of GH-IGF-1 signaling in longevity, oxidative stress resistance, and life-history trade-offs."
+          },
+          {
+            "theory_id": "T014389",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Focuses on GH/IGF-1/insulin endocrine regulation of metabolism, oxidative stress, reproduction, and lifespan."
+          },
+          {
+            "theory_id": "T015056",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Explores GH receptor mutations, insulin signaling, and calorie restriction interactions affecting longevity."
+          },
+          {
+            "theory_id": "T015117",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Details GH/IGF-1 axis role in aging, insulin sensitivity, and lifespan effects of GH deficiency or overexpression."
+          },
+          {
+            "theory_id": "T015229",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Describes GH receptor disruption effects on aging, calorie restriction mediation, and insulin sensitivity as longevity mechanisms."
+          },
+          {
+            "theory_id": "T014523",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Focuses on GHR gene disruption, insulin sensitivity despite obesity, and systemic aging effects of GH/IGF-1 signaling."
+          },
+          {
+            "theory_id": "T003437",
+            "subcluster_name": "GH/IGF-1 Axis Modulation of Lifespan and Disease Trade-offs Theory",
+            "reasoning": "Discusses optimal GH-IGF-1 levels for survival, immune system involvement, and disease prevention in lifespan extension."
+          },
+          {
+            "theory_id": "T004025",
+            "subcluster_name": "GH/IGF-1 Axis Developmental and Signal Transduction Theory",
+            "reasoning": "Emphasizes GH/IGF-1 axis role in aging via developmental gene programs and specific signaling proteins like JUN, STAT, SHC1."
+          },
+          {
+            "theory_id": "T012269",
+            "subcluster_name": "GH/IGF-1 Axis Developmental and Signal Transduction Theory",
+            "reasoning": "Highlights neuroendocrine regulation of aging by GH/IGF-1 axis and genetic perturbations mimicking calorie restriction effects."
+          },
+          {
+            "theory_id": "T015140",
+            "subcluster_name": "GH/IGF-1 Axis Developmental and Signal Transduction Theory",
+            "reasoning": "Focuses on Ames dwarf mice with GH/IGF-1 axis mutations affecting systemic aging and age-related pathology."
+          },
+          {
+            "theory_id": "T014695",
+            "subcluster_name": "GH/IGF-1 Axis Developmental and Signal Transduction Theory",
+            "reasoning": "Describes GH/IGF-1 deficiency effects on cerebrovascular and brain aging, linking hormonal decline to tissue-specific aging."
+          },
+          {
+            "theory_id": "T001058",
+            "subcluster_name": "GH/IGF-1 Axis Developmental and Signal Transduction Theory",
+            "reasoning": "Details sex-specific modulation of GH/IGF-1 axis by 17\u03b1-Estradiol affecting hepatic IGF1 and aging mechanisms."
+          },
+          {
+            "theory_id": "T015983",
+            "subcluster_name": "GH/IGF-1 Axis Developmental and Signal Transduction Theory",
+            "reasoning": "Focuses on serum IGF-1 decline during aging, timing-dependent effects on health span, and GH/IGF-1 dual roles in aging."
+          },
+          {
+            "theory_id": "T016018",
+            "subcluster_name": "GH/IGF-1 Axis Developmental and Signal Transduction Theory",
+            "reasoning": "Explores pleiotropic effects of GH/IGF-1 on aging, caloric restriction-induced endocrine adaptations, and paracrine vs endocrine IGF-1."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+          "theory_ids": [
+            "T017003",
+            "T022337",
+            "T020583",
+            "T027259",
+            "T016152",
+            "T019831",
+            "T025852",
+            "T021672",
+            "T020649",
+            "T018339",
+            "T016430",
+            "T020204"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 12
+        },
+        {
+          "subcluster_name": "Differential GH, IGF-1, and IRS Signaling Effects on Aging Theory",
+          "theory_ids": [
+            "T016688",
+            "T016644",
+            "T020631"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        },
+        {
+          "subcluster_name": "GH/IGF-1 Axis Modulation by Nutrition and Cancer Theory",
+          "theory_ids": [
+            "T023524",
+            "T022054",
+            "T021887",
+            "T023585"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 4
+        },
+        {
+          "subcluster_name": "GH/IGF-1 Axis Decline and Brain Aging Theory",
+          "theory_ids": [
+            "T018189",
+            "T027190"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 2
+        },
+        {
+          "subcluster_name": "GH/IGF-1 Axis Regulation of Mitochondrial Aging Theory",
+          "theory_ids": [
+            "T010430",
+            "T022166",
+            "T025357"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        },
+        {
+          "subcluster_name": "GH/IGF-1 Signaling Theory",
+          "theory_ids": [
+            "T020646",
+            "T021660"
+          ],
+          "theory_count": 2,
+          "mechanism_focus": "",
+          "status": "singleton_warning",
+          "warning_reason": "1 subclusters too small, 1 theories not assigned"
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T017003",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Focuses on how reduced GH/IGF-1 signaling decreases pro-aging pathways, oxidative stress, and genomic instability to extend lifespan."
+          },
+          {
+            "theory_id": "T022337",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Emphasizes GH/IGF-1 axis attenuation leading to lifespan extension and metabolic health improvements in mouse models."
+          },
+          {
+            "theory_id": "T020583",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Describes GH/IGF-1/insulin pathway genetic variants affecting growth and longevity, linking reduced signaling to extended lifespan."
+          },
+          {
+            "theory_id": "T027259",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Details genetic mutations in GH/IGF-1 pathway that extend lifespan via oxidative damage resistance and metabolic changes."
+          },
+          {
+            "theory_id": "T016152",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Summarizes lifespan extension by reduced GH/IGF-1 signaling through metabolic and endocrine alterations and evolutionary trade-offs."
+          },
+          {
+            "theory_id": "T019831",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Focuses on reduced IGF-1 and insulin signaling leading to longevity, supported by multiple animal models and genetic mechanisms."
+          },
+          {
+            "theory_id": "T025852",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Highlights GH/IGF-1 reduction enhancing antioxidative defense and metabolic pathways linked to lifespan extension."
+          },
+          {
+            "theory_id": "T021672",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Shows GH/IGF-1 axis disruption extends lifespan and delays age-related diseases with sex- and tissue-specific effects."
+          },
+          {
+            "theory_id": "T020649",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Describes GH/IGF-1 loss-of-function mutations extending lifespan and Klotho protein\u2019s role in modulating IGF-1 signaling."
+          },
+          {
+            "theory_id": "T018339",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Details GHR gene disruption causing GH resistance, reduced IGF-1, and lifespan extension, supporting conserved aging mechanisms."
+          },
+          {
+            "theory_id": "T016430",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Focuses on dwarf mouse models with reduced somatotropic signaling leading to extended lifespan and delayed aging."
+          },
+          {
+            "theory_id": "T020204",
+            "subcluster_name": "Reduced GH/IGF-1 Signaling and Longevity Theory",
+            "reasoning": "Links Prop1df mutation causing GH/IGF-1 deficiency to altered gene expression and extended longevity."
+          },
+          {
+            "theory_id": "T016688",
+            "subcluster_name": "Differential GH, IGF-1, and IRS Signaling Effects on Aging Theory",
+            "reasoning": "Distinguishes lifespan effects of reduced GH, IGF-1, and IRS signaling, highlighting their differential impacts on aging rate and mortality."
+          },
+          {
+            "theory_id": "T016644",
+            "subcluster_name": "Differential GH, IGF-1, and IRS Signaling Effects on Aging Theory",
+            "reasoning": "Discusses tissue-specific modulation of GH/IGF-1/insulin signaling and metabolic adaptations in longevity, including centenarian insights."
+          },
+          {
+            "theory_id": "T020631",
+            "subcluster_name": "Differential GH, IGF-1, and IRS Signaling Effects on Aging Theory",
+            "reasoning": "Explores complex, stage- and tissue-specific roles of GH/IGF-1 in development and aging with species and sex differences."
+          },
+          {
+            "theory_id": "T021660",
+            "subcluster_name": "GH/INS/IGF Nutrient Response and Stem Cell Depletion Theory",
+            "reasoning": "Focuses on GH/INS/IGF nutrient signaling causing stem cell depletion (VSELs) and aging, with epigenetic regulation and caloric restriction effects."
+          },
+          {
+            "theory_id": "T023524",
+            "subcluster_name": "GH/IGF-1 Axis Modulation by Nutrition and Cancer Theory",
+            "reasoning": "Emphasizes nutritional modulation of GH/IGF-1 signaling affecting aging, cancer risk, and differential stress resistance."
+          },
+          {
+            "theory_id": "T022054",
+            "subcluster_name": "GH/IGF-1 Axis Modulation by Nutrition and Cancer Theory",
+            "reasoning": "Details caloric restriction\u2019s impact on GH/IGF-1 axis reducing cancer incidence and extending lifespan."
+          },
+          {
+            "theory_id": "T021887",
+            "subcluster_name": "GH/IGF-1 Axis Modulation by Nutrition and Cancer Theory",
+            "reasoning": "Links GH/IGF-1 signaling levels to aging, oxidative stress, cancer development, and reproductive aging."
+          },
+          {
+            "theory_id": "T023585",
+            "subcluster_name": "GH/IGF-1 Axis Modulation by Nutrition and Cancer Theory",
+            "reasoning": "Uses dog model to illustrate GH/IGF-1 axis influence on body size, lifespan, and hormonal modulation of aging."
+          },
+          {
+            "theory_id": "T018189",
+            "subcluster_name": "GH/IGF-1 Axis Decline and Brain Aging Theory",
+            "reasoning": "Focuses on age-related GH/IGF-1 decline impairing neuronal function, synaptic plasticity, and cognitive aging."
+          },
+          {
+            "theory_id": "T027190",
+            "subcluster_name": "GH/IGF-1 Axis Decline and Brain Aging Theory",
+            "reasoning": "Describes GH/IGF-1 secretion changes with age, sex-specific effects, and their relationship to mortality and brain aging."
+          },
+          {
+            "theory_id": "T010430",
+            "subcluster_name": "GH/IGF-1 Axis Regulation of Mitochondrial Aging Theory",
+            "reasoning": "Details GH/IGF-1 regulation of mitochondrial biogenesis, function, oxidative stress, and cellular senescence in aging."
+          },
+          {
+            "theory_id": "T022166",
+            "subcluster_name": "GH/IGF-1 Axis Regulation of Mitochondrial Aging Theory",
+            "reasoning": "Focuses on GH/IGF-1 modulation of antioxidant enzymes (GST, thioredoxin) enhancing stress resistance and longevity."
+          },
+          {
+            "theory_id": "T025357",
+            "subcluster_name": "GH/IGF-1 Axis Regulation of Mitochondrial Aging Theory",
+            "reasoning": "Highlights GH/IGF-1 effects on mitochondrial function, cellular senescence, muscle aging, and IGF1 bioavailability."
+          }
+        ]
+      }
+    }
+  ],
+  "timestamp": "2025-10-22 11:58:51"
+}

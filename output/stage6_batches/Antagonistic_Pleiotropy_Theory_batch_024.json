@@ -1,0 +1,217 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 24,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+        "theory_ids": [
+          "T025970",
+          "T023135",
+          "T027458",
+          "T025962",
+          "T026980",
+          "T027489",
+          "T027591",
+          "T000054",
+          "T026705",
+          "T002593",
+          "T026079",
+          "T023210"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Telomere-Associated Antagonistic Pleiotropy Theories",
+        "theory_ids": [
+          "T026089",
+          "T025862"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Protein Synthesis-Mediated Antagonistic Pleiotropy Theories",
+        "theory_ids": [
+          "T026485",
+          "T003956",
+          "T024639",
+          "T027426",
+          "T027429",
+          "T004707",
+          "T026022"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Amyloidogenic Protein Evolvability Antagonistic Pleiotropy Theories",
+        "theory_ids": [
+          "T005912",
+          "T005911",
+          "T009745"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Pathogenic Factor-Mediated Antagonistic Pleiotropy Theories",
+        "theory_ids": [
+          "T026074",
+          "T023875",
+          "T008833",
+          "T007062"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025970",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "This theory focuses on evolutionary postulates of senescence involving genetic polymorphisms and mutations causing antagonistic pleiotropy effects on aging."
+        },
+        {
+          "theory_id": "T023135",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "Describes evolutionary trade-offs between reproduction and longevity mediated by genetic and hormonal mechanisms, fitting evolutionary genetic pleiotropy."
+        },
+        {
+          "theory_id": "T027458",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "Focuses on pleiotropic genetic variants influencing multiple age-related diseases, highlighting shared genetic architecture of aging."
+        },
+        {
+          "theory_id": "T025962",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "Explores genetic homozygosity effects on actuarial senescence, emphasizing evolutionary genetic mechanisms of aging."
+        },
+        {
+          "theory_id": "T026980",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "Discusses evolutionary trade-offs shaped by social and environmental factors affecting reproduction and survival, fitting evolutionary pleiotropy."
+        },
+        {
+          "theory_id": "T027489",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "General evolutionary basis of aging via natural selection decline and pleiotropy, fitting broad evolutionary genetic framework."
+        },
+        {
+          "theory_id": "T027591",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "Classic antagonistic pleiotropy theory emphasizing pleiotropic genes with early benefits and late costs under declining selection."
+        },
+        {
+          "theory_id": "T000054",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "Analyzes purifying selection and pleiotropy in aging-associated genes, fitting evolutionary genetic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T026705",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "Reviews mutation accumulation, disposable soma, programmed aging, and antagonistic pleiotropy as evolutionary genetic aging theories."
+        },
+        {
+          "theory_id": "T002593",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "Polygamy-driven accelerated evolution of longevity and intelligence via reproductive skew fits evolutionary genetic pleiotropy."
+        },
+        {
+          "theory_id": "T026079",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "Pathogen-driven selection causing trade-offs between immunity and reproductive senescence exemplifies evolutionary genetic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T023210",
+          "subcluster_name": "Evolutionary Genetic Antagonistic Pleiotropy Theories",
+          "reasoning": "Programmed DNA elimination to resolve germline-soma genetic conflict is a genetic mechanism addressing antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T026089",
+          "subcluster_name": "Telomere-Associated Antagonistic Pleiotropy Theories",
+          "reasoning": "Focuses on evolutionary ecology of telomeres, telomere length variation, and maintenance mechanisms influencing aging and fitness."
+        },
+        {
+          "theory_id": "T025862",
+          "subcluster_name": "Telomere-Associated Antagonistic Pleiotropy Theories",
+          "reasoning": "Telomerase dual role in cancer risk and longevity exemplifies telomere-related antagonistic pleiotropy mechanisms."
+        },
+        {
+          "theory_id": "T026485",
+          "subcluster_name": "Protein Synthesis-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Protein synthesis rate mediates growth-longevity trade-offs via TOR pathway, a molecular mechanism of antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T003956",
+          "subcluster_name": "Protein Synthesis-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Endostatin's dual role in tumor dormancy and fibrosis illustrates molecular antagonistic pleiotropy affecting tissue maintenance."
+        },
+        {
+          "theory_id": "T024639",
+          "subcluster_name": "Protein Synthesis-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Growth-death trade-off in single cells reflects fundamental physiological antagonistic pleiotropy between growth and survival."
+        },
+        {
+          "theory_id": "T027426",
+          "subcluster_name": "Protein Synthesis-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Cellular resource allocation between growth and survival regulated by sigma factors exemplifies molecular trade-offs underlying pleiotropy."
+        },
+        {
+          "theory_id": "T027429",
+          "subcluster_name": "Protein Synthesis-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Trade-off between regeneration capacity and cancer risk mediated by tissue microenvironment fits molecular antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T004707",
+          "subcluster_name": "Protein Synthesis-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Trade-offs between neurodegeneration and cancer via overlapping biology reflect molecular antagonistic pleiotropy mechanisms."
+        },
+        {
+          "theory_id": "T026022",
+          "subcluster_name": "Protein Synthesis-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Somatic mutation rates inversely correlated with lifespan link molecular damage accumulation to aging, a mechanistic pleiotropy aspect."
+        },
+        {
+          "theory_id": "T005912",
+          "subcluster_name": "Amyloidogenic Protein Evolvability Antagonistic Pleiotropy Theories",
+          "reasoning": "Adiponectin paradox and amyloidogenic evolvability causing Alzheimer's disease exemplify amyloid-related antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005911",
+          "subcluster_name": "Amyloidogenic Protein Evolvability Antagonistic Pleiotropy Theories",
+          "reasoning": "Amyloid-\u03b2 evolvability benefits early life but causes Alzheimer's later, a clear amyloidogenic antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T009745",
+          "subcluster_name": "Amyloidogenic Protein Evolvability Antagonistic Pleiotropy Theories",
+          "reasoning": "\u03b1-Synuclein protofibril evolvability and transgenerational epigenetic transmission illustrate amyloidogenic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T026074",
+          "subcluster_name": "Pathogenic Factor-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Platelet factor 4 dual effects in essential thrombocythemia show pathological antagonistic pleiotropy balancing harm and protection."
+        },
+        {
+          "theory_id": "T023875",
+          "subcluster_name": "Pathogenic Factor-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Exaptation and serendipity framework highlights non-targeted mechanisms and emergent functions influencing aging, fitting pathogenic pleiotropy."
+        },
+        {
+          "theory_id": "T008833",
+          "subcluster_name": "Pathogenic Factor-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Optimized phenotypic trajectories involve biological mechanisms balancing trade-offs and resilience, reflecting systemic pleiotropy."
+        },
+        {
+          "theory_id": "T007062",
+          "subcluster_name": "Pathogenic Factor-Mediated Antagonistic Pleiotropy Theories",
+          "reasoning": "Inborn aging process framing emphasizes intrinsic biological aging risk and cognitive framing effects, linking to systemic pleiotropy."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:58:24"
+}

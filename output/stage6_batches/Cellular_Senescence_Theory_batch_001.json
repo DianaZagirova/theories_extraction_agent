@@ -1,0 +1,186 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Postmitotic Cell Senescence Theory",
+        "theory_ids": [
+          "T000499",
+          "T000164",
+          "T000136",
+          "T000638",
+          "T000075",
+          "T000120",
+          "T000324",
+          "T000040"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "PI3K-AKT-mTOR Signaling-Driven Senescence Theory",
+        "theory_ids": [
+          "T000147",
+          "T000160",
+          "T000178",
+          "T000635"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "DNA Damage and cGAS-STING Pathway Senescence Theory",
+        "theory_ids": [
+          "T000187",
+          "T000363"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+        "theory_ids": [
+          "T000141",
+          "T000664",
+          "T000556",
+          "T000135",
+          "T000615",
+          "T000662",
+          "T000657",
+          "T000359",
+          "T000272",
+          "T000408"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000499",
+          "subcluster_name": "Postmitotic Cell Senescence Theory",
+          "reasoning": "Amitosenescence describes senescence-like states in non-dividing, postmitotic neurons, highlighting senescence mechanisms in terminally differentiated cells distinct from proliferative senescence."
+        },
+        {
+          "theory_id": "T000164",
+          "subcluster_name": "Postmitotic Cell Senescence Theory",
+          "reasoning": "Focuses on senescence in non-dividing brain endothelial and glial cells contributing to neurovascular aging, fitting the postmitotic senescence theme."
+        },
+        {
+          "theory_id": "T000136",
+          "subcluster_name": "Postmitotic Cell Senescence Theory",
+          "reasoning": "Describes senescence accumulation in CNS glial cells (postmitotic) driving Alzheimer's disease pathology, consistent with senescence in non-dividing cells."
+        },
+        {
+          "theory_id": "T000638",
+          "subcluster_name": "Postmitotic Cell Senescence Theory",
+          "reasoning": "Describes senescence in reproductive tissues including non-dividing cells with dual roles, fitting senescence in differentiated, non-proliferative cells."
+        },
+        {
+          "theory_id": "T000075",
+          "subcluster_name": "Postmitotic Cell Senescence Theory",
+          "reasoning": "Focuses on senescence in vascular cells (endothelial and smooth muscle), many of which are long-lived and low proliferative, fitting postmitotic or low proliferation senescence."
+        },
+        {
+          "theory_id": "T000120",
+          "subcluster_name": "Postmitotic Cell Senescence Theory",
+          "reasoning": "Describes senescence induced by cancer therapies in various cell types including non-dividing cells, emphasizing senescence beyond proliferative arrest."
+        },
+        {
+          "theory_id": "T000324",
+          "subcluster_name": "Postmitotic Cell Senescence Theory",
+          "reasoning": "Highlights senescence as a developmental and aging process including non-proliferative cells, supporting the broader postmitotic senescence concept."
+        },
+        {
+          "theory_id": "T000040",
+          "subcluster_name": "Postmitotic Cell Senescence Theory",
+          "reasoning": "Describes senescence arising from deep quiescence without proliferation, relevant to non-dividing or slowly dividing cells transitioning to senescence."
+        },
+        {
+          "theory_id": "T000147",
+          "subcluster_name": "PI3K-AKT-mTOR Signaling-Driven Senescence Theory",
+          "reasoning": "Focuses on cellular senescence driven by PI3K-AKT-mTOR pathway modulated by microRNA-449a, emphasizing growth signaling pathways in senescence induction."
+        },
+        {
+          "theory_id": "T000160",
+          "subcluster_name": "PI3K-AKT-mTOR Signaling-Driven Senescence Theory",
+          "reasoning": "Links senescence and SASP to COVID-19 severity with involvement of mTOR inhibitors, connecting senescence to PI3K-AKT-mTOR signaling and inflammation."
+        },
+        {
+          "theory_id": "T000178",
+          "subcluster_name": "PI3K-AKT-mTOR Signaling-Driven Senescence Theory",
+          "reasoning": "PAI-1 mediates senescence via ROS and signaling pathways including IGFBP3 and GSK3\u03b2, intersecting with growth and stress signaling pathways related to mTOR axis."
+        },
+        {
+          "theory_id": "T000635",
+          "subcluster_name": "PI3K-AKT-mTOR Signaling-Driven Senescence Theory",
+          "reasoning": "Describes autophagy decline leading to mitochondrial ROS and oxidative stress, which are upstream of mTOR signaling and senescence induction."
+        },
+        {
+          "theory_id": "T000187",
+          "subcluster_name": "DNA Damage and cGAS-STING Pathway Senescence Theory",
+          "reasoning": "Focuses on DNA damage-induced cytoplasmic DNA activating cGAS-STING innate immune pathway to induce senescence and SASP, a distinct DNA damage-driven mechanism."
+        },
+        {
+          "theory_id": "T000363",
+          "subcluster_name": "DNA Damage and cGAS-STING Pathway Senescence Theory",
+          "reasoning": "Describes stress-induced premature senescence triggered by DNA damage independent of telomere shortening, emphasizing DNA damage as primary senescence driver."
+        },
+        {
+          "theory_id": "T000141",
+          "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+          "reasoning": "Focuses on p16Ink4a-Rb pathway as a key driver of senescence and aging, highlighting cell cycle regulatory mechanisms central to senescence."
+        },
+        {
+          "theory_id": "T000664",
+          "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+          "reasoning": "Describes cell cycle arrest mediated by p53/p21 and p16INK4a/pRB pathways and SASP, emphasizing canonical tumor suppressor pathways in senescence."
+        },
+        {
+          "theory_id": "T000556",
+          "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+          "reasoning": "Describes finite proliferative capacity and dominant growth arrest involving transcriptional repression, consistent with p16Ink4a-Rb mediated senescence."
+        },
+        {
+          "theory_id": "T000135",
+          "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+          "reasoning": "Highlights programmed senescence involving telomere shortening, oncogene activation, and DNA damage with SASP, consistent with p16Ink4a-Rb and p53 pathways."
+        },
+        {
+          "theory_id": "T000615",
+          "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+          "reasoning": "Describes accumulation of senescent cells with p16Ink4a positivity and benefits of senolytic removal, emphasizing canonical senescence pathways."
+        },
+        {
+          "theory_id": "T000662",
+          "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+          "reasoning": "Focuses on senescent cell accumulation, SASP, and senolytic interventions, consistent with p16Ink4a-Rb pathway-driven senescence."
+        },
+        {
+          "theory_id": "T000657",
+          "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+          "reasoning": "Models replicative senescence limiting proliferation and cancer via p16Ink4a-Rb pathway, highlighting trade-offs between senescence, cancer, and longevity."
+        },
+        {
+          "theory_id": "T000359",
+          "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+          "reasoning": "Describes senescence as tumor suppressive via growth arrest and SASP, involving immune clearance, consistent with canonical p16Ink4a-Rb senescence mechanisms."
+        },
+        {
+          "theory_id": "T000272",
+          "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+          "reasoning": "Focuses on senescence as tumor suppressive mechanism with SASP and accumulation with age, fitting canonical p16Ink4a-Rb pathway senescence."
+        },
+        {
+          "theory_id": "T000408",
+          "subcluster_name": "p16Ink4a-Rb Pathway Senescence Theory",
+          "reasoning": "Describes heterogeneity of senescence subtypes in fibroblasts with distinct markers and age correlations, within the framework of canonical senescence pathways."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 07:57:28"
+}

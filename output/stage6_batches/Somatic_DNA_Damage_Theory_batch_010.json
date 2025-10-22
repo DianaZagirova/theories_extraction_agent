@@ -1,0 +1,229 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 10,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+        "theory_ids": [
+          "T011538",
+          "T011991",
+          "T009720",
+          "T011925",
+          "T009614",
+          "T011770",
+          "T010946",
+          "T010647",
+          "T010713",
+          "T010446",
+          "T009707",
+          "T011377",
+          "T011550"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Oxidative DNA Damage and Repair Deficiency Theory",
+        "theory_ids": [
+          "T012183",
+          "T011865",
+          "T009723",
+          "T011376"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Evolutionary Declining Selection Pressure Theory",
+        "theory_ids": [
+          "T009505",
+          "T008376"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011538",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on nuclear genomic instability, DNA damage response, cellular senescence, and stem cell exhaustion due to DNA damage accumulation and repair defects."
+        },
+        {
+          "theory_id": "T012183",
+          "subcluster_name": "Oxidative DNA Damage and Repair Deficiency Theory",
+          "reasoning": "Centers on oxidative DNA lesions accumulation, impaired repair of oxidative damage, and their causal role in aging phenotypes."
+        },
+        {
+          "theory_id": "T011991",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes DNA damage accumulation and repair defects in hematopoietic stem cells leading to functional decline and aging."
+        },
+        {
+          "theory_id": "T009720",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Emphasizes somatic mutation accumulation due to nucleotide excision repair deficiency causing genome instability and aging."
+        },
+        {
+          "theory_id": "T011925",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of DNA damage including oxidative lesions, decline of DNA repair pathways, and genomic instability driving aging."
+        },
+        {
+          "theory_id": "T011554",
+          "subcluster_name": "Mitochondrial Stress-Independent Longevity Regulation Theory",
+          "reasoning": "Distinct from DNA damage, this theory involves DVE-1 mediated longevity regulation independent of mitochondrial unfolded protein response."
+        },
+        {
+          "theory_id": "T011356",
+          "subcluster_name": "Broad Molecular Damage Accumulation Theory",
+          "reasoning": "Covers accumulation of diverse molecular damages including DNA, proteins, lipids, and carbohydrates leading to aging."
+        },
+        {
+          "theory_id": "T009614",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Highlights DNA damage accumulation from endogenous and exogenous sources including chemotherapy accelerating aging."
+        },
+        {
+          "theory_id": "T011770",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on genome instability, mutation and epimutation accumulation, and stem cell genome instability driving aging and cancer."
+        },
+        {
+          "theory_id": "T012193",
+          "subcluster_name": "Neural Network Functional Decline Theory",
+          "reasoning": "Focuses on aging-related changes in brain functional connectivity and default mode network, distinct from DNA damage mechanisms."
+        },
+        {
+          "theory_id": "T011551",
+          "subcluster_name": "rDNA Instability-Driven Somatic DNA Damage Theory",
+          "reasoning": "Emphasizes genomic instability specifically at ribosomal DNA repeats as a primary driver of aging."
+        },
+        {
+          "theory_id": "T010946",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Details role of WRN helicase in DNA repair pathway choice and genome stability affecting aging."
+        },
+        {
+          "theory_id": "T010647",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "General theory of DNA damage accumulation causing genome instability, DDR activation, and aging phenotypes."
+        },
+        {
+          "theory_id": "T009959",
+          "subcluster_name": "DNA Topoisomerase Regulation and Epigenetic Reprogramming Theory",
+          "reasoning": "Focuses on postdevelopmental downregulation of Top2/TOP2B affecting DNA topology and epigenetic landscape to extend lifespan."
+        },
+        {
+          "theory_id": "T009817",
+          "subcluster_name": "Damage Accumulation and Repair Intervention Theory (SENS)",
+          "reasoning": "Conceptualizes aging as accumulated molecular damage treatable by engineered repair interventions."
+        },
+        {
+          "theory_id": "T010713",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes DNA damage accumulation and impaired repair in plasma cells contributing to aging and multiple myeloma."
+        },
+        {
+          "theory_id": "T011865",
+          "subcluster_name": "Oxidative DNA Damage and Repair Deficiency Theory",
+          "reasoning": "Focuses on oxidative DNA damage accumulation, tissue-specific effects, and causal role in aging."
+        },
+        {
+          "theory_id": "T010446",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Highlights replication stress response, RECQ helicases, and genome homeostasis as central to aging."
+        },
+        {
+          "theory_id": "T009707",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Discusses DNA damage accumulation, NER defects, and mutation spectrum changes in aging."
+        },
+        {
+          "theory_id": "T009505",
+          "subcluster_name": "Evolutionary Declining Selection Pressure Theory",
+          "reasoning": "An evolutionary theory explaining aging via declining natural selection pressure with age, distinct from molecular damage."
+        },
+        {
+          "theory_id": "T011377",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on DNA repair decline, especially base excision repair, and its link to neurodegenerative diseases and aging."
+        },
+        {
+          "theory_id": "T011550",
+          "subcluster_name": "Nuclear Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "General DNA damage accumulation theory emphasizing multiple DNA repair pathways and stem cell depletion."
+        },
+        {
+          "theory_id": "T010918",
+          "subcluster_name": "DNA Alkylation-Induced Damage Theory",
+          "reasoning": "Focuses specifically on DNA alkylation damage causing permanent senescence and aging."
+        },
+        {
+          "theory_id": "T009723",
+          "subcluster_name": "Oxidative DNA Damage and Repair Deficiency Theory",
+          "reasoning": "Emphasizes oxidative DNA damage accumulation and critical role of base excision repair in longevity."
+        },
+        {
+          "theory_id": "T011376",
+          "subcluster_name": "Oxidative DNA Damage and Repair Deficiency Theory",
+          "reasoning": "Focuses on BER deficiency causing oxidative DNA damage accumulation and neurodegeneration."
+        },
+        {
+          "theory_id": "T007536",
+          "subcluster_name": "Tissue-Specific Cellular Senescence and Stem Cell Exhaustion Theory",
+          "reasoning": "Describes decidual tissue aging via cellular senescence and stem cell exhaustion driving parturition, distinct from DNA damage."
+        },
+        {
+          "theory_id": "T008606",
+          "subcluster_name": "DNA Damage-Induced Transcriptional Decline Theory",
+          "reasoning": "Focuses on transcription-blocking DNA lesions causing gene length-dependent transcriptional shutdown during aging."
+        },
+        {
+          "theory_id": "T008376",
+          "subcluster_name": "Evolutionary Declining Selection Pressure Theory",
+          "reasoning": "Explains aging as accumulation of late-acting deleterious mutations due to declining force of natural selection."
+        },
+        {
+          "theory_id": "T009399",
+          "subcluster_name": "DNA Damage Repair-Associated Epigenetic Drift Theory",
+          "reasoning": "Links DNA damage repair to chromatin remodeling and stable age-related promoter DNA hypermethylation causing epigenetic drift."
+        },
+        {
+          "theory_id": "T009442",
+          "subcluster_name": "Defective Protein Genetic Programming Theory",
+          "reasoning": "Proposes aging results from defects in genetically programmed proteins regulating aging processes."
+        },
+        {
+          "theory_id": "T009036",
+          "subcluster_name": "DNA Damage Accumulation and Cellular Senescence Threshold Theory",
+          "reasoning": "Mathematical model describing gene damage accumulation leading to loss of cell division and cell death thresholds."
+        },
+        {
+          "theory_id": "T008203",
+          "subcluster_name": "DNA Polymerase Alpha Dysfunction and Replication Initiation Theory",
+          "reasoning": "Focuses on age-related decline in DNA polymerase alpha activity impairing DNA replication initiation and causing senescence."
+        },
+        {
+          "theory_id": "T007027",
+          "subcluster_name": "DNA Synthesis Initiation (DSI) Depletion Programmed Aging Theory",
+          "reasoning": "Proposes programmed aging via finite number of DNA synthesis initiation loci acting as a molecular clock for senescence."
+        },
+        {
+          "theory_id": "T008018",
+          "subcluster_name": "Oxidative Stress Signaling Decline Theory",
+          "reasoning": "Describes aging-related decline in ERK and Akt kinase activation reducing oxidative stress tolerance and cell survival."
+        },
+        {
+          "theory_id": "T006496",
+          "subcluster_name": "DNA Damage-Induced Transcription Stress and Metabolic Remodeling Theory",
+          "reasoning": "Describes how DNA damage-induced transcription arrest leads to ATP surplus, glycolysis inhibition, and antioxidant pathway activation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:43:22"
+}

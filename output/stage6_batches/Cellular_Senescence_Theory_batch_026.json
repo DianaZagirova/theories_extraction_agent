@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 26,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T020078",
+          "T020047",
+          "T020195",
+          "T020089",
+          "T019986",
+          "T020034",
+          "T020142",
+          "T019961",
+          "T020165",
+          "T020206",
+          "T019919",
+          "T019962",
+          "T020185"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Tumor Suppression and Cell Cycle Arrest-Centric Cellular Senescence Theory",
+        "theory_ids": [
+          "T020077",
+          "T020095",
+          "T019940",
+          "T019904",
+          "T020043"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Replicative Senescence and Telomere Attrition Cellular Senescence Theory",
+        "theory_ids": [
+          "T019822",
+          "T019908"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Senescent Cell Heterogeneity Theory",
+        "theory_ids": [
+          "T020153",
+          "T020098",
+          "T020002",
+          "T020054"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020078",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "This theory emphasizes oxidative stress, chronic inflammation, and protease imbalance driving cellular senescence in COPD lung aging."
+        },
+        {
+          "theory_id": "T020047",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Placental aging driven by ROS, DNA damage, and SASP-mediated inflammation fits oxidative stress and inflammatory senescence mechanisms."
+        },
+        {
+          "theory_id": "T020195",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Osteoblast dysfunction caused by ROS, DNA damage, and telomere shortening aligns with oxidative stress and inflammation-induced senescence."
+        },
+        {
+          "theory_id": "T020089",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Suppression of canonical inflammatory SASP in Spalax highlights modulation of oxidative stress and inflammatory pathways in senescence."
+        },
+        {
+          "theory_id": "T019986",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Nox4-driven ROS production and bioenergetic dysfunction causing senescence links to oxidative stress and inflammation mechanisms."
+        },
+        {
+          "theory_id": "T020034",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Neurodegenerative disease linked to senescence-associated inflammation, mitochondrial dysfunction, and SASP fits this oxidative stress/inflammation cluster."
+        },
+        {
+          "theory_id": "T020142",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Immunosenescence driven by SASP and chronic inflammation aligns with oxidative stress and inflammatory senescence mechanisms."
+        },
+        {
+          "theory_id": "T019961",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Vascular senescence caused by oxidative stress, DNA damage, and SASP-driven inflammation fits this cluster."
+        },
+        {
+          "theory_id": "T020165",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "General overview of senescence pathways emphasizing SASP, inflammation, and immune clearance decline fits oxidative stress/inflammation."
+        },
+        {
+          "theory_id": "T020206",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Bone aging driven by SASP, inflammation, and signaling pathways affecting osteogenesis fits oxidative stress and inflammation mechanisms."
+        },
+        {
+          "theory_id": "T019919",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Vascular aging via senescence, SASP, and inflammation aligns with oxidative stress and inflammatory senescence."
+        },
+        {
+          "theory_id": "T020077",
+          "subcluster_name": "Tumor Suppression and Cell Cycle Arrest-Centric Cellular Senescence Theory",
+          "reasoning": "Focus on senescence as a tumor suppressor mechanism and irreversible cell cycle arrest fits this tumor suppression and cell cycle arrest cluster."
+        },
+        {
+          "theory_id": "T020095",
+          "subcluster_name": "Tumor Suppression and Cell Cycle Arrest-Centric Cellular Senescence Theory",
+          "reasoning": "p63 regulation of senescence and aging via cell cycle arrest and tumor suppressor pathways fits tumor suppression and cell cycle arrest."
+        },
+        {
+          "theory_id": "T019940",
+          "subcluster_name": "Tumor Suppression and Cell Cycle Arrest-Centric Cellular Senescence Theory",
+          "reasoning": "p53 hyperactivity causing premature aging via cell cycle arrest and tumor suppression fits this cluster."
+        },
+        {
+          "theory_id": "T019904",
+          "subcluster_name": "Tumor Suppression and Cell Cycle Arrest-Centric Cellular Senescence Theory",
+          "reasoning": "p16INK4a-mediated senescence causing cell cycle arrest and regenerative decline fits tumor suppressor and cell cycle arrest mechanisms."
+        },
+        {
+          "theory_id": "T019822",
+          "subcluster_name": "Replicative Senescence and Telomere Attrition Cellular Senescence Theory",
+          "reasoning": "Replicative senescence in CD8+ T cells driven by telomere shortening fits replicative senescence and telomere attrition cluster."
+        },
+        {
+          "theory_id": "T019908",
+          "subcluster_name": "Replicative Senescence and Telomere Attrition Cellular Senescence Theory",
+          "reasoning": "Replicative senescence of T cells due to telomere shortening and Hayflick limit fits replicative senescence cluster."
+        },
+        {
+          "theory_id": "T020153",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Senescent Cell Heterogeneity Theory",
+          "reasoning": "Focus on SASP, senescent cell heterogeneity, and dual roles in physiology and pathology fits SASP and senescent cell heterogeneity cluster."
+        },
+        {
+          "theory_id": "T020098",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Senescent Cell Heterogeneity Theory",
+          "reasoning": "Metabolic features and regulation in senescence including SASP and metabolic switches fits SASP and senescent cell heterogeneity cluster."
+        },
+        {
+          "theory_id": "T020002",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Senescent Cell Heterogeneity Theory",
+          "reasoning": "Senescent cell immunoevasion via SASP factors and MMP-mediated ligand shedding fits SASP and senescent cell heterogeneity cluster."
+        },
+        {
+          "theory_id": "T020008",
+          "subcluster_name": "Chromatin Remodeling and Nuclear Architecture-Driven Cellular Senescence Theory",
+          "reasoning": "Lamin B1 depletion causing chromatin reconfiguration and gene expression changes driving senescence fits chromatin remodeling cluster."
+        },
+        {
+          "theory_id": "T020009",
+          "subcluster_name": "DNA Damage Response (DDR)-Induced Neuronal Senescence Theory",
+          "reasoning": "DDR activation in neurons leading to senescence-like state and neuroinflammation fits DDR-induced neuronal senescence cluster."
+        },
+        {
+          "theory_id": "T020054",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Senescent Cell Heterogeneity Theory",
+          "reasoning": "Senescence in Alzheimer's disease driven by SASP and accumulation of senescent brain cells fits SASP and senescent cell heterogeneity cluster."
+        },
+        {
+          "theory_id": "T020043",
+          "subcluster_name": "Tumor Suppression and Cell Cycle Arrest-Centric Cellular Senescence Theory",
+          "reasoning": "Balance of aging and cancer via DDR and tumor suppressor pathways fits tumor suppression and cell cycle arrest cluster."
+        },
+        {
+          "theory_id": "T019962",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Vascular calcification driven by senescence, SASP, DNA damage, and lamin A processing fits oxidative stress and inflammation cluster."
+        },
+        {
+          "theory_id": "T020185",
+          "subcluster_name": "Oxidative Stress and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Decline of autophagy leading to accumulation of damaged organelles and oxidative stress in cardiac aging fits oxidative stress and inflammation cluster."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:17:20"
+}

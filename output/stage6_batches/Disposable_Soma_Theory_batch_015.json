@@ -1,0 +1,213 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 15,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+        "theory_ids": [
+          "T011253",
+          "T011564",
+          "T011455",
+          "T011795",
+          "T011828",
+          "T011209",
+          "T011309",
+          "T011174",
+          "T011587",
+          "T011819",
+          "T011200",
+          "T011215",
+          "T011685",
+          "T011419",
+          "T011597",
+          "T011559",
+          "T011362",
+          "T011553",
+          "T011578",
+          "T011173",
+          "T010843",
+          "T011146",
+          "T008942"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 23
+      },
+      {
+        "subcluster_name": "Germline-Soma Proteostasis Disposable Soma Theory",
+        "theory_ids": [
+          "T011509",
+          "T010891"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011253",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation trade-offs between reproduction and somatic maintenance in a group selection context, emphasizing facultative aging regulation linked to reproduction."
+        },
+        {
+          "theory_id": "T011564",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes trade-offs between reproductive strategies and somatic maintenance, with stem cell depletion causing aging, linking reproduction directly to aging."
+        },
+        {
+          "theory_id": "T011824",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Focuses on reproductive hormones and cell cycle dysregulation driving aging, highlighting endocrine signaling as a mechanistic link between reproduction and senescence."
+        },
+        {
+          "theory_id": "T011455",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Emphasizes resource allocation trade-offs between germline and soma, with reproduction prioritized over somatic maintenance causing aging."
+        },
+        {
+          "theory_id": "T011795",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes trade-offs between growth/reproduction and maintenance affecting lifespan, consistent with disposable soma resource allocation principles."
+        },
+        {
+          "theory_id": "T011828",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on energy allocation trade-offs between reproduction and somatic maintenance, explaining aging as a consequence of prioritizing reproduction."
+        },
+        {
+          "theory_id": "T011209",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Explores resource reallocation under dietary restriction, showing trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T011309",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes evolutionary trade-offs between somatic maintenance and reproduction leading to senescence."
+        },
+        {
+          "theory_id": "T011174",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on reproductive effort trade-offs influencing maternal senescence, linking reproduction costs to aging."
+        },
+        {
+          "theory_id": "T011587",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes somatic maintenance vs reproduction trade-offs shaped by extrinsic mortality, with damage accumulation causing aging."
+        },
+        {
+          "theory_id": "T011819",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Highlights trade-offs between reproduction and longevity due to limited resource allocation."
+        },
+        {
+          "theory_id": "T011200",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation trade-offs modulated by diet affecting reproduction and longevity."
+        },
+        {
+          "theory_id": "T011215",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Explores early-life resource allocation trade-offs affecting senescence and aging patterns."
+        },
+        {
+          "theory_id": "T011619",
+          "subcluster_name": "Molecular Maintenance and DNA Repair Disposable Soma Theory",
+          "reasoning": "Focuses on metabolic energy allocation to molecular maintenance like DNA repair, linking repair investment to lifespan."
+        },
+        {
+          "theory_id": "T011685",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes reproductive trade-offs reducing somatic maintenance, causing aging, with socioeconomic modulation."
+        },
+        {
+          "theory_id": "T011419",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation trade-offs between somatic maintenance and reproduction shaping aging."
+        },
+        {
+          "theory_id": "T011597",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes resource allocation trade-offs prioritizing reproduction over maintenance, causing aging."
+        },
+        {
+          "theory_id": "T011559",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on energy allocation trade-offs between reproduction and somatic maintenance leading to damage accumulation and aging."
+        },
+        {
+          "theory_id": "T011362",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes energy allocation trade-offs where increased maintenance reduces growth and reproduction, extending lifespan."
+        },
+        {
+          "theory_id": "T011553",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on optimal resource allocation among growth, reproduction, and somatic repair shaping aging and life history."
+        },
+        {
+          "theory_id": "T011578",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes somatic maintenance trade-offs fueled by energy availability, linking metabolic regulation to lifespan."
+        },
+        {
+          "theory_id": "T011173",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation trade-offs between reproduction and somatic maintenance causing aging."
+        },
+        {
+          "theory_id": "T011509",
+          "subcluster_name": "Germline-Soma Proteostasis Disposable Soma Theory",
+          "reasoning": "Emphasizes differential proteostasis maintenance favoring germline over soma, explaining aging as somatic decline."
+        },
+        {
+          "theory_id": "T010891",
+          "subcluster_name": "Germline-Soma Proteostasis Disposable Soma Theory",
+          "reasoning": "Focuses on enhanced genetic integrity maintenance in germ and pluripotent cells compared to soma, linking to aging."
+        },
+        {
+          "theory_id": "T010843",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes resource allocation trade-offs shaped by extrinsic mortality, consistent with disposable soma principles."
+        },
+        {
+          "theory_id": "T011146",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes intrinsic survival advantage of reproductive social insect queens, linking reproduction and longevity."
+        },
+        {
+          "theory_id": "T010016",
+          "subcluster_name": "Mortality Risk-Optimized Somatic Maintenance Disposable Soma Theory",
+          "reasoning": "Proposes somatic maintenance investment tuned to environmental mortality risk, leading to restrained maintenance and aging."
+        },
+        {
+          "theory_id": "T009425",
+          "subcluster_name": "Resource Acquisition-Allocation Genetic Variation Disposable Soma Theory",
+          "reasoning": "Focuses on genetic variation in resource acquisition driving plasticity in allocation to reproduction and maintenance."
+        },
+        {
+          "theory_id": "T007825",
+          "subcluster_name": "Ontogenesis-Driven Resource Redistribution Disposable Soma Theory",
+          "reasoning": "Describes aging as a side effect of ontogenetic resource shift from housekeeping to integrative genes reducing repair."
+        },
+        {
+          "theory_id": "T007962",
+          "subcluster_name": "Reproductive System Aging Biomarker Disposable Soma Theory",
+          "reasoning": "Focuses on reproductive aging as a biomarker of organismal aging, linking reproductive decline to systemic aging."
+        },
+        {
+          "theory_id": "T007498",
+          "subcluster_name": "Cognitive Resource Depletion Aging Theory",
+          "reasoning": "Describes aging-related decline in cognitive vigilance due to depletion of limited attentional resources."
+        },
+        {
+          "theory_id": "T008942",
+          "subcluster_name": "Reproduction-Driven Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation trade-offs between asexual reproduction and maintenance in hydra, linking reproduction to aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:05:33"
+}

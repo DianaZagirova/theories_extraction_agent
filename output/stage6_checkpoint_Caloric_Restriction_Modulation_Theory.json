@@ -1,0 +1,509 @@
+{
+  "cluster_name": "Caloric Restriction Modulation Theory",
+  "batches_completed": 3,
+  "batch_results": [
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theory",
+          "theory_ids": [
+            "T001846",
+            "T014591",
+            "T014610",
+            "T001048",
+            "T001818",
+            "T000720",
+            "T013466",
+            "T002634"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "Cellular Stress and Senescence Suppression CR Theory",
+          "theory_ids": [
+            "T003449",
+            "T000998",
+            "T011295",
+            "T006946",
+            "T000549"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 5
+        },
+        {
+          "subcluster_name": "Stem Cell and Niche Modulation CR Theory",
+          "theory_ids": [
+            "T007727",
+            "T014620"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 2
+        },
+        {
+          "subcluster_name": "Hormesis and Cellular Subpopulation Selection CR Theory",
+          "theory_ids": [
+            "T008185",
+            "T014541",
+            "T008295"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T001846",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theory",
+            "reasoning": "Focuses on CR modulation of gene expression networks, anti-oxidant and anti-inflammatory gene pathways, and epigenetic regulation impacting aging."
+          },
+          {
+            "theory_id": "T014591",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theory",
+            "reasoning": "Emphasizes CR prevention of age-associated DNA methylation changes and epigenetic remodeling in the brain."
+          },
+          {
+            "theory_id": "T014610",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theory",
+            "reasoning": "Highlights CR regulation of non-coding RNAs and chromatin stability affecting genome integrity and aging."
+          },
+          {
+            "theory_id": "T001048",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theory",
+            "reasoning": "Describes CR feminization of gene expression and modulation of conserved aging pathways including sirtuins and TOR."
+          },
+          {
+            "theory_id": "T001818",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theory",
+            "reasoning": "Details systemic CR effects on gene expression and physiological systems influencing aging and healthspan."
+          },
+          {
+            "theory_id": "T000720",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theory",
+            "reasoning": "Focuses on CR-induced metabolic reprogramming and gene expression changes in adipose tissue linked to longevity."
+          },
+          {
+            "theory_id": "T013466",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theory",
+            "reasoning": "Describes CR metabolic and hormonal modulation including mitochondrial efficiency and gene expression changes."
+          },
+          {
+            "theory_id": "T002634",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theory",
+            "reasoning": "Explains CR remodeling of cellular quiescence program and gene expression changes affecting yeast chronological aging."
+          },
+          {
+            "theory_id": "T003449",
+            "subcluster_name": "Cellular Stress and Senescence Suppression CR Theory",
+            "reasoning": "Focuses on CR reducing cellular stress responses, suppressing senescence, and preserving brain cell populations."
+          },
+          {
+            "theory_id": "T000998",
+            "subcluster_name": "Cellular Stress and Senescence Suppression CR Theory",
+            "reasoning": "Highlights CR induction of autophagy, reduction of oxidative stress, and neuroprotection in Alzheimer's disease."
+          },
+          {
+            "theory_id": "T011295",
+            "subcluster_name": "Cellular Stress and Senescence Suppression CR Theory",
+            "reasoning": "Describes CR hormesis mechanisms enhancing cellular stress resistance and reducing oxidative and inflammatory damage."
+          },
+          {
+            "theory_id": "T006946",
+            "subcluster_name": "Cellular Stress and Senescence Suppression CR Theory",
+            "reasoning": "Details CR reduction of oxidative stress, inflammation, and cancer risk via modulation of cellular stress pathways."
+          },
+          {
+            "theory_id": "T000549",
+            "subcluster_name": "Cellular Stress and Senescence Suppression CR Theory",
+            "reasoning": "Focuses on CR-induced reduction of thyroid hormone T3 lowering metabolic rate and oxidative stress to slow aging."
+          },
+          {
+            "theory_id": "T014152",
+            "subcluster_name": "Nutrient-Sensing and Metabolic Pathways CR Theory",
+            "reasoning": "Emphasizes CR modulation of nutrient and energy sensing pathways (mTOR, AMPK, sirtuins, IGF-1) affecting metabolism and aging."
+          },
+          {
+            "theory_id": "T007727",
+            "subcluster_name": "Stem Cell and Niche Modulation CR Theory",
+            "reasoning": "Focuses on CR preservation of stem cell function via niche regulation, mTOR signaling, and autophagy induction."
+          },
+          {
+            "theory_id": "T014620",
+            "subcluster_name": "Stem Cell and Niche Modulation CR Theory",
+            "reasoning": "Describes CR effects on stem cell aging through niche interactions and energy metabolism reduction to preserve function."
+          },
+          {
+            "theory_id": "T008185",
+            "subcluster_name": "Hormesis and Cellular Subpopulation Selection CR Theory",
+            "reasoning": "Focuses on CR as a co-hormetic agent enhancing cellular stress resistance and selective preservation of proliferative cell subpopulations."
+          },
+          {
+            "theory_id": "T014541",
+            "subcluster_name": "Hormesis and Cellular Subpopulation Selection CR Theory",
+            "reasoning": "Describes CR as an active hormetic stress response activating protective pathways and metabolic regulators to promote longevity."
+          },
+          {
+            "theory_id": "T008295",
+            "subcluster_name": "Hormesis and Cellular Subpopulation Selection CR Theory",
+            "reasoning": "Discusses dietary restriction extending lifespan via hormesis-like mechanisms with genetic background modulating effects."
+          },
+          {
+            "theory_id": "T002435",
+            "subcluster_name": "Circadian Clock and Metabolic Optimization CR Theory",
+            "reasoning": "Focuses on CR reprogramming circadian clock gene expression to optimize metabolism and physiological homeostasis."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Metabolic Reprogramming and Energy Substrate Shift CR Theories",
+          "theory_ids": [
+            "T016242",
+            "T017351",
+            "T015166",
+            "T014811",
+            "T014826",
+            "T014907",
+            "T015052",
+            "T015136"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "Neuroendocrine and Brain Nutrient Sensing CR Theories",
+          "theory_ids": [
+            "T014655",
+            "T014973",
+            "T015247",
+            "T002435",
+            "T014752"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 5
+        },
+        {
+          "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theories",
+          "theory_ids": [
+            "T014828",
+            "T014917",
+            "T015169",
+            "T000888",
+            "T014152"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 5
+        },
+        {
+          "subcluster_name": "Hormesis and Stress Response CR Theories",
+          "theory_ids": [
+            "T015238",
+            "T015273",
+            "T015292",
+            "T015113",
+            "T015553",
+            "T016849"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 6
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T016242",
+            "subcluster_name": "Metabolic Reprogramming and Energy Substrate Shift CR Theories",
+            "reasoning": "Focuses on CR-induced metabolic shifts, especially brain metabolism switching from glucose to ketone bodies and mitochondrial preservation."
+          },
+          {
+            "theory_id": "T017351",
+            "subcluster_name": "Metabolic Reprogramming and Energy Substrate Shift CR Theories",
+            "reasoning": "Describes metabolic adaptation including reduced metabolic rate and oxidative damage reduction under CR."
+          },
+          {
+            "theory_id": "T015166",
+            "subcluster_name": "Metabolic Reprogramming and Energy Substrate Shift CR Theories",
+            "reasoning": "Details lifelong CR-induced hepatic fat metabolism reprogramming involving lipolysis, ketogenesis, and FGF21 regulation."
+          },
+          {
+            "theory_id": "T014811",
+            "subcluster_name": "Metabolic Reprogramming and Energy Substrate Shift CR Theories",
+            "reasoning": "Emphasizes CR-induced metabolic shift toward increased protein turnover and reduced macromolecular damage."
+          },
+          {
+            "theory_id": "T014826",
+            "subcluster_name": "Metabolic Reprogramming and Energy Substrate Shift CR Theories",
+            "reasoning": "Focuses on metabolic shift and gene expression changes reducing macromolecular damage and stress response."
+          },
+          {
+            "theory_id": "T014907",
+            "subcluster_name": "Metabolic Reprogramming and Energy Substrate Shift CR Theories",
+            "reasoning": "Describes CR-induced release of aerobic metabolism repression in yeast, increasing respiration and reducing ROS."
+          },
+          {
+            "theory_id": "T015052",
+            "subcluster_name": "Metabolic Reprogramming and Energy Substrate Shift CR Theories",
+            "reasoning": "Focuses on CR-induced hypometabolic state, reduced mitochondrial proton leak, and decreased ROS production."
+          },
+          {
+            "theory_id": "T015136",
+            "subcluster_name": "Metabolic Reprogramming and Energy Substrate Shift CR Theories",
+            "reasoning": "Explains CR effects on yeast aging via metabolic and biochemical changes linked to quiescence and differentiation."
+          },
+          {
+            "theory_id": "T014655",
+            "subcluster_name": "Neuroendocrine and Brain Nutrient Sensing CR Theories",
+            "reasoning": "Focuses on CR effects on brain nutrient sensing pathways (AMPK, mTOR, Sirt1), neurogenesis, and systemic aging regulation."
+          },
+          {
+            "theory_id": "T014973",
+            "subcluster_name": "Neuroendocrine and Brain Nutrient Sensing CR Theories",
+            "reasoning": "Describes CR preservation of somatotropic axis via protection of GHRH receptor binding sites, affecting GH/IGF-1 signaling."
+          },
+          {
+            "theory_id": "T015247",
+            "subcluster_name": "Neuroendocrine and Brain Nutrient Sensing CR Theories",
+            "reasoning": "Details CR modulation of hypothalamic hunger and circadian signaling pathways integrating hormonal and behavioral longevity effects."
+          },
+          {
+            "theory_id": "T002435",
+            "subcluster_name": "Neuroendocrine and Brain Nutrient Sensing CR Theories",
+            "reasoning": "Focuses on CR regulation of circadian clock gene expression via BMAL1-dependent and independent mechanisms optimizing metabolism."
+          },
+          {
+            "theory_id": "T014752",
+            "subcluster_name": "Neuroendocrine and Brain Nutrient Sensing CR Theories",
+            "reasoning": "Describes CR protection of neural stem cells from age-related decline via anti-inflammatory and anti-senescence effects."
+          },
+          {
+            "theory_id": "T014828",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theories",
+            "reasoning": "Focuses on CR modulation of genome-wide gene expression changes with aging, slowing transcriptional aging signatures."
+          },
+          {
+            "theory_id": "T014917",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theories",
+            "reasoning": "Details CR effects on gene expression related to stress response, mitochondrial biogenesis, circadian regulation, and longevity pathways."
+          },
+          {
+            "theory_id": "T015169",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theories",
+            "reasoning": "Describes CR-induced epigenetic modifications including DNA methylation changes that modulate aging-related gene regulation."
+          },
+          {
+            "theory_id": "T000888",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theories",
+            "reasoning": "Focuses on DR effects on conserved nutrient-responsive pathways and genotype-dependent variability in aging modulation."
+          },
+          {
+            "theory_id": "T014152",
+            "subcluster_name": "Gene Expression and Epigenetic Regulation CR Theories",
+            "reasoning": "Describes CR modulation of nutrient and energy sensing pathways (mTOR, Sirt1, AMPK, IIS) affecting metabolism and longevity."
+          },
+          {
+            "theory_id": "T015238",
+            "subcluster_name": "Hormesis and Stress Response CR Theories",
+            "reasoning": "Describes CR-induced hormesis involving metabolic shifts, sirtuin activation, and reduction of glycation damage."
+          },
+          {
+            "theory_id": "T015273",
+            "subcluster_name": "Hormesis and Stress Response CR Theories",
+            "reasoning": "Focuses on hormetic stress response induced by moderate CR enhancing antioxidant defenses and reducing oxidative damage."
+          },
+          {
+            "theory_id": "T015292",
+            "subcluster_name": "Hormesis and Stress Response CR Theories",
+            "reasoning": "Details CR-induced hormesis enhancing protein quality control, autophagy, and anti-inflammatory glucocorticoid effects."
+          },
+          {
+            "theory_id": "T015113",
+            "subcluster_name": "Hormesis and Stress Response CR Theories",
+            "reasoning": "Describes CR delaying immune senescence by maintaining youthful immune cell phenotypes via altered maturation and turnover."
+          },
+          {
+            "theory_id": "T015553",
+            "subcluster_name": "Hormesis and Stress Response CR Theories",
+            "reasoning": "Focuses on food restriction slowing primary aging processes and delaying physiological decline and age-related diseases."
+          },
+          {
+            "theory_id": "T016849",
+            "subcluster_name": "Hormesis and Stress Response CR Theories",
+            "reasoning": "Describes dietary restriction extending lifespan via generalized mechanisms independent of specific disease pathways."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Caloric Restriction Modulation of Aging via Disease and Cancer Suppression",
+          "theory_ids": [
+            "T019851",
+            "T020379",
+            "T020617",
+            "T015196",
+            "T017632",
+            "T026978",
+            "T021540"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 7
+        },
+        {
+          "subcluster_name": "Caloric Restriction Modulation of Aging via Gene Expression Reprogramming",
+          "theory_ids": [
+            "T018386",
+            "T018646",
+            "T025821",
+            "T026889",
+            "T022358",
+            "T023918"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 6
+        },
+        {
+          "subcluster_name": "Caloric Restriction Modulation of Aging via Immune System Preservation",
+          "theory_ids": [
+            "T019515",
+            "T022418",
+            "T018973"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        },
+        {
+          "subcluster_name": "Caloric Restriction Modulation of Aging via Reproductive and Oocyte Preservation",
+          "theory_ids": [
+            "T024376",
+            "T024528",
+            "T026884"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        },
+        {
+          "subcluster_name": "Caloric Restriction Modulation Theory",
+          "theory_ids": [
+            "T018135"
+          ],
+          "theory_count": 1,
+          "mechanism_focus": "",
+          "status": "singleton_warning",
+          "warning_reason": "1 subclusters too small"
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T019851",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Disease and Cancer Suppression",
+            "reasoning": "Focuses on CR reducing cancer incidence and delaying age-related diseases by modulating oxidative damage, immune aging, hormonal changes, and DNA repair."
+          },
+          {
+            "theory_id": "T020379",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Disease and Cancer Suppression",
+            "reasoning": "Emphasizes CR slowing aging by inhibiting chronic diseases through hormonal and growth factor modulation and disease-specific windows."
+          },
+          {
+            "theory_id": "T020617",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Disease and Cancer Suppression",
+            "reasoning": "Highlights CR reducing somatic mutation accumulation and oxidative DNA damage, linking mutation suppression to aging and cancer reduction."
+          },
+          {
+            "theory_id": "T015196",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Disease and Cancer Suppression",
+            "reasoning": "Describes CR extending lifespan and preventing autoimmune disease progression by maintaining immune competence and reducing pathology."
+          },
+          {
+            "theory_id": "T017632",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Disease and Cancer Suppression",
+            "reasoning": "Shows genotype-dependent effects of food restriction on lifespan and disease biomarkers, implicating disease and neuroendocrine mechanisms."
+          },
+          {
+            "theory_id": "T026978",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Disease and Cancer Suppression",
+            "reasoning": "Proposes CR lifespan extension may be due to prevention of overfeeding-related diseases, linking CR effects to disease modulation."
+          },
+          {
+            "theory_id": "T021540",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Disease and Cancer Suppression",
+            "reasoning": "Describes CR extending lifespan and delaying aging by improving metabolic health and reducing age-related diseases across species."
+          },
+          {
+            "theory_id": "T018386",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Gene Expression Reprogramming",
+            "reasoning": "Focuses on CR rapidly inducing longevity-associated gene expression changes affecting metabolism, growth control, stress response, and immune function."
+          },
+          {
+            "theory_id": "T018646",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Gene Expression Reprogramming",
+            "reasoning": "Describes CR modulating gene expression to preserve immune function, hormone-regulated proteins, and reduce oncogene expression linked to aging."
+          },
+          {
+            "theory_id": "T025821",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Gene Expression Reprogramming",
+            "reasoning": "Shows CR extends yeast lifespan by altering nutrient sensing and metabolic gene pathways independent of Sir2, highlighting gene regulation."
+          },
+          {
+            "theory_id": "T026889",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Gene Expression Reprogramming",
+            "reasoning": "Details CR regulation of molecular pathways including AMPK, Fox transcription factors, mTOR inhibition, and IGF-1 downregulation affecting gene networks."
+          },
+          {
+            "theory_id": "T022358",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Gene Expression Reprogramming",
+            "reasoning": "Describes CR effects on lifespan via conserved molecular pathways including TOR suppression, sirtuin activation, DNA repair, and autophagy gene regulation."
+          },
+          {
+            "theory_id": "T023918",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Gene Expression Reprogramming",
+            "reasoning": "Focuses on CR-induced mild metabolic stress triggering neuroprotective protein expression and reducing mitochondrial oxidative stress via gene changes."
+          },
+          {
+            "theory_id": "T018135",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Somatotroph Axis and Hormonal Regulation",
+            "reasoning": "Focuses on CR preserving pituitary growth hormone axis function and DNA repair capacity, linking hormonal regulation to aging modulation."
+          },
+          {
+            "theory_id": "T019515",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Immune System Preservation",
+            "reasoning": "Describes CR attenuating immunosenescence by preserving immune cell function and modulating immune-related gene expression and signaling."
+          },
+          {
+            "theory_id": "T022418",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Immune System Preservation",
+            "reasoning": "Highlights age-dependent CR effects on T-cell senescence, preserving naive T cells and reducing inflammation to delay immune aging."
+          },
+          {
+            "theory_id": "T018973",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Immune System Preservation",
+            "reasoning": "Shows CR delays immune aging in primates by maintaining T cell diversity, reducing proinflammatory cytokines, and enhancing T cell proliferation."
+          },
+          {
+            "theory_id": "T024376",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Reproductive and Oocyte Preservation",
+            "reasoning": "Focuses on CR preventing oocyte aneuploidy and spindle defects, maintaining mitochondrial function, and extending reproductive lifespan."
+          },
+          {
+            "theory_id": "T024528",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Reproductive and Oocyte Preservation",
+            "reasoning": "Describes CR preserving ovarian reserve and microenvironment, with timing and duration critical for delaying ovarian aging."
+          },
+          {
+            "theory_id": "T026884",
+            "subcluster_name": "Caloric Restriction Modulation of Aging via Reproductive and Oocyte Preservation",
+            "reasoning": "Although focused on energy allocation and trade-offs, this theory relates to physiological performance and reproductive health under CR, fitting with reproductive aging themes."
+          }
+        ]
+      }
+    }
+  ],
+  "timestamp": "2025-10-22 11:50:59"
+}

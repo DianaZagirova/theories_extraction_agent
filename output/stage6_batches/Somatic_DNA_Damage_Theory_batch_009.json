@@ -1,0 +1,222 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 9,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+        "theory_ids": [
+          "T009159",
+          "T008969",
+          "T008516",
+          "T008783",
+          "T009496",
+          "T009241",
+          "T009311",
+          "T008986",
+          "T009347",
+          "T008559",
+          "T008663",
+          "T009346",
+          "T009058",
+          "T009406",
+          "T009502"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+        "theory_ids": [
+          "T008838",
+          "T009275",
+          "T008109",
+          "T008094"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Default-Executive Coupling Hypothesis of Aging (DECHA)",
+        "theory_ids": [
+          "T008793",
+          "T009414",
+          "T008351"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T009159",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Focuses on accumulation of unrepaired nuclear DNA damage, impaired repair pathways (NER, transcription-coupled repair), and genome instability driving aging."
+        },
+        {
+          "theory_id": "T008969",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Emphasizes age-related decline in nuclear DNA double-strand break repair capacity and chromatin structure changes affecting repair."
+        },
+        {
+          "theory_id": "T008516",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Describes oxidative nuclear DNA damage and error-prone NHEJ repair causing genome instability and aging."
+        },
+        {
+          "theory_id": "T008783",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Highlights accumulation of nuclear DNA damage, decline in repair, and genomic instability as central aging mechanisms."
+        },
+        {
+          "theory_id": "T009496",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Focuses on DNA damage accumulation in hematopoietic stem cells, ROS-induced nuclear DNA damage, and repair pathway failure."
+        },
+        {
+          "theory_id": "T009241",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Proposes aging results from accumulation of unrepaired nuclear DNA lesions in somatic cells and tissue-specific repair capacity."
+        },
+        {
+          "theory_id": "T009311",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Fanconi anemia exemplifies genomic instability from defective nuclear DNA repair causing accelerated aging."
+        },
+        {
+          "theory_id": "T008986",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Describes age-related decline in nuclear DNA double-strand break repair efficiency and shift to error-prone repair pathways."
+        },
+        {
+          "theory_id": "T009347",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Focuses on ERCC1-mediated nucleotide excision repair decline with age causing genomic instability and accelerated aging."
+        },
+        {
+          "theory_id": "T008559",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Describes DNA damage accumulation, DNA repair genes as longevity assurance, and trade-offs between cancer prevention and aging."
+        },
+        {
+          "theory_id": "T008663",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Focuses on decline in base excision repair and NHEJ in aging neurons causing nuclear DNA damage accumulation."
+        },
+        {
+          "theory_id": "T009346",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Describes age-dependent decline in nuclear DNA repair capacity, especially in neurons, leading to genomic instability."
+        },
+        {
+          "theory_id": "T009058",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Covers accumulation of nuclear DNA damage and mutations, decline in repair capacity, and extension to mitochondrial DNA damage."
+        },
+        {
+          "theory_id": "T009406",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Highlights accumulation of nuclear DNA damage and correlation of repair efficiency with lifespan."
+        },
+        {
+          "theory_id": "T009502",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Focuses on genetic instability from nuclear DNA damage, repair deficiency, telomere shortening, and epigenetic deregulation."
+        },
+        {
+          "theory_id": "T009399",
+          "subcluster_name": "DNA Damage Repair-Associated Epigenetic Drift Theory",
+          "reasoning": "Focuses on DNA repair-induced chromatin remodeling and DNA methylation changes causing epigenetic drift during aging."
+        },
+        {
+          "theory_id": "T009442",
+          "subcluster_name": "Defective Protein Genetic Programming Theory",
+          "reasoning": "Proposes aging results from defects in genetically produced proteins regulating aging, with single defective proteins as master regulators."
+        },
+        {
+          "theory_id": "T009036",
+          "subcluster_name": "Gene Damage Accumulation and Cellular Senescence Theory",
+          "reasoning": "Mathematical model of gene damage accumulation leading to loss of proliferative capacity and cell death thresholds."
+        },
+        {
+          "theory_id": "T008203",
+          "subcluster_name": "DNA Replication Initiation Decline Theory",
+          "reasoning": "Focuses on age-related decline in DNA polymerase alpha activity impairing DNA synthesis initiation and causing cellular senescence."
+        },
+        {
+          "theory_id": "T007027",
+          "subcluster_name": "DNA Synthesis Initiation (DSI) Depletion Theory of Programmed Aging",
+          "reasoning": "Proposes finite number of DNA synthesis initiation loci act as a molecular clock controlling cellular senescence and aging."
+        },
+        {
+          "theory_id": "T008018",
+          "subcluster_name": "Oxidative Stress Signaling Decline Theory",
+          "reasoning": "Describes loss of oxidative stress tolerance due to reduced ERK and Akt kinase activities with aging."
+        },
+        {
+          "theory_id": "T006496",
+          "subcluster_name": "DNA Damage-Induced Metabolic Redesign Theory",
+          "reasoning": "DNA damage causes transcription stress leading to ATP surplus, glycolysis inhibition, and rerouting glucose to antioxidant pathways."
+        },
+        {
+          "theory_id": "T008838",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Focuses on stochastic accumulation of mtDNA mutations causing mitochondrial dysfunction and energetic decline with age."
+        },
+        {
+          "theory_id": "T009275",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Describes mitochondrial genome mutations driving aging and age-related diseases via impaired mitochondrial function."
+        },
+        {
+          "theory_id": "T008109",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Highlights accumulation of mtDNA damage and decline in mitochondrial proliferation causing energy deficits and aging."
+        },
+        {
+          "theory_id": "T006272",
+          "subcluster_name": "Integrated Nuclear-Mitochondrial Genome Instability Theory",
+          "reasoning": "Describes interplay between nuclear and mitochondrial genome instability, p53 signaling, and mitochondrial quality control in aging."
+        },
+        {
+          "theory_id": "T008094",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Proposes resistance of mitochondrial DNA motifs to damage correlates with species lifespan, linking mtDNA stability to aging."
+        },
+        {
+          "theory_id": "T009468",
+          "subcluster_name": "DNA Damage Control System Theory",
+          "reasoning": "Focuses on endogenous DNA damage and cellular protective systems including repair, apoptosis, and immune surveillance modulated by low-dose radiation."
+        },
+        {
+          "theory_id": "T008083",
+          "subcluster_name": "Comprehensive Damage Repair and Rejuvenation Theory (SENS)",
+          "reasoning": "Proposes aging results from seven types of cellular damage including nuclear and mitochondrial DNA mutations, with potential for repair-based rejuvenation."
+        },
+        {
+          "theory_id": "T008793",
+          "subcluster_name": "Default-Executive Coupling Hypothesis of Aging (DECHA)",
+          "reasoning": "Describes cognitive aging as a shift from fluid to crystallized cognition mediated by increased coupling between default and executive brain networks."
+        },
+        {
+          "theory_id": "T009414",
+          "subcluster_name": "Default-Executive Coupling Hypothesis of Aging (DECHA)",
+          "reasoning": "Focuses on increased default-executive network coupling underlying semanticized autobiographical memory and cognitive shifts in aging."
+        },
+        {
+          "theory_id": "T008351",
+          "subcluster_name": "Default-Executive Coupling Hypothesis of Aging (DECHA)",
+          "reasoning": "Describes reduced executive control and default network suppression with increased coupling as adaptive cognitive shift in older adults."
+        },
+        {
+          "theory_id": "T007549",
+          "subcluster_name": "Genetic Stability Theory of Brain Aging",
+          "reasoning": "Focuses on genetic stability and environmental influences on brain morphology changes during aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:42:45"
+}

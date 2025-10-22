@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Mutation Accumulation Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+        "theory_ids": [
+          "T012702",
+          "T013468",
+          "T013258",
+          "T012973",
+          "T013720",
+          "T013128",
+          "T012962",
+          "T012943",
+          "T012649",
+          "T012678",
+          "T012982",
+          "T013058"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Somatic Mutation Accumulation Theory",
+        "theory_ids": [
+          "T012699",
+          "T013546",
+          "T012596",
+          "T013623",
+          "T013581",
+          "T013174"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+        "theory_ids": [
+          "T013122",
+          "T013102",
+          "T013856",
+          "T013434",
+          "T012739",
+          "T013481"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T012702",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of age-specific deleterious germline mutations due to declining natural selection with age, affecting life-history traits."
+        },
+        {
+          "theory_id": "T013468",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Emphasizes accumulation of late-acting deleterious mutations in germline causing increased genetic variance and senescence."
+        },
+        {
+          "theory_id": "T013258",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Describes decline in natural selection with age allowing late-acting deleterious germline mutations to accumulate, increasing genetic variance."
+        },
+        {
+          "theory_id": "T012973",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Details mutation-selection equilibrium and accumulation of late-acting deleterious germline mutations with minor effects on fitness-relevant ages."
+        },
+        {
+          "theory_id": "T013720",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of late-acting deleterious germline mutations with declining selection pressure and modifier genes delaying expression."
+        },
+        {
+          "theory_id": "T013128",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Mathematical modeling of age-specific deleterious germline mutations accumulating due to weakened natural selection with age."
+        },
+        {
+          "theory_id": "T012962",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Extends classical mutation accumulation with nonlinear demographic interactions and age-specific natural selection decline on germline mutations."
+        },
+        {
+          "theory_id": "T012943",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Describes delayed expression of deleterious germline genes and declining natural selection with age causing accumulation and senescence."
+        },
+        {
+          "theory_id": "T012649",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Focuses on age-specific accumulation of deleterious germline mutations and increasing inbreeding load with age due to weaker selection."
+        },
+        {
+          "theory_id": "T012678",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Models aging as genetic accumulation of deleterious germline mutations influenced by sexual reproduction and weaker late-life selection."
+        },
+        {
+          "theory_id": "T012982",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Combines mutation accumulation and antagonistic pleiotropy theories focusing on genetic variance increase with age due to germline mutations."
+        },
+        {
+          "theory_id": "T013058",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Modified mutation accumulation allowing alleles with effects spanning neighboring ages, explaining late-life mortality plateaus from germline mutations."
+        },
+        {
+          "theory_id": "T012699",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of point mutations in somatic cells due to intrinsic mutagenesis causing aging."
+        },
+        {
+          "theory_id": "T013546",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Proposes somatic mutations accumulate progressively with age causing cellular dysfunction and aging phenotypes."
+        },
+        {
+          "theory_id": "T012596",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Emphasizes balance between DNA damage and repair in somatic cells, with mutation accumulation driving aging."
+        },
+        {
+          "theory_id": "T013623",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of various somatic mutation types with age and uses transgenic mouse models to study mutation load."
+        },
+        {
+          "theory_id": "T013581",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Highlights stochastic accumulation of somatic mutations influenced by genetics and environment as a cause of aging."
+        },
+        {
+          "theory_id": "T013174",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Links somatic mutation accumulation to genetic instability underlying both aging and cancer development."
+        },
+        {
+          "theory_id": "T013122",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Focuses on trade-offs between reproduction and somatic maintenance shaped by extrinsic mortality influencing aging rate."
+        },
+        {
+          "theory_id": "T013102",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Describes evolution of intrinsic mortality and lifespan as a balance between reproduction and survival under extrinsic mortality."
+        },
+        {
+          "theory_id": "T013856",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Frames aging as evolutionary neglect with trade-offs favoring early-life fitness at expense of late-life maintenance, including oxidative stress."
+        },
+        {
+          "theory_id": "T013434",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Views aging as a transitory phase due to declining natural selection and resource allocation trade-offs between reproduction and maintenance."
+        },
+        {
+          "theory_id": "T012739",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Explains senescence as adaptive trade-off with reduced immune investment under high extrinsic mortality environments."
+        },
+        {
+          "theory_id": "T013481",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Applies life-history trade-offs to human development, showing resource allocation shifts under low maternal capital affecting aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:02:32"
+}

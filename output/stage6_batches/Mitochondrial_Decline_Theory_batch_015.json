@@ -1,0 +1,229 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 15,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+        "theory_ids": [
+          "T013016",
+          "T012788",
+          "T012838",
+          "T013054",
+          "T012911",
+          "T012805",
+          "T013084",
+          "T012793",
+          "T012786",
+          "T012821",
+          "T013078",
+          "T012761",
+          "T012622",
+          "T012783",
+          "T012858",
+          "T012893",
+          "T012905"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "Mitonuclear Communication and Genomic Compatibility Theory",
+        "theory_ids": [
+          "T012927",
+          "T011283",
+          "T012642"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Mitochondrial Uncoupling to Survive Theory",
+        "theory_ids": [
+          "T012938",
+          "T012891"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction, Dynamics, and Quality Control Theory",
+        "theory_ids": [
+          "T013111",
+          "T013110",
+          "T012837",
+          "T011570",
+          "T012184"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T013016",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS production causing oxidative damage to mtDNA leading to aging."
+        },
+        {
+          "theory_id": "T012788",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS as main source of oxidative damage and mtDNA mutations driving aging."
+        },
+        {
+          "theory_id": "T012838",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Describes ROS accumulation from mitochondria causing oxidative damage and mitochondrial dysfunction with age."
+        },
+        {
+          "theory_id": "T013054",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Focuses on ROS generation causing mtDNA damage and the role of mitochondrial DNA repair in aging."
+        },
+        {
+          "theory_id": "T012911",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Models mitochondrial ROS production and oxidative damage accumulation as drivers of aging."
+        },
+        {
+          "theory_id": "T012805",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Details mitochondrial superoxide production sites and ROS damage as causes of aging."
+        },
+        {
+          "theory_id": "T013084",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Describes ROS generation and cumulative oxidative damage to mtDNA leading to mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T012793",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Links mitochondrial ROS production and respiratory chain mutations to aging via oxidative damage."
+        },
+        {
+          "theory_id": "T012786",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Focuses on accumulation of mtDNA deletion mutations caused by oxidative damage driving aging phenotypes."
+        },
+        {
+          "theory_id": "T012821",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Emphasizes ROS as aging drivers causing mtDNA damage and oxidative damage accumulation."
+        },
+        {
+          "theory_id": "T013078",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Describes mitochondrial oxidative stress impairing energy metabolism and causing aging via ROS damage."
+        },
+        {
+          "theory_id": "T012761",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Highlights mitochondrial ROS production and oxidative damage feedback loop accelerating aging."
+        },
+        {
+          "theory_id": "T012622",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Proposes accumulation of mitochondrial oxidative damage as fundamental cause of aging and disease."
+        },
+        {
+          "theory_id": "T012783",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Links mtDNA mutations and ROS damage to aging and longevity via haplogroup associations."
+        },
+        {
+          "theory_id": "T012858",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Focuses on mitochondrial superoxide as primary ROS causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T012893",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Attributes aging to mitochondrial dysfunction and oxidative damage accumulation impairing energy production."
+        },
+        {
+          "theory_id": "T012905",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Describes mtDNA mutations causing oxidative stress, ATP decline, and mitochondrial membrane potential changes in aging."
+        },
+        {
+          "theory_id": "T012876",
+          "subcluster_name": "Mitochondrial Germline Quality Control and Sex Evolution Theory",
+          "reasoning": "Focuses on mitochondrial free radical mutagenesis, gamete specialization, and maternal inheritance preserving mtDNA integrity."
+        },
+        {
+          "theory_id": "T012927",
+          "subcluster_name": "Mitonuclear Communication and Genomic Compatibility Theory",
+          "reasoning": "Emphasizes bidirectional mitonuclear signaling, mitochondrial peptides, and genomic compatibility regulating aging."
+        },
+        {
+          "theory_id": "T011283",
+          "subcluster_name": "Mitonuclear Communication and Genomic Compatibility Theory",
+          "reasoning": "Focuses on mitonuclear gene expression balance and evolutionary adaptations influencing lifespan."
+        },
+        {
+          "theory_id": "T012642",
+          "subcluster_name": "Mitonuclear Communication and Genomic Compatibility Theory",
+          "reasoning": "Links mitoribosomal protein deregulation to mitochondrial dysfunction, ROS, and telomere deprotection driving senescence."
+        },
+        {
+          "theory_id": "T012219",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Stem Cell Aging Theory",
+          "reasoning": "Focuses on accumulation of mtDNA mutations in stem cells causing respiratory defects and altered stem cell fate."
+        },
+        {
+          "theory_id": "T012656",
+          "subcluster_name": "MitomiR-Mediated Mitochondrial Dysfunction and Inflamm-Aging Theory",
+          "reasoning": "Describes mitomiRs regulating mitochondrial integrity, apoptosis, and inflamm-aging via Bcl-2 family modulation."
+        },
+        {
+          "theory_id": "T012334",
+          "subcluster_name": "Mitochondrial ROS-HIF Signaling and Telomerase Activation Theory",
+          "reasoning": "Proposes mitochondrial ROS activate HIF under hypoxia, inducing telomerase and extending replicative lifespan."
+        },
+        {
+          "theory_id": "T012938",
+          "subcluster_name": "Mitochondrial Uncoupling to Survive Theory",
+          "reasoning": "Focuses on mitochondrial uncoupling proteins reducing ROS production and modulating lifespan via metabolic regulation."
+        },
+        {
+          "theory_id": "T012891",
+          "subcluster_name": "Mitochondrial Uncoupling to Survive Theory",
+          "reasoning": "Describes increased proton leak lowering ROS and associating higher metabolism with longevity."
+        },
+        {
+          "theory_id": "T012772",
+          "subcluster_name": "Mitochondrial Respiration-Dependent Caloric Restriction Lifespan Extension Theory",
+          "reasoning": "Shows caloric restriction extends lifespan by improving mitochondrial respiration, balancing ROS and ATP."
+        },
+        {
+          "theory_id": "T013111",
+          "subcluster_name": "Mitochondrial Dysfunction, Dynamics, and Quality Control Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction, calcium dysregulation, and impaired dynamics/mitophagy driving aging."
+        },
+        {
+          "theory_id": "T013110",
+          "subcluster_name": "Mitochondrial Dysfunction, Dynamics, and Quality Control Theory",
+          "reasoning": "Focuses on oxidative stress-induced mitochondrial cristae rearrangement and genetic regulation of mitochondrial homeostasis."
+        },
+        {
+          "theory_id": "T012837",
+          "subcluster_name": "Mitochondrial Dysfunction, Dynamics, and Quality Control Theory",
+          "reasoning": "Describes mitochondrial thioredoxin system upregulation via mitoUPR enhancing stress resistance and longevity."
+        },
+        {
+          "theory_id": "T011570",
+          "subcluster_name": "Mitochondrial Dysfunction, Dynamics, and Quality Control Theory",
+          "reasoning": "Proposes mitochondrial bioenergetics and topology govern aging via energetic capacity and molecular entropy."
+        },
+        {
+          "theory_id": "T012184",
+          "subcluster_name": "Mitochondrial Dysfunction, Dynamics, and Quality Control Theory",
+          "reasoning": "Shows exercise improves mitochondrial biogenesis and coupling efficiency, reversing age-related dysfunction."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:44:01"
+}

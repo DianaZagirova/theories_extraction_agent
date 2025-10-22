@@ -1,0 +1,217 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 24,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Oxygen Supply and Hypoxia-Modulated Oxidative Stress Theory",
+        "theory_ids": [
+          "T026897",
+          "T027103",
+          "T023597",
+          "T005655",
+          "T024010"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Reactive Species Hormesis and Adaptive Oxidative Stress Theory",
+        "theory_ids": [
+          "T026236",
+          "T027394",
+          "T027507",
+          "T026924",
+          "T026902",
+          "T025676"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Inflammation Interdependence Theory",
+        "theory_ids": [
+          "T019416",
+          "T026189",
+          "T026891",
+          "T024888",
+          "T023419"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+        "theory_ids": [
+          "T024610",
+          "T003846",
+          "T026338",
+          "T027509",
+          "T001605",
+          "T016292",
+          "T027001",
+          "T024325",
+          "T004737",
+          "T026405"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Telomere-Associated Oxidative Stress Theory",
+        "theory_ids": [
+          "T026729",
+          "T026728"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026897",
+          "subcluster_name": "Oxygen Supply and Hypoxia-Modulated Oxidative Stress Theory",
+          "reasoning": "Focuses on oxygen supply decline, hypoxia/hyperoxia effects, and mitochondrial modulation by oxygen levels driving oxidative stress and aging."
+        },
+        {
+          "theory_id": "T027103",
+          "subcluster_name": "Oxygen Supply and Hypoxia-Modulated Oxidative Stress Theory",
+          "reasoning": "Describes oxygen tension effects on cellular senescence and aging, emphasizing oxygen as an environmental stressor modulating oxidative damage."
+        },
+        {
+          "theory_id": "T023597",
+          "subcluster_name": "Oxygen Supply and Hypoxia-Modulated Oxidative Stress Theory",
+          "reasoning": "Links oxygen supply decline and carotid body oxygen sensing dysfunction to aging, highlighting mitochondrial and hypoxia-related oxidative stress mechanisms."
+        },
+        {
+          "theory_id": "T005655",
+          "subcluster_name": "Oxygen Supply and Hypoxia-Modulated Oxidative Stress Theory",
+          "reasoning": "Shows chronic hypoxia extends lifespan via mechanisms involving ROS modulation and neuroprotection, emphasizing oxygen restriction effects on aging."
+        },
+        {
+          "theory_id": "T026236",
+          "subcluster_name": "Reactive Species Hormesis and Adaptive Oxidative Stress Theory",
+          "reasoning": "Focuses on hormesis by reactive species, their dual roles in damage and signaling, and adaptive gene expression modulation in aging."
+        },
+        {
+          "theory_id": "T027394",
+          "subcluster_name": "Reactive Species Hormesis and Adaptive Oxidative Stress Theory",
+          "reasoning": "Describes mitohormesis and mitochondrial resilience induced by mild stressors, linking adaptive oxidative stress responses to longevity."
+        },
+        {
+          "theory_id": "T027507",
+          "subcluster_name": "Reactive Species Hormesis and Adaptive Oxidative Stress Theory",
+          "reasoning": "Explains lifespan extension via low-dose radiation activating AKT/SOD pathways, illustrating hormetic oxidative stress responses."
+        },
+        {
+          "theory_id": "T026924",
+          "subcluster_name": "Reactive Species Hormesis and Adaptive Oxidative Stress Theory",
+          "reasoning": "Details DAF-16 mediated oxidative stress resistance and lifespan extension, highlighting adaptive transcriptional responses to ROS."
+        },
+        {
+          "theory_id": "T026902",
+          "subcluster_name": "Reactive Species Hormesis and Adaptive Oxidative Stress Theory",
+          "reasoning": "Describes ROS/Akt/CREB/CBR1 pathway reducing protein carbonylation, showing adaptive regulation of oxidative damage for lifespan control."
+        },
+        {
+          "theory_id": "T025676",
+          "subcluster_name": "Reactive Species Hormesis and Adaptive Oxidative Stress Theory",
+          "reasoning": "Proposes increased apoptosis sensitivity via reduced Gpx4 as an adaptive mechanism to remove damaged cells, extending lifespan under oxidative stress."
+        },
+        {
+          "theory_id": "T019416",
+          "subcluster_name": "Oxidative Stress-Inflammation Interdependence Theory",
+          "reasoning": "Focuses on the bidirectional feedback between oxidative stress and inflammation as a key aging driver, emphasizing molecular mediators and therapeutic challenges."
+        },
+        {
+          "theory_id": "T026189",
+          "subcluster_name": "Oxidative Stress-Inflammation Interdependence Theory",
+          "reasoning": "Highlights oxysterols as modulators of oxidative stress and inflammation, regulating aging hallmarks and linking lipid oxidation to systemic aging."
+        },
+        {
+          "theory_id": "T026891",
+          "subcluster_name": "Oxidative Stress-Inflammation Interdependence Theory",
+          "reasoning": "Describes mitochondrial ROS/RNS generation, proteopathies, and inflammaging as interconnected oxidative stress-driven aging mechanisms."
+        },
+        {
+          "theory_id": "T024888",
+          "subcluster_name": "Oxidative Stress-Inflammation Interdependence Theory",
+          "reasoning": "Focuses on peroxisome dysfunction disrupting ROS homeostasis, contributing to oxidative damage and inflammation in aging."
+        },
+        {
+          "theory_id": "T023419",
+          "subcluster_name": "Oxidative Stress-Inflammation Interdependence Theory",
+          "reasoning": "Proposes amyloid-beta and tau as adaptive antioxidant responses to oxidative stress in Alzheimer's, linking oxidative damage to neuroinflammation."
+        },
+        {
+          "theory_id": "T024010",
+          "subcluster_name": "Oxygen Supply and Hypoxia-Modulated Oxidative Stress Theory",
+          "reasoning": "Describes oxygen receptor dysfunction causing local hyperoxia and oxidative stress in the eye, linking oxygen transport abnormalities to aging diseases."
+        },
+        {
+          "theory_id": "T024610",
+          "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+          "reasoning": "Focuses on ROS accumulation causing damage and the protective role of SOD1 enzyme in preventing oxidative stress-induced senescence."
+        },
+        {
+          "theory_id": "T003846",
+          "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+          "reasoning": "Emphasizes oxidative damage accumulation and antioxidant enzyme activity correlating with stress resistance and lifespan extension."
+        },
+        {
+          "theory_id": "T026338",
+          "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+          "reasoning": "Posits oxidative damage accumulation as aging cause and highlights antioxidant defenses and genetic/environmental interactions influencing longevity."
+        },
+        {
+          "theory_id": "T027509",
+          "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+          "reasoning": "Describes free radical balance and progressive oxidative damage accumulation as central to aging, with homeostatic antioxidant regulation."
+        },
+        {
+          "theory_id": "T001605",
+          "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+          "reasoning": "Focuses on ROS production increase with age and genetic heritability of ROS regulation affecting aging and evolutionary dynamics."
+        },
+        {
+          "theory_id": "T016292",
+          "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+          "reasoning": "Shows species-specific oxidative stress tolerance affecting dauer larva longevity, linking antioxidant enzyme expression to survival under ROS."
+        },
+        {
+          "theory_id": "T027001",
+          "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+          "reasoning": "Describes oxidative DNA damage and mismatch repair interaction causing mutagenesis accumulation, linking oxidative damage to genomic instability in aging."
+        },
+        {
+          "theory_id": "T024325",
+          "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+          "reasoning": "Proposes endogenous singlet oxygen and ozone generation causing biomolecular oxidative damage, contributing to aging and modulated by diet."
+        },
+        {
+          "theory_id": "T004737",
+          "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+          "reasoning": "Focuses on glycoxidation producing ROS and protein oxidation products that mediate oxidative stress and inflammation in aging."
+        },
+        {
+          "theory_id": "T026405",
+          "subcluster_name": "ROS Damage Accumulation and Antioxidant Defense Theory",
+          "reasoning": "Links oxidative stress-induced microtubule dysfunction and EB1 protein impairment to neuronal aging, emphasizing ROS damage to cytoskeleton."
+        },
+        {
+          "theory_id": "T026729",
+          "subcluster_name": "Telomere-Associated Oxidative Stress Theory",
+          "reasoning": "Posits oxidative stress accelerates telomere shortening, a hallmark of aging, linking ROS damage directly to cellular senescence and organismal aging."
+        },
+        {
+          "theory_id": "T026728",
+          "subcluster_name": "Telomere-Associated Oxidative Stress Theory",
+          "reasoning": "Similar to T026729, emphasizes oxidative stress as a causal factor in telomere attrition and aging, reinforcing telomere damage as a key mechanism."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:44:29"
+}

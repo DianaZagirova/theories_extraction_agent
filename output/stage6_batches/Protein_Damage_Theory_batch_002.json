@@ -1,0 +1,182 @@
+{
+  "cluster_name": "Protein Damage Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+        "theory_ids": [
+          "T005276",
+          "T006861",
+          "T006901",
+          "T006548",
+          "T006817",
+          "T006178",
+          "T006854",
+          "T006889",
+          "T005070",
+          "T005805",
+          "T006520",
+          "T006582",
+          "T006498",
+          "T005959",
+          "T006347",
+          "T006535",
+          "T006315",
+          "T006859",
+          "T006553",
+          "T006874"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 20
+      },
+      {
+        "subcluster_name": "Protein Damage Accumulation and Repair Theory",
+        "theory_ids": [
+          "T005656",
+          "T006557",
+          "T006526",
+          "T006517"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005276",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Focuses on decline of proteostasis via impaired autophagy-lysosome and ubiquitin-proteasome systems leading to aging."
+        },
+        {
+          "theory_id": "T006861",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Emphasizes ER quality control adaptation and unfolded protein response as part of proteostasis decline in aging."
+        },
+        {
+          "theory_id": "T006901",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Describes cellular proteostasis collapse and failure of protein homeostasis as a conserved aging mechanism."
+        },
+        {
+          "theory_id": "T006548",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Highlights chaperone overload, impaired folding capacity, and proteostasis decline as drivers of aging."
+        },
+        {
+          "theory_id": "T006817",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Focuses on ubiquitin-proteasome system dysfunction, especially UBB+1 mutant effects, impairing proteostasis in aging."
+        },
+        {
+          "theory_id": "T006178",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Describes proteostasis dysregulation in brain aging via UPS and autophagy impairment leading to neurodegeneration."
+        },
+        {
+          "theory_id": "T006854",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Focuses on ubiquitin ligases and UPS dysregulation contributing to proteostasis loss and aging phenotypes."
+        },
+        {
+          "theory_id": "T006889",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Describes broad proteostasis decline including synthesis, folding, and degradation impairments driving aging."
+        },
+        {
+          "theory_id": "T005070",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Emphasizes proteasome activation and its decline as a key driver of proteostasis loss and aging."
+        },
+        {
+          "theory_id": "T005805",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Highlights chaperone-protein degradation network efficiency as determinant of longevity and proteostasis maintenance."
+        },
+        {
+          "theory_id": "T006520",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Focuses on chaperone-mediated proteome maintenance and proteolytic system impairment in aging."
+        },
+        {
+          "theory_id": "T006582",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Describes proteasome impairment and oxidative stress as causes of proteostasis failure in aging."
+        },
+        {
+          "theory_id": "T006498",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Links proteostasis network decline to genome instability, emphasizing proteome stability as key for DNA integrity."
+        },
+        {
+          "theory_id": "T005959",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Models chaperone capacity decline and protein aggregation as central to senescence and proteostasis loss."
+        },
+        {
+          "theory_id": "T006347",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Describes proteostasis network collapse driving aging and cancer via proteome instability and genomic stress."
+        },
+        {
+          "theory_id": "T006535",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Focuses on programmed decline of proteostasis network and cell-nonautonomous regulation of proteostasis in aging."
+        },
+        {
+          "theory_id": "T006315",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Links proteasome dysfunction to proteome instability, mitochondrial dysfunction, and aging."
+        },
+        {
+          "theory_id": "T006859",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Describes integrated protein quality control system decline causing proteotoxic stress and aging."
+        },
+        {
+          "theory_id": "T006553",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Focuses on oxidative protein damage and proteasome dysfunction as central to proteostasis failure in aging."
+        },
+        {
+          "theory_id": "T006874",
+          "subcluster_name": "Proteostasis Network Decline and Quality Control Dysfunction Theory",
+          "reasoning": "Describes selective regulation of protein synthesis and degradation via mTOR inhibition affecting proteostasis."
+        },
+        {
+          "theory_id": "T005656",
+          "subcluster_name": "Protein Damage Accumulation and Repair Theory",
+          "reasoning": "Focuses on accumulation of damaged proteins from ROS/RNS and metabolic adaptations driving replicative aging."
+        },
+        {
+          "theory_id": "T006557",
+          "subcluster_name": "Protein Damage Accumulation and Repair Theory",
+          "reasoning": "Emphasizes spontaneous chemical protein damage and enzymatic repair mechanisms balancing aging-related damage."
+        },
+        {
+          "theory_id": "T006526",
+          "subcluster_name": "Protein Damage Accumulation and Repair Theory",
+          "reasoning": "Focuses on irreversible oxidative protein carbonylation as primary cause of aging and age-related diseases."
+        },
+        {
+          "theory_id": "T006517",
+          "subcluster_name": "Protein Damage Accumulation and Repair Theory",
+          "reasoning": "Describes accumulation of diverse protein damages and benefits of young undamaged proteins in aging mitigation."
+        },
+        {
+          "theory_id": "T006906",
+          "subcluster_name": "Transcription Error-Induced Amyloidogenesis Theory",
+          "reasoning": "Focuses on transcription errors generating mutant amyloid-like proteins that seed aggregation and aging."
+        },
+        {
+          "theory_id": "T004983",
+          "subcluster_name": "Proteome Stabilization and Reduced Turnover Theory",
+          "reasoning": "Describes longevity via proteome stabilization by trehalose and reduced protein turnover in daf-2 mutants."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:04:37"
+}

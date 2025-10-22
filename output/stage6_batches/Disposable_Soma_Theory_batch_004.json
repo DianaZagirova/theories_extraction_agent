@@ -1,0 +1,190 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+        "theory_ids": [
+          "T001867",
+          "T001950",
+          "T002175",
+          "T002405",
+          "T002427",
+          "T002025",
+          "T002420",
+          "T002097",
+          "T002004",
+          "T001977",
+          "T002327",
+          "T002279",
+          "T001853",
+          "T001705"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Extrinsic Mortality-Driven Resource Allocation Theory of Aging",
+        "theory_ids": [
+          "T001951",
+          "T002411",
+          "T001967",
+          "T002384",
+          "T002174",
+          "T002346",
+          "T002077",
+          "T001888"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Germline Maintenance and Mutation Rate Trade-off Theory",
+        "theory_ids": [
+          "T001932",
+          "T001972",
+          "T002400"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T001867",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on insulin/IGF-1 signaling modulation of longevity, conserved pathway regulating lifespan and insulin sensitivity effects."
+        },
+        {
+          "theory_id": "T001950",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes IIS pathway as conserved regulator of lifespan with tissue-specific and neuroendocrine effects."
+        },
+        {
+          "theory_id": "T002175",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Details DAF-2/DAF-16 regulation of lifespan via insulin/IGF-1 signaling conserved across species."
+        },
+        {
+          "theory_id": "T002405",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Shows reduced insulin signaling extends lifespan in Drosophila via dFOXO transcription factor."
+        },
+        {
+          "theory_id": "T002427",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Integrates IIS and TOR nutrient sensing pathways regulating longevity via conserved transcriptional feedback."
+        },
+        {
+          "theory_id": "T002025",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on FOXO/DAF-16 as central longevity regulator downstream of insulin/IGF-1 signaling."
+        },
+        {
+          "theory_id": "T002420",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Links insulin/IGF-1 signaling defects to neurodegeneration and cognitive decline, emphasizing brain-specific effects."
+        },
+        {
+          "theory_id": "T002097",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes genetic variation in IGF-1 pathway genes affecting plasma IGF-1 levels and human longevity."
+        },
+        {
+          "theory_id": "T002004",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Details insulin receptor structure-function mutations affecting aging and reproduction in Drosophila."
+        },
+        {
+          "theory_id": "T001977",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Summarizes evolutionary conservation and lifespan extension by reduced insulin/IGF-1 signaling."
+        },
+        {
+          "theory_id": "T002327",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on IIS regulation of lifespan and role of dFOXO and insulin-like peptides in Drosophila."
+        },
+        {
+          "theory_id": "T002279",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Emphasizes reduced IRS2 signaling branch of insulin/IGF-1 pathway linked to longevity and metabolic regulation."
+        },
+        {
+          "theory_id": "T001853",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes conserved insulin/IGF-1 signaling pathway regulating aging via FOXO activation across species."
+        },
+        {
+          "theory_id": "T001705",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Details FKHRL1/DAF-16 transcription factor role in cell survival and lifespan extension, homologous to FOXO."
+        },
+        {
+          "theory_id": "T001951",
+          "subcluster_name": "Extrinsic Mortality-Driven Resource Allocation Theory of Aging",
+          "reasoning": "Focuses on extrinsic mortality shaping resource allocation trade-offs between reproduction and maintenance."
+        },
+        {
+          "theory_id": "T002411",
+          "subcluster_name": "Extrinsic Mortality-Driven Resource Allocation Theory of Aging",
+          "reasoning": "Classic disposable soma theory emphasizing trade-off between reproduction and somatic maintenance shaped by ecology."
+        },
+        {
+          "theory_id": "T001967",
+          "subcluster_name": "Extrinsic Mortality-Driven Resource Allocation Theory of Aging",
+          "reasoning": "Life-history trade-off between reproduction and longevity, including mating costs reducing lifespan."
+        },
+        {
+          "theory_id": "T002384",
+          "subcluster_name": "Extrinsic Mortality-Driven Resource Allocation Theory of Aging",
+          "reasoning": "Resource reallocation hypothesis explaining lifespan extension by dietary restriction via reproduction-survival trade-off."
+        },
+        {
+          "theory_id": "T002174",
+          "subcluster_name": "Extrinsic Mortality-Driven Resource Allocation Theory of Aging",
+          "reasoning": "Resource allocation model of diet-mediated lifespan plasticity emphasizing delayed reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T002346",
+          "subcluster_name": "Extrinsic Mortality-Driven Resource Allocation Theory of Aging",
+          "reasoning": "Life-history trade-off theory highlighting energy allocation trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T002077",
+          "subcluster_name": "Extrinsic Mortality-Driven Resource Allocation Theory of Aging",
+          "reasoning": "Disposable soma theory focusing on somatic maintenance trade-offs and germline immortality under ecological constraints."
+        },
+        {
+          "theory_id": "T001888",
+          "subcluster_name": "Extrinsic Mortality-Driven Resource Allocation Theory of Aging",
+          "reasoning": "Reproductive adaptation hypothesis linking fertility schedules to survival characteristics and resource allocation."
+        },
+        {
+          "theory_id": "T002298",
+          "subcluster_name": "Reversal of Fecundity/Longevity Tradeoff in Social Insects Theory",
+          "reasoning": "Describes reversal of typical fecundity-longevity tradeoff in social insect queens with high reproduction and longevity."
+        },
+        {
+          "theory_id": "T001932",
+          "subcluster_name": "Germline Maintenance and Mutation Rate Trade-off Theory",
+          "reasoning": "Focuses on resource allocation trade-offs affecting germline DNA repair, mutation rates, and longevity under stress."
+        },
+        {
+          "theory_id": "T001972",
+          "subcluster_name": "Germline Maintenance and Mutation Rate Trade-off Theory",
+          "reasoning": "Resource redistribution theory emphasizing trade-offs between housekeeping and integrative gene groups affecting aging."
+        },
+        {
+          "theory_id": "T002400",
+          "subcluster_name": "Germline Maintenance and Mutation Rate Trade-off Theory",
+          "reasoning": "IGF-1 deficiency driving neurovascular aging, linking systemic hormone decline to cellular maintenance deficits."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:59:42"
+}

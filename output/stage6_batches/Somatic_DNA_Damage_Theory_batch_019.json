@@ -1,0 +1,210 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 19,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "ROS-Induced DNA Damage and Cellular Senescence Theory",
+        "theory_ids": [
+          "T022800",
+          "T022955",
+          "T023067",
+          "T022442",
+          "T022543",
+          "T022899",
+          "T022769",
+          "T022691"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "DNA Repair Deficiency and Genome Instability Theory",
+        "theory_ids": [
+          "T022341",
+          "T022588",
+          "T023023",
+          "T022535",
+          "T022322",
+          "T022347",
+          "T022671"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Damage Accumulation and Repair Strategies Theory",
+        "theory_ids": [
+          "T022425",
+          "T022505",
+          "T022699",
+          "T022200"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "DNA Content and Cellular Senescence Theory",
+        "theory_ids": [
+          "T022284",
+          "T022672",
+          "T022677",
+          "T022414"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "rDNA Instability and Aging Theory",
+        "theory_ids": [
+          "T023209",
+          "T022276",
+          "T022092"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022800",
+          "subcluster_name": "ROS-Induced DNA Damage and Cellular Senescence Theory",
+          "reasoning": "Focuses on reactive oxygen species causing DNA damage leading to cellular senescence and aging."
+        },
+        {
+          "theory_id": "T022955",
+          "subcluster_name": "ROS-Induced DNA Damage and Cellular Senescence Theory",
+          "reasoning": "Describes DNA damage accumulation in hematopoietic stem cells driven by ROS and telomere attrition causing senescence."
+        },
+        {
+          "theory_id": "T023067",
+          "subcluster_name": "ROS-Induced DNA Damage and Cellular Senescence Theory",
+          "reasoning": "Links oxidative stress-induced DNA damage and compensatory repair in immune cells leading to premature senescence."
+        },
+        {
+          "theory_id": "T022442",
+          "subcluster_name": "ROS-Induced DNA Damage and Cellular Senescence Theory",
+          "reasoning": "Describes oxidative DNA damage accumulation in neurons causing impaired gene expression and brain aging."
+        },
+        {
+          "theory_id": "T022543",
+          "subcluster_name": "ROS-Induced DNA Damage and Cellular Senescence Theory",
+          "reasoning": "Focuses on DNA damage accumulation from metabolic byproducts and exogenous sources causing cellular senescence."
+        },
+        {
+          "theory_id": "T022899",
+          "subcluster_name": "ROS-Induced DNA Damage and Cellular Senescence Theory",
+          "reasoning": "Highlights DNA damage accumulation causing oxidative stress and vascular dysfunction in aging."
+        },
+        {
+          "theory_id": "T022769",
+          "subcluster_name": "ROS-Induced DNA Damage and Cellular Senescence Theory",
+          "reasoning": "Emphasizes DNA damage accumulation and stem cell exhaustion leading to tissue degeneration and aging."
+        },
+        {
+          "theory_id": "T022691",
+          "subcluster_name": "ROS-Induced DNA Damage and Cellular Senescence Theory",
+          "reasoning": "Describes continuous DNA damage induction by endogenous and exogenous agents causing age-related DNA alterations."
+        },
+        {
+          "theory_id": "T022341",
+          "subcluster_name": "DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Focuses on DNA repair pathways, especially base excision repair, and their decline influencing aging and health span."
+        },
+        {
+          "theory_id": "T022588",
+          "subcluster_name": "DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Centers on genome instability from DNA damage accumulation and DNA repair deficiencies causing systemic aging."
+        },
+        {
+          "theory_id": "T023023",
+          "subcluster_name": "DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Highlights decline in DNA repair capacity and genetic variants in repair genes influencing aging phenotypes."
+        },
+        {
+          "theory_id": "T022535",
+          "subcluster_name": "DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Discusses genome instability from DNA damage accumulation and differential DNA repair pathways affecting aging."
+        },
+        {
+          "theory_id": "T022322",
+          "subcluster_name": "DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Focuses on mutations in DNA repair genes causing genomic instability and segmental progeroid syndromes."
+        },
+        {
+          "theory_id": "T022347",
+          "subcluster_name": "DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Emphasizes genomic maintenance and DNA repair gene mutations as drivers of accelerated aging phenotypes."
+        },
+        {
+          "theory_id": "T022671",
+          "subcluster_name": "DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Describes ATM kinase deficiency impairing DNA repair and causing premature immune system aging."
+        },
+        {
+          "theory_id": "T022425",
+          "subcluster_name": "Damage Accumulation and Repair Strategies Theory",
+          "reasoning": "Proposes comprehensive damage accumulation including DNA and other molecular damage with modular repair strategies."
+        },
+        {
+          "theory_id": "T022505",
+          "subcluster_name": "Damage Accumulation and Repair Strategies Theory",
+          "reasoning": "Focuses on engineered repair of molecular damage including mitochondrial gene allotopic expression and lysosomal enzyme targeting."
+        },
+        {
+          "theory_id": "T022699",
+          "subcluster_name": "Damage Accumulation and Repair Strategies Theory",
+          "reasoning": "Considers cellular damage accumulation broadly, including genetic and protein damage, linking aging and cancer."
+        },
+        {
+          "theory_id": "T022200",
+          "subcluster_name": "Damage Accumulation and Repair Strategies Theory",
+          "reasoning": "Describes time-dependent accumulation of molecular damage and its systemic effects including inflammation and epigenetic changes."
+        },
+        {
+          "theory_id": "T022284",
+          "subcluster_name": "DNA Content and Cellular Senescence Theory",
+          "reasoning": "Focuses on DNA:cytoplasm ratio dilution due to excessive cell growth causing transcriptional and translational limitations leading to senescence."
+        },
+        {
+          "theory_id": "T022672",
+          "subcluster_name": "DNA Content and Cellular Senescence Theory",
+          "reasoning": "Describes replication-driven functional drift through cumulative cell divisions altering cell function and tissue homeostasis."
+        },
+        {
+          "theory_id": "T022677",
+          "subcluster_name": "DNA Content and Cellular Senescence Theory",
+          "reasoning": "Focuses on failure of DNA replication initiation (G1/S transition) and decreased DNA polymerase alpha activity causing replicative senescence."
+        },
+        {
+          "theory_id": "T022414",
+          "subcluster_name": "DNA Content and Cellular Senescence Theory",
+          "reasoning": "Highlights DNA replication stress causing DNA damage accumulation and aging, integrating growth signaling and ROS effects."
+        },
+        {
+          "theory_id": "T023209",
+          "subcluster_name": "rDNA Instability and Aging Theory",
+          "reasoning": "Focuses on rDNA loci instability, extrachromosomal rDNA circles, and replication fork barriers as drivers of aging."
+        },
+        {
+          "theory_id": "T022276",
+          "subcluster_name": "rDNA Instability and Aging Theory",
+          "reasoning": "Describes age-dependent rDNA copy number variation and methylation linked to cellular senescence and aging."
+        },
+        {
+          "theory_id": "T022092",
+          "subcluster_name": "rDNA Instability and Aging Theory",
+          "reasoning": "Details multi-layered spatial repair of rDNA damage and nuclear pore involvement in asymmetric damage segregation and aging."
+        },
+        {
+          "theory_id": "T021358",
+          "subcluster_name": "Macromolecular Deterioration Theory",
+          "reasoning": "Focuses on accumulation of deleterious post-translational modifications in long-lived proteins impairing tissue function and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:52:48"
+}

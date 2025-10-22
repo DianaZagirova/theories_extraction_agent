@@ -1,0 +1,190 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 29,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+        "theory_ids": [
+          "T018111",
+          "T019149",
+          "T018438",
+          "T018744",
+          "T018983",
+          "T018957",
+          "T018790",
+          "T018582",
+          "T019084",
+          "T018924",
+          "T019060",
+          "T019115",
+          "T018138",
+          "T018732",
+          "T019116",
+          "T018809"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Caloric Restriction and Nutrient Sensing-Mediated Aging Theory",
+        "theory_ids": [
+          "T018989",
+          "T018569",
+          "T018260",
+          "T018230",
+          "T018208",
+          "T018907"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Life History and Growth-Related Aging Trade-Off Theory",
+        "theory_ids": [
+          "T018065",
+          "T018328",
+          "T016868"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018111",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Focuses on IIS pathway and DAF-16/FOXO transcription factor regulation of lifespan and longevity genes."
+        },
+        {
+          "theory_id": "T019149",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Describes IIS pathway and dFOXO transcription factor role in lifespan extension in Drosophila."
+        },
+        {
+          "theory_id": "T018438",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Details IIS regulation of DAF-16/FOXO localization and function affecting aging."
+        },
+        {
+          "theory_id": "T018744",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Covers genetic modulation of IGF-I signaling and FOXO involvement in lifespan extension."
+        },
+        {
+          "theory_id": "T018983",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Links IIS and DAF-16/FOXO to longevity and tumor resistance mechanisms."
+        },
+        {
+          "theory_id": "T018957",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Focuses on IIS and DAF-16/FOXO regulation of stem cell aging and maintenance."
+        },
+        {
+          "theory_id": "T018790",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Describes IIS pathway regulation of longevity via DAF-2 receptor and DAF-16 transcription factor."
+        },
+        {
+          "theory_id": "T018582",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Explains lifespan extension and healthspan effects from reduced IIS signaling."
+        },
+        {
+          "theory_id": "T019084",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Details DAF-16/FOXO regulation and evolutionary conservation of IIS in aging."
+        },
+        {
+          "theory_id": "T018924",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Focuses on IIS effects on neuronal aging and FOXO-mediated synaptic maintenance."
+        },
+        {
+          "theory_id": "T019060",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Describes insulin-like receptor signaling and dauer formation linked to aging regulation."
+        },
+        {
+          "theory_id": "T019115",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Discusses SHIP2 as a modulator of IIS and its impact on aging and metabolism."
+        },
+        {
+          "theory_id": "T018138",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Covers conserved molecular mechanisms of insulin/IGF-I signaling in aging across species."
+        },
+        {
+          "theory_id": "T018732",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Links DAF-2/DAF-16 pathway to aging and innate immunity regulation."
+        },
+        {
+          "theory_id": "T019116",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Describes endocrine regulation of aging via insulin/IGF1 signaling and FOXO factors."
+        },
+        {
+          "theory_id": "T018809",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theory",
+          "reasoning": "Details genetics of lifespan in C. elegans focusing on IIS and DAF-16 mediated stress resistance."
+        },
+        {
+          "theory_id": "T018989",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing-Mediated Aging Theory",
+          "reasoning": "Links caloric restriction effects to modulation of FOXO gene expression in skeletal muscle."
+        },
+        {
+          "theory_id": "T018569",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing-Mediated Aging Theory",
+          "reasoning": "Describes caloric restriction extending lifespan and delaying age-related diseases."
+        },
+        {
+          "theory_id": "T018260",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing-Mediated Aging Theory",
+          "reasoning": "Shows dietary restriction effects on lifespan, metabolism, and disease delay in dogs."
+        },
+        {
+          "theory_id": "T018230",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing-Mediated Aging Theory",
+          "reasoning": "Focuses on fat depletion as a mediator of caloric restriction benefits on aging."
+        },
+        {
+          "theory_id": "T018208",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing-Mediated Aging Theory",
+          "reasoning": "Explains dietary restriction in Drosophila and molecular mechanisms involving histone deacetylases."
+        },
+        {
+          "theory_id": "T018907",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing-Mediated Aging Theory",
+          "reasoning": "Describes amino acid sensing and mTORC1 nutrient sensing pathways in aging and lifespan extension."
+        },
+        {
+          "theory_id": "T018099",
+          "subcluster_name": "IGF-1 Deficiency and Autophagy-Mediated Aging Theory",
+          "reasoning": "Focuses on IGF-1 deficiency extending lifespan via autophagy preservation and hepatic function."
+        },
+        {
+          "theory_id": "T018065",
+          "subcluster_name": "Life History and Growth-Related Aging Trade-Off Theory",
+          "reasoning": "Links delayed maturation, growth hormone/IGF-1 levels, and body size to extended longevity."
+        },
+        {
+          "theory_id": "T018328",
+          "subcluster_name": "Life History and Growth-Related Aging Trade-Off Theory",
+          "reasoning": "Describes sex hormone (androgen) effects on epigenetic aging and sex-dependent lifespan differences."
+        },
+        {
+          "theory_id": "T016868",
+          "subcluster_name": "Life History and Growth-Related Aging Trade-Off Theory",
+          "reasoning": "Presents resource-rational meta-control theory relating cognitive resource allocation and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:11:31"
+}

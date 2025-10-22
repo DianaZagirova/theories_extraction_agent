@@ -1,0 +1,148 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 40,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+        "theory_ids": [
+          "T027218",
+          "T027271"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027328",
+          "subcluster_name": "Mitochondrial Dysfunction and Neuromuscular Aging Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction causing neuromuscular junction instability and muscle atrophy, highlighting tissue-specific mitochondrial decline affecting motor units."
+        },
+        {
+          "theory_id": "T007781",
+          "subcluster_name": "Mitochondrial Oxidative Stress from Metabolic Dysregulation Theory",
+          "reasoning": "Centers on cytosolic triglyceride-induced mitochondrial oxidative stress via ADP/ATP exchange inhibition, linking metabolic lipid overload to mitochondrial ROS and aging."
+        },
+        {
+          "theory_id": "T027068",
+          "subcluster_name": "Mitochondrial Oxidative Damage Accumulation and Neuroprotection Theory",
+          "reasoning": "Emphasizes mitochondrial oxidative damage accumulation in neurons and protective roles of melatonin, linking mitochondrial ROS to neurodegeneration and aging."
+        },
+        {
+          "theory_id": "T027071",
+          "subcluster_name": "Organ-Specific Mitochondrial Dysfunction and Quality Control Theory",
+          "reasoning": "Highlights mitochondrial DNA damage, ROS homeostasis, and dysregulated biogenesis/mitophagy in organ-specific aging phenotypes."
+        },
+        {
+          "theory_id": "T027463",
+          "subcluster_name": "Mitochondrial Oxidative Stress and Quality Control Theory",
+          "reasoning": "Focuses on mitochondrial ROS accumulation, energy production decline, and impaired quality control mechanisms like mitophagy in cardiac aging."
+        },
+        {
+          "theory_id": "T013871",
+          "subcluster_name": "Mitochondrial Oxidative Stress and Cardiac Aging Theory",
+          "reasoning": "Details mitochondrial cytochrome c oxidase decline, ROS increase, and antioxidant responses specifically in cardiac tissue aging."
+        },
+        {
+          "theory_id": "T012549",
+          "subcluster_name": "Mitochondrial Translational Control and Aging Theory",
+          "reasoning": "Proposes mitochondrial protein synthesis regulation as a key aging determinant independent of oxidative stress and energy production."
+        },
+        {
+          "theory_id": "T027484",
+          "subcluster_name": "Mitochondrial Dysfunction as a Hallmark of Aging Theory",
+          "reasoning": "Frames mitochondrial dysfunction as a fundamental hallmark shared between mitochondrial diseases and normative aging, modifiable by pharmacological agents."
+        },
+        {
+          "theory_id": "T008596",
+          "subcluster_name": "Cardiac Mitochondrial Cytochrome c and Cardiolipin Depletion Theory",
+          "reasoning": "Focuses on selective depletion of cytochrome c and cardiolipin in cardiac mitochondria causing impaired respiration and accelerated cardiac aging."
+        },
+        {
+          "theory_id": "T007415",
+          "subcluster_name": "Mitochondrial bc1 Complex Superoxide Production Reduction Theory",
+          "reasoning": "Describes evolutionary adaptations in mitochondrial bc1 complex to reduce superoxide production, linking structural changes to longevity."
+        },
+        {
+          "theory_id": "T027106",
+          "subcluster_name": "Mitochondrial Biogenesis and Dynamics Decline Theory",
+          "reasoning": "Highlights age-related decline in mitochondrial biogenesis regulators, oxidative stress, inflammation, and imbalance in mitochondrial fusion/fission."
+        },
+        {
+          "theory_id": "T027091",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Dysfunction Theory",
+          "reasoning": "Focuses on accumulation of mtDNA mutations causing respiratory chain deficiency and cell loss, with a nuanced view on ROS involvement."
+        },
+        {
+          "theory_id": "T027242",
+          "subcluster_name": "Mitochondrial ROS Production and Electron Transport Chain Dysfunction Theory",
+          "reasoning": "Emphasizes mitochondrial ROS as causal aging agents, including roles of complex II mutations and electron leakage mechanisms."
+        },
+        {
+          "theory_id": "T027218",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Centers on mitochondrial ROS production as a regulated process causing molecular damage and influencing species longevity."
+        },
+        {
+          "theory_id": "T027271",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Describes mitochondrial ROS production causing oxidative damage and a vicious cycle of mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T015032",
+          "subcluster_name": "Mitochondrial Protein Acetylation Modulation Theory of Longevity",
+          "reasoning": "Links calorie restriction-induced lifespan extension to changes in mitochondrial protein acetylation affecting metabolism and aging."
+        },
+        {
+          "theory_id": "T027407",
+          "subcluster_name": "Mitophagy and Mitochondrial Quality Control Theory",
+          "reasoning": "Focuses on mitophagy as a key mitochondrial quality control mechanism whose impairment drives aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T027083",
+          "subcluster_name": "Mitochondrial Free Radical and Intergenomic Conflict Theory",
+          "reasoning": "Combines mitochondrial ROS production with mitochondrial-nuclear genome interactions influencing aging mechanisms."
+        },
+        {
+          "theory_id": "T002051",
+          "subcluster_name": "Mitochondrial DNA Deletion-Prone Structure and Damage Theory",
+          "reasoning": "Focuses on unusual mtDNA structures prone to deletions via oxidative damage and recombination, contributing to mitochondrial aging."
+        },
+        {
+          "theory_id": "T027399",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Stress Theory",
+          "reasoning": "General theory linking mitochondrial functional decline and ROS accumulation to aging and age-related diseases."
+        },
+        {
+          "theory_id": "T003448",
+          "subcluster_name": "Maternal Mitochondrial Inheritance and Lifespan Theory",
+          "reasoning": "Proposes maternal mitochondrial factors and oocyte mitochondrial decline as key determinants of offspring lifespan and aging."
+        },
+        {
+          "theory_id": "T027365",
+          "subcluster_name": "Mitochondrial Decline in Epidermal Cells and Systemic Aging Theory",
+          "reasoning": "Links age-related mitochondrial number and function decline in skin cells to systemic aging phenotypes including obesity."
+        },
+        {
+          "theory_id": "T007006",
+          "subcluster_name": "Physical Activity Modulation of Mitochondrial Aging Theory",
+          "reasoning": "Attributes mitochondrial aging largely to reduced physical activity, with exercise protecting mitochondrial function and delaying aging."
+        },
+        {
+          "theory_id": "T027192",
+          "subcluster_name": "Mitochondrial DNA Deletion Mutation and Sarcopenia Theory",
+          "reasoning": "Details accumulation of mtDNA deletions causing mitochondrial dysfunction, apoptosis, and muscle fiber loss contributing to sarcopenia."
+        },
+        {
+          "theory_id": "T000779",
+          "subcluster_name": "Respiration-Driven Aging Control and ROS Theory",
+          "reasoning": "Proposes cytochrome oxidase-dependent respiration influences aging via ROS production and energy metabolism affecting longevity."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:55:03"
+}

@@ -1,0 +1,199 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 21,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Persistent DNA Double-Strand Break Accumulation Theory",
+        "theory_ids": [
+          "T025471",
+          "T025546",
+          "T026192",
+          "T026191"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "DNA Replication and Repair Enzyme Decline Theory",
+        "theory_ids": [
+          "T025752",
+          "T025949",
+          "T025056",
+          "T025639",
+          "T026172",
+          "T025176",
+          "T025660",
+          "T026170"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+        "theory_ids": [
+          "T025760",
+          "T025773",
+          "T025347",
+          "T026035",
+          "T026135",
+          "T025324"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "DNA Damage Response-Driven Inflammation Theory",
+        "theory_ids": [
+          "T024955",
+          "T025190",
+          "T026179",
+          "T025385"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Damage and Metabolic Decline Theory",
+        "theory_ids": [
+          "T025623",
+          "T024592",
+          "T025607"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025471",
+          "subcluster_name": "Persistent DNA Double-Strand Break Accumulation Theory",
+          "reasoning": "Focuses on persistent unrepaired DNA double-strand breaks (DSBs) and their role in aging and senescence."
+        },
+        {
+          "theory_id": "T025546",
+          "subcluster_name": "Persistent DNA Double-Strand Break Accumulation Theory",
+          "reasoning": "Centers on accumulation of irreversible DSBs and imperfect repair via NHEJ contributing to aging."
+        },
+        {
+          "theory_id": "T026192",
+          "subcluster_name": "Persistent DNA Double-Strand Break Accumulation Theory",
+          "reasoning": "Emphasizes accumulation of DSBs in stem cells impairing function and driving aging."
+        },
+        {
+          "theory_id": "T026191",
+          "subcluster_name": "Persistent DNA Double-Strand Break Accumulation Theory",
+          "reasoning": "Describes DNA damage accumulation in stem cells, especially DSBs, leading to stem cell exhaustion."
+        },
+        {
+          "theory_id": "T025752",
+          "subcluster_name": "DNA Replication and Repair Enzyme Decline Theory",
+          "reasoning": "Focuses on decline in DNA polymerase alpha activity and fidelity causing replication errors and genomic instability."
+        },
+        {
+          "theory_id": "T025949",
+          "subcluster_name": "DNA Replication and Repair Enzyme Decline Theory",
+          "reasoning": "Highlights DNA repair efficiency and regulation as fundamental to aging and longevity variability."
+        },
+        {
+          "theory_id": "T025056",
+          "subcluster_name": "DNA Replication and Repair Enzyme Decline Theory",
+          "reasoning": "Shows high expression of DNA repair genes like BRCA1 correlates with longevity and genome maintenance."
+        },
+        {
+          "theory_id": "T025639",
+          "subcluster_name": "DNA Replication and Repair Enzyme Decline Theory",
+          "reasoning": "Links accumulation of DNA damage and somatic mutations with aging modulated by DNA repair capacity."
+        },
+        {
+          "theory_id": "T026172",
+          "subcluster_name": "DNA Replication and Repair Enzyme Decline Theory",
+          "reasoning": "Describes DNA repair deficiency (ERCC1) causing genome instability and senescence contributing to aging."
+        },
+        {
+          "theory_id": "T025176",
+          "subcluster_name": "DNA Replication and Repair Enzyme Decline Theory",
+          "reasoning": "Focuses on Werner syndrome protein's role in DNA damage checkpoint and genomic stability affecting aging."
+        },
+        {
+          "theory_id": "T025660",
+          "subcluster_name": "DNA Replication and Repair Enzyme Decline Theory",
+          "reasoning": "Emphasizes DNA repair deficiency driving aging and cancer susceptibility via genomic instability."
+        },
+        {
+          "theory_id": "T026170",
+          "subcluster_name": "DNA Replication and Repair Enzyme Decline Theory",
+          "reasoning": "Describes DNA damage response pathways as central regulators linking DNA repair defects to aging and disease."
+        },
+        {
+          "theory_id": "T025760",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of DNA damage and genomic instability due to defective repair genes like SGS1."
+        },
+        {
+          "theory_id": "T025773",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes stochastic accumulation of somatic mutations causing genomic instability and altered gene regulation."
+        },
+        {
+          "theory_id": "T025347",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on chromosomal abnormalities and aneuploidy as drivers of genomic instability and aging."
+        },
+        {
+          "theory_id": "T026035",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Highlights genome instability from DNA damage accumulation driving aging and aging-related diseases."
+        },
+        {
+          "theory_id": "T026135",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Links DNA repair gene defects to aging phenotypes including menopause and somatic cell senescence."
+        },
+        {
+          "theory_id": "T025324",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of alkylation DNA damage (7-methylguanine) contributing to genomic instability with age."
+        },
+        {
+          "theory_id": "T024955",
+          "subcluster_name": "DNA Damage Response-Driven Inflammation Theory",
+          "reasoning": "Emphasizes chronic DDR activation triggering proinflammatory signaling and immune responses driving aging."
+        },
+        {
+          "theory_id": "T025190",
+          "subcluster_name": "DNA Damage Response-Driven Inflammation Theory",
+          "reasoning": "Proposes aging as repairable damage accumulation with therapies aimed at reversing damage and inflammation."
+        },
+        {
+          "theory_id": "T026179",
+          "subcluster_name": "DNA Damage Response-Driven Inflammation Theory",
+          "reasoning": "Includes DNA damage, epigenetic, and protein damage contributing to cellular dysfunction and aging."
+        },
+        {
+          "theory_id": "T025623",
+          "subcluster_name": "Mitochondrial DNA Damage and Metabolic Decline Theory",
+          "reasoning": "Focuses on age-related decline in mitochondrial oxidative metabolism and its impact on aging."
+        },
+        {
+          "theory_id": "T024592",
+          "subcluster_name": "Mitochondrial DNA Damage and Metabolic Decline Theory",
+          "reasoning": "Describes accumulation of mtDNA mutations causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T025607",
+          "subcluster_name": "Mitochondrial DNA Damage and Metabolic Decline Theory",
+          "reasoning": "Focuses on macromolecular damage accumulation in lens proteins linked to aging and dysfunction."
+        },
+        {
+          "theory_id": "T025385",
+          "subcluster_name": "DNA Damage Response-Driven Inflammation Theory",
+          "reasoning": "Discusses slowing aging process and ethical implications, related to managing damage and inflammation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:53:57"
+}

@@ -1,0 +1,201 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 14,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T011483",
+          "T011633",
+          "T011354",
+          "T011335",
+          "T011151",
+          "T011175",
+          "T011279",
+          "T011187",
+          "T011853",
+          "T011213",
+          "T010533"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Metabolic and Oxygen-Sensing Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T011066",
+          "T010432",
+          "T011678",
+          "T011424",
+          "T011319"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+        "theory_ids": [
+          "T011258",
+          "T011243",
+          "T011511",
+          "T011228",
+          "T011742",
+          "T011117",
+          "T011178",
+          "T011752",
+          "T011273",
+          "T011216"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011483",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on the evolutionary basis of aging via genes with early-life benefits and late-life deleterious effects, emphasizing pleiotropy and trade-offs in reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T011633",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes early-life benefits of inflammatory responses and reproduction at the cost of late-life damage, fitting classical AP trade-offs between reproduction and maintenance."
+        },
+        {
+          "theory_id": "T011354",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes genes with early-life advantages and late-life costs, non-adaptive aging as a by-product of evolutionary forces optimizing reproduction."
+        },
+        {
+          "theory_id": "T011335",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on trade-offs between early-life benefits and late-life costs, including resource allocation between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T011151",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes the evolutionary basis of aging as a trade-off favoring early-life benefits despite late-life deterioration."
+        },
+        {
+          "theory_id": "T011175",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on pleiotropic genes with early-life benefits and late-life costs, including environmental modulation of pleiotropic effects."
+        },
+        {
+          "theory_id": "T011279",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Highlights declining selection with age and trade-offs between early reproduction and late survival, core AP concepts."
+        },
+        {
+          "theory_id": "T011187",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Williams' original AP theory focusing on genes with early reproductive benefits but late reproductive decline."
+        },
+        {
+          "theory_id": "T011853",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes genes with dual effects and evolutionary trade-offs favoring early-life fitness at the cost of late-life decline."
+        },
+        {
+          "theory_id": "T011213",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on developmental genes with early-life benefits and late-life costs, fitting classical AP and disposable soma trade-offs."
+        },
+        {
+          "theory_id": "T011066",
+          "subcluster_name": "Metabolic and Oxygen-Sensing Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on metabolic and oxygen-sensing gene alleles with antagonistic pleiotropic effects on life history traits, linking cellular metabolism and aging."
+        },
+        {
+          "theory_id": "T010432",
+          "subcluster_name": "Metabolic and Oxygen-Sensing Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes trade-offs between cancer suppression and aging via tumor suppressor genes causing cellular senescence, linking metabolism and aging."
+        },
+        {
+          "theory_id": "T011678",
+          "subcluster_name": "Metabolic and Oxygen-Sensing Antagonistic Pleiotropy Theory",
+          "reasoning": "Includes resource allocation trade-offs involving lipid metabolism and pleiotropic genes regulating somatic maintenance versus reproduction."
+        },
+        {
+          "theory_id": "T011424",
+          "subcluster_name": "Metabolic and Oxygen-Sensing Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses genetic trade-offs between early reproduction and lifespan with links to metabolic costs and sexual conflict."
+        },
+        {
+          "theory_id": "T011319",
+          "subcluster_name": "Metabolic and Oxygen-Sensing Antagonistic Pleiotropy Theory",
+          "reasoning": "Combines AP and disposable soma theories emphasizing resource allocation trade-offs affecting reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T011258",
+          "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+          "reasoning": "Integrates mutation accumulation, AP, and disposable soma theories focusing on genetic mechanisms and evolutionary trade-offs causing aging."
+        },
+        {
+          "theory_id": "T011243",
+          "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+          "reasoning": "Discusses mutation accumulation, AP, and disposable soma as complementary evolutionary theories explaining senescence."
+        },
+        {
+          "theory_id": "T011511",
+          "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+          "reasoning": "Focuses on declining selection pressure with age, mutation accumulation, and AP maintaining deleterious alleles causing aging."
+        },
+        {
+          "theory_id": "T011228",
+          "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+          "reasoning": "Analyzes gene co-expression networks supporting mutation accumulation, AP, and disposable soma as joint causes of aging."
+        },
+        {
+          "theory_id": "T011742",
+          "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+          "reasoning": "Explores extrinsic mortality effects on aging evolution, integrating mutation accumulation and AP concepts."
+        },
+        {
+          "theory_id": "T011117",
+          "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+          "reasoning": "General evolutionary theory emphasizing declining selection with age, extrinsic mortality, and mutation accumulation alongside AP."
+        },
+        {
+          "theory_id": "T011178",
+          "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+          "reasoning": "Focuses on declining selection gradients with age and population dynamics shaping evolutionary senescence, consistent with mutation accumulation and AP."
+        },
+        {
+          "theory_id": "T011752",
+          "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+          "reasoning": "Examines condition-dependent extrinsic mortality effects on aging evolution, integrating mutation accumulation and AP frameworks."
+        },
+        {
+          "theory_id": "T011273",
+          "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+          "reasoning": "Studies seasonal extrinsic mortality and resource availability effects on senescence in social insects, linking mutation accumulation and AP."
+        },
+        {
+          "theory_id": "T011216",
+          "subcluster_name": "Evolutionary Theories Integrating Mutation Accumulation and Antagonistic Pleiotropy",
+          "reasoning": "Models aging evolution with assortative mating and sexual dimorphism, consistent with AP and disposable soma trade-offs."
+        },
+        {
+          "theory_id": "T011786",
+          "subcluster_name": "Fertility-Longevity Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on the trade-off between fertility and longevity in humans, emphasizing reproductive costs on survival as a form of AP."
+        },
+        {
+          "theory_id": "T010533",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes actuarial senescence and mortality increase with age due to weakening natural selection, core to classical AP theory."
+        },
+        {
+          "theory_id": "T010847",
+          "subcluster_name": "Phylogenetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on ancient evolutionary origins of aging genes and antagonistic pleiotropy at deep phylogenetic timescales."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:55:10"
+}

@@ -1,0 +1,232 @@
+{
+  "cluster_name": "Inflammaging Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Systemic Immune Dysregulation and Chronic Inflammation Inflammaging Theory",
+        "theory_ids": [
+          "T027409",
+          "T027536",
+          "T027502",
+          "T026852",
+          "T027406",
+          "T026302",
+          "T027292",
+          "T027524"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "NF-kB Pathway-Mediated Inflammaging Theory",
+        "theory_ids": [
+          "T027351",
+          "T027216",
+          "T027241"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Hematopoietic Stem Cell Dysfunction Driven Inflammaging Theory",
+        "theory_ids": [
+          "T027573",
+          "T027270"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Tissue-Specific Inflammaging and Epidermal Dysfunction Theory",
+        "theory_ids": [
+          "T023754",
+          "T026772",
+          "T026800"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Genetic Regulation of Cytokine-Mediated Inflammaging Theory",
+        "theory_ids": [
+          "T025132",
+          "T026773"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Inflammaging Theory",
+        "theory_ids": [
+          "T027098",
+          "T027059",
+          "T027033",
+          "T026366",
+          "T027551",
+          "T027392",
+          "T026876",
+          "T026233",
+          "T026746",
+          "T023782",
+          "T004698"
+        ],
+        "theory_count": 11,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "11 subclusters too small"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027409",
+          "subcluster_name": "Systemic Immune Dysregulation and Chronic Inflammation Inflammaging Theory",
+          "reasoning": "Focuses on chronic low-grade systemic inflammation, immune tolerance breakdown, and immune dysregulation driving inflammaging and age-related diseases."
+        },
+        {
+          "theory_id": "T027536",
+          "subcluster_name": "Systemic Immune Dysregulation and Chronic Inflammation Inflammaging Theory",
+          "reasoning": "Emphasizes chronic systemic inflammation, inflammatory biomarkers, and links to telomere shortening as drivers of aging."
+        },
+        {
+          "theory_id": "T027351",
+          "subcluster_name": "NF-kB Pathway-Mediated Inflammaging Theory",
+          "reasoning": "Highlights NF-kB activation as a central mechanism driving inflammaging and aging, with anti-inflammatory counter-regulation."
+        },
+        {
+          "theory_id": "T027502",
+          "subcluster_name": "Systemic Immune Dysregulation and Chronic Inflammation Inflammaging Theory",
+          "reasoning": "Describes inflammation-induced molecular changes including ion channel gene expression alterations linking inflammation to systemic aging."
+        },
+        {
+          "theory_id": "T027573",
+          "subcluster_name": "Hematopoietic Stem Cell Dysfunction Driven Inflammaging Theory",
+          "reasoning": "Focuses on IL-1 driven chronic inflammation impairing hematopoietic stem cell function and promoting hematological aging pathologies."
+        },
+        {
+          "theory_id": "T027098",
+          "subcluster_name": "Innate Immune Receptor and Interferon Signaling Inflammaging Theory",
+          "reasoning": "Centers on upregulation of innate immune receptors and interferon signaling pathways driving inflammaging and systemic aging."
+        },
+        {
+          "theory_id": "T023754",
+          "subcluster_name": "Tissue-Specific Inflammaging and Epidermal Dysfunction Theory",
+          "reasoning": "Highlights skin epidermal dysfunction as a source of systemic inflammaging and target for intervention to reduce chronic inflammation."
+        },
+        {
+          "theory_id": "T027059",
+          "subcluster_name": "Neuroinflammation and Peripheral Immunosenescence Inflammaging Theory",
+          "reasoning": "Describes peripheral immune aging causing neuroinflammation via immune cell infiltration and cytokine imbalance leading to neurodegeneration."
+        },
+        {
+          "theory_id": "T027033",
+          "subcluster_name": "Chemokine-Mediated Immune Cell Trafficking Inflammaging Theory",
+          "reasoning": "Focuses on chemokine dysregulation driving immune cell recruitment and sustaining chronic inflammation in aging tissues."
+        },
+        {
+          "theory_id": "T026852",
+          "subcluster_name": "Systemic Immune Dysregulation and Chronic Inflammation Inflammaging Theory",
+          "reasoning": "Emphasizes chronic low-grade inflammation genetically controlled and linked to age-related diseases."
+        },
+        {
+          "theory_id": "T027406",
+          "subcluster_name": "Systemic Immune Dysregulation and Chronic Inflammation Inflammaging Theory",
+          "reasoning": "Focuses on sex differences in inflammaging and its role in systemic aging and disease susceptibility."
+        },
+        {
+          "theory_id": "T027216",
+          "subcluster_name": "NF-kB Pathway-Mediated Inflammaging Theory",
+          "reasoning": "Details NF-kB as a central transcriptional regulator of inflammaging and aging, modulated by natural compounds."
+        },
+        {
+          "theory_id": "T026366",
+          "subcluster_name": "T Cell Dysregulation-Driven Inflammaging Theory",
+          "reasoning": "Focuses on age-related T cell functional changes driving chronic low-grade inflammation and systemic aging."
+        },
+        {
+          "theory_id": "T027241",
+          "subcluster_name": "NF-kB Pathway-Mediated Inflammaging Theory",
+          "reasoning": "Highlights NF-kB and proinflammatory mediators as central to chronic inflammation and immune dysregulation in aging."
+        },
+        {
+          "theory_id": "T026772",
+          "subcluster_name": "Tissue-Specific Inflammaging and Epidermal Dysfunction Theory",
+          "reasoning": "Describes inflammaging-driven epidermal homeostasis imbalance and premature skin aging triggered by environmental factors."
+        },
+        {
+          "theory_id": "T025132",
+          "subcluster_name": "Genetic Regulation of Cytokine-Mediated Inflammaging Theory",
+          "reasoning": "Focuses on cytokine gene polymorphisms influencing inflammatory profiles and longevity, with gender-specific effects."
+        },
+        {
+          "theory_id": "T027551",
+          "subcluster_name": "Stem Cell Dysfunction and Inflammaging Interplay Theory",
+          "reasoning": "Emphasizes inflammaging\u2019s impact on stem cell physiology, including epigenetic and mitochondrial dysfunctions."
+        },
+        {
+          "theory_id": "T026302",
+          "subcluster_name": "Systemic Immune Dysregulation and Chronic Inflammation Inflammaging Theory",
+          "reasoning": "Links inflammaging and immunosenescence to tissue dysfunction and aging phenotypes."
+        },
+        {
+          "theory_id": "T026800",
+          "subcluster_name": "Tissue-Specific Inflammaging and Epidermal Dysfunction Theory",
+          "reasoning": "Focuses on skin inflammaging driven by environmental exposure causing senescence and homeostasis imbalance."
+        },
+        {
+          "theory_id": "T027270",
+          "subcluster_name": "Hematopoietic Stem Cell Dysfunction Driven Inflammaging Theory",
+          "reasoning": "Describes inflammaging-induced miRNA dysregulation linking IL6 and TNF signaling to HSC aging and malignancy."
+        },
+        {
+          "theory_id": "T027292",
+          "subcluster_name": "Systemic Immune Dysregulation and Chronic Inflammation Inflammaging Theory",
+          "reasoning": "Focuses on cytokine balance and nutrition shaping inflammaging and aging trajectories."
+        },
+        {
+          "theory_id": "T027392",
+          "subcluster_name": "Cytokine Dual-Role Inflammaging Theory",
+          "reasoning": "Describes the dichotomous beneficial and detrimental roles of cytokines in inflammaging and aging."
+        },
+        {
+          "theory_id": "T026876",
+          "subcluster_name": "Nutrition and Microbiota Modulated Inflammaging Theory",
+          "reasoning": "Emphasizes dietary and gut microbiota influences on inflammaging and aging processes."
+        },
+        {
+          "theory_id": "T027524",
+          "subcluster_name": "Systemic Immune Dysregulation and Chronic Inflammation Inflammaging Theory",
+          "reasoning": "Focuses on heterogeneity of inflammaging shaped by lifelong exposures and development of inflammatory aging biomarkers."
+        },
+        {
+          "theory_id": "T026773",
+          "subcluster_name": "Genetic Regulation of Cytokine-Mediated Inflammaging Theory",
+          "reasoning": "Highlights genetic and metabolic modulation of pro- and anti-inflammatory responses influencing healthy aging."
+        },
+        {
+          "theory_id": "T026233",
+          "subcluster_name": "Context-Dependent Eco-Evolutionary Inflammaging Theory",
+          "reasoning": "Views inflammaging as a variable, context-dependent process shaped by evolutionary, environmental, and individual factors."
+        },
+        {
+          "theory_id": "T026746",
+          "subcluster_name": "Gut Microbiota and Intestinal Barrier Inflammaging Theory",
+          "reasoning": "Focuses on gut inflammaging driven by microbiome dysbiosis and barrier dysfunction accelerating systemic aging."
+        },
+        {
+          "theory_id": "T023782",
+          "subcluster_name": "Innate Immune Gene Upregulation Conserved Inflammaging Theory",
+          "reasoning": "Describes conserved innate immune gene overexpression and inflammaging as a causal mechanism of aging across species."
+        },
+        {
+          "theory_id": "T004698",
+          "subcluster_name": "Psychosocial Stress-Linked Systemic Inflammaging Theory",
+          "reasoning": "Links psychosocial stressors such as intimate partner violence to elevated inflammation accelerating biological aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:30:36"
+}

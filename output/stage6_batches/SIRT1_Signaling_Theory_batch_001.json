@@ -1,0 +1,161 @@
+{
+  "cluster_name": "SIRT1 Signaling Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+        "theory_ids": [
+          "T013095",
+          "T001586",
+          "T002033",
+          "T004141",
+          "T006473",
+          "T001861",
+          "T015000",
+          "T014929",
+          "T015289",
+          "T014898",
+          "T011441",
+          "T001678",
+          "T014984"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "SIRT1-AMPK Metabolic and Senescence Regulation Theory",
+        "theory_ids": [
+          "T005424",
+          "T010907",
+          "T000811",
+          "T006301",
+          "T015236",
+          "T003394"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "SIRT1-Inflammation and Vascular Aging Regulation Theory",
+        "theory_ids": [
+          "T004056",
+          "T001377"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T013095",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "This theory focuses on SIRT1's role in epigenetic silencing of rDNA locus and chromatin state changes affecting aging, fitting the epigenetic regulation theme."
+        },
+        {
+          "theory_id": "T001586",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "Describes SIRT1's modulation of DNA methylation at polycomb group target genes, a key epigenetic aging mechanism."
+        },
+        {
+          "theory_id": "T002033",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "Involves SIRT1's regulation of mitochondrial function and epigenetic modifications in oocytes, linking epigenetics and mitochondrial aging."
+        },
+        {
+          "theory_id": "T004141",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "Focuses on epigenetic silencing of SIRT1 promoter causing premature senescence, highlighting epigenetic regulation by SIRT1."
+        },
+        {
+          "theory_id": "T006473",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "Covers SIRT1's broad role in metabolism, DNA repair, inflammation, and stress response via epigenetic mechanisms."
+        },
+        {
+          "theory_id": "T001861",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "Describes SIRT1 and AMPK mutual regulation affecting metabolism and longevity, with epigenetic gene regulation as a key mechanism."
+        },
+        {
+          "theory_id": "T015000",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "SIRT1 mediates calorie restriction effects on gene expression and metabolic pathways, involving epigenetic regulation."
+        },
+        {
+          "theory_id": "T014929",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "SIRT1 activation by resveratrol mimics calorie restriction effects, involving epigenetic and mitochondrial pathways."
+        },
+        {
+          "theory_id": "T015289",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "Fasting-induced SIRT1 activation via PPARalpha and NAD+ salvage pathway links metabolism to epigenetic longevity regulation."
+        },
+        {
+          "theory_id": "T014898",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "SIRT1 dysfunction in adipose tissue causes metabolic aging via epigenetic and metabolic dysregulation."
+        },
+        {
+          "theory_id": "T011441",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "SIRT1 modulates inflammation and neuroprotection via deacetylation of histones and transcription factors, an epigenetic mechanism."
+        },
+        {
+          "theory_id": "T001678",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "SIRT1 regulates inflammation by deacetylating NF-kappaB, linking epigenetic control to aging-related chronic inflammation."
+        },
+        {
+          "theory_id": "T014984",
+          "subcluster_name": "SIRT1 Epigenetic Regulation and Chromatin Remodeling Theory",
+          "reasoning": "Focuses on redox regulation of SIRT1 activity and its epigenetic control of aging-related transcription factors."
+        },
+        {
+          "theory_id": "T005424",
+          "subcluster_name": "SIRT1-AMPK Metabolic and Senescence Regulation Theory",
+          "reasoning": "Describes cross-talk between SIRT1 and AMPK in regulating cellular senescence and energy metabolism."
+        },
+        {
+          "theory_id": "T010907",
+          "subcluster_name": "SIRT1-AMPK Metabolic and Senescence Regulation Theory",
+          "reasoning": "SIRT1 regulates mitochondrial biogenesis and autophagy via AMPK and PGC-1\u03b1, linking metabolism to aging."
+        },
+        {
+          "theory_id": "T000811",
+          "subcluster_name": "SIRT1-AMPK Metabolic and Senescence Regulation Theory",
+          "reasoning": "SIRT1-SIRT3 axis maintains antioxidant defenses and metabolic homeostasis, supporting aging resilience."
+        },
+        {
+          "theory_id": "T006301",
+          "subcluster_name": "SIRT1-AMPK Metabolic and Senescence Regulation Theory",
+          "reasoning": "SIRT1 regulates replicative senescence via p19ARF and p53 pathways under chronic genotoxic stress, linking metabolism and senescence."
+        },
+        {
+          "theory_id": "T015236",
+          "subcluster_name": "SIRT1-AMPK Metabolic and Senescence Regulation Theory",
+          "reasoning": "SIRT1 modulates vascular senescence by deacetylating p53, linking metabolic stress to endothelial aging."
+        },
+        {
+          "theory_id": "T003394",
+          "subcluster_name": "SIRT1-AMPK Metabolic and Senescence Regulation Theory",
+          "reasoning": "SIRT1 inhibits NADPH oxidase and regulates PGC-1\u03b1/PPAR\u03b1 to reduce oxidative stress and vascular aging."
+        },
+        {
+          "theory_id": "T004056",
+          "subcluster_name": "SIRT1-Inflammation and Vascular Aging Regulation Theory",
+          "reasoning": "Focuses on SIRT1-HSF1-HSP axis in resolving vascular inflammation and preventing senescence."
+        },
+        {
+          "theory_id": "T001377",
+          "subcluster_name": "SIRT1-Inflammation and Vascular Aging Regulation Theory",
+          "reasoning": "SIRT1 downregulates angiotensin II receptor expression, reducing vascular inflammation and promoting longevity."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 12:02:49"
+}

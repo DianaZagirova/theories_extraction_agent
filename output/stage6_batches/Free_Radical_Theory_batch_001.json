@@ -1,0 +1,189 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Oxidative Damage-Driven Free Radical Theory",
+        "theory_ids": [
+          "T003769",
+          "T005066",
+          "T002533",
+          "T004863",
+          "T002627",
+          "T001424",
+          "T002503"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T003597",
+          "T001897",
+          "T002082",
+          "T004034",
+          "T006221",
+          "T002598",
+          "T004976",
+          "T002995"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Antioxidant Defense and Free Radical Damage Theory",
+        "theory_ids": [
+          "T002165",
+          "T003351",
+          "T001370",
+          "T003469",
+          "T003018",
+          "T004098",
+          "T004433",
+          "T001956",
+          "T005835"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T003769",
+          "subcluster_name": "DNA Oxidative Damage-Driven Free Radical Theory",
+          "reasoning": "Focuses on oxidative damage to DNA as a primary aging mechanism, linking metabolic rate to DNA damage accumulation."
+        },
+        {
+          "theory_id": "T005066",
+          "subcluster_name": "DNA Oxidative Damage-Driven Free Radical Theory",
+          "reasoning": "Centers on oxidative damage causing mitochondrial DNA deletions contributing to muscle aging."
+        },
+        {
+          "theory_id": "T002533",
+          "subcluster_name": "DNA Oxidative Damage-Driven Free Radical Theory",
+          "reasoning": "Describes hydroxyl radical-induced oxidative DNA damage activating senescence pathways."
+        },
+        {
+          "theory_id": "T004863",
+          "subcluster_name": "DNA Oxidative Damage-Driven Free Radical Theory",
+          "reasoning": "Links oxidative stress to telomere shortening and DNA damage accelerating aging in ectotherms."
+        },
+        {
+          "theory_id": "T002627",
+          "subcluster_name": "DNA Oxidative Damage-Driven Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial ROS causing oxidative DNA damage and mutations driving aging."
+        },
+        {
+          "theory_id": "T001424",
+          "subcluster_name": "DNA Oxidative Damage-Driven Free Radical Theory",
+          "reasoning": "Highlights oxidative stress causing DNA damage contributing to neuronal degeneration and aging."
+        },
+        {
+          "theory_id": "T002503",
+          "subcluster_name": "DNA Oxidative Damage-Driven Free Radical Theory",
+          "reasoning": "Focuses on oxidative damage including DNA and lipid peroxidation as aging drivers."
+        },
+        {
+          "theory_id": "T003597",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS production causing mtDNA mutations and stem cell dysfunction."
+        },
+        {
+          "theory_id": "T001897",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial ROS as primary source of oxidative damage and aging driver."
+        },
+        {
+          "theory_id": "T002082",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Links metabolic rate, mitochondrial ROS production, and caloric restriction effects on aging."
+        },
+        {
+          "theory_id": "T004034",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Proposes longevity determined by rate of mitochondrial free radical generation and co-evolution of antioxidant capacity."
+        },
+        {
+          "theory_id": "T006221",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial dysfunction as source of ROS driving aging and free radical damage."
+        },
+        {
+          "theory_id": "T002598",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Links metabolic rate, mitochondrial ROS production, and membrane composition affecting longevity."
+        },
+        {
+          "theory_id": "T004976",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on antioxidant enzymes and mitochondrial ROS detoxification influencing maximum lifespan."
+        },
+        {
+          "theory_id": "T002165",
+          "subcluster_name": "Antioxidant Defense and Free Radical Damage Theory",
+          "reasoning": "Emphasizes antioxidant enzymes modulating free radical damage and aging, with dietary restriction effects."
+        },
+        {
+          "theory_id": "T003351",
+          "subcluster_name": "Antioxidant Defense and Free Radical Damage Theory",
+          "reasoning": "Focuses on antioxidant enzymes like SOD1 in reducing ROS and extending lifespan."
+        },
+        {
+          "theory_id": "T001370",
+          "subcluster_name": "Antioxidant Defense and Free Radical Damage Theory",
+          "reasoning": "Describes decline in antioxidant capacity and role of antioxidant enzymes in aging."
+        },
+        {
+          "theory_id": "T003469",
+          "subcluster_name": "Antioxidant Defense and Free Radical Damage Theory",
+          "reasoning": "Highlights antioxidant defenses and repair mechanisms mitigating free radical damage."
+        },
+        {
+          "theory_id": "T003018",
+          "subcluster_name": "Antioxidant Defense and Free Radical Damage Theory",
+          "reasoning": "Details antioxidant enzyme efficiency and their role in protecting cells from free radical damage."
+        },
+        {
+          "theory_id": "T004098",
+          "subcluster_name": "Antioxidant Defense and Free Radical Damage Theory",
+          "reasoning": "Focuses on regional antioxidant enzyme activity and oxidative damage in brain aging."
+        },
+        {
+          "theory_id": "T004433",
+          "subcluster_name": "Antioxidant Defense and Free Radical Damage Theory",
+          "reasoning": "Describes glutathione deficiency impairing antioxidant defense leading to oxidative stress and premature aging."
+        },
+        {
+          "theory_id": "T001956",
+          "subcluster_name": "Antioxidant Defense and Free Radical Damage Theory",
+          "reasoning": "Focuses on glutathione as critical antioxidant whose decline with age contributes to oxidative damage."
+        },
+        {
+          "theory_id": "T005835",
+          "subcluster_name": "Antioxidant Defense and Free Radical Damage Theory",
+          "reasoning": "Proposes oxidative damage accumulation due to insufficient antioxidant defense as primary aging cause."
+        },
+        {
+          "theory_id": "T000377",
+          "subcluster_name": "Lipid Peroxidation and Membrane Composition Free Radical Theory",
+          "reasoning": "Focuses on lipid peroxidation susceptibility modulated by fatty acid unsaturation affecting aging."
+        },
+        {
+          "theory_id": "T002995",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on selective oxidative damage to mitochondrial proteins contributing to aging."
+        },
+        {
+          "theory_id": "T006519",
+          "subcluster_name": "Protein Oxidative Damage Theory",
+          "reasoning": "Centers on accumulation of oxidatively damaged proteins as a primary driver of aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:59:05"
+}

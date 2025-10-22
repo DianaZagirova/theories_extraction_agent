@@ -1,0 +1,195 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 26,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+        "theory_ids": [
+          "T016837",
+          "T016661",
+          "T016840",
+          "T016696",
+          "T016852",
+          "T016624",
+          "T016893",
+          "T016833",
+          "T016836",
+          "T016709",
+          "T016787",
+          "T016793",
+          "T016706",
+          "T016888"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Reproduction-Maintenance Trade-off and Telomere Dynamics Theory",
+        "theory_ids": [
+          "T016608",
+          "T016847",
+          "T016758",
+          "T016736",
+          "T016772",
+          "T016599",
+          "T016745",
+          "T016555"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Reproductive Status-Dependent Longevity and Trade-off Uncoupling Theory",
+        "theory_ids": [
+          "T016582",
+          "T016597",
+          "T016578"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016837",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "This theory focuses on IIS pathway reduction and its systemic effects on lifespan and neuromuscular health, fitting the IIS signaling modulation theme."
+        },
+        {
+          "theory_id": "T016661",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Describes epistatic interactions of insulin-like peptides dilp1 and dilp2 in IIS pathway regulating longevity, fitting IIS modulation."
+        },
+        {
+          "theory_id": "T016840",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Details molecular components of IIS pathway (AGE-1/PI3K, DAF-16/FOXO) and their role in lifespan extension, clearly IIS pathway focused."
+        },
+        {
+          "theory_id": "T016696",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Focuses on IIS reduction effects mediated by FOXO and TORC1/4E-BP downstream effectors, fitting IIS signaling modulation."
+        },
+        {
+          "theory_id": "T016852",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Describes IIS pathway\u2019s role in metabolic aging and lifespan regulation via FOXO, consistent with IIS modulation theme."
+        },
+        {
+          "theory_id": "T016624",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Tequila gene modulates IIS by processing insulin-like peptides affecting lifespan, fitting IIS pathway modulation."
+        },
+        {
+          "theory_id": "T016893",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Links IIS pathway to immunosenescence and lifespan via FOXO, consistent with IIS signaling modulation."
+        },
+        {
+          "theory_id": "T016833",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Describes chico mutations affecting IIS pathway and aging rate, fitting IIS modulation cluster."
+        },
+        {
+          "theory_id": "T016836",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Focuses on differential effects of insulin-like peptides DILP2 and DILP5 on IIS signaling and longevity."
+        },
+        {
+          "theory_id": "T016709",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Describes tissue-specific IIS reduction effects on lifespan and health, fitting IIS pathway modulation."
+        },
+        {
+          "theory_id": "T016787",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Focuses on IIS pathway and DAF-16/FOXO mediated longevity in C. elegans, a core IIS signaling theory."
+        },
+        {
+          "theory_id": "T016793",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Details IIS reduction effects on lifespan and tissue-specific DAF-16 isoforms in C. elegans, fitting IIS modulation."
+        },
+        {
+          "theory_id": "T016706",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Describes IIS/dFOXO repression of Activin signaling affecting muscle proteostasis and aging, a downstream IIS mechanism."
+        },
+        {
+          "theory_id": "T016888",
+          "subcluster_name": "Insulin/IGF Signaling (IIS) Pathway Modulation Theory",
+          "reasoning": "Shows non-canonical IIS upregulation in long-lived termite reproductives with metabolic remodeling, fitting IIS modulation."
+        },
+        {
+          "theory_id": "T016805",
+          "subcluster_name": "Growth Hormone/IGF-1 Axis Modulation Theory",
+          "reasoning": "Focuses on GH receptor disruption effects on insulin sensitivity and lifespan, a related but distinct hormonal axis modulating IIS."
+        },
+        {
+          "theory_id": "T016608",
+          "subcluster_name": "Reproduction-Maintenance Trade-off and Telomere Dynamics Theory",
+          "reasoning": "Focuses on trade-off between reproduction and somatic maintenance with telomere attrition as aging biomarker."
+        },
+        {
+          "theory_id": "T016847",
+          "subcluster_name": "Reproduction-Maintenance Trade-off and Telomere Dynamics Theory",
+          "reasoning": "Describes stress response and reproduction gene expression trade-offs linked to lifespan extension."
+        },
+        {
+          "theory_id": "T016758",
+          "subcluster_name": "Reproduction-Maintenance Trade-off and Telomere Dynamics Theory",
+          "reasoning": "Details resource allocation trade-offs between growth, reproduction, and lifespan under dietary regimes."
+        },
+        {
+          "theory_id": "T016736",
+          "subcluster_name": "Reproduction-Maintenance Trade-off and Telomere Dynamics Theory",
+          "reasoning": "Classic disposable soma allocation hypothesis linking dietary restriction, reproduction reduction, and lifespan extension."
+        },
+        {
+          "theory_id": "T016772",
+          "subcluster_name": "Reproduction-Maintenance Trade-off and Telomere Dynamics Theory",
+          "reasoning": "Focuses on lipid resource allocation trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T016599",
+          "subcluster_name": "Reproduction-Maintenance Trade-off and Telomere Dynamics Theory",
+          "reasoning": "Analyzes energetic trade-offs between reproduction and somatic metabolic storage affecting survival."
+        },
+        {
+          "theory_id": "T016745",
+          "subcluster_name": "Reproduction-Maintenance Trade-off and Telomere Dynamics Theory",
+          "reasoning": "Optimality theory encompassing disposable soma and antagonistic pleiotropy, focusing on resource allocation trade-offs."
+        },
+        {
+          "theory_id": "T016582",
+          "subcluster_name": "Reproductive Status-Dependent Longevity and Trade-off Uncoupling Theory",
+          "reasoning": "Describes uncoupling of reproduction-maintenance trade-off in honey bee queens allowing high reproduction and longevity."
+        },
+        {
+          "theory_id": "T016597",
+          "subcluster_name": "Reproductive Status-Dependent Longevity and Trade-off Uncoupling Theory",
+          "reasoning": "Shows extended longevity of reproductive mole-rats despite reproduction, indicating reversal of classic trade-off."
+        },
+        {
+          "theory_id": "T016578",
+          "subcluster_name": "Reproductive Status-Dependent Longevity and Trade-off Uncoupling Theory",
+          "reasoning": "Reproductive activation in honeybee workers induces stress resistance and longevity, uncoupling reproduction and aging."
+        },
+        {
+          "theory_id": "T016868",
+          "subcluster_name": "Cognitive Resource Allocation and Aging Meta-Control Theory",
+          "reasoning": "Focuses on resource-rational cognitive control and decision-making trade-offs across lifespan, distinct from metabolic trade-offs."
+        },
+        {
+          "theory_id": "T016555",
+          "subcluster_name": "Reproduction-Maintenance Trade-off and Telomere Dynamics Theory",
+          "reasoning": "Pace-of-life syndrome framework describing life-history trade-offs between reproduction and survival shaping aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:10:21"
+}

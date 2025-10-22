@@ -1,0 +1,201 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 23,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Eusociality-Driven Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T026814",
+          "T026749",
+          "T026817",
+          "T026792",
+          "T026715",
+          "T026821",
+          "T026033"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T026779",
+          "T026663",
+          "T026604",
+          "T026636",
+          "T026804",
+          "T026607",
+          "T026783",
+          "T026803"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T026831",
+          "T026775",
+          "T026826",
+          "T026666",
+          "T026742",
+          "T026711",
+          "T026477",
+          "T026990",
+          "T026998",
+          "T026981",
+          "T026995"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026814",
+          "subcluster_name": "Eusociality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on caste-specific aging and reproductive monopolization in eusocial insects, linking social structure and lifespan evolution."
+        },
+        {
+          "theory_id": "T026749",
+          "subcluster_name": "Eusociality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Explores aging evolution in cooperative breeders with reproductive queueing and kin selection, emphasizing social structure effects on lifespan."
+        },
+        {
+          "theory_id": "T026817",
+          "subcluster_name": "Eusociality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Models lifespan evolution in eusocial insect populations, highlighting extrinsic mortality reduction and social organization impacts."
+        },
+        {
+          "theory_id": "T026792",
+          "subcluster_name": "Eusociality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Analyzes reproductive monopolization and caste-specific lifespan divergence in eusocial superorganisms, emphasizing colony structure."
+        },
+        {
+          "theory_id": "T026779",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes fecundity-longevity trade-offs and resource allocation effects on lifespan, including exceptions in eusocial insects."
+        },
+        {
+          "theory_id": "T026663",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on cost of reproduction and environmental modulation of aging, highlighting energy trade-offs shaping lifespan."
+        },
+        {
+          "theory_id": "T026604",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Examines reproductive profiles and epigenetic aging, linking reproduction effort to accelerated aging via trade-offs."
+        },
+        {
+          "theory_id": "T026636",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes reproduction-longevity trade-offs as a core evolutionary mechanism driving aging."
+        },
+        {
+          "theory_id": "T026804",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses somatic maintenance versus reproduction trade-offs and intergenerational fitness costs affecting aging."
+        },
+        {
+          "theory_id": "T026607",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Highlights evolutionary balance between reproduction timing and aging rates, including heritability of aging."
+        },
+        {
+          "theory_id": "T026783",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Traditional evolutionary theory linking juvenile survival and longevity through life-history trade-offs."
+        },
+        {
+          "theory_id": "T026831",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on pleiotropic genes with beneficial early-life but detrimental late-life effects driving aging."
+        },
+        {
+          "theory_id": "T026775",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes genetic trade-offs between reproduction and longevity mediated by pleiotropic genes."
+        },
+        {
+          "theory_id": "T026826",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Explains age-specific decline in stress phenotypes caused by antagonistic pleiotropy and mutation accumulation."
+        },
+        {
+          "theory_id": "T026666",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Summarizes antagonistic pleiotropy as genes beneficial early but harmful later, causing aging."
+        },
+        {
+          "theory_id": "T026742",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Details gene vgll3 regulating growth, maturity, and aging via antagonistic pleiotropy with late-life costs."
+        },
+        {
+          "theory_id": "T026711",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Studies age-dependent trade-offs between reproduction and survival consistent with antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T026477",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Integrates biological constraints and programmatic aging with antagonistic pleiotropy as evolutionary cause of aging."
+        },
+        {
+          "theory_id": "T026485",
+          "subcluster_name": "Protein Synthesis-Mediated Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on protein synthesis and TOR pathway mediating growth-longevity trade-offs as a molecular mechanism of antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T025862",
+          "subcluster_name": "Telomerase-Mediated Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes telomerase dual role in cancer risk early and tissue maintenance late, embodying antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T026715",
+          "subcluster_name": "Eusociality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Shows reduced extrinsic mortality and strong purifying selection in ant queens, linking eusociality to aging mechanisms."
+        },
+        {
+          "theory_id": "T026821",
+          "subcluster_name": "Eusociality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Reduced extrinsic mortality via symbiosis in clownfish leads to longevity evolution, similar to eusocial protection effects."
+        },
+        {
+          "theory_id": "T026990",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Mathematical modeling of aging inevitability due to evolutionary trade-offs consistent with antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T026998",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Decline of natural selection with age allows late-acting deleterious genes to persist, a key concept in antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T026981",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Evolutionary theory of senescence explaining age-related fitness declines via evolutionary trade-offs and antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T026995",
+          "subcluster_name": "Classical Genetic Antagonistic Pleiotropy Theory",
+          "reasoning": "Links development and aging through conserved genetic pathways, consistent with antagonistic pleiotropy mechanisms."
+        },
+        {
+          "theory_id": "T026033",
+          "subcluster_name": "Eusociality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Evolution of eusociality and lifespan extension in Hymenoptera driven by social structure and reproductive division of labor."
+        },
+        {
+          "theory_id": "T026803",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Shows aging favored under assortative mating and pathogen pressure, linking reproduction and survival trade-offs."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:58:03"
+}

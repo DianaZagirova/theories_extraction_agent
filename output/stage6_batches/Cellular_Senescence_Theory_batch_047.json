@@ -1,0 +1,200 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 47,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "SASP-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T027464",
+          "T027364",
+          "T027386",
+          "T027526",
+          "T027375",
+          "T027432"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Immune Surveillance and SASP Interaction Senescence Theory",
+        "theory_ids": [
+          "T027370",
+          "T027213",
+          "T027340"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Senolytic Intervention Cellular Senescence Theory",
+        "theory_ids": [
+          "T027449",
+          "T027532"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Autophagy Decline-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T027383",
+          "T027363",
+          "T027380"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Dual Role Physiological and Pathological Senescence Theory",
+        "theory_ids": [
+          "T027513",
+          "T027402"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027464",
+          "subcluster_name": "SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on accumulation of senescent cells and their SASP secretion driving inflammation and tissue dysfunction."
+        },
+        {
+          "theory_id": "T027514",
+          "subcluster_name": "Alternative Splicing-Regulated Cellular Senescence Theory",
+          "reasoning": "Highlights dysregulation of alternative splicing as a molecular mechanism driving senescence and aging."
+        },
+        {
+          "theory_id": "T027370",
+          "subcluster_name": "Immune Surveillance and SASP Interaction Senescence Theory",
+          "reasoning": "Emphasizes the interplay between senescent cells, SASP, and immune system decline affecting aging."
+        },
+        {
+          "theory_id": "T027449",
+          "subcluster_name": "Senolytic Intervention Cellular Senescence Theory",
+          "reasoning": "Focuses on therapeutic removal of senescent cells (senolysis) to delay aging and disease."
+        },
+        {
+          "theory_id": "T027492",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Centers on oxidative stress as a key initiator of senescence and role of redox regulators like Nrf1\u03b1."
+        },
+        {
+          "theory_id": "T027486",
+          "subcluster_name": "Neurodegeneration-Associated Cellular Senescence Theory",
+          "reasoning": "Describes senescence accumulation in brain cells contributing to neurodegenerative aging diseases."
+        },
+        {
+          "theory_id": "T027520",
+          "subcluster_name": "Liver Disease-Linked Cellular Senescence Theory",
+          "reasoning": "Focuses on senescence accumulation in hepatic cells driving liver aging and pathology."
+        },
+        {
+          "theory_id": "T027381",
+          "subcluster_name": "Inflammation and SASP-Driven Vascular Senescence Theory",
+          "reasoning": "Highlights SASP-mediated chronic inflammation promoting vascular aging and atherosclerosis."
+        },
+        {
+          "theory_id": "T027532",
+          "subcluster_name": "Senolytic Intervention Cellular Senescence Theory",
+          "reasoning": "Emphasizes senolytic removal of senescent cells to improve healthspan and mitigate aging."
+        },
+        {
+          "theory_id": "T027435",
+          "subcluster_name": "Environmental Stress-Accelerated Cellular Senescence Theory",
+          "reasoning": "Focuses on environmental factors like PM2.5 accelerating senescence via multiple cellular damage mechanisms."
+        },
+        {
+          "theory_id": "T027396",
+          "subcluster_name": "Cancer-Senescence Trade-Off Cellular Senescence Theory",
+          "reasoning": "Describes senescence as tumor suppressor mechanism with aging trade-offs due to accumulation."
+        },
+        {
+          "theory_id": "T027372",
+          "subcluster_name": "Programmed Cellular Senescence and Regeneration Theory",
+          "reasoning": "Focuses on senescence as a regulated process with dual roles in tissue repair and aging pathology."
+        },
+        {
+          "theory_id": "T027383",
+          "subcluster_name": "Autophagy Decline-Induced Cellular Senescence Theory",
+          "reasoning": "Links age-related autophagy decline to accumulation of damaged components and senescence."
+        },
+        {
+          "theory_id": "T027364",
+          "subcluster_name": "SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on SASP secretion disrupting tissue homeostasis and promoting systemic aging."
+        },
+        {
+          "theory_id": "T027513",
+          "subcluster_name": "Dual Role Physiological and Pathological Senescence Theory",
+          "reasoning": "Describes senescent cells\u2019 beneficial and detrimental roles in physiology and aging."
+        },
+        {
+          "theory_id": "T027386",
+          "subcluster_name": "SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes SASP as a driver of chronic inflammation and age-related diseases with therapeutic targeting."
+        },
+        {
+          "theory_id": "T027363",
+          "subcluster_name": "Autophagy Decline-Induced Cellular Senescence Theory",
+          "reasoning": "Shows suppression of autophagy directly induces senescence and organ aging, with senolytic rescue."
+        },
+        {
+          "theory_id": "T027526",
+          "subcluster_name": "SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Details molecular pathways regulating senescence and SASP contributing to tissue dysfunction and aging."
+        },
+        {
+          "theory_id": "T027529",
+          "subcluster_name": "p53/p21 Pathway-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on p53/p21 pathway activation inducing senescence and driving organ aging and disease."
+        },
+        {
+          "theory_id": "T027380",
+          "subcluster_name": "Autophagy Decline-Induced Cellular Senescence Theory",
+          "reasoning": "Links autophagy regulation via GSK-3\u03b2-Ulk1 pathway to cardiomyocyte senescence and cardiac aging."
+        },
+        {
+          "theory_id": "T027356",
+          "subcluster_name": "Ca2+/Calmodulin Signaling-Regulated Cellular Senescence Theory",
+          "reasoning": "Highlights Ca2+/calmodulin signaling dysregulation as a modulator of senescence and aging phenotypes."
+        },
+        {
+          "theory_id": "T027387",
+          "subcluster_name": "Telomere Attrition-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere shortening as a causal trigger of senescence and systemic aging."
+        },
+        {
+          "theory_id": "T027375",
+          "subcluster_name": "SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescent cell accumulation and SASP impairing musculoskeletal tissue regeneration and function."
+        },
+        {
+          "theory_id": "T027432",
+          "subcluster_name": "SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Uses Drosophila model to study senescence accumulation and SASP effects on aging and disease."
+        },
+        {
+          "theory_id": "T027402",
+          "subcluster_name": "Dual Role Physiological and Pathological Senescence Theory",
+          "reasoning": "Discusses context-dependent beneficial and detrimental effects of senescent cells and SASP."
+        },
+        {
+          "theory_id": "T027213",
+          "subcluster_name": "Immune Surveillance and SASP Interaction Senescence Theory",
+          "reasoning": "Focuses on immune system clearance of senescent cells and immune senescence affecting aging."
+        },
+        {
+          "theory_id": "T027340",
+          "subcluster_name": "Immune Surveillance and SASP Interaction Senescence Theory",
+          "reasoning": "Highlights immune system role in modulating SASP effects and senescent cell clearance in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:33:26"
+}

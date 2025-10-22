@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 43,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+        "theory_ids": [
+          "T026107",
+          "T026420",
+          "T026231",
+          "T026165",
+          "T026160",
+          "T026190",
+          "T026269"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T026159",
+          "T026437",
+          "T026377",
+          "T026355"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+        "theory_ids": [
+          "T026296",
+          "T026167",
+          "T026058",
+          "T026238"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+        "theory_ids": [
+          "T026457",
+          "T026124",
+          "T026359",
+          "T026299",
+          "T026363",
+          "T026315",
+          "T026247",
+          "T026453",
+          "T026389",
+          "T026316",
+          "T026194"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026107",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere attrition, telomerase activity, and shelterin complex in triggering cellular senescence and aging."
+        },
+        {
+          "theory_id": "T026420",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening as a key mechanism inducing vascular cell senescence and aging."
+        },
+        {
+          "theory_id": "T026231",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Includes telomere attrition alongside oxidative damage as triggers of cellular senescence and aging."
+        },
+        {
+          "theory_id": "T026165",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Links genomic instability and telomere crises to proliferative senescence and aging, with WRN gene involvement."
+        },
+        {
+          "theory_id": "T026160",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Discusses genomic instability and telomere shortening as drivers of oxidative stress-induced cellular senescence."
+        },
+        {
+          "theory_id": "T026190",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Mentions telomere attrition as a hallmark contributing to senescence and chronic lung disease aging."
+        },
+        {
+          "theory_id": "T026269",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on oxidative DNA damage triggering senescence, which is closely linked to telomere-associated mechanisms."
+        },
+        {
+          "theory_id": "T026159",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Centers on DNA damage response, chromatin remodeling, and persistent DDR causing cellular senescence."
+        },
+        {
+          "theory_id": "T026437",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Highlights DNA damage response and cell cycle inhibitors enforcing senescence and SASP secretion."
+        },
+        {
+          "theory_id": "T026377",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Posits cellular senescence as a common outcome of molecular aging changes including DNA damage."
+        },
+        {
+          "theory_id": "T026355",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on genetic and molecular regulation of senescence, including DNA synthesis inhibition and cell cycle arrest."
+        },
+        {
+          "theory_id": "T026027",
+          "subcluster_name": "Epigenetic Reprogramming and Cellular Senescence Theory",
+          "reasoning": "Emphasizes epigenetic clock resetting and reprogramming to reverse senescence and aging hallmarks."
+        },
+        {
+          "theory_id": "T026296",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction as a hallmark and driver of senescence and aging."
+        },
+        {
+          "theory_id": "T026167",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Links mitochondrial dysfunction and cellular senescence with stem cell exhaustion in aging."
+        },
+        {
+          "theory_id": "T026058",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Describes mitochondrial dysfunction in senescent cells and its role in aging and regeneration."
+        },
+        {
+          "theory_id": "T026238",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Discusses SASP and bystander effects in senescence, linked to mitochondrial and metabolic dysfunction."
+        },
+        {
+          "theory_id": "T026457",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Focuses on senolytic and senomorphic drugs targeting senescent cells to improve aging phenotypes."
+        },
+        {
+          "theory_id": "T026124",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Highlights immune surveillance and PD-L1 mediated evasion of senescent cells, with therapeutic targeting."
+        },
+        {
+          "theory_id": "T026359",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Focuses on senotherapy targeting senescent cells to delay aging and age-related diseases."
+        },
+        {
+          "theory_id": "T026299",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Discusses therapeutic targeting of senescent cells to treat fibrosis and age-related tissue dysfunction."
+        },
+        {
+          "theory_id": "T026363",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Emphasizes clearance of senescent cells to mitigate aging phenotypes and tissue dysfunction."
+        },
+        {
+          "theory_id": "T026315",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Describes SASP and senescence impact on skeletal system, suggesting therapeutic targeting."
+        },
+        {
+          "theory_id": "T026247",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Focuses on senescence-driven stem cell decline and microenvironment changes in skeletal aging."
+        },
+        {
+          "theory_id": "T026453",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Links senescence and SASP to musculoskeletal diseases, highlighting therapeutic potential."
+        },
+        {
+          "theory_id": "T026389",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Focuses on senescence of skeletal stem cells contributing to bone loss and aging."
+        },
+        {
+          "theory_id": "T026316",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Describes reversal of senescence and rejuvenation as a therapeutic approach."
+        },
+        {
+          "theory_id": "T026194",
+          "subcluster_name": "Senotherapeutics and Immune Clearance of Senescent Cells Theory",
+          "reasoning": "Discusses senescence in periodontal tissues and senotherapy as intervention."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:30:40"
+}

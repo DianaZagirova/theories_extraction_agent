@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 19,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T020503",
+          "T020502",
+          "T021575",
+          "T021548",
+          "T020692",
+          "T021244",
+          "T021639",
+          "T021953",
+          "T021213",
+          "T020753"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Non-Mitochondrial ROS and NADPH Oxidase Free Radical Theory",
+        "theory_ids": [
+          "T020860",
+          "T020657",
+          "T019802",
+          "T017698"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Protein Oxidation and Proteasomal Decline Free Radical Theory",
+        "theory_ids": [
+          "T021236",
+          "T022029",
+          "T021280",
+          "T020614",
+          "T021465"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Lipid Peroxidation and Antioxidant Enzyme Imbalance Free Radical Theory",
+        "theory_ids": [
+          "T021795",
+          "T021344",
+          "T022040",
+          "T020662",
+          "T020920",
+          "T021802"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020503",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS production as primary aging driver and mitochondrial DNA damage leading to aging."
+        },
+        {
+          "theory_id": "T020502",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial free radical generation sites and species-specific longevity linked to mitochondrial ROS."
+        },
+        {
+          "theory_id": "T021575",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights mitochondrial oxygen radical generation, mitochondrial DNA damage, and correlation with longevity."
+        },
+        {
+          "theory_id": "T021548",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, mitochondrial dysfunction, and antioxidant melatonin effects on neurodegeneration."
+        },
+        {
+          "theory_id": "T020692",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "General free radical theory emphasizing free radicals from metabolism causing cumulative damage distinct from oxygen toxicity."
+        },
+        {
+          "theory_id": "T021244",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Discusses balance of mitochondrial free radical production and antioxidant defenses modulated by dietary restriction."
+        },
+        {
+          "theory_id": "T021639",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes age-related increase in free radical formation and oxidative damage with decline in antioxidant defenses."
+        },
+        {
+          "theory_id": "T021953",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on free radical injury accumulation in brain aging and modifiable lifestyle factors influencing oxidative damage."
+        },
+        {
+          "theory_id": "T021213",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Relates antioxidant enzyme activity changes and lipid peroxidation in brain aging linked to free radical damage."
+        },
+        {
+          "theory_id": "T020753",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "General free radical oxidation causing cumulative damage to DNA, proteins, and lipids with aging."
+        },
+        {
+          "theory_id": "T020860",
+          "subcluster_name": "Non-Mitochondrial ROS and NADPH Oxidase Free Radical Theory",
+          "reasoning": "Focuses on ROS from NADPH oxidase (Nox2) and lipid modulation of ROS production impacting aging."
+        },
+        {
+          "theory_id": "T020657",
+          "subcluster_name": "Non-Mitochondrial ROS and NADPH Oxidase Free Radical Theory",
+          "reasoning": "Describes glutathione redox imbalance in neurons affecting redox homeostasis and neuronal aging."
+        },
+        {
+          "theory_id": "T019802",
+          "subcluster_name": "Non-Mitochondrial ROS and NADPH Oxidase Free Radical Theory",
+          "reasoning": "Proposes dual role of oxygen free radicals in cellular function and aging, emphasizing semiconductive protein model."
+        },
+        {
+          "theory_id": "T017698",
+          "subcluster_name": "Non-Mitochondrial ROS and NADPH Oxidase Free Radical Theory",
+          "reasoning": "Highlights peroxisomal role in ROS detoxification and aging via catalase and antioxidant enzyme decline."
+        },
+        {
+          "theory_id": "T021236",
+          "subcluster_name": "Protein Oxidation and Proteasomal Decline Free Radical Theory",
+          "reasoning": "Focuses on ROS-induced protein oxidation, accumulation of oxidized proteins, and decline in antioxidant defenses."
+        },
+        {
+          "theory_id": "T022029",
+          "subcluster_name": "Protein Oxidation and Proteasomal Decline Free Radical Theory",
+          "reasoning": "Emphasizes protein carbonylation by ROS, mitochondrial ROS contribution, and loss of protein function with aging."
+        },
+        {
+          "theory_id": "T021280",
+          "subcluster_name": "Protein Oxidation and Proteasomal Decline Free Radical Theory",
+          "reasoning": "Describes accumulation of oxidized proteins due to decreased repair and proteasomal degradation with aging."
+        },
+        {
+          "theory_id": "T020614",
+          "subcluster_name": "Protein Oxidation and Proteasomal Decline Free Radical Theory",
+          "reasoning": "Focuses on proteasomal system role in degrading oxidized proteins and its age-related decline contributing to aging."
+        },
+        {
+          "theory_id": "T021465",
+          "subcluster_name": "Protein Oxidation and Proteasomal Decline Free Radical Theory",
+          "reasoning": "Details protein oxidation, proteasome-mediated degradation, and age-related proteasome activity decline."
+        },
+        {
+          "theory_id": "T021795",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Enzyme Imbalance Free Radical Theory",
+          "reasoning": "Focuses on imbalance of antioxidant enzymes leading to lipid peroxidation and oxidative damage in aging brain."
+        },
+        {
+          "theory_id": "T021344",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Enzyme Imbalance Free Radical Theory",
+          "reasoning": "Relates antioxidant enzyme activity changes and lipid peroxidation marker (MDA) increases with aging."
+        },
+        {
+          "theory_id": "T022040",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Enzyme Imbalance Free Radical Theory",
+          "reasoning": "Emphasizes catalase and other antioxidant enzymes in H2O2 removal and their influence on lifespan and aging."
+        },
+        {
+          "theory_id": "T020662",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Enzyme Imbalance Free Radical Theory",
+          "reasoning": "Discusses genetic control of oxidative stress resistance and antioxidant enzymes affecting lifespan and aging."
+        },
+        {
+          "theory_id": "T020920",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Enzyme Imbalance Free Radical Theory",
+          "reasoning": "Describes stochastic accumulation of oxidative damage to macromolecules and lifespan extension by damage reduction."
+        },
+        {
+          "theory_id": "T021802",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Enzyme Imbalance Free Radical Theory",
+          "reasoning": "Focuses on oxidative damage accumulation in mesenchymal progenitor cells, antioxidant decline, and senescence."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:15:20"
+}

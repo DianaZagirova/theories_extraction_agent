@@ -1,0 +1,197 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 17,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+        "theory_ids": [
+          "T013039",
+          "T013164",
+          "T013213",
+          "T013398",
+          "T013015",
+          "T013070",
+          "T013479",
+          "T013492",
+          "T013541",
+          "T013540",
+          "T013376"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Declining Natural Selection Force and Mutation Accumulation Evolutionary Theory",
+        "theory_ids": [
+          "T013459",
+          "T013553",
+          "T013389",
+          "T013606",
+          "T013060",
+          "T013620",
+          "T013558",
+          "T013242"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Self-Maintenance Investment and Immunosenescence Evolutionary Theory",
+        "theory_ids": [
+          "T013510",
+          "T013080",
+          "T013341",
+          "T013393"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Sexual Selection and Sexual Conflict-Driven Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T012144",
+          "T013598"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T013039",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Focuses on genetic variants that enhance early-life fitness or reproduction but cause late-life detrimental effects, emphasizing evolutionary trade-offs shaping aging."
+        },
+        {
+          "theory_id": "T013164",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Describes trade-offs between early reproductive effort and late survival, with genetic correlations linking early-life benefits to late-life costs."
+        },
+        {
+          "theory_id": "T013213",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Highlights pleiotropic genes conferring early-life reproductive advantages at the cost of late-life somatic maintenance and longevity."
+        },
+        {
+          "theory_id": "T013398",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Focuses on genetic trade-offs between early and late reproduction, with aging evolving due to selection favoring early-life reproductive success."
+        },
+        {
+          "theory_id": "T013015",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Emphasizes genetic trade-offs between early and late reproduction, explaining senescence as an evolved consequence of selection."
+        },
+        {
+          "theory_id": "T013070",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Describes genetic trade-offs in life history traits where early-life benefits come at the cost of late-life decline."
+        },
+        {
+          "theory_id": "T013479",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Posits that genes beneficial early in life have detrimental late-life effects, consistent with evolutionary trade-offs causing aging."
+        },
+        {
+          "theory_id": "T013492",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Focuses on pleiotropic alleles with early-life fitness benefits and late-life deleterious effects, explaining aging persistence."
+        },
+        {
+          "theory_id": "T013541",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Describes aging as a side-effect of sexual reproduction with pleiotropic alleles favored for early-life benefits despite late-life costs."
+        },
+        {
+          "theory_id": "T013540",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Molecular basis of antagonistic pleiotropy involving human-specific neural enhancers that increase early-life fitness but cause late-life disease."
+        },
+        {
+          "theory_id": "T013376",
+          "subcluster_name": "Early-Life Reproduction vs. Late-Life Fitness Trade-Off Antagonistic Pleiotropy",
+          "reasoning": "Integrates antagonistic pleiotropy with mutation accumulation, emphasizing early-life reproductive benefits causing late-life aging."
+        },
+        {
+          "theory_id": "T013459",
+          "subcluster_name": "Declining Natural Selection Force and Mutation Accumulation Evolutionary Theory",
+          "reasoning": "Focuses on the declining force of natural selection with age allowing accumulation of deleterious mutations and physiological deterioration."
+        },
+        {
+          "theory_id": "T013553",
+          "subcluster_name": "Declining Natural Selection Force and Mutation Accumulation Evolutionary Theory",
+          "reasoning": "Emphasizes declining selection with age, extrinsic mortality shaping senescence, and life-history trade-offs influencing aging."
+        },
+        {
+          "theory_id": "T013389",
+          "subcluster_name": "Declining Natural Selection Force and Mutation Accumulation Evolutionary Theory",
+          "reasoning": "Integrates mutation accumulation, antagonistic pleiotropy, and disposable soma under the framework of declining natural selection with age."
+        },
+        {
+          "theory_id": "T013606",
+          "subcluster_name": "Declining Natural Selection Force and Mutation Accumulation Evolutionary Theory",
+          "reasoning": "Describes how declining natural selection with age leads to accumulation of deleterious mutations and antagonistic pleiotropy effects."
+        },
+        {
+          "theory_id": "T013060",
+          "subcluster_name": "Declining Natural Selection Force and Mutation Accumulation Evolutionary Theory",
+          "reasoning": "Focuses on mutation accumulation and antagonistic pleiotropy driven by declining natural selection strength with age."
+        },
+        {
+          "theory_id": "T013620",
+          "subcluster_name": "Declining Natural Selection Force and Mutation Accumulation Evolutionary Theory",
+          "reasoning": "Links intrinsic mortality to extrinsic mortality and asymmetric reproduction, emphasizing evolutionary trade-offs and declining selection."
+        },
+        {
+          "theory_id": "T013558",
+          "subcluster_name": "Declining Natural Selection Force and Mutation Accumulation Evolutionary Theory",
+          "reasoning": "Shows how extrinsic mortality shapes intrinsic mortality and life-history evolution via declining natural selection with age."
+        },
+        {
+          "theory_id": "T013242",
+          "subcluster_name": "Declining Natural Selection Force and Mutation Accumulation Evolutionary Theory",
+          "reasoning": "Predicts aging rate variation based on extrinsic mortality and natural selection modifying aging through mutation accumulation and repair balance."
+        },
+        {
+          "theory_id": "T013510",
+          "subcluster_name": "Self-Maintenance Investment and Immunosenescence Evolutionary Theory",
+          "reasoning": "Focuses on evolutionary investment in self-maintenance functions like immunity, especially in species with low extrinsic mortality, affecting aging."
+        },
+        {
+          "theory_id": "T013080",
+          "subcluster_name": "Self-Maintenance Investment and Immunosenescence Evolutionary Theory",
+          "reasoning": "Describes immune system dual role with early-life benefits and late-life chronic inflammation causing aging-related diseases."
+        },
+        {
+          "theory_id": "T013341",
+          "subcluster_name": "Self-Maintenance Investment and Immunosenescence Evolutionary Theory",
+          "reasoning": "Details zinc-binding proteins' role in immunosenescence as a trade-off between early-life protection and late-life immune decline."
+        },
+        {
+          "theory_id": "T013393",
+          "subcluster_name": "Self-Maintenance Investment and Immunosenescence Evolutionary Theory",
+          "reasoning": "Explores evolutionary basis of immune aging and chronic inflammation (inflammaging) as a trade-off from early-life immune benefits."
+        },
+        {
+          "theory_id": "T012144",
+          "subcluster_name": "Sexual Selection and Sexual Conflict-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on sex differences in aging driven by sexual selection, sexual conflict, and costly sexually dimorphic traits affecting lifespan."
+        },
+        {
+          "theory_id": "T013598",
+          "subcluster_name": "Sexual Selection and Sexual Conflict-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes trade-offs between early reproduction and later survival shaped by sexual selection and disposable soma theory."
+        },
+        {
+          "theory_id": "T013011",
+          "subcluster_name": "Mitochondrial ROS-Related Reverse Antagonistic Pleiotropy Theory",
+          "reasoning": "Proposes a reverse antagonistic pleiotropy where mitochondrial ROS scavenging is detrimental in youth but beneficial in old age."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:56:09"
+}

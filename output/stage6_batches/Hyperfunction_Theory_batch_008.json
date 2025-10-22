@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Hyperfunction Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+        "theory_ids": [
+          "T024489",
+          "T022446",
+          "T022339",
+          "T021622",
+          "T022014",
+          "T021864",
+          "T024536",
+          "T023074",
+          "T023158",
+          "T024484",
+          "T022073",
+          "T021973",
+          "T022792",
+          "T021440",
+          "T022797",
+          "T023695",
+          "T024607",
+          "T022598",
+          "T023281",
+          "T022662",
+          "T022772",
+          "T021928",
+          "T022594"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 23
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024489",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Focuses on mTORC1 hyperactivity causing muscle aging and impaired autophagy, with interventions like rapamycin and calorie restriction mitigating these effects."
+        },
+        {
+          "theory_id": "T022446",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Describes mTOR dysregulation driving cerebrovascular and cognitive decline via mTORC1-mediated vascular and synaptic dysfunction."
+        },
+        {
+          "theory_id": "T022339",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Covers TOR pathway nutrient sensing and its role in longevity regulation, emphasizing mTORC1's role in protein synthesis and autophagy suppression."
+        },
+        {
+          "theory_id": "T021622",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Focuses on mTOR/S6K1 hyperactivation causing oxidative stress and endothelial dysfunction, linking mTORC1 signaling to vascular aging."
+        },
+        {
+          "theory_id": "T022014",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Describes mTOR complexes (mTORC1 and mTORC2) as master regulators of growth and metabolism impacting aging, with mTORC1 inhibition extending lifespan."
+        },
+        {
+          "theory_id": "T021864",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Highlights mTOR complexes regulating growth and metabolism during development and aging, with mTORC1 downregulation extending lifespan."
+        },
+        {
+          "theory_id": "T024536",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Focuses on mTOR hyperactivation driving metabolic dysfunction and beta cell exhaustion, with rapamycin suppressing mTORC1-driven hyperfunction."
+        },
+        {
+          "theory_id": "T023074",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Describes mTORC1 activation in lung microvascular progenitor cells causing tissue remodeling and aging, linking mTORC1 hyperfunction to organ aging."
+        },
+        {
+          "theory_id": "T023158",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Focuses on mTOR hyperactivity contributing to neurodegeneration and Alzheimer's disease via impaired autophagy and proteostasis."
+        },
+        {
+          "theory_id": "T024484",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Describes mTOR-driven cellular hyperfunction and geroconversion as aging drivers, with rapamycin inhibiting mTOR to slow aging."
+        },
+        {
+          "theory_id": "T022073",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Explains mTOR-driven metabolic self-destruction via lactate overproduction causing chronological senescence, linking mTORC1 hyperfunction to aging."
+        },
+        {
+          "theory_id": "T021973",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Focuses on mTORC1 inhibition promoting longevity, with mTORC2 having sex-specific effects; highlights mTORC1 as key aging regulator."
+        },
+        {
+          "theory_id": "T022792",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Describes TOR as central regulator of protein synthesis and aging, with TOR inhibition reducing protein synthesis and promoting autophagy."
+        },
+        {
+          "theory_id": "T021440",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Details mTORC1's role in lifespan modulation via nutrient and energy sensing, protein synthesis, and autophagy regulation."
+        },
+        {
+          "theory_id": "T022797",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Focuses on TORC1 hyperactivation promoting aging and tissue dysfunction, with TORC1 inhibition extending lifespan and improving tissue homeostasis."
+        },
+        {
+          "theory_id": "T023695",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Describes mTORC1/2 hyperactivation driving premature and physiological aging, with dual inhibition ameliorating aging phenotypes."
+        },
+        {
+          "theory_id": "T024607",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Covers mTOR overactivation linked to accelerated aging and disease, with mTOR inhibition extending lifespan."
+        },
+        {
+          "theory_id": "T022598",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Describes mTOR as conserved aging regulator, with rapamycin extending lifespan and improving healthspan."
+        },
+        {
+          "theory_id": "T023281",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Details mTORC1 and mTORC2 roles in growth, autophagy, and aging, with mTOR inhibition extending lifespan via autophagy induction."
+        },
+        {
+          "theory_id": "T022662",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Focuses on mTOR as nutrient sensor whose hyperactivity drives aging, with amino acid sensing linking diet to aging regulation."
+        },
+        {
+          "theory_id": "T022772",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Describes mTOR promoting cellular senescence via increased activity in aging tissues, with inhibition delaying senescence phenotypes."
+        },
+        {
+          "theory_id": "T021928",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Shows genetic reduction of mTOR expression slows aging and extends lifespan, highlighting mTORC1/2 balance in aging regulation."
+        },
+        {
+          "theory_id": "T024386",
+          "subcluster_name": "mTORC1/PGC-1 Mitochondrial Biogenesis Hyperfunction Theory",
+          "reasoning": "Focuses on mTORC1 activation of PGC-1\u03b1/\u03b2 driving mitochondrial biogenesis, increased ROS, and cellular senescence, linking mitochondrial hyperfunction to aging."
+        },
+        {
+          "theory_id": "T023712",
+          "subcluster_name": "Sch9/S6K1-Mediated Oxidative DNA Damage Hyperfunction Theory",
+          "reasoning": "Describes Sch9 (yeast Akt/S6K homologue) promoting superoxide-dependent DNA damage and error-prone translesion synthesis, linking hyperfunction to genomic instability and aging."
+        },
+        {
+          "theory_id": "T021876",
+          "subcluster_name": "Senescence as mTOR/MAPK-Driven Hyperfunctional State Theory",
+          "reasoning": "Defines senescence as a hyperfunctional state driven by overactivation of growth pathways like mTOR and MAPK, causing hypertrophy and hypersecretion."
+        },
+        {
+          "theory_id": "T022594",
+          "subcluster_name": "mTORC1-Driven Metabolic and Muscle Aging Hyperfunction Theory",
+          "reasoning": "Describes TOR and insulin/IGF-1 signaling cascades regulating aging via energy metabolism, consistent with mTORC1 nutrient sensing and aging control."
+        },
+        {
+          "theory_id": "T019007",
+          "subcluster_name": "Neuronal Signal Transduction Deficiency Hyperfunction Theory",
+          "reasoning": "Focuses on age-related decline in neuronal signal transduction pathways, receptor desensitization, and membrane changes impairing neuronal function, distinct from mTOR hyperfunction."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:11:26"
+}

@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 34,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Immune Cell Senescence and SASP-Driven Immunosenescence Theory",
+        "theory_ids": [
+          "T022708",
+          "T022741"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022692",
+          "subcluster_name": "SASP-Mediated Inflammation Cellular Senescence Theory",
+          "reasoning": "Focuses on senescence-associated secretory phenotype (SASP) driving inflammation via p38 MAPK and inflammatory mediator secretion."
+        },
+        {
+          "theory_id": "T022812",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes DNA damage-induced senescence and SASP secretion as drivers of aging phenotypes."
+        },
+        {
+          "theory_id": "T022708",
+          "subcluster_name": "Immune Cell Senescence and SASP-Driven Immunosenescence Theory",
+          "reasoning": "Centers on senescent immune cells, especially T cells, SASP secretion, and immune dysfunction in aging."
+        },
+        {
+          "theory_id": "T022741",
+          "subcluster_name": "Immune Cell Senescence and SASP-Driven Immunosenescence Theory",
+          "reasoning": "Focuses on NK cell dysfunction, senescent cell clearance failure, and SASP-driven inflammaging in immune aging."
+        },
+        {
+          "theory_id": "T022810",
+          "subcluster_name": "miRNA-Regulated SASP and Cellular Senescence Theory",
+          "reasoning": "Highlights miR-570-3p regulation of sirtuin-1 affecting SASP and senescence under oxidative stress."
+        },
+        {
+          "theory_id": "T022750",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence in Tissue Aging Theory",
+          "reasoning": "Links autophagy decline to cellular senescence and tissue dysfunction, especially in cartilage aging."
+        },
+        {
+          "theory_id": "T022824",
+          "subcluster_name": "mTOR Pathway-Regulated SASP and Cellular Senescence Theory",
+          "reasoning": "Describes mTOR signaling promoting SASP and geroconversion in senescent cells driving aging."
+        },
+        {
+          "theory_id": "T022843",
+          "subcluster_name": "SASP-Driven Senescence in Osteo-Articular Aging Theory",
+          "reasoning": "Focuses on senescent cell accumulation and SASP causing osteo-articular diseases and aging."
+        },
+        {
+          "theory_id": "T022836",
+          "subcluster_name": "Species-Specific Senescence Transcriptome and ROS-Driven Senescence Theory",
+          "reasoning": "Discusses ROS and telomere dynamics influencing senescence contribution to aging across species."
+        },
+        {
+          "theory_id": "T022744",
+          "subcluster_name": "SASP and DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes DNA damage-induced senescence and SASP secretion contributing to systemic aging."
+        },
+        {
+          "theory_id": "T022758",
+          "subcluster_name": "Core Program and SASP Heterogeneity in Cellular Senescence Theory",
+          "reasoning": "Describes diverse senescence triggers converging on a core program with SASP heterogeneity and paracrine effects."
+        },
+        {
+          "theory_id": "T022568",
+          "subcluster_name": "SASP-Driven Senescence in Age-Related Osteoporosis Theory",
+          "reasoning": "Focuses on senescent cell accumulation and SASP causing osteoporosis and tissue dysfunction."
+        },
+        {
+          "theory_id": "T022654",
+          "subcluster_name": "Senescent Cell Antigen and Immune Clearance Theory",
+          "reasoning": "Describes molecular changes generating senescent cell antigen (SCA) triggering immune-mediated clearance."
+        },
+        {
+          "theory_id": "T022666",
+          "subcluster_name": "DNA Damage-Induced ROS and Metabolic Changes Leading to Senescence Theory",
+          "reasoning": "Focuses on persistent DNA damage causing ROS production via metabolic pathway activation inducing senescence."
+        },
+        {
+          "theory_id": "T022831",
+          "subcluster_name": "SASP-Induced Inflamed Niche and Regenerative Decline Cellular Senescence Theory",
+          "reasoning": "Describes SASP creating inflamed tissue niches that impair regeneration and spread senescence."
+        },
+        {
+          "theory_id": "T022640",
+          "subcluster_name": "p16INK4a-Associated SASP and Cellular Senescence Aging Theory",
+          "reasoning": "Emphasizes p16INK4a as a biomarker and effector of senescence with SASP driving systemic aging."
+        },
+        {
+          "theory_id": "T022559",
+          "subcluster_name": "SASP-Mediated MDSC Recruitment and Immunosuppression in Senescence Theory",
+          "reasoning": "Focuses on SASP recruiting myeloid-derived suppressor cells (MDSCs) causing immunosuppression and aging."
+        },
+        {
+          "theory_id": "T022509",
+          "subcluster_name": "DNA Damage Response and SASP in Senescence and Cancer Aging Theory",
+          "reasoning": "Describes DNA damage response pathways inducing senescence and SASP with dual roles in cancer and aging."
+        },
+        {
+          "theory_id": "T022809",
+          "subcluster_name": "p21high Cell Population and SASP Heterogeneity in Senescence Theory",
+          "reasoning": "Focuses on p21high senescent cells as a distinct population contributing to aging and SASP effects."
+        },
+        {
+          "theory_id": "T022853",
+          "subcluster_name": "p16INK4a-Mediated Klotho Downregulation and Senescence Aging Theory",
+          "reasoning": "Links p16INK4a-induced senescence to repression of anti-aging klotho gene contributing to aging phenotypes."
+        },
+        {
+          "theory_id": "T022795",
+          "subcluster_name": "PAI-1 Regulated Senescence Signaling and Aging Theory",
+          "reasoning": "Describes PAI-1 as a causal regulator of senescence signaling and age-related pathologies."
+        },
+        {
+          "theory_id": "T022740",
+          "subcluster_name": "Senescence-Associated Anti-Apoptosis and SASP in Muscle Aging Theory",
+          "reasoning": "Focuses on senescent cell anti-apoptotic pathways (SCAPs) and SASP driving skeletal muscle aging."
+        },
+        {
+          "theory_id": "T022557",
+          "subcluster_name": "Genome Instability, cGAS-STING, and p38 MAPK-Driven Senescence Theory",
+          "reasoning": "Emphasizes genome instability activating cGAS-STING and p38 MAPK pathways inducing senescence."
+        },
+        {
+          "theory_id": "T022849",
+          "subcluster_name": "Cyclin-Dependent Kinase Inhibitors and SASP in Senescence Aging Theory",
+          "reasoning": "Focuses on p16INK4a, p14ARF/p19ARF, and p21 roles in senescence induction and SASP-mediated aging."
+        },
+        {
+          "theory_id": "T022688",
+          "subcluster_name": "p53 Pathway and SASP in Senescence and Aging Theory",
+          "reasoning": "Describes p53-mediated senescence and SASP with dual roles in cancer suppression and aging."
+        },
+        {
+          "theory_id": "T022716",
+          "subcluster_name": "SASP-Driven Bystander Senescence and Stem Cell Dysfunction Theory",
+          "reasoning": "Highlights SASP-mediated spread of senescence and stem cell dysfunction driving systemic aging."
+        },
+        {
+          "theory_id": "T022366",
+          "subcluster_name": "DNA Damage Response, miRNA, and SASP in Inflammaging Theory",
+          "reasoning": "Focuses on DDR activation, SASP secretion, and miRNA-mediated propagation of inflammaging."
+        },
+        {
+          "theory_id": "T022285",
+          "subcluster_name": "Pak2 Kinase and HIRA-Mediated Chromatin Remodeling in Senescence Theory",
+          "reasoning": "Describes Pak2 regulation of HIRA-mediated nucleosome assembly controlling senescence gene expression."
+        },
+        {
+          "theory_id": "T022459",
+          "subcluster_name": "SASP-Induced CD38+ Macrophage Activation and NAD Decline Theory",
+          "reasoning": "Focuses on SASP-driven macrophage polarization causing NAD+ decline linking senescence to metabolic aging."
+        },
+        {
+          "theory_id": "T022311",
+          "subcluster_name": "Senescence in Post-Mitotic Cells and SASP in Neurodegeneration Theory",
+          "reasoning": "Describes senescence-like phenotype and SASP in neurons contributing to brain aging and dysfunction."
+        },
+        {
+          "theory_id": "T022500",
+          "subcluster_name": "Genetic Regulation of Cellular Senescence and Aging Theory",
+          "reasoning": "Focuses on genetic complementation groups and senescence-related genes controlling replicative senescence."
+        },
+        {
+          "theory_id": "T022419",
+          "subcluster_name": "p16INK4a Genetic Variation and Cellular Senescence Aging Theory",
+          "reasoning": "Links genetic polymorphisms in p16INK4a locus to senescence regulation and physical aging phenotypes."
+        },
+        {
+          "theory_id": "T022309",
+          "subcluster_name": "RNase-L Mediated Cellular Senescence and Longevity Theory",
+          "reasoning": "Describes RNase-L activation inducing senescence and its impact on organismal aging and lifespan."
+        },
+        {
+          "theory_id": "T022201",
+          "subcluster_name": "Senescence and SASP in Cancer and Aging Therapy Theory",
+          "reasoning": "Focuses on senescence as tumor suppressor and SASP's dual role in cancer and aging pathologies."
+        },
+        {
+          "theory_id": "T021952",
+          "subcluster_name": "Virus-Induced Senescence via cGAS-STING and SASP Theory",
+          "reasoning": "Describes viral infection triggering senescence through cGAS-STING and SASP contributing to aging."
+        },
+        {
+          "theory_id": "T021901",
+          "subcluster_name": "Fat Tissue Senescence and SASP-Driven Metabolic Dysfunction Theory",
+          "reasoning": "Focuses on senescent fat cells accumulating with age, secreting SASP, and causing metabolic aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:25:33"
+}

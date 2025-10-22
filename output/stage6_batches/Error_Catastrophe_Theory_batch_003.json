@@ -1,0 +1,183 @@
+{
+  "cluster_name": "Error Catastrophe Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation Error Catastrophe Theory",
+        "theory_ids": [
+          "T027004",
+          "T021764",
+          "T007068",
+          "T026310"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Energy Allocation and Error Regulation Decline Theory",
+        "theory_ids": [
+          "T027588",
+          "T019959",
+          "T020688"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+        "theory_ids": [
+          "T026123",
+          "T026301",
+          "T009445",
+          "T027593",
+          "T024002",
+          "T008696",
+          "T014117",
+          "T024072",
+          "T027594",
+          "T023982"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "General Error Accumulation and Catastrophe Theory",
+        "theory_ids": [
+          "T007432",
+          "T014336",
+          "T002750"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Error Catastrophe Theory",
+        "theory_ids": [
+          "T014177",
+          "T011788"
+        ],
+        "theory_count": 2,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "2 subclusters too small"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027004",
+          "subcluster_name": "Mitochondrial DNA Mutation Error Catastrophe Theory",
+          "reasoning": "Focuses on mitochondrial DNA mutation accumulation and defective DNA polymerase gamma causing error catastrophe in mitochondria."
+        },
+        {
+          "theory_id": "T021764",
+          "subcluster_name": "Mitochondrial DNA Mutation Error Catastrophe Theory",
+          "reasoning": "Emphasizes errors in mitochondrial polypeptide synthesis and mitochondrial biogenesis affecting protease/chaperone production and aging."
+        },
+        {
+          "theory_id": "T007068",
+          "subcluster_name": "Mitochondrial DNA Mutation Error Catastrophe Theory",
+          "reasoning": "Links protein synthesis errors to faulty membrane proteins, lipid autoxidation, free radical damage, and mitochondrial deterioration."
+        },
+        {
+          "theory_id": "T026310",
+          "subcluster_name": "Mitochondrial DNA Mutation Error Catastrophe Theory",
+          "reasoning": "Describes accumulation of molecular and cellular damage including oxidative stress, which is closely related to mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T027588",
+          "subcluster_name": "Energy Allocation and Error Regulation Decline Theory",
+          "reasoning": "Proposes aging arises from reduced somatic error regulation as an energy-saving evolutionary strategy, leading to error accumulation."
+        },
+        {
+          "theory_id": "T019959",
+          "subcluster_name": "Energy Allocation and Error Regulation Decline Theory",
+          "reasoning": "Describes feedback between protein synthesis errors and lysosomal dysfunction affecting cellular homeostasis and aging."
+        },
+        {
+          "theory_id": "T020688",
+          "subcluster_name": "Energy Allocation and Error Regulation Decline Theory",
+          "reasoning": "Focuses on cyclic propagation of protein synthesis errors and their systemic effects, consistent with energy trade-offs in error regulation."
+        },
+        {
+          "theory_id": "T026123",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+          "reasoning": "Centers on accuracy of tRNA charging and codon-anticodon recognition as critical for cellular stability and aging."
+        },
+        {
+          "theory_id": "T026301",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+          "reasoning": "Focuses on decline in protein synthesis fidelity causing accumulation of dysfunctional proteins and cellular aging."
+        },
+        {
+          "theory_id": "T009445",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+          "reasoning": "Emphasizes error accumulation in protein synthesis enzymes leading to inactive enzymes and metabolic decline."
+        },
+        {
+          "theory_id": "T027593",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+          "reasoning": "Posits accumulation of altered proteins from protein synthesis errors as causal mechanism of aging."
+        },
+        {
+          "theory_id": "T024002",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+          "reasoning": "Proposes aging results from accumulation of altered proteins and enzymes due to errors in protein synthesis."
+        },
+        {
+          "theory_id": "T008696",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+          "reasoning": "Describes accumulation of protein synthesis errors and how hydrocortisone delays aging by stimulating ribosome synthesis."
+        },
+        {
+          "theory_id": "T014117",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+          "reasoning": "Focuses on molecular infidelity in protein synthesis machinery (tRNA synthetases, DNA polymerases) driving aging."
+        },
+        {
+          "theory_id": "T024072",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+          "reasoning": "Describes error accumulation in macromolecular synthesis leading to cellular senescence, especially in post-replicative cells."
+        },
+        {
+          "theory_id": "T027594",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+          "reasoning": "Highlights self-amplifying error cycles in enzymes responsible for macromolecular synthesis causing aging."
+        },
+        {
+          "theory_id": "T023982",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Theory",
+          "reasoning": "Focuses on error accumulation in protein synthesis causing enzyme thermolability and cellular deterioration."
+        },
+        {
+          "theory_id": "T007432",
+          "subcluster_name": "General Error Accumulation and Catastrophe Theory",
+          "reasoning": "Describes exponential accumulation of errors in biological systems leading to catastrophic failure and death."
+        },
+        {
+          "theory_id": "T014336",
+          "subcluster_name": "General Error Accumulation and Catastrophe Theory",
+          "reasoning": "Posits progressive accumulation of errors in molecules responsible for synthesis causing loss of viability via error cascade."
+        },
+        {
+          "theory_id": "T002750",
+          "subcluster_name": "General Error Accumulation and Catastrophe Theory",
+          "reasoning": "Proposes universal accumulation of protein synthesis errors across all proteins leading to senescence and limited cell doubling."
+        },
+        {
+          "theory_id": "T014177",
+          "subcluster_name": "DNA Damage and Repair Deficiency Error Theory",
+          "reasoning": "Focuses on accumulation of DNA and chromosome damage and the role of DNA repair defects in accelerating aging."
+        },
+        {
+          "theory_id": "T011788",
+          "subcluster_name": "Protein Crosslinking and Advanced Glycation End Products Theory",
+          "reasoning": "Posits aging results from accumulation of crosslinked proteins and AGEs causing tissue damage and physiological decline."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:56:16"
+}

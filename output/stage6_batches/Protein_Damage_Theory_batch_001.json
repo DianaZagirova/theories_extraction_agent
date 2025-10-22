@@ -1,0 +1,184 @@
+{
+  "cluster_name": "Protein Damage Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+        "theory_ids": [
+          "T000754",
+          "T002426",
+          "T004582",
+          "T003811",
+          "T004363",
+          "T000978",
+          "T003882",
+          "T002792",
+          "T001479",
+          "T002020",
+          "T003336",
+          "T001805",
+          "T001012",
+          "T001507",
+          "T000391",
+          "T005025"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Proteasome Function Decline and Activation Theory",
+        "theory_ids": [
+          "T000737",
+          "T002227"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Oxidative Protein Damage and Aggregation Theory",
+        "theory_ids": [
+          "T003458",
+          "T002466",
+          "T001210",
+          "T001288",
+          "T003990",
+          "T003953"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000754",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Focuses on proteostasis maintenance mechanisms including protein synthesis, folding, and degradation as causal for slowed aging."
+        },
+        {
+          "theory_id": "T002426",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Describes the integrated proteostasis network modules and their dynamic regulation maintaining proteome balance."
+        },
+        {
+          "theory_id": "T004582",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Links nuclear size scaling and proteasome dilution to proteostasis loss driving aging, emphasizing proteostasis network dynamics."
+        },
+        {
+          "theory_id": "T003811",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Connects proteostasis-mediated chaperone activity sensing via TORC1 to metabolic regulation and lifespan extension."
+        },
+        {
+          "theory_id": "T004363",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Shows increased proteostatic mechanisms in long-lived models independent of mTORC1, highlighting proteostasis regulation."
+        },
+        {
+          "theory_id": "T000978",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Focuses on critical threshold levels of Hsp90 chaperone for proteostasis maintenance and aging modulation."
+        },
+        {
+          "theory_id": "T003882",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Identifies conserved proteostasis network decline as a fundamental aging mechanism linking genome changes to phenotypic aging."
+        },
+        {
+          "theory_id": "T002792",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Describes PEBPs regulating proteostasis network components and chaperones to promote longevity."
+        },
+        {
+          "theory_id": "T001479",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Emphasizes HSF-1 as a central regulator of proteostasis network maintenance and integration of longevity signals."
+        },
+        {
+          "theory_id": "T002020",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Details proteostasis network dysfunction with aging and the role of stress-responsive transcription factors in proteostasis regulation."
+        },
+        {
+          "theory_id": "T003336",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Describes proteostasis collapse as a causal driver of aging, including cell non-autonomous regulation and stress response decline."
+        },
+        {
+          "theory_id": "T001805",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Focuses on heat shock proteins and proteostasis network decline causing proteotoxic stress accumulation in aging."
+        },
+        {
+          "theory_id": "T001012",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Describes proteostasis loss as a hallmark of aging involving chaperones, UPS, and autophagy decline."
+        },
+        {
+          "theory_id": "T001507",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Details loss of protein synthesis regulation and chaperone network dysregulation impairing proteostasis in senescent cells."
+        },
+        {
+          "theory_id": "T000391",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Shows proteostasis network decline and protein aggregation patterns in plasma as aging biomarkers and contributors."
+        },
+        {
+          "theory_id": "T005025",
+          "subcluster_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "reasoning": "Links increased protein stability and proteostasis network maintenance to longevity in mammals."
+        },
+        {
+          "theory_id": "T000737",
+          "subcluster_name": "Proteasome Function Decline and Activation Theory",
+          "reasoning": "Focuses specifically on proteasome activity decline with aging and proteasome activation as an anti-aging strategy."
+        },
+        {
+          "theory_id": "T002227",
+          "subcluster_name": "Proteasome Function Decline and Activation Theory",
+          "reasoning": "Describes autophagy-mediated clearance of protein aggregates regulating mitotic longevity, linked to proteasome and protein quality control."
+        },
+        {
+          "theory_id": "T003458",
+          "subcluster_name": "Oxidative Protein Damage and Aggregation Theory",
+          "reasoning": "Focuses on oxidative damage to proteins by ROS and ionizing radiation causing proteome impairment and aging."
+        },
+        {
+          "theory_id": "T002466",
+          "subcluster_name": "Oxidative Protein Damage and Aggregation Theory",
+          "reasoning": "Describes spontaneous racemization and stereochemical PTMs causing protein aggregation and neurodegeneration."
+        },
+        {
+          "theory_id": "T001210",
+          "subcluster_name": "Oxidative Protein Damage and Aggregation Theory",
+          "reasoning": "Focuses on protein misfolding and aggregation driving neurodegenerative diseases linked to aging."
+        },
+        {
+          "theory_id": "T001288",
+          "subcluster_name": "Oxidative Protein Damage and Aggregation Theory",
+          "reasoning": "Describes evolutionary selection on SOD1 to minimize aggregation and oxidative damage influencing aging."
+        },
+        {
+          "theory_id": "T003990",
+          "subcluster_name": "Oxidative Protein Damage and Aggregation Theory",
+          "reasoning": "Focuses on accumulation of oxidatively carbonylated proteins in symmetrically dividing cells as an aging mechanism."
+        },
+        {
+          "theory_id": "T003953",
+          "subcluster_name": "Oxidative Protein Damage and Aggregation Theory",
+          "reasoning": "Describes progressive accumulation of misfolded protein aggregates impairing cellular function and aging."
+        },
+        {
+          "theory_id": "T004983",
+          "subcluster_name": "Proteome Stabilization and Turnover Modulation Theory",
+          "reasoning": "Focuses on decreased protein turnover and chemical stabilization of proteome by trehalose in long-lived mutants."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:04:09"
+}

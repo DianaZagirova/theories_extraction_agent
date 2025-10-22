@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Mutation Accumulation Theory",
+  "batch_num": 7,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Somatic Mutation Accumulation Theory",
+        "theory_ids": [
+          "T012031",
+          "T011726",
+          "T012485",
+          "T011473",
+          "T011425"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+        "theory_ids": [
+          "T011774",
+          "T011856",
+          "T011905",
+          "T011462",
+          "T011611",
+          "T011336",
+          "T012553",
+          "T011930",
+          "T012423",
+          "T011302",
+          "T012139",
+          "T012149"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Evolutionary Life-History Mutation Accumulation Theory",
+        "theory_ids": [
+          "T011954",
+          "T011195",
+          "T011702",
+          "T012043",
+          "T011529",
+          "T012527",
+          "T011508"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T012031",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of somatic mutations causing cellular and organ dysfunction leading to aging."
+        },
+        {
+          "theory_id": "T011726",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Emphasizes tissue-specific mutation accumulation and DNA repair defects in somatic cells driving aging."
+        },
+        {
+          "theory_id": "T012485",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Highlights somatic mutation accumulation causing decline in cellular and organ function and age-related diseases."
+        },
+        {
+          "theory_id": "T011473",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Links somatic mutation rates inversely with lifespan and proposes a mutation burden threshold for aging."
+        },
+        {
+          "theory_id": "T011425",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Describes universal senescence caused by accumulation of deleterious mutations in biological machinery."
+        },
+        {
+          "theory_id": "T011774",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of late-acting deleterious mutations due to declining natural selection with age."
+        },
+        {
+          "theory_id": "T011856",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of late-onset deleterious mutations escaping selection due to weakened force of natural selection with age."
+        },
+        {
+          "theory_id": "T011905",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Posits age-dependent accumulation of deleterious mutations with effects manifesting late in life causing senescence."
+        },
+        {
+          "theory_id": "T011462",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Emphasizes relaxed selection at old age allowing accumulation of late-acting deleterious alleles."
+        },
+        {
+          "theory_id": "T011611",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Models accumulation of deleterious mutations expressed after reproduction causing aging."
+        },
+        {
+          "theory_id": "T011336",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Focuses on declining selection with age allowing late-life deleterious mutations to accumulate."
+        },
+        {
+          "theory_id": "T012553",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Explains aging as accumulation of late-acting deleterious mutations reaching a threshold causing death."
+        },
+        {
+          "theory_id": "T011930",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of late-acting mutations causing senescence and catastrophic senescence in semelparous species."
+        },
+        {
+          "theory_id": "T012423",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Proposes age-specific accumulation of deleterious mutations causing senescence and increased genetic effects with age."
+        },
+        {
+          "theory_id": "T011302",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Focuses on age-specific deleterious mutations accumulating due to weaker selection at older ages."
+        },
+        {
+          "theory_id": "T012139",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Posits accumulation of late-acting deleterious mutations increasing genetic variance and senescence."
+        },
+        {
+          "theory_id": "T012149",
+          "subcluster_name": "Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of late-acting deleterious mutations due to declining force of natural selection with age."
+        },
+        {
+          "theory_id": "T011954",
+          "subcluster_name": "Evolutionary Life-History Mutation Accumulation Theory",
+          "reasoning": "Integrates mutation accumulation with evolutionary theories including antagonistic pleiotropy and disposable soma focusing on life-history trade-offs."
+        },
+        {
+          "theory_id": "T011195",
+          "subcluster_name": "Evolutionary Life-History Mutation Accumulation Theory",
+          "reasoning": "Links extrinsic mortality and evolutionary trade-offs to mutation accumulation shaping longevity."
+        },
+        {
+          "theory_id": "T011702",
+          "subcluster_name": "Evolutionary Life-History Mutation Accumulation Theory",
+          "reasoning": "Focuses on extrinsic mortality and condition-dependent mortality shaping functional senescence and lifespan evolution."
+        },
+        {
+          "theory_id": "T012043",
+          "subcluster_name": "Evolutionary Life-History Mutation Accumulation Theory",
+          "reasoning": "Drift barrier theory linking population size, mutation effects, and life-history parameters to limits on lifespan evolution."
+        },
+        {
+          "theory_id": "T011529",
+          "subcluster_name": "Evolutionary Life-History Mutation Accumulation Theory",
+          "reasoning": "Emphasizes population size effects on mutation accumulation and genome evolution influencing life history and aging."
+        },
+        {
+          "theory_id": "T012527",
+          "subcluster_name": "Evolutionary Life-History Mutation Accumulation Theory",
+          "reasoning": "Describes mutation-selection-drift balance shaping genetic correlations and evolutionary trajectories relevant to aging."
+        },
+        {
+          "theory_id": "T011508",
+          "subcluster_name": "Evolutionary Life-History Mutation Accumulation Theory",
+          "reasoning": "Adaptive geometry model of age-dependent mutation effects integrating mutation accumulation with age-structured adaptation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:02:01"
+}

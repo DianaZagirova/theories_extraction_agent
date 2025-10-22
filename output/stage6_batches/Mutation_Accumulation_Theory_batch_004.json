@@ -1,0 +1,184 @@
+{
+  "cluster_name": "Mutation Accumulation Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+        "theory_ids": [
+          "T006399",
+          "T006287",
+          "T006194",
+          "T006291",
+          "T006154",
+          "T006271",
+          "T007755",
+          "T006190",
+          "T006283",
+          "T006267",
+          "T007569",
+          "T006161",
+          "T006442",
+          "T006376",
+          "T004524"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Germline Mutation Accumulation and Evolutionary Mutation Accumulation Theory",
+        "theory_ids": [
+          "T006029",
+          "T005906",
+          "T007564",
+          "T007413",
+          "T006096",
+          "T006848",
+          "T007110"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Non-Mutational Intrinsic Dynamics Theory",
+        "theory_ids": [
+          "T005719",
+          "T007441"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T006399",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of somatic nuclear DNA mutations causing cellular senescence and aging via protein synthesis errors and weak selection."
+        },
+        {
+          "theory_id": "T006287",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Posits aging results from progressive accumulation of somatic DNA mutations impairing cell function, with lifespan linked to mutation frequency."
+        },
+        {
+          "theory_id": "T006194",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Emphasizes accumulation of somatic mutations in nuclear DNA causing tissue dysfunction and clonal expansions contributing to aging."
+        },
+        {
+          "theory_id": "T006291",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Models accumulation of somatic mutations in self-renewing tissues prior to tumor initiation, linking mutation burden to age."
+        },
+        {
+          "theory_id": "T006154",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Describes progressive accumulation of somatic nuclear mutations with age, clonal expansions, and evolutionary trade-offs limiting repair."
+        },
+        {
+          "theory_id": "T006271",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Highlights somatic mutation accumulation in nuclear DNA and enhanced DNA repair in centenarians preserving longevity."
+        },
+        {
+          "theory_id": "T007755",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Focuses on recessive somatic nuclear mutations accumulating in dividing cells causing replicative senescence and metabolic cluster failure."
+        },
+        {
+          "theory_id": "T006190",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Describes inevitable accumulation of somatic nuclear mutations impairing cellular function, with mutation rates varying by cell type and lifespan."
+        },
+        {
+          "theory_id": "T006283",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Shows somatic nuclear mutations accumulate with age, affecting conserved aging pathways and systemic aging traits."
+        },
+        {
+          "theory_id": "T006267",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Links somatic nuclear mutation accumulation and genomic instability as dominant mechanisms underlying aging and neoplasia."
+        },
+        {
+          "theory_id": "T007569",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Focuses on somatic mutation accumulation causing genomic instability and aging phenotypes via loss of heterozygosity."
+        },
+        {
+          "theory_id": "T006161",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Emphasizes postzygotic somatic nuclear mutations causing genome mosaicism, clonal expansions, and disruption of gene regulatory networks."
+        },
+        {
+          "theory_id": "T006442",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Describes somatic nuclear mutations initiating focal lesions and clonal expansions contributing to systemic aging and tissue dysfunction."
+        },
+        {
+          "theory_id": "T006376",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Extends somatic nuclear mutation accumulation theory to plants, linking DNA damage and mutation accumulation to plant aging."
+        },
+        {
+          "theory_id": "T004524",
+          "subcluster_name": "Somatic Nuclear DNA Mutation Accumulation Theory",
+          "reasoning": "Shows inverse correlation between somatic nuclear mutation rate and longevity across species, implicating DNA repair efficiency."
+        },
+        {
+          "theory_id": "T006259",
+          "subcluster_name": "DNA Repair Decline and Mutation Accumulation Theory",
+          "reasoning": "Focuses on age-related decline in DNA double-strand break repair (NHEJ), leading to increased somatic mutations and genome instability."
+        },
+        {
+          "theory_id": "T006029",
+          "subcluster_name": "Germline Mutation Accumulation and Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of deleterious germline mutations due to weakened purifying selection with age, shaping aging phenotypes evolutionarily."
+        },
+        {
+          "theory_id": "T005906",
+          "subcluster_name": "Germline Mutation Accumulation and Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Focuses on age-dependent increase in genetic variance from late-acting deleterious germline mutations causing senescence."
+        },
+        {
+          "theory_id": "T007564",
+          "subcluster_name": "Germline Mutation Accumulation and Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Highlights declining natural selection with age allowing accumulation of late-acting deleterious germline mutations driving aging."
+        },
+        {
+          "theory_id": "T007413",
+          "subcluster_name": "Germline Mutation Accumulation and Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Evolutionary theory linking condition-dependent mortality to aging evolution, affecting selection on deleterious mutations and longevity."
+        },
+        {
+          "theory_id": "T006096",
+          "subcluster_name": "Germline Mutation Accumulation and Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Life history theory explaining aging via age-dependent selection gradients and accumulation of deleterious mutations affecting lifespan."
+        },
+        {
+          "theory_id": "T006848",
+          "subcluster_name": "Germline Mutation Accumulation and Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Proposes accelerated aging as an adaptive developmental trade-off triggered by early adversity, linked to evolutionary mutation accumulation concepts."
+        },
+        {
+          "theory_id": "T007110",
+          "subcluster_name": "Germline Mutation Accumulation and Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Describes germinal aging in Tetrahymena caused by random accumulation of germline mutations leading to reproductive failure."
+        },
+        {
+          "theory_id": "T005719",
+          "subcluster_name": "Non-Mutational Intrinsic Dynamics Theory",
+          "reasoning": "Proposes aging and cancer arise from intrinsic multicellular homeostasis dynamics and receptor state changes without mutational input."
+        },
+        {
+          "theory_id": "T007441",
+          "subcluster_name": "Non-Mutational Intrinsic Dynamics Theory",
+          "reasoning": "Argues aging is a heterogeneous, non-unitary phenomenon arising from complex regulatory networks rather than mutation accumulation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:00:35"
+}

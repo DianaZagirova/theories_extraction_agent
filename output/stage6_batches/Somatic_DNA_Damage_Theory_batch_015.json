@@ -1,0 +1,174 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 15,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Excluded - Assigned to Molecular Damage Cluster",
+        "theory_ids": [
+          "T019344",
+          "T019178",
+          "T018091"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T019165",
+          "subcluster_name": "Nuclear DNA Strand Break Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of DNA strand breaks (SSBs and DSBs) in neurons and defective repair pathways causing neural aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T019251",
+          "subcluster_name": "Genomic Instability and DNA Helicase Deficiency Theory",
+          "reasoning": "Emphasizes genomic instability caused by defective DNA helicases (e.g., WRN) leading to progeroid syndromes and telomere dysfunction."
+        },
+        {
+          "theory_id": "T019100",
+          "subcluster_name": "PARP-1 Mediated DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Highlights the role of PARP-1 in DNA strand break repair and its correlation with longevity through base-excision repair."
+        },
+        {
+          "theory_id": "T018773",
+          "subcluster_name": "General DNA Damage Accumulation and Repair Decline Theory",
+          "reasoning": "Describes aging driven by accumulation of DNA damage and age-related decline in DNA repair capacity causing genomic instability."
+        },
+        {
+          "theory_id": "T019344",
+          "subcluster_name": "Excluded - Assigned to Molecular Damage Cluster"
+        },
+        {
+          "theory_id": "T019346",
+          "subcluster_name": "PARP-1 and PARG Regulation of DNA Repair and Aging Theory",
+          "reasoning": "Focuses on PARG regulation of poly(ADP-ribose) metabolism affecting chromatin and age-related gene expression, linked to PARP-1 activity."
+        },
+        {
+          "theory_id": "T019464",
+          "subcluster_name": "DNA Damage Tolerance Pathway and Genome Instability Theory",
+          "reasoning": "Centers on DNA damage tolerance (DDT) pathway regulation affecting genome stability and mutation accumulation influencing aging."
+        },
+        {
+          "theory_id": "T018691",
+          "subcluster_name": "DNA Double-Strand Break Accumulation and Repair Decline Theory",
+          "reasoning": "Focuses specifically on accumulation of DNA double-strand breaks (DSBs), decline in DSB repair pathways, and their causal role in aging."
+        },
+        {
+          "theory_id": "T018921",
+          "subcluster_name": "Age-Dependent Shift in DNA Double-Strand Break Repair Pathways Theory",
+          "reasoning": "Describes how aging alters the relative usage of DSB repair pathways (NHEJ, HR, SSA), impacting genome stability and aging."
+        },
+        {
+          "theory_id": "T019373",
+          "subcluster_name": "p53 Family Mediated DNA Damage Response and Genome Instability Theory",
+          "reasoning": "Emphasizes the role of p53 family in orchestrating DNA damage response, repair, senescence, and apoptosis driving aging."
+        },
+        {
+          "theory_id": "T019242",
+          "subcluster_name": "Oxidative DNA Damage Accumulation Theory",
+          "reasoning": "Focuses on accumulation of oxidative DNA lesions (e.g., 8-OH-dG) and DNA-protein crosslinks as drivers of aging, especially in postmitotic organs."
+        },
+        {
+          "theory_id": "T019411",
+          "subcluster_name": "Genome Stability Linking Longevity and Cognitive Function Theory",
+          "reasoning": "Proposes genome stability mechanisms underlie both longevity and intelligence, linking DNA repair and genome maintenance to aging."
+        },
+        {
+          "theory_id": "T018926",
+          "subcluster_name": "PARP-1 Dysregulation and Chronic Inflammation in Aging Theory",
+          "reasoning": "Connects impaired DNA repair via PARP-1 dysregulation with chronic low-grade inflammation driving aging and age-related pathologies."
+        },
+        {
+          "theory_id": "T019044",
+          "subcluster_name": "Nucleotide Excision Repair Deficiency and DNA Damage Accumulation Theory",
+          "reasoning": "Focuses on defective NER causing accumulation of bulky DNA lesions, transcription defects, and premature aging phenotypes."
+        },
+        {
+          "theory_id": "T019213",
+          "subcluster_name": "DNA Damage Accumulation and Longevity-Regulating Pathways Theory",
+          "reasoning": "Describes DNA damage accumulation driving aging and interaction with longevity pathways like insulin/IGF-1 signaling."
+        },
+        {
+          "theory_id": "T019337",
+          "subcluster_name": "Age-Related Decline in Nucleotide Excision Repair Capacity Theory",
+          "reasoning": "Shows that NER capacity declines with age, contributing to aging via impaired repair of bulky DNA lesions."
+        },
+        {
+          "theory_id": "T019342",
+          "subcluster_name": "Genome Maintenance and DNA Damage Accumulation Theory",
+          "reasoning": "Posits aging results from DNA damage accumulation and imperfect genome maintenance systems leading to mutations and cellular dysfunction."
+        },
+        {
+          "theory_id": "T018914",
+          "subcluster_name": "Genomic Instability and DNA Damage in Premature Aging Syndromes Theory",
+          "reasoning": "Links DNA damage accumulation and genomic instability to aging, supported by progeroid syndromes with defective genome maintenance."
+        },
+        {
+          "theory_id": "T018954",
+          "subcluster_name": "DNA Repair-Transcription Deficiency Interaction in Premature Aging Theory",
+          "reasoning": "Focuses on combined defects in NER and transcription (via XPD mutations) causing premature aging phenotypes."
+        },
+        {
+          "theory_id": "T019178",
+          "subcluster_name": "Excluded - Assigned to Molecular Damage Cluster"
+        },
+        {
+          "theory_id": "T019029",
+          "subcluster_name": "DNA Damage Response Deficiency and Stem Cell Attrition Theory",
+          "reasoning": "Emphasizes DDR gene ATR loss causing stem cell depletion and systemic premature aging phenotypes."
+        },
+        {
+          "theory_id": "T018770",
+          "subcluster_name": "Werner Syndrome and RecQ Helicase Deficiency Genomic Instability Theory",
+          "reasoning": "Focuses on WRN helicase defects causing genomic instability, telomere dysfunction, and accelerated aging in Werner syndrome."
+        },
+        {
+          "theory_id": "T018912",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Heteroplasmy Theory",
+          "reasoning": "Describes accumulation of mtDNA mutations (heteroplasmy) impairing mitochondrial function and driving aging phenotypes."
+        },
+        {
+          "theory_id": "T019052",
+          "subcluster_name": "DNA Repair Gene Repression in Cellular Senescence and Aging Theory",
+          "reasoning": "Highlights broad repression of DNA repair genes in senescent cells leading to DNA damage accumulation and aging."
+        },
+        {
+          "theory_id": "T018782",
+          "subcluster_name": "Mitochondrial DNA Damage and ROS Feedback Loop Theory",
+          "reasoning": "Focuses on mtDNA deletions caused by ROS, clonal expansion of mutations, and vicious cycle of mitochondrial dysfunction in aging."
+        },
+        {
+          "theory_id": "T018591",
+          "subcluster_name": "rDNA Instability and Extrachromosomal rDNA Circles Aging Theory",
+          "reasoning": "Proposes instability at rDNA locus and accumulation of extrachromosomal rDNA circles drive replicative aging."
+        },
+        {
+          "theory_id": "T018091",
+          "subcluster_name": "Excluded - Assigned to Molecular Damage Cluster"
+        },
+        {
+          "theory_id": "T018215",
+          "subcluster_name": "Molecular Damage Accumulation via isoDGR-Modified Proteins Theory",
+          "reasoning": "Focuses on accumulation of isoDGR-modified ECM proteins causing chronic inflammation and molecular damage driving aging."
+        },
+        {
+          "theory_id": "T018177",
+          "subcluster_name": "Excluded - Immunosenescence Theory (Not DNA Damage Focused)"
+        },
+        {
+          "theory_id": "T018159",
+          "subcluster_name": "Excluded - Dauer-Related Genetic Regulation Theory (Not DNA Damage Focused)"
+        },
+        {
+          "theory_id": "T017860",
+          "subcluster_name": "ATM/ATMIN Mediated DNA Damage Response and Neural Aging Theory",
+          "reasoning": "Emphasizes ATM kinase and cofactor ATMIN in oxidative stress response, DNA repair, and prevention of neural aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:48:03"
+}

@@ -1,0 +1,182 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+        "theory_ids": [
+          "T002056",
+          "T001976",
+          "T002034",
+          "T002014",
+          "T003433",
+          "T002827",
+          "T002865",
+          "T002425",
+          "T002760",
+          "T002153"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+        "theory_ids": [
+          "T002381",
+          "T002695",
+          "T003143",
+          "T003709",
+          "T003516",
+          "T002795",
+          "T003397",
+          "T003646",
+          "T003396"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Accelerated Brain Aging Theory",
+        "theory_ids": [
+          "T003117",
+          "T002991",
+          "T003706"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T002056",
+          "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+          "reasoning": "Focuses on organismal resistance to oxidative stress correlating with longevity and genetic/physiological mechanisms enhancing antioxidant defenses."
+        },
+        {
+          "theory_id": "T001976",
+          "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+          "reasoning": "Emphasizes endogenous antioxidant enzymes and their role in modulating lifespan via oxidative stress resistance."
+        },
+        {
+          "theory_id": "T002034",
+          "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+          "reasoning": "Highlights enhanced oxidative stress resistance in long-lived species and cellular resilience as a longevity mechanism."
+        },
+        {
+          "theory_id": "T002014",
+          "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+          "reasoning": "Describes altered oxidative stress response and signaling pathways in long-lived mutants that confer increased lifespan."
+        },
+        {
+          "theory_id": "T003433",
+          "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+          "reasoning": "Shows social environment modulating oxidative stress resilience and longevity via physiological and antioxidant mechanisms."
+        },
+        {
+          "theory_id": "T002827",
+          "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+          "reasoning": "Details negative feedback regulation of antioxidant response factors controlling stress resistance and longevity."
+        },
+        {
+          "theory_id": "T002865",
+          "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+          "reasoning": "Proposes oxidative stress mediates the reproduction-self-maintenance trade-off affecting longevity via antioxidant defenses."
+        },
+        {
+          "theory_id": "T002425",
+          "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+          "reasoning": "Links oxidative stress accumulation and reproductive effort to aging, emphasizing antioxidant balance and damage."
+        },
+        {
+          "theory_id": "T002760",
+          "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+          "reasoning": "Connects energy balance, metabolic rate, and oxidative stress to lifespan differences and caloric restriction effects."
+        },
+        {
+          "theory_id": "T002153",
+          "subcluster_name": "Oxidative Stress Resistance Theory of Aging",
+          "reasoning": "Focuses on metabolic activity modulating ROS production and antioxidant defenses influencing longevity."
+        },
+        {
+          "theory_id": "T002381",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Centers on mitochondrial ROS as signaling molecules triggering adaptive stress responses that promote longevity."
+        },
+        {
+          "theory_id": "T002695",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Describes ROS hormesis where moderate ROS levels induce beneficial adaptive responses enhancing lifespan."
+        },
+        {
+          "theory_id": "T003143",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Emphasizes mitochondrial origin of ROS and their role in metabolic rate-lifespan trade-offs and aging."
+        },
+        {
+          "theory_id": "T003709",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Links ROS to genetic regulation of longevity and feedback loops involving calcium homeostasis and signaling."
+        },
+        {
+          "theory_id": "T003516",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Focuses on selective oxidative damage to mitochondrial aconitase affecting energy metabolism and aging rate."
+        },
+        {
+          "theory_id": "T002795",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Discusses dual roles of ROS and the complex effects of antioxidant enzymes on mitochondrial ROS and lifespan."
+        },
+        {
+          "theory_id": "T003397",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Analyzes thiol redox state and mitochondrial oxidative stress as determinants of aging rate and lifespan."
+        },
+        {
+          "theory_id": "T003646",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Details mitochondrial dysfunction and ROS amplification cycles contributing to oxidative damage and aging."
+        },
+        {
+          "theory_id": "T003396",
+          "subcluster_name": "Mitochondrial ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Examines organ-specific oxidative damage, especially in heart, linked to mitochondrial ROS and antioxidant imbalance."
+        },
+        {
+          "theory_id": "T002054",
+          "subcluster_name": "Oxidative Stress-Induced Meiotic Cohesion Loss Theory",
+          "reasoning": "Focuses on oxidative stress causing premature loss of meiotic cohesion and chromosome segregation errors in oocytes."
+        },
+        {
+          "theory_id": "T003062",
+          "subcluster_name": "Oxidative Stress-Induced NAD+ Depletion Theory",
+          "reasoning": "Describes oxidative DNA damage activating PARP, leading to NAD+ depletion and impaired energy metabolism accelerating aging."
+        },
+        {
+          "theory_id": "T003117",
+          "subcluster_name": "Oxidative Stress-Induced Accelerated Brain Aging Theory",
+          "reasoning": "Links oxidative DNA damage from environmental stress to brain aging, cellular senescence, and gut microbiome disruption."
+        },
+        {
+          "theory_id": "T002991",
+          "subcluster_name": "Oxidative Stress-Induced Accelerated Brain Aging Theory",
+          "reasoning": "Focuses on oxidative stress causing neuronal and synaptic damage, mitochondrial dysfunction, and altered brain aging."
+        },
+        {
+          "theory_id": "T003706",
+          "subcluster_name": "Oxidative Stress-Induced Accelerated Brain Aging Theory",
+          "reasoning": "Connects oxidative stress and mitochondrial dysfunction to neurodegeneration and Alzheimer's disease as systemic aging."
+        },
+        {
+          "theory_id": "T003190",
+          "subcluster_name": "Evolutionary Antioxidant Defense and Oxidative Stress Theory",
+          "reasoning": "Explores evolution of antioxidant defenses, metabolic trade-offs, and dietary influences on oxidative stress and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:16:16"
+}

@@ -1,0 +1,222 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 33,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T022489",
+          "T022331",
+          "T022279",
+          "T022350",
+          "T022307",
+          "T022278",
+          "T022370",
+          "T022479",
+          "T022332",
+          "T022296",
+          "T022225",
+          "T022375",
+          "T022318",
+          "T022340"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Apoptosis Resistance and Survival Pathways in Senescent Cells Theory",
+        "theory_ids": [
+          "T022216",
+          "T022112"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Microglial Senescence and Neurodegeneration Theory",
+        "theory_ids": [
+          "T022325",
+          "T022413"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Senescent Immune Cell Accumulation and Inflammaging Theory",
+        "theory_ids": [
+          "T022470",
+          "T022432"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022489",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on permanent cell cycle arrest triggered by DNA damage, oxidative stress, and telomere shortening, with SASP driving tissue dysfunction and age-related lung diseases."
+        },
+        {
+          "theory_id": "T022331",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening and DNA damage response activating senescence pathways (p53-p21, p16-pRB) and SASP contributing to COPD and systemic aging."
+        },
+        {
+          "theory_id": "T022279",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Describes accumulation of senescent cells with age due to DNA damage and telomere attrition, with SASP mediating age-related pathologies."
+        },
+        {
+          "theory_id": "T022350",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Highlights replicative senescence linked to telomere shortening and p16INK4a expression in aging kidney, connecting DNA damage to organ aging."
+        },
+        {
+          "theory_id": "T022307",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Covers senescence induced by DNA damage, telomere uncapping, mitochondrial dysfunction, and oncogene activation, with SASP mediating aging and disease."
+        },
+        {
+          "theory_id": "T022278",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on p21CIP1-CDK4-DREAM axis regulating genotoxic stress-induced senescence downstream of DNA damage response."
+        },
+        {
+          "theory_id": "T022370",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Describes accumulation of senescent cells with SASP driving systemic aging and inflammation, linked to stress and DNA damage."
+        },
+        {
+          "theory_id": "T022479",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Astrocyte senescence driven by oxidative and proteotoxic stress, with SASP promoting neuroinflammation and brain aging."
+        },
+        {
+          "theory_id": "T022285",
+          "subcluster_name": "Epigenetic Regulation of Cellular Senescence Theory",
+          "reasoning": "Describes Pak2 kinase regulating senescence via HIRA-mediated nucleosome assembly and histone variant H3.3 deposition affecting gene expression and SASP."
+        },
+        {
+          "theory_id": "T022216",
+          "subcluster_name": "Apoptosis Resistance and Survival Pathways in Senescent Cells Theory",
+          "reasoning": "Focuses on senescent cells developing anti-apoptotic pathways (SCAPs) that enable survival and accumulation, explaining resistance to senolytics."
+        },
+        {
+          "theory_id": "T022459",
+          "subcluster_name": "Senescence-Driven Inflammation and Metabolic Decline Theory",
+          "reasoning": "Senescent cells induce CD38+ macrophage activation via SASP, causing NAD+ decline and linking senescence to metabolic aging and inflammaging."
+        },
+        {
+          "theory_id": "T022325",
+          "subcluster_name": "Microglial Senescence and Neurodegeneration Theory",
+          "reasoning": "Microglial cells undergo senescence-like changes causing functional decline and contributing to neurodegeneration distinct from reactive gliosis."
+        },
+        {
+          "theory_id": "T022413",
+          "subcluster_name": "Microglial Senescence and Neurodegeneration Theory",
+          "reasoning": "Microglial replicative senescence accelerated by amyloid promotes neurodegeneration and Alzheimer's disease progression."
+        },
+        {
+          "theory_id": "T022311",
+          "subcluster_name": "Post-Mitotic Cell Senescence and Brain Aging Theory",
+          "reasoning": "Describes senescence-like phenotype in post-mitotic neurons with SASP and dysfunctional autophagy contributing to brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T022470",
+          "subcluster_name": "Senescent Immune Cell Accumulation and Inflammaging Theory",
+          "reasoning": "Senescent immune cells (B, T, NK) accumulate with SASP secretion causing chronic inflammation and immune dysfunction during aging."
+        },
+        {
+          "theory_id": "T022432",
+          "subcluster_name": "Senescent Immune Cell Accumulation and Inflammaging Theory",
+          "reasoning": "Replicative senescence of memory CD8+ T cells driven by chronic antigen stimulation leads to immune aging and functional decline."
+        },
+        {
+          "theory_id": "T022332",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Cardiac cell senescence driven by replicative and stress-induced mechanisms with SASP promoting cardiovascular aging and disease."
+        },
+        {
+          "theory_id": "T022296",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Describes replicative senescence via telomere shortening and stress-induced premature senescence with DNA damage response as central mechanism."
+        },
+        {
+          "theory_id": "T022225",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Replicative senescence limits cell division, accumulates with age, and contributes to tissue dysfunction and tumor suppression."
+        },
+        {
+          "theory_id": "T022375",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "DNA damage response and oxidative stress induce senescence and aging; gene expression overlaps between replicative and radiation-induced senescence."
+        },
+        {
+          "theory_id": "T022500",
+          "subcluster_name": "Genetic Regulation of Cellular Senescence Theory",
+          "reasoning": "Genetic control of senescence via complementation groups and senescence-related genes (e.g., MORF4) underlies programmed cellular aging."
+        },
+        {
+          "theory_id": "T022419",
+          "subcluster_name": "p16INK4a-Mediated Cellular Senescence Theory",
+          "reasoning": "p16INK4a protein triggers senescence and aging; genetic variants in CDKN2a/b locus modulate aging phenotypes and cancer protection."
+        },
+        {
+          "theory_id": "T022309",
+          "subcluster_name": "RNase-L Mediated Cellular Senescence Theory",
+          "reasoning": "RNase-L induces senescence as tumor suppressor; its genetic disruption extends lifespan, linking RNase-L to aging regulation."
+        },
+        {
+          "theory_id": "T022201",
+          "subcluster_name": "Senescence and Cancer Dual Role Theory",
+          "reasoning": "Senescence acts as tumor suppressor but SASP promotes tumor progression and age-related diseases; therapeutic targeting of senescence and SASP."
+        },
+        {
+          "theory_id": "T021952",
+          "subcluster_name": "Virus-Induced Cellular Senescence Theory",
+          "reasoning": "Viral infections induce senescence via cGAS-STING and DDR pathways; senescent cells secrete SASP promoting inflammation and aging."
+        },
+        {
+          "theory_id": "T021901",
+          "subcluster_name": "Adipose Tissue Cellular Senescence and Metabolic Aging Theory",
+          "reasoning": "Senescent cells accumulate in fat tissue with aging/obesity, secreting SASP that drives inflammation, metabolic dysfunction, and systemic aging."
+        },
+        {
+          "theory_id": "T022112",
+          "subcluster_name": "Apoptosis Resistance and Survival Pathways in Senescent Cells Theory",
+          "reasoning": "Senescent cells resist apoptosis via multiple mechanisms, leading to accumulation and promoting age-dependent diseases."
+        },
+        {
+          "theory_id": "T022081",
+          "subcluster_name": "Senescent Cell Antigen and Oxidative Modification Theory",
+          "reasoning": "Band 3 protein oxidative modification generates senescent cell antigen marking cells for removal; implicated in aging and neurological diseases."
+        },
+        {
+          "theory_id": "T021959",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence in Muscle Aging Theory",
+          "reasoning": "Decline in autophagy with age leads to accumulation of damaged proteins/organelles, promoting muscle senescence, sarcopenia, and aging."
+        },
+        {
+          "theory_id": "T021576",
+          "subcluster_name": "Endothelial Cell Senescence and Cerebrovascular Aging Theory",
+          "reasoning": "Senescent endothelial cells with SASP cause vascular dysfunction, BBB disruption, and contribute to cerebrovascular and neurodegenerative aging."
+        },
+        {
+          "theory_id": "T022318",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Replicative lifespan limits and telomere shortening in macaque cells mirror human cellular aging mechanisms."
+        },
+        {
+          "theory_id": "T022340",
+          "subcluster_name": "Telomere and DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Senescence induced by RAS-MAPK pathway mutations (RASopathies) causes premature aging via chronic senescence and SASP."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:20:20"
+}

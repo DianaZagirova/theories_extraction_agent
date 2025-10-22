@@ -1,0 +1,224 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+        "theory_ids": [
+          "T002624",
+          "T002818",
+          "T002930",
+          "T002690",
+          "T002851",
+          "T002546",
+          "T002656",
+          "T002493",
+          "T002692",
+          "T002744",
+          "T002941",
+          "T002905"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T002500",
+          "T002580",
+          "T002751",
+          "T002824",
+          "T002522",
+          "T002935",
+          "T002912",
+          "T002336",
+          "T002531",
+          "T002629"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Growth-Reproduction Trade-off Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T002630",
+          "T002588"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T002624",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Focuses on declining natural selection with age allowing accumulation of late-acting deleterious alleles, a core evolutionary mechanism underlying antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T002818",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Explains lifespan variation in nematodes via evolutionary trade-offs and declining selection pressure with age, fitting the evolutionary force decline theme."
+        },
+        {
+          "theory_id": "T002930",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Integrates extrinsic mortality, mutation accumulation, and antagonistic pleiotropy under declining natural selection force shaping aging."
+        },
+        {
+          "theory_id": "T002690",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Combines mutation accumulation and antagonistic pleiotropy with emphasis on declining selection pressure with age causing senescence."
+        },
+        {
+          "theory_id": "T002851",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Focuses on declining force of natural selection with age as the evolutionary basis for accumulation of late-acting deleterious alleles causing aging."
+        },
+        {
+          "theory_id": "T002546",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Discusses mutation accumulation, antagonistic pleiotropy, and disposable soma under the framework of declining natural selection force with age."
+        },
+        {
+          "theory_id": "T002656",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Explores how extrinsic mortality and declining selection pressure shape senescence evolution, fitting the evolutionary force decline theme."
+        },
+        {
+          "theory_id": "T002493",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Focuses on accumulation of deleterious germline mutations under declining selection with age causing senescence, consistent with this evolutionary theme."
+        },
+        {
+          "theory_id": "T002692",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Combines mutation accumulation and antagonistic pleiotropy theories emphasizing declining natural selection force with age in plants."
+        },
+        {
+          "theory_id": "T002744",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Reviews antagonistic pleiotropy and mutation accumulation as evolutionary mechanisms driven by declining selection pressure with age."
+        },
+        {
+          "theory_id": "T002941",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Tests evolutionary senescence theories focusing on pleiotropic genes and declining selection force with age causing senescence."
+        },
+        {
+          "theory_id": "T002905",
+          "subcluster_name": "Evolutionary Declining Force of Natural Selection Antagonistic Pleiotropy",
+          "reasoning": "Explores reproduction-aging trade-offs under declining natural selection force, consistent with evolutionary antagonistic pleiotropy framework."
+        },
+        {
+          "theory_id": "T002500",
+          "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on pleiotropic alleles with early-life reproductive benefits but late-life survival costs, emphasizing reproduction-survival trade-offs."
+        },
+        {
+          "theory_id": "T002580",
+          "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes trade-offs between early-life fitness and late-life viability, highlighting antagonistic pleiotropy via reproduction-survival balance."
+        },
+        {
+          "theory_id": "T002751",
+          "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Details genetic antagonism between early reproduction and late-life fitness, fitting reproduction-survival trade-off mechanism."
+        },
+        {
+          "theory_id": "T002824",
+          "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Applies antagonistic pleiotropy to social strategies with early-life benefits and late-life costs, a form of reproduction-survival trade-off."
+        },
+        {
+          "theory_id": "T002522",
+          "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Models pleiotropic mutations causing early-life benefits and late-life mortality increases, consistent with reproduction-survival trade-offs."
+        },
+        {
+          "theory_id": "T002935",
+          "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Shows pleiotropic genetic variants with early-life survival advantages but late-life disadvantages, fitting reproduction-survival trade-off theme."
+        },
+        {
+          "theory_id": "T002912",
+          "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Demonstrates age-dependent reversal of gene function with early-life benefits and late-life costs, illustrating reproduction-survival trade-offs."
+        },
+        {
+          "theory_id": "T002336",
+          "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "AP hypothesis of APOE-\u03b54 allele shows early-life survival/fertility benefits but late-life cognitive decline, a reproduction-survival trade-off."
+        },
+        {
+          "theory_id": "T002531",
+          "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "AP hypothesis of APOE polymorphisms with allele-specific early-life benefits and late-life detriments, fitting reproduction-survival trade-off."
+        },
+        {
+          "theory_id": "T002629",
+          "subcluster_name": "Reproduction-Survival Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Social insect theory with reversed fecundity-longevity trade-off, highlighting reproduction-survival trade-offs in a unique evolutionary context."
+        },
+        {
+          "theory_id": "T002630",
+          "subcluster_name": "Growth-Reproduction Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on trade-offs between rapid growth and lifespan, linking growth rate to aging via physiological and ecological costs."
+        },
+        {
+          "theory_id": "T002825",
+          "subcluster_name": "Gene Expression Variation Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes variegated gene expression as a bet-hedging AP mechanism with early-life benefits and late-life deleterious effects."
+        },
+        {
+          "theory_id": "T002896",
+          "subcluster_name": "Mitochondrial Dysfunction Antagonistic Pleiotropy Theory",
+          "reasoning": "Proposes mitochondrial death spiral mediated by IIS pathway as cellular mechanism of AP, linking early-life growth benefits to late-life mitochondrial decay."
+        },
+        {
+          "theory_id": "T001864",
+          "subcluster_name": "Genome Maintenance Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on genome maintenance as AP mechanism with early-life DNA repair benefits but late-life mutation accumulation and aging."
+        },
+        {
+          "theory_id": "T001812",
+          "subcluster_name": "Micronutrient Allocation Antagonistic Pleiotropy Theory",
+          "reasoning": "Micronutrient triage theory explains AP via allocation of scarce micronutrients favoring short-term survival over long-term maintenance."
+        },
+        {
+          "theory_id": "T002136",
+          "subcluster_name": "Cancer Suppression Life History Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes trade-offs between cancer suppression and reproduction, with pleiotropic constraints shaping aging and lifespan evolution."
+        },
+        {
+          "theory_id": "T001460",
+          "subcluster_name": "Behavioral Exploration-Exploitation Antagonistic Pleiotropy Theory",
+          "reasoning": "Explores age-related decline in exploration as adaptive or mechanistic AP affecting cognitive and behavioral aging."
+        },
+        {
+          "theory_id": "T001944",
+          "subcluster_name": "Mutation Load Management Antagonistic Pleiotropy Theory",
+          "reasoning": "Multinucleate spore formation reduces mutation load in asexual fungi, an evolutionary mechanism mitigating deleterious mutation accumulation."
+        },
+        {
+          "theory_id": "T002452",
+          "subcluster_name": "Social Evolution and Longevity Antagonistic Pleiotropy Theory",
+          "reasoning": "Explains evolution of sterile helpers via cooperative breeding and lifespan differences, linking social structure to aging evolution."
+        },
+        {
+          "theory_id": "T002467",
+          "subcluster_name": "Two-Sex Human Senescence Antagonistic Pleiotropy Theory",
+          "reasoning": "Extends classical AP by including male fertility effects on selection force, explaining human lifespan evolution beyond female menopause."
+        },
+        {
+          "theory_id": "T002588",
+          "subcluster_name": "Growth-Reproduction Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses trade-offs among growth, reproduction, and maintenance shaping aging, fitting growth-reproduction trade-off theme."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:45:56"
+}

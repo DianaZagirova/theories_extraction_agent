@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 42,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitophagy and Mitochondrial Quality Control Theory",
+        "theory_ids": [
+          "T027461",
+          "T027494",
+          "T027085",
+          "T027268",
+          "T026653",
+          "T027161",
+          "T027343",
+          "T027515"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Oxidative Damage Theory",
+        "theory_ids": [
+          "T027127",
+          "T026927",
+          "T027322",
+          "T026983",
+          "T026398",
+          "T026549",
+          "T026309",
+          "T027510"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Damage and Deletion Accumulation Theory",
+        "theory_ids": [
+          "T026372",
+          "T026866",
+          "T027099",
+          "T026973"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitochondrial-to-Nuclear Communication and Epigenetic Regulation Theory",
+        "theory_ids": [
+          "T027308",
+          "T026877",
+          "T026903",
+          "T027012",
+          "T027165"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027461",
+          "subcluster_name": "Mitophagy and Mitochondrial Quality Control Theory",
+          "reasoning": "Focuses on mitophagy as a metabolic regulator and mitochondrial quality control mechanism influencing aging."
+        },
+        {
+          "theory_id": "T027494",
+          "subcluster_name": "Mitophagy and Mitochondrial Quality Control Theory",
+          "reasoning": "Centers on mitochondrial quality control processes including mitophagy, fusion/fission, and biogenesis as drivers of aging."
+        },
+        {
+          "theory_id": "T027085",
+          "subcluster_name": "Mitophagy and Mitochondrial Quality Control Theory",
+          "reasoning": "Emphasizes mitochondrial quality control independent of mitophagy but related to mitochondrial maintenance and aging."
+        },
+        {
+          "theory_id": "T027268",
+          "subcluster_name": "Mitophagy and Mitochondrial Quality Control Theory",
+          "reasoning": "Highlights mitophagy-mediated metabolic homeostasis as a key mechanism delaying aging."
+        },
+        {
+          "theory_id": "T026653",
+          "subcluster_name": "Mitophagy and Mitochondrial Quality Control Theory",
+          "reasoning": "Describes mitochondrial quality control via mitophagy and mitochondria-derived vesicles (MDVs) in aging."
+        },
+        {
+          "theory_id": "T027161",
+          "subcluster_name": "Mitophagy and Mitochondrial Quality Control Theory",
+          "reasoning": "Focuses on mitochondrial lifecycle including mitophagy and organelle homeostasis as central to aging."
+        },
+        {
+          "theory_id": "T027343",
+          "subcluster_name": "Mitophagy and Mitochondrial Quality Control Theory",
+          "reasoning": "Links mitophagy-related mitochondrial dysfunction to chronic inflammation and aging."
+        },
+        {
+          "theory_id": "T027515",
+          "subcluster_name": "Mitophagy and Mitochondrial Quality Control Theory",
+          "reasoning": "Integrates mitochondrial autophagy (mitophagy), inflammation, and mitochondrial dysfunction in aging."
+        },
+        {
+          "theory_id": "T027127",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial DNA mutations, dysfunction, and reactive oxygen species causing oxidative damage driving aging."
+        },
+        {
+          "theory_id": "T026927",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Damage Theory",
+          "reasoning": "Emphasizes robust electron transfer chain assembly and oxidative phosphorylation efficiency reducing oxidative stress in aging."
+        },
+        {
+          "theory_id": "T027322",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Damage Theory",
+          "reasoning": "Centers on mitochondrial dysfunction via PGC-1/ERR axis deregulation affecting energy metabolism and aging."
+        },
+        {
+          "theory_id": "T026983",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Damage Theory",
+          "reasoning": "General mitochondrial theory highlighting conserved mitochondrial dysfunction mechanisms driving aging."
+        },
+        {
+          "theory_id": "T026398",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Damage Theory",
+          "reasoning": "Links environmental pollutants causing mitochondrial dysfunction and oxidative damage accelerating aging."
+        },
+        {
+          "theory_id": "T026549",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Damage Theory",
+          "reasoning": "Focuses on dysfunction of mitochondrial respiratory complexes as a core feature of mitochondrial aging."
+        },
+        {
+          "theory_id": "T026309",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Damage Theory",
+          "reasoning": "Conceptualizes mitochondrial dysfunction as the weakest link in aging network, involving mtDNA damage and immune receptor-mediated dysfunction."
+        },
+        {
+          "theory_id": "T027510",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial bioenergetics impairment as a driver of aging and related diseases."
+        },
+        {
+          "theory_id": "T026372",
+          "subcluster_name": "Mitochondrial DNA Damage and Deletion Accumulation Theory",
+          "reasoning": "Specifically addresses accumulation of mitochondrial DNA deletions with age contributing to dysfunction."
+        },
+        {
+          "theory_id": "T026866",
+          "subcluster_name": "Mitochondrial DNA Damage and Deletion Accumulation Theory",
+          "reasoning": "Links calorie restriction and SIRT1 activation to mitochondrial biogenesis and DNA maintenance affecting aging."
+        },
+        {
+          "theory_id": "T027099",
+          "subcluster_name": "Mitochondrial DNA Damage and Deletion Accumulation Theory",
+          "reasoning": "Emphasizes mitochondrial homeostasis including DNA integrity and regenerative capacity in aging."
+        },
+        {
+          "theory_id": "T026973",
+          "subcluster_name": "Mitochondrial DNA Damage and Deletion Accumulation Theory",
+          "reasoning": "Focuses on mitochondrial role in conserved aging mechanisms including DNA damage and dysfunction."
+        },
+        {
+          "theory_id": "T027308",
+          "subcluster_name": "Mitochondrial-to-Nuclear Communication and Epigenetic Regulation Theory",
+          "reasoning": "Highlights mitochondrial signaling to nucleus and epigenetic modulation by mitochondrial metabolites regulating aging."
+        },
+        {
+          "theory_id": "T026877",
+          "subcluster_name": "Mitochondrial-to-Nuclear Communication and Epigenetic Regulation Theory",
+          "reasoning": "Describes integration of mitochondrial redox state, calcium signaling, and bioenergetics as metabolic nexus influencing aging."
+        },
+        {
+          "theory_id": "T026903",
+          "subcluster_name": "Mitochondrial-to-Nuclear Communication and Epigenetic Regulation Theory",
+          "reasoning": "Focuses on mitochondrial superoxide signaling and tissue-specific ROS effects modulating longevity."
+        },
+        {
+          "theory_id": "T027012",
+          "subcluster_name": "Mitochondrial-to-Nuclear Communication and Epigenetic Regulation Theory",
+          "reasoning": "Links mitochondrial dysfunction to stem cell senescence and epigenetic regulation affecting aging."
+        },
+        {
+          "theory_id": "T027165",
+          "subcluster_name": "Mitochondrial-to-Nuclear Communication and Epigenetic Regulation Theory",
+          "reasoning": "Describes mitochondrial adaptation to moderate hypoxia improving function and promoting healthy aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:57:58"
+}

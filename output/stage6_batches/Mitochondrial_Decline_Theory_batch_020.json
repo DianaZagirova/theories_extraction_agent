@@ -1,0 +1,204 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 20,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+        "theory_ids": [
+          "T015319",
+          "T014968",
+          "T014815",
+          "T014622",
+          "T014985",
+          "T015303",
+          "T014526",
+          "T014406",
+          "T014392",
+          "T015252",
+          "T014969",
+          "T015086"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+        "theory_ids": [
+          "T015220",
+          "T015293",
+          "T015250",
+          "T014410",
+          "T014469"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial Metabolic Dysfunction Theory",
+        "theory_ids": [
+          "T014414",
+          "T015157",
+          "T014901",
+          "T014671",
+          "T015145",
+          "T015148",
+          "T015313"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Lipid and Stress Signaling Theory",
+        "theory_ids": [
+          "T015290",
+          "T014135",
+          "T015007"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015319",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Focuses on mitochondrial reactive oxygen species (ROS) as damaging agents and signaling molecules driving aging and redox imbalance."
+        },
+        {
+          "theory_id": "T014968",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Emphasizes mitochondrial free radical (ROS) production causing oxidative damage and aging, modulated by calorie and protein restriction."
+        },
+        {
+          "theory_id": "T014815",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Highlights mitochondrial free radical generation as a cause of aging and the role of caloric restriction in reducing ROS."
+        },
+        {
+          "theory_id": "T014622",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Describes oxidative damage accumulation from mitochondrial ROS and how calorie restriction reduces ROS generation and alters membrane properties."
+        },
+        {
+          "theory_id": "T014985",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Focuses on oxidative stress from mitochondrial ROS as a causal driver of aging and the protective effects of calorie restriction."
+        },
+        {
+          "theory_id": "T015303",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Links mitochondrial ROS production and oxidative damage to aging, with dietary methionine restriction reducing ROS and damage."
+        },
+        {
+          "theory_id": "T014526",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "In Podospora anserina, mitochondrial ROS from respiratory chain and copper cofactors cause aging; alternative respiration reduces ROS and extends lifespan."
+        },
+        {
+          "theory_id": "T014406",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Mitochondrial free radical theory in Podospora anserina emphasizing ROS generation and oxidative stress as aging drivers."
+        },
+        {
+          "theory_id": "T014392",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Mitochondrial free radical theory with focus on Sirt3-mediated antioxidant defense reducing oxidative damage under calorie restriction."
+        },
+        {
+          "theory_id": "T015252",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Yeast mitochondrial ROS theory highlighting ROS from dihydrolipoyl dehydrogenase, NAD+ metabolism, and calorie restriction effects."
+        },
+        {
+          "theory_id": "T014969",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Mitochondrial oxidative stress theory of vascular aging focusing on mitochondrial H2O2 activating NF-\u03baB and inflammation."
+        },
+        {
+          "theory_id": "T015086",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Mitohormesis theory where mitochondrial ROS act as hormetic signals inducing adaptive stress responses and lifespan extension."
+        },
+        {
+          "theory_id": "T015220",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Focuses on mtDNA damage accumulation caused by ROS leading to mitochondrial dysfunction and aging, with calorie restriction reducing oxidative damage."
+        },
+        {
+          "theory_id": "T015293",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Emphasizes accumulation of mtDNA mutations impairing mitochondrial function and inducing apoptosis as fundamental aging mechanisms."
+        },
+        {
+          "theory_id": "T015250",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Mitochondrial clock theory focusing on mtDNA mutations and respiratory chain dysfunction causing aging, with ROS as a secondary factor."
+        },
+        {
+          "theory_id": "T014410",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Membrane hypothesis linking reactive oxygen metabolites to mtDNA deletions and mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T014469",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "mtDNA rearrangement theory in Podospora anserina where nuclear gene controls mtDNA stability affecting aging and ROS production."
+        },
+        {
+          "theory_id": "T014414",
+          "subcluster_name": "Mitochondrial Metabolic Dysfunction Theory",
+          "reasoning": "Focuses on mitochondrial metabolic state changes in neurons causing synaptic plasticity decline and aging phenotype."
+        },
+        {
+          "theory_id": "T015157",
+          "subcluster_name": "Mitochondrial Metabolic Dysfunction Theory",
+          "reasoning": "Calorie restriction-induced mitochondrial metabolic reprogramming enhancing biogenesis and efficiency to delay aging."
+        },
+        {
+          "theory_id": "T014901",
+          "subcluster_name": "Mitochondrial Metabolic Dysfunction Theory",
+          "reasoning": "Links mitochondrial dysfunction, calorie restriction, and sirtuins regulating mitochondrial biogenesis and ROS to aging."
+        },
+        {
+          "theory_id": "T014671",
+          "subcluster_name": "Mitochondrial Metabolic Dysfunction Theory",
+          "reasoning": "Calorie restriction modulates oxidative phosphorylation complexes reducing ROS and inducing hormetic protective effects."
+        },
+        {
+          "theory_id": "T015145",
+          "subcluster_name": "Mitochondrial Metabolic Dysfunction Theory",
+          "reasoning": "Dietary restriction maintains low mitochondrial membrane potential linking mitochondrial metabolic state to replicative and chronological aging."
+        },
+        {
+          "theory_id": "T015148",
+          "subcluster_name": "Mitochondrial Metabolic Dysfunction Theory",
+          "reasoning": "Yeast mitochondrial respiration and ROS theory where increased respiration reduces ROS and extends lifespan, mimicking calorie restriction."
+        },
+        {
+          "theory_id": "T015313",
+          "subcluster_name": "Mitochondrial Metabolic Dysfunction Theory",
+          "reasoning": "Metabolic regulation of aging via mitochondrial oxidative phosphorylation upregulation and biosynthetic pathway downregulation in yeast."
+        },
+        {
+          "theory_id": "T015290",
+          "subcluster_name": "Mitochondrial Lipid and Stress Signaling Theory",
+          "reasoning": "Mitochondrial cardiolipin-dependent regulation of lifespan via modulation of stress response pathways affecting mitochondrial function."
+        },
+        {
+          "theory_id": "T014135",
+          "subcluster_name": "Mitochondrial Lipid and Stress Signaling Theory",
+          "reasoning": "Mitochondrial dynamics theory focusing on fusion/fission balance, mitophagy, and quality control affecting mitochondrial health and aging."
+        },
+        {
+          "theory_id": "T015007",
+          "subcluster_name": "Mitochondrial Lipid and Stress Signaling Theory",
+          "reasoning": "Mitogenic acceleration theory linking cell proliferation, gene expression changes, and telomere shortening to aging, related to mitochondrial function indirectly."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:45:49"
+}

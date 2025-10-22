@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 9,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+        "theory_ids": [
+          "T012880",
+          "T012621",
+          "T009415",
+          "T010227",
+          "T013943",
+          "T012196",
+          "T009752",
+          "T010830",
+          "T011939",
+          "T011825",
+          "T011073",
+          "T009578",
+          "T009573",
+          "T010260",
+          "T013485",
+          "T009511",
+          "T011697",
+          "T012846",
+          "T010001",
+          "T012517"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 20
+      },
+      {
+        "subcluster_name": "Stress-Accelerated Telomere Attrition Theory",
+        "theory_ids": [
+          "T013652",
+          "T011276"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Telomere-p53-Mitochondrial Dysfunction Theory",
+        "theory_ids": [
+          "T013983",
+          "T011236"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T012880",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere shortening as a mitotic clock triggering DNA damage responses and cellular senescence, linking telomere attrition directly to aging."
+        },
+        {
+          "theory_id": "T012621",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening causing cellular senescence and organismal aging, with telomere length as an aging biomarker and link to cancer."
+        },
+        {
+          "theory_id": "T009415",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Describes telomere shortening due to end replication problem leading to cellular senescence, with telomerase counteracting erosion."
+        },
+        {
+          "theory_id": "T010227",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Details telomere shortening limiting cell division and telomerase role, linking telomere dysfunction to premature aging diseases."
+        },
+        {
+          "theory_id": "T013943",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Focuses on progressive telomere shortening as a cellular clock causing senescence and telomerase reactivation in cancer."
+        },
+        {
+          "theory_id": "T012196",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Highlights telomere shortening as mitotic clock triggering senescence and antagonistic pleiotropy in telomerase regulation."
+        },
+        {
+          "theory_id": "T009752",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Links telomere attrition to cellular senescence, oxidative stress acceleration, and telomere length as biomarker of aging."
+        },
+        {
+          "theory_id": "T010830",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Describes telomere erosion driving senescence, telomerase repair, and correlation of attrition rate with lifespan."
+        },
+        {
+          "theory_id": "T011939",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Details telomeres as mitotic clocks, telomerase role, senescence induction, and telomere length as aging biomarker."
+        },
+        {
+          "theory_id": "T011825",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere length as mitotic clock, attrition driving senescence, and telomerase modulation affecting aging."
+        },
+        {
+          "theory_id": "T011073",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening as biological clock balancing tumor suppression and tissue degeneration, with telomerase and shelterin roles."
+        },
+        {
+          "theory_id": "T009578",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Classic marginotomy theory describing telomere shortening as cell division counter triggering senescence and telomerase compensation."
+        },
+        {
+          "theory_id": "T009573",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Marginotomy theory focusing on incomplete replication causing telomere shortening limiting cell division and aging."
+        },
+        {
+          "theory_id": "T010260",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Describes telomeres as protective ends shortening with division, triggering senescence, with telomerase maintaining stem cell replicative potential."
+        },
+        {
+          "theory_id": "T013485",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere length and attrition rates determining replicative senescence and species lifespan differences."
+        },
+        {
+          "theory_id": "T009511",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Links telomere shortening-induced replicative senescence specifically to immune aging and immune function decline."
+        },
+        {
+          "theory_id": "T011697",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Introduces replicative mosaicism concept but centers on telomere shortening limiting proliferation and causing focal cellular senescence."
+        },
+        {
+          "theory_id": "T012846",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Describes telomere shortening as cumulative damage marker accelerated by stress, linking to biological aging."
+        },
+        {
+          "theory_id": "T010001",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Integrates telomere erosion as mitotic clock with disposable soma theory, balancing tumor suppression and aging."
+        },
+        {
+          "theory_id": "T012517",
+          "subcluster_name": "Telomere Attrition and Cellular Senescence Theory",
+          "reasoning": "Proposes telomere attrition as adaptive strategy balancing maintenance costs, tumor suppression, and life-history regulation."
+        },
+        {
+          "theory_id": "T013652",
+          "subcluster_name": "Stress-Accelerated Telomere Attrition Theory",
+          "reasoning": "Focuses on early life and chronic stress accelerating telomere shortening via inflammation, oxidative stress, and endocrine dysregulation."
+        },
+        {
+          "theory_id": "T011276",
+          "subcluster_name": "Stress-Accelerated Telomere Attrition Theory",
+          "reasoning": "Telomere hormesis hypothesis linking low-level stress-induced telomere shortening to adaptive responses and tumor suppression."
+        },
+        {
+          "theory_id": "T013983",
+          "subcluster_name": "Telomere-p53-Mitochondrial Dysfunction Theory",
+          "reasoning": "Integrates telomere dysfunction activating p53, repressing PGC-1 coactivators, causing mitochondrial and metabolic decline in aging heart."
+        },
+        {
+          "theory_id": "T011236",
+          "subcluster_name": "Telomere-p53-Mitochondrial Dysfunction Theory",
+          "reasoning": "Describes telomere attrition triggering senescence and mitochondrial dysfunction via p53-mediated repression of mitochondrial biogenesis."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:22:31"
+}

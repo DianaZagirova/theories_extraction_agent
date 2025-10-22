@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 16,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T016210",
+          "T017242",
+          "T017248",
+          "T016267",
+          "T016558",
+          "T016208",
+          "T017212",
+          "T017263",
+          "T017149",
+          "T017309",
+          "T017275",
+          "T017227",
+          "T017018",
+          "T016109",
+          "T017274",
+          "T017277",
+          "T017170",
+          "T016541",
+          "T016107"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 19
+      },
+      {
+        "subcluster_name": "Antioxidant Defense and Repair Systems in Free Radical Theory",
+        "theory_ids": [
+          "T016397",
+          "T016452",
+          "T017258",
+          "T014519",
+          "T013833",
+          "T016598",
+          "T016239"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Hormesis and Redox Signaling Modulation of Free Radical Theory",
+        "theory_ids": [
+          "T014999",
+          "T017232"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016210",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondria as both source and target of ROS damage driving aging."
+        },
+        {
+          "theory_id": "T017242",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production and oxidative stress as central to aging."
+        },
+        {
+          "theory_id": "T017248",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights age-related increase in mitochondrial ROS production as causal for aging."
+        },
+        {
+          "theory_id": "T016267",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial dysfunction and ROS accumulation causing brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T016558",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Links ROS generation rate and lifespan, with antioxidant interventions modulating mitochondrial ROS damage."
+        },
+        {
+          "theory_id": "T016208",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Connects mitochondrial ROS production, dietary restriction, and oxidative damage in aging and tumorigenesis."
+        },
+        {
+          "theory_id": "T017212",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS production rate influencing aging and longevity in bats."
+        },
+        {
+          "theory_id": "T017263",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes ROS-mediated oxidative damage accumulation and antioxidant defense correlation with lifespan."
+        },
+        {
+          "theory_id": "T017149",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Details mitochondrial ROS production and decline in antioxidant defenses driving aging."
+        },
+        {
+          "theory_id": "T017309",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial redox damage and antioxidant intervention in free radical aging theory."
+        },
+        {
+          "theory_id": "T017275",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Examines mitochondrial ROS production as determinant of aging rate and lifespan."
+        },
+        {
+          "theory_id": "T017227",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial superoxide radicals and intrinsic aging process driven by free radical damage."
+        },
+        {
+          "theory_id": "T017018",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes adaptive evolution of mitochondrial cytochrome b reducing ROS generation to extend longevity."
+        },
+        {
+          "theory_id": "T016109",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Links ROS from mitochondrial metabolism and antioxidant defenses to lifespan differences in marine invertebrates."
+        },
+        {
+          "theory_id": "T017274",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial SOD polymorphisms affecting ROS balance and aging."
+        },
+        {
+          "theory_id": "T016397",
+          "subcluster_name": "Antioxidant Defense and Repair Systems in Free Radical Theory",
+          "reasoning": "Highlights antioxidant enzymes like catalase and their modulation by hormones affecting oxidative damage and aging."
+        },
+        {
+          "theory_id": "T016452",
+          "subcluster_name": "Antioxidant Defense and Repair Systems in Free Radical Theory",
+          "reasoning": "Focuses on antioxidant and repair systems removing oxidative damage and their decline with age."
+        },
+        {
+          "theory_id": "T017258",
+          "subcluster_name": "Antioxidant Defense and Repair Systems in Free Radical Theory",
+          "reasoning": "Describes peroxiredoxins as antioxidants protecting genome from ROS and their inactivation contributing to aging."
+        },
+        {
+          "theory_id": "T014519",
+          "subcluster_name": "Antioxidant Defense and Repair Systems in Free Radical Theory",
+          "reasoning": "Focuses on methionine sulfoxide reductases repairing oxidized proteins and their differential effects on lifespan."
+        },
+        {
+          "theory_id": "T013833",
+          "subcluster_name": "Antioxidant Defense and Repair Systems in Free Radical Theory",
+          "reasoning": "Describes PaMTH1 enzyme methylating flavonoids to prevent metal-dependent ROS generation and oxidative damage."
+        },
+        {
+          "theory_id": "T016598",
+          "subcluster_name": "Antioxidant Defense and Repair Systems in Free Radical Theory",
+          "reasoning": "Emphasizes role of antioxidants, early nutrition, and trade-offs in antioxidant defense affecting aging."
+        },
+        {
+          "theory_id": "T017277",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes lipid peroxidation as oxidative damage marker modulated by caloric restriction affecting aging."
+        },
+        {
+          "theory_id": "T017170",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on free radical-induced lipid peroxidation damaging membranes and driving aging."
+        },
+        {
+          "theory_id": "T016541",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Links oxidative damage accumulation and antioxidant role in stationary-phase bacterial aging model."
+        },
+        {
+          "theory_id": "T016107",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on protein oxidation and species differences in oxidative damage correlating with lifespan."
+        },
+        {
+          "theory_id": "T016239",
+          "subcluster_name": "Antioxidant Defense and Repair Systems in Free Radical Theory",
+          "reasoning": "Describes oxidative damage accumulation to proteins and decline in antioxidant defenses with age."
+        },
+        {
+          "theory_id": "T014999",
+          "subcluster_name": "Hormesis and Redox Signaling Modulation of Free Radical Theory",
+          "reasoning": "Focuses on hormesis, vitagenes, and dietary antioxidants modulating oxidative stress and aging."
+        },
+        {
+          "theory_id": "T017232",
+          "subcluster_name": "Hormesis and Redox Signaling Modulation of Free Radical Theory",
+          "reasoning": "Revises free radical theory emphasizing redox signaling by controlled ROS rather than damage as aging cause."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:14:16"
+}

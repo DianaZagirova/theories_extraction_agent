@@ -1,0 +1,203 @@
+{
+  "cluster_name": "NAD+ Metabolism Decline Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "PARP1-SIRT1 Axis NAD+ Decline Theory",
+        "theory_ids": [
+          "T017682",
+          "T013877"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "NAD+ Consumption and Biosynthesis Imbalance Theory",
+        "theory_ids": [
+          "T017518",
+          "T018382",
+          "T018747",
+          "T017609",
+          "T018667"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Systemic NAD Biosynthesis and SIRT1 Regulatory Network Theory",
+        "theory_ids": [
+          "T019451",
+          "T018594",
+          "T013420"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "NAD+ Depletion and Sirtuin Activity Decline Theory",
+        "theory_ids": [
+          "T017454",
+          "T015041"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "NAD+ Availability and Methylglyoxal-Mediated Proteotoxicity Theory",
+        "theory_ids": [
+          "T015755",
+          "T015447",
+          "T015496"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Nicotinamide Riboside Salvage and Sir2 Activation Theory",
+        "theory_ids": [
+          "T015248",
+          "T014872",
+          "T015099"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "NAD+ Decline in Male Reproductive Aging Theory",
+        "theory_ids": [
+          "T018190",
+          "T012384"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T017682",
+          "subcluster_name": "PARP1-SIRT1 Axis NAD+ Decline Theory",
+          "reasoning": "Focuses on NAD+ decline affecting PARP1 and SIRT1 activities, DNA repair, and mitochondrial function, highlighting the NAD+/PARP1/SIRT1 axis as a key aging mechanism."
+        },
+        {
+          "theory_id": "T017518",
+          "subcluster_name": "NAD+ Consumption and Biosynthesis Imbalance Theory",
+          "reasoning": "Emphasizes deregulation of NAD+ metabolism in brain cells via imbalance of NAD+ consumption by enzymes (sirtuins, PARPs, CD38) and impaired biosynthesis, driving neurodegeneration and systemic aging."
+        },
+        {
+          "theory_id": "T019451",
+          "subcluster_name": "Systemic NAD Biosynthesis and SIRT1 Regulatory Network Theory",
+          "reasoning": "Describes a systemic regulatory network (NAD World) where NAMPT-mediated NAD biosynthesis and SIRT1 activity coordinate metabolism and aging across tissues."
+        },
+        {
+          "theory_id": "T017454",
+          "subcluster_name": "NAD+ Depletion and Sirtuin Activity Decline Theory",
+          "reasoning": "Focuses on age-related NAD+ decline reducing sirtuin activity due to competition with NAD+-consuming enzymes, linking NAD+ depletion directly to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T018897",
+          "subcluster_name": "NAD+ Consumption and Salvage Pathway Decline Theory",
+          "reasoning": "Highlights age-related NAD+ decline caused by increased consumption (PARP, CD38) and impaired salvage pathway enzymes (NAMPT), affecting longevity pathways."
+        },
+        {
+          "theory_id": "T015755",
+          "subcluster_name": "NAD+ Availability and Methylglyoxal-Mediated Proteotoxicity Theory",
+          "reasoning": "Links NAD+ availability to glycolytic intermediate metabolism, where NAD+ decline leads to methylglyoxal accumulation causing proteotoxicity and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T018382",
+          "subcluster_name": "NAD+ Consumption and Biosynthesis Imbalance Theory",
+          "reasoning": "Describes universal age-dependent NAD+ decline due to increased consumption and decreased biosynthesis, impairing mitochondrial and DNA repair functions."
+        },
+        {
+          "theory_id": "T018593",
+          "subcluster_name": "NAD+ Decline and SIRT1-Mediated Biphasic Mitochondrial Dysfunction Theory",
+          "reasoning": "Details how NAD+ decline reduces nuclear SIRT1 activity, disrupting nuclear-mitochondrial communication and causing biphasic mitochondrial dysfunction during aging."
+        },
+        {
+          "theory_id": "T015077",
+          "subcluster_name": "Nicotinamidase-Mediated Sir2 Activation and NAD+ Regulation Theory",
+          "reasoning": "Focuses on nicotinamidase regulation of NAD+ metabolism and Sir2 activation, linking oxidative stress response to lifespan extension and neuroprotection."
+        },
+        {
+          "theory_id": "T018594",
+          "subcluster_name": "Systemic NAD Biosynthesis and SIRT1 Regulatory Network Theory",
+          "reasoning": "Expands NAD World concept emphasizing NAMPT-controlled systemic NAD biosynthesis and SIRT1-mediated metabolic regulation with tissue frailty points."
+        },
+        {
+          "theory_id": "T013877",
+          "subcluster_name": "PARP1-SIRT1 Axis NAD+ Decline Theory",
+          "reasoning": "Describes NAD+ decline due to PARP activation consuming NAD+, reducing SIRT1 activity and impairing DNA repair and metabolism."
+        },
+        {
+          "theory_id": "T018747",
+          "subcluster_name": "NAD+ Consumption and Biosynthesis Imbalance Theory",
+          "reasoning": "Focuses on brain aging driven by NAD+ decline from increased PARP and CD38 activity, oxidative stress, and impaired NAD metabolism."
+        },
+        {
+          "theory_id": "T017609",
+          "subcluster_name": "NAD+ Consumption and Biosynthesis Imbalance Theory",
+          "reasoning": "Proposes NAD+ decline as a fundamental driver of aging and age-related diseases via impaired biosynthesis and increased consumption."
+        },
+        {
+          "theory_id": "T013420",
+          "subcluster_name": "Systemic NAD Biosynthesis and SIRT1 Regulatory Network Theory",
+          "reasoning": "NAD World 2.0 theory emphasizing inter-tissue communication via NAMPT/NAD+/SIRT1 axis regulating systemic aging and biological robustness."
+        },
+        {
+          "theory_id": "T015248",
+          "subcluster_name": "Nicotinamide Riboside Salvage and Sir2 Activation Theory",
+          "reasoning": "Focuses on NAD+ biosynthesis via nicotinamide riboside salvage pathways activating Sir2 to extend lifespan, linking NAD+ metabolism to aging."
+        },
+        {
+          "theory_id": "T014872",
+          "subcluster_name": "Nicotinamide Riboside Salvage and Sir2 Activation Theory",
+          "reasoning": "Describes NAD and Sir2p-mediated transcriptional regulation of longevity, with NAD salvage pathways controlling Sir2p activity and lifespan."
+        },
+        {
+          "theory_id": "T018190",
+          "subcluster_name": "NAD+ Decline in Male Reproductive Aging Theory",
+          "reasoning": "Details NAD+ decline causing male reproductive aging via impaired NAD-dependent enzymatic functions and hormonal axis disruption."
+        },
+        {
+          "theory_id": "T015099",
+          "subcluster_name": "Nicotinamide Riboside Salvage and Sir2 Activation Theory",
+          "reasoning": "Describes nicotinamide riboside salvage cycle essential for Sir2 activation and calorie restriction-mediated lifespan extension."
+        },
+        {
+          "theory_id": "T018667",
+          "subcluster_name": "NAD+ Consumption and Biosynthesis Imbalance Theory",
+          "reasoning": "Focuses on plasma NAD+ metabolome dysregulation with aging due to imbalance between NAD+ consumption and synthesis affecting mitochondrial and DNA repair functions."
+        },
+        {
+          "theory_id": "T015447",
+          "subcluster_name": "NAD+ Availability and Methylglyoxal-Mediated Proteotoxicity Theory",
+          "reasoning": "Links NAD+ availability to methylglyoxal-mediated protein glycation and mitochondrial dysfunction, emphasizing mitochondrial activity in NAD+ regeneration."
+        },
+        {
+          "theory_id": "T015041",
+          "subcluster_name": "NAD+ Depletion and Sirtuin Activity Decline Theory",
+          "reasoning": "Describes NAD+ production by CYB5R3 and NQO1 enzymes enhancing sirtuin activation, mimicking caloric restriction and promoting longevity."
+        },
+        {
+          "theory_id": "T012384",
+          "subcluster_name": "NAD+ Decline in Male Reproductive Aging Theory",
+          "reasoning": "Focuses on NAD+ decline causing spermatogenic failure and testicular aging, reversible by NAD+ restoration."
+        },
+        {
+          "theory_id": "T015496",
+          "subcluster_name": "NAD+ Availability and Methylglyoxal-Mediated Proteotoxicity Theory",
+          "reasoning": "Emphasizes NAD/NADH ratio regulating sirtuin activity and glycolytic intermediate metabolism, with methylglyoxal accumulation driving aging."
+        },
+        {
+          "theory_id": "T000056",
+          "subcluster_name": "Nicotinamide-NAD(P)(H) Redox and Methyl-Group Homeostasis Theory",
+          "reasoning": "Focuses on NAD(H) and nicotinamide redox homeostasis linked to methyl-group metabolism, energy production, and aging diseases, highlighting systemic metabolic-epigenetic tradeoffs."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:45:38"
+}

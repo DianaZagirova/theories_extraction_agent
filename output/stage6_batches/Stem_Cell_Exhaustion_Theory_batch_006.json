@@ -1,0 +1,201 @@
+{
+  "cluster_name": "Stem Cell Exhaustion Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "VSEL Epigenetic and Insulin/IGF Signaling Stem Cell Exhaustion Theory",
+        "theory_ids": [
+          "T001096",
+          "T006492",
+          "T017831",
+          "T005216",
+          "T023365",
+          "T001953"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Muscle Satellite Cell Depletion and Progenitor Senescence Stem Cell Exhaustion Theory",
+        "theory_ids": [
+          "T027447",
+          "T027563",
+          "T027249",
+          "T017997",
+          "T025464",
+          "T025163",
+          "T022808"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Telomerase Activity and Proliferation Potential Stem Cell Exhaustion Theory",
+        "theory_ids": [
+          "T026010",
+          "T003633",
+          "T013121",
+          "T002632"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Quiescent and Active Stem Cell Compartment Theory of Aging and Cancer Prevention",
+        "theory_ids": [
+          "T001831",
+          "T006922",
+          "T004107",
+          "T020082",
+          "T024664",
+          "T026952",
+          "T025309"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Stem Cell Exhaustion Theory",
+        "theory_ids": [
+          "T027063"
+        ],
+        "theory_count": 1,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "1 subclusters too small"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T001096",
+          "subcluster_name": "VSEL Epigenetic and Insulin/IGF Signaling Stem Cell Exhaustion Theory",
+          "reasoning": "Focuses on VSEL depletion driven by insulin/IGF signaling and epigenetic regulation of quiescence, linking metabolic signaling to stem cell exhaustion."
+        },
+        {
+          "theory_id": "T006492",
+          "subcluster_name": "VSEL Epigenetic and Insulin/IGF Signaling Stem Cell Exhaustion Theory",
+          "reasoning": "Describes VSEL dysfunction and depletion as a cause of aging, emphasizing epigenetic regulation and insulin/IGF signaling pathways."
+        },
+        {
+          "theory_id": "T017831",
+          "subcluster_name": "VSEL Epigenetic and Insulin/IGF Signaling Stem Cell Exhaustion Theory",
+          "reasoning": "Details VSEL quiescence controlled by epigenetic imprinting and insulin/IGF signaling, linking caloric intake and longevity to VSEL maintenance."
+        },
+        {
+          "theory_id": "T005216",
+          "subcluster_name": "VSEL Epigenetic and Insulin/IGF Signaling Stem Cell Exhaustion Theory",
+          "reasoning": "Focuses on developmental origin, age-dependent decline, and epigenetic imprinting of VSELs contributing to aging."
+        },
+        {
+          "theory_id": "T023365",
+          "subcluster_name": "VSEL Epigenetic and Insulin/IGF Signaling Stem Cell Exhaustion Theory",
+          "reasoning": "Emphasizes VSELs as pluripotent stem cell reservoirs with age-dependent decline affecting tissue regeneration and longevity."
+        },
+        {
+          "theory_id": "T001953",
+          "subcluster_name": "VSEL Epigenetic and Insulin/IGF Signaling Stem Cell Exhaustion Theory",
+          "reasoning": "Links insulin, IGF-1, and leptin signaling pathways to stem cell hyperproliferation and exhaustion, implicating intracellular signaling in stem cell aging."
+        },
+        {
+          "theory_id": "T027447",
+          "subcluster_name": "Muscle Satellite Cell Depletion and Progenitor Senescence Stem Cell Exhaustion Theory",
+          "reasoning": "Focuses on satellite cell depletion and progenitor cell senescence causing muscle aging and sarcopenia."
+        },
+        {
+          "theory_id": "T027563",
+          "subcluster_name": "Muscle Satellite Cell Depletion and Progenitor Senescence Stem Cell Exhaustion Theory",
+          "reasoning": "Describes satellite cell decline as a driver of muscle aging and impaired regeneration."
+        },
+        {
+          "theory_id": "T027249",
+          "subcluster_name": "Muscle Satellite Cell Depletion and Progenitor Senescence Stem Cell Exhaustion Theory",
+          "reasoning": "General stem cell functional decline including reduced self-renewal and differentiation, contributing to tissue aging and loss of regenerative capacity."
+        },
+        {
+          "theory_id": "T017997",
+          "subcluster_name": "Muscle Satellite Cell Depletion and Progenitor Senescence Stem Cell Exhaustion Theory",
+          "reasoning": "Focuses on stem cell dysfunction in muscle and systemic aging, highlighting loss of homeostasis and regenerative capacity."
+        },
+        {
+          "theory_id": "T025464",
+          "subcluster_name": "Muscle Satellite Cell Depletion and Progenitor Senescence Stem Cell Exhaustion Theory",
+          "reasoning": "Adult stem cell aging theory emphasizing decline in function and niche alterations leading to systemic aging."
+        },
+        {
+          "theory_id": "T025163",
+          "subcluster_name": "Muscle Satellite Cell Depletion and Progenitor Senescence Stem Cell Exhaustion Theory",
+          "reasoning": "Niche-induced dysregulation of stem cell quiescence causing functional decline and impaired tissue regeneration."
+        },
+        {
+          "theory_id": "T022808",
+          "subcluster_name": "Muscle Satellite Cell Depletion and Progenitor Senescence Stem Cell Exhaustion Theory",
+          "reasoning": "Environmental toxicants induce stem cell dysfunction and senescence, accelerating aging via impaired regenerative capacity."
+        },
+        {
+          "theory_id": "T027063",
+          "subcluster_name": "Somatic Mosaicism and Stem Cell Functional Decline Stem Cell Exhaustion Theory",
+          "reasoning": "Focuses on stem cell regenerative decline and accumulation of somatic mosaicism as a hallmark of aging."
+        },
+        {
+          "theory_id": "T026010",
+          "subcluster_name": "Telomerase Activity and Proliferation Potential Stem Cell Exhaustion Theory",
+          "reasoning": "Emphasizes telomerase activity and proliferation potential decline in stem cells as drivers of aging."
+        },
+        {
+          "theory_id": "T003633",
+          "subcluster_name": "Telomerase Activity and Proliferation Potential Stem Cell Exhaustion Theory",
+          "reasoning": "Minimization of replication-dependent mutation accumulation via controlled stem cell cycling speed, linked to proliferation potential."
+        },
+        {
+          "theory_id": "T013121",
+          "subcluster_name": "Telomerase Activity and Proliferation Potential Stem Cell Exhaustion Theory",
+          "reasoning": "Hierarchical stem cell division model limiting cell generations to reduce mutation accumulation and aging."
+        },
+        {
+          "theory_id": "T002632",
+          "subcluster_name": "Telomerase Activity and Proliferation Potential Stem Cell Exhaustion Theory",
+          "reasoning": "Optimal stem cell number theory balancing mutation accumulation and cancer risk, related to stem cell proliferation dynamics."
+        },
+        {
+          "theory_id": "T001831",
+          "subcluster_name": "Quiescent and Active Stem Cell Compartment Theory of Aging and Cancer Prevention",
+          "reasoning": "Describes dual stem cell compartments with quiescence protecting against mutations and cancer, supporting longevity."
+        },
+        {
+          "theory_id": "T006922",
+          "subcluster_name": "Quiescent and Active Stem Cell Compartment Theory of Aging and Cancer Prevention",
+          "reasoning": "Populational asymmetry hypothesis with quiescent stem cells preserving genetic heterogeneity and preventing lineage loss."
+        },
+        {
+          "theory_id": "T004107",
+          "subcluster_name": "Quiescent and Active Stem Cell Compartment Theory of Aging and Cancer Prevention",
+          "reasoning": "Hydra non-senescence via continuous stem cell proliferation and damage-dependent selective cell death preventing mutation accumulation."
+        },
+        {
+          "theory_id": "T020082",
+          "subcluster_name": "Quiescent and Active Stem Cell Compartment Theory of Aging and Cancer Prevention",
+          "reasoning": "Hydra continuous stem cell proliferation and regenerative capacity theory explaining nonaging via sustained renewal."
+        },
+        {
+          "theory_id": "T024664",
+          "subcluster_name": "Quiescent and Active Stem Cell Compartment Theory of Aging and Cancer Prevention",
+          "reasoning": "External source maintenance theory proposing replenishment of organ-specific stem cells from primitive circulating stem cells."
+        },
+        {
+          "theory_id": "T026952",
+          "subcluster_name": "Quiescent and Active Stem Cell Compartment Theory of Aging and Cancer Prevention",
+          "reasoning": "Intestinal stem cell and microbiota homeostasis theory linking stem cell proliferation control to aging and tissue health."
+        },
+        {
+          "theory_id": "T025309",
+          "subcluster_name": "Quiescent and Active Stem Cell Compartment Theory of Aging and Cancer Prevention",
+          "reasoning": "Stem cell dysfunction in laminopathies and progeria caused by disrupted Notch/Wnt signaling affecting stem cell maintenance."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:33:22"
+}

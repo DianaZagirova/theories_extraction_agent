@@ -1,0 +1,228 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 11,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+        "theory_ids": [
+          "T013885",
+          "T013646",
+          "T013660",
+          "T013270",
+          "T013357",
+          "T013634",
+          "T014008",
+          "T013693",
+          "T013889",
+          "T013890",
+          "T013917",
+          "T013358"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Inflammation-Linked Oxidative Stress Theory",
+        "theory_ids": [
+          "T013438",
+          "T013583"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "ROS-Mediated Gene Regulation and Signaling Theory",
+        "theory_ids": [
+          "T013592",
+          "T013932",
+          "T013616",
+          "T013119",
+          "T012053"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitohormesis and Adaptive ROS Signaling Theory",
+        "theory_ids": [
+          "T013801",
+          "T013827",
+          "T013334",
+          "T013987"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Peroxisomal ROS Homeostasis and Dysfunction Theory",
+        "theory_ids": [
+          "T013286",
+          "T013353",
+          "T012623",
+          "T012434",
+          "T012548",
+          "T013049"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T013885",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, oxidative damage to biomolecules, and mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T013646",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Emphasizes mitochondrial ROS and oxidative damage affecting skeletal muscle aging and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T013660",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Highlights mitochondria as major ROS source and oxidative damage accumulation correlating with aging."
+        },
+        {
+          "theory_id": "T013270",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes mitochondrial free radical production, oxidative damage, and mitochondrial dysfunction as aging drivers."
+        },
+        {
+          "theory_id": "T013357",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on oxidative damage to mitochondrial DNA and resulting mitochondrial dysfunction causing aging phenotypes."
+        },
+        {
+          "theory_id": "T013634",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Posits ROS damage accumulation from metabolism and imperfect repair as determinants of aging rate."
+        },
+        {
+          "theory_id": "T014008",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links oxidative damage from mitochondrial ROS and antioxidant defenses to longevity and metabolic trade-offs."
+        },
+        {
+          "theory_id": "T013693",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes ROS generation from metabolism and antioxidant enzyme roles in modulating aging and lifespan."
+        },
+        {
+          "theory_id": "T013889",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on oxygen toxicity from mitochondrial ROS causing oxidative damage and aging in yeast."
+        },
+        {
+          "theory_id": "T013890",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes ROS accumulation and antioxidant defense imbalance causing oxidative damage and aging phenotypes."
+        },
+        {
+          "theory_id": "T013917",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links ROS-caused oxidative damage accumulation to aging and longevity in C. elegans."
+        },
+        {
+          "theory_id": "T013358",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Proposes oxidative damage from ROS as cause of aging with species-specific antioxidant defense effects."
+        },
+        {
+          "theory_id": "T013438",
+          "subcluster_name": "Inflammation-Linked Oxidative Stress Theory",
+          "reasoning": "Focuses on chronic oxidative stress intertwined with immune dysfunction and inflammation driving aging."
+        },
+        {
+          "theory_id": "T013583",
+          "subcluster_name": "Inflammation-Linked Oxidative Stress Theory",
+          "reasoning": "Describes oxidative stress as dual agent causing beneficial stress responses early and chronic inflammation later."
+        },
+        {
+          "theory_id": "T013592",
+          "subcluster_name": "ROS-Mediated Gene Regulation and Signaling Theory",
+          "reasoning": "Emphasizes ROS as signaling molecules modulating aging-related genes and kinase pathways."
+        },
+        {
+          "theory_id": "T013932",
+          "subcluster_name": "ROS-Mediated Gene Regulation and Signaling Theory",
+          "reasoning": "Focuses on Keap1/Nrf2 pathway regulating antioxidant gene expression and oxidative stress tolerance."
+        },
+        {
+          "theory_id": "T013616",
+          "subcluster_name": "ROS-Mediated Gene Regulation and Signaling Theory",
+          "reasoning": "Describes nutrient-dependent modulation of ROS effects and antioxidant enzyme SOD1 in lifespan regulation."
+        },
+        {
+          "theory_id": "T013119",
+          "subcluster_name": "ROS-Mediated Gene Regulation and Signaling Theory",
+          "reasoning": "Links oxidative stress with metal dyshomeostasis and mitochondrial dysfunction affecting aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T012053",
+          "subcluster_name": "ROS-Mediated Gene Regulation and Signaling Theory",
+          "reasoning": "Describes oxidative stress causing DNA damage and telomere shortening contributing to aging and laminopathies."
+        },
+        {
+          "theory_id": "T013801",
+          "subcluster_name": "Mitohormesis and Adaptive ROS Signaling Theory",
+          "reasoning": "Proposes mild mitochondrial stress-induced ROS act as signals activating protective pathways and longevity."
+        },
+        {
+          "theory_id": "T013827",
+          "subcluster_name": "Mitohormesis and Adaptive ROS Signaling Theory",
+          "reasoning": "Describes sublethal mitochondrial ROS triggering hormetic responses improving stress resistance and lifespan."
+        },
+        {
+          "theory_id": "T013334",
+          "subcluster_name": "Mitohormesis and Adaptive ROS Signaling Theory",
+          "reasoning": "Focuses on mild mitochondrial dysfunction and ROS signaling inducing cytoprotective adaptations and lifespan extension."
+        },
+        {
+          "theory_id": "T013987",
+          "subcluster_name": "Mitohormesis and Adaptive ROS Signaling Theory",
+          "reasoning": "Highlights hormetic ROS signaling activating stress responses and metabolic pathways promoting health and longevity."
+        },
+        {
+          "theory_id": "T013286",
+          "subcluster_name": "Peroxisomal ROS Homeostasis and Dysfunction Theory",
+          "reasoning": "Focuses on age-related catalase mislocalization in peroxisomes causing ROS imbalance and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T013353",
+          "subcluster_name": "Peroxisomal ROS Homeostasis and Dysfunction Theory",
+          "reasoning": "Describes peroxisomal ROS dual role in signaling and damage, peroxisome quality control, and aging."
+        },
+        {
+          "theory_id": "T012623",
+          "subcluster_name": "Peroxisomal ROS Homeostasis and Dysfunction Theory",
+          "reasoning": "Links xanthine oxidase activation and oxidative stress to vascular aging, involving ROS and antioxidant interventions."
+        },
+        {
+          "theory_id": "T012434",
+          "subcluster_name": "Peroxisomal ROS Homeostasis and Dysfunction Theory",
+          "reasoning": "Describes oxidative stress and antioxidant decline in ovarian follicles contributing to follicle aging."
+        },
+        {
+          "theory_id": "T012548",
+          "subcluster_name": "Peroxisomal ROS Homeostasis and Dysfunction Theory",
+          "reasoning": "Proposes oxidative stress-induced transgenerational aging effects via germline DNA damage."
+        },
+        {
+          "theory_id": "T013049",
+          "subcluster_name": "Peroxisomal ROS Homeostasis and Dysfunction Theory",
+          "reasoning": "Links oxidative stress from PTSD-related chronic stress to accelerated aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T013603",
+          "subcluster_name": "Neurodegeneration-Specific Oxidative Stress Theory",
+          "reasoning": "Focuses on ROS production in neural cells, MAO-B activity, dopamine metabolism, and oxidative damage causing neurodegeneration."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:29:22"
+}

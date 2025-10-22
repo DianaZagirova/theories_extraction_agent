@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 39,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+        "theory_ids": [
+          "T025051",
+          "T024884",
+          "T025016",
+          "T024952",
+          "T025087",
+          "T024994",
+          "T025061",
+          "T024930"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T024926",
+          "T025084",
+          "T025078",
+          "T024981",
+          "T025028",
+          "T024968",
+          "T025062",
+          "T024971",
+          "T025057",
+          "T024817"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Autophagy and Immune Senescence Theory",
+        "theory_ids": [
+          "T025115",
+          "T025091",
+          "T024901",
+          "T024706"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Extracellular Matrix-Mediated Senescence Theory",
+        "theory_ids": [
+          "T024963",
+          "T025019",
+          "T024970",
+          "T025026"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025051",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere shortening triggering DNA damage response and p53-p21 pathway leading to replicative senescence."
+        },
+        {
+          "theory_id": "T024884",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening and DNA damage response as primary triggers of senescence and SASP."
+        },
+        {
+          "theory_id": "T025016",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Describes replicative senescence triggered by telomere shortening and stress-induced senescence with SASP involvement."
+        },
+        {
+          "theory_id": "T024952",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Links replicative senescence via telomere shortening to aging and Alzheimer's disease with SASP and DNA damage response."
+        },
+        {
+          "theory_id": "T025087",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Highlights irreversible growth arrest from telomere shortening and DNA damage, SASP secretion, and aging/disease causality."
+        },
+        {
+          "theory_id": "T024994",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative senescence, telomere uncapping, DNA damage response, and SASP driving aging phenotypes."
+        },
+        {
+          "theory_id": "T025061",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Describes senescence triggered by telomere shortening and stressors, with SASP promoting tissue inflammation and aging."
+        },
+        {
+          "theory_id": "T024930",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "IGFBP-5 induces senescence via p53 activation linked to DNA damage signaling, fitting telomere/DNA damage-driven senescence."
+        },
+        {
+          "theory_id": "T024926",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on DNA damage from ionizing radiation triggering DDR, p53-p21 and p16-Rb pathways, and SASP leading to senescence."
+        },
+        {
+          "theory_id": "T025084",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescence induced by DNA damage, telomere dysfunction, oxidative stress, with DDR and metabolic reprogramming."
+        },
+        {
+          "theory_id": "T025078",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Highlights senescence driven by stress/damage, SASP secretion, and p16INK4a as biomarker of biological aging."
+        },
+        {
+          "theory_id": "T024981",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on senescence as tumor suppression via heterochromatin formation triggered by DNA damage and stress."
+        },
+        {
+          "theory_id": "T025028",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes epigenetic regulation of senescence induced by DNA damage, telomere shortening, and oncogene activation."
+        },
+        {
+          "theory_id": "T024968",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Describes replicative senescence and tumor suppression via p53 and pRb pathways activated by DNA damage and stress."
+        },
+        {
+          "theory_id": "T025062",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on epigenetic regulation of INK4-ARF locus controlling p16INK4a and p15INK4b expression during senescence."
+        },
+        {
+          "theory_id": "T024971",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Describes DBC1 regulation of senescence onset via HDAC3 inhibition affecting DNA damage response and p16Ink4a expression."
+        },
+        {
+          "theory_id": "T025057",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Senescence induced by DNA damage, telomere shortening, mitochondrial dysfunction with SASP driving inflammation and disease."
+        },
+        {
+          "theory_id": "T024817",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Senescence as tumor suppressor response to DNA damage, telomere erosion, oncogene activation, mediated by p53 and pRb."
+        },
+        {
+          "theory_id": "T025115",
+          "subcluster_name": "Autophagy and Immune Senescence Theory",
+          "reasoning": "Focuses on autophagy decline impairing immune cell function and promoting immunosenescence, with spermidine and TFEB roles."
+        },
+        {
+          "theory_id": "T025091",
+          "subcluster_name": "Autophagy and Immune Senescence Theory",
+          "reasoning": "Describes T cell replicative exhaustion, thymic involution, and accumulation of senescent CD28-negative T cells in aging immunity."
+        },
+        {
+          "theory_id": "T024901",
+          "subcluster_name": "Autophagy and Immune Senescence Theory",
+          "reasoning": "Senescence induced by multiple stressors including mitochondrial dysfunction and oxidative stress, contributing to cardiovascular aging."
+        },
+        {
+          "theory_id": "T024706",
+          "subcluster_name": "Autophagy and Immune Senescence Theory",
+          "reasoning": "Senescence in skin linked to mTORC1 and lysosomal function, highlighting autophagy-related pathways in aging and inflammageing."
+        },
+        {
+          "theory_id": "T024963",
+          "subcluster_name": "Extracellular Matrix-Mediated Senescence Theory",
+          "reasoning": "Focuses on tropoelastin and ECM regulation delaying replicative senescence and modulating SASP in mesenchymal stromal cells."
+        },
+        {
+          "theory_id": "T025019",
+          "subcluster_name": "Extracellular Matrix-Mediated Senescence Theory",
+          "reasoning": "Describes extracellular vesicles released by senescent cells propagating senescence signals and SASP, affecting tissue microenvironment."
+        },
+        {
+          "theory_id": "T024970",
+          "subcluster_name": "Extracellular Matrix-Mediated Senescence Theory",
+          "reasoning": "p53-mediated mitophagy in aged adipocytes affects mitochondrial content and adipocyte function, linking metabolism and senescence."
+        },
+        {
+          "theory_id": "T025026",
+          "subcluster_name": "Extracellular Matrix-Mediated Senescence Theory",
+          "reasoning": "Senolytic interventions targeting senescent cells in neurodegeneration, emphasizing SASP and systemic effects of senescence."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:28:48"
+}

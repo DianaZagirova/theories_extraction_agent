@@ -1,0 +1,212 @@
+{
+  "cluster_name": "Hyperfunction Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+        "theory_ids": [
+          "T016863",
+          "T018274",
+          "T018828",
+          "T017788",
+          "T018465",
+          "T018341",
+          "T018127",
+          "T016816",
+          "T018603",
+          "T018405",
+          "T017370",
+          "T018353",
+          "T018441",
+          "T017554",
+          "T018155",
+          "T018430",
+          "T017770",
+          "T017086",
+          "T016851",
+          "T016964",
+          "T016954",
+          "T017475",
+          "T017503",
+          "T018532",
+          "T016076",
+          "T016711",
+          "T003227"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 27
+      },
+      {
+        "subcluster_name": "Growth Signaling-Induced DNA Replication Stress Theory",
+        "theory_ids": [
+          "T016390",
+          "T013407"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016863",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Focuses on TORC1 hyperactivation driving aging via anabolic growth and protein synthesis, with lifespan extension by TORC1 inhibition."
+        },
+        {
+          "theory_id": "T018274",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Describes early-life transient mTOR inhibition affecting lifespan via mTORC1 modulation and metabolic remodeling."
+        },
+        {
+          "theory_id": "T018828",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Covers TOR signaling regulating metabolism, protein synthesis, and autophagy, with TORC1 inhibition extending lifespan."
+        },
+        {
+          "theory_id": "T017788",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Details mTOR kinase complexes (mTORC1/2) roles in aging, emphasizing mTORC1 inhibition extending lifespan."
+        },
+        {
+          "theory_id": "T018465",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Focuses on mTORC1 and mTORC2 roles in aging and longevity, with gene expression changes linked to human longevity."
+        },
+        {
+          "theory_id": "T018341",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Integrates insulin/IGF-1 and TOR signaling pathways, highlighting TOR as nutrient sensor and growth regulator affecting aging."
+        },
+        {
+          "theory_id": "T018127",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Describes mTORC1 deregulation via amino acid sensing and GATOR1 complex, linking mTORC1 activation to aging and tumorigenesis."
+        },
+        {
+          "theory_id": "T016816",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Explains TORC1 nutrient sensing and dietary amino acid modulation affecting lifespan through TORC1 activity changes."
+        },
+        {
+          "theory_id": "T018603",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Summarizes TOR pathway nutrient sensing, TORC1/2 roles, and downstream effectors influencing aging and lifespan."
+        },
+        {
+          "theory_id": "T018405",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Focuses on mTORC1 in cardiac aging, linking protein synthesis and autophagy inhibition by mTORC1 to aging phenotypes."
+        },
+        {
+          "theory_id": "T017370",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Describes TOR pathway nutrient sensing in yeast, with reduced TOR signaling promoting stress resistance and lifespan extension."
+        },
+        {
+          "theory_id": "T018353",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Details hyperactive mTORC1/4EBP1 axis causing proteostasis dysregulation and accelerating cardiac aging."
+        },
+        {
+          "theory_id": "T018441",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Links chronic mTORC1 activity to aging and cancer, with mTORC1 inhibition extending lifespan and reducing cancer incidence."
+        },
+        {
+          "theory_id": "T017554",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Describes IIS and TOR pathway interaction in nutrient sensing and aging regulation, with downregulation extending lifespan."
+        },
+        {
+          "theory_id": "T018155",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Focuses on TORC1 regulation of translation and autophagy, with TORC1 inhibition promoting longevity across species."
+        },
+        {
+          "theory_id": "T018430",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Highlights S6K1 downstream of mTOR regulating aging and hematopoietic stem cell preservation upon mTOR inhibition."
+        },
+        {
+          "theory_id": "T017770",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Describes mTOR driving aging and neurodegeneration, with rapamycin suppressing brain aging via mTOR inhibition."
+        },
+        {
+          "theory_id": "T017086",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Shows mTOR inhibition improves immune function and counters immunosenescence in elderly, linking mTOR to aging immunity."
+        },
+        {
+          "theory_id": "T016851",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Details TORC1 inhibition by rapamycin and caffeine extending lifespan in yeast by reducing growth and translation."
+        },
+        {
+          "theory_id": "T016964",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Reviews TOR complexes, downstream effectors, and crosstalk with other longevity pathways regulating aging."
+        },
+        {
+          "theory_id": "T016954",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Explains mTOR activation's antagonistic pleiotropy: early-life benefits but late-life aging acceleration."
+        },
+        {
+          "theory_id": "T017475",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Focuses on PI3K/Akt/mTOR pathway dysregulation in aging and Alzheimer's disease, linking pathway balance to pathology."
+        },
+        {
+          "theory_id": "T017503",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Discusses mTOR regulation of protein synthesis and autophagy, with inhibition promoting longevity and linking to dietary restriction."
+        },
+        {
+          "theory_id": "T018532",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Summarizes mTOR as master regulator of metabolism and aging, with mTORC1 hyperactivity linked to age-related diseases."
+        },
+        {
+          "theory_id": "T016076",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Geroconversion driven by mTOR hyperfunction converts cell cycle arrest to senescence, linking cellular senescence to aging."
+        },
+        {
+          "theory_id": "T016711",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Describes milk-derived activation of mTORC1 promoting aging and mortality via nutrient and microRNA-mediated mTORC1 hyperactivation."
+        },
+        {
+          "theory_id": "T003227",
+          "subcluster_name": "mTORC1 Signaling Hyperfunction Theory of Aging",
+          "reasoning": "Focuses on balance of mTORC1 and mTORC2 in Sertoli cells regulating sperm epigenetic aging via BTB permeability."
+        },
+        {
+          "theory_id": "T016390",
+          "subcluster_name": "Growth Signaling-Induced DNA Replication Stress Theory",
+          "reasoning": "Growth signaling induces inappropriate S phase entry causing replication stress and aging; caloric restriction inhibits this."
+        },
+        {
+          "theory_id": "T015441",
+          "subcluster_name": "Quasi-Programmed Hyperfunction Theory of Aging",
+          "reasoning": "Aging caused by run-on of developmental/reproductive programs (quasi-program) driven by antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T013407",
+          "subcluster_name": "Growth Signaling-Induced DNA Replication Stress Theory",
+          "reasoning": "Growth accelerates aging via ROS generation and growth hormone axis, linking growth signaling to aging and immune activation."
+        },
+        {
+          "theory_id": "T019007",
+          "subcluster_name": "Signal Transduction Deficiency Theory of Neuronal Aging",
+          "reasoning": "Aging-related decline in neuronal signal transduction due to receptor desensitization and membrane changes impairing neuronal function."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:10:45"
+}

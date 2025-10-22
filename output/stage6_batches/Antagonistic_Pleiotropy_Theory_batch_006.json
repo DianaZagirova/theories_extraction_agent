@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Extrinsic Mortality-Driven Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T003677",
+          "T004093",
+          "T003986",
+          "T004242",
+          "T003814"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Gene-Regulatory Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T003689",
+          "T003749",
+          "T003755",
+          "T003809",
+          "T003892",
+          "T003958",
+          "T004096",
+          "T004121",
+          "T004148"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Reproductive Investment Trade-Off Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T003721",
+          "T003734",
+          "T003909",
+          "T004071",
+          "T004157",
+          "T004189",
+          "T004212"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Somatic Maintenance Limitation Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T003748",
+          "T004236",
+          "T003948"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T003677",
+          "subcluster_name": "Extrinsic Mortality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on how extrinsic mortality shapes senescence evolution via trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T004093",
+          "subcluster_name": "Extrinsic Mortality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes extrinsic mortality's role in lifespan evolution and senescence patterns in rodents."
+        },
+        {
+          "theory_id": "T003986",
+          "subcluster_name": "Extrinsic Mortality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes senescence evolution shaped by declining selection force and extrinsic mortality effects on life-history trade-offs."
+        },
+        {
+          "theory_id": "T004242",
+          "subcluster_name": "Extrinsic Mortality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Links extrinsic mortality and life-history traits to aging rates and senescence evolution in vertebrates."
+        },
+        {
+          "theory_id": "T003814",
+          "subcluster_name": "Extrinsic Mortality-Driven Antagonistic Pleiotropy Theory",
+          "reasoning": "Integrates mutation accumulation and antagonistic pleiotropy with extrinsic hazard shaping aging evolution."
+        },
+        {
+          "theory_id": "T003689",
+          "subcluster_name": "Gene-Regulatory Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on gene variants with early benefits and late costs mediated by specific molecular regulators like KGB-1 and miR-71."
+        },
+        {
+          "theory_id": "T003749",
+          "subcluster_name": "Gene-Regulatory Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes APOE \u03b54 allele with early cognitive benefits but late-life detrimental effects, illustrating gene-level pleiotropy."
+        },
+        {
+          "theory_id": "T003755",
+          "subcluster_name": "Gene-Regulatory Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses molecular pathways and gene-level trade-offs underlying antagonistic pleiotropy effects on aging."
+        },
+        {
+          "theory_id": "T003809",
+          "subcluster_name": "Gene-Regulatory Antagonistic Pleiotropy Theory",
+          "reasoning": "Highlights protein network connectivity as a molecular mechanism for pleiotropic genes influencing aging."
+        },
+        {
+          "theory_id": "T003892",
+          "subcluster_name": "Gene-Regulatory Antagonistic Pleiotropy Theory",
+          "reasoning": "Analyzes mutations with sex-specific pleiotropic effects on lifespan and fitness, emphasizing genetic networks."
+        },
+        {
+          "theory_id": "T003958",
+          "subcluster_name": "Gene-Regulatory Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on genetic variants with age-dependent trade-offs affecting longevity shaped by population history."
+        },
+        {
+          "theory_id": "T004096",
+          "subcluster_name": "Gene-Regulatory Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes pleiotropic gene effects with early-life benefits and late-life costs influencing aging and disease."
+        },
+        {
+          "theory_id": "T004121",
+          "subcluster_name": "Gene-Regulatory Antagonistic Pleiotropy Theory",
+          "reasoning": "Centers on declining natural selection with age affecting gene variants causing late-life deleterious effects."
+        },
+        {
+          "theory_id": "T004148",
+          "subcluster_name": "Gene-Regulatory Antagonistic Pleiotropy Theory",
+          "reasoning": "Examines SPATA31 gene copy number variation with early-life fitness benefits but late-life senescence costs."
+        },
+        {
+          "theory_id": "T003939",
+          "subcluster_name": "ROS-Mediated Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on Nox enzyme-generated ROS as beneficial early but damaging later, causing chronic disease and aging."
+        },
+        {
+          "theory_id": "T003721",
+          "subcluster_name": "Reproductive Investment Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes costs of sperm competition and reproductive trait investment accelerating aging via resource trade-offs."
+        },
+        {
+          "theory_id": "T003734",
+          "subcluster_name": "Reproductive Investment Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on reproduction-longevity trade-offs mediated by germline influence on somatic maintenance and sex differences."
+        },
+        {
+          "theory_id": "T003909",
+          "subcluster_name": "Reproductive Investment Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Explains early-late life reproduction trade-offs causing somatic maintenance decline and accelerated aging."
+        },
+        {
+          "theory_id": "T004071",
+          "subcluster_name": "Reproductive Investment Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses reproduction-longevity trade-offs modulated by environmental cues and population dynamics."
+        },
+        {
+          "theory_id": "T004157",
+          "subcluster_name": "Reproductive Investment Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Highlights sexual selection intensifying antagonistic pleiotropy via oncogenes with early reproductive benefits and late costs."
+        },
+        {
+          "theory_id": "T004189",
+          "subcluster_name": "Reproductive Investment Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes testosterone decline as adaptive resource reallocation trade-off between reproduction and maintenance with aging."
+        },
+        {
+          "theory_id": "T004212",
+          "subcluster_name": "Reproductive Investment Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on male reproductive senescence driven by androgen exposure trade-offs affecting late-life disease risk."
+        },
+        {
+          "theory_id": "T003748",
+          "subcluster_name": "Somatic Maintenance Limitation Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes evolved finite somatic lifespan due to trade-offs favoring reproduction over indefinite maintenance of post-mitotic cells."
+        },
+        {
+          "theory_id": "T004236",
+          "subcluster_name": "Somatic Maintenance Limitation Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes tumor suppressor-induced cellular senescence as a trade-off preventing cancer early but promoting aging later."
+        },
+        {
+          "theory_id": "T003948",
+          "subcluster_name": "Somatic Maintenance Limitation Antagonistic Pleiotropy Theory",
+          "reasoning": "Explains persistence of inherited cancer mutations due to natural defenses concealing fitness costs, linking cancer and aging trade-offs."
+        },
+        {
+          "theory_id": "T003848",
+          "subcluster_name": "Growth-Longevity Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on bacterial growth rate versus longevity trade-offs mediated by ribosome-binding antibiotics affecting ROS and metabolism."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 03:44:51"
+}

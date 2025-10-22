@@ -1,0 +1,197 @@
+{
+  "cluster_name": "Accumulated Damage Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+        "theory_ids": [
+          "T024265",
+          "T023120",
+          "T023958",
+          "T024459",
+          "T025350",
+          "T025406",
+          "T024563",
+          "T024980",
+          "T025436",
+          "T023142",
+          "T024032"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Proteostasis and Protein Oxidation Accumulated Damage Theory",
+        "theory_ids": [
+          "T024951",
+          "T024936",
+          "T025072",
+          "T025384",
+          "T026136",
+          "T023372",
+          "T025640"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Nuclear DNA Damage and Telomere-Associated Accumulated Damage Theory",
+        "theory_ids": [
+          "T024200",
+          "T024916",
+          "T025201",
+          "T024911",
+          "T025794",
+          "T023405",
+          "T025370",
+          "T024967",
+          "T019366"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024265",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Focuses on oxidative stress, mitochondrial dysfunction, ROS accumulation, and their role in cardiac aging and senescence."
+        },
+        {
+          "theory_id": "T023120",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction, oxidative damage, and impaired protein homeostasis in brain aging."
+        },
+        {
+          "theory_id": "T023958",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Highlights mitochondrial electron transport chain decline and oxidative stress response alteration as aging drivers."
+        },
+        {
+          "theory_id": "T024459",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Describes oxidative damage, mitochondrial dysfunction, altered proteostasis, and cellular senescence in aging."
+        },
+        {
+          "theory_id": "T025350",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Focuses on ROS-caused intracellular damage and antioxidant defense mechanisms influencing lifespan."
+        },
+        {
+          "theory_id": "T025406",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Centers on ROS accumulation, antioxidant defenses, and interventions targeting oxidative damage."
+        },
+        {
+          "theory_id": "T024563",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Focuses on ROS accumulation, oxidative damage as aging driver, and antioxidant defense mechanisms."
+        },
+        {
+          "theory_id": "T024980",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Describes oxidative damage accumulation in flight muscles driven by metabolic activity and ROS."
+        },
+        {
+          "theory_id": "T025436",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Details oxidative stress, mitochondrial dysfunction, and advanced glycation end products in brain aging."
+        },
+        {
+          "theory_id": "T023142",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Focuses on ROS damage, mitochondrial dysfunction, and proteostasis loss as aging mechanisms."
+        },
+        {
+          "theory_id": "T024032",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Emphasizes ROS-driven protein oxidation, proteostasis mechanisms, and oxidative damage repair."
+        },
+        {
+          "theory_id": "T024951",
+          "subcluster_name": "Proteostasis and Protein Oxidation Accumulated Damage Theory",
+          "reasoning": "Focuses on oxidative protein damage, impaired proteolytic systems, protein aggregation, and lipofuscin accumulation."
+        },
+        {
+          "theory_id": "T024936",
+          "subcluster_name": "Proteostasis and Protein Oxidation Accumulated Damage Theory",
+          "reasoning": "Describes proteasome dysfunction, free radical-induced protein damage, and protein aggregation in aging."
+        },
+        {
+          "theory_id": "T025072",
+          "subcluster_name": "Proteostasis and Protein Oxidation Accumulated Damage Theory",
+          "reasoning": "SENS approach targeting seven categories of damage including protein crosslinks and mitochondrial mutations."
+        },
+        {
+          "theory_id": "T025384",
+          "subcluster_name": "Proteostasis and Protein Oxidation Accumulated Damage Theory",
+          "reasoning": "Highlights stochastic molecular damage accumulation, loss of homeostasis, and damage reduction promoting longevity."
+        },
+        {
+          "theory_id": "T026136",
+          "subcluster_name": "Proteostasis and Protein Oxidation Accumulated Damage Theory",
+          "reasoning": "Focuses on macromolecular damage, proteostatic impairments, and metabolic dysfunction in aging."
+        },
+        {
+          "theory_id": "T023372",
+          "subcluster_name": "Proteostasis and Protein Oxidation Accumulated Damage Theory",
+          "reasoning": "Emphasizes accumulation of cellular damage, impaired damage control systems, and neuroinflammation in brain aging."
+        },
+        {
+          "theory_id": "T025640",
+          "subcluster_name": "Proteostasis and Protein Oxidation Accumulated Damage Theory",
+          "reasoning": "Describes interconnected cellular mechanisms including proteostasis loss, mitochondrial dysfunction, and senescence driving aging."
+        },
+        {
+          "theory_id": "T024200",
+          "subcluster_name": "Nuclear DNA Damage and Telomere-Associated Accumulated Damage Theory",
+          "reasoning": "Focuses on DNA damage, repair deficiency, telomere shortening, and replicative senescence linking aging and cancer."
+        },
+        {
+          "theory_id": "T024916",
+          "subcluster_name": "Nuclear DNA Damage and Telomere-Associated Accumulated Damage Theory",
+          "reasoning": "Highlights stochastic damage accumulation, somatic mutation accumulation, telomere attrition, and hallmark aging processes."
+        },
+        {
+          "theory_id": "T025201",
+          "subcluster_name": "Nuclear DNA Damage and Telomere-Associated Accumulated Damage Theory",
+          "reasoning": "Links cellular damage accumulation, genome maintenance, and tumor suppressor pathways to aging and cancer resistance."
+        },
+        {
+          "theory_id": "T024911",
+          "subcluster_name": "Nuclear DNA Damage and Telomere-Associated Accumulated Damage Theory",
+          "reasoning": "Connects tissue damage accumulation, stem cell dysfunction, and longevity genes to aging and cancer risk."
+        },
+        {
+          "theory_id": "T025794",
+          "subcluster_name": "Nuclear DNA Damage and Telomere-Associated Accumulated Damage Theory",
+          "reasoning": "General damage accumulation model focusing on damage vs mortality rate dynamics, applicable to DNA and cellular damage."
+        },
+        {
+          "theory_id": "T023405",
+          "subcluster_name": "Nuclear DNA Damage and Telomere-Associated Accumulated Damage Theory",
+          "reasoning": "Describes accumulation of unrepaired somatic damage including oxidative stress and telomere shortening affecting aging."
+        },
+        {
+          "theory_id": "T025370",
+          "subcluster_name": "Nuclear DNA Damage and Telomere-Associated Accumulated Damage Theory",
+          "reasoning": "Focuses on metabolic damage accumulation, senescent processes, and vascular aging as drivers of mortality."
+        },
+        {
+          "theory_id": "T024967",
+          "subcluster_name": "Nuclear DNA Damage and Telomere-Associated Accumulated Damage Theory",
+          "reasoning": "Emphasizes molecular damage accumulation, aging plasticity, and diet's role in modulating damage and aging."
+        },
+        {
+          "theory_id": "T019366",
+          "subcluster_name": "Nuclear DNA Damage and Telomere-Associated Accumulated Damage Theory",
+          "reasoning": "Focuses on conserved hallmarks of aging including DNA damage, senescence, and nutrient-sensing pathways modulating aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:36:05"
+}

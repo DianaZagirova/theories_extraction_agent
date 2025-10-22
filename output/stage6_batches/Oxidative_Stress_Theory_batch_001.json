@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+        "theory_ids": [
+          "T001213",
+          "T001704",
+          "T000797",
+          "T001769",
+          "T001523",
+          "T001113",
+          "T000117",
+          "T000413"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Antioxidant Adaptation and Metabolic Rate Theory",
+        "theory_ids": [
+          "T000342",
+          "T001158",
+          "T000102",
+          "T000645",
+          "T000679",
+          "T001311",
+          "T001762"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "ROS Control Network and Redox Regulation Theory",
+        "theory_ids": [
+          "T000064",
+          "T001495",
+          "T001086",
+          "T000213",
+          "T001645",
+          "T001011",
+          "T000919"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Inflammation Interaction Theory",
+        "theory_ids": [
+          "T001034",
+          "T001456",
+          "T000443",
+          "T000146"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T001213",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on ROS generated during mitochondrial metabolism causing cumulative damage and inflammation driving aging."
+        },
+        {
+          "theory_id": "T001704",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Emphasizes mitochondrial DNA damage, ROS production, antioxidant decline, and feedback loops in aging."
+        },
+        {
+          "theory_id": "T000797",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Highlights mitochondrial protein oxidative damage accumulation and caloric restriction effects on aging."
+        },
+        {
+          "theory_id": "T001769",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes mitochondrial dysfunction, redox imbalance, antioxidant enzyme decline, and chronic inflammation in aging."
+        },
+        {
+          "theory_id": "T001523",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS generation, antioxidant enzyme decline, and oxidative damage accumulation driving aging."
+        },
+        {
+          "theory_id": "T001113",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "General oxidative stress theory emphasizing ROS from cellular respiration causing macromolecular damage and aging."
+        },
+        {
+          "theory_id": "T000117",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, oxidative damage accumulation, antioxidant defense, and proteasome activity."
+        },
+        {
+          "theory_id": "T000413",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Highlights mitochondrial ROS production, redox homeostasis, antioxidant defense, and resistance to oxidative stress in longevity."
+        },
+        {
+          "theory_id": "T000342",
+          "subcluster_name": "Antioxidant Adaptation and Metabolic Rate Theory",
+          "reasoning": "Focuses on species with high metabolic rates evolving enhanced antioxidant defenses and repair mechanisms mitigating oxidative damage."
+        },
+        {
+          "theory_id": "T001158",
+          "subcluster_name": "Antioxidant Adaptation and Metabolic Rate Theory",
+          "reasoning": "Emphasizes antioxidant enzyme roles, exercise-induced adaptations, and genetic selection affecting oxidative damage and aging."
+        },
+        {
+          "theory_id": "T000102",
+          "subcluster_name": "Antioxidant Adaptation and Metabolic Rate Theory",
+          "reasoning": "Focuses on urate as a major antioxidant evolved in humans protecting against oxidative damage and aging."
+        },
+        {
+          "theory_id": "T000645",
+          "subcluster_name": "Antioxidant Adaptation and Metabolic Rate Theory",
+          "reasoning": "Describes activation of p38 MAPK and IIS pathways enhancing oxidative stress resistance and lifespan via antioxidant adaptation."
+        },
+        {
+          "theory_id": "T000679",
+          "subcluster_name": "Antioxidant Adaptation and Metabolic Rate Theory",
+          "reasoning": "Focuses on SKN-1/Nrf2 transcription factor mediating oxidative stress resistance and promoting longevity."
+        },
+        {
+          "theory_id": "T001311",
+          "subcluster_name": "Antioxidant Adaptation and Metabolic Rate Theory",
+          "reasoning": "Describes exercise-induced hormesis via redox signaling activating antioxidant defenses and mitochondrial remodeling."
+        },
+        {
+          "theory_id": "T001762",
+          "subcluster_name": "Antioxidant Adaptation and Metabolic Rate Theory",
+          "reasoning": "Focuses on glutathione redox state shifts and protein thiolation affecting redox balance and aging rate."
+        },
+        {
+          "theory_id": "T000064",
+          "subcluster_name": "ROS Control Network and Redox Regulation Theory",
+          "reasoning": "Emphasizes neuronal control of ROS production via ion fluxes, gerontogenes, and antioxidant proteins regulating oxidative stress."
+        },
+        {
+          "theory_id": "T001495",
+          "subcluster_name": "ROS Control Network and Redox Regulation Theory",
+          "reasoning": "Focuses on species differences in oxidative stress sensitivity and links to longevity via redox regulation."
+        },
+        {
+          "theory_id": "T001086",
+          "subcluster_name": "ROS Control Network and Redox Regulation Theory",
+          "reasoning": "Highlights superoxide dismutase enzymes regulating ROS and genetic manipulation affecting lifespan."
+        },
+        {
+          "theory_id": "T000213",
+          "subcluster_name": "ROS Control Network and Redox Regulation Theory",
+          "reasoning": "Describes ROS accumulation, oxidative damage, and antioxidant enzyme roles in muscle proteostasis and aging."
+        },
+        {
+          "theory_id": "T001645",
+          "subcluster_name": "ROS Control Network and Redox Regulation Theory",
+          "reasoning": "Focuses on MAO-B enzyme activity producing hydrogen peroxide causing oxidative stress and mitochondrial impairment in brain aging."
+        },
+        {
+          "theory_id": "T001011",
+          "subcluster_name": "ROS Control Network and Redox Regulation Theory",
+          "reasoning": "Describes failure of adaptive responses in muscle due to chronic ROS elevation and impaired redox-sensitive signaling."
+        },
+        {
+          "theory_id": "T000919",
+          "subcluster_name": "ROS Control Network and Redox Regulation Theory",
+          "reasoning": "Focuses on oxidative stress-induced neuromuscular junction degeneration and muscle fiber deficits causing sarcopenia."
+        },
+        {
+          "theory_id": "T001034",
+          "subcluster_name": "Oxidative Stress-Inflammation Interaction Theory",
+          "reasoning": "Integrates chronic oxidative stress with inflammatory signaling pathways driving aging and age-related diseases."
+        },
+        {
+          "theory_id": "T001456",
+          "subcluster_name": "Oxidative Stress-Inflammation Interaction Theory",
+          "reasoning": "Describes oxidative stress as mechanism linking reproduction investment to somatic maintenance trade-offs and aging."
+        },
+        {
+          "theory_id": "T000443",
+          "subcluster_name": "Oxidative Stress-Inflammation Interaction Theory",
+          "reasoning": "Mitohormesis hypothesis where mild mitochondrial ROS act as beneficial signals inducing stress defenses and longevity."
+        },
+        {
+          "theory_id": "T000146",
+          "subcluster_name": "Oxidative Stress-Inflammation Interaction Theory",
+          "reasoning": "Focuses on redox signaling disruption and oxidative stress contributing to cognitive decline and aging-related functional impairments."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:15:54"
+}

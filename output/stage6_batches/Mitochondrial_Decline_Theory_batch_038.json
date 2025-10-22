@@ -1,0 +1,185 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 38,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+        "theory_ids": [
+          "T025545",
+          "T025759",
+          "T025909",
+          "T025692",
+          "T025890",
+          "T025892",
+          "T025666",
+          "T025834",
+          "T025514"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+        "theory_ids": [
+          "T025495",
+          "T026001",
+          "T026209",
+          "T025818",
+          "T025833",
+          "T025836",
+          "T025603",
+          "T025729",
+          "T025758"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Quality Control Decline Theory",
+        "theory_ids": [
+          "T026197",
+          "T026225",
+          "T025645",
+          "T025973",
+          "T025552",
+          "T025476",
+          "T025622"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025545",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS production causing oxidative damage to mitochondrial proteins and respiratory complexes, impairing function and driving aging."
+        },
+        {
+          "theory_id": "T025759",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Emphasizes ROS production causing oxidative damage and decline in mitochondrial protein quality control systems like Lon protease."
+        },
+        {
+          "theory_id": "T025909",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Classic mitochondrial free radical theory focusing on mitochondrial ROS as primary cause of cumulative oxidative damage driving aging."
+        },
+        {
+          "theory_id": "T025692",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Highlights mitochondrial superoxide overproduction causing oxidative stress and a feedback loop of mitochondrial damage accelerating aging."
+        },
+        {
+          "theory_id": "T025890",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Integrates mitochondrial ROS production, mtDNA damage, and mitochondrial signaling complexes (signalosome) in aging and longevity."
+        },
+        {
+          "theory_id": "T025892",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on oxidative damage accumulation from mitochondrial ROS causing mitochondrial dysfunction and aging via a positive feedback loop."
+        },
+        {
+          "theory_id": "T025666",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Links mitochondrial free radical production and oxidative damage accumulation to functional decline and aging phenotypes."
+        },
+        {
+          "theory_id": "T025834",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes mitochondrial ROS production causing oxidative damage and affecting metabolic rate and lifespan across model organisms."
+        },
+        {
+          "theory_id": "T025514",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Posits mitochondrial dysfunction and ROS-mediated oxidative damage as central drivers of aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T025495",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Focuses on mtDNA deletions accumulating with age due to oxidative damage, impairing mitochondrial function and modulated by diet."
+        },
+        {
+          "theory_id": "T026001",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Emphasizes mtDNA mutations as fundamental aging drivers affecting respiratory chain and energy metabolism."
+        },
+        {
+          "theory_id": "T026209",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Links mtDNA mutations to increased ROS production and mitochondrial dysfunction driving aging phenotypes."
+        },
+        {
+          "theory_id": "T025818",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Proposes mtDNA free energy and DNA bubble formation as mechanistic bases for mtDNA mutation accumulation and aging."
+        },
+        {
+          "theory_id": "T025833",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Focuses on direct repeats in mtDNA promoting deletions that correlate negatively with lifespan across mammals."
+        },
+        {
+          "theory_id": "T025836",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Describes mtDNA instability and respiratory function loss as key determinants of aging in fungi, conserved across species."
+        },
+        {
+          "theory_id": "T025603",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Quantifies inherited mtDNA variation as a causal factor influencing human longevity."
+        },
+        {
+          "theory_id": "T025729",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Describes a vicious cycle where mtDNA damage causes respiratory chain imbalance and increased ROS, accelerating aging."
+        },
+        {
+          "theory_id": "T025758",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion-Driven Aging Theory",
+          "reasoning": "Highlights Complex I damage from mtDNA mutations and ROS causing a vicious cycle of mitochondrial dysfunction in aging."
+        },
+        {
+          "theory_id": "T026197",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Decline Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction caused by impaired protein import (TIMM50), genetic regulation, and ROS leading to senescence."
+        },
+        {
+          "theory_id": "T026225",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Decline Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction driving inflammageing via impaired quality control, mitophagy, and senescence."
+        },
+        {
+          "theory_id": "T025645",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Decline Theory",
+          "reasoning": "Describes mitochondrial quality control via Pink1/Parkin mitophagy regulating stem cell senescence and aging."
+        },
+        {
+          "theory_id": "T025973",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Decline Theory",
+          "reasoning": "Focuses on neuronal mitochondrial stress response mediated by TMBIM-2 and UPRmt signaling affecting systemic aging."
+        },
+        {
+          "theory_id": "T025552",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Decline Theory",
+          "reasoning": "PGC-1\u03b1 regulates mitochondrial biogenesis, calcium homeostasis, and ER stress to mitigate skeletal muscle aging."
+        },
+        {
+          "theory_id": "T025476",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Decline Theory",
+          "reasoning": "Lipoic acid rejuvenates mitochondria by activating PGC-1\u03b1 and antioxidant defenses, reversing oxidative damage and dysfunction."
+        },
+        {
+          "theory_id": "T025622",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Decline Theory",
+          "reasoning": "Explores mtDNA genotype effects on mitochondrial function, ROS production, and mitonuclear interactions influencing aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:54:13"
+}

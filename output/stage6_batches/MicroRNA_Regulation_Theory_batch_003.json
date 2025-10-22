@@ -1,0 +1,184 @@
+{
+  "cluster_name": "MicroRNA Regulation Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Stem Cell Aging MicroRNA Regulation Theory",
+        "theory_ids": [
+          "T018128",
+          "T020869",
+          "T022956",
+          "T024907",
+          "T021404",
+          "T025286",
+          "T025245",
+          "T024568"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Vascular and Immune Cell MicroRNA Regulation Theory",
+        "theory_ids": [
+          "T024711",
+          "T025556"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Circulating MicroRNA Systemic Regulation Theory",
+        "theory_ids": [
+          "T024478",
+          "T024465",
+          "T019258"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "MicroRNA Biogenesis and Processing Decline Theory",
+        "theory_ids": [
+          "T016163",
+          "T026319",
+          "T027379",
+          "T025254",
+          "T020542",
+          "T019072",
+          "T020104",
+          "T021496",
+          "T000288"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "MicroRNA Regulation Theory",
+        "theory_ids": [
+          "T024923"
+        ],
+        "theory_count": 1,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "1 theories not assigned"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018128",
+          "subcluster_name": "Stem Cell Aging MicroRNA Regulation Theory",
+          "reasoning": "This theory focuses on let-7 microRNA regulating stem cell aging and niche signaling, fitting the stem cell aging regulatory theme."
+        },
+        {
+          "theory_id": "T020869",
+          "subcluster_name": "Stem Cell Aging MicroRNA Regulation Theory",
+          "reasoning": "Describes let-7b/Hmga2/Ink4a/Arf pathway governing neural stem cell aging, clearly within stem cell aging miRNA regulation."
+        },
+        {
+          "theory_id": "T022956",
+          "subcluster_name": "Stem Cell Aging MicroRNA Regulation Theory",
+          "reasoning": "Focuses on miRNAs regulating hematopoietic stem cell aging and longevity, fitting stem cell aging regulation."
+        },
+        {
+          "theory_id": "T024907",
+          "subcluster_name": "Stem Cell Aging MicroRNA Regulation Theory",
+          "reasoning": "General theory on miRNA regulation of multiple adult stem cell types aging, directly related to stem cell aging."
+        },
+        {
+          "theory_id": "T021404",
+          "subcluster_name": "Stem Cell Aging MicroRNA Regulation Theory",
+          "reasoning": "Discusses miRNA regulation of adult stem cell properties, senescence, and mitochondrial function, fitting stem cell aging."
+        },
+        {
+          "theory_id": "T025286",
+          "subcluster_name": "Stem Cell Aging MicroRNA Regulation Theory",
+          "reasoning": "miR-9/CBX7 feedback loop regulates p16INK4a and senescence, a key mechanism in stem cell aging regulation."
+        },
+        {
+          "theory_id": "T025245",
+          "subcluster_name": "Stem Cell Aging MicroRNA Regulation Theory",
+          "reasoning": "Phasic control of let-7 and miR-125 regulating neuronal integrity and lifespan, related to stem cell/neural aging regulation."
+        },
+        {
+          "theory_id": "T024568",
+          "subcluster_name": "Stem Cell Aging MicroRNA Regulation Theory",
+          "reasoning": "miR-125-chinmo axis mediates dietary restriction-dependent lifespan extension via neuronal and fat metabolism regulation, linked to stem cell/neural aging."
+        },
+        {
+          "theory_id": "T024711",
+          "subcluster_name": "Vascular and Immune Cell MicroRNA Regulation Theory",
+          "reasoning": "miR-34a promotes vascular cell senescence and inflammaging, focusing on vascular aging and immune inflammation."
+        },
+        {
+          "theory_id": "T025556",
+          "subcluster_name": "Vascular and Immune Cell MicroRNA Regulation Theory",
+          "reasoning": "miR-146a and miR-155 regulate T cell metabolic reprogramming and inflammaging, fitting immune cell aging regulation."
+        },
+        {
+          "theory_id": "T024478",
+          "subcluster_name": "Circulating MicroRNA Systemic Regulation Theory",
+          "reasoning": "Focuses on circulating miRNAs as systemic regulators of aging and their modulation by calorie restriction."
+        },
+        {
+          "theory_id": "T024465",
+          "subcluster_name": "Circulating MicroRNA Systemic Regulation Theory",
+          "reasoning": "Describes circulating small noncoding RNAs including miRNAs as systemic aging biomarkers and regulators."
+        },
+        {
+          "theory_id": "T019258",
+          "subcluster_name": "Circulating MicroRNA Systemic Regulation Theory",
+          "reasoning": "Exosomal circulating miRNAs regulate systemic aging signaling pathways, fitting circulating miRNA systemic regulation."
+        },
+        {
+          "theory_id": "T016163",
+          "subcluster_name": "MicroRNA Biogenesis and Processing Decline Theory",
+          "reasoning": "Focuses on age-related decline in Dicer-mediated miRNA processing affecting stress resistance and longevity."
+        },
+        {
+          "theory_id": "T026319",
+          "subcluster_name": "MicroRNA Biogenesis and Processing Decline Theory",
+          "reasoning": "General theory on miRNAs as regulators of cellular deterioration and aging, including their biogenesis and functional decline."
+        },
+        {
+          "theory_id": "T027379",
+          "subcluster_name": "MicroRNA Biogenesis and Processing Decline Theory",
+          "reasoning": "Describes miRNAs modulating conserved aging signaling pathways and cellular senescence, linking to miRNA processing and function."
+        },
+        {
+          "theory_id": "T025254",
+          "subcluster_name": "MicroRNA Biogenesis and Processing Decline Theory",
+          "reasoning": "miR-17-92 cluster regulates aging and cancer via AKT/mTOR pathway, linking miRNA expression changes to aging signaling pathways."
+        },
+        {
+          "theory_id": "T020542",
+          "subcluster_name": "MicroRNA Biogenesis and Processing Decline Theory",
+          "reasoning": "Age-associated changes in miRNA 2'-O-methylation and Ago2 loading affect miRNA stability and aging phenotypes, related to miRNA processing."
+        },
+        {
+          "theory_id": "T019072",
+          "subcluster_name": "MicroRNA Biogenesis and Processing Decline Theory",
+          "reasoning": "miR-80 regulates lifespan via NLP-45 and UPRER, linking miRNA regulation to stress response pathways and aging."
+        },
+        {
+          "theory_id": "T020104",
+          "subcluster_name": "MicroRNA Biogenesis and Processing Decline Theory",
+          "reasoning": "miRNAs (let-7, lin-4) act as intrinsic neuronal timers regulating plasticity and regenerative decline, involving miRNA temporal regulation."
+        },
+        {
+          "theory_id": "T021496",
+          "subcluster_name": "MicroRNA Biogenesis and Processing Decline Theory",
+          "reasoning": "mir-71 regulates proteostasis and longevity via olfactory neuron signaling, linking miRNA regulation to proteostasis and aging."
+        },
+        {
+          "theory_id": "T000288",
+          "subcluster_name": "MicroRNA Biogenesis and Processing Decline Theory",
+          "reasoning": "Mir-23-27-24 cluster regulates multiple aging hallmarks, representing miRNA cluster regulation of aging mechanisms."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:54:12"
+}

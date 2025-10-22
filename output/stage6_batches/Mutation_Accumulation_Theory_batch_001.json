@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Mutation Accumulation Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Germline Mutation Accumulation Theory",
+        "theory_ids": [
+          "T000596",
+          "T002149",
+          "T001655",
+          "T002450",
+          "T001045",
+          "T002519",
+          "T002220",
+          "T000569",
+          "T000059",
+          "T001863",
+          "T002055",
+          "T001535"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+        "theory_ids": [
+          "T001135",
+          "T000673",
+          "T002552",
+          "T001877",
+          "T000632",
+          "T002248",
+          "T000991",
+          "T001352"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Somatic Mutation Accumulation Theory",
+        "theory_ids": [
+          "T001907",
+          "T001921",
+          "T001609",
+          "T000783"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000596",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of late-acting deleterious germline mutations due to declining natural selection with age."
+        },
+        {
+          "theory_id": "T002149",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of age-specific deleterious germline mutations driven by weakening selection pressure at older ages."
+        },
+        {
+          "theory_id": "T001655",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Emphasizes age-specific effects of spontaneous germline mutations on mortality and declining selection intensity with age."
+        },
+        {
+          "theory_id": "T002450",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Posits accumulation of late-acting deleterious alleles in germline due to declining force of natural selection with age."
+        },
+        {
+          "theory_id": "T001045",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Focuses on declining age-specific natural selection allowing germline mutation accumulation and antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T002519",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of latent disease susceptibilities via natural non-selection acting on germline mutations expressed late in life."
+        },
+        {
+          "theory_id": "T002220",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Evolutionary genetic theory highlighting accumulation of late-acting deleterious germline alleles due to declining selection."
+        },
+        {
+          "theory_id": "T000569",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Medawar\u2019s hypothesis on declining purifying selection with age leading to accumulation of deleterious germline mutations."
+        },
+        {
+          "theory_id": "T000059",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Mutation accumulation theory emphasizing accumulation of late-acting deleterious germline mutations and increased heritability with age."
+        },
+        {
+          "theory_id": "T001863",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Genetic load theory describing accumulation of late-acting deleterious germline mutations affecting longevity under hazard-adjusted selection."
+        },
+        {
+          "theory_id": "T002055",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Nearly neutral theory focusing on fixation of slightly deleterious germline mutations influenced by population size and life-history traits."
+        },
+        {
+          "theory_id": "T001535",
+          "subcluster_name": "Germline Mutation Accumulation Theory",
+          "reasoning": "Non-programmed aging theory emphasizing aging as a by-product of accumulated germline mutations and declining selection with age."
+        },
+        {
+          "theory_id": "T001135",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Focuses on energy allocation trade-offs between reproduction and somatic maintenance shaping aging via disposable soma model."
+        },
+        {
+          "theory_id": "T000673",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Describes how longevity influences cooperative breeding evolution via life-history trade-offs affecting reproduction and survival."
+        },
+        {
+          "theory_id": "T002552",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Explores extrinsic mortality effects on life-history evolution, reproductive senescence, and post-reproductive lifespan as non-adaptive byproduct."
+        },
+        {
+          "theory_id": "T001877",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Evolutionary senescence theory linking declining natural selection, antagonistic pleiotropy, and environmental hazards shaping aging rates."
+        },
+        {
+          "theory_id": "T000632",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Condition-dependent mortality theory showing how survival-reproduction trade-offs and sex-specific reproductive senescence arise from extrinsic mortality."
+        },
+        {
+          "theory_id": "T002248",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Natural selection via differential survival theory emphasizing how survival patterns shape senescence manifestation within populations."
+        },
+        {
+          "theory_id": "T000991",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Evolutionarily conserved senescence theory linking extrinsic mortality, gene expression changes, and life-history trade-offs in aging."
+        },
+        {
+          "theory_id": "T001352",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Theory",
+          "reasoning": "Race for replication hypothesis relating mitochondrial genome size and replication efficiency to life-history and metabolic trade-offs."
+        },
+        {
+          "theory_id": "T001907",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of somatic mutations causing genome instability and cellular dysfunction driving aging."
+        },
+        {
+          "theory_id": "T001921",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation and tolerance limits of somatic mutations in proliferative and non-proliferative tissues contributing to aging."
+        },
+        {
+          "theory_id": "T001609",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Details tissue-specific somatic mutation accumulation, somatic selection, and links to aging and disease risk."
+        },
+        {
+          "theory_id": "T000783",
+          "subcluster_name": "Somatic Mutation Accumulation Theory",
+          "reasoning": "Two-level evolutionary conflict theory in plants focusing on somatic mutations with conflicting effects at branch and whole-organism levels."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:59:30"
+}

@@ -1,0 +1,170 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 13,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T010651",
+          "T010334",
+          "T010615",
+          "T010504",
+          "T010450",
+          "T010032",
+          "T010271",
+          "T010081",
+          "T010637",
+          "T010225",
+          "T010791",
+          "T010950",
+          "T010608",
+          "T010493",
+          "T010062",
+          "T010535"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Selection Shadow and Mutation Accumulation Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T010739",
+          "T010708",
+          "T010244",
+          "T010510",
+          "T010989",
+          "T010487"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T010651",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on evolutionary trade-offs between early-life reproductive/social advantages and late-life aging, including eusociality and reproductive timing effects."
+        },
+        {
+          "theory_id": "T010334",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes antagonistic pleiotropy as a trade-off between early-life fitness benefits and late-life decline, emphasizing mutation accumulation and selection shadow."
+        },
+        {
+          "theory_id": "T010615",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Explores eusocial species' longevity linked to reproductive caste differences and physiological resilience, fitting reproduction-longevity trade-off mechanisms."
+        },
+        {
+          "theory_id": "T010504",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Illustrates early-life brain advantages with late-life neurodegeneration, exemplifying antagonistic pleiotropy via early reproductive/functional benefits versus aging costs."
+        },
+        {
+          "theory_id": "T010450",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Classic antagonistic pleiotropy theory emphasizing alleles with early-life benefits and late-life costs, focusing on evolutionary trade-offs."
+        },
+        {
+          "theory_id": "T010032",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on pleiotropic mutations enhancing early reproduction but reducing lifespan, highlighting genetic trade-offs between reproduction and longevity."
+        },
+        {
+          "theory_id": "T010271",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Links early reproductive timing genes to accelerated aging and diseases, emphasizing metabolic and conserved signaling pathways mediating reproduction-longevity trade-offs."
+        },
+        {
+          "theory_id": "T010081",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Summarizes pleiotropic genes with early-life benefits and late-life detriments, focusing on evolutionary trade-offs shaping aging."
+        },
+        {
+          "theory_id": "T010637",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes alleles with early-life reproductive benefits but late-life survival costs, illustrating classic antagonistic pleiotropy trade-offs."
+        },
+        {
+          "theory_id": "T010225",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Highlights gene effects with age-dependent trade-offs favoring early-life fitness at the expense of late-life health, consistent with reproduction-longevity trade-offs."
+        },
+        {
+          "theory_id": "T010791",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on condition-dependent fecundity-longevity trade-offs in eusocial insects, fitting within reproduction-longevity antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T010950",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Shows positive selection on genes promoting early growth and reproduction but causing late-life aging, exemplifying reproduction-longevity trade-offs."
+        },
+        {
+          "theory_id": "T010608",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes trade-offs between reproduction and somatic maintenance, with declining selection strength causing negative fecundity-longevity relationships."
+        },
+        {
+          "theory_id": "T010493",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses caste-specific antagonistic pleiotropy in social insects, focusing on trade-offs between early and late life effects on lifespan."
+        },
+        {
+          "theory_id": "T010062",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Integrates pleiotropic gene effects with gradual accumulation of early-life benefits and late-life costs, emphasizing evolutionary trade-offs."
+        },
+        {
+          "theory_id": "T010535",
+          "subcluster_name": "Reproduction-Longevity Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on genes with early-life growth and reproduction benefits but late-life lifespan costs, consistent with reproduction-longevity antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T010739",
+          "subcluster_name": "Selection Shadow and Mutation Accumulation Antagonistic Pleiotropy Theory",
+          "reasoning": "Combines antagonistic pleiotropy with mutation accumulation and disposable soma theories, emphasizing weakening selection with age and extrinsic mortality effects."
+        },
+        {
+          "theory_id": "T010708",
+          "subcluster_name": "Selection Shadow and Mutation Accumulation Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on selection shadow and Medawar-Williams prediction about extrinsic mortality accelerating aging, highlighting mutation accumulation and selection decline."
+        },
+        {
+          "theory_id": "T010244",
+          "subcluster_name": "Selection Shadow and Mutation Accumulation Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes mutation accumulation and antagonistic pleiotropy theories with emphasis on age-specific selection pressure decline (selection shadow)."
+        },
+        {
+          "theory_id": "T010510",
+          "subcluster_name": "Selection Shadow and Mutation Accumulation Antagonistic Pleiotropy Theory",
+          "reasoning": "Explains aging as inevitable due to decline in natural selection after reproduction, focusing on Hamilton's principle and selection shadow."
+        },
+        {
+          "theory_id": "T010989",
+          "subcluster_name": "Selection Shadow and Mutation Accumulation Antagonistic Pleiotropy Theory",
+          "reasoning": "Highlights declining selection with age and extrinsic mortality escape in bats, consistent with selection shadow and mutation accumulation mechanisms."
+        },
+        {
+          "theory_id": "T010487",
+          "subcluster_name": "Selection Shadow and Mutation Accumulation Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on mutation-selection balance and antagonistic pleiotropy with sex-specific selection pressures, fitting selection shadow and mutation accumulation themes."
+        },
+        {
+          "theory_id": "T010847",
+          "subcluster_name": "Phylogenetic and Network-Based Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes ancient evolutionary origins and network centrality of aging genes, with phylogenetic antagonistic pleiotropy and reduced evolvability."
+        },
+        {
+          "theory_id": "T010432",
+          "subcluster_name": "Cancer Suppression and Cellular Senescence Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on tumor suppressor genes that protect early-life cancer risk but promote late-life cellular senescence and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:54:47"
+}

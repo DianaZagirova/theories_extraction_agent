@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Hormesis Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+        "theory_ids": [
+          "T007561",
+          "T006572",
+          "T008514",
+          "T001748",
+          "T001406",
+          "T004583",
+          "T007265",
+          "T008814"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+        "theory_ids": [
+          "T002154",
+          "T004473",
+          "T005166",
+          "T001600",
+          "T010960",
+          "T005788",
+          "T007257",
+          "T011277",
+          "T002122",
+          "T000428"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Caloric Restriction and Metabolic Hormesis Theory",
+        "theory_ids": [
+          "T001933",
+          "T007278",
+          "T000300",
+          "T000706",
+          "T003141",
+          "T003899"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T007561",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Focuses on mild stress inducing heat shock proteins and antioxidative enzymes in stem cells, emphasizing heat shock response as a key hormetic mechanism."
+        },
+        {
+          "theory_id": "T006572",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Describes mild heat stress activating heat shock transcription factors and proteasomal degradation, highlighting heat shock proteins in hormesis."
+        },
+        {
+          "theory_id": "T008514",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Details mild stress activating heat shock proteins and neurohormesis pathways, emphasizing protein chaperones and stress signaling in hormesis."
+        },
+        {
+          "theory_id": "T001748",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Describes hormetic phytochemicals activating vitagenes including heat shock proteins and sirtuins, focusing on endogenous defense pathways."
+        },
+        {
+          "theory_id": "T001406",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Explains geroprotectors acting through hormesis by inducing mild stress responses involving heat shock proteins and repair mechanisms."
+        },
+        {
+          "theory_id": "T004583",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Covers hormetins activating multiple stress response pathways including heat shock response, Nrf2, sirtuins, and autophagy, emphasizing integrated stress defenses."
+        },
+        {
+          "theory_id": "T007265",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Caloric restriction activates hormetic defense mechanisms including heat shock proteins and anti-inflammatory responses, fitting heat shock protein-mediated hormesis."
+        },
+        {
+          "theory_id": "T008814",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Mitochondrial stress induces neuronal hormesis involving stress response pathways and systemic aging regulation, linked to cellular stress responses."
+        },
+        {
+          "theory_id": "T002154",
+          "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+          "reasoning": "Focuses on hormesis involving mitochondrial signaling, mitohormesis, antioxidant responses, and autophagy, highlighting mitochondrial ROS as central."
+        },
+        {
+          "theory_id": "T004473",
+          "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+          "reasoning": "Describes hormesis driven by bile acid-induced mitochondrial remodeling and mitohormesis, linking mitochondrial function to longevity evolution."
+        },
+        {
+          "theory_id": "T005166",
+          "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+          "reasoning": "Dietary restriction induces mitohormesis via mitochondrial ROS and nutrient sensing pathways, emphasizing mitochondrial role in hormetic lifespan extension."
+        },
+        {
+          "theory_id": "T001600",
+          "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+          "reasoning": "Describes mitohormesis and xenohormesis with mitochondrial ROS as signaling molecules mediating hormetic adaptive responses to dietary restriction."
+        },
+        {
+          "theory_id": "T010960",
+          "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+          "reasoning": "Focuses on mitohormesis and redox-sensitive signaling pathways (Nrf2, HSF1) activated by mild mitochondrial ROS to promote longevity."
+        },
+        {
+          "theory_id": "T005788",
+          "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+          "reasoning": "Mild oxidative stress induces ROS signaling and upregulation of antioxidant enzymes, highlighting mitochondrial ROS in hormetic lifespan extension."
+        },
+        {
+          "theory_id": "T007257",
+          "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+          "reasoning": "Exercise-induced ROS production triggers adaptive antioxidant and repair responses, consistent with mitochondrial ROS-driven hormesis."
+        },
+        {
+          "theory_id": "T011277",
+          "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+          "reasoning": "Focuses on ROS, especially hydrogen peroxide, as hormetic triggers inducing antioxidant defenses and promoting longevity."
+        },
+        {
+          "theory_id": "T002122",
+          "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+          "reasoning": "Describes adaptive responses to low-level oxidative stress including exercise-induced ROS signaling and mitochondrial biogenesis."
+        },
+        {
+          "theory_id": "T000428",
+          "subcluster_name": "Mitochondrial ROS-Induced Hormesis Theory",
+          "reasoning": "Neuronal mitochondrial adaptive responses to bioenergetic stress involve mitochondrial biogenesis, antioxidant defenses, and mitophagy."
+        },
+        {
+          "theory_id": "T001933",
+          "subcluster_name": "Caloric Restriction and Metabolic Hormesis Theory",
+          "reasoning": "Focuses on caloric restriction as an active hormetic stress response involving nutrient sensing and metabolic regulation pathways."
+        },
+        {
+          "theory_id": "T007278",
+          "subcluster_name": "Caloric Restriction and Metabolic Hormesis Theory",
+          "reasoning": "Caloric restriction induces hormetic DNA repair pathways, enhancing genomic stability and longevity."
+        },
+        {
+          "theory_id": "T000300",
+          "subcluster_name": "Caloric Restriction and Metabolic Hormesis Theory",
+          "reasoning": "Low-level ionizing radiation mimics caloric restriction effects via endocrine and energy regulation, linking hormesis to metabolic adaptation."
+        },
+        {
+          "theory_id": "T000706",
+          "subcluster_name": "Caloric Restriction and Metabolic Hormesis Theory",
+          "reasoning": "Genetic and non-genetic interventions increasing stress resistance, including caloric restriction, extend lifespan by hormetic mechanisms."
+        },
+        {
+          "theory_id": "T003141",
+          "subcluster_name": "Caloric Restriction and Metabolic Hormesis Theory",
+          "reasoning": "Links hormesis to energy-information systems and adaptability, emphasizing mitochondrial energy gradients and metabolic regulation."
+        },
+        {
+          "theory_id": "T003899",
+          "subcluster_name": "Caloric Restriction and Metabolic Hormesis Theory",
+          "reasoning": "Describes hormesis as a life-history trade-off involving resource allocation, linking metabolic stress responses to evolutionary fitness."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:43:39"
+}

@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 20,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+        "theory_ids": [
+          "T014918",
+          "T014830",
+          "T014834",
+          "T014895",
+          "T014992",
+          "T014963",
+          "T014903",
+          "T014829",
+          "T014832",
+          "T014818",
+          "T014851",
+          "T014807",
+          "T014885",
+          "T014753"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Energy Imbalance and Hormonal Regulation Theory of Calorie Restriction",
+        "theory_ids": [
+          "T015004",
+          "T015003",
+          "T014952",
+          "T014975"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Modulation Theory of Aging",
+        "theory_ids": [
+          "T014887",
+          "T014848",
+          "T014961"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Nutrient Composition and Dietary Restriction Signaling Theory",
+        "theory_ids": [
+          "T014875",
+          "T014602",
+          "T015005",
+          "T014843",
+          "T014879"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T014918",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Focuses on calorie restriction (CR) inducing hormesis, neuroendocrine adaptations, oxidative stress reduction, and metabolic health improvements as mechanisms for aging delay."
+        },
+        {
+          "theory_id": "T014830",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Emphasizes CR effects on lifespan extension via metabolic and cellular adaptations including SIRT1, mTOR, AMPK, and IGF-1 signaling."
+        },
+        {
+          "theory_id": "T014834",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Highlights CR\u2019s role in cardiometabolic health and lifespan extension through metabolic and hormonal changes."
+        },
+        {
+          "theory_id": "T014895",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Describes CR benefits mediated by nutrient-sensitive signaling pathways (mTOR, AMPK, IGF-1) improving metabolic health and aging."
+        },
+        {
+          "theory_id": "T014992",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Focuses on CR\u2019s effects on mitochondrial function, energy metabolism, and cardiovascular risk factors contributing to aging delay."
+        },
+        {
+          "theory_id": "T014963",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Emphasizes CR\u2019s neuroprotective effects via molecular pathways, oxidative stress reduction, and promotion of neuronal survival."
+        },
+        {
+          "theory_id": "T014903",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Describes CR\u2019s impact on lifespan extension, metabolic rate reduction, oxidative stress decrease, and neuroendocrine changes."
+        },
+        {
+          "theory_id": "T014829",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Details CR\u2019s lifespan and healthspan effects in primates, focusing on metabolic and oxidative stress pathways."
+        },
+        {
+          "theory_id": "T014832",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Highlights CR\u2019s oxidative stress reduction, inflammation modulation, and functional longevity benefits."
+        },
+        {
+          "theory_id": "T014818",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Focuses on timing and physiological effects of CR on lifespan extension and metabolic parameters."
+        },
+        {
+          "theory_id": "T014851",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Describes CR effects on yeast lifespan via nutrient-sensing pathways like TORC1 and AMPK."
+        },
+        {
+          "theory_id": "T014807",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Details CR\u2019s effects on metabolic rate, oxidative stress, insulin sensitivity, and neuroendocrine modulation in humans."
+        },
+        {
+          "theory_id": "T014885",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Focuses on CR\u2019s lifespan extension and delay of age-dependent pathologies via body weight and metabolic load reduction."
+        },
+        {
+          "theory_id": "T014753",
+          "subcluster_name": "Calorie Restriction Hormesis and Metabolic Adaptation Theory",
+          "reasoning": "Emphasizes CR\u2019s hormetic stress response, metabolic rate reduction, and endocrine system impacts on aging."
+        },
+        {
+          "theory_id": "T015004",
+          "subcluster_name": "Energy Imbalance and Hormonal Regulation Theory of Calorie Restriction",
+          "reasoning": "Proposes that energy imbalance (expenditure > intake), rather than absolute calorie or protein reduction, drives CR benefits via hormonal and metabolic changes."
+        },
+        {
+          "theory_id": "T015003",
+          "subcluster_name": "Energy Imbalance and Hormonal Regulation Theory of Calorie Restriction",
+          "reasoning": "Focuses on intermittent (alternate day) calorie restriction inducing health benefits independent of weight loss, implicating energy balance patterns."
+        },
+        {
+          "theory_id": "T014952",
+          "subcluster_name": "Energy Imbalance and Hormonal Regulation Theory of Calorie Restriction",
+          "reasoning": "Discusses species-specific CR effects and the role of energy balance and diet quality in lifespan and healthspan outcomes."
+        },
+        {
+          "theory_id": "T014975",
+          "subcluster_name": "Energy Imbalance and Hormonal Regulation Theory of Calorie Restriction",
+          "reasoning": "Describes CR\u2019s preservation of insulin receptor signaling and reduction of negative regulators like PTP-1B, linking energy balance to hormonal regulation."
+        },
+        {
+          "theory_id": "T014887",
+          "subcluster_name": "Insulin/IGF-1 Signaling Modulation Theory of Aging",
+          "reasoning": "Focuses on GH/IGF-1 axis regulation, insulin resistance, and genetic variation in insulin/IGF-1 signaling affecting aging."
+        },
+        {
+          "theory_id": "T014848",
+          "subcluster_name": "Insulin/IGF-1 Signaling Modulation Theory of Aging",
+          "reasoning": "Highlights insulin/IGF-1 signaling reduction, pharmacological mimetics like metformin, and gender differences in aging effects."
+        },
+        {
+          "theory_id": "T014961",
+          "subcluster_name": "Insulin/IGF-1 Signaling Modulation Theory of Aging",
+          "reasoning": "Emphasizes reduced IGF-1 signaling via calorie or protein restriction as a key mechanism extending lifespan and reducing cancer risk."
+        },
+        {
+          "theory_id": "T014875",
+          "subcluster_name": "Nutrient Composition and Dietary Restriction Signaling Theory",
+          "reasoning": "Proposes lifespan extension via specific nutrient (protein/lipid) restriction rather than calorie reduction, implicating nutrient sensing pathways like TOR and insulin/IGF-1."
+        },
+        {
+          "theory_id": "T014602",
+          "subcluster_name": "Nutrient Composition and Dietary Restriction Signaling Theory",
+          "reasoning": "Focuses on dietary composition, macronutrient balance, and feeding patterns (intermittent fasting) modulating aging via nutrient-sensing and gene expression."
+        },
+        {
+          "theory_id": "T015005",
+          "subcluster_name": "Nutrient Composition and Dietary Restriction Signaling Theory",
+          "reasoning": "Discusses dietary restriction benefits on lifespan and healthspan, including environmental interactions and side effects, emphasizing nutrient quality."
+        },
+        {
+          "theory_id": "T014843",
+          "subcluster_name": "Nutrient Composition and Dietary Restriction Signaling Theory",
+          "reasoning": "Describes dietary modulation of aging via nutrient-sensing pathways and phytochemical activation of stress responses and autophagy."
+        },
+        {
+          "theory_id": "T014879",
+          "subcluster_name": "Nutrient Composition and Dietary Restriction Signaling Theory",
+          "reasoning": "Focuses on PDE inhibition by resveratrol as a calorie restriction mimetic activating AMPK and Sirt1, linking nutrient sensing to aging modulation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:07:47"
+}

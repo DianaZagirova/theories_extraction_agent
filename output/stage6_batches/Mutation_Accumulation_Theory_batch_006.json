@@ -1,0 +1,204 @@
+{
+  "cluster_name": "Mutation Accumulation Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+        "theory_ids": [
+          "T009784",
+          "T010900",
+          "T009718",
+          "T009716",
+          "T009714",
+          "T010189",
+          "T010494",
+          "T009712",
+          "T010008",
+          "T009828",
+          "T010517",
+          "T010864",
+          "T009736",
+          "T011163",
+          "T010796",
+          "T009937",
+          "T010857"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "Mitochondrial Mutation Accumulation Theory",
+        "theory_ids": [
+          "T010611",
+          "T008567"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Somatic Mutation Catastrophe Theory",
+        "theory_ids": [
+          "T009721",
+          "T011192",
+          "T009926"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Age-Specific Increase in Mutational Effects Theory",
+        "theory_ids": [
+          "T010411",
+          "T009704",
+          "T010886",
+          "T008737",
+          "T009729"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T009784",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "This theory focuses on accumulation of late-acting deleterious germline mutations due to declining natural selection with age, a classical evolutionary genetics perspective."
+        },
+        {
+          "theory_id": "T010900",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Describes declining force of natural selection with age and relaxed selection on maintenance traits, fitting classical evolutionary mutation accumulation framework."
+        },
+        {
+          "theory_id": "T009718",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Focuses on age-specific deleterious germline mutations accumulating due to weaker late-life selection, a core classical mutation accumulation concept."
+        },
+        {
+          "theory_id": "T009716",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Emphasizes age-specific accumulation of deleterious mutations due to weaker selection at late ages, consistent with classical mutation accumulation theory."
+        },
+        {
+          "theory_id": "T009714",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Highlights age-specific decline in selection intensity and genetic drift increasing late-life deleterious mutations, fitting classical mutation accumulation."
+        },
+        {
+          "theory_id": "T010189",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Posits decline in selection pressure with age allowing late-acting deleterious mutations to accumulate, a classical mutation accumulation mechanism."
+        },
+        {
+          "theory_id": "T010494",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Focuses on Hamilton\u2019s force of selection principle describing declining selection with age and accumulation of late-acting deleterious mutations."
+        },
+        {
+          "theory_id": "T009712",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Penna model formalizes age-specific harmful mutations accumulating due to weaker late-life selection, a computational model of classical mutation accumulation."
+        },
+        {
+          "theory_id": "T010008",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Describes aging as accumulation of late-acting deleterious alleles due to declining natural selection, a classical mutation accumulation view."
+        },
+        {
+          "theory_id": "T009828",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Nonadaptive theory emphasizing accumulation of late-expressed deleterious mutations due to weakening selection, fitting classical mutation accumulation."
+        },
+        {
+          "theory_id": "T010517",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Discusses mutation accumulation as a consequence of declining force of natural selection with age, within classical evolutionary aging theories."
+        },
+        {
+          "theory_id": "T010864",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of late-acting deleterious mutations due to declining selection strength with age, a classical mutation accumulation mechanism."
+        },
+        {
+          "theory_id": "T009736",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Emphasizes age-specific deleterious mutations accumulating due to weaker late-life selection, consistent with classical mutation accumulation theory."
+        },
+        {
+          "theory_id": "T011163",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of late-acting deleterious mutations influenced by population type and effective population size, within classical mutation accumulation framework."
+        },
+        {
+          "theory_id": "T010796",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Genome-wide analysis showing age-specific deleterious mutations accumulating due to weaker late-life selection, fitting classical mutation accumulation."
+        },
+        {
+          "theory_id": "T009937",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Selection shadow concept describing how extrinsic mortality shapes accumulation of late-acting deleterious mutations, a classical evolutionary mutation accumulation idea."
+        },
+        {
+          "theory_id": "T010611",
+          "subcluster_name": "Mitochondrial Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of late-onset deleterious mutations in mitochondrial DNA due to declining selection with age, a mitochondrial-specific mutation accumulation theory."
+        },
+        {
+          "theory_id": "T008567",
+          "subcluster_name": "Mitochondrial Mutation Accumulation Theory",
+          "reasoning": "Neutral theory predicting fixation of late-life deleterious mutations especially in mitochondrial and Y chromosomes due to small effective population size."
+        },
+        {
+          "theory_id": "T009721",
+          "subcluster_name": "Somatic Mutation Catastrophe Theory",
+          "reasoning": "Describes accumulation of somatic mutations causing cancer and aging, emphasizing metabolism and DNA repair affecting mutation rate, a somatic mutation accumulation mechanism."
+        },
+        {
+          "theory_id": "T011192",
+          "subcluster_name": "Somatic Mutation Catastrophe Theory",
+          "reasoning": "Somatic mutations accumulate exponentially with positive feedback on mutation rate, causing disordered gene expression and aging phenotypes, a somatic mutation catastrophe model."
+        },
+        {
+          "theory_id": "T009926",
+          "subcluster_name": "Somatic Mutation Catastrophe Theory",
+          "reasoning": "Drift-barrier hypothesis explaining limits on mutation rate reduction due to genetic drift, affecting somatic and germline mutation rates relevant to somatic mutation accumulation."
+        },
+        {
+          "theory_id": "T010411",
+          "subcluster_name": "Age-Specific Increase in Mutational Effects Theory",
+          "reasoning": "Proposes deleterious mutations have increasing negative effects with age, amplifying aging, differing from classical mutation accumulation by emphasizing effect size increase."
+        },
+        {
+          "theory_id": "T009704",
+          "subcluster_name": "Age-Specific Increase in Mutational Effects Theory",
+          "reasoning": "Modified mutation accumulation theory with age-specific increase in mutational effects and positive pleiotropy across ages, refining classical mutation accumulation."
+        },
+        {
+          "theory_id": "T010886",
+          "subcluster_name": "Age-Specific Increase in Mutational Effects Theory",
+          "reasoning": "Shows inbreeding intensifies age-dependent disease due to accumulation of late-acting deleterious mutations, consistent with increasing mutational effects with age."
+        },
+        {
+          "theory_id": "T008737",
+          "subcluster_name": "Age-Specific Increase in Mutational Effects Theory",
+          "reasoning": "In trees, accumulation of deleterious mutations with age impairs reproductive viability, consistent with increasing mutational effects causing aging."
+        },
+        {
+          "theory_id": "T009729",
+          "subcluster_name": "Age-Specific Increase in Mutational Effects Theory",
+          "reasoning": "Discusses age-dependent immune decline and pleiotropic effects of mutations on immune function, fitting theme of increasing mutational effects with age."
+        },
+        {
+          "theory_id": "T010857",
+          "subcluster_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "reasoning": "Although focused on bats and longevity, it discusses extrinsic mortality reduction and trade-offs consistent with classical evolutionary aging theories."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:01:35"
+}

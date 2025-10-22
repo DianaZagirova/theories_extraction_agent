@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Inflammaging Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Systemic Cytokine-Driven Inflammaging as Fundamental Aging Driver Theory",
+        "theory_ids": [
+          "T000104",
+          "T002933",
+          "T004035",
+          "T004015",
+          "T002135",
+          "T004176",
+          "T003008",
+          "T004254"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Innate Immunity and Auto[innate]immunity-Driven Inflammaging Theory",
+        "theory_ids": [
+          "T003590",
+          "T000668",
+          "T003565",
+          "T002728",
+          "T003344",
+          "T003095",
+          "T001852",
+          "T001947"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and ROS-Induced Inflammaging Theory",
+        "theory_ids": [
+          "T001136",
+          "T003025"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Inflammation-Driven Aging and Cancer Inflammaging Theory",
+        "theory_ids": [
+          "T003650",
+          "T001501"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000076",
+          "subcluster_name": "Cytokine-Mediated Vascular Inflammaging Theory",
+          "reasoning": "Focuses on chronic low-grade inflammation via pro- and anti-inflammatory cytokines driving vascular aging and dysfunction."
+        },
+        {
+          "theory_id": "T002016",
+          "subcluster_name": "Immunometabolic Regulation and Macrophage Polarization Inflammaging Theory",
+          "reasoning": "Emphasizes macrophage polarization shifts, immunometabolism, autophagy, and interferon signaling in inflammaging."
+        },
+        {
+          "theory_id": "T000104",
+          "subcluster_name": "Systemic Cytokine-Driven Inflammaging as Fundamental Aging Driver Theory",
+          "reasoning": "Describes inflammaging as chronic systemic cytokine elevation causally linked to multiple age-related diseases."
+        },
+        {
+          "theory_id": "T003590",
+          "subcluster_name": "Innate Immunity and Auto[innate]immunity-Driven Inflammaging Theory",
+          "reasoning": "Centers on innate immune system activation and auto[innate] immunity as drivers of inflammaging and frailty."
+        },
+        {
+          "theory_id": "T002933",
+          "subcluster_name": "Systemic Cytokine-Driven Inflammaging as Fundamental Aging Driver Theory",
+          "reasoning": "Focuses on chronic low-grade systemic inflammation with cytokine imbalance and gender differences in inflammaging."
+        },
+        {
+          "theory_id": "T000668",
+          "subcluster_name": "Innate Immunity and Auto[innate]immunity-Driven Inflammaging Theory",
+          "reasoning": "Highlights innate immune dysfunction, immunosenescence, and inflammation as drivers of neurological aging diseases."
+        },
+        {
+          "theory_id": "T004035",
+          "subcluster_name": "Systemic Cytokine-Driven Inflammaging as Fundamental Aging Driver Theory",
+          "reasoning": "Describes chronic systemic inflammation with gender differences affecting infection susceptibility and inflammaging."
+        },
+        {
+          "theory_id": "T001136",
+          "subcluster_name": "Mitochondrial Dysfunction and ROS-Induced Inflammaging Theory",
+          "reasoning": "Focuses on mitochondrial mutations, ROS, mtDNA release triggering inflammation and immunosenescence in inflammaging."
+        },
+        {
+          "theory_id": "T003565",
+          "subcluster_name": "Innate Immunity and Auto[innate]immunity-Driven Inflammaging Theory",
+          "reasoning": "Emphasizes innate immunity, macrophage activity, and genetic control of pro-inflammatory phenotype in neuroinflammation."
+        },
+        {
+          "theory_id": "T003378",
+          "subcluster_name": "Stem Cell Niche Cytokine Network Breakdown Inflammaging Theory",
+          "reasoning": "Describes inflammaging as cytokine network breakdown in stem cell niches with DNA damage and macrophage amplification."
+        },
+        {
+          "theory_id": "T004015",
+          "subcluster_name": "Systemic Cytokine-Driven Inflammaging as Fundamental Aging Driver Theory",
+          "reasoning": "Focuses on chronic low-grade inflammation as a driver of aging influenced by environment and immunobiography."
+        },
+        {
+          "theory_id": "T002728",
+          "subcluster_name": "Innate Immunity and Auto[innate]immunity-Driven Inflammaging Theory",
+          "reasoning": "Highlights innate immune system lifelong activation, genetic influences, and evolutionary trade-offs in inflammaging."
+        },
+        {
+          "theory_id": "T003025",
+          "subcluster_name": "Mitochondrial Dysfunction and ROS-Induced Inflammaging Theory",
+          "reasoning": "Links inflammaging to mitochondrial dysfunction, oxidative stress, and autophagic impairment driving aging."
+        },
+        {
+          "theory_id": "T001757",
+          "subcluster_name": "Monocyte-Driven Intestinal Barrier Dysfunction Inflammaging Theory",
+          "reasoning": "Proposes inflammaging driven by monocyte remodeling causes intestinal barrier dysfunction, with sex-specific effects."
+        },
+        {
+          "theory_id": "T002135",
+          "subcluster_name": "Systemic Cytokine-Driven Inflammaging as Fundamental Aging Driver Theory",
+          "reasoning": "Describes inflammaging as chronic systemic inflammation linked to immunosenescence, senescence, and multiple diseases."
+        },
+        {
+          "theory_id": "T003344",
+          "subcluster_name": "Innate Immunity and Auto[innate]immunity-Driven Inflammaging Theory",
+          "reasoning": "Focuses on TLR signaling, innate immune cell activation, and senescence-associated secretory phenotype in inflammaging."
+        },
+        {
+          "theory_id": "T003095",
+          "subcluster_name": "Innate Immunity and Auto[innate]immunity-Driven Inflammaging Theory",
+          "reasoning": "Emphasizes dysregulated innate and adaptive immunity, neuroinflammation, and immune dysfunction in inflammaging."
+        },
+        {
+          "theory_id": "T003650",
+          "subcluster_name": "Inflammation-Driven Aging and Cancer Inflammaging Theory",
+          "reasoning": "Links chronic inflammation to aging and cancer development, highlighting genetic selection and longevity balance."
+        },
+        {
+          "theory_id": "T004176",
+          "subcluster_name": "Systemic Cytokine-Driven Inflammaging as Fundamental Aging Driver Theory",
+          "reasoning": "Describes inflammaging as systemic inflammation from multiple tissues, involving senescence, DNA damage, and ROS."
+        },
+        {
+          "theory_id": "T001308",
+          "subcluster_name": "Microglial Senescence and Glymphatic Clearance Inflammaging Theory",
+          "reasoning": "Focuses on brain waste clearance failure, microglial senescence, SASP, and propagation of inflammaging in CNS."
+        },
+        {
+          "theory_id": "T001501",
+          "subcluster_name": "Inflammation-Driven Aging and Cancer Inflammaging Theory",
+          "reasoning": "Describes systemic and local inflammaging driving cancer via NF-\u03baB, ROS, SASP, and DNA damage pathways."
+        },
+        {
+          "theory_id": "T002318",
+          "subcluster_name": "Gut Microbiota Dysbiosis and DNA Repair Decline Inflammaging Theory",
+          "reasoning": "Links gut microbiota changes to systemic inflammation that impairs DNA damage repair, driving inflammaging."
+        },
+        {
+          "theory_id": "T003008",
+          "subcluster_name": "Systemic Cytokine-Driven Inflammaging as Fundamental Aging Driver Theory",
+          "reasoning": "Focuses on chronic inflammation causing tissue damage, linked with senescence and oxidative stress in aging."
+        },
+        {
+          "theory_id": "T004254",
+          "subcluster_name": "Systemic Cytokine-Driven Inflammaging as Fundamental Aging Driver Theory",
+          "reasoning": "Describes inflammaging as multifactorial systemic inflammation involving senescence, mitochondrial dysfunction, and microbiota."
+        },
+        {
+          "theory_id": "T001852",
+          "subcluster_name": "Innate Immunity and Auto[innate]immunity-Driven Inflammaging Theory",
+          "reasoning": "Frames inflammaging as adaptive immune response involving macrophages, immunobiography, and network homeostasis."
+        },
+        {
+          "theory_id": "T001947",
+          "subcluster_name": "Innate Immunity and Auto[innate]immunity-Driven Inflammaging Theory",
+          "reasoning": "Emphasizes immune remodeling, innate and adaptive immunity, antigenic load, and genetic/environmental factors in inflammaging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:27:35"
+}

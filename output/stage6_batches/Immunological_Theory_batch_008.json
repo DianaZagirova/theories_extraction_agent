@@ -1,0 +1,204 @@
+{
+  "cluster_name": "Immunological Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Immunosenescence and Inflammaging Theory",
+        "theory_ids": [
+          "T027062",
+          "T027197",
+          "T027235",
+          "T026128",
+          "T026205",
+          "T027171",
+          "T027255",
+          "T026259",
+          "T025972",
+          "T027237",
+          "T027523"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Epigenetic Regulation of Inflammaging Theory",
+        "theory_ids": [
+          "T021838",
+          "T008115",
+          "T017835"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Exercise-Mediated Immunosenescence Modulation Theory",
+        "theory_ids": [
+          "T023026",
+          "T020978"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Immunosenescence as a Causal Driver of Systemic Aging Theory",
+        "theory_ids": [
+          "T007373",
+          "T027433",
+          "T022773"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Autoimmunity-Associated Immunosenescence Theory",
+        "theory_ids": [
+          "T027245",
+          "T018323"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Thymic Involution and Immune Aging Theory",
+        "theory_ids": [
+          "T022791",
+          "T026862"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027062",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "This theory focuses on immune system aging (immunosenescence) and chronic low-grade inflammation (inflammaging) as central drivers of aging."
+        },
+        {
+          "theory_id": "T027197",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Describes immunosenescence and inflammaging as interconnected mechanisms driving systemic aging and reduced vaccine efficacy."
+        },
+        {
+          "theory_id": "T027235",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Explicitly links immunosenescence and inflammaging as joint contributors to aging and age-related diseases."
+        },
+        {
+          "theory_id": "T026128",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Focuses on immune aging, inflammaging, and metabolic dysregulation in immune cells as aging mechanisms."
+        },
+        {
+          "theory_id": "T026205",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Describes immune compositional changes, inflammaging, and tertiary lymphoid structures as hallmarks of immune aging."
+        },
+        {
+          "theory_id": "T027171",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Focuses on immunosenescence and inflammaging, including hyperinflammatory responses in COVID-19 as aging mechanisms."
+        },
+        {
+          "theory_id": "T027255",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Details age-related immune decline and inflammaging leading to increased infection and cancer risk."
+        },
+        {
+          "theory_id": "T026259",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Shows immunosenescence and inflammaging in a free-living animal model with links to oxidative stress."
+        },
+        {
+          "theory_id": "T025972",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Connects immunosenescence-driven chronic inflammation to systemic dysfunction and fatigue."
+        },
+        {
+          "theory_id": "T027237",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Links immunosenescence and inflammaging to lung diseases and systemic aging."
+        },
+        {
+          "theory_id": "T027523",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Describes immunosenescence and inflammaging as convergent pathways in neurodegeneration."
+        },
+        {
+          "theory_id": "T021838",
+          "subcluster_name": "Epigenetic Regulation of Inflammaging Theory",
+          "reasoning": "Focuses on Rcor2 epigenetic regulation of inflammatory gene expression driving inflammaging, a specific mechanistic angle within inflammaging."
+        },
+        {
+          "theory_id": "T008115",
+          "subcluster_name": "Epigenetic Regulation of Inflammaging Theory",
+          "reasoning": "Links chronic inflammation and immune-mediated oxidative stress to accelerated aging, fitting with inflammation-driven aging."
+        },
+        {
+          "theory_id": "T017835",
+          "subcluster_name": "Epigenetic Regulation of Inflammaging Theory",
+          "reasoning": "Focuses on cytokine gene polymorphisms regulating immune balance and inflammation influencing aging and longevity."
+        },
+        {
+          "theory_id": "T023026",
+          "subcluster_name": "Exercise-Mediated Immunosenescence Modulation Theory",
+          "reasoning": "Describes how exercise improves immune function, delays immunosenescence, and reduces inflammaging."
+        },
+        {
+          "theory_id": "T020978",
+          "subcluster_name": "Exercise-Mediated Immunosenescence Modulation Theory",
+          "reasoning": "Details exercise-induced removal of senescent T cells, thymic stimulation, and anti-inflammatory effects countering immunosenescence."
+        },
+        {
+          "theory_id": "T007373",
+          "subcluster_name": "Immunosenescence as a Causal Driver of Systemic Aging Theory",
+          "reasoning": "Proposes immune competence decline as a causal driver of systemic aging, including lymphoid organ aging and sex differences."
+        },
+        {
+          "theory_id": "T027433",
+          "subcluster_name": "Immunosenescence as a Causal Driver of Systemic Aging Theory",
+          "reasoning": "Shows immunosenescence causing systemic aging and organ-specific degeneration, with immune rejuvenation preventing age-related hearing loss."
+        },
+        {
+          "theory_id": "T022773",
+          "subcluster_name": "Immunosenescence as a Causal Driver of Systemic Aging Theory",
+          "reasoning": "Positions immunosenescence as a master regulator of systemic aging, linking oxidative damage, mitochondrial dysfunction, and nutrition."
+        },
+        {
+          "theory_id": "T027245",
+          "subcluster_name": "Autoimmunity-Associated Immunosenescence Theory",
+          "reasoning": "Focuses on immunosenescence in autoimmune diseases, including senescent immune cells, SASP, mitochondrial dysfunction, and bidirectional disease interactions."
+        },
+        {
+          "theory_id": "T018323",
+          "subcluster_name": "Autoimmunity-Associated Immunosenescence Theory",
+          "reasoning": "Describes immune remodeling with age, increased autoantibody production, and autoimmune manifestations contributing to aging."
+        },
+        {
+          "theory_id": "T022791",
+          "subcluster_name": "Thymic Involution and Immune Aging Theory",
+          "reasoning": "Focuses on chronic perdurated thymic involution post-puberty causing immune decline and systemic aging."
+        },
+        {
+          "theory_id": "T026862",
+          "subcluster_name": "Thymic Involution and Immune Aging Theory",
+          "reasoning": "Describes genetically programmed thymic involution and endocrine regulation leading to immune decline and age-related diseases."
+        },
+        {
+          "theory_id": "T004419",
+          "subcluster_name": "Infection-Driven Premature Immunological Aging Theory",
+          "reasoning": "Focuses on recurrent childhood infections causing premature immunosenescence, thymic atrophy, and immune dysregulation."
+        },
+        {
+          "theory_id": "T004104",
+          "subcluster_name": "Neo-Antigen Immune Response Aging Theory",
+          "reasoning": "Describes immune responses to somatic mutation-generated neo-antigens causing tissue damage and contributing to aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:15:53"
+}

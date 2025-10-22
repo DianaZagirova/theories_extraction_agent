@@ -1,0 +1,217 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 20,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Evolutionary Theory of Reproductive Senescence and Sexual Selection",
+        "theory_ids": [
+          "T023194",
+          "T022966",
+          "T023128",
+          "T021058",
+          "T017038",
+          "T022217",
+          "T019647",
+          "T017326"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Evolutionary Decline of Natural Selection and Antagonistic Pleiotropy",
+        "theory_ids": [
+          "T022326",
+          "T021371",
+          "T021071",
+          "T020693",
+          "T022206",
+          "T019841",
+          "T022930",
+          "T022037",
+          "T019725"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Genetic Architecture and Insulin/IGF-1 Signaling in Aging",
+        "theory_ids": [
+          "T020207",
+          "T021828",
+          "T019129",
+          "T022451",
+          "T020373",
+          "T019947"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Antagonistic Regulation of Autophagy and Cellular Maintenance",
+        "theory_ids": [
+          "T019497",
+          "T022820"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Evolutionary Trade-offs in Social and Cognitive Traits Affecting Aging",
+        "theory_ids": [
+          "T016878",
+          "T022975",
+          "T022962"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T023194",
+          "subcluster_name": "Evolutionary Theory of Reproductive Senescence and Sexual Selection",
+          "reasoning": "Focuses on reproductive senescence, sex differences in reproductive aging, and sexual selection effects on lifespan and fitness."
+        },
+        {
+          "theory_id": "T022966",
+          "subcluster_name": "Evolutionary Theory of Reproductive Senescence and Sexual Selection",
+          "reasoning": "Describes male-driven sexual selection and sexually antagonistic coevolution affecting lifespan and fitness trade-offs between sexes."
+        },
+        {
+          "theory_id": "T023128",
+          "subcluster_name": "Evolutionary Theory of Reproductive Senescence and Sexual Selection",
+          "reasoning": "Analyzes sex-specific mortality and aging shaped by sexual selection and environmental interactions influencing lifespan differences."
+        },
+        {
+          "theory_id": "T021058",
+          "subcluster_name": "Evolutionary Theory of Reproductive Senescence and Sexual Selection",
+          "reasoning": "Explains caste-based lifespan plasticity and extrinsic mortality effects on aging in social insects, linking reproduction and lifespan."
+        },
+        {
+          "theory_id": "T017038",
+          "subcluster_name": "Evolutionary Theory of Reproductive Senescence and Sexual Selection",
+          "reasoning": "Evo-Devo life-course theory linking reproductive strategy, development, and longevity through internal and external environmental cues."
+        },
+        {
+          "theory_id": "T022217",
+          "subcluster_name": "Evolutionary Theory of Reproductive Senescence and Sexual Selection",
+          "reasoning": "Shows genetic selection for postponed reproduction increases lifespan and stress resistance, linking reproduction timing to aging."
+        },
+        {
+          "theory_id": "T019647",
+          "subcluster_name": "Evolutionary Theory of Reproductive Senescence and Sexual Selection",
+          "reasoning": "Describes trade-offs between early development/reproduction and late-life aging, highlighting somatotropic axis regulation."
+        },
+        {
+          "theory_id": "T017326",
+          "subcluster_name": "Evolutionary Theory of Reproductive Senescence and Sexual Selection",
+          "reasoning": "Focuses on pleiotropic genes affecting bone loss as a trade-off between reproduction and late-life skeletal maintenance."
+        },
+        {
+          "theory_id": "T022326",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Antagonistic Pleiotropy",
+          "reasoning": "Covers decline in natural selection force with age, antagonistic pleiotropy, mutation accumulation, and longevity assurance genes."
+        },
+        {
+          "theory_id": "T021371",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Antagonistic Pleiotropy",
+          "reasoning": "Focuses on Hamilton's forces decline with age, experimental evolution delaying aging, and evolutionary novelty effects on aging."
+        },
+        {
+          "theory_id": "T021071",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Antagonistic Pleiotropy",
+          "reasoning": "Describes trade-offs between early-life fitness and late-life decline, relaxed selection after reproduction, and evolutionary basis of aging."
+        },
+        {
+          "theory_id": "T020693",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Antagonistic Pleiotropy",
+          "reasoning": "Explores late-life detrimental allele effects, trade-offs between longevity and early-life traits, and weakening natural selection with age."
+        },
+        {
+          "theory_id": "T022206",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Antagonistic Pleiotropy",
+          "reasoning": "Gerontogene theory describing genes causing senescence via antagonistic pleiotropy and mutation accumulation under declining selection."
+        },
+        {
+          "theory_id": "T019841",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Antagonistic Pleiotropy",
+          "reasoning": "Models age-dependent gene effects and pleiotropy explaining persistence of aging-related alleles through natural selection."
+        },
+        {
+          "theory_id": "T022930",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Antagonistic Pleiotropy",
+          "reasoning": "Discusses pleiotropy and antagonistic pleiotropy as evolutionary mechanisms causing trade-offs among traits including aging."
+        },
+        {
+          "theory_id": "T022037",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Antagonistic Pleiotropy",
+          "reasoning": "Focuses on pleiotropic gene action with beneficial early effects and deleterious late effects escaping natural selection."
+        },
+        {
+          "theory_id": "T019725",
+          "subcluster_name": "Evolutionary Decline of Natural Selection and Antagonistic Pleiotropy",
+          "reasoning": "Genetic control of aging with non-adaptive evolutionary basis due to declining natural selection and gene mutations affecting lifespan."
+        },
+        {
+          "theory_id": "T020207",
+          "subcluster_name": "Genetic Architecture and Insulin/IGF-1 Signaling in Aging",
+          "reasoning": "Focuses on genetic determinants of aging, pleiotropy of aging-related genes, and polygenic regulation including insulin/IGF-1 pathways."
+        },
+        {
+          "theory_id": "T021828",
+          "subcluster_name": "Genetic Architecture and Insulin/IGF-1 Signaling in Aging",
+          "reasoning": "Details age-1 gene in C. elegans regulating longevity via insulin/IGF-1 signaling pathway affecting mortality dynamics."
+        },
+        {
+          "theory_id": "T019129",
+          "subcluster_name": "Genetic Architecture and Insulin/IGF-1 Signaling in Aging",
+          "reasoning": "Describes CUL-1 E3 ligase complex regulating lifespan through modulation of insulin/IGF-1 signaling and DAF-16 activity."
+        },
+        {
+          "theory_id": "T022451",
+          "subcluster_name": "Genetic Architecture and Insulin/IGF-1 Signaling in Aging",
+          "reasoning": "Longevity genes modulate metabolic capacity and stress responses via multiple pathways including insulin/IGF-1 signaling."
+        },
+        {
+          "theory_id": "T020373",
+          "subcluster_name": "Genetic Architecture and Insulin/IGF-1 Signaling in Aging",
+          "reasoning": "AT1 receptor signaling exemplifies antagonistic pleiotropy with early-life benefits and late-life cardiovascular detriments."
+        },
+        {
+          "theory_id": "T019947",
+          "subcluster_name": "Genetic Architecture and Insulin/IGF-1 Signaling in Aging",
+          "reasoning": "IGF signaling dual role in promoting early growth and late-life aging, illustrating evolutionary trade-offs in aging."
+        },
+        {
+          "theory_id": "T019497",
+          "subcluster_name": "Antagonistic Regulation of Autophagy and Cellular Maintenance",
+          "reasoning": "Describes antagonistic roles of FUS3 and TOR1 kinases regulating autophagy, a key cellular maintenance process affecting aging."
+        },
+        {
+          "theory_id": "T022820",
+          "subcluster_name": "Antagonistic Regulation of Autophagy and Cellular Maintenance",
+          "reasoning": "Variable pathogenicity and insulin/IGF-1 signaling in C. elegans modulate stress responses and lifespan variability."
+        },
+        {
+          "theory_id": "T016878",
+          "subcluster_name": "Evolutionary Trade-offs in Social and Cognitive Traits Affecting Aging",
+          "reasoning": "Pleiotropic genes affecting social vocalization and cognition with age-dependent effects illustrating evolutionary trade-offs."
+        },
+        {
+          "theory_id": "T022975",
+          "subcluster_name": "Evolutionary Trade-offs in Social and Cognitive Traits Affecting Aging",
+          "reasoning": "Evolutionary theory of Alzheimer's disease modifiers linking reproductive status, neuroprotection, and extended post-reproductive lifespan."
+        },
+        {
+          "theory_id": "T022962",
+          "subcluster_name": "Evolutionary Trade-offs in Social and Cognitive Traits Affecting Aging",
+          "reasoning": "Evolutionary theory of cancer suppression addressing life-history trade-offs between cancer defenses and reproduction."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:57:07"
+}

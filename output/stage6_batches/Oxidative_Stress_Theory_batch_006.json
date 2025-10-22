@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+        "theory_ids": [
+          "T008366",
+          "T009421",
+          "T008557",
+          "T008634",
+          "T009397",
+          "T009184",
+          "T008744",
+          "T008249",
+          "T008112",
+          "T009051",
+          "T009405",
+          "T009490",
+          "T008562",
+          "T008423",
+          "T009167"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Neuro-Oxidative Stress and Cognitive Decline Theory",
+        "theory_ids": [
+          "T008525",
+          "T008988",
+          "T009386",
+          "T009038"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T008560",
+          "T009210",
+          "T008644",
+          "T008660",
+          "T008163"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Genetic Regulation of Antioxidant Defense Theory",
+        "theory_ids": [
+          "T008474",
+          "T009141"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T008366",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS production causing oxidative damage to mtDNA and mitochondrial function decline leading to aging."
+        },
+        {
+          "theory_id": "T009421",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Emphasizes mitochondrial ROS generation and imbalance with antioxidant defenses causing aging."
+        },
+        {
+          "theory_id": "T008557",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Highlights p66Shc mitochondrial redox enzyme producing ROS and its impact on lifespan and aging."
+        },
+        {
+          "theory_id": "T008634",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mtDNA damage by mitochondrial ROS causing bioenergetic decline and aging."
+        },
+        {
+          "theory_id": "T009397",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links mitochondrial ROS generation rates and cytochrome c oxidase activity to lifespan and aging."
+        },
+        {
+          "theory_id": "T009184",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes oxidative damage accumulation from mitochondrial ROS and its role in aging rate and patterns."
+        },
+        {
+          "theory_id": "T008744",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Connects metabolic rate, mitochondrial ROS production, antioxidant defenses, and longevity."
+        },
+        {
+          "theory_id": "T008249",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on ROS accumulation from oxidative phosphorylation and antioxidant defense modulation of aging."
+        },
+        {
+          "theory_id": "T008112",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Discusses ROS from metabolism causing oxidative damage and individual variation in antioxidant repair."
+        },
+        {
+          "theory_id": "T009051",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes ROS generation from metabolism, lipid oxidative damage accumulation, and dietary modulation."
+        },
+        {
+          "theory_id": "T009405",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "General oxidative damage from ROS imbalance and antioxidant protection influencing aging and diseases."
+        },
+        {
+          "theory_id": "T009490",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Emphasizes endogenous ROS damage and antioxidant defense correlation with lifespan in naked mole rat."
+        },
+        {
+          "theory_id": "T008562",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on oxidative damage to macromolecules by ROS and antioxidant enzyme roles in aging."
+        },
+        {
+          "theory_id": "T008423",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes age-related increase in ROS, decline in antioxidant defenses, and redox potential shift."
+        },
+        {
+          "theory_id": "T009167",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Details ROS generation as metabolic byproduct causing selective protein oxidation and brain aging."
+        },
+        {
+          "theory_id": "T008525",
+          "subcluster_name": "Neuro-Oxidative Stress and Cognitive Decline Theory",
+          "reasoning": "Focuses on oxidative damage accumulation in brain macromolecules causing cognitive impairment."
+        },
+        {
+          "theory_id": "T008988",
+          "subcluster_name": "Neuro-Oxidative Stress and Cognitive Decline Theory",
+          "reasoning": "Highlights brain susceptibility to ROS damage and antioxidant defense impact on brain aging."
+        },
+        {
+          "theory_id": "T009386",
+          "subcluster_name": "Neuro-Oxidative Stress and Cognitive Decline Theory",
+          "reasoning": "Describes oxidative stress in ovarian microenvironment causing oocyte aging and infertility."
+        },
+        {
+          "theory_id": "T009038",
+          "subcluster_name": "Neuro-Oxidative Stress and Cognitive Decline Theory",
+          "reasoning": "Links oxidative stress to increased astrocyte GFAP expression and brain aging processes."
+        },
+        {
+          "theory_id": "T008560",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on oxidative stress causing premature cellular senescence in chondrocytes leading to osteoarthritis."
+        },
+        {
+          "theory_id": "T009210",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes oxidative DNA damage accumulation triggering irreversible cellular senescence and aging."
+        },
+        {
+          "theory_id": "T008644",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Links oxidative stress to DNA repair inhibition and accumulation of DNA damage driving aging."
+        },
+        {
+          "theory_id": "T008660",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on oxidative DNA damage accumulation in tissues and caloric restriction reducing damage."
+        },
+        {
+          "theory_id": "T008163",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Proposes oxidative injury impairs oxygen uptake in liver cells causing metabolic decline with age."
+        },
+        {
+          "theory_id": "T008474",
+          "subcluster_name": "Genetic Regulation of Antioxidant Defense Theory",
+          "reasoning": "Emphasizes longevity determinant genes regulating antioxidant defenses and resistance to oxidative damage."
+        },
+        {
+          "theory_id": "T009141",
+          "subcluster_name": "Genetic Regulation of Antioxidant Defense Theory",
+          "reasoning": "Focuses on antioxidant defense systems modulating oxidative damage and aging complexity."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:27:24"
+}

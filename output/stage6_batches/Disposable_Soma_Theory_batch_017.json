@@ -1,0 +1,240 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 17,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+        "theory_ids": [
+          "T012851",
+          "T007962",
+          "T012216",
+          "T012547",
+          "T012564",
+          "T012460",
+          "T012504",
+          "T013047",
+          "T012337",
+          "T012431",
+          "T012082",
+          "T012285",
+          "T012476",
+          "T012934",
+          "T012104",
+          "T012420"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Classic Disposable Soma Theory of Somatic Maintenance Trade-offs",
+        "theory_ids": [
+          "T012546",
+          "T012652",
+          "T012221",
+          "T013183",
+          "T012374",
+          "T007825",
+          "T007498"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+        "theory_ids": [
+          "T012742",
+          "T012909",
+          "T013189",
+          "T012638",
+          "T012775"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Calorie Restriction and Nutrient Sensing Disposable Soma Theory",
+        "theory_ids": [
+          "T012764",
+          "T012986",
+          "T013235",
+          "T012978",
+          "T013279"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T012851",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Focuses on aging driven by dysregulation of reproductive hormones and cell cycle signaling, linking reproductive axis homeostasis to somatic maintenance trade-offs."
+        },
+        {
+          "theory_id": "T007962",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Centers on reproductive system aging as a biomarker and its coupling to organismal aging via hormonal and fertility changes."
+        },
+        {
+          "theory_id": "T012216",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Describes reproductive senescence including fertility and maternal-effect senescence, emphasizing reproductive aging's impact on somatic aging."
+        },
+        {
+          "theory_id": "T012547",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Highlights oxidative stress as a mediator of the cost of reproduction, linking reproductive effort to somatic damage accumulation."
+        },
+        {
+          "theory_id": "T012564",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Focuses on early-life reproductive effort trade-offs leading to accelerated somatic senescence and aging."
+        },
+        {
+          "theory_id": "T012460",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Emphasizes male reproductive effort trade-offs with somatic maintenance, linking reproductive investment to accelerated aging."
+        },
+        {
+          "theory_id": "T012504",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Describes soma as disposable supporting germline, with resource allocation favoring reproduction over somatic maintenance."
+        },
+        {
+          "theory_id": "T013047",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Focuses on trade-offs between soma and germ line, with genetic repression of germ line to favor somatic maintenance."
+        },
+        {
+          "theory_id": "T012337",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Explores trade-offs between reproduction and immune maintenance, linking reproductive investment to immunosenescence."
+        },
+        {
+          "theory_id": "T012431",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Connects reproductive investment to telomere shortening as an adaptive somatic maintenance trade-off."
+        },
+        {
+          "theory_id": "T012082",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Proposes programmed repression of stress responses at reproduction onset, linking reproduction to reduced somatic maintenance."
+        },
+        {
+          "theory_id": "T012285",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Classic resource allocation trade-off between reproduction and somatic maintenance explaining aging evolution."
+        },
+        {
+          "theory_id": "T012476",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Describes environmental modulation of resource allocation between reproduction and maintenance affecting aging."
+        },
+        {
+          "theory_id": "T012934",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Summarizes resource allocation trade-off as central to disposable soma aging."
+        },
+        {
+          "theory_id": "T012546",
+          "subcluster_name": "Classic Disposable Soma Theory of Somatic Maintenance Trade-offs",
+          "reasoning": "Foundational theory emphasizing resource allocation trade-offs between reproduction and somatic maintenance leading to damage accumulation."
+        },
+        {
+          "theory_id": "T012652",
+          "subcluster_name": "Classic Disposable Soma Theory of Somatic Maintenance Trade-offs",
+          "reasoning": "Focuses on evolutionary basis of aging via resource allocation and calorie restriction as adaptive somatic maintenance."
+        },
+        {
+          "theory_id": "T012221",
+          "subcluster_name": "Classic Disposable Soma Theory of Somatic Maintenance Trade-offs",
+          "reasoning": "Energetic trade-off model linking metabolic energy allocation between growth and maintenance to damage accumulation and aging."
+        },
+        {
+          "theory_id": "T013183",
+          "subcluster_name": "Classic Disposable Soma Theory of Somatic Maintenance Trade-offs",
+          "reasoning": "Emphasizes accumulation of protein damage and impaired degradation due to limited somatic maintenance."
+        },
+        {
+          "theory_id": "T012742",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Details conserved IIS pathway regulating lifespan via insulin receptor and FOXO transcription factors."
+        },
+        {
+          "theory_id": "T012909",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Shows IIS pathway modulation extends lifespan and stress resistance, highlighting genetic and pharmacological regulation."
+        },
+        {
+          "theory_id": "T013189",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Focuses on genetic regulation of lifespan via IIS and DAF-16/FOXO transcription factor interactions."
+        },
+        {
+          "theory_id": "T012638",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Demonstrates IIS pathway's role in stress resistance and longevity through downstream stress response genes."
+        },
+        {
+          "theory_id": "T012775",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Highlights evolutionary conservation of IIS pathway in aging and its integration with environmental signals."
+        },
+        {
+          "theory_id": "T012374",
+          "subcluster_name": "Classic Disposable Soma Theory of Somatic Maintenance Trade-offs",
+          "reasoning": "Describes energy allocation trade-offs with metabolic reprogramming and antioxidant defense upregulation in long-lived strains."
+        },
+        {
+          "theory_id": "T012764",
+          "subcluster_name": "Calorie Restriction and Nutrient Sensing Disposable Soma Theory",
+          "reasoning": "Focuses on calorie restriction extending lifespan by shifting resource allocation to somatic maintenance via nutrient sensing pathways."
+        },
+        {
+          "theory_id": "T012986",
+          "subcluster_name": "Calorie Restriction and Nutrient Sensing Disposable Soma Theory",
+          "reasoning": "Details molecular and cellular mechanisms of CR including modulation of mTOR, AMPK, and SIRT1 pathways."
+        },
+        {
+          "theory_id": "T013235",
+          "subcluster_name": "Calorie Restriction and Nutrient Sensing Disposable Soma Theory",
+          "reasoning": "Describes CR effects on metabolism, mitochondrial function, and inflammation contributing to slowed aging."
+        },
+        {
+          "theory_id": "T012978",
+          "subcluster_name": "Calorie Restriction and Nutrient Sensing Disposable Soma Theory",
+          "reasoning": "Explores systems biology of CR effects on molecular pathways and organ-specific aging processes."
+        },
+        {
+          "theory_id": "T013279",
+          "subcluster_name": "Calorie Restriction and Nutrient Sensing Disposable Soma Theory",
+          "reasoning": "Emphasizes evolutionary basis and metabolic/neuropsychiatric effects of CR consistent with disposable soma resource reallocation."
+        },
+        {
+          "theory_id": "T012104",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Links germline DNA damage to systemic somatic stress resistance, fitting within reproductive-somatic maintenance trade-offs."
+        },
+        {
+          "theory_id": "T007825",
+          "subcluster_name": "Classic Disposable Soma Theory of Somatic Maintenance Trade-offs",
+          "reasoning": "Describes ontogenetic resource redistribution from housekeeping to integrative genes causing reduced somatic repair and aging."
+        },
+        {
+          "theory_id": "T012420",
+          "subcluster_name": "Reproductive Hormone and Cell Cycle Disposable Soma Theory",
+          "reasoning": "Focuses on life-history trade-offs and terminal investment strategies linking reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T007498",
+          "subcluster_name": "Classic Disposable Soma Theory of Somatic Maintenance Trade-offs",
+          "reasoning": "Although cognitive aging focused, it involves resource depletion concept consistent with somatic maintenance trade-offs."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:06:35"
+}

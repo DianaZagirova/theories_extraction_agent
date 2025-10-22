@@ -1,0 +1,189 @@
+{
+  "cluster_name": "Programmed Longevity Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Programmed Longevity Theory",
+        "theory_ids": [
+          "T000275",
+          "T000281",
+          "T001300",
+          "T000782",
+          "T000279",
+          "T001187",
+          "T002232",
+          "T000029",
+          "T000236"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Sirtuin-Mediated Programmed Longevity Theory",
+        "theory_ids": [
+          "T000762",
+          "T001658",
+          "T000755"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Evolvability and Population-Level Programmed Longevity Theory",
+        "theory_ids": [
+          "T001140",
+          "T000684",
+          "T000709",
+          "T000339",
+          "T001667",
+          "T002088",
+          "T002268",
+          "T002118"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Mediated Programmed Longevity Theory",
+        "theory_ids": [
+          "T001384",
+          "T000484"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000275",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Programmed Longevity Theory",
+          "reasoning": "Focuses on genetic regulation of longevity via insulin/IGF-1 and mTOR nutrient-sensing pathways controlling metabolism and growth."
+        },
+        {
+          "theory_id": "T000281",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Programmed Longevity Theory",
+          "reasoning": "Describes IGF1-TXNIP axis mediating cellular senescence linked to IGF1 signaling, part of insulin/IGF-1 pathway effects on aging."
+        },
+        {
+          "theory_id": "T001300",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Programmed Longevity Theory",
+          "reasoning": "Details IGF-I signaling modulation as a key regulator of aging and longevity, fitting insulin/IGF-1 pathway mechanisms."
+        },
+        {
+          "theory_id": "T000782",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Programmed Longevity Theory",
+          "reasoning": "Focuses on IGF-1/PI3K/AKT/mTOR pathway in aging regulation and pharmacological modulation, part of insulin/IGF-1 and mTOR signaling."
+        },
+        {
+          "theory_id": "T000279",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Programmed Longevity Theory",
+          "reasoning": "Describes IGF signaling pathway as conserved regulator of lifespan, involving IGF1R and downstream effectors in aging."
+        },
+        {
+          "theory_id": "T001187",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Programmed Longevity Theory",
+          "reasoning": "Covers conserved genetic pathways including insulin/IGF-1 and TOR signaling pathways regulating longevity."
+        },
+        {
+          "theory_id": "T002232",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Programmed Longevity Theory",
+          "reasoning": "GH deficiency and longevity theory links reduced GH/IGF1 signaling to lifespan extension, fitting insulin/IGF-1 pathway theme."
+        },
+        {
+          "theory_id": "T000029",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Programmed Longevity Theory",
+          "reasoning": "General programmed aging theory highlighting genetic regulation including insulin/IGF pathway and endocrine involvement."
+        },
+        {
+          "theory_id": "T000762",
+          "subcluster_name": "Sirtuin-Mediated Programmed Longevity Theory",
+          "reasoning": "Focuses on dSir2 (a sirtuin) regulating lifespan in a diet-dependent manner, linking sirtuins to programmed longevity."
+        },
+        {
+          "theory_id": "T001658",
+          "subcluster_name": "Sirtuin-Mediated Programmed Longevity Theory",
+          "reasoning": "Describes sirtuins as NAD+-dependent enzymes mediating caloric restriction benefits and longevity."
+        },
+        {
+          "theory_id": "T000755",
+          "subcluster_name": "Sirtuin-Mediated Programmed Longevity Theory",
+          "reasoning": "TORC1 inhibition enhances Sir2 association with rDNA to promote lifespan extension, linking sirtuins and nutrient signaling."
+        },
+        {
+          "theory_id": "T000006",
+          "subcluster_name": "Telomere-Dependent Programmed Longevity Theory",
+          "reasoning": "Focuses on telomere shortening limiting cell replication and causing programmed decline in cell turnover."
+        },
+        {
+          "theory_id": "T000315",
+          "subcluster_name": "Growth-Limiting Genetic Programmed Longevity Theory",
+          "reasoning": "Describes juvenile growth deceleration genetic program persisting into adulthood, limiting proliferation and driving aging."
+        },
+        {
+          "theory_id": "T000713",
+          "subcluster_name": "Programmatic Aging Trajectory Genetic Longevity Theory",
+          "reasoning": "Proposes aging as a programmed genetic trajectory in gene expression space with attractor states."
+        },
+        {
+          "theory_id": "T001140",
+          "subcluster_name": "Evolvability and Population-Level Programmed Longevity Theory",
+          "reasoning": "Aging as programmed adaptation to enhance population turnover and evolvability via multilevel selection."
+        },
+        {
+          "theory_id": "T000684",
+          "subcluster_name": "Evolvability and Population-Level Programmed Longevity Theory",
+          "reasoning": "Views aging as an optional genetic program enhancing offspring evolvability and population adaptation."
+        },
+        {
+          "theory_id": "T000709",
+          "subcluster_name": "Evolvability and Population-Level Programmed Longevity Theory",
+          "reasoning": "Models aging as phenoptosis that saves populations from extinction by resource reallocation."
+        },
+        {
+          "theory_id": "T000339",
+          "subcluster_name": "Evolvability and Population-Level Programmed Longevity Theory",
+          "reasoning": "Phenoptosis theory describing programmed death as evolutionary adaptation with altruistic population benefits."
+        },
+        {
+          "theory_id": "T001667",
+          "subcluster_name": "Evolvability and Population-Level Programmed Longevity Theory",
+          "reasoning": "Programmed and altruistic aging in yeast promoting group survival and population adaptation."
+        },
+        {
+          "theory_id": "T002088",
+          "subcluster_name": "Evolvability and Population-Level Programmed Longevity Theory",
+          "reasoning": "Programmed lifespan in colonial protochordate with genetic control of synchronized mortality supporting population-level aging."
+        },
+        {
+          "theory_id": "T002268",
+          "subcluster_name": "Evolvability and Population-Level Programmed Longevity Theory",
+          "reasoning": "Genetically programmed aging in Botryllus schlosseri with heritable lifespan and nonrandom senescence."
+        },
+        {
+          "theory_id": "T002118",
+          "subcluster_name": "Evolvability and Population-Level Programmed Longevity Theory",
+          "reasoning": "Aging as an executable program beneficial for species evolvability and modulated by environmental signals."
+        },
+        {
+          "theory_id": "T001384",
+          "subcluster_name": "Mitochondrial ROS-Mediated Programmed Longevity Theory",
+          "reasoning": "Programmed aging driven by mitochondrial ROS generation triggering apoptosis and organismal aging."
+        },
+        {
+          "theory_id": "T000484",
+          "subcluster_name": "Mitochondrial ROS-Mediated Programmed Longevity Theory",
+          "reasoning": "Phenoptosis theory emphasizing mitochondria and ROS in programmed organismal death at multiple biological levels."
+        },
+        {
+          "theory_id": "T000236",
+          "subcluster_name": "Insulin/IGF-1 and mTOR Signaling Programmed Longevity Theory",
+          "reasoning": "Nutrient sensing pathways including TOR and JNK regulate aging, fitting with insulin/IGF-1 and mTOR signaling mechanisms."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:55:13"
+}

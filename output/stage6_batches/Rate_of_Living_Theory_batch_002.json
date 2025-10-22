@@ -1,0 +1,172 @@
+{
+  "cluster_name": "Rate of Living Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+        "theory_ids": [
+          "T011539",
+          "T006326",
+          "T011680",
+          "T008459",
+          "T009236",
+          "T008733",
+          "T011312",
+          "T011396",
+          "T008318",
+          "T010929",
+          "T008676",
+          "T008980",
+          "T008808",
+          "T009062",
+          "T009678",
+          "T008426"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Rate of Living Theory",
+        "theory_ids": [
+          "T011305",
+          "T009367"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Stress Resistance-Driven Rate of Living Theory",
+        "theory_ids": [
+          "T011585",
+          "T011604",
+          "T010583",
+          "T008777"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011539",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "This theory focuses on the invariant total number of respiration cycles per lifetime as a fundamental determinant of lifespan, linking metabolic rate and aging through respiration frequency."
+        },
+        {
+          "theory_id": "T006326",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "It proposes a fixed total number of respiration cycles across species as a biological timescale for lifespan, directly related to metabolic rate and energy consumption."
+        },
+        {
+          "theory_id": "T011680",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Emphasizes a fixed total energy expenditure over lifetime and inverse relationship between metabolic rate and lifespan, consistent with the respiration cycles concept."
+        },
+        {
+          "theory_id": "T008459",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Highlights constant total oxygen consumption over lifespan and temperature-dependent metabolic rate effects, supporting a fixed metabolic budget concept."
+        },
+        {
+          "theory_id": "T009236",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Focuses on aging as a consequence of total energy expenditure and metabolic rate determining lifespan, consistent with a fixed life energy budget."
+        },
+        {
+          "theory_id": "T008733",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Links metabolic rate inversely to longevity and total metabolic activity to lifespan, consistent with a fixed total metabolic budget."
+        },
+        {
+          "theory_id": "T011312",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Integrates rate of living principle with metabolic energy expenditure and lifespan, emphasizing total energy use as a lifespan determinant."
+        },
+        {
+          "theory_id": "T011396",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Combines rate of living and oxidative damage theories, but still centers on metabolic rate and total energy expenditure as key lifespan determinants."
+        },
+        {
+          "theory_id": "T008318",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Focuses on metabolic rate and caloric intake affecting aging rate, consistent with the concept of a fixed metabolic energy budget."
+        },
+        {
+          "theory_id": "T010929",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Posits basal metabolic rate as a driver of aging and lifespan, consistent with the idea of finite lifetime energy expenditure."
+        },
+        {
+          "theory_id": "T008676",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Shows inverse relationship between metabolic rate and lifespan across ecotypes, consistent with finite energy budget and metabolic rate effects."
+        },
+        {
+          "theory_id": "T008980",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Pearl\u2019s classical rate of living theory emphasizing inverse metabolic rate-longevity relationship and energy expenditure as aging driver."
+        },
+        {
+          "theory_id": "T008808",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Pearl\u2019s rate of living theory focusing on metabolic rate determining lifespan and cumulative metabolic damage."
+        },
+        {
+          "theory_id": "T009062",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Relates metabolic rate and temperature effects on lifespan, consistent with metabolic energy expenditure as aging determinant."
+        },
+        {
+          "theory_id": "T009678",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Links spontaneous locomotor activity (metabolic rate proxy) inversely to lifespan, consistent with cumulative metabolic damage and energy budget."
+        },
+        {
+          "theory_id": "T008426",
+          "subcluster_name": "Constant Respiration Cycles Rate of Living Theory",
+          "reasoning": "Shows inverse relationship between metabolic rate and lifespan mediated by ROS damage and constant lifetime energy potential."
+        },
+        {
+          "theory_id": "T011305",
+          "subcluster_name": "Mitochondrial ROS-Induced Rate of Living Theory",
+          "reasoning": "Focuses on mitochondrial oxidative phosphorylation producing ROS that cause oxidative stress and aging, linking metabolism to free radical damage."
+        },
+        {
+          "theory_id": "T009367",
+          "subcluster_name": "Mitochondrial ROS-Induced Rate of Living Theory",
+          "reasoning": "Emphasizes ROS production from metabolism causing molecular damage and aging, highlighting oxidative stress as causal mechanism."
+        },
+        {
+          "theory_id": "T011585",
+          "subcluster_name": "Stress Resistance-Driven Rate of Living Theory",
+          "reasoning": "Reformulates rate of living theory incorporating inherited stress resistance as primary driver of longevity."
+        },
+        {
+          "theory_id": "T011604",
+          "subcluster_name": "Stress Resistance-Driven Rate of Living Theory",
+          "reasoning": "Focuses on selection for stress resistance genes and metabolic efficiency under stress as determinants of lifespan."
+        },
+        {
+          "theory_id": "T010583",
+          "subcluster_name": "Stress Resistance-Driven Rate of Living Theory",
+          "reasoning": "Emphasizes stress targeting energy carriers and selection for stress resistance promoting longevity."
+        },
+        {
+          "theory_id": "T008777",
+          "subcluster_name": "Stress Resistance-Driven Rate of Living Theory",
+          "reasoning": "Models rate of aging as influenced by environmental factors including stress and resource availability affecting vitality."
+        },
+        {
+          "theory_id": "T007981",
+          "subcluster_name": "Stem Cell Replication Limit Rate of Living Theory",
+          "reasoning": "Focuses on finite stem cell replication capacity as a rate-limiting factor in aging, a distinct mechanistic extension of rate of living theory."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:47:40"
+}

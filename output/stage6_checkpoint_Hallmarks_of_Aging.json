@@ -1,0 +1,925 @@
+{
+  "cluster_name": "Hallmarks of Aging",
+  "batches_completed": 5,
+  "batch_results": [
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+          "theory_ids": [
+            "T006106",
+            "T004819",
+            "T006143",
+            "T000591",
+            "T001613",
+            "T005258",
+            "T004839",
+            "T005361",
+            "T006457",
+            "T004259"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 10
+        },
+        {
+          "subcluster_name": "Deregulated Nutrient Sensing and Mitochondrial Dysfunction Hallmarks",
+          "theory_ids": [
+            "T005284",
+            "T005699",
+            "T005352",
+            "T005362",
+            "T005336",
+            "T006434",
+            "T005349",
+            "T006415",
+            "T006125"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 9
+        },
+        {
+          "subcluster_name": "Integrative and Systemic Hallmarks Including Inflammation and Stem Cell Exhaustion",
+          "theory_ids": [
+            "T000171",
+            "T006483",
+            "T000841",
+            "T000857",
+            "T003903"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 5
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T006106",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as primary molecular damage driving aging."
+          },
+          {
+            "theory_id": "T004819",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Emphasizes genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as core aging mechanisms."
+          },
+          {
+            "theory_id": "T006143",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Describes genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as fundamental aging causes."
+          },
+          {
+            "theory_id": "T000591",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Details genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as primary hallmarks initiating aging."
+          },
+          {
+            "theory_id": "T001613",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as key aging drivers."
+          },
+          {
+            "theory_id": "T005258",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Highlights genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as central aging mechanisms."
+          },
+          {
+            "theory_id": "T004839",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Emphasizes genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as core aging features."
+          },
+          {
+            "theory_id": "T005361",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as fundamental aging processes."
+          },
+          {
+            "theory_id": "T006457",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Describes genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as primary aging hallmarks."
+          },
+          {
+            "theory_id": "T004259",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Details genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as key aging mechanisms."
+          },
+          {
+            "theory_id": "T005284",
+            "subcluster_name": "Deregulated Nutrient Sensing and Mitochondrial Dysfunction Hallmarks",
+            "reasoning": "Focuses on deregulated nutrient sensing and macromolecular damage alongside genomic instability and epigenetic alterations, emphasizing metabolic and mitochondrial contributions."
+          },
+          {
+            "theory_id": "T005699",
+            "subcluster_name": "Deregulated Nutrient Sensing and Mitochondrial Dysfunction Hallmarks",
+            "reasoning": "Includes mitochondrial dysfunction and deregulated nutrient sensing as key hallmarks alongside genomic instability and loss of proteostasis."
+          },
+          {
+            "theory_id": "T005352",
+            "subcluster_name": "Deregulated Nutrient Sensing and Mitochondrial Dysfunction Hallmarks",
+            "reasoning": "Highlights mitochondrial dysfunction and epigenetic alterations with genomic instability and telomere attrition, focusing on energy metabolism and nutrient sensing."
+          },
+          {
+            "theory_id": "T005362",
+            "subcluster_name": "Deregulated Nutrient Sensing and Mitochondrial Dysfunction Hallmarks",
+            "reasoning": "Describes primary hallmarks including mitochondrial dysfunction and deregulated nutrient sensing, plus cellular senescence as antagonistic hallmarks."
+          },
+          {
+            "theory_id": "T005336",
+            "subcluster_name": "Deregulated Nutrient Sensing and Mitochondrial Dysfunction Hallmarks",
+            "reasoning": "Includes deregulated nutrient sensing, altered mitochondrial function, and cellular senescence as antagonistic hallmarks responding to primary damage."
+          },
+          {
+            "theory_id": "T006434",
+            "subcluster_name": "Deregulated Nutrient Sensing and Mitochondrial Dysfunction Hallmarks",
+            "reasoning": "Separates primary hallmarks (genomic instability, telomere attrition) from antagonistic hallmarks including mitochondrial dysfunction and deregulated nutrient sensing."
+          },
+          {
+            "theory_id": "T005349",
+            "subcluster_name": "Deregulated Nutrient Sensing and Mitochondrial Dysfunction Hallmarks",
+            "reasoning": "Describes antagonistic hallmarks such as deregulated nutrient sensing, mitochondrial dysfunction, and cellular senescence alongside primary damage."
+          },
+          {
+            "theory_id": "T006415",
+            "subcluster_name": "Deregulated Nutrient Sensing and Mitochondrial Dysfunction Hallmarks",
+            "reasoning": "Includes primary hallmarks and antagonistic hallmarks like deregulated nutrient sensing and mitochondrial dysfunction, emphasizing their interdependence."
+          },
+          {
+            "theory_id": "T006125",
+            "subcluster_name": "Deregulated Nutrient Sensing and Mitochondrial Dysfunction Hallmarks",
+            "reasoning": "Lists antagonistic hallmarks including dysregulated nutrient sensing, mitochondrial dysfunction, and cellular senescence as key aging mechanisms."
+          },
+          {
+            "theory_id": "T000171",
+            "subcluster_name": "Integrative and Systemic Hallmarks Including Inflammation and Stem Cell Exhaustion",
+            "reasoning": "Expands hallmarks to include immune dysfunction, stem cell exhaustion, altered intercellular communication, and impaired water homeostasis, reflecting systemic aging."
+          },
+          {
+            "theory_id": "T006483",
+            "subcluster_name": "Integrative and Systemic Hallmarks Including Inflammation and Stem Cell Exhaustion",
+            "reasoning": "Includes chronic low-grade inflammation alongside genomic instability, telomere attrition, and loss of proteostasis, emphasizing systemic aging effects."
+          },
+          {
+            "theory_id": "T000841",
+            "subcluster_name": "Integrative and Systemic Hallmarks Including Inflammation and Stem Cell Exhaustion",
+            "reasoning": "Describes integrative hallmarks such as stem cell exhaustion, altered intercellular communication, and disabled macroautophagy as systemic aging manifestations."
+          },
+          {
+            "theory_id": "T000857",
+            "subcluster_name": "Integrative and Systemic Hallmarks Including Inflammation and Stem Cell Exhaustion",
+            "reasoning": "Focuses on cellular senescence, chronic inflammation, stem cell dysfunction, and protein aggregation as interconnected systemic aging processes."
+          },
+          {
+            "theory_id": "T003903",
+            "subcluster_name": "Integrative and Systemic Hallmarks Including Inflammation and Stem Cell Exhaustion",
+            "reasoning": "Presents a sequential and causative model emphasizing interplay of multiple hallmarks including integrative systemic effects like stem cell exhaustion."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+          "theory_ids": [
+            "T006623",
+            "T009892",
+            "T007463",
+            "T009819",
+            "T010002",
+            "T009900",
+            "T010040",
+            "T006735",
+            "T009914",
+            "T007848",
+            "T008943",
+            "T009867",
+            "T010069",
+            "T005320"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 14
+        },
+        {
+          "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+          "theory_ids": [
+            "T010023",
+            "T009944",
+            "T009960",
+            "T009946",
+            "T006692"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 5
+        },
+        {
+          "subcluster_name": "Stem Cell Exhaustion and Inflammation Hallmarks",
+          "theory_ids": [
+            "T009884",
+            "T010036",
+            "T009870",
+            "T009837",
+            "T009971",
+            "T009889"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 6
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T006623",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "This theory emphasizes fundamental molecular damages including genomic instability, telomere attrition, and epigenetic alterations as primary drivers of aging."
+          },
+          {
+            "theory_id": "T009892",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Focuses on primary causes like genomic instability and epigenetic changes as central to aging mechanisms."
+          },
+          {
+            "theory_id": "T007463",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Highlights primary hallmarks such as genomic instability, telomere attrition, and epigenetic alterations as fundamental cellular damages."
+          },
+          {
+            "theory_id": "T009819",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Describes primary hallmarks including genomic instability, telomere attrition, and epigenetic alterations as root causes of aging."
+          },
+          {
+            "theory_id": "T010002",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Focuses on genomic instability, epigenetic alterations, and telomere attrition as key aging drivers linked to cancer."
+          },
+          {
+            "theory_id": "T009900",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Emphasizes genomic instability, telomere attrition, and epigenetic alterations as central aging mechanisms."
+          },
+          {
+            "theory_id": "T010040",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Highlights primary hallmarks including genomic instability, telomere attrition, and epigenetic alterations as molecular damage drivers."
+          },
+          {
+            "theory_id": "T010023",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Focuses on mitochondrial dysfunction, dysregulated nutrient sensing, and cellular senescence as key aging mechanisms in liver."
+          },
+          {
+            "theory_id": "T006735",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Describes primary hallmarks including genomic instability, telomere attrition, and epigenetic alterations as initial molecular damage."
+          },
+          {
+            "theory_id": "T009884",
+            "subcluster_name": "Stem Cell Exhaustion and Inflammation Hallmarks",
+            "reasoning": "Emphasizes stem cell decline, inflammaging, and metabolic dysfunction as integrative hallmarks driving aging."
+          },
+          {
+            "theory_id": "T009914",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Includes classic hallmarks such as genomic instability, epigenetic shift, and telomere attrition as fundamental aging processes."
+          },
+          {
+            "theory_id": "T010036",
+            "subcluster_name": "Stem Cell Exhaustion and Inflammation Hallmarks",
+            "reasoning": "Focuses on integrative hallmarks like chronic inflammation, stem cell exhaustion, and dysbiosis driving systemic aging."
+          },
+          {
+            "theory_id": "T007848",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Highlights genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as lung aging drivers."
+          },
+          {
+            "theory_id": "T009944",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Positions mitochondrial dysfunction as a central integrator linking multiple hallmarks in aging networks."
+          },
+          {
+            "theory_id": "T009960",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Focuses on mitochondrial dysfunction, inflammation, and immunosenescence as key aging mechanisms affecting immune response."
+          },
+          {
+            "theory_id": "T008943",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Emphasizes genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis in aging."
+          },
+          {
+            "theory_id": "T009946",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Highlights deregulated nutrient sensing and mitochondrial dysfunction alongside genomic instability and epigenetic alterations."
+          },
+          {
+            "theory_id": "T009867",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Focuses on nine biochemical pathways including genomic instability and epigenetic alterations as core aging hallmarks."
+          },
+          {
+            "theory_id": "T010069",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Emphasizes genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as aging drivers."
+          },
+          {
+            "theory_id": "T006692",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Focuses on deregulated nutrient sensing and mitochondrial dysfunction as key mechanisms linking obesity and aging."
+          },
+          {
+            "theory_id": "T009870",
+            "subcluster_name": "Stem Cell Exhaustion and Inflammation Hallmarks",
+            "reasoning": "Includes chronic inflammation, cellular senescence, stem cell exhaustion, and dysbiosis as expanded hallmarks driving aging."
+          },
+          {
+            "theory_id": "T009837",
+            "subcluster_name": "Stem Cell Exhaustion and Inflammation Hallmarks",
+            "reasoning": "Highlights integrative hallmarks such as chronic inflammation, stem cell exhaustion, and disabled macroautophagy."
+          },
+          {
+            "theory_id": "T009971",
+            "subcluster_name": "Stem Cell Exhaustion and Inflammation Hallmarks",
+            "reasoning": "Focuses on stem cell exhaustion, inflammation, and altered signaling pathways impairing regenerative capacity."
+          },
+          {
+            "theory_id": "T009889",
+            "subcluster_name": "Stem Cell Exhaustion and Inflammation Hallmarks",
+            "reasoning": "Emphasizes inflammaging, cellular senescence, mitochondrial dysfunction, and microbiome disturbances affecting immune aging."
+          },
+          {
+            "theory_id": "T005320",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis in muscle aging."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+          "theory_ids": [
+            "T010201",
+            "T011621",
+            "T010148",
+            "T011806",
+            "T011592",
+            "T011080",
+            "T010133",
+            "T010996",
+            "T012653",
+            "T010224",
+            "T010595",
+            "T011639"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 12
+        },
+        {
+          "subcluster_name": "Cellular Senescence, Mitochondrial Dysfunction, and Inflammation Hallmarks",
+          "theory_ids": [
+            "T011610",
+            "T010468",
+            "T011687",
+            "T010848",
+            "T011306",
+            "T010741",
+            "T010669",
+            "T009923"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "Integrated Hallmarks of Aging: Primary, Antagonistic, and Integrative",
+          "theory_ids": [
+            "T010212",
+            "T012130",
+            "T010492",
+            "T010754",
+            "T010341"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 5
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T010201",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "This theory emphasizes genomic instability and epigenetic alterations as core aging mechanisms, fitting well with other theories focusing on DNA damage and epigenetic changes."
+          },
+          {
+            "theory_id": "T011621",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis, aligning with DNA damage and epigenetic mechanisms."
+          },
+          {
+            "theory_id": "T010148",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Highlights shared molecular hallmarks including genomic instability and epigenetic alterations linking aging and cancer."
+          },
+          {
+            "theory_id": "T011806",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Emphasizes genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as primary aging drivers."
+          },
+          {
+            "theory_id": "T011592",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere attrition, epigenetic alterations, and proteostasis loss as fundamental aging mechanisms."
+          },
+          {
+            "theory_id": "T011080",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Describes genomic instability, telomere attrition, epigenetic alterations, and proteostasis loss as key hallmarks."
+          },
+          {
+            "theory_id": "T010133",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere attrition, epigenetic alterations, and proteostasis loss in skin aging."
+          },
+          {
+            "theory_id": "T010996",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Details genomic instability, epigenetic alterations, proteostasis loss, and nutrient sensing deregulation in yeast aging."
+          },
+          {
+            "theory_id": "T012653",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere attrition, epigenetic alterations, and proteostasis loss in premature lung aging."
+          },
+          {
+            "theory_id": "T010224",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Emphasizes genomic instability, telomere attrition, epigenetic alterations, and proteostasis loss in macrophage aging and inflammaging."
+          },
+          {
+            "theory_id": "T010595",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere shortening, epigenetic drift, and proteostasis loss in hematopoietic stem cell aging."
+          },
+          {
+            "theory_id": "T011639",
+            "subcluster_name": "Genomic Instability and Epigenetic Alterations Hallmarks",
+            "reasoning": "Describes genomic instability, epigenetic alterations, telomere attrition, proteostasis loss, and mitochondrial dysfunction in zebrafish nervous system aging."
+          },
+          {
+            "theory_id": "T011610",
+            "subcluster_name": "Cellular Senescence, Mitochondrial Dysfunction, and Inflammation Hallmarks",
+            "reasoning": "Focuses on cellular senescence, mitochondrial dysfunction, chronic inflammation, and related hallmarks in microglia aging."
+          },
+          {
+            "theory_id": "T010468",
+            "subcluster_name": "Cellular Senescence, Mitochondrial Dysfunction, and Inflammation Hallmarks",
+            "reasoning": "Describes nine interconnected hallmarks including mitochondrial dysfunction, cellular senescence, and altered intercellular communication."
+          },
+          {
+            "theory_id": "T011687",
+            "subcluster_name": "Cellular Senescence, Mitochondrial Dysfunction, and Inflammation Hallmarks",
+            "reasoning": "Focuses on nine hallmarks including mitochondrial dysfunction, cellular senescence, and inflammation in chronic disease premature aging."
+          },
+          {
+            "theory_id": "T010848",
+            "subcluster_name": "Cellular Senescence, Mitochondrial Dysfunction, and Inflammation Hallmarks",
+            "reasoning": "Emphasizes inflammation, immunosenescence, mitochondrial dysfunction, telomere attrition, and autophagy dysfunction in COVID-19 severity."
+          },
+          {
+            "theory_id": "T011306",
+            "subcluster_name": "Cellular Senescence, Mitochondrial Dysfunction, and Inflammation Hallmarks",
+            "reasoning": "Focuses on telomere attrition, mitochondrial dysfunction, cellular senescence, and SASP in idiopathic pulmonary fibrosis."
+          },
+          {
+            "theory_id": "T010741",
+            "subcluster_name": "Cellular Senescence, Mitochondrial Dysfunction, and Inflammation Hallmarks",
+            "reasoning": "Describes genomic instability, telomere attrition, epigenetic alterations, and proteostasis loss contributing to lung fibrosis and aging."
+          },
+          {
+            "theory_id": "T010669",
+            "subcluster_name": "Cellular Senescence, Mitochondrial Dysfunction, and Inflammation Hallmarks",
+            "reasoning": "Focuses on oxidative stress, mitochondrial dysfunction, cellular senescence, and inflammation in cardiovascular aging."
+          },
+          {
+            "theory_id": "T009923",
+            "subcluster_name": "Cellular Senescence, Mitochondrial Dysfunction, and Inflammation Hallmarks",
+            "reasoning": "Emphasizes impaired proteostasis, mitochondrial dysfunction, and deregulated nutrient sensing in cardiac aging and heart failure."
+          },
+          {
+            "theory_id": "T010212",
+            "subcluster_name": "Integrated Hallmarks of Aging: Primary, Antagonistic, and Integrative",
+            "reasoning": "Describes primary hallmarks (genomic instability, telomere attrition, proteostasis loss), antagonistic hallmarks (senescence, mitochondrial dysfunction), and integrative hallmarks (stem cell exhaustion, inflammation), integrating multiple mechanisms."
+          },
+          {
+            "theory_id": "T012130",
+            "subcluster_name": "Integrated Hallmarks of Aging: Primary, Antagonistic, and Integrative",
+            "reasoning": "Defines primary, antagonistic, and integrative hallmarks with extensive crosstalk, covering genomic instability, mitochondrial dysfunction, senescence, stem cell exhaustion, and dysbiosis."
+          },
+          {
+            "theory_id": "T010492",
+            "subcluster_name": "Integrated Hallmarks of Aging: Primary, Antagonistic, and Integrative",
+            "reasoning": "Applies nine hallmarks including genomic instability, telomere attrition, mitochondrial dysfunction, senescence, and stem cell exhaustion to Huntington's disease pathogenesis."
+          },
+          {
+            "theory_id": "T010754",
+            "subcluster_name": "Integrated Hallmarks of Aging: Primary, Antagonistic, and Integrative",
+            "reasoning": "Focuses on environmental impacts accelerating aging via multiple hallmarks including DNA damage, inflammation, epigenetic alterations, and stem cell exhaustion."
+          },
+          {
+            "theory_id": "T010341",
+            "subcluster_name": "Integrated Hallmarks of Aging: Primary, Antagonistic, and Integrative",
+            "reasoning": "Proposes attenuation of multiple hallmarks including oxidative stress, proteotoxic stress, senescence, genomic instability, and mitochondrial dysfunction via transcriptome rewiring."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+          "theory_ids": [
+            "T026508",
+            "T018681",
+            "T023554",
+            "T023767",
+            "T024089",
+            "T021680",
+            "T021040",
+            "T024180",
+            "T026177",
+            "T024082"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 10
+        },
+        {
+          "subcluster_name": "Cellular Senescence-Centered Hallmarks of Aging",
+          "theory_ids": [
+            "T024102",
+            "T026106",
+            "T019557",
+            "T026100"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 4
+        },
+        {
+          "subcluster_name": "General Hallmarks of Aging Across Species",
+          "theory_ids": [
+            "T026499",
+            "T026503",
+            "T023511"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        },
+        {
+          "subcluster_name": "Integrated Hallmarks of Aging Framework",
+          "theory_ids": [
+            "T017824",
+            "T021964",
+            "T016668"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T026508",
+            "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+            "reasoning": "This theory emphasizes the core molecular damage hallmarks including genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as fundamental drivers of multisystem deterioration."
+          },
+          {
+            "theory_id": "T018681",
+            "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+            "reasoning": "Focuses on primary molecular damage hallmarks such as genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as key aging mechanisms."
+          },
+          {
+            "theory_id": "T024102",
+            "subcluster_name": "Cellular Senescence-Centered Hallmarks of Aging",
+            "reasoning": "Highlights cellular senescence as a central node interconnected with other hallmarks, emphasizing its role in driving aging and as a target for intervention."
+          },
+          {
+            "theory_id": "T023554",
+            "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+            "reasoning": "Focuses on primary hallmarks including genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis in the context of Alzheimer\u2019s disease."
+          },
+          {
+            "theory_id": "T023767",
+            "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+            "reasoning": "Emphasizes primary molecular damage hallmarks such as genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as drivers of frailty and longevity."
+          },
+          {
+            "theory_id": "T026499",
+            "subcluster_name": "General Hallmarks of Aging Across Species",
+            "reasoning": "Focuses on the hallmarks of aging as generalizable biological features across species, covering fundamental mechanisms driving aging at organismal level."
+          },
+          {
+            "theory_id": "T026106",
+            "subcluster_name": "Cellular Senescence-Centered Hallmarks of Aging",
+            "reasoning": "Includes mitochondrial dysfunction, genomic instability, telomere shortening, and cellular senescence, highlighting senescence as a key aging mechanism."
+          },
+          {
+            "theory_id": "T026138",
+            "subcluster_name": "Inflammation and Autophagy-Linked Hallmarks of Aging",
+            "reasoning": "Focuses on genomic instability and telomere attrition but also highlights inflammation and autophagy decline as key aging mechanisms."
+          },
+          {
+            "theory_id": "T024089",
+            "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+            "reasoning": "Emphasizes primary hallmarks including genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis in nutritional and lifestyle context."
+          },
+          {
+            "theory_id": "T017824",
+            "subcluster_name": "Integrated Hallmarks of Aging Framework",
+            "reasoning": "Divides hallmarks into primary (molecular damage), antagonistic (compensatory responses), and integrative (phenotypic outcomes), covering a broad mechanistic spectrum."
+          },
+          {
+            "theory_id": "T021680",
+            "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+            "reasoning": "Focuses on primary hallmarks including genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis in premature aging disorders."
+          },
+          {
+            "theory_id": "T021040",
+            "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+            "reasoning": "Highlights primary molecular damage hallmarks such as genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis in age-related disease co-occurrence."
+          },
+          {
+            "theory_id": "T026507",
+            "subcluster_name": "Inflammation and Epigenetic Alterations Hallmarks of Aging",
+            "reasoning": "Focuses on epigenetic alterations, chronic inflammation, dysbiosis, and telomere attrition with emphasis on neurodegenerative disease mechanisms."
+          },
+          {
+            "theory_id": "T021964",
+            "subcluster_name": "Integrated Hallmarks of Aging Framework",
+            "reasoning": "Uses the primary, antagonistic, and integrative hallmarks framework, covering molecular damage, compensatory responses, and phenotypic outcomes."
+          },
+          {
+            "theory_id": "T024054",
+            "subcluster_name": "Vascular and Systemic Hallmarks of Mammalian Aging",
+            "reasoning": "Emphasizes interconnected hallmark processes with a focus on vascular aging as a driver of systemic aging and age-related cardiovascular diseases."
+          },
+          {
+            "theory_id": "T016668",
+            "subcluster_name": "Integrated Hallmarks of Aging Framework",
+            "reasoning": "Expands hallmarks to include macroautophagy, chronic inflammation, and dysbiosis, emphasizing interdependence and modifiability of hallmarks."
+          },
+          {
+            "theory_id": "T019557",
+            "subcluster_name": "Cellular Senescence-Centered Hallmarks of Aging",
+            "reasoning": "Applies hallmarks to dermal fibroblasts, emphasizing cellular senescence, mitochondrial dysfunction, and DNA damage as key aging drivers."
+          },
+          {
+            "theory_id": "T024180",
+            "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+            "reasoning": "Focuses on primary hallmarks including genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis in myelodysplasia."
+          },
+          {
+            "theory_id": "T026100",
+            "subcluster_name": "Cellular Senescence-Centered Hallmarks of Aging",
+            "reasoning": "Highlights genomic damage, mitochondrial dysfunction, cellular senescence, and stem cell exhaustion as key aging mechanisms in CNS."
+          },
+          {
+            "theory_id": "T024989",
+            "subcluster_name": "Inflammation and Cellular Senescence Hallmarks of Aging",
+            "reasoning": "Emphasizes oxidative stress, inflammaging, cellular senescence, and DNA damage as core aging processes driving multimorbidity."
+          },
+          {
+            "theory_id": "T026177",
+            "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+            "reasoning": "Focuses on mitochondrial dysfunction, telomere biology, epigenetic modifications, and proteostasis decline in lifestyle disease context."
+          },
+          {
+            "theory_id": "T024082",
+            "subcluster_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+            "reasoning": "Emphasizes genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis in ischemic stroke and aging."
+          },
+          {
+            "theory_id": "T026503",
+            "subcluster_name": "General Hallmarks of Aging Across Species",
+            "reasoning": "Provides a structured framework of interconnected hallmarks including genomic instability, telomere attrition, epigenetic alterations, and others driving systemic aging."
+          },
+          {
+            "theory_id": "T023511",
+            "subcluster_name": "General Hallmarks of Aging Across Species",
+            "reasoning": "Distinguishes public (conserved) and private (species-specific) aging mechanisms, focusing on fundamental hallmarks conserved across organisms."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+          "theory_ids": [
+            "T026523",
+            "T027436",
+            "T026550",
+            "T026613",
+            "T026532",
+            "T026644",
+            "T000066",
+            "T026739",
+            "T027496",
+            "T027133",
+            "T010147"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 11
+        },
+        {
+          "subcluster_name": "Proteostasis and Inflammation-Linked Hallmarks",
+          "theory_ids": [
+            "T026681",
+            "T027491",
+            "T026598",
+            "T026571",
+            "T026138",
+            "T026507",
+            "T024054",
+            "T024989"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+          "theory_ids": [
+            "T026541",
+            "T027448",
+            "T026706",
+            "T026690",
+            "T026566",
+            "T026754",
+            "T026600",
+            "T026529"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "Hallmarks of Aging",
+          "theory_ids": [
+            "T026737"
+          ],
+          "theory_count": 1,
+          "mechanism_focus": "",
+          "status": "singleton_warning",
+          "warning_reason": "1 subclusters too small"
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T026523",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "This theory emphasizes genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as core aging mechanisms."
+          },
+          {
+            "theory_id": "T027436",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Focuses on fundamental biological processes including genomic instability, telomere attrition, epigenetic alterations, and cellular senescence."
+          },
+          {
+            "theory_id": "T026681",
+            "subcluster_name": "Proteostasis and Inflammation-Linked Hallmarks",
+            "reasoning": "Highlights genomic instability, loss of proteostasis, and altered intercellular communication (inflammation) as key aging hallmarks."
+          },
+          {
+            "theory_id": "T026550",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis as aging drivers."
+          },
+          {
+            "theory_id": "T026541",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Emphasizes mitochondrial dysfunction, epigenetic alterations, deregulated nutrient sensing, and altered intercellular communication."
+          },
+          {
+            "theory_id": "T027448",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Focuses on cellular energy sensing (AMPK), oxidative stress regulation (Nrf2, mitochondria), and inflammation/stem cell production."
+          },
+          {
+            "theory_id": "T027491",
+            "subcluster_name": "Proteostasis and Inflammation-Linked Hallmarks",
+            "reasoning": "Highlights inflammation, oxidative stress, and stem cell exhaustion as key aging mechanisms."
+          },
+          {
+            "theory_id": "T026706",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Focuses on altered cellular communication, deregulated nutrient sensing, telomere attrition, and mitochondrial dysfunction."
+          },
+          {
+            "theory_id": "T026598",
+            "subcluster_name": "Proteostasis and Inflammation-Linked Hallmarks",
+            "reasoning": "Emphasizes loss of proteostasis, impaired autophagy, mitochondrial dysfunction, and inflammation in aging."
+          },
+          {
+            "theory_id": "T026690",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Focuses on deregulated nutrient sensing, mitochondrial dysfunction, cellular senescence, and stem cell exhaustion."
+          },
+          {
+            "theory_id": "T026613",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Describes seven conserved biological pillars including molecular and cellular drivers of aging."
+          },
+          {
+            "theory_id": "T026532",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Focuses on genomic instability, telomere attrition, epigenetic alterations, and loss of proteostasis."
+          },
+          {
+            "theory_id": "T026644",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Emphasizes accumulation of macromolecular damage, epigenetic changes, impaired proteostasis, and telomere shortening."
+          },
+          {
+            "theory_id": "T026566",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Describes twelve hallmarks including mitochondrial dysfunction, deregulated nutrient sensing, cellular senescence, and altered intercellular communication."
+          },
+          {
+            "theory_id": "T000066",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Defines nine interconnected hallmarks including genomic instability, telomere attrition, epigenetic alterations, and mitochondrial dysfunction."
+          },
+          {
+            "theory_id": "T026739",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Focuses on conserved biological aging processes and cellular/molecular mechanisms across species."
+          },
+          {
+            "theory_id": "T026754",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Centers on mitochondrial metabolism as a hallmark and integrates multi-omics data to understand aging mechanisms."
+          },
+          {
+            "theory_id": "T027496",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Highlights genomic instability, mitochondrial dysfunction, telomere attrition, and epigenetic alterations as aging drivers."
+          },
+          {
+            "theory_id": "T026571",
+            "subcluster_name": "Proteostasis and Inflammation-Linked Hallmarks",
+            "reasoning": "Focuses on immunosenescence, inflammation, genomic instability, and mitochondrial dysfunction in aging."
+          },
+          {
+            "theory_id": "T026600",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Describes universal hallmarks including genomic instability, mitochondrial dysfunction, and deregulated nutrient sensing."
+          },
+          {
+            "theory_id": "T027133",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Focuses on molecular switches controlling aging and organ-specific mechanisms targeting fundamental hallmarks."
+          },
+          {
+            "theory_id": "T026529",
+            "subcluster_name": "Mitochondrial Dysfunction and Nutrient Sensing Hallmarks",
+            "reasoning": "Emphasizes epigenetic alterations, telomere attrition, mitochondrial perturbations, and altered intercellular communication."
+          },
+          {
+            "theory_id": "T010147",
+            "subcluster_name": "Genomic Instability and Telomere Attrition Hallmarks",
+            "reasoning": "Focuses on DNA damage, mitochondrial dysfunction, telomere attrition, and genomic instability in ovarian aging."
+          },
+          {
+            "theory_id": "T026138",
+            "subcluster_name": "Proteostasis and Inflammation-Linked Hallmarks",
+            "reasoning": "Highlights genomic instability, telomere attrition, inflammation, and autophagy impairment in kidney aging."
+          },
+          {
+            "theory_id": "T026507",
+            "subcluster_name": "Proteostasis and Inflammation-Linked Hallmarks",
+            "reasoning": "Focuses on epigenetic alterations, chronic inflammation, dysbiosis, and telomere attrition in Alzheimer's disease."
+          },
+          {
+            "theory_id": "T024054",
+            "subcluster_name": "Proteostasis and Inflammation-Linked Hallmarks",
+            "reasoning": "Describes interconnected hallmark processes with emphasis on vascular aging and systemic inflammation."
+          },
+          {
+            "theory_id": "T024989",
+            "subcluster_name": "Proteostasis and Inflammation-Linked Hallmarks",
+            "reasoning": "Focuses on oxidative stress, immune changes, cellular senescence, DNA damage, and telomere stress as core aging processes."
+          },
+          {
+            "theory_id": "T026737",
+            "subcluster_name": "Transcriptomic and Cell-Type Specific Aging Hallmarks",
+            "reasoning": "Emphasizes transcriptomic changes, modifiability of aging phenotypes, and cell-type-specific aging mechanisms."
+          }
+        ]
+      }
+    }
+  ],
+  "timestamp": "2025-10-22 11:39:00"
+}

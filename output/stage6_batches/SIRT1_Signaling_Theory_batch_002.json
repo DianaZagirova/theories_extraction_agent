@@ -1,0 +1,173 @@
+{
+  "cluster_name": "SIRT1 Signaling Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "SIRT1 Regulation of Stem Cell Aging and Differentiation",
+        "theory_ids": [
+          "T018729",
+          "T015143",
+          "T018974",
+          "T024025",
+          "T016284",
+          "T025475",
+          "T020427",
+          "T023235"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "SIRT1 Metabolic and Nutrient Sensing Regulation of Aging",
+        "theory_ids": [
+          "T020031",
+          "T015823",
+          "T022437",
+          "T024512",
+          "T024464",
+          "T016983",
+          "T016520",
+          "T024627",
+          "T019600"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "SIRT1 Mitochondrial Biogenesis and Oxidative Stress Regulation Theory",
+        "theory_ids": [
+          "T024564",
+          "T024419",
+          "T025577",
+          "T022998",
+          "T027148",
+          "T023434"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018729",
+          "subcluster_name": "SIRT1 Regulation of Stem Cell Aging and Differentiation",
+          "reasoning": "Focuses on SIRT1's role in maintaining stem cell function, epigenetic regulation, and delaying senescence in various adult stem cells."
+        },
+        {
+          "theory_id": "T015143",
+          "subcluster_name": "SIRT1 Regulation of Stem Cell Aging and Differentiation",
+          "reasoning": "Describes SIRT1's role in mesenchymal stem cell self-renewal, lineage commitment, and age-related decline in stem cell function."
+        },
+        {
+          "theory_id": "T018974",
+          "subcluster_name": "SIRT1 Regulation of Stem Cell Aging and Differentiation",
+          "reasoning": "Links SIRT1 protein levels to cell cycle and mitotic activity, relevant to stem cell proliferation and aging."
+        },
+        {
+          "theory_id": "T024025",
+          "subcluster_name": "SIRT1 Regulation of Stem Cell Aging and Differentiation",
+          "reasoning": "Includes SIRT1's anti-aging effects via histone deacetylation and mitochondrial biogenesis, relevant to cellular protection and stem cell maintenance."
+        },
+        {
+          "theory_id": "T016284",
+          "subcluster_name": "SIRT1 Regulation of Stem Cell Aging and Differentiation",
+          "reasoning": "Focuses on SIRT1-FoxO3a axis dysfunction leading to oxidative stress and cellular senescence, mechanisms important in stem cell aging."
+        },
+        {
+          "theory_id": "T025475",
+          "subcluster_name": "SIRT1 Regulation of Stem Cell Aging and Differentiation",
+          "reasoning": "Describes exercise-induced SIRT1 activation reducing oxidative stress and enhancing FOXO3a activity, relevant to cellular aging and stem cell protection."
+        },
+        {
+          "theory_id": "T020427",
+          "subcluster_name": "SIRT1 Regulation of Stem Cell Aging and Differentiation",
+          "reasoning": "Details SIRT1-p53 axis in regulating senescence and DNA damage response, key to stem cell aging and tumor suppression."
+        },
+        {
+          "theory_id": "T023235",
+          "subcluster_name": "SIRT1 Regulation of Stem Cell Aging and Differentiation",
+          "reasoning": "Explores SIRT1 alternative splicing and its feedback with p53, affecting stress responses and aging relevant to stem cell biology."
+        },
+        {
+          "theory_id": "T020031",
+          "subcluster_name": "SIRT1 Metabolic and Nutrient Sensing Regulation of Aging",
+          "reasoning": "Focuses on SIRT1 linking nutrient availability to adaptive transcriptional and metabolic responses affecting organismal aging."
+        },
+        {
+          "theory_id": "T015823",
+          "subcluster_name": "SIRT1 Metabolic and Nutrient Sensing Regulation of Aging",
+          "reasoning": "Describes SIRT1 deacetylation of PGC-1alpha regulating glucose metabolism and linking nutrient sensing to lifespan."
+        },
+        {
+          "theory_id": "T022437",
+          "subcluster_name": "SIRT1 Metabolic and Nutrient Sensing Regulation of Aging",
+          "reasoning": "Covers SIRT1 as a metabolic coordinator mediating caloric restriction responses and systemic robustness."
+        },
+        {
+          "theory_id": "T024512",
+          "subcluster_name": "SIRT1 Metabolic and Nutrient Sensing Regulation of Aging",
+          "reasoning": "Describes SIRT1 activation by resveratrol mimicking calorie restriction effects on oxidative stress and senescence."
+        },
+        {
+          "theory_id": "T024464",
+          "subcluster_name": "SIRT1 Metabolic and Nutrient Sensing Regulation of Aging",
+          "reasoning": "Focuses on SIRT1 regulation of adipose tissue metabolism and its impact on lifespan and systemic aging."
+        },
+        {
+          "theory_id": "T016983",
+          "subcluster_name": "SIRT1 Metabolic and Nutrient Sensing Regulation of Aging",
+          "reasoning": "Describes SIRT1's role in hypothalamic nuclei mediating central adaptive responses to diet restriction."
+        },
+        {
+          "theory_id": "T016520",
+          "subcluster_name": "SIRT1 Metabolic and Nutrient Sensing Regulation of Aging",
+          "reasoning": "Focuses on SIRT1 as a longevity gene enhancing stress resistance and metabolic homeostasis."
+        },
+        {
+          "theory_id": "T024627",
+          "subcluster_name": "SIRT1 Metabolic and Nutrient Sensing Regulation of Aging",
+          "reasoning": "Details SIRT1-AMPK-autophagy pathway in metabolic regulation and oxidative stress reduction."
+        },
+        {
+          "theory_id": "T019600",
+          "subcluster_name": "SIRT1 Metabolic and Nutrient Sensing Regulation of Aging",
+          "reasoning": "Describes SIRT1 regulation of NF-\u03baB, mTOR, and p53 signaling pathways linking metabolism and aging."
+        },
+        {
+          "theory_id": "T024564",
+          "subcluster_name": "SIRT1 Mitochondrial Biogenesis and Oxidative Stress Regulation Theory",
+          "reasoning": "Focuses on SIRT1 regulation of mitochondrial biogenesis via PGC-1\u03b1 and HIF-1\u03b1 pathways impacting aging."
+        },
+        {
+          "theory_id": "T024419",
+          "subcluster_name": "SIRT1 Mitochondrial Biogenesis and Oxidative Stress Regulation Theory",
+          "reasoning": "Describes age-related increase in SIRT1 as a compensatory response to oxidative stress."
+        },
+        {
+          "theory_id": "T025577",
+          "subcluster_name": "SIRT1 Mitochondrial Biogenesis and Oxidative Stress Regulation Theory",
+          "reasoning": "Focuses on SIRT1-eNOS axis in vascular aging, linking mitochondrial function, NO production, and oxidative stress."
+        },
+        {
+          "theory_id": "T022998",
+          "subcluster_name": "SIRT1 Mitochondrial Biogenesis and Oxidative Stress Regulation Theory",
+          "reasoning": "Describes SIRT1's role in maintaining endothelial glycocalyx integrity via oxidative stress and NF-\u03baB regulation."
+        },
+        {
+          "theory_id": "T027148",
+          "subcluster_name": "SIRT1 Mitochondrial Biogenesis and Oxidative Stress Regulation Theory",
+          "reasoning": "Broadly covers SIRT1 roles in aging and cancer through regulation of cellular damage and stress responses."
+        },
+        {
+          "theory_id": "T023434",
+          "subcluster_name": "SIRT1 Mitochondrial Biogenesis and Oxidative Stress Regulation Theory",
+          "reasoning": "Links SIRT1 regulation of circadian clock components to cell survival and age-related cancer risk."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 12:03:16"
+}

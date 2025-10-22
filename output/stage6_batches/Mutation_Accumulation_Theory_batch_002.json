@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Mutation Accumulation Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+        "theory_ids": [
+          "T002968",
+          "T003620",
+          "T003744",
+          "T002635",
+          "T003823",
+          "T003861",
+          "T004223",
+          "T003912",
+          "T003371",
+          "T002687"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Condition-Dependent Mortality and Mutation Accumulation Theory",
+        "theory_ids": [
+          "T004290",
+          "T003325",
+          "T004244",
+          "T003364"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+        "theory_ids": [
+          "T004079",
+          "T003513",
+          "T004088",
+          "T002927",
+          "T003016",
+          "T002957",
+          "T003435",
+          "T003370",
+          "T002591",
+          "T003999"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T002968",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of late-acting deleterious germline mutations due to weakened selection at older ages, explaining senescence via mutation-selection balance."
+        },
+        {
+          "theory_id": "T003620",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of late-acting deleterious alleles in germline due to inefficient selection at late ages, leading to lifespan reduction."
+        },
+        {
+          "theory_id": "T003744",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Medawar\u2019s hypothesis on fixation of slightly deleterious germline mutations expressed late in life due to declining force of natural selection."
+        },
+        {
+          "theory_id": "T002635",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Models age-specific accumulation of deleterious germline mutations with weakened late-life selection, producing characteristic mortality patterns."
+        },
+        {
+          "theory_id": "T003823",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Focuses on male-biased germline mutation accumulation and relaxed selection on late-acting mutations affecting sperm quality and offspring viability."
+        },
+        {
+          "theory_id": "T003861",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Classical life history theory emphasizing declining selection with age and extrinsic mortality shaping lifespan and mutation accumulation effects in social insects."
+        },
+        {
+          "theory_id": "T004223",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Classical evolutionary theory linking extrinsic mortality to senescence timing and mutation accumulation effects on life-history trade-offs."
+        },
+        {
+          "theory_id": "T003912",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Maladaptation-driven senescence due to lag in adaptation of late-acting traits under variable environments, related to weakened late-life selection and mutation accumulation."
+        },
+        {
+          "theory_id": "T004290",
+          "subcluster_name": "Condition-Dependent Mortality and Mutation Accumulation Theory",
+          "reasoning": "Emphasizes condition-dependent mortality shaping selection strength and mutation accumulation effects on lifespan and senescence."
+        },
+        {
+          "theory_id": "T003325",
+          "subcluster_name": "Condition-Dependent Mortality and Mutation Accumulation Theory",
+          "reasoning": "Condition-dependent extrinsic mortality theory where senescent condition influences susceptibility to mortality, affecting mutation accumulation dynamics."
+        },
+        {
+          "theory_id": "T004244",
+          "subcluster_name": "Condition-Dependent Mortality and Mutation Accumulation Theory",
+          "reasoning": "Natural selection-mediated in utero culling of frail fetuses under environmental stress, a form of condition-dependent mortality influencing mutation load and longevity."
+        },
+        {
+          "theory_id": "T003364",
+          "subcluster_name": "Condition-Dependent Mortality and Mutation Accumulation Theory",
+          "reasoning": "Phenotype-based computational model linking mutation effects on viability and aging rate, incorporating condition-dependent selection and mutation accumulation."
+        },
+        {
+          "theory_id": "T004079",
+          "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+          "reasoning": "Focuses on polygenic genetic modulation of aging including somatic mutations and chromosomal aberrations contributing to aging phenotypes."
+        },
+        {
+          "theory_id": "T003513",
+          "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+          "reasoning": "Somatic mutation accumulation causing genome mosaicism and functional decline, linking genetic instability to aging and cancer."
+        },
+        {
+          "theory_id": "T004088",
+          "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+          "reasoning": "Somatic mutation rates inversely scale with lifespan, showing evolutionary constraints on mutation accumulation affecting aging."
+        },
+        {
+          "theory_id": "T002927",
+          "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+          "reasoning": "Somatic mutation theory positing mutation accumulation as a major cause of aging and lifespan differences across species."
+        },
+        {
+          "theory_id": "T003016",
+          "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+          "reasoning": "Somatic mutation burden reduces cellular replicative lifespan, demonstrating mutation accumulation effects on cellular aging."
+        },
+        {
+          "theory_id": "T002957",
+          "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+          "reasoning": "Muller's ratchet in small somatic stem cell niches leads to irreversible accumulation of deleterious mutations causing aging and tumorigenesis."
+        },
+        {
+          "theory_id": "T003435",
+          "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+          "reasoning": "Accumulation of large chromosomal structural somatic mutations with age in stem cell niches contributes to aging and disease."
+        },
+        {
+          "theory_id": "T003370",
+          "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+          "reasoning": "Non-Darwinian evolution in small stem cell niches leads to mutation accumulation causing aging while minimizing cancer risk."
+        },
+        {
+          "theory_id": "T002591",
+          "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+          "reasoning": "Mutation accumulation and chromosomal copy number variation in ciliates\u2019 macronuclei cause fitness decline and clonal extinction."
+        },
+        {
+          "theory_id": "T003999",
+          "subcluster_name": "Genetic Modulation and Somatic Mutation Accumulation Theory",
+          "reasoning": "Accumulation of oncogenic somatic mutations drives clonal evolution and cancer, linking mutation accumulation to aging-associated cancer."
+        },
+        {
+          "theory_id": "T003371",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Age-specific mutation effects in bacteria with late-acting deleterious mutations accumulating due to asymmetric cell division and weak selection."
+        },
+        {
+          "theory_id": "T002687",
+          "subcluster_name": "Germline Late-Acting Mutation Accumulation Theory",
+          "reasoning": "Hamilton\u2019s forces of natural selection formalize declining selection with age, explaining mutation accumulation and aging evolution."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:59:49"
+}

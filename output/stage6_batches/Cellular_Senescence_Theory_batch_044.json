@@ -1,0 +1,190 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 44,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+        "theory_ids": [
+          "T026899",
+          "T026590",
+          "T026689",
+          "T026968",
+          "T026762",
+          "T026478",
+          "T026545",
+          "T027016",
+          "T026713",
+          "T026909",
+          "T026701",
+          "T026872",
+          "T026765",
+          "T026956",
+          "T026761",
+          "T026560",
+          "T026588",
+          "T026992",
+          "T026543",
+          "T026987",
+          "T026551"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 21
+      },
+      {
+        "subcluster_name": "mTOR and Autophagy Regulation in Cellular Senescence Theory",
+        "theory_ids": [
+          "T026923",
+          "T026465"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Mitophagy Impairment in Cellular Senescence Theory",
+        "theory_ids": [
+          "T026718",
+          "T026864"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026899",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Focuses on durable cell cycle arrest, accumulation of senescent cells, and their SASP causing tissue dysfunction and age-related diseases."
+        },
+        {
+          "theory_id": "T026590",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Emphasizes sustained cell-cycle arrest, accumulation of senescent cells, SASP, and senotherapeutics targeting these cells."
+        },
+        {
+          "theory_id": "T026689",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Describes cellular senescence causing premature aging phenotypes via accumulation and inflammation, highlighting senescence as causal."
+        },
+        {
+          "theory_id": "T026968",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Focuses on senescent cells as causal drivers of aging and senolytic interventions targeting senescent cell-specific antigens."
+        },
+        {
+          "theory_id": "T026762",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Links oxidative stress-induced senescence, SASP, and accumulation of senescent cells driving aging and chronic disease."
+        },
+        {
+          "theory_id": "T026478",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Describes permanent growth arrest, antagonistic pleiotropy, accumulation of senescent cells, and therapeutic targeting of senescence."
+        },
+        {
+          "theory_id": "T026545",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Highlights senescence as causal driver with SASP promoting inflammaging and senolytic/senostatic therapies."
+        },
+        {
+          "theory_id": "T027016",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Details primary and secondary senescence, SASP propagation, and immune signaling in senescence spread and aging."
+        },
+        {
+          "theory_id": "T026713",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Focuses on RNA binding proteins regulating senescence and linking molecular mechanisms to aging and diseases."
+        },
+        {
+          "theory_id": "T026909",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Describes cellular senescence acceleration and reduced cellular lifespan driving organismal aging."
+        },
+        {
+          "theory_id": "T026701",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Emphasizes accumulation of senescent cells, their role as aging drivers, and senotherapeutics as interventions."
+        },
+        {
+          "theory_id": "T026872",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Focuses on SASP-driven inflammation, senolytics/senostatics, and senescent cells causing resilience decline."
+        },
+        {
+          "theory_id": "T026765",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Describes senescence and SASP in systemic aging and neurodegeneration, linking genetic risk factors to senescence."
+        },
+        {
+          "theory_id": "T026956",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Focuses on senescent cell accumulation and senolytic drugs alleviating age-related diseases."
+        },
+        {
+          "theory_id": "T026761",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Integrates cellular senescence with immunosenescence and gut microbiota dysbiosis as interconnected aging drivers."
+        },
+        {
+          "theory_id": "T026560",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Describes dual role of senescent cells, SASP effects, and senescence as biomarker and causal factor in aging."
+        },
+        {
+          "theory_id": "T026588",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Links senescent cell accumulation and SASP to neurodegeneration and Parkinson\u2019s disease pathology."
+        },
+        {
+          "theory_id": "T026992",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Focuses on senescence driving vascular calcification via SASP and molecular pathways affecting vascular aging."
+        },
+        {
+          "theory_id": "T026543",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Describes senescence and SASP as aging drivers and pharmacological modulation of senescence pathways."
+        },
+        {
+          "theory_id": "T026987",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Focuses on senescence, SASP, and senolytic/senomorphic therapies in HIV and aging."
+        },
+        {
+          "theory_id": "T026551",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Aging Theory",
+          "reasoning": "Summarizes aging as resulting from senescent cell accumulation and their pro-inflammatory secretions."
+        },
+        {
+          "theory_id": "T026923",
+          "subcluster_name": "mTOR and Autophagy Regulation in Cellular Senescence Theory",
+          "reasoning": "Focuses on mTOR signaling regulating senescence phenotypes and its interplay with autophagy affecting aging."
+        },
+        {
+          "theory_id": "T026465",
+          "subcluster_name": "mTOR and Autophagy Regulation in Cellular Senescence Theory",
+          "reasoning": "Describes age-related decline in autophagy, transcriptional regulation by TFEB/FOXOs, and therapeutic targeting."
+        },
+        {
+          "theory_id": "T026718",
+          "subcluster_name": "Mitochondrial Dysfunction and Mitophagy Impairment in Cellular Senescence Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction, impaired mitophagy, and ROS production as key drivers of senescence and aging."
+        },
+        {
+          "theory_id": "T026864",
+          "subcluster_name": "Mitochondrial Dysfunction and Mitophagy Impairment in Cellular Senescence Theory",
+          "reasoning": "Links cellular senescence with impaired autophagy, metabolic imbalance, and oxidative stress driving organ aging."
+        },
+        {
+          "theory_id": "T026027",
+          "subcluster_name": "Epigenetic Reprogramming and Cellular Senescence Reversal Theory",
+          "reasoning": "Focuses on epigenetic clock resetting via iPSC reprogramming to reverse senescence, mitochondrial dysfunction, and aging hallmarks."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:31:07"
+}

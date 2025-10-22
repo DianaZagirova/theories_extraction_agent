@@ -1,0 +1,180 @@
+{
+  "cluster_name": "Programmed Longevity Theory",
+  "batch_num": 10,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Evolutionary Programmatic Senescence Theory",
+        "theory_ids": [
+          "T026483",
+          "T026472",
+          "T024583",
+          "T026307",
+          "T026695",
+          "T026311",
+          "T021415"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Developmental Programmed Aging Theory",
+        "theory_ids": [
+          "T026698",
+          "T026639"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+        "theory_ids": [
+          "T026186",
+          "T025333",
+          "T026116",
+          "T023822",
+          "T024472",
+          "T024388",
+          "T025359",
+          "T025826",
+          "T025825",
+          "T025831",
+          "T026300"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026483",
+          "subcluster_name": "Evolutionary Programmatic Senescence Theory",
+          "reasoning": "This theory emphasizes evolved programmatic mechanisms driven by antagonistic pleiotropy and evolutionary physiology, fitting the evolutionary programmatic aging theme."
+        },
+        {
+          "theory_id": "T026472",
+          "subcluster_name": "Evolutionary Programmatic Senescence Theory",
+          "reasoning": "Focuses on genetically programmed lifespan, systemic orchestration via hormonal clocks, and stem cell decline, consistent with evolutionary programmed aging mechanisms."
+        },
+        {
+          "theory_id": "T026127",
+          "subcluster_name": "Mitochondrial ROS-Driven Phenoptosis Theory",
+          "reasoning": "Centers on programmed death (phenoptosis) driven by mitochondrial ROS and genetic control of accelerated senescence, a distinct mitochondrial ROS-based programmed aging mechanism."
+        },
+        {
+          "theory_id": "T024583",
+          "subcluster_name": "Evolutionary Programmatic Senescence Theory",
+          "reasoning": "Describes genetic and cellular programming of aging including telomere shortening and antagonistic pleiotropy, aligning with evolutionary programmatic aging."
+        },
+        {
+          "theory_id": "T026307",
+          "subcluster_name": "Evolutionary Programmatic Senescence Theory",
+          "reasoning": "Posits aging as an evolved, adjustable program with evolutionary advantages, fitting the evolutionary programmatic senescence cluster."
+        },
+        {
+          "theory_id": "T026695",
+          "subcluster_name": "Evolutionary Programmatic Senescence Theory",
+          "reasoning": "Discusses programmed aging as an evolutionary trait with molecular mechanisms, clearly within evolutionary programmatic aging."
+        },
+        {
+          "theory_id": "T026311",
+          "subcluster_name": "Evolutionary Programmatic Senescence Theory",
+          "reasoning": "Focuses on genetic and epigenetic programming of aging as a regulated process, consistent with evolutionary programmatic senescence."
+        },
+        {
+          "theory_id": "T021415",
+          "subcluster_name": "Evolutionary Programmatic Senescence Theory",
+          "reasoning": "Emphasizes genetic determinants of lifespan and polygenic control, supporting the evolutionary programmatic aging framework."
+        },
+        {
+          "theory_id": "T026698",
+          "subcluster_name": "Developmental Programmed Aging Theory",
+          "reasoning": "Links aging to continuation of developmental programs via epigenetic clocks and polycomb regulation, defining a developmental programmatic aging mechanism."
+        },
+        {
+          "theory_id": "T026639",
+          "subcluster_name": "Developmental Programmed Aging Theory",
+          "reasoning": "Also focuses on methylation clocks and developmental biology driving aging, fitting the developmental programmed aging cluster."
+        },
+        {
+          "theory_id": "T026417",
+          "subcluster_name": "Neuronal Nutrient-Sensing Regulation of Aging Theory",
+          "reasoning": "Highlights nutrient-sensing neurons and neuronal signaling pathways controlling lifespan and metabolic regulation, a distinct neuronal nutrient-sensing program."
+        },
+        {
+          "theory_id": "T024865",
+          "subcluster_name": "IGF/Wnt Signaling Crosstalk Programmed Aging Theory",
+          "reasoning": "Focuses on IGF and Wnt signaling crosstalk in satellite cells regulating aging, a specific signaling pathway-based programmed aging mechanism."
+        },
+        {
+          "theory_id": "T024630",
+          "subcluster_name": "IGF1-p53-SIRT1 Axis Programmed Aging Theory",
+          "reasoning": "Describes IGF1 signaling inducing senescence via p53 and SIRT1, linking cellular senescence to aging, a specific molecular axis in programmed aging."
+        },
+        {
+          "theory_id": "T026186",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Describes aging regulation by a network of nutrient sensors (AMPK, mTOR, IIS, sirtuins), integrating metabolic and environmental signals."
+        },
+        {
+          "theory_id": "T025333",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Focuses on calorie restriction modulating nutrient-sensing pathways like IGF-1 and mTOR to slow aging, fitting nutrient sensing network mechanisms."
+        },
+        {
+          "theory_id": "T026116",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Emphasizes dietary restriction and amino acid sensing pathways regulating lifespan, consistent with nutrient sensing network cluster."
+        },
+        {
+          "theory_id": "T023822",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Focuses on caloric restriction effects via TOR and sirtuin pathways regulating metabolism and aging, fitting nutrient sensing network."
+        },
+        {
+          "theory_id": "T024472",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Describes sirtuin-mediated calorie restriction effects on lifespan and stress resistance, a key component of nutrient sensing network."
+        },
+        {
+          "theory_id": "T024388",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Focuses on conserved longevity pathways IIS, mTOR, and PKA signaling modulated genetically or pharmacologically, fitting nutrient sensing network."
+        },
+        {
+          "theory_id": "T025359",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Emphasizes genetic control of aging via insulin/IGF-1 signaling and modulation by caloric restriction, consistent with nutrient sensing network."
+        },
+        {
+          "theory_id": "T025826",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Describes Sir2-family protein activation by calorie restriction as a conserved mechanism slowing aging, part of nutrient sensing network."
+        },
+        {
+          "theory_id": "T025825",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Focuses on SIR2/Sirtuin regulation linking metabolism to aging and mediating calorie restriction effects, fitting nutrient sensing network."
+        },
+        {
+          "theory_id": "T025831",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Describes conserved genetic pathways including IIS and TOR regulating longevity, consistent with nutrient sensing network cluster."
+        },
+        {
+          "theory_id": "T026300",
+          "subcluster_name": "Nutrient Sensing Network Theory of Aging",
+          "reasoning": "Uses yeast model to study conserved genetic and signaling pathways regulating aging, fitting nutrient sensing network."
+        },
+        {
+          "theory_id": "T024890",
+          "subcluster_name": "IGF1 Signaling and Caloric Restriction Programmed Aging Theory",
+          "reasoning": "Focuses on IGF-1 receptor modulation by caloric restriction affecting protein synthesis and aging, a specific IGF1 signaling mechanism."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:58:45"
+}

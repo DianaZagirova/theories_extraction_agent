@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Programmed Longevity Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+        "theory_ids": [
+          "T004536",
+          "T002498",
+          "T004862",
+          "T002284",
+          "T002777",
+          "T003522",
+          "T002699",
+          "T005627",
+          "T003431",
+          "T003350",
+          "T003989"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Nutrient-Sensing and Dietary Restriction Longevity Theory",
+        "theory_ids": [
+          "T003792",
+          "T004926",
+          "T005223",
+          "T005127",
+          "T004289"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+        "theory_ids": [
+          "T002844",
+          "T004554",
+          "T004619",
+          "T006002",
+          "T003454",
+          "T005986",
+          "T000006",
+          "T000315",
+          "T000713",
+          "T005942",
+          "T003403",
+          "T004873"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T004536",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "Focuses on IGF-1 and growth hormone signaling pathways regulating growth, metabolism, and lifespan, with evidence from genetic models showing lifespan extension via reduced IGF-1 signaling."
+        },
+        {
+          "theory_id": "T002498",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "Describes IGF-1\u2019s role in bone quality and aging via glycation accumulation, linking IGF-1 signaling decline to age-related tissue fragility, fitting the IGF-1/GH signaling theme."
+        },
+        {
+          "theory_id": "T004862",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "Details IGF-1 as a conserved pacesetter of aging, with downregulation extending lifespan, consistent with the GH/IGF-1 signaling modulation mechanism."
+        },
+        {
+          "theory_id": "T002284",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "Focuses on GH receptor exon 3 deletion affecting GH sensitivity and IGF-1 levels, influencing male-specific longevity, fitting the GH/IGF-1 signaling modulation cluster."
+        },
+        {
+          "theory_id": "T002777",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "Explores calorie restriction effects on IGF-1 signaling and cancer risk, emphasizing modulation of IGF-1 bioavailability and signaling in aging."
+        },
+        {
+          "theory_id": "T003522",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "Posits that suppression of the somatotropic (GH/IGF-1) axis extends lifespan by reducing metabolism and oxidative stress, fitting the GH/IGF-1 signaling modulation theme."
+        },
+        {
+          "theory_id": "T002699",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "Describes GH signaling suppression as central to mammalian aging regulation, with genetic mutations reducing GH/IGF-1 signaling linked to longevity."
+        },
+        {
+          "theory_id": "T005627",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "Shows GH deficiency extends lifespan across species, with metabolic reprogramming and growth-longevity tradeoffs, consistent with GH/IGF-1 signaling modulation."
+        },
+        {
+          "theory_id": "T003431",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "Ames dwarf mice with GH/IGF-1 deficiencies show extended lifespan, linking hormonal deficiency and reduced IGF-1 signaling to delayed aging."
+        },
+        {
+          "theory_id": "T003350",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "Suppression of IGF-1 signaling in neural stem cells preserves neurogenesis and delays aging, fitting the IGF-1/GH signaling modulation cluster."
+        },
+        {
+          "theory_id": "T003989",
+          "subcluster_name": "IGF-1/GH Signaling Modulation Longevity Theory",
+          "reasoning": "mRNA decapping modulates neuronal insulin/IGF-like signaling affecting lifespan, linking post-transcriptional regulation to IGF-1 pathway and aging."
+        },
+        {
+          "theory_id": "T003792",
+          "subcluster_name": "Nutrient-Sensing and Dietary Restriction Longevity Theory",
+          "reasoning": "Focuses on dietary restriction extending lifespan via insulin/IGF-1 and TOR pathways, emphasizing nutrient sensing and metabolic adaptation."
+        },
+        {
+          "theory_id": "T004926",
+          "subcluster_name": "Nutrient-Sensing and Dietary Restriction Longevity Theory",
+          "reasoning": "Describes conserved nutrient-sensing pathways (IIS, mTOR) regulating aging and reproduction trade-offs, highlighting dietary restriction effects."
+        },
+        {
+          "theory_id": "T005223",
+          "subcluster_name": "Nutrient-Sensing and Dietary Restriction Longevity Theory",
+          "reasoning": "SGLT inhibitors mimic nutrient deprivation signaling, activating AMPK, sirtuins, and autophagy, reducing mTOR signaling and oxidative stress, fitting nutrient-sensing theme."
+        },
+        {
+          "theory_id": "T005127",
+          "subcluster_name": "Nutrient-Sensing and Dietary Restriction Longevity Theory",
+          "reasoning": "TOR signaling regulates growth, reproduction, and lifespan trade-offs; rapamycin downregulates TOR to extend lifespan, consistent with nutrient-sensing longevity mechanisms."
+        },
+        {
+          "theory_id": "T004289",
+          "subcluster_name": "Nutrient-Sensing and Dietary Restriction Longevity Theory",
+          "reasoning": "Identifies conserved longevity pathways including sirtuins and nutrient-sensing kinases, with calorie restriction as a conserved intervention."
+        },
+        {
+          "theory_id": "T002844",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Focuses on longevity-assurance genes modulating lifespan via disease protection and metabolic homeostasis, emphasizing genetic control and gene-environment interactions."
+        },
+        {
+          "theory_id": "T004554",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Molecular recognition systems control life cycle and aging via immune system regulation and genetic polymorphisms, fitting genetic control of longevity."
+        },
+        {
+          "theory_id": "T004619",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Dauer formation pathway in C. elegans genetically controls aging and lifespan extension, illustrating genetic regulation of life-history and longevity."
+        },
+        {
+          "theory_id": "T006002",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Programmed and altruistic aging theory posits evolved genetic programs promoting aging for group benefit, highlighting genetic and evolutionary control."
+        },
+        {
+          "theory_id": "T003454",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Programmed thymic involution is a conserved, genetically regulated aging process affecting immune aging, fitting genetic longevity control."
+        },
+        {
+          "theory_id": "T005986",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Thymic involution as phenoptosis exemplifies programmed aging with genetic and oxidative stress components, consistent with genetic aging programs."
+        },
+        {
+          "theory_id": "T000006",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Programmed aging paradigm based on telomere shortening and cell turnover decline, emphasizing genetically regulated cellular aging mechanisms."
+        },
+        {
+          "theory_id": "T000315",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Growth-limiting genetic program theory describes juvenile growth deceleration continuing into adulthood causing aging, highlighting genetic regulation of lifespan."
+        },
+        {
+          "theory_id": "T000713",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Programmatic aging theory based on gene expression trajectories and attractor states, proposing a genetically programmed aging path."
+        },
+        {
+          "theory_id": "T005942",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Programmatic features of aging originating in development describe persistent developmental genetic programs causing aging, emphasizing genetic and epigenetic regulation."
+        },
+        {
+          "theory_id": "T003403",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Programmed aging controlled by epigenetic clocks proposes aging as a genetically regulated process orchestrated by epigenetic timing mechanisms."
+        },
+        {
+          "theory_id": "T004873",
+          "subcluster_name": "Genetic Longevity Assurance and Life-History Control Theory",
+          "reasoning": "Programmed aging as an evolutionarily selected genetic program highlights aging as an adaptive, genetically controlled process with evolutionary trade-offs."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:55:46"
+}

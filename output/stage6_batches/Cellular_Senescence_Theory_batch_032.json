@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 32,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+        "theory_ids": [
+          "T021913",
+          "T022074",
+          "T021960",
+          "T021906",
+          "T022080",
+          "T022001",
+          "T022122",
+          "T021968",
+          "T022139",
+          "T022207",
+          "T021974",
+          "T022039",
+          "T021929",
+          "T021687"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Telomere Shortening and DNA Damage-Induced Senescence Theory",
+        "theory_ids": [
+          "T022089",
+          "T021985"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "p16INK4a-Mediated Cellular Senescence Aging Theory",
+        "theory_ids": [
+          "T021977",
+          "T022198"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "p53/p63-Mediated Tumor Suppression and Senescence Aging Theory",
+        "theory_ids": [
+          "T021904",
+          "T022158",
+          "T021969"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T021913",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Focuses on accumulation of senescent cells and their SASP driving age-related tissue dysfunction and diseases."
+        },
+        {
+          "theory_id": "T022074",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Emphasizes senescent cell accumulation, SASP, and their causal role in age-related diseases."
+        },
+        {
+          "theory_id": "T021960",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Describes permanent cell cycle arrest and SASP causing systemic inflammation and aging."
+        },
+        {
+          "theory_id": "T021906",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Links DNA damage, oxidative stress, senescence, and SASP to age-related diseases."
+        },
+        {
+          "theory_id": "T022080",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Focuses on gene expression changes in senescence and their impact on aging and tissue dysfunction."
+        },
+        {
+          "theory_id": "T022001",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Highlights senescent cell accumulation and SASP in CNS aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T022122",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Describes senescent cell accumulation and SASP promoting cardiovascular aging and disease."
+        },
+        {
+          "theory_id": "T021968",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Details senescent cell accumulation, SASP, and their causal role in multiple age-related diseases."
+        },
+        {
+          "theory_id": "T022139",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Focuses on SASP-driven chronic inflammation and dual roles of senescence in aging."
+        },
+        {
+          "theory_id": "T022207",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Emphasizes DNA damage-induced senescence, SASP, and immune clearance decline in aging."
+        },
+        {
+          "theory_id": "T021974",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Describes senescent cell accumulation and SASP effects in skin aging."
+        },
+        {
+          "theory_id": "T022039",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Focuses on senescent cell accumulation, SASP, and their dual role in tumor suppression and aging."
+        },
+        {
+          "theory_id": "T021929",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Highlights senescence as a causal driver of aging via SASP and immune system interactions."
+        },
+        {
+          "theory_id": "T021687",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Aging Theory",
+          "reasoning": "Discusses senescence accumulation, SASP, and complex aging-cancer relationships."
+        },
+        {
+          "theory_id": "T021952",
+          "subcluster_name": "Virus-Induced Cellular Senescence and SASP Aging Theory",
+          "reasoning": "Focuses on viral infection triggering senescence via cGAS-STING and SASP causing systemic aging."
+        },
+        {
+          "theory_id": "T021901",
+          "subcluster_name": "Tissue-Specific Senescence in Fat and Metabolic Aging Theory",
+          "reasoning": "Describes senescence accumulation in fat tissue causing inflammation and metabolic dysfunction."
+        },
+        {
+          "theory_id": "T022089",
+          "subcluster_name": "Telomere Shortening and DNA Damage-Induced Senescence Theory",
+          "reasoning": "Focuses on replicative senescence triggered by telomere shortening, DNA damage, and epigenetic changes."
+        },
+        {
+          "theory_id": "T021985",
+          "subcluster_name": "Telomere Shortening and DNA Damage-Induced Senescence Theory",
+          "reasoning": "Emphasizes DNA damage response activation and telomere attrition inducing senescence."
+        },
+        {
+          "theory_id": "T021977",
+          "subcluster_name": "p16INK4a-Mediated Cellular Senescence Aging Theory",
+          "reasoning": "Focuses on p16INK4a expression driving senescence and tissue-specific aging phenotypes."
+        },
+        {
+          "theory_id": "T022198",
+          "subcluster_name": "p16INK4a-Mediated Cellular Senescence Aging Theory",
+          "reasoning": "Uses p16INK4a as a biomarker linking senescent cell accumulation to biological aging."
+        },
+        {
+          "theory_id": "T021904",
+          "subcluster_name": "p53/p63-Mediated Tumor Suppression and Senescence Aging Theory",
+          "reasoning": "Describes p63 deficiency inducing senescence and accelerated aging via p53 pathways."
+        },
+        {
+          "theory_id": "T022158",
+          "subcluster_name": "p53/p63-Mediated Tumor Suppression and Senescence Aging Theory",
+          "reasoning": "Focuses on p53 tumor suppressor activity inducing senescence and aging trade-offs."
+        },
+        {
+          "theory_id": "T021969",
+          "subcluster_name": "p53/p63-Mediated Tumor Suppression and Senescence Aging Theory",
+          "reasoning": "Describes stem cell senescence via p53 and p16-Rb pathways limiting tissue homeostasis."
+        },
+        {
+          "theory_id": "T022112",
+          "subcluster_name": "Apoptosis Resistance in Senescent Cells Aging Theory",
+          "reasoning": "Focuses on senescent cells resisting apoptosis, leading to their accumulation and age-related disease."
+        },
+        {
+          "theory_id": "T022081",
+          "subcluster_name": "Senescent Cell Antigen and Membrane Protein Modification Aging Theory",
+          "reasoning": "Describes band 3 protein modification generating senescent cell antigen marking cells for removal."
+        },
+        {
+          "theory_id": "T021959",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence in Muscle Aging Theory",
+          "reasoning": "Focuses on autophagy decline causing accumulation of damaged components and senescence in muscle aging."
+        },
+        {
+          "theory_id": "T021576",
+          "subcluster_name": "Endothelial Cell Senescence and Cerebrovascular Aging Theory",
+          "reasoning": "Describes endothelial senescence causing vascular dysfunction and neurodegenerative aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:19:50"
+}

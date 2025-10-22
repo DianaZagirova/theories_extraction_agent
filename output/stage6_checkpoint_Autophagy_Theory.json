@@ -1,0 +1,550 @@
+{
+  "cluster_name": "Autophagy Theory",
+  "batches_completed": 3,
+  "batch_results": [
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Neuroendocrine and Non-Cell Autonomous Autophagy Theory",
+          "theory_ids": [
+            "T004568",
+            "T003322",
+            "T000354",
+            "T003355",
+            "T002554",
+            "T004606",
+            "T004591",
+            "T005207"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "TORC1-Regulated Autophagy Signaling and Aging Theory",
+          "theory_ids": [
+            "T001717",
+            "T002544",
+            "T005762",
+            "T003482",
+            "T005015",
+            "T001073",
+            "T005691"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 7
+        },
+        {
+          "subcluster_name": "Mitophagy and Organelle Quality Control Autophagy Theory",
+          "theory_ids": [
+            "T001247",
+            "T004206",
+            "T005446",
+            "T003974",
+            "T004789"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 5
+        },
+        {
+          "subcluster_name": "Metabolic Adaptation and Autophagy in Stem Cell Aging Theory",
+          "theory_ids": [
+            "T001534",
+            "T002761"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 2
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T004568",
+            "subcluster_name": "Neuroendocrine and Non-Cell Autonomous Autophagy Theory",
+            "reasoning": "Focuses on autophagy's role in neuroendocrine signaling and inter-tissue communication regulating lifespan, especially via neuronal autophagy and neuropeptide signaling."
+          },
+          {
+            "theory_id": "T003322",
+            "subcluster_name": "Neuroendocrine and Non-Cell Autonomous Autophagy Theory",
+            "reasoning": "Describes neuronal autophagy regulating brain aging through neuropeptide signaling and non-cell autonomous effects on synaptic aging."
+          },
+          {
+            "theory_id": "T000354",
+            "subcluster_name": "Neuroendocrine and Non-Cell Autonomous Autophagy Theory",
+            "reasoning": "Highlights tissue-specific and systemic effects of autophagy activation, including non-cell autonomous benefits on organismal aging."
+          },
+          {
+            "theory_id": "T003355",
+            "subcluster_name": "Neuroendocrine and Non-Cell Autonomous Autophagy Theory",
+            "reasoning": "Emphasizes autophagy as a central longevity mechanism integrating multiple longevity pathways, including systemic signaling and neuronal roles."
+          },
+          {
+            "theory_id": "T002554",
+            "subcluster_name": "Neuroendocrine and Non-Cell Autonomous Autophagy Theory",
+            "reasoning": "Focuses on autophagy as a fundamental anti-aging mechanism linking cellular homeostasis to systemic aging and organismal fitness."
+          },
+          {
+            "theory_id": "T004606",
+            "subcluster_name": "Neuroendocrine and Non-Cell Autonomous Autophagy Theory",
+            "reasoning": "Describes autophagy as a key mediator of dietary restriction-induced lifespan extension involving systemic nutrient sensing and signaling."
+          },
+          {
+            "theory_id": "T004591",
+            "subcluster_name": "Neuroendocrine and Non-Cell Autonomous Autophagy Theory",
+            "reasoning": "Focuses on autophagy-mediated cellular homeostasis and genetic regulation influencing lifespan, highlighting balance and systemic effects."
+          },
+          {
+            "theory_id": "T005207",
+            "subcluster_name": "Neuroendocrine and Non-Cell Autonomous Autophagy Theory",
+            "reasoning": "Describes autophagy's role in removing damaged organelles and preventing senescence, linking autophagy induction to longevity interventions."
+          },
+          {
+            "theory_id": "T001717",
+            "subcluster_name": "TORC1-Regulated Autophagy Signaling and Aging Theory",
+            "reasoning": "Focuses on Atg1-Fip200 complex regulating autophagy initiation and its antagonistic relationship with TORC1 signaling affecting growth and aging."
+          },
+          {
+            "theory_id": "T002544",
+            "subcluster_name": "TORC1-Regulated Autophagy Signaling and Aging Theory",
+            "reasoning": "Describes sestrin-mediated inhibition of mTORC1 leading to autophagy activation and lifespan extension under caloric deprivation."
+          },
+          {
+            "theory_id": "T005762",
+            "subcluster_name": "TORC1-Regulated Autophagy Signaling and Aging Theory",
+            "reasoning": "Explains TORC1 as a negative regulator of autophagy and aging, with exercise and caloric restriction modulating this pathway to maintain proteostasis."
+          },
+          {
+            "theory_id": "T003482",
+            "subcluster_name": "TORC1-Regulated Autophagy Signaling and Aging Theory",
+            "reasoning": "Highlights autophagy regulation by nutrient sensing pathways including AMPK and mTORC1, linking metabolic status to aging."
+          },
+          {
+            "theory_id": "T005015",
+            "subcluster_name": "TORC1-Regulated Autophagy Signaling and Aging Theory",
+            "reasoning": "Focuses on autophagy modulation via nutrient sensing and genetic pathways including mTOR inhibition, linking autophagy to longevity in mammals."
+          },
+          {
+            "theory_id": "T001073",
+            "subcluster_name": "TORC1-Regulated Autophagy Signaling and Aging Theory",
+            "reasoning": "Describes autophagy as a cytoprotective process linked to multiple longevity pathways including TOR inhibition and sirtuin activation."
+          },
+          {
+            "theory_id": "T005691",
+            "subcluster_name": "TORC1-Regulated Autophagy Signaling and Aging Theory",
+            "reasoning": "Describes TOR kinase inactivation during aging leading to autophagy induction as a compensatory quality control mechanism."
+          },
+          {
+            "theory_id": "T001247",
+            "subcluster_name": "Mitophagy and Organelle Quality Control Autophagy Theory",
+            "reasoning": "Focuses on autophagy's role in cardiac homeostasis, mitochondrial quality control, and the impact of mitophagy regulators on aging."
+          },
+          {
+            "theory_id": "T004206",
+            "subcluster_name": "Mitophagy and Organelle Quality Control Autophagy Theory",
+            "reasoning": "Describes mitophagy and xenophagy sharing molecular machinery, linking autophagy to immunity and programmed cell death relevant to aging."
+          },
+          {
+            "theory_id": "T005446",
+            "subcluster_name": "Mitophagy and Organelle Quality Control Autophagy Theory",
+            "reasoning": "Shows autophagy induction during aging in Podospora anserina with emphasis on quality control of damaged organelles and proteins."
+          },
+          {
+            "theory_id": "T003974",
+            "subcluster_name": "Mitophagy and Organelle Quality Control Autophagy Theory",
+            "reasoning": "Highlights autophagy as a longevity assurance mechanism via cellular quality control and protein-protein interaction networks."
+          },
+          {
+            "theory_id": "T004789",
+            "subcluster_name": "Mitophagy and Organelle Quality Control Autophagy Theory",
+            "reasoning": "Focuses on autophagy maintaining proteostasis and cellular homeostasis, regulated by nutrient-sensing pathways, essential for lifespan extension."
+          },
+          {
+            "theory_id": "T001534",
+            "subcluster_name": "Metabolic Adaptation and Autophagy in Stem Cell Aging Theory",
+            "reasoning": "Describes autophagy as an adaptive response preserving hematopoietic stem cell function under inflammation-driven metabolic stress."
+          },
+          {
+            "theory_id": "T002761",
+            "subcluster_name": "Metabolic Adaptation and Autophagy in Stem Cell Aging Theory",
+            "reasoning": "Focuses on autophagy maintaining stem cell homeostasis and quiescence by clearing damage and balancing nutrient sensing pathways."
+          },
+          {
+            "theory_id": "T001275",
+            "subcluster_name": "Epigenetic Regulation of Autophagy and Longevity Theory",
+            "reasoning": "Highlights spermidine-induced autophagy via epigenetic histone hypoacetylation leading to lifespan extension."
+          },
+          {
+            "theory_id": "T000745",
+            "subcluster_name": "Evolutionary Adaptations of Autophagy in Longevity Theory",
+            "reasoning": "Describes age-related increase and molecular adaptations of autophagy in bats contributing to exceptional longevity."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Caloric Restriction-Induced Autophagy Theory",
+          "theory_ids": [
+            "T014564",
+            "T012815",
+            "T014878",
+            "T018004",
+            "T015119",
+            "T015006",
+            "T013915",
+            "T016581"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "Oxidative Stress and Autophagy Regulation Theory",
+          "theory_ids": [
+            "T016299",
+            "T016507",
+            "T016809",
+            "T017915",
+            "T007573",
+            "T009019",
+            "T005802",
+            "T000745"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "Transcriptional Regulation of Autophagy in Longevity Theory",
+          "theory_ids": [
+            "T012499",
+            "T015565",
+            "T001275",
+            "T016827"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 4
+        },
+        {
+          "subcluster_name": "Autophagy and Lysosomal Function in Longevity Theory",
+          "theory_ids": [
+            "T015744",
+            "T015025",
+            "T016797",
+            "T010589",
+            "T014437"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 5
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T014564",
+            "subcluster_name": "Caloric Restriction-Induced Autophagy Theory",
+            "reasoning": "Focuses on autophagy induction by calorie restriction and fasting as a causal mechanism for lifespan extension."
+          },
+          {
+            "theory_id": "T012815",
+            "subcluster_name": "Caloric Restriction-Induced Autophagy Theory",
+            "reasoning": "Describes autophagy decline with age and mTOR inhibition by rapamycin or CR promoting autophagy and longevity."
+          },
+          {
+            "theory_id": "T014878",
+            "subcluster_name": "Caloric Restriction-Induced Autophagy Theory",
+            "reasoning": "Emphasizes autophagy preservation by caloric restriction preventing age-related decline and extending lifespan."
+          },
+          {
+            "theory_id": "T018004",
+            "subcluster_name": "Caloric Restriction-Induced Autophagy Theory",
+            "reasoning": "Links calorie restriction to autophagy induction via nutrient sensing pathways and lifespan extension."
+          },
+          {
+            "theory_id": "T015119",
+            "subcluster_name": "Caloric Restriction-Induced Autophagy Theory",
+            "reasoning": "Focuses on autophagy and mitophagy induced by calorie restriction supporting mitochondrial function and longevity."
+          },
+          {
+            "theory_id": "T015006",
+            "subcluster_name": "Caloric Restriction-Induced Autophagy Theory",
+            "reasoning": "Autophagy is necessary and sometimes sufficient for lifespan extension by caloric restriction and related interventions."
+          },
+          {
+            "theory_id": "T013915",
+            "subcluster_name": "Caloric Restriction-Induced Autophagy Theory",
+            "reasoning": "Shows autophagy mediates dietary restriction response and lifespan extension in Podospora anserina."
+          },
+          {
+            "theory_id": "T016581",
+            "subcluster_name": "Caloric Restriction-Induced Autophagy Theory",
+            "reasoning": "TOR inhibition activates autophagy leading to lifespan extension, a mechanism overlapping with CR effects."
+          },
+          {
+            "theory_id": "T016299",
+            "subcluster_name": "Oxidative Stress and Autophagy Regulation Theory",
+            "reasoning": "Focuses on autophagy activation via oxidative stress modulation and PHA-4 transcription factor in longevity."
+          },
+          {
+            "theory_id": "T016507",
+            "subcluster_name": "Oxidative Stress and Autophagy Regulation Theory",
+            "reasoning": "Highlights mitophagy and SKN-1 activation linking oxidative stress response to autophagy-mediated lifespan extension."
+          },
+          {
+            "theory_id": "T016809",
+            "subcluster_name": "Oxidative Stress and Autophagy Regulation Theory",
+            "reasoning": "Describes autophagy's dual role in stress resistance and its impact on oxidative stress sensitivity during aging."
+          },
+          {
+            "theory_id": "T017915",
+            "subcluster_name": "Oxidative Stress and Autophagy Regulation Theory",
+            "reasoning": "Shows Atg5 overexpression enhances autophagy and oxidative stress resistance, extending lifespan."
+          },
+          {
+            "theory_id": "T007573",
+            "subcluster_name": "Oxidative Stress and Autophagy Regulation Theory",
+            "reasoning": "p53 regulation of autophagy influences aging via modulation of oxidative stress and autophagic clearance."
+          },
+          {
+            "theory_id": "T009019",
+            "subcluster_name": "Oxidative Stress and Autophagy Regulation Theory",
+            "reasoning": "Fasting-induced autophagy reduces oxidative damage and lipofuscin accumulation, promoting hormesis and longevity."
+          },
+          {
+            "theory_id": "T005802",
+            "subcluster_name": "Oxidative Stress and Autophagy Regulation Theory",
+            "reasoning": "Long-lived mutant mice show increased autophagy and stress resistance linked to reduced mTOR and oxidative stress."
+          },
+          {
+            "theory_id": "T000745",
+            "subcluster_name": "Oxidative Stress and Autophagy Regulation Theory",
+            "reasoning": "Bats exhibit age-related increase in autophagy as a compensatory mechanism against oxidative stress and aging."
+          },
+          {
+            "theory_id": "T012499",
+            "subcluster_name": "Transcriptional Regulation of Autophagy in Longevity Theory",
+            "reasoning": "Focuses on transcription factors (HLH-30/TFEB, PHA-4, DAF-16) regulating autophagy genes essential for lifespan extension."
+          },
+          {
+            "theory_id": "T015565",
+            "subcluster_name": "Transcriptional Regulation of Autophagy in Longevity Theory",
+            "reasoning": "Describes GATA transcription factors as negative regulators of autophagy and flavonoid DMC inducing autophagy independently of TOR."
+          },
+          {
+            "theory_id": "T001275",
+            "subcluster_name": "Transcriptional Regulation of Autophagy in Longevity Theory",
+            "reasoning": "Spermidine induces autophagy via epigenetic regulation of autophagy genes, promoting longevity across species."
+          },
+          {
+            "theory_id": "T016827",
+            "subcluster_name": "Transcriptional Regulation of Autophagy in Longevity Theory",
+            "reasoning": "Fine-tuning autophagy levels affects lifespan; autophagy acts downstream of insulin/IGF signaling and coordinates with proteasomal degradation."
+          },
+          {
+            "theory_id": "T015744",
+            "subcluster_name": "Autophagy and Lysosomal Function in Longevity Theory",
+            "reasoning": "Highlights vacuolar acidification as essential for autophagy-mediated lifespan extension under methionine restriction."
+          },
+          {
+            "theory_id": "T015025",
+            "subcluster_name": "Autophagy and Lysosomal Function in Longevity Theory",
+            "reasoning": "Shows autophagy maintains cellular homeostasis during yeast chronological aging, critical for survival in non-dividing cells."
+          },
+          {
+            "theory_id": "T016797",
+            "subcluster_name": "Autophagy and Lysosomal Function in Longevity Theory",
+            "reasoning": "Demonstrates autophagy is essential for lifespan extension during quiescence in fission yeast."
+          },
+          {
+            "theory_id": "T010589",
+            "subcluster_name": "Autophagy and Lysosomal Function in Longevity Theory",
+            "reasoning": "Describes decline of autophagy and lysosomal degradation with age leading to proteostasis collapse and age-related diseases."
+          },
+          {
+            "theory_id": "T014437",
+            "subcluster_name": "Autophagy and Lysosomal Function in Longevity Theory",
+            "reasoning": "Emphasizes selective autophagy and tissue-specific regulation of autophagy as causal anti-aging mechanisms."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+          "theory_ids": [
+            "T023832",
+            "T021221",
+            "T022565",
+            "T019376",
+            "T021684",
+            "T026321",
+            "T019080",
+            "T024978",
+            "T021800",
+            "T021647",
+            "T024624",
+            "T027159"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 12
+        },
+        {
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "theory_ids": [
+            "T022991",
+            "T018036",
+            "T020561",
+            "T020770"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 4
+        },
+        {
+          "subcluster_name": "Metabolic Aging and Autophagy Dysfunction Theory",
+          "theory_ids": [
+            "T027261",
+            "T026400",
+            "T020590",
+            "T025938",
+            "T018971",
+            "T021695"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 6
+        },
+        {
+          "subcluster_name": "Autophagy Theory",
+          "theory_ids": [
+            "T022345"
+          ],
+          "theory_count": 1,
+          "mechanism_focus": "",
+          "status": "singleton_warning",
+          "warning_reason": "1 subclusters too small"
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T023832",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Focuses on autophagy-mediated degradation of p16INK4a, a key senescence inducer, linking autophagy directly to modulation of cellular senescence."
+          },
+          {
+            "theory_id": "T021221",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Describes bidirectional crosstalk between autophagy and cellular senescence, emphasizing autophagy\u2019s role in delaying senescence and aging."
+          },
+          {
+            "theory_id": "T022565",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Highlights autophagy\u2019s dual role in preventing and supporting senescence, showing complex regulation of aging via senescence pathways."
+          },
+          {
+            "theory_id": "T019376",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Focuses on autophagy defects leading to accumulation of damaged components and cellular senescence, linking autophagy to aging via senescence."
+          },
+          {
+            "theory_id": "T021684",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Emphasizes autophagy gene regulation and its decline contributing to cellular dysfunction and senescence in aging."
+          },
+          {
+            "theory_id": "T026321",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "General autophagy theory highlighting decline of autophagy with age leading to accumulation of damage and senescence."
+          },
+          {
+            "theory_id": "T019080",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Describes age-related decline in autophagy and its manipulation to extend lifespan, linking autophagy to aging and senescence."
+          },
+          {
+            "theory_id": "T024978",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Focuses on autophagy-mediated quality control preventing toxic aggregate accumulation and cellular damage, relevant to senescence and aging."
+          },
+          {
+            "theory_id": "T021800",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Details autophagy-lysosomal network integrity decline with age causing accumulation of damage and cellular dysfunction linked to senescence."
+          },
+          {
+            "theory_id": "T021647",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Describes autophagy\u2019s role in limiting oxidative damage and preserving stem cell function, preventing senescence and aging."
+          },
+          {
+            "theory_id": "T024624",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Shows high autophagy levels in long-lived species protect against cellular stress and apoptosis, maintaining tissue function and delaying senescence."
+          },
+          {
+            "theory_id": "T027159",
+            "subcluster_name": "Autophagy and Cellular Senescence Regulation Theory",
+            "reasoning": "Tissue-specific autophagy increase in aging blood monocytes linked to inflammation and ROS, connecting autophagy to cellular aging and senescence."
+          },
+          {
+            "theory_id": "T022991",
+            "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+            "reasoning": "Emphasizes mitophagy and mitochondrial quality control as key autophagy mechanisms preventing ROS accumulation and aging."
+          },
+          {
+            "theory_id": "T018036",
+            "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+            "reasoning": "Focuses on selective mitophagy for mitochondrial quality control, preventing ROS-driven aging and tumorigenesis."
+          },
+          {
+            "theory_id": "T020561",
+            "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+            "reasoning": "Highlights role of p62/SQSTM1 adaptor in mitophagy and proteostasis, promoting mitochondrial health and lifespan extension."
+          },
+          {
+            "theory_id": "T020770",
+            "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+            "reasoning": "Links autophagy with lipid metabolism and mitochondrial function, showing genetic interactions that modulate aging via mitochondrial quality."
+          },
+          {
+            "theory_id": "T027261",
+            "subcluster_name": "Metabolic Aging and Autophagy Dysfunction Theory",
+            "reasoning": "Describes metabolic aging driven by impaired autophagy affecting nutrient sensing, mitochondrial function, and systemic aging."
+          },
+          {
+            "theory_id": "T026400",
+            "subcluster_name": "Metabolic Aging and Autophagy Dysfunction Theory",
+            "reasoning": "Focuses on nutrient restriction stimulating autophagy to slow biological aging and delay metabolic age-related diseases."
+          },
+          {
+            "theory_id": "T020590",
+            "subcluster_name": "Metabolic Aging and Autophagy Dysfunction Theory",
+            "reasoning": "Details autophagy\u2019s role in longevity pathways regulated by insulin/IGF-1 and dietary restriction, linking metabolism and aging."
+          },
+          {
+            "theory_id": "T025938",
+            "subcluster_name": "Metabolic Aging and Autophagy Dysfunction Theory",
+            "reasoning": "Shows autophagy activation via key longevity signaling pathways (IIS, DR) promotes lifespan and healthspan by metabolic regulation."
+          },
+          {
+            "theory_id": "T018971",
+            "subcluster_name": "Metabolic Aging and Autophagy Dysfunction Theory",
+            "reasoning": "Links autophagy to lipid metabolism and longevity, highlighting lipase LIPL-4 regulation in metabolic aging."
+          },
+          {
+            "theory_id": "T021695",
+            "subcluster_name": "Metabolic Aging and Autophagy Dysfunction Theory",
+            "reasoning": "Describes coordinated regulation of autophagy and lipid metabolism via PHA-4 and TOR in germline-less C. elegans lifespan extension."
+          },
+          {
+            "theory_id": "T022345",
+            "subcluster_name": "Transcriptional Regulation of Autophagy in Aging Theory",
+            "reasoning": "Focuses on HLH-30/TFEB transcription factor as master regulator of autophagy gene expression and lysosomal biogenesis promoting longevity."
+          }
+        ]
+      }
+    }
+  ],
+  "timestamp": "2025-10-22 11:49:46"
+}

@@ -1,0 +1,204 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+        "theory_ids": [
+          "T002986",
+          "T003120",
+          "T002367",
+          "T003001",
+          "T002794",
+          "T002830",
+          "T002214",
+          "T002234",
+          "T003232",
+          "T002312",
+          "T001314"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Mitonuclear Interaction and Coevolution Aging Theory",
+        "theory_ids": [
+          "T002145",
+          "T002971",
+          "T002725",
+          "T002394",
+          "T002716"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial Respiratory Chain Activity and Aging Theory",
+        "theory_ids": [
+          "T003296",
+          "T002562",
+          "T002657",
+          "T002387",
+          "T002297",
+          "T003051"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial Biogenesis and Signaling Pathway Aging Theory",
+        "theory_ids": [
+          "T002128",
+          "T002254",
+          "T002241",
+          "T002708",
+          "T002789"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T002986",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Focuses on accumulation of mtDNA mutations causing tissue-specific aging and cardiovascular dysfunction."
+        },
+        {
+          "theory_id": "T003120",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Emphasizes oxidative damage accumulation in mtDNA and defective repair accelerating aging."
+        },
+        {
+          "theory_id": "T002367",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Highlights replication errors causing mtDNA mutations as primary driver of mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T003001",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Proposes rare lethal mtDNA mutations induce apoptosis leading to aging via cell loss."
+        },
+        {
+          "theory_id": "T002794",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Describes mtDNA mutation accumulation causing respiratory chain deficiency and age-related osteoporosis."
+        },
+        {
+          "theory_id": "T002830",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Classic mitochondrial free radical theory linking ROS-induced mtDNA damage to aging vicious cycle."
+        },
+        {
+          "theory_id": "T002214",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Details ROS production causing mtDNA mutations and vicious cycle accelerating aging."
+        },
+        {
+          "theory_id": "T002234",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Focuses on ROS-induced mtDNA mutations causing respiratory dysfunction and feedback ROS amplification."
+        },
+        {
+          "theory_id": "T003232",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Describes mitochondrial ROS causing mtDNA oxidative damage and functional decline driving aging."
+        },
+        {
+          "theory_id": "T002312",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Summarizes mitochondrial ROS and mtDNA mutation vicious cycle as driver of systemic aging."
+        },
+        {
+          "theory_id": "T001314",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Links mtDNA copy number decline to mitochondrial dysfunction and vascular aging."
+        },
+        {
+          "theory_id": "T002145",
+          "subcluster_name": "Mitonuclear Interaction and Coevolution Aging Theory",
+          "reasoning": "Focuses on mitonuclear coevolution and compensatory mutations maintaining mitochondrial function."
+        },
+        {
+          "theory_id": "T002971",
+          "subcluster_name": "Mitonuclear Interaction and Coevolution Aging Theory",
+          "reasoning": "Describes mitonuclear match/mismatch affecting free radical leak, apoptosis, and aging."
+        },
+        {
+          "theory_id": "T002725",
+          "subcluster_name": "Mitonuclear Interaction and Coevolution Aging Theory",
+          "reasoning": "Explores mitonuclear epistasis and sex-specific effects on mitochondrial bioenergetics and aging."
+        },
+        {
+          "theory_id": "T002394",
+          "subcluster_name": "Mitonuclear Interaction and Coevolution Aging Theory",
+          "reasoning": "Details mitochondrial superoxide dismutase interactions with ETC supercomplexes affecting ROS and lifespan."
+        },
+        {
+          "theory_id": "T002716",
+          "subcluster_name": "Mitonuclear Interaction and Coevolution Aging Theory",
+          "reasoning": "Focuses on respiratory supercomplex stability regulated by RCF1 affecting mitochondrial function and aging."
+        },
+        {
+          "theory_id": "T003296",
+          "subcluster_name": "Mitochondrial Respiratory Chain Activity and Aging Theory",
+          "reasoning": "Proposes mitochondrial respiratory chain activity, especially complex I, modulates aging and lifespan."
+        },
+        {
+          "theory_id": "T002562",
+          "subcluster_name": "Mitochondrial Respiratory Chain Activity and Aging Theory",
+          "reasoning": "Describes age-related decline in mitochondrial respiration and complex IV activity causing dysfunction."
+        },
+        {
+          "theory_id": "T002657",
+          "subcluster_name": "Mitochondrial Respiratory Chain Activity and Aging Theory",
+          "reasoning": "Uncoupling-to-survive theory linking UCP-mediated mild uncoupling to reduced ROS and lifespan extension."
+        },
+        {
+          "theory_id": "T002387",
+          "subcluster_name": "Mitochondrial Respiratory Chain Activity and Aging Theory",
+          "reasoning": "Shows mitochondrial uncoupling in insulin-producing cells attenuates insulin signaling and extends lifespan."
+        },
+        {
+          "theory_id": "T002297",
+          "subcluster_name": "Mitochondrial Respiratory Chain Activity and Aging Theory",
+          "reasoning": "Describes IPAM as mitochondrial metabolism modifier reducing electron leakage and ROS, extending lifespan."
+        },
+        {
+          "theory_id": "T003051",
+          "subcluster_name": "Mitochondrial Respiratory Chain Activity and Aging Theory",
+          "reasoning": "Links endogenous mitochondrial ROS production rates inversely to longevity and caloric restriction effects."
+        },
+        {
+          "theory_id": "T002128",
+          "subcluster_name": "Mitochondrial Biogenesis and Signaling Pathway Aging Theory",
+          "reasoning": "Focuses on PGC-1\u03b1 signaling pathway regulating mitochondrial biogenesis and its decline causing dysfunction."
+        },
+        {
+          "theory_id": "T002254",
+          "subcluster_name": "Mitochondrial Biogenesis and Signaling Pathway Aging Theory",
+          "reasoning": "Integrates mitochondrial function with GCN4-mediated integrated stress response in caloric restriction lifespan extension."
+        },
+        {
+          "theory_id": "T002241",
+          "subcluster_name": "Mitochondrial Biogenesis and Signaling Pathway Aging Theory",
+          "reasoning": "Describes mitochondrial permeability transition pore regulation affecting autophagy and lifespan."
+        },
+        {
+          "theory_id": "T002708",
+          "subcluster_name": "Mitochondrial Biogenesis and Signaling Pathway Aging Theory",
+          "reasoning": "Explains mitochondrial fusion-fission dynamics controlling mutant mtDNA accumulation and quality control."
+        },
+        {
+          "theory_id": "T002789",
+          "subcluster_name": "Mitochondrial Biogenesis and Signaling Pathway Aging Theory",
+          "reasoning": "Mitochondrial-lysosomal axis theory linking impaired autophagy, lipofuscin accumulation, and oxidative stress."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:39:01"
+}

@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 35,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+        "theory_ids": [
+          "T024467",
+          "T024510",
+          "T024439",
+          "T024403",
+          "T024488",
+          "T024476",
+          "T024499",
+          "T024490",
+          "T024599",
+          "T024503",
+          "T024546",
+          "T024441",
+          "T024501",
+          "T024588",
+          "T024296",
+          "T024470",
+          "T024449",
+          "T024521"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 18
+      },
+      {
+        "subcluster_name": "Reproductive Resource Allocation Trade-Off Theory",
+        "theory_ids": [
+          "T024269",
+          "T024192",
+          "T024234",
+          "T024276",
+          "T024565",
+          "T023577"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Insulin/IGF Signaling Modulation Theory",
+        "theory_ids": [
+          "T024576",
+          "T024235"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024467",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "This theory focuses on dietary restriction, including calorie and protein restriction, and their effects on conserved metabolic and stress response pathways like TOR signaling, fitting well with other CR/DR theories emphasizing nutrient sensing."
+        },
+        {
+          "theory_id": "T024510",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "This theory centers on calorie restriction extending lifespan via metabolic and nutrient-sensing pathways such as Sir2/SIRT1 and mTOR, aligning with other CR/DR theories focused on molecular signaling mechanisms."
+        },
+        {
+          "theory_id": "T024439",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "This theory describes calorie restriction effects on lifespan and physiological decline through metabolic and endocrine pathways, consistent with the CR/DR signaling theme."
+        },
+        {
+          "theory_id": "T024403",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Focuses on dietary restriction effects on lifespan via nutrient-specific effects and conserved nutrient-sensing pathways like TOR, fitting the CR/DR signaling subcluster."
+        },
+        {
+          "theory_id": "T024488",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Describes calorie restriction as a model influencing metabolic, hormonal, and cellular pathways to slow aging, consistent with the CR/DR signaling cluster."
+        },
+        {
+          "theory_id": "T024476",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Emphasizes calorie restriction activating survival programs and modulating metabolic and hormonal pathways, fitting the CR/DR signaling theme."
+        },
+        {
+          "theory_id": "T024499",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Focuses on calorie restriction inducing metabolic and molecular adaptations, modulating nutrient-sensing pathways, and extending healthspan, aligning with CR/DR signaling mechanisms."
+        },
+        {
+          "theory_id": "T024490",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Describes graded calorie restriction effects on lifespan, body mass, and metabolic signaling pathways, consistent with CR/DR signaling cluster."
+        },
+        {
+          "theory_id": "T024599",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Focuses on caloric restriction reducing oxidative stress and DNA damage, modulating metabolic and gene expression pathways, fitting the CR/DR signaling subcluster."
+        },
+        {
+          "theory_id": "T024503",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Discusses dietary restriction effects on lifespan via macronutrient balance and nutrient-sensing pathways like TOR, consistent with CR/DR signaling."
+        },
+        {
+          "theory_id": "T024546",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Describes caloric restriction as a hormetic stressor activating maintenance pathways via nutrient sensing (IIS, mTOR, FOXO), fitting the CR/DR signaling cluster."
+        },
+        {
+          "theory_id": "T024441",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Focuses on calorie restriction inducing metabolic, molecular, and cellular adaptations including downregulation of growth pathways and enhanced autophagy, consistent with CR/DR signaling."
+        },
+        {
+          "theory_id": "T024501",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Describes calorie restriction effects on gene expression, insulin signaling, and metabolic health, supporting CR/DR signaling mechanisms."
+        },
+        {
+          "theory_id": "T024588",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Focuses on molecular mechanisms of dietary restriction mediated by conserved pathways such as TOR and IIS, fitting the CR/DR signaling cluster."
+        },
+        {
+          "theory_id": "T024269",
+          "subcluster_name": "Reproductive Resource Allocation Trade-Off Theory",
+          "reasoning": "Describes resource allocation trade-offs between somatic maintenance and reproduction under caloric restriction, emphasizing evolutionary adaptation and life-history trade-offs."
+        },
+        {
+          "theory_id": "T024192",
+          "subcluster_name": "Reproductive Resource Allocation Trade-Off Theory",
+          "reasoning": "Focuses on resource allocation trade-offs between reproduction and somatic maintenance leading to aging, consistent with reproductive investment trade-off mechanisms."
+        },
+        {
+          "theory_id": "T024234",
+          "subcluster_name": "Reproductive Resource Allocation Trade-Off Theory",
+          "reasoning": "Describes androgen-mediated reproductive trade-offs that accelerate reproductive senescence by diverting resources from somatic maintenance, fitting the reproductive trade-off theme."
+        },
+        {
+          "theory_id": "T024276",
+          "subcluster_name": "Reproductive Resource Allocation Trade-Off Theory",
+          "reasoning": "Focuses on resource allocation trade-offs between reproduction and somatic maintenance, life-history trade-offs, and evolutionary basis of aging, consistent with reproductive trade-off mechanisms."
+        },
+        {
+          "theory_id": "T024565",
+          "subcluster_name": "Reproductive Resource Allocation Trade-Off Theory",
+          "reasoning": "Describes inverse relationship between reproduction and lifespan mediated by energy allocation, consistent with reproductive trade-off theory."
+        },
+        {
+          "theory_id": "T023577",
+          "subcluster_name": "Reproductive Resource Allocation Trade-Off Theory",
+          "reasoning": "Focuses on molecular basis of reproductive senescence involving genome instability, mitochondrial dysfunction, and proteostasis loss, linking reproductive aging to somatic maintenance trade-offs."
+        },
+        {
+          "theory_id": "T024576",
+          "subcluster_name": "Insulin/IGF Signaling Modulation Theory",
+          "reasoning": "Focuses on insulin/IGF signaling reduction extending lifespan and its paradoxical effects on aging and metabolic diseases, fitting the IIS signaling subcluster."
+        },
+        {
+          "theory_id": "T024235",
+          "subcluster_name": "Insulin/IGF Signaling Modulation Theory",
+          "reasoning": "Describes IGF1 signaling as a conserved pathway influencing lifespan with complex tissue-specific effects, consistent with IIS modulation mechanisms."
+        },
+        {
+          "theory_id": "T024296",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Describes calorie restriction effects on lifespan and healthspan via metabolic adaptation, oxidative stress reduction, and endocrine regulation, fitting the CR/DR signaling cluster."
+        },
+        {
+          "theory_id": "T024470",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Focuses on calorie restriction modulating fundamental aging mechanisms like oxidative stress and inflammation, preserving telomere length, consistent with CR/DR signaling."
+        },
+        {
+          "theory_id": "T024449",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Describes calorie restriction's cardiovascular protective effects via improved endothelial function, reduced oxidative stress, and pharmacological mimetics, fitting CR/DR signaling."
+        },
+        {
+          "theory_id": "T024521",
+          "subcluster_name": "Dietary and Calorie Restriction Signaling Theory",
+          "reasoning": "Focuses on calorie restriction regulating neurogenesis and brain function via molecular pathways like SIRT1 and BDNF, consistent with CR/DR signaling mechanisms."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:13:57"
+}

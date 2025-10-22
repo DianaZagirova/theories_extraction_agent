@@ -1,0 +1,185 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+        "theory_ids": [
+          "T002001",
+          "T001120",
+          "T002072",
+          "T001958",
+          "T001635",
+          "T001928",
+          "T001137",
+          "T002087",
+          "T002089",
+          "T001561"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Mitochondrial Functional State and Signaling Theory",
+        "theory_ids": [
+          "T001152",
+          "T002040",
+          "T002102",
+          "T001234",
+          "T001504",
+          "T001189",
+          "T001218",
+          "T001524",
+          "T001747"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+        "theory_ids": [
+          "T001407",
+          "T001906",
+          "T001505",
+          "T001098",
+          "T001204",
+          "T001431"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T002001",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+          "reasoning": "Focuses on accumulation, purging, and transfer of mtDNA mutations and their impact on aging, emphasizing mutation dynamics and repair mechanisms."
+        },
+        {
+          "theory_id": "T001120",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+          "reasoning": "Describes clonal expansion of mtDNA deletions in postmitotic tissues, highlighting mutation accumulation and its aging effects."
+        },
+        {
+          "theory_id": "T002072",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+          "reasoning": "Centers on mtDNA damage accumulation causing bioenergetic decline, linking mutation load to aging phenotypes."
+        },
+        {
+          "theory_id": "T001958",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+          "reasoning": "Focuses on mitochondrial heteroplasmy dynamics and mtDNA mutation regulation as key to aging and longevity."
+        },
+        {
+          "theory_id": "T001635",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+          "reasoning": "Details clonal expansion of mtDNA deletions in muscle aging, emphasizing mutation thresholds and functional decline."
+        },
+        {
+          "theory_id": "T001928",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+          "reasoning": "Describes mtDNA mutation accumulation causing mitochondrial dysfunction and ROS-mediated damage in aging cells."
+        },
+        {
+          "theory_id": "T001137",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+          "reasoning": "Explains ROS-induced mtDNA damage and mutation accumulation creating a vicious cycle driving aging."
+        },
+        {
+          "theory_id": "T002087",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+          "reasoning": "Links mtDNA mutations and oxidative DNA damage to mitochondrial dysfunction and accelerated aging."
+        },
+        {
+          "theory_id": "T002089",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction from mtDNA mutations and ROS causing neuromuscular junction degeneration."
+        },
+        {
+          "theory_id": "T001561",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Purging Theory",
+          "reasoning": "Posits mitochondrial dysfunction from accumulated damage and mtDNA mutations as causal in aging."
+        },
+        {
+          "theory_id": "T001152",
+          "subcluster_name": "Mitochondrial Functional State and Signaling Theory",
+          "reasoning": "Emphasizes mitochondrial functional states, signaling roles, and retrograde communication affecting aging."
+        },
+        {
+          "theory_id": "T002040",
+          "subcluster_name": "Mitochondrial Functional State and Signaling Theory",
+          "reasoning": "Focuses on mitochondrial quality control, asymmetric fission, and ubiquitination as a mitochondrial aging clock."
+        },
+        {
+          "theory_id": "T002102",
+          "subcluster_name": "Mitochondrial Functional State and Signaling Theory",
+          "reasoning": "Describes mitophagy-mediated mitochondrial stress response and its role in lifespan extension."
+        },
+        {
+          "theory_id": "T001234",
+          "subcluster_name": "Mitochondrial Functional State and Signaling Theory",
+          "reasoning": "Details mitophagy impairment in sarcopenia, highlighting quality control failure and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T001504",
+          "subcluster_name": "Mitochondrial Functional State and Signaling Theory",
+          "reasoning": "Focuses on mitochondrial unfolded protein response (UPRmt) regulation by histone deacetylases and longevity."
+        },
+        {
+          "theory_id": "T001189",
+          "subcluster_name": "Mitochondrial Functional State and Signaling Theory",
+          "reasoning": "Describes mitonuclear protein imbalance triggering UPRmt and compensatory responses linked to longevity."
+        },
+        {
+          "theory_id": "T001218",
+          "subcluster_name": "Mitochondrial Functional State and Signaling Theory",
+          "reasoning": "Explores mitoptosis as selective mitochondrial suicide for quality control and rejuvenation."
+        },
+        {
+          "theory_id": "T001524",
+          "subcluster_name": "Mitochondrial Functional State and Signaling Theory",
+          "reasoning": "Highlights mild mitochondrial bioenergetic stress during development triggering compensatory longevity pathways."
+        },
+        {
+          "theory_id": "T001747",
+          "subcluster_name": "Mitochondrial Functional State and Signaling Theory",
+          "reasoning": "Links mtDNA copy number as a biomarker of mitochondrial health mediating psychosocial stress and aging."
+        },
+        {
+          "theory_id": "T001407",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS production causing oxidative damage leading to insulin resistance and aging."
+        },
+        {
+          "theory_id": "T001906",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Describes mitochondrial ROS as causal agents of aging and benefits of mitochondria-targeted antioxidants."
+        },
+        {
+          "theory_id": "T001505",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Details genetically regulated mitochondrial ROS generation network involving p53, p66shc, and MnSOD affecting aging."
+        },
+        {
+          "theory_id": "T001098",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Links mitochondrial dysfunction and oxidative stress accumulation to aging and growth-longevity trade-offs."
+        },
+        {
+          "theory_id": "T001204",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Posits mitochondrial superoxide generation as a key driver of aging with inverse correlation to lifespan."
+        },
+        {
+          "theory_id": "T001431",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial oxidative stress causing muscle atrophy via complex II impairment and ROS damage."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:38:39"
+}

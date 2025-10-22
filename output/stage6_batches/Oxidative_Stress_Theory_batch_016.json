@@ -1,0 +1,180 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 16,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+        "theory_ids": [
+          "T017293",
+          "T018264",
+          "T018620",
+          "T017228",
+          "T018195",
+          "T017288",
+          "T017325",
+          "T017880",
+          "T017273",
+          "T017799",
+          "T018543",
+          "T017233",
+          "T018800",
+          "T018670",
+          "T017333"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Lipid Peroxidation and Brain Oxidative Stress Theory",
+        "theory_ids": [
+          "T018487",
+          "T018495"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Oxidation-Inflammation and Immune Dysfunction Theory",
+        "theory_ids": [
+          "T018663",
+          "T018767",
+          "T018488"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T017293",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS production causing oxidative damage to macromolecules leading to aging."
+        },
+        {
+          "theory_id": "T018264",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Emphasizes mitochondrial electron transport as primary ROS source and imbalance of ROS/antioxidants in aging."
+        },
+        {
+          "theory_id": "T018620",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Highlights mitochondrial ROS generation, oxidative damage accumulation, and dietary modulation of aging."
+        },
+        {
+          "theory_id": "T017228",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes ROS generated during metabolism causing cumulative damage, with hypoxia/reoxygenation increasing oxidative stress."
+        },
+        {
+          "theory_id": "T018195",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS generation, glutathione redox shifts, and caloric restriction effects on oxidative stress."
+        },
+        {
+          "theory_id": "T017288",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes ROS as causal agents of aging with accumulation of oxidative damage and imperfect antioxidant defenses."
+        },
+        {
+          "theory_id": "T017325",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial superoxide radicals causing damage and role of SOD enzymes in mitigating oxidative stress."
+        },
+        {
+          "theory_id": "T017880",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes ROS production, oxidative damage to biomolecules, and antioxidant enzymes modulating lifespan."
+        },
+        {
+          "theory_id": "T017273",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS generation, balance with scavenging enzymes, and genetic modulation of oxidative stress."
+        },
+        {
+          "theory_id": "T017799",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Links oxidative damage accumulation to aging and shows resistance to oxidative stress extends lifespan."
+        },
+        {
+          "theory_id": "T018543",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial membrane properties influencing ROS leakage and oxidative damage contributing to aging."
+        },
+        {
+          "theory_id": "T017233",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Details mitochondrial complexes as ROS sources and ROS-induced damage driving functional decline and aging."
+        },
+        {
+          "theory_id": "T018800",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes mitochondrial ROS production, sex differences in antioxidant defenses, and p53 role in oxidative stress and aging."
+        },
+        {
+          "theory_id": "T018670",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on metabolic oxidant by-products causing molecular damage and antioxidant defenses influencing aging and diseases."
+        },
+        {
+          "theory_id": "T017333",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Discusses accumulation of oxidative damage, antioxidant defenses, and DNA repair capacity modulating aging."
+        },
+        {
+          "theory_id": "T018487",
+          "subcluster_name": "Lipid Peroxidation and Brain Oxidative Stress Theory",
+          "reasoning": "Focuses on ROS generation in brain, lipid peroxidation as oxidative damage marker, and antioxidant enzyme changes in brain aging."
+        },
+        {
+          "theory_id": "T018495",
+          "subcluster_name": "Lipid Peroxidation and Brain Oxidative Stress Theory",
+          "reasoning": "Emphasizes oxygen free radicals causing lipid peroxidation, malondialdehyde as aging marker, and antioxidant defenses."
+        },
+        {
+          "theory_id": "T018761",
+          "subcluster_name": "Mitochondrial DNA Damage-Driven Oxidative Stress Theory",
+          "reasoning": "Focuses on ROS-induced mitochondrial DNA mutations and vicious cycle of mtDNA damage and ROS production driving aging."
+        },
+        {
+          "theory_id": "T018098",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes oxidative stress causing cellular senescence, activation of senescence markers, and proinflammatory SASP contributing to aging."
+        },
+        {
+          "theory_id": "T018663",
+          "subcluster_name": "Oxidation-Inflammation and Immune Dysfunction Theory",
+          "reasoning": "Links chronic oxidative stress in immune cells to inflammation, NF-kappaB activation, neuroimmunomodulation, and aging."
+        },
+        {
+          "theory_id": "T018767",
+          "subcluster_name": "Oxidation-Inflammation and Immune Dysfunction Theory",
+          "reasoning": "Describes oxidative/nitrosative stress, mitochondrial dysfunction, antioxidant impairment, and inflammation in accelerated aging and MDD."
+        },
+        {
+          "theory_id": "T018488",
+          "subcluster_name": "Oxidation-Inflammation and Immune Dysfunction Theory",
+          "reasoning": "Focuses on reactive oxygen intermediates dysregulation causing immunosenescence, chronic inflammation, and autoimmunity."
+        },
+        {
+          "theory_id": "T016986",
+          "subcluster_name": "Phase 2 Protein Induction and Antioxidant Defense Theory",
+          "reasoning": "Highlights oxidative stress driving aging, decline in antioxidant capacity, and protective role of phase 2 protein induction via Nrf2."
+        },
+        {
+          "theory_id": "T016368",
+          "subcluster_name": "MsrA-Catalytic Antioxidant Defense Theory",
+          "reasoning": "Focuses on methionine sulfoxide reductase A repairing oxidized methionine and catalyzing antioxidant reactions to extend lifespan."
+        },
+        {
+          "theory_id": "T014332",
+          "subcluster_name": "ROS Network Robustness and Aging Theory",
+          "reasoning": "Describes aging as breakdown of ROS network robustness, involving multiple subnetworks maintaining ROS homeostasis and delaying aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:31:25"
+}

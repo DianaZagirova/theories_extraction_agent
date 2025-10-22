@@ -1,0 +1,184 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 11,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+        "theory_ids": [
+          "T013079",
+          "T012657",
+          "T013845",
+          "T013922",
+          "T013712",
+          "T014129",
+          "T012773",
+          "T012203",
+          "T014166",
+          "T014039",
+          "T013718",
+          "T013548",
+          "T013217",
+          "T013923",
+          "T014091",
+          "T012999",
+          "T014173"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and Instability Theory",
+        "theory_ids": [
+          "T013566",
+          "T012452",
+          "T014107"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Damage Segregation and Cellular Damage Partitioning Theory",
+        "theory_ids": [
+          "T012829",
+          "T013266",
+          "T012322",
+          "T013952"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T013079",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Focuses on endogenous DNA base lesions, BER pathway, and DNA damage response proteins influencing aging via nuclear DNA damage accumulation and repair."
+        },
+        {
+          "theory_id": "T012657",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Describes genome maintenance loss, DNA damage accumulation, and repair defects causing cellular malfunction and aging, centered on nuclear DNA."
+        },
+        {
+          "theory_id": "T013845",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Emphasizes BER enzyme APE1 deficiency causing nuclear DNA damage accumulation, telomere damage, and cellular senescence driving aging."
+        },
+        {
+          "theory_id": "T013922",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Highlights age-related decline in DNA repair capacity leading to accumulation of unrepaired chromosomal and nuclear DNA damage contributing to aging."
+        },
+        {
+          "theory_id": "T013712",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Focuses on genomic instability from nuclear DNA damage and mutations, including progeroid syndromes caused by nuclear DNA repair defects."
+        },
+        {
+          "theory_id": "T014129",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Discusses DNA damage as universal challenge and recombinational repair via sexual reproduction, emphasizing nuclear genome maintenance."
+        },
+        {
+          "theory_id": "T012773",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Focuses on oxidative DNA damage accumulation in nuclear DNA, DNA repair capacity, and active genomic stress signaling affecting aging."
+        },
+        {
+          "theory_id": "T012203",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Describes increased nuclear DNA damage with age, premature aging syndromes, and DNA damage-triggered cellular pathways leading to aging."
+        },
+        {
+          "theory_id": "T014166",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Emphasizes genetic stability via efficient nuclear DNA repair systems as key to longevity and slower aging."
+        },
+        {
+          "theory_id": "T014039",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Classical somatic mutation theory focusing on accumulation of irreversible nuclear somatic mutations causing cellular dysfunction and aging."
+        },
+        {
+          "theory_id": "T013718",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Focuses on accumulation of nuclear DNA lesions and insufficient repair leading to somatic maintenance failure and aging."
+        },
+        {
+          "theory_id": "T013548",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Describes genomic instability from chromosomal aberrations and DNA damage accumulation in nuclear genome driving aging."
+        },
+        {
+          "theory_id": "T013217",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Meta-analysis supporting DNA damage accumulation in nuclear DNA as fundamental cause of aging influenced by environment and lifestyle."
+        },
+        {
+          "theory_id": "T013923",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Focuses on DNA damage accumulation, defective nuclear DNA repair pathways, and trade-offs between cancer prevention and aging."
+        },
+        {
+          "theory_id": "T014091",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Describes persistent transcription-blocking nuclear DNA lesions triggering somatotropic axis attenuation and aging phenotypes."
+        },
+        {
+          "theory_id": "T012999",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Emphasizes accumulation of unrepaired nuclear DNA damage and role of DNA repair genes in aging and longevity."
+        },
+        {
+          "theory_id": "T014173",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Theory",
+          "reasoning": "Focuses on chromatin remodeling, persistent nuclear DNA damage, DNA damage response, and cellular senescence driving aging."
+        },
+        {
+          "theory_id": "T013566",
+          "subcluster_name": "Mitochondrial DNA Mutation and Instability Theory",
+          "reasoning": "Focuses on accumulation and clonal expansion of mitochondrial DNA mutations causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T012452",
+          "subcluster_name": "Mitochondrial DNA Mutation and Instability Theory",
+          "reasoning": "Describes mitochondrial DNA vulnerability, accumulation of deletions, heteroplasmy, and mtDNA copy number changes affecting aging."
+        },
+        {
+          "theory_id": "T014107",
+          "subcluster_name": "Mitochondrial DNA Mutation and Instability Theory",
+          "reasoning": "Focuses on mitochondrial inverted repeats causing mtDNA inversions, genome instability, and mitochondrial defects linked to aging."
+        },
+        {
+          "theory_id": "T012595",
+          "subcluster_name": "Molecular Oxidative Damage Accumulation Theory",
+          "reasoning": "Emphasizes irreversible oxidative damage to proteins and lipids, lipofuscin accumulation, and molecular damage driving aging phenotypes."
+        },
+        {
+          "theory_id": "T012829",
+          "subcluster_name": "Damage Segregation and Cellular Damage Partitioning Theory",
+          "reasoning": "Describes damage accumulation and selective segregation of damage during cell division as a mechanism influencing aging and population fitness."
+        },
+        {
+          "theory_id": "T013266",
+          "subcluster_name": "Damage Segregation and Cellular Damage Partitioning Theory",
+          "reasoning": "Focuses on balance between molecular damage accumulation and repair processes, including DNA repair and proteostasis, influencing aging."
+        },
+        {
+          "theory_id": "T012322",
+          "subcluster_name": "Damage Segregation and Cellular Damage Partitioning Theory",
+          "reasoning": "Describes PARP1-mediated sensing of oxidative DNA damage linking metabolic stress, NAD+ consumption, inflammation, and aging."
+        },
+        {
+          "theory_id": "T013952",
+          "subcluster_name": "Damage Segregation and Cellular Damage Partitioning Theory",
+          "reasoning": "Presents aging as a complex trait involving multiple pathways including oxidative damage repair and stress response, amenable to modular lifespan extension."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:44:27"
+}

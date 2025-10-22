@@ -1,0 +1,209 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 5,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+        "theory_ids": [
+          "T005730",
+          "T005681",
+          "T005418",
+          "T005476",
+          "T005718",
+          "T005729",
+          "T005126",
+          "T005188",
+          "T005121",
+          "T005960",
+          "T005215",
+          "T005881"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Mitochondrial Quality Dynamics and Maintenance Theories",
+        "theory_ids": [
+          "T005430",
+          "T005647",
+          "T005256",
+          "T005617",
+          "T005056",
+          "T003406",
+          "T005428",
+          "T005347",
+          "T005922"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Mitochondrial-Nuclear Interaction and Epistasis Theories",
+        "theory_ids": [
+          "T005039",
+          "T005063",
+          "T005072",
+          "T004894",
+          "T004297",
+          "T005196",
+          "T005287",
+          "T005112"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005730",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Focuses on mitochondrial ROS generation, oxidative damage, and their direct role in aging."
+        },
+        {
+          "theory_id": "T005681",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Emphasizes mitochondrial dysfunction causing ROS overproduction leading to oxidative stress and accelerated aging."
+        },
+        {
+          "theory_id": "T005418",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Highlights mitochondrial ROS production, oxidative damage, and mitochondrial efficiency in lifespan modulation."
+        },
+        {
+          "theory_id": "T005476",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Describes mitochondrial ROS as a driver of aging and the role of antioxidant defenses."
+        },
+        {
+          "theory_id": "T005718",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Focuses on mitochondrial free radical generation and its impact on lifespan control."
+        },
+        {
+          "theory_id": "T005729",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Links mitochondrial ROS accumulation to astrocyte dysfunction and brain aging."
+        },
+        {
+          "theory_id": "T005126",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Centers on mitochondrial ROS accumulation and the role of uncoupling proteins in modulating ROS and aging."
+        },
+        {
+          "theory_id": "T005188",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Describes ROS production, mtDNA damage, and mitochondrial dysfunction as central to aging."
+        },
+        {
+          "theory_id": "T005121",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Focuses on mitochondrial dysfunction and increased ROS production causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T005960",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Links mitochondrial ROS-driven oxidative stress to telomere shortening and replicative senescence."
+        },
+        {
+          "theory_id": "T005215",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Involves mitochondrial ubiquinone biosynthesis affecting ROS production and aging rate."
+        },
+        {
+          "theory_id": "T005881",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theories",
+          "reasoning": "Focuses on mtDNA mutation accumulation driven by ROS and the vicious cycle accelerating aging."
+        },
+        {
+          "theory_id": "T005430",
+          "subcluster_name": "Mitochondrial Quality Dynamics and Maintenance Theories",
+          "reasoning": "Emphasizes mitochondrial DNA reorganization, respiratory chain dysfunction, and mitochondrial dynamics affecting quality and aging."
+        },
+        {
+          "theory_id": "T005647",
+          "subcluster_name": "Mitochondrial Quality Dynamics and Maintenance Theories",
+          "reasoning": "Focuses on mitochondrial quality control via fission/fusion, mitophagy, biogenesis, and repair mechanisms."
+        },
+        {
+          "theory_id": "T005256",
+          "subcluster_name": "Mitochondrial Quality Dynamics and Maintenance Theories",
+          "reasoning": "Centers on mitophagy defects impairing mitochondrial quality control and driving aging phenotypes."
+        },
+        {
+          "theory_id": "T005617",
+          "subcluster_name": "Mitochondrial Quality Dynamics and Maintenance Theories",
+          "reasoning": "Describes hierarchical mitochondrial surveillance pathways including repair, dynamics, and mitophagy maintaining mitochondrial quality."
+        },
+        {
+          "theory_id": "T005056",
+          "subcluster_name": "Mitochondrial Quality Dynamics and Maintenance Theories",
+          "reasoning": "Focuses on mitochondrial relatedness, selection, and bottlenecks preventing accumulation of defective mtDNA, preserving mitochondrial quality."
+        },
+        {
+          "theory_id": "T003406",
+          "subcluster_name": "Mitochondrial Quality Dynamics and Maintenance Theories",
+          "reasoning": "Describes mitochondrial fragmentation and fusion/fission dynamics affecting protein distribution and mitochondrial quality."
+        },
+        {
+          "theory_id": "T005428",
+          "subcluster_name": "Mitochondrial Quality Dynamics and Maintenance Theories",
+          "reasoning": "Links mitochondrial dysfunction to impaired protein homeostasis, highlighting quality control failure in aging."
+        },
+        {
+          "theory_id": "T005347",
+          "subcluster_name": "Mitochondrial Quality Dynamics and Maintenance Theories",
+          "reasoning": "Focuses on mitochondrial DNA repair deficiency and its impact on mtDNA mutation accumulation and aging."
+        },
+        {
+          "theory_id": "T005922",
+          "subcluster_name": "Mitochondrial Quality Dynamics and Maintenance Theories",
+          "reasoning": "Describes mitochondrial maintenance failure, turnover decline, and sex-specific effects contributing to aging."
+        },
+        {
+          "theory_id": "T005039",
+          "subcluster_name": "Mitochondrial-Nuclear Interaction and Epistasis Theories",
+          "reasoning": "Focuses on mitonuclear balance and coevolution affecting mitochondrial function and lifespan."
+        },
+        {
+          "theory_id": "T005063",
+          "subcluster_name": "Mitochondrial-Nuclear Interaction and Epistasis Theories",
+          "reasoning": "Emphasizes mito-nuclear coevolution, compatibility, and epistatic interactions influencing aging."
+        },
+        {
+          "theory_id": "T005072",
+          "subcluster_name": "Mitochondrial-Nuclear Interaction and Epistasis Theories",
+          "reasoning": "Focuses on mitochondrial-nuclear epistasis and co-adaptation affecting mitochondrial function and longevity."
+        },
+        {
+          "theory_id": "T004894",
+          "subcluster_name": "Mitochondrial-Nuclear Interaction and Epistasis Theories",
+          "reasoning": "Describes mitokine-mediated immune-metabolic responses linked to mitochondrial stress signaling and systemic aging."
+        },
+        {
+          "theory_id": "T004297",
+          "subcluster_name": "Mitochondrial-Nuclear Interaction and Epistasis Theories",
+          "reasoning": "Focuses on mitochondrial metabolism decline, NAD+ depletion, and sirtuin/mTOR pathways linking mitochondrial function to aging."
+        },
+        {
+          "theory_id": "T005196",
+          "subcluster_name": "Mitochondrial-Nuclear Interaction and Epistasis Theories",
+          "reasoning": "Links mitochondrial energy production efficiency to cognitive aging and general health, integrating mitochondrial function with systemic aging."
+        },
+        {
+          "theory_id": "T005287",
+          "subcluster_name": "Mitochondrial-Nuclear Interaction and Epistasis Theories",
+          "reasoning": "Focuses on mitochondrial bioenergetic decline and dysfunction in brain aging, involving nuclear-mitochondrial interactions."
+        },
+        {
+          "theory_id": "T005112",
+          "subcluster_name": "Mitochondrial-Nuclear Interaction and Epistasis Theories",
+          "reasoning": "Describes calorie restriction-induced mitochondrial biogenesis and bioenergetic efficiency via nuclear signaling pathways."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:40:06"
+}

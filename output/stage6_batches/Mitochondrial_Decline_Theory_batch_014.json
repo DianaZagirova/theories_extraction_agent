@@ -1,0 +1,217 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 14,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced mtDNA Damage Theory",
+        "theory_ids": [
+          "T012666",
+          "T012247",
+          "T012566",
+          "T012439",
+          "T012647",
+          "T012574",
+          "T012394",
+          "T012463",
+          "T012466"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Mitochondrial Replication Advantage and Deletion Mutants Theory",
+        "theory_ids": [
+          "T012329",
+          "T012199"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Electron Transport Chain Dysfunction Theory",
+        "theory_ids": [
+          "T012265",
+          "T012067"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Biogenesis Decline Theory",
+        "theory_ids": [
+          "T012616",
+          "T012608",
+          "T012226",
+          "T012561",
+          "T012724",
+          "T012498",
+          "T012063",
+          "T011304"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitonuclear Compatibility Theory of Aging",
+        "theory_ids": [
+          "T012419",
+          "T012387"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T012666",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS generation causing mtDNA damage and a vicious cycle of mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T012247",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Damage Theory",
+          "reasoning": "Emphasizes accumulation of somatic mtDNA mutations caused by ROS and resulting respiratory dysfunction driving aging."
+        },
+        {
+          "theory_id": "T012566",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Damage Theory",
+          "reasoning": "Centers on ROS generation by mitochondria causing cumulative oxidative damage leading to aging."
+        },
+        {
+          "theory_id": "T012439",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Damage Theory",
+          "reasoning": "Describes mitochondrial ROS production causing mtDNA damage and a vicious cycle of dysfunction contributing to aging."
+        },
+        {
+          "theory_id": "T012647",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Damage Theory",
+          "reasoning": "Details mitochondrial ROS production causing mtDNA mutations and a vicious feed-forward cycle of oxidative stress in brain aging."
+        },
+        {
+          "theory_id": "T012574",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Damage Theory",
+          "reasoning": "Focuses on oxidative damage to mtDNA impairing mitochondrial function and systemic aging."
+        },
+        {
+          "theory_id": "T012394",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Damage Theory",
+          "reasoning": "Highlights ROS-induced mtDNA mutations and vicious cycle accelerating aging and stem cell exhaustion."
+        },
+        {
+          "theory_id": "T012463",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Damage Theory",
+          "reasoning": "Focuses on ROS-induced mtDNA damage, mutation accumulation, and respiratory chain dysfunction driving aging."
+        },
+        {
+          "theory_id": "T012466",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Damage Theory",
+          "reasoning": "Describes ROS production induced by reduced cell spreading causing mtDNA common deletion and a positive feedback loop accelerating aging."
+        },
+        {
+          "theory_id": "T012329",
+          "subcluster_name": "Mitochondrial Replication Advantage and Deletion Mutants Theory",
+          "reasoning": "Focuses on clonal expansion of mtDNA deletion mutants due to replication time advantage driving mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T012199",
+          "subcluster_name": "Mitochondrial Replication Advantage and Deletion Mutants Theory",
+          "reasoning": "Explains how transcription-primed replication advantage of mtDNA deletion mutants leads to their clonal expansion during aging."
+        },
+        {
+          "theory_id": "T012265",
+          "subcluster_name": "Mitochondrial Electron Transport Chain Dysfunction Theory",
+          "reasoning": "Emphasizes age-related decline in mitochondrial ETC function, especially complex IV, and ROS-driven vicious cycle impairing respiration."
+        },
+        {
+          "theory_id": "T012067",
+          "subcluster_name": "Mitochondrial Electron Transport Chain Dysfunction Theory",
+          "reasoning": "Focuses on age-dependent decline of Complex II activity and expression causing mitochondrial dysfunction and oxidative stress."
+        },
+        {
+          "theory_id": "T012616",
+          "subcluster_name": "Mitochondrial Dysfunction and Biogenesis Decline Theory",
+          "reasoning": "Describes mitochondrial dysfunction with aging including decline in biogenesis, ion channel regulation, and inflamm-aging."
+        },
+        {
+          "theory_id": "T012608",
+          "subcluster_name": "Mitochondrial Dysfunction and Biogenesis Decline Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction, ROS production, impaired biogenesis and turnover, and coupling protein roles in aging."
+        },
+        {
+          "theory_id": "T012226",
+          "subcluster_name": "Mitochondrial Dysfunction and Biogenesis Decline Theory",
+          "reasoning": "Highlights mitochondrial damage accumulation, quality control dysregulation, and signaling hub role in aging and longevity."
+        },
+        {
+          "theory_id": "T012561",
+          "subcluster_name": "Mitochondrial Dysfunction and Biogenesis Decline Theory",
+          "reasoning": "Describes decline in mitochondrial function, ROS damage, impaired biogenesis/dynamics, and mitochondrial stress responses in aging."
+        },
+        {
+          "theory_id": "T012724",
+          "subcluster_name": "Mitochondrial Dysfunction and Biogenesis Decline Theory",
+          "reasoning": "Focuses on impaired mitochondrial biogenesis signaling pathways and systemic aging phenotypes like sarcopenia."
+        },
+        {
+          "theory_id": "T012498",
+          "subcluster_name": "Mitochondrial Dysfunction and Biogenesis Decline Theory",
+          "reasoning": "Describes age-related remodeling of mitochondrial ANT function affecting membrane potential, ROS production, and coupling efficiency."
+        },
+        {
+          "theory_id": "T012063",
+          "subcluster_name": "Mitochondrial Dysfunction and Biogenesis Decline Theory",
+          "reasoning": "Broad theory linking mitochondrial dysfunction, ROS, inflammaging, and stem cell aging to organismal aging."
+        },
+        {
+          "theory_id": "T011304",
+          "subcluster_name": "Mitochondrial Dysfunction and Biogenesis Decline Theory",
+          "reasoning": "Describes mitochondrial dysfunction driving neurodegeneration via feedback with microglial activation and inflammaging."
+        },
+        {
+          "theory_id": "T012656",
+          "subcluster_name": "MitomiR-Mediated Mitochondrial Dysfunction and Inflammaging Theory",
+          "reasoning": "Focuses on mitomiRs regulating mitochondrial proteins, causing dysfunction and inflammaging via Bcl-2 family modulation."
+        },
+        {
+          "theory_id": "T012642",
+          "subcluster_name": "Mitoribosomal Deregulation and Telomere Deprotection Theory",
+          "reasoning": "Links mitoribosomal protein downregulation to mitochondrial dysfunction, ROS, and telomere deprotection driving cellular senescence."
+        },
+        {
+          "theory_id": "T012334",
+          "subcluster_name": "Mitochondrial ROS-HIF Signaling and Replicative Lifespan Extension Theory",
+          "reasoning": "Proposes mitochondrial ROS act as signaling molecules activating HIF and telomerase to extend replicative lifespan under hypoxia."
+        },
+        {
+          "theory_id": "T011283",
+          "subcluster_name": "Mitonuclear Balance Theory of Aging",
+          "reasoning": "Emphasizes coordination of nuclear and mitochondrial gene expression for respiratory chain function and longevity."
+        },
+        {
+          "theory_id": "T012419",
+          "subcluster_name": "Mitonuclear Compatibility Theory of Aging",
+          "reasoning": "Focuses on compatibility between mitochondrial and nuclear genomes affecting mitochondrial function and lifespan."
+        },
+        {
+          "theory_id": "T012387",
+          "subcluster_name": "Mitonuclear Compatibility Theory of Aging",
+          "reasoning": "Describes nuclear-mitochondrial epistasis modulating mitochondrial function and longevity, highlighting mitonuclear coadaptation."
+        },
+        {
+          "theory_id": "T012219",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Stem Cell Aging Theory",
+          "reasoning": "Focuses on accumulation of mtDNA mutations in stem cells impairing function and contributing to aging."
+        },
+        {
+          "theory_id": "T011570",
+          "subcluster_name": "Thermodynamic Potential and Mitochondrial Topology Theory of Aging",
+          "reasoning": "Proposes mitochondrial energetic and topological properties govern molecular entropy and aging, with VO2 max as biomarker."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:43:37"
+}

@@ -1,0 +1,185 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 11,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T008961",
+          "T008778",
+          "T009601",
+          "T008412",
+          "T009730",
+          "T008753",
+          "T009361",
+          "T008661",
+          "T008570",
+          "T009734",
+          "T008728",
+          "T008292",
+          "T009686",
+          "T008493",
+          "T009441"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Evolutionary Population-Level Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T009190",
+          "T009393",
+          "T009380",
+          "T009014",
+          "T008281",
+          "T009328"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Cellular Senescence-Mediated Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T008461",
+          "T009725",
+          "T009649",
+          "T009728"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T008961",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on evolutionary trade-offs in mammals involving loss of protective functions and pleiotropic genes affecting reproduction and longevity."
+        },
+        {
+          "theory_id": "T008778",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes sex-specific reproductive trade-offs and extrinsic mortality shaping aging via antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T009601",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes genetic trade-offs between early reproduction and somatic maintenance causing aging."
+        },
+        {
+          "theory_id": "T008412",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on declining natural selection forces with age and trade-offs between reproduction and late-life survival."
+        },
+        {
+          "theory_id": "T009730",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Classic antagonistic pleiotropy with genes beneficial early but detrimental later, emphasizing reproduction-longevity trade-offs."
+        },
+        {
+          "theory_id": "T008753",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Highlights pleiotropic genes with age-dependent effects and evolutionary trade-offs between reproduction and longevity."
+        },
+        {
+          "theory_id": "T009361",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes mutation accumulation and antagonistic pleiotropy driven by declining selection with age affecting aging."
+        },
+        {
+          "theory_id": "T008661",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses trade-offs between early-life fitness and late-life deterioration, including evolved pleiotropy for group benefits."
+        },
+        {
+          "theory_id": "T008570",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Links declining selection, antagonistic pleiotropy, and disposable soma theory in aging acceleration post-reproduction."
+        },
+        {
+          "theory_id": "T009734",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Reappraises Williams\u2019 predictions focusing on pleiotropic genes and declining selection causing aging."
+        },
+        {
+          "theory_id": "T008728",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Integrates mutation accumulation, antagonistic pleiotropy, and disposable soma as evolutionary trade-offs shaping aging."
+        },
+        {
+          "theory_id": "T008292",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Experimental evolution approach showing genetic trade-offs between early and late life performance causing aging."
+        },
+        {
+          "theory_id": "T009686",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on genetic variants with early-life benefits but late-life costs driving senescence via antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T008493",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Combines mutation accumulation, antagonistic pleiotropy, and disposable soma theories as evolutionary trade-offs in aging."
+        },
+        {
+          "theory_id": "T009441",
+          "subcluster_name": "Evolutionary Life-History Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes maternal effect senescence as a life-history trade-off affecting offspring fitness with maternal age."
+        },
+        {
+          "theory_id": "T009190",
+          "subcluster_name": "Evolutionary Population-Level Antagonistic Pleiotropy Theory",
+          "reasoning": "Proposes aging evolved to minimize intergenerational competition, linking aging to population turnover and mating systems."
+        },
+        {
+          "theory_id": "T009393",
+          "subcluster_name": "Evolutionary Population-Level Antagonistic Pleiotropy Theory",
+          "reasoning": "Models aging as shaped by stochastic risks and evolutionary-demographic factors influencing population-level aging patterns."
+        },
+        {
+          "theory_id": "T009380",
+          "subcluster_name": "Evolutionary Population-Level Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on asynchronous aging of traits due to natural selection acting differently on traits at population level."
+        },
+        {
+          "theory_id": "T009014",
+          "subcluster_name": "Evolutionary Population-Level Antagonistic Pleiotropy Theory",
+          "reasoning": "Explores sex-specific senescence rates and sexual conflict shaping aging patterns at population and species level."
+        },
+        {
+          "theory_id": "T008281",
+          "subcluster_name": "Evolutionary Population-Level Antagonistic Pleiotropy Theory",
+          "reasoning": "Examines sex differences in aging rates in polygynous species due to sexual selection and mortality at population scale."
+        },
+        {
+          "theory_id": "T009328",
+          "subcluster_name": "Evolutionary Population-Level Antagonistic Pleiotropy Theory",
+          "reasoning": "Views senescence as a non-adaptive byproduct shaped by population genetics and stochastic events affecting lifespan variability."
+        },
+        {
+          "theory_id": "T008461",
+          "subcluster_name": "Cellular Senescence-Mediated Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on cellular mechanisms like apoptosis and senescence that protect early life but cause aging and cancer later."
+        },
+        {
+          "theory_id": "T009725",
+          "subcluster_name": "Cellular Senescence-Mediated Antagonistic Pleiotropy Theory",
+          "reasoning": "Details cMyc-Bmi1-p16 regulatory circuit controlling cellular senescence as an antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T009649",
+          "subcluster_name": "Cellular Senescence-Mediated Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes bacterial senescence via sigma factor competition as a cellular-level antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T009728",
+          "subcluster_name": "Cellular Senescence-Mediated Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on Nox4 gene mediating early-life wound healing but late-life fibrotic disease via antagonistic pleiotropy."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:53:22"
+}

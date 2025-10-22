@@ -1,0 +1,164 @@
+{
+  "cluster_name": "Immunological Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Immunosenescence and Inflammaging Theory",
+        "theory_ids": [
+          "T006134",
+          "T005380",
+          "T003186",
+          "T003666",
+          "T005219",
+          "T005908",
+          "T004041",
+          "T003576"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Thymic Involution as a Driver of Immunosenescence",
+        "theory_ids": [
+          "T005142",
+          "T003108",
+          "T005714"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T006134",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "This theory focuses on the progressive decline of adaptive immunity and chronic low-grade inflammation (inflammaging) as central mechanisms of immune aging."
+        },
+        {
+          "theory_id": "T005380",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Describes immune remodeling with age, naive lymphocyte decline, memory inflation, and chronic inflammation, fitting the immunosenescence and inflammaging framework."
+        },
+        {
+          "theory_id": "T003186",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Focuses on immunosenescence as a driver of infectious disease severity and inflammaging, highlighting adaptive immune decline and chronic inflammation."
+        },
+        {
+          "theory_id": "T003666",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Describes age-related immune decline, naive to memory T cell shift, and chronic inflammation contributing to systemic aging."
+        },
+        {
+          "theory_id": "T005219",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Focuses on immune deterioration, chronic low-level activation, and senescent immune remodeling driving aging and disease."
+        },
+        {
+          "theory_id": "T005908",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Details adaptive immune decline, memory T cell accumulation, and inflammaging as related but distinct processes in aging."
+        },
+        {
+          "theory_id": "T004041",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Presents immunosenescence and inflammaging as an adaptive evolutionary response balancing immune decline and inflammation."
+        },
+        {
+          "theory_id": "T003576",
+          "subcluster_name": "Immunosenescence and Inflammaging Theory",
+          "reasoning": "Describes immunosenescence and inflammaging in Drosophila, emphasizing immune decline and chronic inflammation as aging drivers."
+        },
+        {
+          "theory_id": "T004835",
+          "subcluster_name": "Environmental Adversity-Induced Immunosenescence",
+          "reasoning": "Focuses on immune dysregulation and inflammaging triggered by extreme environmental stress accelerating biological aging."
+        },
+        {
+          "theory_id": "T003790",
+          "subcluster_name": "Exercise-Mediated Immunological Space Theory",
+          "reasoning": "Describes exercise-induced removal of senescent T cells creating immunological space, rejuvenating adaptive immunity."
+        },
+        {
+          "theory_id": "T004408",
+          "subcluster_name": "Toll-like Receptor Dysfunction in Immune Aging",
+          "reasoning": "Focuses on age-related impairment of TLR signaling in macrophages leading to chronic inflammation and immune dysfunction."
+        },
+        {
+          "theory_id": "T004241",
+          "subcluster_name": "Immunosenescence-Driven Cancer Incidence Theory",
+          "reasoning": "Links immunosenescence-induced immune surveillance decline to increased cancer incidence in aging."
+        },
+        {
+          "theory_id": "T006220",
+          "subcluster_name": "Immunosenescence-Driven Cancer Progression and Tumor Microenvironment Remodeling",
+          "reasoning": "Details molecular hallmarks of immunosenescence driving tumor microenvironment changes and cancer progression."
+        },
+        {
+          "theory_id": "T005142",
+          "subcluster_name": "Thymic Involution as a Driver of Immunosenescence",
+          "reasoning": "Focuses on thymic atrophy reducing naive T cell output as a primary cause of immunosenescence."
+        },
+        {
+          "theory_id": "T003108",
+          "subcluster_name": "Thymic Involution as a Driver of Immunosenescence",
+          "reasoning": "Describes thymic involution reducing naive T cell diversity, contributing to immune aging."
+        },
+        {
+          "theory_id": "T005714",
+          "subcluster_name": "Thymic Involution as a Driver of Immunosenescence",
+          "reasoning": "Mathematical modeling of thymic involution effects on naive T cell populations and diversity."
+        },
+        {
+          "theory_id": "T004277",
+          "subcluster_name": "Immune Control and Selection Theory of Aging",
+          "reasoning": "Proposes immune surveillance and thymic involution as programmed aging mechanisms via cell selection and autoimmunity."
+        },
+        {
+          "theory_id": "T006140",
+          "subcluster_name": "Immune Aging as a Driver of Autoimmune Disease",
+          "reasoning": "Focuses on immune remodeling, mitochondrial dysfunction, and accumulation of pro-inflammatory immune subsets promoting autoimmunity."
+        },
+        {
+          "theory_id": "T002766",
+          "subcluster_name": "Inflammation as an Evolutionary Developmental Remodeling Tool",
+          "reasoning": "Describes inflammation as an adaptive evo-devo mechanism mediating organism remodeling and chronic inflammatory phenotypes."
+        },
+        {
+          "theory_id": "T005740",
+          "subcluster_name": "Chronic Inflammation and IL-6 Pleiotropic Role in Aging",
+          "reasoning": "Focuses on chronic inflammation driven by IL-6 with complex roles in aging, mitochondrial metabolism, and tissue repair."
+        },
+        {
+          "theory_id": "T006470",
+          "subcluster_name": "Inflammation-Epigenetic Erosion-Ferroptosis Axis in Stem Cell Aging",
+          "reasoning": "Describes inflammation-induced epigenetic changes leading to stem cell ferroptosis and functional decline."
+        },
+        {
+          "theory_id": "T002839",
+          "subcluster_name": "Chronic Low-Grade Inflammation Driving Metabolic Dysregulation and Aging",
+          "reasoning": "Links chronic inflammation to metabolic dysfunction and aging-associated comorbidities."
+        },
+        {
+          "theory_id": "T004867",
+          "subcluster_name": "Senoinflammation Theory Integrating Immune, Metabolic, and Redox Signaling",
+          "reasoning": "Describes chronic inflammation driven by senescent cells and integrated immune-metabolic-redox pathways modulated by calorie restriction."
+        },
+        {
+          "theory_id": "T004111",
+          "subcluster_name": "Inflammation-Driven Somatic Evolution in Hematopoietic Aging and Malignancy",
+          "reasoning": "Focuses on inflammation-induced HSC dysfunction, mutagenesis, clonal hematopoiesis, and leukemogenesis."
+        },
+        {
+          "theory_id": "T006150",
+          "subcluster_name": "Inflammation Theory of Endothelial Aging",
+          "reasoning": "Describes chronic inflammation and NF-\u03baB activation driving endothelial dysfunction and vascular aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:12:44"
+}

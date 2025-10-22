@@ -1,0 +1,173 @@
+{
+  "cluster_name": "Programmed Longevity Theory",
+  "batch_num": 9,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+        "theory_ids": [
+          "T021268",
+          "T021387",
+          "T022391",
+          "T022102",
+          "T021811",
+          "T023599",
+          "T021863",
+          "T021775",
+          "T022466",
+          "T021141"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Nutrient Sensing and Longevity Signaling Pathways Theories",
+        "theory_ids": [
+          "T022645",
+          "T022272",
+          "T023348",
+          "T021265",
+          "T023156",
+          "T021675",
+          "T022835",
+          "T021992"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Programmed Aging Genetic and Epigenetic Regulation Theories",
+        "theory_ids": [
+          "T023655",
+          "T021391",
+          "T022574",
+          "T021454",
+          "T022536"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T021268",
+          "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+          "reasoning": "This theory focuses on GH deficiency and its impact on longevity via endocrine and metabolic pathways involving GH and IGF-1."
+        },
+        {
+          "theory_id": "T021387",
+          "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+          "reasoning": "Centers on IGF signaling modulation and its role in aging, fitting with GH/IGF-1 endocrine axis mechanisms."
+        },
+        {
+          "theory_id": "T022391",
+          "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+          "reasoning": "Discusses reduced IGF-I/insulin signaling and its association with human longevity, aligning with GH/IGF-1 pathway regulation."
+        },
+        {
+          "theory_id": "T022102",
+          "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+          "reasoning": "Focuses on reduced GH signaling and altered mitochondrial and amino acid metabolism contributing to lifespan extension."
+        },
+        {
+          "theory_id": "T021811",
+          "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+          "reasoning": "Describes liver-derived IGF-I's role in systemic aging and lifespan regulation, part of the GH/IGF-1 endocrine axis."
+        },
+        {
+          "theory_id": "T023599",
+          "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+          "reasoning": "GH deficiency-mediated longevity theory with metabolic and tumor suppression effects, fitting GH/IGF-1 signaling theme."
+        },
+        {
+          "theory_id": "T021863",
+          "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+          "reasoning": "Links IGF1 genetic regulation to female sexual maturation and longevity, emphasizing IGF1 signaling pathways."
+        },
+        {
+          "theory_id": "T021775",
+          "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+          "reasoning": "Focuses on impaired brain IGF-I signaling during aging, a specific aspect of IGF-1 pathway decline."
+        },
+        {
+          "theory_id": "T022466",
+          "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+          "reasoning": "IGF-1/IGF-1R signaling in cardiac aging, a tissue-specific manifestation of IGF-1 pathway effects on aging."
+        },
+        {
+          "theory_id": "T021141",
+          "subcluster_name": "Growth Hormone and IGF-1 Signaling Longevity Theories",
+          "reasoning": "IGF-1 deficiency as a causal mechanism in cerebrovascular aging, highlighting IGF-1's vascular protective role."
+        },
+        {
+          "theory_id": "T022645",
+          "subcluster_name": "Nutrient Sensing and Longevity Signaling Pathways Theories",
+          "reasoning": "Describes nutrient sensing pathways including insulin/IGF-1, mTOR, and FOXO3A in dietary modulation of aging."
+        },
+        {
+          "theory_id": "T022272",
+          "subcluster_name": "Nutrient Sensing and Longevity Signaling Pathways Theories",
+          "reasoning": "Focuses on nutrient-sensing kinases like TOR, Sch9, and PKA regulating aging, conserved across species."
+        },
+        {
+          "theory_id": "T023348",
+          "subcluster_name": "Nutrient Sensing and Longevity Signaling Pathways Theories",
+          "reasoning": "Covers conserved nutrient sensing pathways (TOR, insulin/IGF-1, sirtuins) and caloric restriction effects on aging."
+        },
+        {
+          "theory_id": "T021265",
+          "subcluster_name": "Nutrient Sensing and Longevity Signaling Pathways Theories",
+          "reasoning": "Sirtuin-mediated caloric restriction longevity theory, focusing on NAD-dependent deacetylases in aging regulation."
+        },
+        {
+          "theory_id": "T023156",
+          "subcluster_name": "Nutrient Sensing and Longevity Signaling Pathways Theories",
+          "reasoning": "Nutrition sensing dysregulation theory emphasizing insulin/IGF-1, mTOR, AMPK, and sirtuins in aging."
+        },
+        {
+          "theory_id": "T021675",
+          "subcluster_name": "Nutrient Sensing and Longevity Signaling Pathways Theories",
+          "reasoning": "Genetic control of aging via gerontogenes involving insulin/IGF-1-like signaling and stress resistance."
+        },
+        {
+          "theory_id": "T022835",
+          "subcluster_name": "Nutrient Sensing and Longevity Signaling Pathways Theories",
+          "reasoning": "Genetically programmed aging via differential gene expression modulated by caloric restriction and longevity pathways."
+        },
+        {
+          "theory_id": "T021992",
+          "subcluster_name": "Nutrient Sensing and Longevity Signaling Pathways Theories",
+          "reasoning": "Programmed genetic changes theory in Drosophila involving temporal gene expression changes modulated by environment."
+        },
+        {
+          "theory_id": "T023655",
+          "subcluster_name": "Programmed Aging Genetic and Epigenetic Regulation Theories",
+          "reasoning": "Programmed aging as an evolved genetic program including phenoptosis concepts and population-level benefits."
+        },
+        {
+          "theory_id": "T021391",
+          "subcluster_name": "Programmed Aging Genetic and Epigenetic Regulation Theories",
+          "reasoning": "Genetic programmed aging via negative growth effectors and cellular senescence as active genetic regulation."
+        },
+        {
+          "theory_id": "T022574",
+          "subcluster_name": "Programmed Aging Genetic and Epigenetic Regulation Theories",
+          "reasoning": "Programmed aging theory distinguishing programmed development from aging, with examples like Pacific salmon."
+        },
+        {
+          "theory_id": "T021454",
+          "subcluster_name": "Programmed Aging Genetic and Epigenetic Regulation Theories",
+          "reasoning": "Built-in aging program theory with early thymus involution as evidence of programmed senescence."
+        },
+        {
+          "theory_id": "T022536",
+          "subcluster_name": "Programmed Aging Genetic and Epigenetic Regulation Theories",
+          "reasoning": "Programmed aging via epigenetic regulation focusing on DNA methylation of nuclear and mitochondrial genomes."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:58:24"
+}

@@ -1,0 +1,212 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+        "theory_ids": [
+          "T002530",
+          "T002155",
+          "T001793",
+          "T002563",
+          "T001825",
+          "T002094",
+          "T002219",
+          "T002484",
+          "T002431",
+          "T001615"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Nuclear DNA Repair Decline and Base Excision Repair Deficiency Theory",
+        "theory_ids": [
+          "T002299",
+          "T001843",
+          "T002454",
+          "T002814",
+          "T002005",
+          "T001988"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Inheritance Theory",
+        "theory_ids": [
+          "T002146",
+          "T001952",
+          "T002099",
+          "T001457"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Declining Antioxidant Defense and Redox Homeostasis Theory",
+        "theory_ids": [
+          "T001673",
+          "T001512"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Extracellular Matrix Remodeling and Insulin/IGF-1 Signaling Longevity Theory",
+        "theory_ids": [
+          "T001663",
+          "T002192"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Damage Load and Asymmetric Damage Partitioning Evolutionary Theory",
+        "theory_ids": [
+          "T002776",
+          "T001868"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T002530",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+          "reasoning": "Focuses on tetraploidy-induced chromosomal instability, aneuploidy, and cGAS-STING activation linking chromosomal missegregation to aging and cancer."
+        },
+        {
+          "theory_id": "T002155",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+          "reasoning": "Emphasizes accumulation of chromosomal damage such as micronuclei and chromosomal aberrations causing genomic instability and aging."
+        },
+        {
+          "theory_id": "T001793",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+          "reasoning": "Describes RecQ helicase disorders causing genome instability and defective DNA repair leading to premature aging, linking chromosomal instability to aging."
+        },
+        {
+          "theory_id": "T002563",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+          "reasoning": "Explains evolutionary cancer resistance via natural selection shaping tumor suppressor mechanisms, related to chromosomal instability and aging."
+        },
+        {
+          "theory_id": "T001825",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+          "reasoning": "Links aging to asymmetric segregation of damaged protein aggregates and DNA damage under stress, contributing to cellular senescence and aging."
+        },
+        {
+          "theory_id": "T002094",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+          "reasoning": "Focuses on extranuclear DNA accumulation activating cGAS-STING pathway causing inflammation and senescence, a downstream effect of chromosomal damage."
+        },
+        {
+          "theory_id": "T002219",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+          "reasoning": "Describes DNA damage-control biosystem managing mutation accumulation and genomic instability, linking DNA damage to aging and cancer risk."
+        },
+        {
+          "theory_id": "T002484",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+          "reasoning": "Focuses on DNA interstrand crosslink accumulation causing progenitor cell senescence and systemic aging, a form of chromosomal DNA damage."
+        },
+        {
+          "theory_id": "T002431",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+          "reasoning": "Links genomic instability and DNA replication defects in progeroid syndromes to aging, emphasizing nuclear DNA maintenance and chromosomal stability."
+        },
+        {
+          "theory_id": "T001615",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy-Driven DNA Damage Theory",
+          "reasoning": "Describes Topoisomerase 2-mediated DNA double strand breaks causing genome instability and aging, a direct chromosomal DNA damage mechanism."
+        },
+        {
+          "theory_id": "T002299",
+          "subcluster_name": "Nuclear DNA Repair Decline and Base Excision Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of DNA damage due to decline in base excision repair capacity, specifically DNA polymerase beta, leading to aging."
+        },
+        {
+          "theory_id": "T001843",
+          "subcluster_name": "Nuclear DNA Repair Decline and Base Excision Repair Deficiency Theory",
+          "reasoning": "General DNA damage accumulation theory emphasizing imperfect repair and accumulation of DNA lesions causing cellular dysfunction and aging."
+        },
+        {
+          "theory_id": "T002454",
+          "subcluster_name": "Nuclear DNA Repair Decline and Base Excision Repair Deficiency Theory",
+          "reasoning": "Posits DNA damage accumulation impairs genomic integrity and promotes pathological protein accumulation, linking nuclear DNA damage to aging and disease."
+        },
+        {
+          "theory_id": "T002814",
+          "subcluster_name": "Nuclear DNA Repair Decline and Base Excision Repair Deficiency Theory",
+          "reasoning": "Highlights DNA damage accumulation and impaired repair accelerating aging, supported by lifespan extension via DNA protection."
+        },
+        {
+          "theory_id": "T002005",
+          "subcluster_name": "Nuclear DNA Repair Decline and Base Excision Repair Deficiency Theory",
+          "reasoning": "Emphasizes differential impact of various DNA lesions and their repair on aging, focusing on nuclear DNA damage and cellular context."
+        },
+        {
+          "theory_id": "T001988",
+          "subcluster_name": "Nuclear DNA Repair Decline and Base Excision Repair Deficiency Theory",
+          "reasoning": "Focuses on oxidative DNA damage and the role of nucleotide excision repair and base excision repair pathways in aging."
+        },
+        {
+          "theory_id": "T002146",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Inheritance Theory",
+          "reasoning": "Describes accumulation of mitochondrial DNA mutations due to reduced effective population size and uniparental inheritance affecting aging."
+        },
+        {
+          "theory_id": "T001952",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Inheritance Theory",
+          "reasoning": "Focuses on genome robustness to mutational signatures, including mitochondrial mutagenesis, linking mutation tolerance to longevity and aging."
+        },
+        {
+          "theory_id": "T002099",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Inheritance Theory",
+          "reasoning": "Molecular damage accumulation theory including mitochondrial ROS-induced damage to DNA and other biomolecules contributing to aging."
+        },
+        {
+          "theory_id": "T001457",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Inheritance Theory",
+          "reasoning": "General molecular damage accumulation theory encompassing DNA, proteins, and metabolites, including mitochondrial damage in aging."
+        },
+        {
+          "theory_id": "T001673",
+          "subcluster_name": "Declining Antioxidant Defense and Redox Homeostasis Theory",
+          "reasoning": "Focuses on age-related decline in Nrf2-MafS signaling reducing antioxidant defense, leading to oxidative damage accumulation and aging."
+        },
+        {
+          "theory_id": "T001512",
+          "subcluster_name": "Declining Antioxidant Defense and Redox Homeostasis Theory",
+          "reasoning": "Describes decline in adaptive homeostasis with age, including impaired Nrf2-Keap1 pathway function, reducing stress response and promoting aging."
+        },
+        {
+          "theory_id": "T001663",
+          "subcluster_name": "Extracellular Matrix Remodeling and Insulin/IGF-1 Signaling Longevity Theory",
+          "reasoning": "Describes dauer-independent reduced insulin/IGF-1 signaling promoting longevity via SKN-1 and extracellular matrix remodeling."
+        },
+        {
+          "theory_id": "T002776",
+          "subcluster_name": "Damage Load and Asymmetric Damage Partitioning Evolutionary Theory",
+          "reasoning": "Proposes damage load accumulation and evolution of asymmetrical damage transmission during cell division as a cause of aging."
+        },
+        {
+          "theory_id": "T001868",
+          "subcluster_name": "Damage Load and Asymmetric Damage Partitioning Evolutionary Theory",
+          "reasoning": "Describes accumulation of damaged cell constituents and asymmetric cell division or vesicle-mediated damage removal as rejuvenation mechanisms."
+        },
+        {
+          "theory_id": "T002192",
+          "subcluster_name": "Extracellular Matrix Remodeling and Insulin/IGF-1 Signaling Longevity Theory",
+          "reasoning": "Focuses on hormonal regulation of longevity via dafachronic acid and DAF-12 nuclear receptor, linking endocrine signaling to lifespan."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:38:42"
+}

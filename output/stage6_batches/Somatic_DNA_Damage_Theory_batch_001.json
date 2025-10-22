@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+        "theory_ids": [
+          "T000140",
+          "T000181",
+          "T000984",
+          "T001043",
+          "T000948",
+          "T000607",
+          "T001348",
+          "T001173",
+          "T000367",
+          "T001193",
+          "T000282",
+          "T000151",
+          "T000724",
+          "T001024"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Replication and Mutation Accumulation Theory",
+        "theory_ids": [
+          "T000470",
+          "T000913",
+          "T001301",
+          "T000941",
+          "T000905"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Damage Segregation and Asymmetric Partitioning Theory in Unicellular Aging",
+        "theory_ids": [
+          "T000895",
+          "T001223",
+          "T000555",
+          "T000656",
+          "T000097",
+          "T001310",
+          "T000180"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000140",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Focuses on DNA double-strand break repair deficiency (e.g., BRCA mutations) causing genome instability and aging."
+        },
+        {
+          "theory_id": "T000181",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Describes accumulation of unrepaired nuclear DNA lesions and their impact on aging and proteostasis."
+        },
+        {
+          "theory_id": "T000984",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Emphasizes accumulation of diverse nuclear DNA damage, DNA damage response, and repair mechanisms in aging."
+        },
+        {
+          "theory_id": "T001043",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Links genome instability and DNA repair accuracy with species lifespan and aging."
+        },
+        {
+          "theory_id": "T000948",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Focuses on genomic instability, telomere shortening, and declining DNA repair efficiency as aging drivers."
+        },
+        {
+          "theory_id": "T000607",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Describes accumulation of nuclear DNA damage and insufficient repair in neurons causing brain aging."
+        },
+        {
+          "theory_id": "T001348",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Details DNA double strand breaks, DNA damage response, and stem cell DNA damage tolerance in aging."
+        },
+        {
+          "theory_id": "T001173",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Posits DNA damage accumulation and repair capacity as key determinants of aging and lifespan."
+        },
+        {
+          "theory_id": "T000367",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Shows DNA repair defects accelerate aging via endogenous DNA damage and senescence."
+        },
+        {
+          "theory_id": "T001193",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Focuses on genomic instability, clonal expansions, and mutation accumulation in aging tissues."
+        },
+        {
+          "theory_id": "T000282",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Highlights selection on DNA damage response and repair pathways as longevity assurance mechanisms."
+        },
+        {
+          "theory_id": "T000151",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Discusses genomic instability and DNA repair gene variants as drivers of longevity and aging."
+        },
+        {
+          "theory_id": "T000724",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Describes DNA damage accumulation and repair deficits in oligodendrocytes causing brain aging."
+        },
+        {
+          "theory_id": "T001024",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genome Instability Theory",
+          "reasoning": "Links DNA damage accumulation in immune cells to immunosenescence and impaired DNA repair."
+        },
+        {
+          "theory_id": "T000470",
+          "subcluster_name": "Mitochondrial DNA Replication and Mutation Accumulation Theory",
+          "reasoning": "Focuses on mitochondrial DNA replication mechanisms causing strand-asymmetric mutations driving aging."
+        },
+        {
+          "theory_id": "T000913",
+          "subcluster_name": "Mitochondrial DNA Replication and Mutation Accumulation Theory",
+          "reasoning": "Connects enhanced DNA repair and metabolic regulation, including mitochondrial stress resistance, to longevity."
+        },
+        {
+          "theory_id": "T001301",
+          "subcluster_name": "Mitochondrial DNA Replication and Mutation Accumulation Theory",
+          "reasoning": "Emphasizes decline of mitophagy and mitochondrial quality control as drivers of systemic and cardiac aging."
+        },
+        {
+          "theory_id": "T000941",
+          "subcluster_name": "Mitochondrial DNA Replication and Mutation Accumulation Theory",
+          "reasoning": "Describes molecular habituation to chronic oxidative stress affecting redox signaling and homeostasis."
+        },
+        {
+          "theory_id": "T000905",
+          "subcluster_name": "Mitochondrial DNA Replication and Mutation Accumulation Theory",
+          "reasoning": "Proposes repair-only approach targeting molecular and cellular damage including mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T000895",
+          "subcluster_name": "Damage Segregation and Asymmetric Partitioning Theory in Unicellular Aging",
+          "reasoning": "Focuses on asymmetric damage partitioning and ribosome distribution in bacteria causing aging differences."
+        },
+        {
+          "theory_id": "T001223",
+          "subcluster_name": "Damage Segregation and Asymmetric Partitioning Theory in Unicellular Aging",
+          "reasoning": "Describes asymmetric segregation of damage during cell division in unicellular organisms driving lineage aging."
+        },
+        {
+          "theory_id": "T000555",
+          "subcluster_name": "Damage Segregation and Asymmetric Partitioning Theory in Unicellular Aging",
+          "reasoning": "Although in multicellular context, focuses on progenitor cell fitness decline and selection, conceptually related to damage segregation and cellular fitness landscapes."
+        },
+        {
+          "theory_id": "T000656",
+          "subcluster_name": "Damage Segregation and Asymmetric Partitioning Theory in Unicellular Aging",
+          "reasoning": "Describes evolution of redundancy and damage accumulation leading to system failure, conceptually linked to damage partitioning and cellular reliability."
+        },
+        {
+          "theory_id": "T000097",
+          "subcluster_name": "Damage Segregation and Asymmetric Partitioning Theory in Unicellular Aging",
+          "reasoning": "Focuses on genomic and chromosomal instability in brain aging, involving accumulation of aneuploid cells, conceptually linked to damage accumulation and cellular heterogeneity."
+        },
+        {
+          "theory_id": "T001310",
+          "subcluster_name": "Damage Segregation and Asymmetric Partitioning Theory in Unicellular Aging",
+          "reasoning": "Describes decline of high-level automatic motivational processes, representing functional decline linked to cellular and molecular damage accumulation."
+        },
+        {
+          "theory_id": "T000180",
+          "subcluster_name": "Damage Segregation and Asymmetric Partitioning Theory in Unicellular Aging",
+          "reasoning": "Although focused on insulin-like signaling in nematodes, relates to regulation of aging via developmental and cellular state transitions, fitting with broader damage and functional decline themes."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:38:13"
+}

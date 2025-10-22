@@ -1,0 +1,188 @@
+{
+  "cluster_name": "Mutation Accumulation Theory",
+  "batch_num": 5,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Muller's Ratchet and Somatic Mutation Accumulation Theory",
+        "theory_ids": [
+          "T009693",
+          "T009310",
+          "T009702",
+          "T008780",
+          "T009574",
+          "T008995",
+          "T007898",
+          "T006397",
+          "T006259"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Evolutionary Life History and Mutation Accumulation Theory",
+        "theory_ids": [
+          "T008367",
+          "T008284",
+          "T008212",
+          "T009457",
+          "T009661",
+          "T008238",
+          "T008840",
+          "T009696"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Classical Mutation Accumulation Theory of Aging",
+        "theory_ids": [
+          "T009701",
+          "T009698",
+          "T009709",
+          "T009710",
+          "T008019",
+          "T009258"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T009693",
+          "subcluster_name": "Muller's Ratchet and Somatic Mutation Accumulation Theory",
+          "reasoning": "This theory applies Muller's ratchet principle to somatic cells, emphasizing irreversible accumulation of genetic and epigenetic mutations without recombination, fitting with somatic mutation accumulation mechanisms."
+        },
+        {
+          "theory_id": "T009310",
+          "subcluster_name": "Muller's Ratchet and Somatic Mutation Accumulation Theory",
+          "reasoning": "Focuses on mitochondrial DNA mutation accumulation via Muller's ratchet, highlighting asexual genome mutation buildup and ROS-induced damage, a specific somatic mutation accumulation mechanism."
+        },
+        {
+          "theory_id": "T009702",
+          "subcluster_name": "Muller's Ratchet and Somatic Mutation Accumulation Theory",
+          "reasoning": "Centers on accumulation of somatic mutations causing cellular senescence, death, and cancer, emphasizing genome instability and mutation load as aging drivers."
+        },
+        {
+          "theory_id": "T008780",
+          "subcluster_name": "Muller's Ratchet and Somatic Mutation Accumulation Theory",
+          "reasoning": "Proposes aging results from accelerated accumulation of somatic DNA mutations causing protein errors and functional decline, fitting somatic mutation accumulation theme."
+        },
+        {
+          "theory_id": "T009574",
+          "subcluster_name": "Muller's Ratchet and Somatic Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of recessive lethal somatic mutations causing loss of cell viability, a somatic mutation accumulation mechanism."
+        },
+        {
+          "theory_id": "T008995",
+          "subcluster_name": "Muller's Ratchet and Somatic Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of recessive somatic mutations leading to cellular senescence, emphasizing mutation load and cellular aging."
+        },
+        {
+          "theory_id": "T007898",
+          "subcluster_name": "Muller's Ratchet and Somatic Mutation Accumulation Theory",
+          "reasoning": "Details spontaneous mutation accumulation with age across tissues, highlighting molecular mutation types and their role in aging."
+        },
+        {
+          "theory_id": "T006397",
+          "subcluster_name": "Muller's Ratchet and Somatic Mutation Accumulation Theory",
+          "reasoning": "Focuses on somatic mosaicism in brain aging due to mutation accumulation, linking mutation signatures to neurodegeneration and aging."
+        },
+        {
+          "theory_id": "T006259",
+          "subcluster_name": "Muller's Ratchet and Somatic Mutation Accumulation Theory",
+          "reasoning": "Emphasizes age-related decline in DNA repair (NHEJ) leading to accumulation of somatic mutations and genome instability, contributing to aging."
+        },
+        {
+          "theory_id": "T008737",
+          "subcluster_name": "Nuclear and Organismal Mutation Accumulation in Long-Lived Plants",
+          "reasoning": "Focuses on accumulation of deleterious mutations in trees due to environmental mutagens, affecting reproductive viability and aging in plants."
+        },
+        {
+          "theory_id": "T008367",
+          "subcluster_name": "Evolutionary Life History and Mutation Accumulation Theory",
+          "reasoning": "Integrates mutation accumulation with life history evolution, emphasizing extrinsic mortality, trade-offs, and declining selection force with age."
+        },
+        {
+          "theory_id": "T008284",
+          "subcluster_name": "Evolutionary Life History and Mutation Accumulation Theory",
+          "reasoning": "Explores life history trade-offs, declining selection, and damage accumulation shaping senescence and non-senescence patterns."
+        },
+        {
+          "theory_id": "T008212",
+          "subcluster_name": "Evolutionary Life History and Mutation Accumulation Theory",
+          "reasoning": "Describes how extrinsic mortality and life history strategies influence aging rates via mutation accumulation and selection decline."
+        },
+        {
+          "theory_id": "T009457",
+          "subcluster_name": "Evolutionary Life History and Mutation Accumulation Theory",
+          "reasoning": "Discusses mutation accumulation alongside antagonistic pleiotropy and disposable soma within evolutionary aging frameworks."
+        },
+        {
+          "theory_id": "T009661",
+          "subcluster_name": "Evolutionary Life History and Mutation Accumulation Theory",
+          "reasoning": "Covers mutation accumulation, antagonistic pleiotropy, and disposable soma theories emphasizing declining selection and life history trade-offs."
+        },
+        {
+          "theory_id": "T008238",
+          "subcluster_name": "Evolutionary Life History and Mutation Accumulation Theory",
+          "reasoning": "Focuses on condition-dependent mortality and pleiotropy affecting sex differences in longevity, fitting evolutionary life history context."
+        },
+        {
+          "theory_id": "T008840",
+          "subcluster_name": "Evolutionary Life History and Mutation Accumulation Theory",
+          "reasoning": "Describes turnover bias in generation time evolution affecting life history strategies, linked to mutation accumulation via neutral evolution."
+        },
+        {
+          "theory_id": "T009696",
+          "subcluster_name": "Evolutionary Life History and Mutation Accumulation Theory",
+          "reasoning": "Highlights genetic drift in small populations accelerating mutation accumulation and aging, within an evolutionary life history framework."
+        },
+        {
+          "theory_id": "T009701",
+          "subcluster_name": "Classical Mutation Accumulation Theory of Aging",
+          "reasoning": "Focuses on age-specific accumulation of deleterious mutations due to declining selection, causing physiological decline and senescence."
+        },
+        {
+          "theory_id": "T009698",
+          "subcluster_name": "Classical Mutation Accumulation Theory of Aging",
+          "reasoning": "Emphasizes germline and somatic mutation accumulation and their interaction driving aging, fitting classical mutation accumulation."
+        },
+        {
+          "theory_id": "T009709",
+          "subcluster_name": "Classical Mutation Accumulation Theory of Aging",
+          "reasoning": "Describes age-specific effects of mutations and declining selection force allowing late-acting deleterious mutations to accumulate."
+        },
+        {
+          "theory_id": "T009710",
+          "subcluster_name": "Classical Mutation Accumulation Theory of Aging",
+          "reasoning": "Focuses on mutation accumulation causing age-specific declines in survival and fecundity due to weaker late-life selection."
+        },
+        {
+          "theory_id": "T008019",
+          "subcluster_name": "Classical Mutation Accumulation Theory of Aging",
+          "reasoning": "Proposes aging results from accumulation of late-acting deleterious mutations increasing genetic and environmental variance with age."
+        },
+        {
+          "theory_id": "T009258",
+          "subcluster_name": "Classical Mutation Accumulation Theory of Aging",
+          "reasoning": "Presents an evolutionary model where late-acting deleterious mutations accumulate due to weak selection, causing senescence."
+        },
+        {
+          "theory_id": "T008567",
+          "subcluster_name": "Neutral Fixation of Late-Acting Deleterious Alleles Theory",
+          "reasoning": "Focuses on neutral fixation of deleterious late-life alleles (DILL) due to weak selection and small effective population size, especially in mtDNA and Y chromosome."
+        },
+        {
+          "theory_id": "T009704",
+          "subcluster_name": "Modified Mutation Accumulation with Age-Dependent Effects Theory",
+          "reasoning": "Proposes mutations have increasing deleterious effects with age and positive pleiotropy across ages, modifying classical mutation accumulation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:01:03"
+}

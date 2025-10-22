@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T000980",
+          "T001074",
+          "T001037",
+          "T001153",
+          "T000884",
+          "T001067",
+          "T001514",
+          "T001525",
+          "T001100",
+          "T001169",
+          "T000850",
+          "T000787",
+          "T000935",
+          "T001326",
+          "T000756",
+          "T000914",
+          "T001159",
+          "T001378"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 18
+      },
+      {
+        "subcluster_name": "Somatic Evolution and Cancer-Related Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T001112",
+          "T000740",
+          "T000562"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Tissue Maintenance and Degeneration Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T001256",
+          "T000938",
+          "T001038"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Molecular Signaling Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T001025",
+          "T000257"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000980",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on evolutionary trade-offs between early-life traits (learning ability, reproduction) and late-life longevity, emphasizing resource allocation and fitness trade-offs."
+        },
+        {
+          "theory_id": "T001074",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Models trade-offs between reproductive lifespan and survival in seasonal breeders, highlighting antagonistic pleiotropy in reproductive timing and lifespan."
+        },
+        {
+          "theory_id": "T001037",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes energetic trade-offs between reproduction and somatic maintenance affecting fertility and aging, consistent with antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T001153",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Extends antagonistic pleiotropy to cholinergic regulation of inflammation, linking early-life immune benefits to late-life inflammatory costs."
+        },
+        {
+          "theory_id": "T000884",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on testosterone-mediated trade-offs between reproductive success and survival, a sex-specific antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T001067",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Demonstrates genetic correlations between early reproduction and late survival, classic antagonistic pleiotropy in life-history traits."
+        },
+        {
+          "theory_id": "T001514",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Proposes a three-component energy allocation trade-off including reproduction, viability, and competitive ability, explaining sex differences in longevity."
+        },
+        {
+          "theory_id": "T001525",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Extends antagonistic pleiotropy to offspring quality decline with parental age, linking reproduction and aging trade-offs."
+        },
+        {
+          "theory_id": "T001100",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes sex-biased survival and reproduction-longevity trade-offs consistent with antagonistic pleiotropy in life-history strategies."
+        },
+        {
+          "theory_id": "T001169",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Models actuarial and reproductive senescence in fish as life-history trade-offs between early reproduction and late survival."
+        },
+        {
+          "theory_id": "T000850",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes epigenetic developmental programming that favors reproduction at the expense of somatic maintenance, a molecular antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T000787",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Classic Williams' antagonistic pleiotropy theory emphasizing declining selection and trade-offs between early benefits and late costs."
+        },
+        {
+          "theory_id": "T000935",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Links developmental rate and longevity via antagonistic pleiotropy, showing early-life reproductive fitness benefits reduce lifespan."
+        },
+        {
+          "theory_id": "T001326",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "General antagonistic pleiotropy framework highlighting early-life reproductive benefits versus late-life disease risks."
+        },
+        {
+          "theory_id": "T000756",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Medawar-Williams evolutionary theory focusing on declining selection and antagonistic pleiotropy causing aging."
+        },
+        {
+          "theory_id": "T000914",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Reviews pleiotropic genes with age-dependent effects causing senescence via trade-offs between early and late reproduction."
+        },
+        {
+          "theory_id": "T001159",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Quantitative genetic evidence of antagonistic pleiotropy and mutation accumulation in plant senescence, linking early and late life fitness."
+        },
+        {
+          "theory_id": "T001378",
+          "subcluster_name": "Reproduction-Longevity Tradeoff Antagonistic Pleiotropy Theory",
+          "reasoning": "Integrates antagonistic pleiotropy, mutation accumulation, and disposable soma theories explaining senescence across taxa."
+        },
+        {
+          "theory_id": "T001460",
+          "subcluster_name": "Cognitive and Behavioral Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on trade-offs between early-life exploratory behavior and late-life cognitive decline, mediated by neural mechanisms and resource allocation."
+        },
+        {
+          "theory_id": "T001112",
+          "subcluster_name": "Somatic Evolution and Cancer-Related Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes aging-driven changes in tissue microenvironment that shift somatic cell selection, promoting oncogenesis as an antagonistic pleiotropy outcome."
+        },
+        {
+          "theory_id": "T000740",
+          "subcluster_name": "Somatic Evolution and Cancer-Related Antagonistic Pleiotropy Theory",
+          "reasoning": "Cancer as an age-related disease driven by somatic evolution and declining tumor suppression, linking aging and cancer risk."
+        },
+        {
+          "theory_id": "T000562",
+          "subcluster_name": "Somatic Evolution and Cancer-Related Antagonistic Pleiotropy Theory",
+          "reasoning": "Models trade-offs between stem cell niche size, mutation accumulation, aging, and tumorigenesis, highlighting somatic evolution dynamics."
+        },
+        {
+          "theory_id": "T001256",
+          "subcluster_name": "Tissue Maintenance and Degeneration Antagonistic Pleiotropy Theory",
+          "reasoning": "Explains osteoarthritis as a consequence of evolutionary trade-offs in energy-dependent tissue maintenance declining after reproduction."
+        },
+        {
+          "theory_id": "T000938",
+          "subcluster_name": "Tissue Maintenance and Degeneration Antagonistic Pleiotropy Theory",
+          "reasoning": "Proposes evolutionary balancing of multiple deteriorative aging processes with protagonistic pleiotropy influencing tissue degeneration."
+        },
+        {
+          "theory_id": "T001038",
+          "subcluster_name": "Tissue Maintenance and Degeneration Antagonistic Pleiotropy Theory",
+          "reasoning": "Shows how extrinsic mortality shapes timing of senescence and trade-offs between reproduction, immune function, and tissue maintenance."
+        },
+        {
+          "theory_id": "T001025",
+          "subcluster_name": "Molecular Signaling Antagonistic Pleiotropy Theory",
+          "reasoning": "Proposes molecular signals from germ line regulate longevity and reproduction independently of resource allocation, a signaling-based antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T000257",
+          "subcluster_name": "Molecular Signaling Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes evolutionarily conserved HRAS1-mediated stress response pathway influencing longevity, linking molecular signaling to aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:45:10"
+}

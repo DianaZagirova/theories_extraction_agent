@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 30,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Dietary Restriction and Metabolic Homeostasis Theory",
+        "theory_ids": [
+          "T020101",
+          "T020152"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Resource Allocation and Reproductive Aging Theory",
+        "theory_ids": [
+          "T019308",
+          "T019500",
+          "T019306"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Dietary Restriction and Caloric Restriction Theory",
+        "theory_ids": [
+          "T019588",
+          "T019315"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+        "theory_ids": [
+          "T019774",
+          "T019189",
+          "T019830",
+          "T019192",
+          "T020133",
+          "T019880",
+          "T019183",
+          "T019782",
+          "T019578",
+          "T019849",
+          "T019368",
+          "T019773",
+          "T019270"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "IGF-1 Signaling and Tissue-Specific Aging Theory",
+        "theory_ids": [
+          "T019937",
+          "T019234",
+          "T018099"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020101",
+          "subcluster_name": "Dietary Restriction and Metabolic Homeostasis Theory",
+          "reasoning": "Focuses on dietary restriction effects on metabolomic network homeostasis and metabolic remodeling underlying aging modulation."
+        },
+        {
+          "theory_id": "T019308",
+          "subcluster_name": "Resource Allocation and Reproductive Aging Theory",
+          "reasoning": "Centers on energetic resource allocation dynamics affecting reproductive aging and fecundity patterns."
+        },
+        {
+          "theory_id": "T019588",
+          "subcluster_name": "Dietary Restriction and Caloric Restriction Theory",
+          "reasoning": "Describes lifespan extension and disease delay via caloric restriction and metabolic improvements."
+        },
+        {
+          "theory_id": "T019315",
+          "subcluster_name": "Dietary Restriction and Caloric Restriction Theory",
+          "reasoning": "Details conserved metabolic and signaling pathways mediating caloric restriction effects on aging."
+        },
+        {
+          "theory_id": "T020152",
+          "subcluster_name": "Dietary Restriction and Metabolic Homeostasis Theory",
+          "reasoning": "Explains dietary restriction's role in slowing physiological aging and lifespan extension across species."
+        },
+        {
+          "theory_id": "T019500",
+          "subcluster_name": "Resource Allocation and Reproductive Aging Theory",
+          "reasoning": "Distinguishes resource allocation versus reproductive efficiency decline as mechanisms of senescence."
+        },
+        {
+          "theory_id": "T019306",
+          "subcluster_name": "Resource Allocation and Reproductive Aging Theory",
+          "reasoning": "Presents adaptive life-history theory emphasizing trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T019774",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Focuses on DAF-16 ubiquitination by E3 ligase regulating lifespan via insulin/IGF-1 signaling in C. elegans."
+        },
+        {
+          "theory_id": "T019189",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Describes DAF-16 activation during aging stabilizing transcriptome independently of canonical IIS reduction."
+        },
+        {
+          "theory_id": "T019830",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Details IIS pathway's role in longevity and proteostasis via DAF-16 and HSF-1 transcription factors."
+        },
+        {
+          "theory_id": "T019192",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Highlights DAF-16 as master regulator downstream of IIS controlling lifespan and systemic hormonal signaling."
+        },
+        {
+          "theory_id": "T020133",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Explains IIS regulation of lifespan via DAF-16 and balance of PI3 kinase/PTEN affecting oxidative stress resistance."
+        },
+        {
+          "theory_id": "T019880",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Describes IIS cascade regulating DAF-16 nuclear localization and pleiotropic effects on aging and metabolism."
+        },
+        {
+          "theory_id": "T019183",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Focuses on IIS modulation of caveolae and caveolin-1 affecting lifespan and proteostasis in C. elegans."
+        },
+        {
+          "theory_id": "T019782",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Covers genetic variation in IIS pathway components and FOXO transcription factors influencing longevity."
+        },
+        {
+          "theory_id": "T019578",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Describes IIS pathway regulation of longevity via FOXO factors and cross-talk with stress and energy sensors."
+        },
+        {
+          "theory_id": "T019849",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Details endocrine regulation of aging via IIS and multiple insulin-like peptides modulating DAF-16 activity."
+        },
+        {
+          "theory_id": "T019368",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Links IIS pathway and FOXO3 to body size scaling and longevity in humans."
+        },
+        {
+          "theory_id": "T019773",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Explores IIS pathway's role in aging, cancer, and caloric restriction-mediated lifespan extension."
+        },
+        {
+          "theory_id": "T019270",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Reviews conserved IIS longevity pathways including cell-autonomous and non-autonomous FOXO regulation."
+        },
+        {
+          "theory_id": "T019937",
+          "subcluster_name": "IGF-1 Signaling and Tissue-Specific Aging Theory",
+          "reasoning": "Focuses on IGF1 overexpression effects on lifespan and aging rate with tissue-specific promoter effects."
+        },
+        {
+          "theory_id": "T019234",
+          "subcluster_name": "IGF-1 Signaling and Tissue-Specific Aging Theory",
+          "reasoning": "Describes age-related decline in brain IGF-1 protein and receptor levels affecting brain aging."
+        },
+        {
+          "theory_id": "T018099",
+          "subcluster_name": "IGF-1 Signaling and Tissue-Specific Aging Theory",
+          "reasoning": "Shows liver IGF-1 deficiency extends lifespan and preserves autophagy, attenuating hepatic aging."
+        },
+        {
+          "theory_id": "T019194",
+          "subcluster_name": "Reproductive Longevity and Innate Immunity Activation Theory",
+          "reasoning": "Germline removal triggers innate immunity gene irg-7 activation promoting longevity via DAF-16 and DAF-12."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:11:55"
+}

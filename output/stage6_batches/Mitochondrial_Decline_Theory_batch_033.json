@@ -1,0 +1,210 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 33,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Damage Theory",
+        "theory_ids": [
+          "T022243",
+          "T022396",
+          "T022286",
+          "T021858",
+          "T021356",
+          "T021752"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+        "theory_ids": [
+          "T022149",
+          "T022406",
+          "T021806",
+          "T021943",
+          "T022148",
+          "T021753",
+          "T021850",
+          "T021445"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial Quality Control and Mitophagy Impairment Theory",
+        "theory_ids": [
+          "T022120",
+          "T022164",
+          "T021934",
+          "T021777",
+          "T022379",
+          "T022119"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial Permeability Transition and Apoptosis Theory",
+        "theory_ids": [
+          "T022231",
+          "T022374",
+          "T022167"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022243",
+          "subcluster_name": "Mitochondrial ROS-Induced Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS production causing oxidative damage to mitochondrial components leading to aging."
+        },
+        {
+          "theory_id": "T022396",
+          "subcluster_name": "Mitochondrial ROS-Induced Damage Theory",
+          "reasoning": "Describes age-related increase in mitochondrial ROS (H2O2) production and self-amplifying oxidative damage."
+        },
+        {
+          "theory_id": "T022286",
+          "subcluster_name": "Mitochondrial ROS-Induced Damage Theory",
+          "reasoning": "Emphasizes ROS as causal agents damaging mitochondrial complex I and cardiolipin, driving aging."
+        },
+        {
+          "theory_id": "T021858",
+          "subcluster_name": "Mitochondrial ROS-Induced Damage Theory",
+          "reasoning": "Links mitochondrial oxidative stress and increased ROS emission to aging and functional decline."
+        },
+        {
+          "theory_id": "T022149",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Focuses on mtDNA deletions accumulation due to oxidative damage and replication errors causing aging."
+        },
+        {
+          "theory_id": "T022406",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Describes accumulation and clonal expansion of mtDNA mutations impairing mitochondrial function and aging."
+        },
+        {
+          "theory_id": "T021806",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Highlights somatic mtDNA mutations causing premature aging phenotypes in mutator mice."
+        },
+        {
+          "theory_id": "T021943",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Focuses on accumulation of specific mtDNA deletions in aging tissues causing mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T022148",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Links mtDNA damage to bioenergetic crisis and apoptosis driving tissue degeneration and aging."
+        },
+        {
+          "theory_id": "T021753",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Correlates mtDNA rearrangements accumulation with bioenergetic decline in aging skeletal muscle."
+        },
+        {
+          "theory_id": "T021850",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Describes inherited and somatic mtDNA mutations impairing mitochondrial function and lifespan."
+        },
+        {
+          "theory_id": "T021445",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "General mitochondrial dysfunction caused by somatic mtDNA mutations leading to aging phenotypes."
+        },
+        {
+          "theory_id": "T021356",
+          "subcluster_name": "Mitochondrial ROS-Induced Damage Theory",
+          "reasoning": "Describes oxidative damage accumulation to mtDNA, proteins, and lipids causing mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T022120",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Impairment Theory",
+          "reasoning": "Focuses on impaired mitophagy leading to accumulation of dysfunctional mitochondria and aging."
+        },
+        {
+          "theory_id": "T022164",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Impairment Theory",
+          "reasoning": "Emphasizes mitochondrial quality control via mitophagy, dynamics, and autophagy in aging."
+        },
+        {
+          "theory_id": "T021934",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Impairment Theory",
+          "reasoning": "Describes mitochondrial dynamics, mitophagy, and biogenesis maintaining mitochondrial homeostasis."
+        },
+        {
+          "theory_id": "T021777",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Impairment Theory",
+          "reasoning": "Details actin-mediated mitochondrial quality control via retrograde actin cable flow in yeast aging."
+        },
+        {
+          "theory_id": "T022379",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Impairment Theory",
+          "reasoning": "Describes region-specific mitochondrial anchorage maintaining quality and lifespan in yeast mother cells."
+        },
+        {
+          "theory_id": "T022119",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Impairment Theory",
+          "reasoning": "Focuses on asymmetric segregation of damaged mitochondria during yeast cell division for quality control."
+        },
+        {
+          "theory_id": "T022231",
+          "subcluster_name": "Mitochondrial Permeability Transition and Apoptosis Theory",
+          "reasoning": "Focuses on mPTP sensitization causing apoptosis and muscle deterioration with aging."
+        },
+        {
+          "theory_id": "T022374",
+          "subcluster_name": "Mitochondrial Permeability Transition and Apoptosis Theory",
+          "reasoning": "Describes decline in mitochondrial membrane potential linked to PTPC alterations and senescence."
+        },
+        {
+          "theory_id": "T022167",
+          "subcluster_name": "Mitochondrial Permeability Transition and Apoptosis Theory",
+          "reasoning": "Links mitochondrial bioenergetic decline and redox signaling to aging and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T021237",
+          "subcluster_name": "Mitochondrial Protein Quality Control Dysregulation Theory",
+          "reasoning": "Focuses on Lon protease dysregulation impairing mitochondrial protein quality control during aging."
+        },
+        {
+          "theory_id": "T021414",
+          "subcluster_name": "Mitochondrial Dynamics and Programmed Cell Death Theory",
+          "reasoning": "Emphasizes mitochondrial fusion/fission balance and fragmentation driving aging and cell death."
+        },
+        {
+          "theory_id": "T021679",
+          "subcluster_name": "Coenzyme Q Biosynthesis Deficiency and Aging Theory",
+          "reasoning": "Describes clk-1 mutation impairing coenzyme Q biosynthesis affecting mitochondrial function and lifespan."
+        },
+        {
+          "theory_id": "T021461",
+          "subcluster_name": "Mitochondrial DNA Control Region Somatic Mutation Remodeling Theory",
+          "reasoning": "Proposes somatic mtDNA control region mutations remodel replication to maintain mitochondrial function in aging."
+        },
+        {
+          "theory_id": "T021861",
+          "subcluster_name": "Mitochondrial Proteostasis Protection via Stress-Specific HSF-1 Theory",
+          "reasoning": "Describes mitochondrial stress-specific HSF-1 remodeling proteostasis to protect against age-related collapse."
+        },
+        {
+          "theory_id": "T022287",
+          "subcluster_name": "Mitochondrial Hormesis and Mitokine-Mediated Longevity Theory",
+          "reasoning": "Focuses on mild mitochondrial stress inducing mitokines that promote longevity via hormesis."
+        },
+        {
+          "theory_id": "T021752",
+          "subcluster_name": "Mitochondrial ROS-Induced Damage Theory",
+          "reasoning": "Describes mtDNA mutation effects on ROS dynamics, mitochondrial morphology, and accelerated aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:52:04"
+}

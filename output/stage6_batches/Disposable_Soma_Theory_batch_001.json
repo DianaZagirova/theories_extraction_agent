@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+        "theory_ids": [
+          "T000264",
+          "T000529",
+          "T000625",
+          "T000628",
+          "T000368",
+          "T000278",
+          "T000127",
+          "T000193",
+          "T000535",
+          "T000202",
+          "T000573",
+          "T000557",
+          "T000145",
+          "T000357",
+          "T000139",
+          "T000267",
+          "T000229"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "Dietary Restriction and Nutrient Sensing Theories",
+        "theory_ids": [
+          "T000271",
+          "T000303",
+          "T000608"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+        "theory_ids": [
+          "T000143",
+          "T000286",
+          "T000294",
+          "T000254",
+          "T000395",
+          "T000348"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000264",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "This theory focuses on the IIS pathway as a conserved regulator of aging via DAF-2 receptor and DAF-16/FoxO transcription factor."
+        },
+        {
+          "theory_id": "T000529",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes IIS pathway as a master regulator of aging with emphasis on DAF-2 and DAF-16/FOXO roles."
+        },
+        {
+          "theory_id": "T000625",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on FOXO transcription factors regulated by IIS and their role in lifespan extension."
+        },
+        {
+          "theory_id": "T000628",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Details conserved IIS pathway effects on lifespan and metabolic health across species."
+        },
+        {
+          "theory_id": "T000368",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Examines IIS modulation in long-lived mammals, highlighting insulin responsiveness and FOXO involvement."
+        },
+        {
+          "theory_id": "T000278",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Links reduced IIS to lifespan extension via Gnmt-dependent spermidine production and autophagy."
+        },
+        {
+          "theory_id": "T000127",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Shows FOXO/DAF-16 activation via neuromuscular acetylcholine receptor inhibition, connecting IIS to longevity."
+        },
+        {
+          "theory_id": "T000193",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes IIS reduction and DAF-16 activation as mechanisms for lifespan extension."
+        },
+        {
+          "theory_id": "T000535",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on isoform-specific roles of DAF-16/FoxO in mediating IIS-dependent longevity."
+        },
+        {
+          "theory_id": "T000202",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Explains longevity via Pit1 mutation causing reduced IIS signaling in Snell dwarf mice."
+        },
+        {
+          "theory_id": "T000573",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Genetic control of longevity through IIS and DAF-16/FOXO regulation."
+        },
+        {
+          "theory_id": "T000557",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes IIS downregulation and FOXO activation during reproductive dormancy extending lifespan."
+        },
+        {
+          "theory_id": "T000145",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Covers conserved insulin/IGF signaling mechanisms linking metabolism, reproduction, and aging."
+        },
+        {
+          "theory_id": "T000357",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on reduced IGF-1 signaling via rare variants promoting exceptional longevity."
+        },
+        {
+          "theory_id": "T000139",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Details DAF-16 regulation of natc-1 linking IIS to stress resistance and longevity."
+        },
+        {
+          "theory_id": "T000267",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes reproductive system signals modulating lifespan via IIS and DAF-16."
+        },
+        {
+          "theory_id": "T000229",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Shows DAF-16/FoxO mediated repression of ribosomal protein genes enhancing stress resistance and longevity."
+        },
+        {
+          "theory_id": "T000271",
+          "subcluster_name": "Dietary Restriction and Nutrient Sensing Theories",
+          "reasoning": "Focuses on dietary restriction mimetics activating AMPK and metabolic pathways influencing aging."
+        },
+        {
+          "theory_id": "T000303",
+          "subcluster_name": "Dietary Restriction and Nutrient Sensing Theories",
+          "reasoning": "Describes amino acid sensing via GCN2 and TOR pathways mediating dietary restriction effects on longevity."
+        },
+        {
+          "theory_id": "T000608",
+          "subcluster_name": "Dietary Restriction and Nutrient Sensing Theories",
+          "reasoning": "Covers caloric restriction effects on longevity through modulation of insulin/IGF and mTOR pathways."
+        },
+        {
+          "theory_id": "T000143",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Explores trade-offs between stress resistance, stored energy, and longevity reflecting resource allocation costs."
+        },
+        {
+          "theory_id": "T000286",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Discusses trade-offs between male fertility decline and indirect genetic benefits to offspring fitness."
+        },
+        {
+          "theory_id": "T000294",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Classic disposable soma hypothesis emphasizing energy allocation trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T000254",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Life-history trade-off between reproductive effort and longevity with genetic and phenotypic correlations."
+        },
+        {
+          "theory_id": "T000395",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Shows cost of reproduction mediated by oxidative stress and pro-aging cellular mechanisms."
+        },
+        {
+          "theory_id": "T000348",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Discusses resource allocation trade-offs shaping sex-dependent aging and longevity."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:58:24"
+}

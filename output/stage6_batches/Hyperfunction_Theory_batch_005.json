@@ -1,0 +1,213 @@
+{
+  "cluster_name": "Hyperfunction Theory",
+  "batch_num": 5,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+        "theory_ids": [
+          "T015757",
+          "T015914",
+          "T016414",
+          "T015680",
+          "T015977",
+          "T015800",
+          "T015889",
+          "T016091",
+          "T015748",
+          "T016379",
+          "T016156",
+          "T010298",
+          "T015697"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "mTOR-Histone-Autophagy Axis Hyperfunction Theory",
+        "theory_ids": [
+          "T015513",
+          "T016471"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "mTOR-Mitochondrial Retrograde Signaling Hyperfunction Theory",
+        "theory_ids": [
+          "T016501",
+          "T016484",
+          "T015595",
+          "T016702"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Sch9/Rim15/Msn2 Stress Resistance and Autophagy Hyperfunction Theory",
+        "theory_ids": [
+          "T015955",
+          "T016252"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Insulin-mTOR Hyperfunction and Lipid Regulation Theory",
+        "theory_ids": [
+          "T015995",
+          "T015966",
+          "T015964"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015757",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Focuses on mTOR pathway as a central regulator of aging and lifespan modulation via rapamycin inhibition."
+        },
+        {
+          "theory_id": "T015914",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Describes mTOR hyperactivation driving cellular senescence and aging hallmarks, emphasizing mTOR as a causal aging regulator."
+        },
+        {
+          "theory_id": "T016414",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Details mTORC1 and mTORC2 roles in aging, linking mTOR signaling to multiple aging hallmarks and lifespan regulation."
+        },
+        {
+          "theory_id": "T015680",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Highlights mTOR hyperactivation post-development promoting aging and rapamycin\u2019s lifespan extension effects."
+        },
+        {
+          "theory_id": "T015977",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Focuses on mTORC1 as a nutrient and hormonal signal integrator whose activation accelerates aging, with inhibition extending lifespan."
+        },
+        {
+          "theory_id": "T015800",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Describes TOR pathway as a conserved nutrient sensor regulating growth and aging, with inhibition extending lifespan."
+        },
+        {
+          "theory_id": "T015889",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Explains TOR pathway\u2019s role in lifespan regulation and rapamycin-mediated lifespan extension, overlapping with caloric restriction."
+        },
+        {
+          "theory_id": "T016091",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Details mTOR\u2019s regulation of cell growth and protein synthesis, with inhibition extending lifespan and ameliorating age-related diseases."
+        },
+        {
+          "theory_id": "T015748",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Focuses on mTOR-driven geroconversion causing cellular senescence and aging, with pan-mTOR inhibitors suppressing aging phenotypes."
+        },
+        {
+          "theory_id": "T016379",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Describes mTOR signaling\u2019s role in aging and a midlife switch-off of longevity programs, with pharmacological modulation mimicking longevity."
+        },
+        {
+          "theory_id": "T016156",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Covers conserved IIS and mTOR pathways regulating metabolism and aging, with reduced signaling extending lifespan."
+        },
+        {
+          "theory_id": "T010298",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Describes mTOR inhibition and AMPK activation as core longevity pathways shared by longevity-enhancing compounds."
+        },
+        {
+          "theory_id": "T015697",
+          "subcluster_name": "mTOR Signaling Hyperfunction Theory",
+          "reasoning": "Focuses on mTORC1 inhibition by rapamycin inducing autophagy to extend lifespan and improve tissue health."
+        },
+        {
+          "theory_id": "T015513",
+          "subcluster_name": "mTOR-Histone-Autophagy Axis Hyperfunction Theory",
+          "reasoning": "Describes mTORC1 regulation of histone expression and chromatin remodeling that epigenetically activates autophagy to promote longevity."
+        },
+        {
+          "theory_id": "T016471",
+          "subcluster_name": "mTOR-Histone-Autophagy Axis Hyperfunction Theory",
+          "reasoning": "Focuses on mTOR inhibition improving proteostasis via autophagy, chaperones, and proteasome regulation, promoting healthy aging."
+        },
+        {
+          "theory_id": "T016501",
+          "subcluster_name": "mTOR-Mitochondrial Retrograde Signaling Hyperfunction Theory",
+          "reasoning": "Describes mTOR\u2019s regulation of mitochondrial homeostasis and retrograde signaling via p62/Keap1/NFE2L2 axis enhancing longevity."
+        },
+        {
+          "theory_id": "T016484",
+          "subcluster_name": "mTOR-Mitochondrial Retrograde Signaling Hyperfunction Theory",
+          "reasoning": "Details mTOR-raptor complex\u2019s direct regulation of mitochondrial oxidative metabolism and energy balance."
+        },
+        {
+          "theory_id": "T015595",
+          "subcluster_name": "mTOR-Mitochondrial Retrograde Signaling Hyperfunction Theory",
+          "reasoning": "Describes TOR as energy sensor coordinating mitochondrial metabolism and lifespan via feedback loops."
+        },
+        {
+          "theory_id": "T016702",
+          "subcluster_name": "mTOR-Mitochondrial Retrograde Signaling Hyperfunction Theory",
+          "reasoning": "Covers TOR\u2019s conserved role in regulating aging and senescence via autophagy induction and metabolic control across kingdoms."
+        },
+        {
+          "theory_id": "T016390",
+          "subcluster_name": "Growth Signaling-Induced Replication Stress Hyperfunction Theory",
+          "reasoning": "Focuses on growth signaling causing inappropriate S phase entry and replication stress leading to senescence and aging."
+        },
+        {
+          "theory_id": "T015441",
+          "subcluster_name": "Quasi-Programmed Hyperfunction Theory of Aging",
+          "reasoning": "Describes aging as run-on of developmental/reproductive programs causing late-life pathologies via antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T013407",
+          "subcluster_name": "Growth-Related Oxidative Stress Hyperfunction Theory",
+          "reasoning": "Links faster growth to increased ROS generation and proinflammatory signaling accelerating aging."
+        },
+        {
+          "theory_id": "T015955",
+          "subcluster_name": "Sch9/Rim15/Msn2 Stress Resistance and Autophagy Hyperfunction Theory",
+          "reasoning": "Describes TORC1-Sch9-Rim15-Msn2 pathway regulating oxidative stress response and autophagy to modulate aging."
+        },
+        {
+          "theory_id": "T016252",
+          "subcluster_name": "Sch9/Rim15/Msn2 Stress Resistance and Autophagy Hyperfunction Theory",
+          "reasoning": "Focuses on Sch9/Rim15/Msn2 pathway promoting stress resistance and mitophagy to extend lifespan."
+        },
+        {
+          "theory_id": "T015995",
+          "subcluster_name": "Insulin-mTOR Hyperfunction and Lipid Regulation Theory",
+          "reasoning": "Describes insulin-mTOR hyperactivation driving aging, regulated by LPD-3 and sphingolipid pathways affecting mTORC2."
+        },
+        {
+          "theory_id": "T015966",
+          "subcluster_name": "Insulin-mTOR Hyperfunction and Lipid Regulation Theory",
+          "reasoning": "Focuses on insulin-mTOR hyperfunction causing mitochondrial dysfunction and aging, modulated by LPD-3 and lipid metabolism."
+        },
+        {
+          "theory_id": "T015964",
+          "subcluster_name": "Insulin-mTOR Hyperfunction and Lipid Regulation Theory",
+          "reasoning": "Covers IIS and TOR pathways regulating lifespan via FOXO, with cross-talk influencing aging phenotypes."
+        },
+        {
+          "theory_id": "T003227",
+          "subcluster_name": "mTOR Complexes Balance in Reproductive Aging Theory",
+          "reasoning": "Describes balance of mTORC1 and mTORC2 in Sertoli cells regulating sperm epigenetic aging and reproductive aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:10:19"
+}

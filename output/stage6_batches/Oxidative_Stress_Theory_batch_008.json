@@ -1,0 +1,219 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+        "theory_ids": [
+          "T011114",
+          "T010808",
+          "T011469",
+          "T010936",
+          "T011266",
+          "T011067",
+          "T011429",
+          "T011092",
+          "T010781",
+          "T011371",
+          "T011369",
+          "T011203"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Reproductive Effort and Oxidative Stress Tradeoff Theory",
+        "theory_ids": [
+          "T011308",
+          "T010892",
+          "T011569"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Protein Stability and Oxidative Stress Resistance Theory",
+        "theory_ids": [
+          "T011406",
+          "T011102"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T011411",
+          "T011629",
+          "T010802",
+          "T011234",
+          "T010144"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Homeostatic Oxidative Damage Model of Aging",
+        "theory_ids": [
+          "T010707",
+          "T010526",
+          "T009500"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011114",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, mitochondrial DNA damage, and antioxidant enzyme insufficiency driving aging."
+        },
+        {
+          "theory_id": "T010808",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Emphasizes mitochondria as main ROS source and target, with oxidative damage causing physiological decline."
+        },
+        {
+          "theory_id": "T011469",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes mitochondrial vicious cycle of ROS damaging mtDNA, leading to mutations and aging."
+        },
+        {
+          "theory_id": "T010936",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Highlights mitochondrial ROS production, oxidative damage to mitochondrial components, and lifespan correlation."
+        },
+        {
+          "theory_id": "T011266",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links longevity to mitochondrial stress resistance, ROS detoxification, and antioxidant defenses."
+        },
+        {
+          "theory_id": "T011067",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction, mtROS accumulation, and oxidative stress roles in aging and cancer."
+        },
+        {
+          "theory_id": "T011429",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes lower ROS production and oxidative stress-induced inflammation in long-lived species."
+        },
+        {
+          "theory_id": "T011092",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Pollutant-induced mitochondrial dysfunction increases ROS, causing oxidative damage and accelerating aging."
+        },
+        {
+          "theory_id": "T010781",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "General oxidative stress theory emphasizing ROS accumulation, antioxidant imbalance, and oxidative damage biomarkers."
+        },
+        {
+          "theory_id": "T011371",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links metabolic rate, free radical production, and lifespan differences across species."
+        },
+        {
+          "theory_id": "T011369",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on age-dependent changes in antioxidant enzymes and compensatory responses to ROS."
+        },
+        {
+          "theory_id": "T011203",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Examines antioxidant defense systems and oxidative damage accumulation affecting lifespan."
+        },
+        {
+          "theory_id": "T011308",
+          "subcluster_name": "Reproductive Effort and Oxidative Stress Tradeoff Theory",
+          "reasoning": "Focuses on oxidative damage as a cost of reproduction affecting lifespan and resource allocation."
+        },
+        {
+          "theory_id": "T010892",
+          "subcluster_name": "Reproductive Effort and Oxidative Stress Tradeoff Theory",
+          "reasoning": "Describes oxidative stress mediating life-history tradeoffs between reproduction and longevity."
+        },
+        {
+          "theory_id": "T011569",
+          "subcluster_name": "Reproductive Effort and Oxidative Stress Tradeoff Theory",
+          "reasoning": "Links reproductive effort to increased oxidative stress and accelerated aging as a physiological cost."
+        },
+        {
+          "theory_id": "T011275",
+          "subcluster_name": "Nrf2-Regulated Antioxidant Defense and Aging Theory",
+          "reasoning": "Highlights Nrf2 as master regulator of antioxidant defenses influencing oxidative stress and aging."
+        },
+        {
+          "theory_id": "T011406",
+          "subcluster_name": "Protein Stability and Oxidative Stress Resistance Theory",
+          "reasoning": "Focuses on protein structural stability, resistance to oxidation, and proteostasis in longevity."
+        },
+        {
+          "theory_id": "T011102",
+          "subcluster_name": "Protein Stability and Oxidative Stress Resistance Theory",
+          "reasoning": "Emphasizes accumulation of oxidized proteins and their impact on protein function and aging."
+        },
+        {
+          "theory_id": "T011411",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes oxidative DNA damage triggering cellular senescence and SASP-driven inflammation accelerating aging."
+        },
+        {
+          "theory_id": "T011629",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Links oxidative/nitrosative stress to molecular damage and cellular senescence contributing to aging."
+        },
+        {
+          "theory_id": "T010802",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Connects mitochondrial ROS, immune activation, inflamm-aging, and senescence in aging process."
+        },
+        {
+          "theory_id": "T011234",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on chronic oxidative and inflammatory stress, immune dysregulation, and inflamm-aging."
+        },
+        {
+          "theory_id": "T010144",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes chronic oxidative-inflammatory stress, glutathione cycle dysregulation, and immunosenescence."
+        },
+        {
+          "theory_id": "T010707",
+          "subcluster_name": "Homeostatic Oxidative Damage Model of Aging",
+          "reasoning": "Presents a homeostatic model linking oxidative damage accumulation to decline in physiological homeostasis."
+        },
+        {
+          "theory_id": "T010526",
+          "subcluster_name": "Homeostatic Oxidative Damage Model of Aging",
+          "reasoning": "Proposes ROS level fluctuation control and homeostasis as key determinants of aging and lifespan."
+        },
+        {
+          "theory_id": "T009500",
+          "subcluster_name": "Homeostatic Oxidative Damage Model of Aging",
+          "reasoning": "Unifies oxidative stress with genetic programming and metabolic potential influencing aging rate."
+        },
+        {
+          "theory_id": "T009547",
+          "subcluster_name": "Melatonin-Mediated Free Radical Scavenging Theory",
+          "reasoning": "Focuses on melatonin as endogenous antioxidant reducing oxidative/nitrosative stress and aging."
+        },
+        {
+          "theory_id": "T009609",
+          "subcluster_name": "Mitohormesis and Adaptive Stress Response Theory",
+          "reasoning": "Describes mild mitochondrial stress inducing adaptive antioxidant responses and longevity via mitokines."
+        },
+        {
+          "theory_id": "T011667",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Defense in Aging Theory",
+          "reasoning": "Emphasizes age-related lipid peroxidation, antioxidant enzyme activity changes, and mortality in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:28:11"
+}

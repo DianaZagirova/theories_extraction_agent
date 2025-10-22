@@ -1,0 +1,214 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 22,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Evolutionary Trade-Offs in Organ Systems Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T026489",
+          "T026486",
+          "T026500",
+          "T025795",
+          "T026494",
+          "T025799",
+          "T025247"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Gene-Specific Antagonistic Pleiotropy Theory: APOE and Genetic Variants",
+        "theory_ids": [
+          "T026482",
+          "T023989",
+          "T023411",
+          "T026479",
+          "T026014"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Sexually Antagonistic Pleiotropy and Sex-Specific Aging Theory",
+        "theory_ids": [
+          "T025854",
+          "T025796",
+          "T026244"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Evolutionary Life-History Trade-Offs and Mutation Accumulation Theory",
+        "theory_ids": [
+          "T025859",
+          "T026524",
+          "T026081",
+          "T025816",
+          "T026013",
+          "T026054",
+          "T025819",
+          "T026286"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Cancer-Related Antagonistic Pleiotropy and Tumor Suppression Theory",
+        "theory_ids": [
+          "T026057",
+          "T023320"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026489",
+          "subcluster_name": "Evolutionary Trade-Offs in Organ Systems Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on evolutionary trade-offs affecting organ function (kidney), illustrating antagonistic pleiotropy via maladaptive aging consequences of early-life adaptations."
+        },
+        {
+          "theory_id": "T026486",
+          "subcluster_name": "Evolutionary Trade-Offs in Organ Systems Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses energy allocation and maladaptive ancestral adaptations leading to progressive organ decline, fitting the organ systems trade-off theme."
+        },
+        {
+          "theory_id": "T026500",
+          "subcluster_name": "Evolutionary Trade-Offs in Organ Systems Antagonistic Pleiotropy Theory",
+          "reasoning": "Examines catecholaminergic system adaptations with early-life benefits but late-life neurodegeneration, an organ/system-specific trade-off."
+        },
+        {
+          "theory_id": "T025795",
+          "subcluster_name": "Evolutionary Trade-Offs in Organ Systems Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on cellular senescence and apoptosis as mechanisms evolved for early-life benefits but causing aging phenotypes, fitting cellular/organ system trade-offs."
+        },
+        {
+          "theory_id": "T026494",
+          "subcluster_name": "Evolutionary Trade-Offs in Organ Systems Antagonistic Pleiotropy Theory",
+          "reasoning": "Details p53 tumor suppressor dual role in cancer prevention early and aging promotion later, a cellular/tissue-level trade-off."
+        },
+        {
+          "theory_id": "T025799",
+          "subcluster_name": "Evolutionary Trade-Offs in Organ Systems Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes selective vulnerability of neurons due to early-life adaptations becoming late-life liabilities, fitting organ system trade-offs."
+        },
+        {
+          "theory_id": "T025247",
+          "subcluster_name": "Evolutionary Trade-Offs in Organ Systems Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on estrogen\u2019s pleiotropic effects mediated by mitochondria, beneficial early but detrimental later, a hormone-organ system trade-off."
+        },
+        {
+          "theory_id": "T026482",
+          "subcluster_name": "Gene-Specific Antagonistic Pleiotropy Theory: APOE and Genetic Variants",
+          "reasoning": "Centers on APOE\u025b4 allele\u2019s age-dependent beneficial and detrimental effects, exemplifying gene-specific antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T023989",
+          "subcluster_name": "Gene-Specific Antagonistic Pleiotropy Theory: APOE and Genetic Variants",
+          "reasoning": "Explores balancing selection maintaining APOE4 due to early-life pathogen resistance and late-life disease risk, a gene-specific pleiotropy case."
+        },
+        {
+          "theory_id": "T023411",
+          "subcluster_name": "Gene-Specific Antagonistic Pleiotropy Theory: APOE and Genetic Variants",
+          "reasoning": "Discusses genetic variants with dual effects across lifespan influencing longevity, fitting gene-specific pleiotropy theme."
+        },
+        {
+          "theory_id": "T026479",
+          "subcluster_name": "Gene-Specific Antagonistic Pleiotropy Theory: APOE and Genetic Variants",
+          "reasoning": "Focuses on spontaneous mutations with early-life benefits and late-life costs, a gene-level antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T026014",
+          "subcluster_name": "Gene-Specific Antagonistic Pleiotropy Theory: APOE and Genetic Variants",
+          "reasoning": "General discussion of antagonistic pleiotropy in human brain diseases, emphasizing gene-level trade-offs."
+        },
+        {
+          "theory_id": "T025854",
+          "subcluster_name": "Sexually Antagonistic Pleiotropy and Sex-Specific Aging Theory",
+          "reasoning": "Focuses on sex-dependent selective optima and trade-offs between reproduction and longevity, explaining sex differences in aging."
+        },
+        {
+          "theory_id": "T025796",
+          "subcluster_name": "Sexually Antagonistic Pleiotropy and Sex-Specific Aging Theory",
+          "reasoning": "Details sex-specific genetic optimization, mitochondrial inheritance, and apoptosis contributing to sex differences in aging."
+        },
+        {
+          "theory_id": "T026244",
+          "subcluster_name": "Sexually Antagonistic Pleiotropy and Sex-Specific Aging Theory",
+          "reasoning": "Describes germline regulation of longevity and somatic repair with sex-specific effects, fitting sex-specific antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T025859",
+          "subcluster_name": "Evolutionary Life-History Trade-Offs and Mutation Accumulation Theory",
+          "reasoning": "Combines mutation accumulation, antagonistic pleiotropy, and disposable soma theories focusing on life-history trade-offs shaping aging."
+        },
+        {
+          "theory_id": "T026524",
+          "subcluster_name": "Evolutionary Life-History Trade-Offs and Mutation Accumulation Theory",
+          "reasoning": "Integrates antagonistic pleiotropy with developmental gene hyper/hypofunction and trade-offs between lifespan and early fitness."
+        },
+        {
+          "theory_id": "T026081",
+          "subcluster_name": "Evolutionary Life-History Trade-Offs and Mutation Accumulation Theory",
+          "reasoning": "Analyzes declining selection with age and environmental effects on age-specific survival, a life-history evolutionary framework."
+        },
+        {
+          "theory_id": "T025816",
+          "subcluster_name": "Evolutionary Life-History Trade-Offs and Mutation Accumulation Theory",
+          "reasoning": "Discusses natural selection shaping longevity and life history traits via ecological forces and declining selection with age."
+        },
+        {
+          "theory_id": "T026013",
+          "subcluster_name": "Evolutionary Life-History Trade-Offs and Mutation Accumulation Theory",
+          "reasoning": "Presents demographic model of senescence evolution via trade-offs between early-life benefits and late-life costs."
+        },
+        {
+          "theory_id": "T026054",
+          "subcluster_name": "Evolutionary Life-History Trade-Offs and Mutation Accumulation Theory",
+          "reasoning": "Uses experimental evolution to study aging and longevity, emphasizing life-history trade-offs and genetic bases."
+        },
+        {
+          "theory_id": "T025819",
+          "subcluster_name": "Evolutionary Life-History Trade-Offs and Mutation Accumulation Theory",
+          "reasoning": "Examines extrinsic mortality effects on longevity and senescence patterns, fitting life-history evolutionary theory."
+        },
+        {
+          "theory_id": "T026286",
+          "subcluster_name": "Evolutionary Life-History Trade-Offs and Mutation Accumulation Theory",
+          "reasoning": "Discusses variation in senescence rates among species and environmental modulation, challenging universality of aging."
+        },
+        {
+          "theory_id": "T026057",
+          "subcluster_name": "Cancer-Related Antagonistic Pleiotropy and Tumor Suppression Theory",
+          "reasoning": "Focuses on cancer resistance mechanisms as evolutionary constraints that trade off with aging via tumor suppression."
+        },
+        {
+          "theory_id": "T023320",
+          "subcluster_name": "Cancer-Related Antagonistic Pleiotropy and Tumor Suppression Theory",
+          "reasoning": "Describes cancer as somatic evolution and tumor suppression mechanisms that trade off with aging, illustrating antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T026485",
+          "subcluster_name": "Protein Synthesis-Mediated Antagonistic Pleiotropy Theory",
+          "reasoning": "Details protein synthesis and TOR pathway as molecular mediators of growth-lifespan trade-offs, a mechanistic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T025862",
+          "subcluster_name": "Telomerase-Mediated Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on telomerase\u2019s dual role in cancer risk and longevity, exemplifying antagonistic pleiotropy at telomere maintenance level."
+        },
+        {
+          "theory_id": "T026477",
+          "subcluster_name": "Programmatic Aging and Biological Constraint Antagonistic Pleiotropy Theory",
+          "reasoning": "Integrates antagonistic pleiotropy with biological constraints and programmatic aging concepts like hyperfunction and quasi-programs."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:57:46"
+}

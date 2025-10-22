@@ -1,0 +1,223 @@
+{
+  "cluster_name": "Hormesis Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Radiation-Induced Hormesis Theory",
+        "theory_ids": [
+          "T024339",
+          "T004023",
+          "T001779",
+          "T021347",
+          "T020530"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+        "theory_ids": [
+          "T024254",
+          "T027417",
+          "T027040",
+          "T026966",
+          "T024934",
+          "T027225",
+          "T019516",
+          "T020323",
+          "T021930",
+          "T022893"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Exercise and Oxidative Stress-Induced Hormesis Theory",
+        "theory_ids": [
+          "T027470",
+          "T019297",
+          "T014956",
+          "T027275",
+          "T027316",
+          "T027441"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Polyphenol and Xenohormesis-Induced Hormesis Theory",
+        "theory_ids": [
+          "T026961",
+          "T020897"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+        "theory_ids": [
+          "T016166",
+          "T022283",
+          "T023332",
+          "T016874",
+          "T016037",
+          "T024335"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024339",
+          "subcluster_name": "Radiation-Induced Hormesis Theory",
+          "reasoning": "Focuses on hormesis induced by low-dose ionizing radiation, invalidating LNT model and involving oxidative stress and metabolic adaptations."
+        },
+        {
+          "theory_id": "T004023",
+          "subcluster_name": "Radiation-Induced Hormesis Theory",
+          "reasoning": "Describes low-dose radiation stimulating DNA repair, immune responses, and lifespan extension with J-shaped dose response."
+        },
+        {
+          "theory_id": "T001779",
+          "subcluster_name": "Radiation-Induced Hormesis Theory",
+          "reasoning": "Explains hormetic effects of natural background radiation on longevity and cancer mortality via protective biological mechanisms."
+        },
+        {
+          "theory_id": "T021347",
+          "subcluster_name": "Radiation-Induced Hormesis Theory",
+          "reasoning": "Shows hormesis by X-irradiation in C. elegans dauer larvae extending lifespan through protective enzyme upregulation."
+        },
+        {
+          "theory_id": "T020530",
+          "subcluster_name": "Radiation-Induced Hormesis Theory",
+          "reasoning": "Mechanism of hormesis via transcription-blocking DNA damage leading to somatotropic attenuation and enhanced stress resistance."
+        },
+        {
+          "theory_id": "T024254",
+          "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+          "reasoning": "Describes hormesis as a universal adaptive response involving conserved signaling pathways (NF-\u03baB, MAPK, AMPK, mTOR) and oxidative stress mitigation."
+        },
+        {
+          "theory_id": "T027417",
+          "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+          "reasoning": "Focuses on hormesis as a general adaptive aging mechanism mediated by transcription factors (NF-\u03baB, CREB, Nrf2) linking homeostasis and neuroplasticity."
+        },
+        {
+          "theory_id": "T027040",
+          "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+          "reasoning": "Emphasizes hormesis as a biphasic dose response with universal lifespan extension across models and interventions."
+        },
+        {
+          "theory_id": "T026966",
+          "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+          "reasoning": "Integrates hormesis as an evolutionarily conserved adaptive strategy enhancing repair and healthspan with quantitative plasticity limits."
+        },
+        {
+          "theory_id": "T024934",
+          "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+          "reasoning": "Clinical anti-aging strategies based on hormesis activating maintenance and repair pathways at multiple biological levels."
+        },
+        {
+          "theory_id": "T027225",
+          "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+          "reasoning": "Describes hormesis and preconditioning enhancing biological resilience and protecting against age-related decline."
+        },
+        {
+          "theory_id": "T019516",
+          "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+          "reasoning": "Shows hormesis via phytochemicals activating cellular defense pathways and longevity-related signaling cascades."
+        },
+        {
+          "theory_id": "T020323",
+          "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+          "reasoning": "Toxin-induced hormesis activates conserved signaling pathways (PI3K/Akt/mTOR, AMPK) modulating aging rate."
+        },
+        {
+          "theory_id": "T027470",
+          "subcluster_name": "Exercise and Oxidative Stress-Induced Hormesis Theory",
+          "reasoning": "Focuses on hormesis induced by moderate exercise-generated ROS that upregulate antioxidant defenses and improve health."
+        },
+        {
+          "theory_id": "T019297",
+          "subcluster_name": "Exercise and Oxidative Stress-Induced Hormesis Theory",
+          "reasoning": "Describes exercise-induced mild oxidative stress triggering adaptive antioxidant and repair systems affecting multiple tissues."
+        },
+        {
+          "theory_id": "T014956",
+          "subcluster_name": "Exercise and Oxidative Stress-Induced Hormesis Theory",
+          "reasoning": "Caloric restriction increases ROS as hormetic signals activating protective pathways that extend lifespan."
+        },
+        {
+          "theory_id": "T027275",
+          "subcluster_name": "Exercise and Oxidative Stress-Induced Hormesis Theory",
+          "reasoning": "IL-6 hormesis with low-dose anti-inflammatory and antioxidant effects, linking cytokine signaling to aging resilience."
+        },
+        {
+          "theory_id": "T027316",
+          "subcluster_name": "Exercise and Oxidative Stress-Induced Hormesis Theory",
+          "reasoning": "Flavonoid-induced hormesis with senolytic activity and enhancement of aging-related biological performance."
+        },
+        {
+          "theory_id": "T027441",
+          "subcluster_name": "Exercise and Oxidative Stress-Induced Hormesis Theory",
+          "reasoning": "Vitamin-mediated hormesis inducing mild stress responses that modulate aging hallmarks and promote longevity."
+        },
+        {
+          "theory_id": "T026961",
+          "subcluster_name": "Polyphenol and Xenohormesis-Induced Hormesis Theory",
+          "reasoning": "Olive polyphenols induce hormesis via AMPK and Nrf2 activation and modulation of vitagenes for neuroprotection."
+        },
+        {
+          "theory_id": "T020897",
+          "subcluster_name": "Polyphenol and Xenohormesis-Induced Hormesis Theory",
+          "reasoning": "Polyphenol metabolites induce hormesis through sirtuin pathway activation and metabolic reprogramming in C. elegans."
+        },
+        {
+          "theory_id": "T016166",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Heat-induced hormesis extends lifespan via upregulation of heat shock proteins (Hsp70) enhancing stress resistance."
+        },
+        {
+          "theory_id": "T022283",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Mild heat-shock induces longevity by reducing mortality rates and enhancing stress resistance in C. elegans."
+        },
+        {
+          "theory_id": "T023332",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Early mild heat stress primes increased Hsp70 synthesis later in life, improving cellular maintenance and longevity."
+        },
+        {
+          "theory_id": "T016874",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Heat treatment extends lifespan in Drosophila by physiological induction of stress resistance independent of reproduction."
+        },
+        {
+          "theory_id": "T016037",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Heat-induced longevity in yeast requires metabolic reprogramming, mitochondrial ROS signaling, and glutathione recycling."
+        },
+        {
+          "theory_id": "T024335",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Hypergravity acts as a hormetic stressor inducing protective mechanisms including heat shock proteins affecting longevity."
+        },
+        {
+          "theory_id": "T021930",
+          "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+          "reasoning": "NF-\u03baB signaling as a central hub mediating hormesis-induced protective responses during aging."
+        },
+        {
+          "theory_id": "T022893",
+          "subcluster_name": "General Adaptive Hormesis Theory via Cellular Signaling",
+          "reasoning": "Hormesis-based adaptive plasticity in brain aging linking energy metabolism, synaptic plasticity, and lifestyle factors."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:44:51"
+}

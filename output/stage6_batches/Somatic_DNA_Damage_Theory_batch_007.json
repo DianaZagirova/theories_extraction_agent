@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 7,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+        "theory_ids": [
+          "T006391",
+          "T006386",
+          "T006985",
+          "T006440",
+          "T006712",
+          "T006401",
+          "T006689",
+          "T006654",
+          "T006825",
+          "T006390",
+          "T006455",
+          "T006414",
+          "T006443",
+          "T006821",
+          "T006502",
+          "T006398",
+          "T006478",
+          "T006451",
+          "T006375",
+          "T006352"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 20
+      },
+      {
+        "subcluster_name": "Epigenetic Alterations Induced by DNA Repair Theory",
+        "theory_ids": [
+          "T006952",
+          "T006698",
+          "T006413"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T006391",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of DNA damage, genomic instability, stem cell dysfunction, and DNA repair pathways impacting aging and cancer."
+        },
+        {
+          "theory_id": "T006386",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Emphasizes genomic instability caused by WRN helicase defects affecting DNA repair and telomere maintenance leading to accelerated aging."
+        },
+        {
+          "theory_id": "T006985",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes DNA damage accumulation and repair deficiencies in hematopoietic stem cells causing functional decline and aging."
+        },
+        {
+          "theory_id": "T006440",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Links A-type lamin mutations to defective DNA damage response, telomere dysfunction, and genomic instability driving premature aging."
+        },
+        {
+          "theory_id": "T006496",
+          "subcluster_name": "Metabolic and Transcriptional Consequences of DNA Damage Theory",
+          "reasoning": "Focuses on DNA damage-induced transcription stress causing metabolic redesign and antioxidant potentiation via ATP surplus and PPP rerouting."
+        },
+        {
+          "theory_id": "T006712",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Centers on nuclear genome instability as a unifying hallmark of aging linking mitochondrial replication errors to nuclear DNA damage."
+        },
+        {
+          "theory_id": "T006952",
+          "subcluster_name": "Epigenetic Alterations Induced by DNA Repair Theory",
+          "reasoning": "Proposes DNA repair processes cause promoter DNA hypermethylation and histone modification changes affecting gene expression and aging."
+        },
+        {
+          "theory_id": "T006401",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes genomic instability, DNA damage accumulation, repair decline, epigenetic changes, and telomere shortening as aging drivers."
+        },
+        {
+          "theory_id": "T006689",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Highlights DNA double-strand break accumulation and NHEJ repair deficiency impairing stem cell maintenance and promoting aging."
+        },
+        {
+          "theory_id": "T006654",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on DNA damage accumulation, genome maintenance defects, DDR outcomes, and metabolic interplay driving aging."
+        },
+        {
+          "theory_id": "T006698",
+          "subcluster_name": "Epigenetic Alterations Induced by DNA Repair Theory",
+          "reasoning": "Emphasizes DNA damage-induced chromatin structural changes and epigenetic deregulation in tissue-specific stem cells driving aging."
+        },
+        {
+          "theory_id": "T006825",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes NHEJ deficiency (Ku80 loss) causing unrepaired DSBs, genome rearrangements, senescence, and aging phenotypes."
+        },
+        {
+          "theory_id": "T006390",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on DNA repair deficiencies causing genomic instability, premature aging syndromes, and cellular senescence."
+        },
+        {
+          "theory_id": "T006455",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes DNA damage accumulation, defective repair pathways (NER, TCR), and their distinct effects on aging and cancer."
+        },
+        {
+          "theory_id": "T006414",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Links DNA replication stress and recombination-based genomic instability to aging in yeast models."
+        },
+        {
+          "theory_id": "T006443",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on RecQ helicase dysfunction causing genomic instability, defective DNA repair, telomere maintenance failure, and premature aging."
+        },
+        {
+          "theory_id": "T006821",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Highlights accumulation of unrepaired DNA damage, decline in repair efficiency, and genomic instability as shared aging and cancer hallmarks."
+        },
+        {
+          "theory_id": "T006502",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes CTC1 mutation impairing telomere and genome stability causing DNA damage accumulation and progeroid aging phenotypes."
+        },
+        {
+          "theory_id": "T006398",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of DNA double-strand breaks and repair efficiency influencing brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T006413",
+          "subcluster_name": "Epigenetic Alterations Induced by DNA Repair Theory",
+          "reasoning": "Distinguishes physiological vs pathological endogenous DNA double-strand breaks as epigenetic markers affecting genomic stability and aging."
+        },
+        {
+          "theory_id": "T006478",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Links genomic instability from transcriptional stalling and recombination in yeast to reduced lifespan and aging."
+        },
+        {
+          "theory_id": "T007027",
+          "subcluster_name": "Programmed DNA Replication Initiation Depletion Theory",
+          "reasoning": "Proposes finite DNA synthesis initiation loci act as a molecular clock controlling cell division, differentiation, and programmed aging."
+        },
+        {
+          "theory_id": "T006451",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes defective genome maintenance and DNA repair due to loss of NRMT1 causing genomic instability and premature aging."
+        },
+        {
+          "theory_id": "T006427",
+          "subcluster_name": "rDNA Instability and Replicative Aging Theory",
+          "reasoning": "Focuses on ribosomal DNA instability, replication fork barriers, ERC accumulation, and their role in cellular senescence and aging."
+        },
+        {
+          "theory_id": "T006375",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes age-related increase in genomic instability and loss of mitotic asymmetry contributing to yeast aging."
+        },
+        {
+          "theory_id": "T006352",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Links lamin A mutations to defective DNA damage response, chromatin organization, and genomic instability causing premature aging."
+        },
+        {
+          "theory_id": "T006272",
+          "subcluster_name": "Nuclear-Mitochondrial Genome Instability Interplay Theory",
+          "reasoning": "Emphasizes interplay between nuclear and mitochondrial genome instability, p53 signaling, and mitochondrial dysfunction driving aging and frailty."
+        },
+        {
+          "theory_id": "T006243",
+          "subcluster_name": "Somatic DNA Damage-Induced Transcriptional Noise Theory",
+          "reasoning": "Proposes somatic DNA damage causes stochastic gene expression deregulation and increased transcriptional noise driving aging phenotypes."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:41:37"
+}

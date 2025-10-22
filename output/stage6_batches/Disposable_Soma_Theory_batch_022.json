@@ -1,0 +1,177 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 22,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+        "theory_ids": [
+          "T015695",
+          "T015476",
+          "T015490",
+          "T015719",
+          "T015337",
+          "T015649",
+          "T015598",
+          "T015666",
+          "T015440",
+          "T015679",
+          "T015538",
+          "T015487"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Dietary Restriction and Nutrient Signaling Aging Theory",
+        "theory_ids": [
+          "T015449",
+          "T015320",
+          "T015686",
+          "T015500",
+          "T015530",
+          "T015599",
+          "T015327",
+          "T015582"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Reproduction-Fat Metabolism and Hormonal Signaling Aging Theory",
+        "theory_ids": [
+          "T015569",
+          "T015616"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015695",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Focuses on DAF-16 as a master regulator downstream of IIS pathway controlling longevity, immunity, and stress resistance."
+        },
+        {
+          "theory_id": "T015476",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Describes conserved IIS pathway and lifespan extension via reduced insulin/IGF-1 signaling involving daf-2 and daf-16."
+        },
+        {
+          "theory_id": "T015490",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Details IIS pathway regulation of aging via circRNA and DAF-16/dFoxo-dependent mechanisms."
+        },
+        {
+          "theory_id": "T015719",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Explains lifespan extension by naringin through IIS pathway modulation and DAF-16 activation."
+        },
+        {
+          "theory_id": "T015337",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Shows IIS reduction extends lifespan via proteostasis reactivation and DAF-16 related pathways."
+        },
+        {
+          "theory_id": "T015649",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Focuses on conserved IIS pathway components including DAF-16/FOXO regulating lifespan and metabolism."
+        },
+        {
+          "theory_id": "T015598",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Myricetin extends lifespan by activating DAF-16 downstream of IIS pathway."
+        },
+        {
+          "theory_id": "T015666",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Describes IIS pathway mutations affecting lifespan and healthspan via DAF-16/FOXO."
+        },
+        {
+          "theory_id": "T015440",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Reduced IIS activity extends lifespan through tissue-specific gene expression changes involving DAF-16."
+        },
+        {
+          "theory_id": "T015679",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Combines ROS scavenging with IIS pathway and DAF-16 activation for lifespan extension."
+        },
+        {
+          "theory_id": "T015538",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "Reduced IGF-I signaling extends lifespan via oxidative stress resistance and DAF-16 related pathways."
+        },
+        {
+          "theory_id": "T015614",
+          "subcluster_name": "Insulin/IGF-1 Antagonistic Pleiotropy and mTOR Aging Theory",
+          "reasoning": "Focuses on antagonistic pleiotropy of IIS promoting growth early but aging later via mTOR and immunosuppression."
+        },
+        {
+          "theory_id": "T015449",
+          "subcluster_name": "Dietary Restriction and Nutrient Signaling Aging Theory",
+          "reasoning": "Describes lifespan extension by dietary restriction through nutrient availability and physiological state changes."
+        },
+        {
+          "theory_id": "T015320",
+          "subcluster_name": "Dietary Restriction and Nutrient Signaling Aging Theory",
+          "reasoning": "Explains DR effects via metabolic shift, nutrient sensing (mTOR, IIS, sirtuins), and autophagy."
+        },
+        {
+          "theory_id": "T015686",
+          "subcluster_name": "Dietary Restriction and Nutrient Signaling Aging Theory",
+          "reasoning": "Links DR and TOR signaling in lifespan extension, highlighting royal jelly component 10-HDA effects."
+        },
+        {
+          "theory_id": "T015500",
+          "subcluster_name": "Dietary Restriction and Nutrient Signaling Aging Theory",
+          "reasoning": "Energy restriction extends lifespan by hormesis, antioxidant defense, and metabolic adaptations."
+        },
+        {
+          "theory_id": "T015530",
+          "subcluster_name": "Dietary Restriction and Nutrient Signaling Aging Theory",
+          "reasoning": "Caloric restriction extends lifespan and reduces age-related diseases via multiple mechanisms including insulin signaling."
+        },
+        {
+          "theory_id": "T015599",
+          "subcluster_name": "Dietary Restriction and Nutrient Signaling Aging Theory",
+          "reasoning": "CR extends lifespan by inhibiting nutrient sensing pathways (IIS, mTOR), activating sirtuins and stress responses."
+        },
+        {
+          "theory_id": "T015327",
+          "subcluster_name": "Dietary Restriction and Nutrient Signaling Aging Theory",
+          "reasoning": "CR delays aging by metabolic and antioxidative mechanisms and CR mimetics activating sirtuins."
+        },
+        {
+          "theory_id": "T015582",
+          "subcluster_name": "Dietary Restriction and Nutrient Signaling Aging Theory",
+          "reasoning": "Nutritional memory limits late-onset DR benefits by impairing adipose tissue metabolic reprogramming."
+        },
+        {
+          "theory_id": "T015487",
+          "subcluster_name": "DAF-16/FOXO Insulin/IGF-1 Signaling Aging Theory",
+          "reasoning": "DAF-16 activation via JNK and AMPK pathways under dietary restriction mediates lifespan extension."
+        },
+        {
+          "theory_id": "T015569",
+          "subcluster_name": "Reproduction-Fat Metabolism and Hormonal Signaling Aging Theory",
+          "reasoning": "Describes trade-offs between reproduction and somatic maintenance mediated by fat metabolism and hormonal signaling."
+        },
+        {
+          "theory_id": "T015616",
+          "subcluster_name": "Reproduction-Fat Metabolism and Hormonal Signaling Aging Theory",
+          "reasoning": "Trade-off theory of senescence shaped by balance between maintenance and reproduction costs."
+        },
+        {
+          "theory_id": "T015566",
+          "subcluster_name": "Molecular Mobility and Biophysical Aging Theory",
+          "reasoning": "Molecular mobility in cytoplasm controls aging rates in dry germplasm via glassy state and reaction kinetics."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:08:34"
+}

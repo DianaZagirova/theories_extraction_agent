@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 12,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T012914",
+          "T012965",
+          "T012625",
+          "T012732",
+          "T012928",
+          "T012768",
+          "T012679",
+          "T012907",
+          "T012655",
+          "T012697",
+          "T012352",
+          "T012748",
+          "T012639",
+          "T012923",
+          "T012760"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Lipid Peroxidation-Centric Free Radical Theory",
+        "theory_ids": [
+          "T012942",
+          "T012645",
+          "T012904",
+          "T012756",
+          "T012721",
+          "T012800"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T012914",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS generation as primary source of free radicals causing aging and the role of antioxidants targeting mitochondria."
+        },
+        {
+          "theory_id": "T012965",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes oxidative damage from ROS generated during metabolism, antioxidant enzyme defenses, and energy restriction enhancing mitochondrial antioxidant capacity."
+        },
+        {
+          "theory_id": "T012625",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights mitochondria as main ROS source and target, decline in antioxidant defenses, and oxidative damage accumulation driving brain aging."
+        },
+        {
+          "theory_id": "T012732",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes ROS from metabolism causing oxidative damage accumulation leading to cellular and organismal aging, consistent with mitochondrial ROS origin."
+        },
+        {
+          "theory_id": "T012928",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on ROS from mitochondria, balance with antioxidant defenses, and links to longevity and dietary restriction effects."
+        },
+        {
+          "theory_id": "T012768",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction as primary ROS source, oxidative stress accumulation, and antioxidant defense imbalance driving aging."
+        },
+        {
+          "theory_id": "T012679",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on oxidative DNA damage in mitochondrial and nuclear DNA, mitochondrial dysfunction, and decline in repair and antioxidant defenses."
+        },
+        {
+          "theory_id": "T012907",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial vulnerability to ROS, oxidative damage causing immune system senescence, and antioxidant defense imbalance."
+        },
+        {
+          "theory_id": "T012655",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Details mitochondrial ROS production, decline in cytosolic antioxidant enzymes, compensatory mitochondrial antioxidant increase, and oxidative damage in myocardial aging."
+        },
+        {
+          "theory_id": "T012697",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on oxygen radical formation and oxidative damage accumulation in brain aging despite reduced radical formation."
+        },
+        {
+          "theory_id": "T012352",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "General free radical accumulation from metabolism causing damage to biomolecules and driving aging and disease risk."
+        },
+        {
+          "theory_id": "T012748",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes ROS accumulation causing damage and antioxidant defense as anti-aging strategy, consistent with mitochondrial ROS origin."
+        },
+        {
+          "theory_id": "T012639",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on ROS accumulation from metabolism causing oxidative stress and aging, with antioxidant defenses modulating lifespan."
+        },
+        {
+          "theory_id": "T012923",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes ROS as aging drivers causing oxidative damage, with antioxidant enzymes influencing aging rate."
+        },
+        {
+          "theory_id": "T012760",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on endogenous free radical damage impairing immune function and antioxidant inhibitors ameliorating aging effects."
+        },
+        {
+          "theory_id": "T012887",
+          "subcluster_name": "NADPH-Dependent Antioxidant Defense Free Radical Theory",
+          "reasoning": "Highlights role of NADPH and G6PD enzyme in providing reducing power for antioxidant defenses that detoxify ROS and modulate aging."
+        },
+        {
+          "theory_id": "T012849",
+          "subcluster_name": "ROS-Induced Cellular Senescence Free Radical Theory",
+          "reasoning": "Focuses on ROS causing cellular senescence via signaling pathways (p53/p21, p16INK4a/Rb), especially in stem cells, linking oxidative stress to organismal aging."
+        },
+        {
+          "theory_id": "T012712",
+          "subcluster_name": "Oxidative DNA Damage and Repair Free Radical Theory",
+          "reasoning": "Emphasizes oxidative DNA damage accumulation and decline in base excision repair capacity in neurons as key aging mechanisms."
+        },
+        {
+          "theory_id": "T012335",
+          "subcluster_name": "Free Radical-Glycation Synergistic Aging Theory",
+          "reasoning": "Describes synergistic damage from free radicals and Maillard reaction glycation products (AGEs), amplifying oxidative and glycation damage in aging."
+        },
+        {
+          "theory_id": "T012820",
+          "subcluster_name": "Amyloidosis-Linked Free Radical Theory",
+          "reasoning": "Focuses on oxidative degradation of connective tissue glycoproteins leading to amyloid fibril formation and aging-related pathology, inhibited by antioxidants."
+        },
+        {
+          "theory_id": "T012942",
+          "subcluster_name": "Lipid Peroxidation-Centric Free Radical Theory",
+          "reasoning": "Emphasizes free radical-induced lipid peroxidation as fundamental cause of systemic aging and antioxidant mitigation by vitamin E."
+        },
+        {
+          "theory_id": "T012645",
+          "subcluster_name": "Lipid Peroxidation-Centric Free Radical Theory",
+          "reasoning": "Focuses on lipid peroxidation products causing membrane damage and cellular dysfunction contributing to aging."
+        },
+        {
+          "theory_id": "T012904",
+          "subcluster_name": "Lipid Peroxidation-Centric Free Radical Theory",
+          "reasoning": "Highlights lipid peroxidation and lipofuscin accumulation as markers of oxidative damage and aging, modulated by dietary restriction."
+        },
+        {
+          "theory_id": "T012756",
+          "subcluster_name": "Lipid Peroxidation-Centric Free Radical Theory",
+          "reasoning": "Describes lipid peroxidation and antioxidant enzymes as key factors in oxidative damage accumulation and lipofuscin pigment buildup in aging."
+        },
+        {
+          "theory_id": "T012721",
+          "subcluster_name": "Lipid Peroxidation-Centric Free Radical Theory",
+          "reasoning": "Focuses on ROS-induced damage to lipids and membranes in hair aging, with antioxidant defenses declining with age."
+        },
+        {
+          "theory_id": "T012800",
+          "subcluster_name": "Lipid Peroxidation-Centric Free Radical Theory",
+          "reasoning": "Emphasizes lipid peroxidation-derived aldehydes causing tissue damage and fibrosis in aging, modulated by dietary fat and oxidative stress."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:12:32"
+}

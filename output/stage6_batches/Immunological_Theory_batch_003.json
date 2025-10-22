@@ -1,0 +1,220 @@
+{
+  "cluster_name": "Immunological Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+        "theory_ids": [
+          "T008064",
+          "T009149",
+          "T007597",
+          "T014103",
+          "T008466",
+          "T009464",
+          "T008907",
+          "T013127",
+          "T007450",
+          "T007796",
+          "T006815",
+          "T012361"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Immune Dysfunction and Immune Surveillance Decline Theory",
+        "theory_ids": [
+          "T014420",
+          "T014454",
+          "T006140",
+          "T006928",
+          "T006980",
+          "T004241",
+          "T006220",
+          "T004277"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+        "theory_ids": [
+          "T004408",
+          "T004835",
+          "T003790",
+          "T002766",
+          "T007144",
+          "T007521",
+          "T013197",
+          "T012715",
+          "T005740",
+          "T006470"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T008064",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Focuses on biphasic thymic involution phases and their impact on T cell output and immunosenescence."
+        },
+        {
+          "theory_id": "T009149",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Centers on progressive thymic atrophy reducing naive T cell output and peripheral T cell senescence."
+        },
+        {
+          "theory_id": "T007597",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Describes thymic involution causing naive T cell decline and accumulation of aged memory T cells."
+        },
+        {
+          "theory_id": "T014103",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Proposes thymus-pineal axis regulating thymic function and immune aging, linking neuroendocrine control."
+        },
+        {
+          "theory_id": "T008466",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Details thymic involution, altered T cell subsets, and chronic antigenic stress driving immunosenescence."
+        },
+        {
+          "theory_id": "T009464",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Focuses on age-related T cell subset changes predicting immune senescence and systemic aging."
+        },
+        {
+          "theory_id": "T008907",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Explores replicative exhaustion of T cells due to antigenic stimulation and thymic output decline."
+        },
+        {
+          "theory_id": "T013127",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Emphasizes T cell replicative senescence and immune risk phenotype as drivers of aging."
+        },
+        {
+          "theory_id": "T007450",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Describes immunosenescence with T and B cell aging, naive cell loss, and memory cell accumulation."
+        },
+        {
+          "theory_id": "T007796",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Focuses on chronic antigenic stress causing naive lymphocyte loss and B cell immunosenescence."
+        },
+        {
+          "theory_id": "T006815",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Details adaptive and innate immune changes with aging, including CMV-driven T cell alterations."
+        },
+        {
+          "theory_id": "T012361",
+          "subcluster_name": "Thymic Involution and T Cell Aging Immunological Theory",
+          "reasoning": "Classic immunologic theory highlighting immunosenescence, replicative senescence, and immune risk profiles."
+        },
+        {
+          "theory_id": "T014420",
+          "subcluster_name": "Immune Dysfunction and Immune Surveillance Decline Theory",
+          "reasoning": "Proposes immune dysfunction and T cell helper/suppressor imbalance as causal in aging and lifespan."
+        },
+        {
+          "theory_id": "T014454",
+          "subcluster_name": "Immune Dysfunction and Immune Surveillance Decline Theory",
+          "reasoning": "Focuses on faulty immune surveillance, MHC gene roles, and autoimmune-like phenomena in aging."
+        },
+        {
+          "theory_id": "T006140",
+          "subcluster_name": "Immune Dysfunction and Immune Surveillance Decline Theory",
+          "reasoning": "Describes immune remodeling, age-associated B cells, mitochondrial dysfunction, and autoimmunity."
+        },
+        {
+          "theory_id": "T006928",
+          "subcluster_name": "Immune Dysfunction and Immune Surveillance Decline Theory",
+          "reasoning": "Links hematopoietic stem/progenitor cell aging, DNA damage, and immune dysfunction in rheumatoid arthritis."
+        },
+        {
+          "theory_id": "T006980",
+          "subcluster_name": "Immune Dysfunction and Immune Surveillance Decline Theory",
+          "reasoning": "Details immunosenescence-driven loss of tolerance and vascular inflammation in age-related vasculitis."
+        },
+        {
+          "theory_id": "T004241",
+          "subcluster_name": "Immune Dysfunction and Immune Surveillance Decline Theory",
+          "reasoning": "Connects immune decline and impaired tumor surveillance to increased cancer incidence with aging."
+        },
+        {
+          "theory_id": "T006220",
+          "subcluster_name": "Immune Dysfunction and Immune Surveillance Decline Theory",
+          "reasoning": "Describes molecular hallmarks of immunosenescence and tumor microenvironment remodeling in cancer."
+        },
+        {
+          "theory_id": "T004277",
+          "subcluster_name": "Immune Dysfunction and Immune Surveillance Decline Theory",
+          "reasoning": "Proposes thymic involution as programmed aging clock and immune-mediated cell selection driving aging."
+        },
+        {
+          "theory_id": "T004408",
+          "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+          "reasoning": "Focuses on age-related impairment of macrophage TLR signaling causing ineffective pathogen clearance and inflammaging."
+        },
+        {
+          "theory_id": "T004835",
+          "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+          "reasoning": "Shows environmental adversity induces immune gene expression changes mimicking aging and chronic inflammation."
+        },
+        {
+          "theory_id": "T003790",
+          "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+          "reasoning": "Exercise-induced removal of senescent T cells and thymopoiesis rejuvenates immune system and delays immunosenescence."
+        },
+        {
+          "theory_id": "T002766",
+          "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+          "reasoning": "Inflammation as an evo-devo remodeling tool linking environment, genetic adaptation, and chronic inflammatory diseases."
+        },
+        {
+          "theory_id": "T007144",
+          "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+          "reasoning": "Inflammatory/pathogen burden accumulates with age, driving immunosenescence and systemic aging including cardiac aging."
+        },
+        {
+          "theory_id": "T007521",
+          "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+          "reasoning": "Chronic low-grade inflammation and NF-\u03baB signaling interplay with oxidative stress to drive aging processes."
+        },
+        {
+          "theory_id": "T013197",
+          "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+          "reasoning": "Chronic proinflammatory state with cytokines like TNF-\u03b1 and IL-6 causes muscle atrophy and functional decline."
+        },
+        {
+          "theory_id": "T012715",
+          "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+          "reasoning": "NF-\u03baB pathway activation and SASP drive chronic inflammation and entropic aging via molecular damage accumulation."
+        },
+        {
+          "theory_id": "T005740",
+          "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+          "reasoning": "IL-6\u2019s pleiotropic role in chronic inflammation modulates mitochondrial energetics and aging outcomes."
+        },
+        {
+          "theory_id": "T006470",
+          "subcluster_name": "Innate Immune Dysfunction and Toll-like Receptor Aging Theory",
+          "reasoning": "Inflammation-induced epigenetic erosion in stem cells triggers ferroptosis, linking inflammation to stem cell aging."
+        },
+        {
+          "theory_id": "T006612",
+          "subcluster_name": "Inflammation-Driven Hematopoietic Stem Cell Exhaustion Theory",
+          "reasoning": "Inflammation causes irreversible hematopoietic stem cell exhaustion and functional decline accelerating aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:13:14"
+}

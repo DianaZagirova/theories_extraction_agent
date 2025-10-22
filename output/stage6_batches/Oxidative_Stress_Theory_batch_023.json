@@ -1,0 +1,229 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 23,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+        "theory_ids": [
+          "T027046",
+          "T027045",
+          "T027105",
+          "T027321",
+          "T026859",
+          "T027291",
+          "T027327",
+          "T027000",
+          "T027158",
+          "T027073"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Oxidative and Glycoxidative Damage Theory",
+        "theory_ids": [
+          "T025842",
+          "T025383",
+          "T026028",
+          "T027072"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS and Dysfunction Theory",
+        "theory_ids": [
+          "T026780",
+          "T027140",
+          "T027066",
+          "T026977",
+          "T026910",
+          "T026655",
+          "T026939"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "ROS Hormesis and Adaptive Stress Response Theory",
+        "theory_ids": [
+          "T026948",
+          "T026922",
+          "T026888",
+          "T025838"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Oxidation-Inflammation Interaction Theory",
+        "theory_ids": [
+          "T026723",
+          "T026994",
+          "T026848",
+          "T024686",
+          "T024704"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027046",
+          "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+          "reasoning": "Focuses on ROS causing cumulative molecular damage leading to aging, representing the core oxidative damage concept."
+        },
+        {
+          "theory_id": "T027045",
+          "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+          "reasoning": "Describes ROS as damaging agents accumulating molecular damage and decline in repair capacity, fitting classical oxidative damage."
+        },
+        {
+          "theory_id": "T027105",
+          "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+          "reasoning": "Emphasizes ROS-induced oxidative damage to biomolecules causing aging and age-related diseases, aligning with classical damage."
+        },
+        {
+          "theory_id": "T027321",
+          "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+          "reasoning": "Highlights ROS overproduction and antioxidant defense decline causing oxidative damage and aging, fitting classical damage theme."
+        },
+        {
+          "theory_id": "T026859",
+          "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+          "reasoning": "Focuses on free radical imbalance causing oxidative damage driving aging, consistent with classical oxidative damage theory."
+        },
+        {
+          "theory_id": "T027291",
+          "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+          "reasoning": "Describes ROS as mediators of aging via cumulative damage, with genetic and pathway involvement, fitting classical damage accumulation."
+        },
+        {
+          "theory_id": "T027327",
+          "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+          "reasoning": "Focuses on oxidative damage accumulation and antioxidant enzymes mitigating damage, consistent with classical oxidative damage theory."
+        },
+        {
+          "theory_id": "T027000",
+          "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+          "reasoning": "Emphasizes ROS accumulation causing damage and importance of MnSOD in mitigating oxidative stress, fitting classical damage theme."
+        },
+        {
+          "theory_id": "T027158",
+          "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+          "reasoning": "Focuses on ROS overproduction causing damage and antioxidant vitamin C mitigating oxidative stress, consistent with classical damage."
+        },
+        {
+          "theory_id": "T027073",
+          "subcluster_name": "Classical Oxidative Damage Accumulation Theory",
+          "reasoning": "Supports oxidative damage accumulation by ROS as a causal factor in aging, based on model organism evidence, fitting classical damage."
+        },
+        {
+          "theory_id": "T025842",
+          "subcluster_name": "Oxidative and Glycoxidative Damage Theory",
+          "reasoning": "Combines oxidative damage with glycoxidative damage mechanisms, focusing on metabolic damage accumulation in aging."
+        },
+        {
+          "theory_id": "T025383",
+          "subcluster_name": "Oxidative and Glycoxidative Damage Theory",
+          "reasoning": "Focuses on glycation-induced oxidative damage impairing antioxidant enzymes, linking glycoxidation to oxidative stress and aging."
+        },
+        {
+          "theory_id": "T026028",
+          "subcluster_name": "Oxidative and Glycoxidative Damage Theory",
+          "reasoning": "Describes oxidative distress causing protein oxidation and impaired degradation, emphasizing molecular damage accumulation."
+        },
+        {
+          "theory_id": "T027072",
+          "subcluster_name": "Oxidative and Glycoxidative Damage Theory",
+          "reasoning": "Details hydroxyl radical generation, lipid peroxidation, DNA rearrangements causing premature aging, fitting oxidative molecular damage."
+        },
+        {
+          "theory_id": "T026780",
+          "subcluster_name": "Mitochondrial ROS and Dysfunction Theory",
+          "reasoning": "Focuses on mitochondrial ROS production and dysfunction as primary drivers of oxidative damage and aging."
+        },
+        {
+          "theory_id": "T027140",
+          "subcluster_name": "Mitochondrial ROS and Dysfunction Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction leading to ROS accumulation and oxidative damage in skeletal muscle aging."
+        },
+        {
+          "theory_id": "T027066",
+          "subcluster_name": "Mitochondrial ROS and Dysfunction Theory",
+          "reasoning": "Links mitochondrial enzyme mutation causing oxygen hypersensitivity and oxidative damage to aging, highlighting mitochondrial role."
+        },
+        {
+          "theory_id": "T026977",
+          "subcluster_name": "Mitochondrial ROS and Dysfunction Theory",
+          "reasoning": "Describes ROS-AMPK signaling and mitochondrial quality control mechanisms improving mitochondrial function and longevity."
+        },
+        {
+          "theory_id": "T026910",
+          "subcluster_name": "Mitochondrial ROS and Dysfunction Theory",
+          "reasoning": "Focuses on mitohormesis via mitochondrial calcium regulation and ROS signaling activating stress responses for longevity."
+        },
+        {
+          "theory_id": "T026655",
+          "subcluster_name": "Mitochondrial ROS and Dysfunction Theory",
+          "reasoning": "Links RAAS-induced ROS production to oxidative stress and aging, with mitochondrial ROS as key mediators."
+        },
+        {
+          "theory_id": "T026939",
+          "subcluster_name": "Mitochondrial ROS and Dysfunction Theory",
+          "reasoning": "Focuses on oxidative stress driving cardiovascular aging via ROS damage and metabolic dysfunction, implicating mitochondria."
+        },
+        {
+          "theory_id": "T026948",
+          "subcluster_name": "ROS Hormesis and Adaptive Stress Response Theory",
+          "reasoning": "Describes ROS hormesis where low ROS levels activate protective pathways enhancing longevity."
+        },
+        {
+          "theory_id": "T026922",
+          "subcluster_name": "ROS Hormesis and Adaptive Stress Response Theory",
+          "reasoning": "Focuses on hormesis via ROS signaling activating SKN-1 and DAF-16 pathways to extend lifespan."
+        },
+        {
+          "theory_id": "T026888",
+          "subcluster_name": "ROS Hormesis and Adaptive Stress Response Theory",
+          "reasoning": "Describes antioxidant defenses and stress response pathways modulated by ROS to influence lifespan."
+        },
+        {
+          "theory_id": "T025838",
+          "subcluster_name": "ROS Hormesis and Adaptive Stress Response Theory",
+          "reasoning": "Focuses on ROS metabolism in motorneurons affecting lifespan via signaling and damage, fitting ROS signaling and hormesis."
+        },
+        {
+          "theory_id": "T026723",
+          "subcluster_name": "Oxidation-Inflammation Interaction Theory",
+          "reasoning": "Emphasizes interplay between oxidative stress and inflammation driving aging, with sex differences and immune involvement."
+        },
+        {
+          "theory_id": "T026994",
+          "subcluster_name": "Oxidation-Inflammation Interaction Theory",
+          "reasoning": "Focuses on chronic oxidative and inflammatory stress (inflammaging) and immune system role in aging."
+        },
+        {
+          "theory_id": "T026848",
+          "subcluster_name": "Oxidation-Inflammation Interaction Theory",
+          "reasoning": "Describes linked oxidative and inflammatory stress impairing neuroimmune communication, driving aging."
+        },
+        {
+          "theory_id": "T024686",
+          "subcluster_name": "Oxidation-Inflammation Interaction Theory",
+          "reasoning": "Links oxidative stress to Alzheimer's disease pathology and general aging, highlighting oxidative-inflammation mechanisms."
+        },
+        {
+          "theory_id": "T024704",
+          "subcluster_name": "Oxidation-Inflammation Interaction Theory",
+          "reasoning": "Describes oxidative inhibition of autophagy via thiol oxidation, linking oxidative stress to impaired cellular clearance and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:43:57"
+}

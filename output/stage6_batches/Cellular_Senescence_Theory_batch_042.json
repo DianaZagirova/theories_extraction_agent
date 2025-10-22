@@ -1,0 +1,197 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 42,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T025873",
+          "T025764",
+          "T025781",
+          "T025797",
+          "T025733",
+          "T025740",
+          "T025928",
+          "T025783",
+          "T026078",
+          "T025955"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Genetic Regulation of Cellular Senescence Theory",
+        "theory_ids": [
+          "T025638",
+          "T025945",
+          "T025867"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Pharmacological and Therapeutic Modulation of Cellular Senescence Theory",
+        "theory_ids": [
+          "T026090",
+          "T026062",
+          "T025793",
+          "T025964"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Circadian and Hypoxia-Regulated Cellular Senescence Theory",
+        "theory_ids": [
+          "T026020",
+          "T026072"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "DNA Damage and Inflammation-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T026085",
+          "T026063",
+          "T025986",
+          "T025671"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025873",
+          "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative senescence via telomere shortening and stress-induced premature senescence pathways mediated by tumor suppressors like p53 and p16."
+        },
+        {
+          "theory_id": "T025764",
+          "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening as a molecular clock triggering replicative senescence and genetic control of senescence."
+        },
+        {
+          "theory_id": "T025781",
+          "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes both telomere-dependent and telomere-independent senescence pathways, highlighting replicative and stress-induced mechanisms."
+        },
+        {
+          "theory_id": "T025797",
+          "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Discusses replicative senescence driven by telomere shortening and broader senescence responses to DNA damage and oncogene activation."
+        },
+        {
+          "theory_id": "T025733",
+          "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Details replicative senescence via p53-p21-pRB and stress-induced senescence via p16-pRB pathways, combining both mechanisms."
+        },
+        {
+          "theory_id": "T025740",
+          "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative senescence as a mitotic clock driven by telomere shortening and its role in organismal aging."
+        },
+        {
+          "theory_id": "T025928",
+          "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Centers on replicative senescence in hematopoietic cells driven by telomere shortening and limited telomerase activity."
+        },
+        {
+          "theory_id": "T025783",
+          "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes replicative senescence as exhaustion of proliferative capacity regulated by molecular pathways, studied via viral oncogenes."
+        },
+        {
+          "theory_id": "T025638",
+          "subcluster_name": "Genetic Regulation of Cellular Senescence Theory",
+          "reasoning": "Focuses on genetic programming of senescence, dominance of senescence phenotype, and specific genes/chromosomes controlling senescence."
+        },
+        {
+          "theory_id": "T025945",
+          "subcluster_name": "Genetic Regulation of Cellular Senescence Theory",
+          "reasoning": "Emphasizes genetic and molecular basis of senescence, including cell cycle gene regulation and genetic control of cellular lifespan."
+        },
+        {
+          "theory_id": "T025867",
+          "subcluster_name": "Genetic Regulation of Cellular Senescence Theory",
+          "reasoning": "Highlights the INK4a/ARF locus as a genetic regulator linking senescence and aging via tumor suppressor pathways."
+        },
+        {
+          "theory_id": "T026090",
+          "subcluster_name": "Pharmacological and Therapeutic Modulation of Cellular Senescence Theory",
+          "reasoning": "Focuses on pharmacological interventions (senolytics, senomorphics) targeting senescent cells to mitigate aging effects."
+        },
+        {
+          "theory_id": "T026062",
+          "subcluster_name": "Pharmacological and Therapeutic Modulation of Cellular Senescence Theory",
+          "reasoning": "Describes senolytic therapy to eliminate senescent endothelial cells and rejuvenate tissue function."
+        },
+        {
+          "theory_id": "T025793",
+          "subcluster_name": "Pharmacological and Therapeutic Modulation of Cellular Senescence Theory",
+          "reasoning": "Discusses therapeutic targeting of senescent vascular cells to mitigate vascular aging and disease."
+        },
+        {
+          "theory_id": "T025964",
+          "subcluster_name": "Pharmacological and Therapeutic Modulation of Cellular Senescence Theory",
+          "reasoning": "Focuses on mTORC1 signaling inhibition as a targeted approach to suppress senescence and delay aging."
+        },
+        {
+          "theory_id": "T026027",
+          "subcluster_name": "Epigenetic Reprogramming and Cellular Senescence Reversal Theory",
+          "reasoning": "Describes epigenetic clock resetting and rejuvenation of senescent cells via iPSC reprogramming and mitochondrial restoration."
+        },
+        {
+          "theory_id": "T026020",
+          "subcluster_name": "Circadian and Hypoxia-Regulated Cellular Senescence Theory",
+          "reasoning": "Focuses on circadian rhythm proteins (BMAL1), hypoxia (HIF-1\u03b1), and their interaction regulating cellular senescence."
+        },
+        {
+          "theory_id": "T026072",
+          "subcluster_name": "Circadian and Hypoxia-Regulated Cellular Senescence Theory",
+          "reasoning": "Highlights sex-dependent differences in senescence signaling and cell cycle regulation affecting aging."
+        },
+        {
+          "theory_id": "T026058",
+          "subcluster_name": "Senescence in Cellular Plasticity and Regeneration Theory",
+          "reasoning": "Explores dual roles of senescence in aging and regeneration, influencing cellular plasticity and tissue remodeling."
+        },
+        {
+          "theory_id": "T026078",
+          "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes progressive senescence in chondrocytes involving telomere shortening and stress, with potential reversibility."
+        },
+        {
+          "theory_id": "T026085",
+          "subcluster_name": "DNA Damage and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on chronic inflammation causing DNA damage, DDR activation, and SASP driving senescence and aging."
+        },
+        {
+          "theory_id": "T026063",
+          "subcluster_name": "DNA Damage and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Describes ROS-induced DNA damage, impaired repair, and cGAS-STING-mediated inflammation triggering senescence."
+        },
+        {
+          "theory_id": "T025986",
+          "subcluster_name": "DNA Damage and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes SASP-mediated inflammation and dual beneficial/harmful roles of senescent cells in aging."
+        },
+        {
+          "theory_id": "T025671",
+          "subcluster_name": "DNA Damage and Inflammation-Driven Cellular Senescence Theory",
+          "reasoning": "Details multiple senescence triggers including DNA damage and oxidative stress, SASP, and tumor suppression roles."
+        },
+        {
+          "theory_id": "T025955",
+          "subcluster_name": "Replicative and Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on telomerase loss, telomere dynamics, and replicative senescence mechanisms studied in yeast model."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:30:08"
+}

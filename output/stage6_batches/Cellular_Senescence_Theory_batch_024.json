@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 24,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+        "theory_ids": [
+          "T018938",
+          "T018944",
+          "T019399",
+          "T019021",
+          "T019377",
+          "T019302",
+          "T019339",
+          "T019232",
+          "T019322",
+          "T019205",
+          "T018975",
+          "T018992",
+          "T019075",
+          "T019067",
+          "T019188",
+          "T019370",
+          "T019142",
+          "T019360"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 18
+      },
+      {
+        "subcluster_name": "Ink4/Arf and p53 Regulation Theory of Aging",
+        "theory_ids": [
+          "T019073",
+          "T019156",
+          "T019026"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Stress-Induced Premature Senescence via p38 MAPK Theory",
+        "theory_ids": [
+          "T018929",
+          "T019043",
+          "T019393"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Autophagy Decline and Cellular Senescence Theory",
+        "theory_ids": [
+          "T019033",
+          "T019090"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018938",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on tumor suppressor pathways p16INK4a and p53 regulating senescence growth arrest and SASP driving aging and age-related diseases."
+        },
+        {
+          "theory_id": "T018944",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Emphasizes p16INK4a as a marker and mediator of senescence causing tissue deterioration, linking injury and aging via common pathways."
+        },
+        {
+          "theory_id": "T019399",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Describes senescent cells accumulating in metabolic tissues with SASP causing insulin resistance and diabetes, regulated by p16INK4a/p53 pathways."
+        },
+        {
+          "theory_id": "T019021",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Details senescence induction by telomere attrition and stress with p53/p16 pathways enforcing arrest and SASP promoting inflammation and aging."
+        },
+        {
+          "theory_id": "T019377",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on senescent cell accumulation in lung aging with SASP-driven inflammation and impaired clearance, involving p53/p16 pathways."
+        },
+        {
+          "theory_id": "T019302",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Highlights senescence in multiple tissues including CNS with SASP causing neurodegeneration, regulated by p53/p16 tumor suppressor pathways."
+        },
+        {
+          "theory_id": "T019339",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Describes senescent cells in kidney causing fibrosis and dysfunction via SASP and prosurvival pathways, regulated by p53/p16 mechanisms."
+        },
+        {
+          "theory_id": "T019232",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Identifies senescence biomarkers linked to cell cycle arrest and SASP driving systemic aging, consistent with p16INK4a/p53-mediated senescence."
+        },
+        {
+          "theory_id": "T019322",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Integrates replicative and stress-induced senescence with telomere dysfunction activating p53/p16 pathways and SASP causing aging."
+        },
+        {
+          "theory_id": "T019205",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Shows senescent cells cause vascular aging via SASP and mitochondrial ROS, with p53/p16 pathways mediating senescence and inflammation."
+        },
+        {
+          "theory_id": "T018975",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on NF-\u03baB transcription factor regulating senescence and SASP downstream of p53/p16 pathways enforcing growth arrest."
+        },
+        {
+          "theory_id": "T018992",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Details SASP heterogeneity and its role in aging biomarkers, consistent with p53/p16-driven senescence secretory phenotype."
+        },
+        {
+          "theory_id": "T019075",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Compares oncogene-induced and replicative senescence, both regulated by p53 and pRB pathways enforcing arrest and SASP."
+        },
+        {
+          "theory_id": "T019067",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Describes senescent cell cycle arrest, SASP, apoptosis resistance, and tissue dysfunction consistent with p16INK4a/p53 senescence mechanisms."
+        },
+        {
+          "theory_id": "T019188",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Discusses systemic and local senolysis effects on senescent cells with SASP, consistent with p53/p16-mediated senescence and aging."
+        },
+        {
+          "theory_id": "T019370",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Links senescence, SASP, inflammation, and cancer via NF-\u03baB and p53/p16 pathways maintaining the proinflammatory secretory phenotype."
+        },
+        {
+          "theory_id": "T019142",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Shows senescent cells expressing p16Ink4a/p21Cip1 cause bone aging and osteoporosis via SASP, independent of estrogen deficiency."
+        },
+        {
+          "theory_id": "T019360",
+          "subcluster_name": "p16INK4a/p53-Mediated Cellular Senescence Theory",
+          "reasoning": "Describes adipose tissue senescence with SASP causing metabolic dysfunction and insulin resistance, regulated by p16INK4a/p53 pathways."
+        },
+        {
+          "theory_id": "T019073",
+          "subcluster_name": "Ink4/Arf and p53 Regulation Theory of Aging",
+          "reasoning": "Focuses specifically on Ink4/Arf locus and p53 activity regulating neural stem cell maintenance and delaying CNS aging."
+        },
+        {
+          "theory_id": "T019156",
+          "subcluster_name": "Ink4/Arf and p53 Regulation Theory of Aging",
+          "reasoning": "Describes mutant p53 mice with enhanced p53 activity showing early aging phenotypes, highlighting p53's role in organismal aging."
+        },
+        {
+          "theory_id": "T019026",
+          "subcluster_name": "Ink4/Arf and p53 Regulation Theory of Aging",
+          "reasoning": "Shows p53/CEP-1 regulates energy metabolism and mitochondrial function affecting lifespan, linking p53 to metabolic aging."
+        },
+        {
+          "theory_id": "T018929",
+          "subcluster_name": "Stress-Induced Premature Senescence via p38 MAPK Theory",
+          "reasoning": "Describes p38 MAP kinase activation by stress causing premature senescence independent of telomere shortening, with p53/p21 involvement."
+        },
+        {
+          "theory_id": "T019043",
+          "subcluster_name": "Stress-Induced Premature Senescence via p38 MAPK Theory",
+          "reasoning": "Details p38 MAPK activation driving premature senescence in Werner syndrome fibroblasts, reversible by p38 inhibition."
+        },
+        {
+          "theory_id": "T019393",
+          "subcluster_name": "Stress-Induced Premature Senescence via p38 MAPK Theory",
+          "reasoning": "Progeroid syndromes caused by DNA helicase defects and nuclear lamina abnormalities causing premature senescence linked to stress pathways including p38."
+        },
+        {
+          "theory_id": "T019033",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Theory",
+          "reasoning": "Focuses on age-related decline in autophagy causing accumulation of damaged components, contributing to cellular senescence and aging."
+        },
+        {
+          "theory_id": "T019090",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Theory",
+          "reasoning": "FOSL2 transcription factor drives inflammatory SASP gene expression in aging liver progenitor cells, linking inflammation and senescence."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:16:22"
+}

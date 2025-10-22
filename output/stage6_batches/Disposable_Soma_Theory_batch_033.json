@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 33,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Caloric Restriction and Energy Intake Disposable Soma Theory",
+        "theory_ids": [
+          "T022304",
+          "T022346",
+          "T022728",
+          "T022503",
+          "T022815",
+          "T022316",
+          "T022578"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Reproduction-Energy Trade-off Disposable Soma Theory",
+        "theory_ids": [
+          "T022634",
+          "T021689",
+          "T022393"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+        "theory_ids": [
+          "T022819",
+          "T022753",
+          "T022538",
+          "T022398",
+          "T022681",
+          "T022292",
+          "T022618",
+          "T022679",
+          "T022704",
+          "T022291",
+          "T022336",
+          "T022376",
+          "T022330",
+          "T022655",
+          "T022576",
+          "T022121"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022304",
+          "subcluster_name": "Caloric Restriction and Energy Intake Disposable Soma Theory",
+          "reasoning": "This theory focuses on lifespan extension by reducing energy intake and caloric restriction, emphasizing energy allocation and metabolic effects on aging."
+        },
+        {
+          "theory_id": "T022346",
+          "subcluster_name": "Caloric Restriction and Energy Intake Disposable Soma Theory",
+          "reasoning": "Describes caloric restriction effects on lifespan and oxidative damage reduction, fitting the energy intake and metabolic regulation theme."
+        },
+        {
+          "theory_id": "T022728",
+          "subcluster_name": "Caloric Restriction and Energy Intake Disposable Soma Theory",
+          "reasoning": "Focuses on caloric restriction extending lifespan and delaying age-related diseases, consistent with energy intake reduction mechanisms."
+        },
+        {
+          "theory_id": "T022503",
+          "subcluster_name": "Caloric Restriction and Energy Intake Disposable Soma Theory",
+          "reasoning": "Details molecular and systemic benefits of caloric restriction, including modulation of insulin/IGF signaling, fitting the CR and energy intake theme."
+        },
+        {
+          "theory_id": "T022815",
+          "subcluster_name": "Caloric Restriction and Energy Intake Disposable Soma Theory",
+          "reasoning": "Shows calorie restriction effects on kidney aging and metabolic pathways, aligning with caloric restriction and energy allocation mechanisms."
+        },
+        {
+          "theory_id": "T022316",
+          "subcluster_name": "Caloric Restriction and Energy Intake Disposable Soma Theory",
+          "reasoning": "Demonstrates caloric restriction's impact on lifespan and gene expression, consistent with energy intake and metabolic regulation."
+        },
+        {
+          "theory_id": "T022578",
+          "subcluster_name": "Caloric Restriction and Energy Intake Disposable Soma Theory",
+          "reasoning": "Summarizes energy restriction slowing aging and lifespan extension, fitting the caloric restriction and energy allocation subcluster."
+        },
+        {
+          "theory_id": "T022634",
+          "subcluster_name": "Reproduction-Energy Trade-off Disposable Soma Theory",
+          "reasoning": "Focuses on energy allocation trade-offs between reproduction and somatic maintenance, a core disposable soma mechanism emphasizing resource allocation."
+        },
+        {
+          "theory_id": "T021689",
+          "subcluster_name": "Reproduction-Energy Trade-off Disposable Soma Theory",
+          "reasoning": "Discusses trade-offs between reproduction and somatic maintenance shaping lifespan, fitting the energy allocation and reproduction trade-off theme."
+        },
+        {
+          "theory_id": "T022393",
+          "subcluster_name": "Reproduction-Energy Trade-off Disposable Soma Theory",
+          "reasoning": "Explores reproduction-longevity trade-offs mediated by germline signals and metabolic remodeling, consistent with energy allocation between reproduction and maintenance."
+        },
+        {
+          "theory_id": "T022819",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Focuses on miRNA Argonaute modulation of IIS pathway affecting lifespan, fitting the insulin/IGF-1 signaling and genetic regulation theme."
+        },
+        {
+          "theory_id": "T022753",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Describes IIS pathway as central aging regulator with miRNA modulation, fitting the insulin/IGF-1 signaling subcluster."
+        },
+        {
+          "theory_id": "T022538",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Shows insulin receptor mutation extending lifespan via hormonal regulation, consistent with IIS pathway and endocrine signaling."
+        },
+        {
+          "theory_id": "T022398",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Details DAF-16 tissue-specific activity downstream of IIS regulating lifespan, fitting the insulin/IGF-1 signaling and transcription factor regulation theme."
+        },
+        {
+          "theory_id": "T022681",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Describes IIS pathway and steroidal hormone nuclear receptor activation regulating lifespan, fitting IIS and hormonal regulation mechanisms."
+        },
+        {
+          "theory_id": "T022292",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Focuses on genetic regulation of aging via IIS and DAF-16 with neuroendocrine control, consistent with insulin/IGF-1 signaling subcluster."
+        },
+        {
+          "theory_id": "T022618",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Emphasizes IIS reduction extending lifespan and neuroprotection via DAF-16 and HSF-1, fitting IIS signaling and stress resistance theme."
+        },
+        {
+          "theory_id": "T022679",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Links IIS signaling to depletion of pluripotent stem cells affecting aging, consistent with IIS pathway and tissue maintenance mechanisms."
+        },
+        {
+          "theory_id": "T022704",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Shows IIS pathway involvement in lifespan extension with sex-specific effects, fitting insulin/IGF-1 signaling regulation of aging."
+        },
+        {
+          "theory_id": "T022291",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Demonstrates neuronal IIS regulation of lifespan via DAF-16, consistent with insulin/IGF-1 signaling and tissue-specific control."
+        },
+        {
+          "theory_id": "T022336",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Shows IGF-1 receptor reduction extends lifespan and oxidative stress resistance in mice, fitting IIS pathway and mammalian aging."
+        },
+        {
+          "theory_id": "T022376",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Describes genetic regulation of aging via IIS and dauer formation connection, consistent with insulin/IGF-1 signaling mechanisms."
+        },
+        {
+          "theory_id": "T022330",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Focuses on reduced IGF-1 receptor signaling effects on lifespan and stress resistance, fitting IIS pathway and mammalian aging."
+        },
+        {
+          "theory_id": "T022655",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Reviews nutrient sensing via IGF-1 and mTOR pathways regulating aging and age-related diseases, consistent with IIS and downstream signaling."
+        },
+        {
+          "theory_id": "T022576",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Describes Akt1 haploinsufficiency reducing IIS signaling and extending lifespan, fitting insulin/IGF-1 signaling and intracellular kinase regulation."
+        },
+        {
+          "theory_id": "T022121",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Disposable Soma Theory",
+          "reasoning": "Focuses on IGF1-Akt-mTOR-FoxO pathway regulating muscle aging, fitting IIS pathway and downstream signaling mechanisms."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:13:13"
+}

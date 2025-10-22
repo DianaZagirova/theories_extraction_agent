@@ -1,0 +1,233 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 31,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+        "theory_ids": [
+          "T021638",
+          "T021768",
+          "T021731",
+          "T021611",
+          "T021569",
+          "T021566",
+          "T021369"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "p21/p16 and Tumor Suppressor-Mediated Cellular Senescence Theory",
+        "theory_ids": [
+          "T021653",
+          "T021844",
+          "T021643",
+          "T021478",
+          "T021608",
+          "T021770",
+          "T021715",
+          "T021667"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+        "theory_ids": [
+          "T021598",
+          "T021855",
+          "T021471",
+          "T021819",
+          "T021709",
+          "T021824",
+          "T021640",
+          "T021700",
+          "T021592",
+          "T021894",
+          "T021703",
+          "T021816",
+          "T021845"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Autophagy Decline and Modulation Theory of Aging",
+        "theory_ids": [
+          "T021438",
+          "T021615",
+          "T021637"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T021638",
+          "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on finite replicative lifespan of cells, telomere shortening as a counting mechanism, and replicative senescence as a cellular aging model."
+        },
+        {
+          "theory_id": "T021768",
+          "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Discusses replicative senescence, genetic regulation of senescence, and immortalization escape, emphasizing telomere and gene-based control of senescence."
+        },
+        {
+          "theory_id": "T021731",
+          "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Describes epigenetic and telomere shortening as cellular clocks driving senescence and aging."
+        },
+        {
+          "theory_id": "T021611",
+          "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on DNA damage, telomere erosion, and chromatin changes inducing permanent replicative arrest and senescence."
+        },
+        {
+          "theory_id": "T021569",
+          "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Emphasizes DNA damage accumulation and DNA damage response pathways as triggers of senescence and aging."
+        },
+        {
+          "theory_id": "T021566",
+          "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Describes stress-induced premature senescence (SIPS) distinct from replicative senescence but mechanistically related via DNA damage and lysosomal dysfunction."
+        },
+        {
+          "theory_id": "T021369",
+          "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Links mitochondrial dysfunction and DNA damage response to cellular senescence and musculoskeletal aging."
+        },
+        {
+          "theory_id": "T021653",
+          "subcluster_name": "p21/p16 and Tumor Suppressor-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on p21 as a causal driver of senescence, cell cycle arrest, and SASP in muscle aging."
+        },
+        {
+          "theory_id": "T021844",
+          "subcluster_name": "p21/p16 and Tumor Suppressor-Mediated Cellular Senescence Theory",
+          "reasoning": "Describes p53-mediated senescence and stem cell depletion as mechanisms driving aging."
+        },
+        {
+          "theory_id": "T021643",
+          "subcluster_name": "p21/p16 and Tumor Suppressor-Mediated Cellular Senescence Theory",
+          "reasoning": "Links nuclear envelope defects to p53 hyperactivation causing senescence and accelerated aging."
+        },
+        {
+          "theory_id": "T021478",
+          "subcluster_name": "p21/p16 and Tumor Suppressor-Mediated Cellular Senescence Theory",
+          "reasoning": "Discusses p53 tumor suppressor role in senescence and aging, balancing tumor suppression and aging phenotypes."
+        },
+        {
+          "theory_id": "T021608",
+          "subcluster_name": "p21/p16 and Tumor Suppressor-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on p16INK4A-driven senescence in pancreatic \u03b2-cells affecting function and aging."
+        },
+        {
+          "theory_id": "T021770",
+          "subcluster_name": "p21/p16 and Tumor Suppressor-Mediated Cellular Senescence Theory",
+          "reasoning": "Describes p16Ink4a-positive senescent cells accumulating with age and shortening healthy lifespan."
+        },
+        {
+          "theory_id": "T021715",
+          "subcluster_name": "p21/p16 and Tumor Suppressor-Mediated Cellular Senescence Theory",
+          "reasoning": "Highlights role of p19ARF and p16INK4a tumor suppressors in senescence and aging-related pulmonary decline."
+        },
+        {
+          "theory_id": "T021667",
+          "subcluster_name": "p21/p16 and Tumor Suppressor-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on p53/p21 and p16Ink4a/pRB pathways mediating senescence in bone aging and osteoporosis."
+        },
+        {
+          "theory_id": "T021598",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Emphasizes SASP secretion and NF-\u03baB (RELA) activation driving chemoresistance and senescence-associated inflammation."
+        },
+        {
+          "theory_id": "T021855",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Describes chromatin architecture remodeling and enhancer dynamics regulating SASP expression in senescent cells."
+        },
+        {
+          "theory_id": "T021471",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Focuses on histone variant H2A.J accumulation promoting inflammatory SASP gene expression in senescent cells."
+        },
+        {
+          "theory_id": "T021819",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Discusses SASP's dual role in aging and disease, emphasizing inflammatory secretome effects on tissue microenvironment."
+        },
+        {
+          "theory_id": "T021709",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Highlights SASP secretion by senescent cells driving chronic inflammation and age-related diseases."
+        },
+        {
+          "theory_id": "T021824",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Describes SASP and senescent cell accumulation as drivers of aging and age-related pathologies."
+        },
+        {
+          "theory_id": "T021640",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Explores dual roles of senescence and SASP in tissue repair and aging-related chronic inflammation."
+        },
+        {
+          "theory_id": "T021700",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Focuses on senescence, SASP, and therapeutic interventions (senolytics/senomorphics) to extend healthspan."
+        },
+        {
+          "theory_id": "T021592",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Describes selective clearance of senescent cells marked by SA-\u03b2-gal reducing SASP-driven inflammation and aging."
+        },
+        {
+          "theory_id": "T021894",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Focuses on vascular smooth muscle cell senescence, SASP, and therapeutic targeting to ameliorate vascular aging."
+        },
+        {
+          "theory_id": "T021703",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Describes cell autonomous and non-autonomous effects of SASP in skin aging and tissue microenvironment."
+        },
+        {
+          "theory_id": "T021816",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "Links metabolic regulation of senescence and SASP to aging and chronic inflammation."
+        },
+        {
+          "theory_id": "T021845",
+          "subcluster_name": "SASP and NF-\u03baB-Mediated Senescence and Aging Theory",
+          "reasoning": "General overview of senescent cell accumulation, SASP, and therapeutic targeting to delay systemic aging."
+        },
+        {
+          "theory_id": "T021576",
+          "subcluster_name": "Endothelial Cell Senescence and Vascular Dysfunction Theory",
+          "reasoning": "Focuses on endothelial cell senescence, SASP, and cerebrovascular dysfunction contributing to brain aging and disease."
+        },
+        {
+          "theory_id": "T021438",
+          "subcluster_name": "Autophagy Decline and Modulation Theory of Aging",
+          "reasoning": "Describes decline of macroautophagy with age and its stimulation by caloric restriction to delay aging."
+        },
+        {
+          "theory_id": "T021615",
+          "subcluster_name": "Autophagy Decline and Modulation Theory of Aging",
+          "reasoning": "Focuses on age-dependent autophagy suppression in neurons leading to accumulation of damaged proteins and aging."
+        },
+        {
+          "theory_id": "T021637",
+          "subcluster_name": "Autophagy Decline and Modulation Theory of Aging",
+          "reasoning": "Shows genetic enhancement of autophagy improves aging phenotypes and extends lifespan in mice."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:19:28"
+}

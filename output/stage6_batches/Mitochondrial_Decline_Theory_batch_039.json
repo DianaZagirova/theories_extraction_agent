@@ -1,0 +1,185 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 39,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+        "theory_ids": [
+          "T026376",
+          "T026874",
+          "T026898",
+          "T026425",
+          "T026455",
+          "T026276",
+          "T026383",
+          "T027039",
+          "T026926",
+          "T026757"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS and Cellular Senescence Theory",
+        "theory_ids": [
+          "T027032",
+          "T026432",
+          "T026707",
+          "T026414",
+          "T026340",
+          "T027014",
+          "T027002"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Systemic Aging Theory",
+        "theory_ids": [
+          "T026642",
+          "T026688",
+          "T027035",
+          "T026514",
+          "T027058",
+          "T026786",
+          "T026941",
+          "T026873"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026376",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "reasoning": "Focuses on mitophagy as a key mitochondrial quality control mechanism promoting longevity and preventing accumulation of dysfunctional mitochondria."
+        },
+        {
+          "theory_id": "T026874",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "reasoning": "Emphasizes mitophagy and mitochondrial quality control as critical for maintaining mitochondrial function and delaying aging."
+        },
+        {
+          "theory_id": "T026898",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "reasoning": "Centers on mitochondrial quality control mechanisms including mitophagy and UPRmt in maintaining mitochondrial homeostasis and delaying aging."
+        },
+        {
+          "theory_id": "T026425",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "reasoning": "Describes defective mitochondrial quality control (mitophagy, dynamics, biogenesis) as a driver of aging, especially in skeletal muscle."
+        },
+        {
+          "theory_id": "T026455",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "reasoning": "Highlights mitochondrial quality control and mitophagy regulated by AMPK/mTORC1 signaling as key to preserving mitochondrial function and delaying aging."
+        },
+        {
+          "theory_id": "T026276",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction driving cellular senescence via inter-organelle communication and mitophagy pathways."
+        },
+        {
+          "theory_id": "T026383",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "reasoning": "Links mitochondrial stress signaling to chromatin remodeling and longevity, involving UPRmt and adaptive mitochondrial quality control."
+        },
+        {
+          "theory_id": "T027039",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "reasoning": "Describes UPRmt as a mitochondrial quality control stress response that promotes longevity and systemic adaptation to mitochondrial stress."
+        },
+        {
+          "theory_id": "T026926",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "reasoning": "Focuses on mitochondrial unfolded protein response (UPRmt) as a protective quality control mechanism maintaining mitochondrial integrity and promoting longevity."
+        },
+        {
+          "theory_id": "T026757",
+          "subcluster_name": "Mitochondrial Quality Control and Mitophagy Theory",
+          "reasoning": "Studies mitochondrial gene expression changes affecting mitochondrial function and quality control, influencing aging mechanisms."
+        },
+        {
+          "theory_id": "T027032",
+          "subcluster_name": "Mitochondrial ROS and Cellular Senescence Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction and excessive ROS generation as drivers of cellular senescence and aging."
+        },
+        {
+          "theory_id": "T026432",
+          "subcluster_name": "Mitochondrial ROS and Cellular Senescence Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing oxidative damage and programmed aging processes via cardiolipin peroxidation."
+        },
+        {
+          "theory_id": "T026707",
+          "subcluster_name": "Mitochondrial ROS and Cellular Senescence Theory",
+          "reasoning": "Mitochondrial free radical theory highlighting ROS-induced mtDNA mutations and oxidative damage as aging drivers."
+        },
+        {
+          "theory_id": "T026414",
+          "subcluster_name": "Mitochondrial ROS and Cellular Senescence Theory",
+          "reasoning": "Describes mitochondria as ROS sources and stress sensors linking oxidative damage to accelerated aging."
+        },
+        {
+          "theory_id": "T026340",
+          "subcluster_name": "Mitochondrial ROS and Cellular Senescence Theory",
+          "reasoning": "Focuses on mitochondrial oxidative damage accumulation impairing function and contributing to aging and male reproductive decline."
+        },
+        {
+          "theory_id": "T027014",
+          "subcluster_name": "Mitochondrial ROS and Cellular Senescence Theory",
+          "reasoning": "Links mitochondrial dysfunction and oxidative stress to ovarian aging and systemic age-related diseases."
+        },
+        {
+          "theory_id": "T027002",
+          "subcluster_name": "Mitochondrial ROS and Cellular Senescence Theory",
+          "reasoning": "Connects mitochondrial dysfunction and ROS to vascular aging, highlighting estrogen\u2019s protective role in mitochondrial function."
+        },
+        {
+          "theory_id": "T026642",
+          "subcluster_name": "Mitochondrial Dysfunction and Systemic Aging Theory",
+          "reasoning": "Broad mitochondrial dysfunction theory linking impaired energy metabolism and oxidative stress to multiple aging hallmarks and diseases."
+        },
+        {
+          "theory_id": "T026688",
+          "subcluster_name": "Mitochondrial Dysfunction and Systemic Aging Theory",
+          "reasoning": "Describes mitochondrial dysfunction as a causal factor in aging and degenerative diseases, emphasizing mitochondrial biogenesis and restoration."
+        },
+        {
+          "theory_id": "T027035",
+          "subcluster_name": "Mitochondrial Dysfunction and Systemic Aging Theory",
+          "reasoning": "Focuses on mitochondrial dynamics, damage susceptibility, and mitochondria-nuclear DNA interactions as central to aging."
+        },
+        {
+          "theory_id": "T026514",
+          "subcluster_name": "Mitochondrial Dysfunction and Systemic Aging Theory",
+          "reasoning": "Classic mitochondrial theory emphasizing mtDNA damage and mitochondrial dysfunction driving aging via energy decline and ROS."
+        },
+        {
+          "theory_id": "T027058",
+          "subcluster_name": "Mitochondrial Dysfunction and Systemic Aging Theory",
+          "reasoning": "Focuses on accumulation of mtDNA mutations causing mitochondrial dysfunction and systemic aging effects including stem cell decline."
+        },
+        {
+          "theory_id": "T026786",
+          "subcluster_name": "Mitochondrial Dysfunction and Systemic Aging Theory",
+          "reasoning": "Highlights mtDNA mutations causing premature aging phenotypes and the potential modulatory role of exercise."
+        },
+        {
+          "theory_id": "T026941",
+          "subcluster_name": "Mitochondrial Dysfunction and Systemic Aging Theory",
+          "reasoning": "Describes mitochondrial vulnerability, asymmetric distribution, and mtDNA loss in yeast replicative aging as a model of systemic mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T026873",
+          "subcluster_name": "Mitochondrial Dysfunction and Systemic Aging Theory",
+          "reasoning": "Links mitochondrial function with nutrient sensing pathways and metabolic regulation, emphasizing calorie restriction\u2019s role in longevity."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:54:37"
+}

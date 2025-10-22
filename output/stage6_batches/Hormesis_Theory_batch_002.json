@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Hormesis Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Epigenetic Hormesis Theory",
+        "theory_ids": [
+          "T016115",
+          "T016114",
+          "T011560",
+          "T014398",
+          "T016290",
+          "T016225",
+          "T015996",
+          "T013165"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+        "theory_ids": [
+          "T013625",
+          "T014484",
+          "T012506",
+          "T016216",
+          "T015362",
+          "T011385",
+          "T012086",
+          "T016016",
+          "T015912",
+          "T014976"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+        "theory_ids": [
+          "T014776",
+          "T016457",
+          "T016510",
+          "T015109",
+          "T014884"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Nrf2-Activation and Para-Hormesis Theory",
+        "theory_ids": [
+          "T013207",
+          "T013975"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016115",
+          "subcluster_name": "Mitochondrial ROS-Epigenetic Hormesis Theory",
+          "reasoning": "Focuses on mitochondrial ROS signaling triggering epigenetic silencing and subtelomeric chromatin remodeling to extend lifespan."
+        },
+        {
+          "theory_id": "T016114",
+          "subcluster_name": "Mitochondrial ROS-Epigenetic Hormesis Theory",
+          "reasoning": "Describes hormesis via mitochondrial ROS signaling that modulates histone demethylase and epigenetic regulation of longevity."
+        },
+        {
+          "theory_id": "T011560",
+          "subcluster_name": "Mitochondrial ROS-Epigenetic Hormesis Theory",
+          "reasoning": "Centers on mitochondrial toxins and healthy lifestyle inducing mitochondrial ROS hormesis and adaptive mitochondrial stress responses."
+        },
+        {
+          "theory_id": "T014398",
+          "subcluster_name": "Mitochondrial ROS-Epigenetic Hormesis Theory",
+          "reasoning": "Explains lifespan extension via metabolic shifts causing transient ROS bursts and adaptive mitochondrial stress responses."
+        },
+        {
+          "theory_id": "T016290",
+          "subcluster_name": "Mitochondrial ROS-Epigenetic Hormesis Theory",
+          "reasoning": "Plant extract-induced hormesis modulates mitochondrial respiration, ROS homeostasis, and stress resistance to delay aging."
+        },
+        {
+          "theory_id": "T016225",
+          "subcluster_name": "Mitochondrial ROS-Epigenetic Hormesis Theory",
+          "reasoning": "Low-dose ionic liquids induce ROS signaling and antioxidant gene upregulation, involving mitochondrial ROS hormesis mechanisms."
+        },
+        {
+          "theory_id": "T015996",
+          "subcluster_name": "Mitochondrial ROS-Epigenetic Hormesis Theory",
+          "reasoning": "Caffeine-induced ROS signaling activates stress-responsive transcription factors, linking mitochondrial ROS hormesis to longevity."
+        },
+        {
+          "theory_id": "T013165",
+          "subcluster_name": "Mitochondrial ROS-Epigenetic Hormesis Theory",
+          "reasoning": "Anoxia conditioning induces mitochondrial antioxidant defenses and cross-tolerance via hormetic ROS signaling."
+        },
+        {
+          "theory_id": "T013625",
+          "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+          "reasoning": "Describes hormesis as a biphasic dose response with adaptive cellular defense elevation and cross tolerance, including mitochondrial ROS signaling but broader stress responses."
+        },
+        {
+          "theory_id": "T014484",
+          "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+          "reasoning": "Presents hormesis as a general adaptive response with biphasic dose-response and stress resistance mechanisms like heat shock proteins."
+        },
+        {
+          "theory_id": "T012506",
+          "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+          "reasoning": "Broad hormesis theory emphasizing biphasic dose-effect, adaptive stress response, developmental timing, and evolutionary trade-offs."
+        },
+        {
+          "theory_id": "T016216",
+          "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+          "reasoning": "Shows hormesis induced by multiple stressors in C. elegans with cross-tolerance and adaptive physiological changes."
+        },
+        {
+          "theory_id": "T015362",
+          "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+          "reasoning": "Focuses on hormesis activating vitagenes and cytoprotective pathways as part of a general adaptive stress response."
+        },
+        {
+          "theory_id": "T011385",
+          "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+          "reasoning": "Describes hormesis activating endogenous cellular defense pathways including heat shock proteins and vitagenes."
+        },
+        {
+          "theory_id": "T014776",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Emphasizes hormesis via mild heat stress inducing heat shock proteins and proteostasis maintenance."
+        },
+        {
+          "theory_id": "T016457",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Meta-analysis of heat shock-induced hormesis focusing on HSP induction and narrow hormetic windows for lifespan extension."
+        },
+        {
+          "theory_id": "T016510",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Describes hormetic redox signaling activating the vitagene network including heat shock proteins to regulate aging and bone remodeling."
+        },
+        {
+          "theory_id": "T015109",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Includes hormesis activating maintenance pathways such as heat shock proteins and sirtuins, with xenohormesis concepts."
+        },
+        {
+          "theory_id": "T014884",
+          "subcluster_name": "Heat Shock Protein-Mediated Hormesis Theory",
+          "reasoning": "Mediterranean diet hormesis activates Nrf2, heat shock proteins, sirtuins, and autophagy to reduce inflammaging."
+        },
+        {
+          "theory_id": "T013207",
+          "subcluster_name": "Nrf2-Activation and Para-Hormesis Theory",
+          "reasoning": "Focuses on 4-HNE-induced Nrf2 activation as a hormetic response enhancing antioxidant defenses and lifespan."
+        },
+        {
+          "theory_id": "T013975",
+          "subcluster_name": "Nrf2-Activation and Para-Hormesis Theory",
+          "reasoning": "Describes para-hormesis by nutritional antioxidants activating Nrf2-Keap1 pathway to maintain nucleophilic tone and antioxidant defenses."
+        },
+        {
+          "theory_id": "T012086",
+          "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+          "reasoning": "Meta-analytic evidence for hormesis activating DAF-16/FoxO and stress resistance pathways broadly in C. elegans."
+        },
+        {
+          "theory_id": "T016016",
+          "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+          "reasoning": "Phosphatidylserine induces ROS signaling and DAF-16-dependent adaptive stress responses extending lifespan, fitting general adaptive hormesis."
+        },
+        {
+          "theory_id": "T015912",
+          "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+          "reasoning": "Dietary restriction as hormetic metabolic stress inducing heat shock proteins and stress resistance, promoting longevity."
+        },
+        {
+          "theory_id": "T014976",
+          "subcluster_name": "General Adaptive Stress Response Hormesis Theory",
+          "reasoning": "Describes hormesis as nonlinear stimulation improving biological complexity and repair, broadly applicable to aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:44:01"
+}

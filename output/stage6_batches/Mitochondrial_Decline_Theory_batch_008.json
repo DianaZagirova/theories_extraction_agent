@@ -1,0 +1,193 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+        "theory_ids": [
+          "T008861",
+          "T008798",
+          "T008174",
+          "T008215",
+          "T008361",
+          "T008324",
+          "T008405",
+          "T008169",
+          "T008407",
+          "T008418",
+          "T008205",
+          "T008425",
+          "T008626",
+          "T008379",
+          "T008736",
+          "T008752"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Mitochondrial Uncoupling and ROS Regulation Theory",
+        "theory_ids": [
+          "T008191",
+          "T008574",
+          "T008194"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+        "theory_ids": [
+          "T008889",
+          "T008612",
+          "T008382",
+          "T008410"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T008861",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Focuses on ROS causing mtDNA mutations leading to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T008798",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Describes accumulation of mtDNA mutations driven by ROS and a vicious cycle of oxidative damage."
+        },
+        {
+          "theory_id": "T008174",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Emphasizes mtDNA mutation accumulation and clonal expansion linked to ROS damage."
+        },
+        {
+          "theory_id": "T008215",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Focuses on somatic mtDNA mutations contributing to aging, with some discussion of ROS involvement."
+        },
+        {
+          "theory_id": "T008361",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Describes mtDNA mutations and oxidative stress as drivers of mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T008324",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Details mitochondrial electron transport errors producing ROS that damage mtDNA, causing a vicious cycle."
+        },
+        {
+          "theory_id": "T008405",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Focuses on accumulation and clonal expansion of mtDNA deletions causing mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T008169",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Highlights clonal expansion of mtDNA mutations as necessary for physiological impact in aging."
+        },
+        {
+          "theory_id": "T008407",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Describes mitochondrial ROS production and oxidative damage accumulation driving aging."
+        },
+        {
+          "theory_id": "T008418",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Links mitochondrial ROS and mutation accumulation to aging and species longevity."
+        },
+        {
+          "theory_id": "T008205",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Focuses on ROS-induced mtDNA damage and a vicious cycle of mitochondrial mutation in aging."
+        },
+        {
+          "theory_id": "T008425",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Discusses ROS production, mtDNA mutations, and their complex roles in mitochondrial aging."
+        },
+        {
+          "theory_id": "T008626",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Focuses on mitochondrial superoxide as a source of ROS causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T008379",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Describes mitochondrial oxidative stress from ROS as a causal mechanism of aging."
+        },
+        {
+          "theory_id": "T008175",
+          "subcluster_name": "Complex I Dysfunction and ROS Vicious Cycle Theory",
+          "reasoning": "Focuses specifically on Complex I H+ pumping inhibition causing increased ROS and a vicious cycle."
+        },
+        {
+          "theory_id": "T008191",
+          "subcluster_name": "Mitochondrial Uncoupling and ROS Regulation Theory",
+          "reasoning": "Describes mitochondrial superoxide production regulated by uncoupling proteins reducing ROS."
+        },
+        {
+          "theory_id": "T008574",
+          "subcluster_name": "Mitochondrial Uncoupling and ROS Regulation Theory",
+          "reasoning": "Proposes mild uncoupling via UCPs reduces ROS production and slows aging."
+        },
+        {
+          "theory_id": "T008194",
+          "subcluster_name": "Mitochondrial Uncoupling and ROS Regulation Theory",
+          "reasoning": "Discusses mitochondrial ROS generation and adaptive upregulation of uncoupling proteins to mitigate oxidative stress."
+        },
+        {
+          "theory_id": "T008736",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Links mitochondrial superoxide radical formation to aging and Alzheimer's disease pathology."
+        },
+        {
+          "theory_id": "T008889",
+          "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+          "reasoning": "Focuses on impaired mitophagy and mitochondrial quality control leading to accumulation of damaged mitochondria and aging."
+        },
+        {
+          "theory_id": "T008612",
+          "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction, impaired quality control, and metabolic inflexibility driving aging."
+        },
+        {
+          "theory_id": "T008382",
+          "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+          "reasoning": "Describes mitochondrial quality control impairment causing sarcopenia and muscle aging."
+        },
+        {
+          "theory_id": "T008781",
+          "subcluster_name": "Mitochondrial-Lysosomal Axis Lipofuscinogenesis Theory",
+          "reasoning": "Focuses on oxidative damage from mitochondrial ROS in lysosomes leading to lipofuscin accumulation and aging."
+        },
+        {
+          "theory_id": "T008410",
+          "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+          "reasoning": "Links mitochondrial dysfunction and impaired mitogenesis to distal neuropathies and aging-related neuronal degeneration."
+        },
+        {
+          "theory_id": "T008399",
+          "subcluster_name": "Replication Error-Driven mtDNA Mutation Theory",
+          "reasoning": "Attributes mtDNA mutations primarily to replication errors by DNA polymerase gamma rather than ROS damage."
+        },
+        {
+          "theory_id": "T008752",
+          "subcluster_name": "Mitochondrial ROS-Induced mtDNA Mutation Theory",
+          "reasoning": "Describes stochastic accumulation of mtDNA damage and bioenergetic decline contributing to aging."
+        },
+        {
+          "theory_id": "T007449",
+          "subcluster_name": "CLK-1/MCLK1-Dependent Mitochondrial Aging Theory",
+          "reasoning": "Focuses on mitochondrial enzyme CLK-1/MCLK1 role in ubiquinone biosynthesis and aging modulation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:41:11"
+}

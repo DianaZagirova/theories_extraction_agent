@@ -1,0 +1,190 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "General Free Radical Theory of Aging",
+        "theory_ids": [
+          "T008484",
+          "T008251",
+          "T008672",
+          "T008784",
+          "T008685",
+          "T008533",
+          "T008090",
+          "T008204",
+          "T008806",
+          "T009011",
+          "T007133",
+          "T007985",
+          "T008616",
+          "T008717"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS Production and Longevity Theory",
+        "theory_ids": [
+          "T008963",
+          "T007991",
+          "T008234"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Lipid Peroxidation and Oxidative Damage Theory",
+        "theory_ids": [
+          "T008848",
+          "T000377",
+          "T008448"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T008484",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "This theory presents the broad concept of free radicals causing cumulative molecular damage leading to aging, with emphasis on antioxidant defenses and damage amplification, fitting a general free radical aging framework."
+        },
+        {
+          "theory_id": "T008251",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Focuses on free radicals causing aging and the role of antioxidant enzymes modulating longevity, with genetic and environmental interactions, fitting the broad free radical aging concept."
+        },
+        {
+          "theory_id": "T008672",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Discusses oxidative stress from ROS and antioxidant defenses influencing longevity across species, emphasizing balance between pro-oxidants and antioxidants, a broad free radical aging theme."
+        },
+        {
+          "theory_id": "T008784",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Describes ROS as aging drivers, balance of ROS and detoxification, and ROS-induced damage leading to cellular dysfunction, fitting the general free radical aging theory."
+        },
+        {
+          "theory_id": "T008685",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Covers free radical reactions causing aging, endogenous sources, damage accumulation, and antioxidant defenses including dietary modulation, a broad free radical aging perspective."
+        },
+        {
+          "theory_id": "T008533",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Focuses on free radical-induced molecular damage, chain reactions, and antioxidant defense modulating lifespan, fitting the general free radical aging framework."
+        },
+        {
+          "theory_id": "T008090",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Emphasizes oxidative stress as cause of aging, antioxidant defense systems, and correlation of oxidative stress resistance with longevity, a broad free radical aging theme."
+        },
+        {
+          "theory_id": "T008204",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Focuses on ROS causing oxidative damage leading to aging-related functional decline, especially cognitive decline, and antioxidant treatment benefits, fitting general free radical aging."
+        },
+        {
+          "theory_id": "T008806",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Describes free radical generation, oxidative damage, antioxidant defense deterioration, calorie restriction effects, and role in age-related diseases, a broad free radical aging theory."
+        },
+        {
+          "theory_id": "T009011",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "States free radicals cause aging, antioxidant defenses neutralize radicals, and reducing free radicals delays aging, fitting the general free radical aging concept."
+        },
+        {
+          "theory_id": "T007133",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Focuses on oxidative damage driving aging, brain vulnerability, and antioxidant intervention, fitting the broad free radical aging framework."
+        },
+        {
+          "theory_id": "T007985",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Describes ROS as modulators of cell function and causes of oxidative damage accumulating with age, influencing mitochondrial function and aging, fitting general free radical aging."
+        },
+        {
+          "theory_id": "T008873",
+          "subcluster_name": "Mitochondrial Protein Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing selective oxidative damage to specific mitochondrial proteins (ANT, aconitase), linking metabolic rate to aging via mitochondrial protein damage."
+        },
+        {
+          "theory_id": "T008963",
+          "subcluster_name": "Mitochondrial ROS Production and Longevity Theory",
+          "reasoning": "Emphasizes mitochondrial ROS (superoxide, H2O2) production rates inversely correlating with longevity, linking mitochondrial electron transport chain ROS generation to aging."
+        },
+        {
+          "theory_id": "T008959",
+          "subcluster_name": "Mitochondrial DNA Damage and Aging Theory",
+          "reasoning": "Focuses on mitochondrial DNA damage by ROS, inefficient mtDNA repair, accumulation of mutations, and mitochondrial dysfunction leading to aging phenotypes."
+        },
+        {
+          "theory_id": "T008479",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Describes mitochondrial damage by free radicals affecting membranes and enzymes, leading to impaired oxidative phosphorylation and aging-related mitochondrial structural changes."
+        },
+        {
+          "theory_id": "T008050",
+          "subcluster_name": "Mitochondrial Oxygen Activation Imbalance Theory",
+          "reasoning": "Details mitochondrial electron leak causing superoxide production, membrane alterations increasing radical formation, and impaired energy metabolism linking mitochondrial dysfunction to aging."
+        },
+        {
+          "theory_id": "T007991",
+          "subcluster_name": "Mitochondrial ROS Production and Longevity Theory",
+          "reasoning": "Discusses mitochondrial ROS production linked to metabolic rate and antioxidant defenses in birds, relating mitochondrial ROS to aging and longevity."
+        },
+        {
+          "theory_id": "T008234",
+          "subcluster_name": "Mitochondrial ROS Production and Longevity Theory",
+          "reasoning": "Focuses on mitochondria as ROS sources causing damage, evolutionary origin of free radical signaling, and integration with aging theories, emphasizing mitochondrial ROS role."
+        },
+        {
+          "theory_id": "T008344",
+          "subcluster_name": "Sex Differences in Oxidative Stress and Aging Theory",
+          "reasoning": "Highlights mitochondrial ROS as aging cause, sex differences in ROS production and antioxidant defenses, and estrogen-mediated protection contributing to female longevity."
+        },
+        {
+          "theory_id": "T008616",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Describes ROS production, oxidative damage to macromolecules, accumulation leading to functional decline, and caloric restriction reducing ROS and damage, fitting general free radical aging."
+        },
+        {
+          "theory_id": "T008848",
+          "subcluster_name": "Lipid Peroxidation and Oxidative Damage Theory",
+          "reasoning": "Focuses on oxidative damage accumulation with emphasis on lipid peroxidation, membrane damage, antioxidant defense changes, and transition metal catalysis in aging."
+        },
+        {
+          "theory_id": "T000377",
+          "subcluster_name": "Lipid Peroxidation and Oxidative Damage Theory",
+          "reasoning": "Emphasizes free radical damage affecting fatty acid unsaturation, lipid peroxidation susceptibility, and evolutionary selection for membrane composition reducing oxidative damage."
+        },
+        {
+          "theory_id": "T009037",
+          "subcluster_name": "Protein Cross-Linking by Free Radicals Theory",
+          "reasoning": "Focuses on free radical-induced protein cross-linking, iron redox cycling generating hydroxyl radicals, and protein cross-linking impairing membrane function contributing to aging."
+        },
+        {
+          "theory_id": "T008448",
+          "subcluster_name": "Lipid Peroxidation and Oxidative Damage Theory",
+          "reasoning": "Describes oxidative damage by ROS causing lipid peroxidation, reactive aldehydes mediating protein modifications, and mitochondrial membrane damage increasing ROS production."
+        },
+        {
+          "theory_id": "T008519",
+          "subcluster_name": "Neuronal ROS/RNS and Ion Channel Modulation Theory",
+          "reasoning": "Focuses on ROS and reactive nitrogen species causing neuronal oxidative damage, modulating ion channels, and contributing to brain aging and neuronal dysfunction."
+        },
+        {
+          "theory_id": "T008717",
+          "subcluster_name": "General Free Radical Theory of Aging",
+          "reasoning": "Describes oxidative damage accumulation, oxidative stress modifying gene expression, and dietary restriction attenuating oxidative damage, fitting general free radical aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:59:44"
+}

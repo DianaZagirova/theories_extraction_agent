@@ -1,0 +1,190 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 19,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+        "theory_ids": [
+          "T023216",
+          "T022713",
+          "T022502",
+          "T022566",
+          "T022560",
+          "T022570",
+          "T023909",
+          "T023111",
+          "T022602",
+          "T023874",
+          "T023093",
+          "T023245",
+          "T023663"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Oxidation-Inflammation Theory of Aging",
+        "theory_ids": [
+          "T022299",
+          "T022859",
+          "T023636",
+          "T023827"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS and Functional Decline Theory of Aging",
+        "theory_ids": [
+          "T022186",
+          "T023089",
+          "T022959",
+          "T022977"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Telomere Attrition Theory of Aging",
+        "theory_ids": [
+          "T023167",
+          "T023678"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T023216",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Focuses on oxidative damage specifically to DNA, accumulation of oxidative DNA lesions, and their repair as causal in aging."
+        },
+        {
+          "theory_id": "T022713",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Emphasizes oxidative damage accumulation to biomolecules including DNA and the role of antioxidants in mitigating this damage."
+        },
+        {
+          "theory_id": "T022502",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Focuses on ROS-induced oxidative damage and the role of antioxidant enzymes like CuZnSOD in modulating DNA and cellular damage."
+        },
+        {
+          "theory_id": "T022566",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Highlights oxidative damage to biomolecules and the role of antioxidant enzymes (peroxiredoxins) in repairing oxidative damage and promoting longevity."
+        },
+        {
+          "theory_id": "T022560",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Discusses oxidative damage accumulation and the interplay between endogenous antioxidant defenses and exogenous antioxidant supplementation."
+        },
+        {
+          "theory_id": "T022570",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Focuses on oxidative damage to proteins and the repair of oxidized methionine residues by MSRA as a mechanism to reduce aging."
+        },
+        {
+          "theory_id": "T023909",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Describes ROS as causal agents of aging and antioxidant molecules mitigating intracellular ROS to prevent physiological decline."
+        },
+        {
+          "theory_id": "T023111",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Focuses on mitochondrial ROS production, oxidative damage to DNA and other biomolecules, and the feedback loop of mitochondrial damage."
+        },
+        {
+          "theory_id": "T022602",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Emphasizes ROS-induced oxidative protein damage, accumulation of protein carbonyls, and impaired protein quality control in aging."
+        },
+        {
+          "theory_id": "T023874",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Describes free radical production causing oxidative damage to cellular components and decline of antioxidant defenses with age."
+        },
+        {
+          "theory_id": "T023093",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Focuses on ROS production, oxidative damage accumulation, and the balance between pro-oxidants and antioxidants in aging."
+        },
+        {
+          "theory_id": "T023245",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Highlights mitochondrial ROS as key sources of oxidative damage leading to cellular dysfunction and aging."
+        },
+        {
+          "theory_id": "T023663",
+          "subcluster_name": "Oxidative DNA Damage Theory of Aging",
+          "reasoning": "Describes ROS-induced damage accumulation, antioxidant defenses, mitochondrial involvement, and programmed cell death in aging."
+        },
+        {
+          "theory_id": "T022299",
+          "subcluster_name": "Oxidation-Inflammation Theory of Aging",
+          "reasoning": "Integrates chronic oxidative stress with inflammation and immunosenescence as drivers of systemic aging."
+        },
+        {
+          "theory_id": "T022859",
+          "subcluster_name": "Oxidation-Inflammation Theory of Aging",
+          "reasoning": "Focuses on host-derived oxidant cytotoxic agents, mitochondrial dysfunction, and inflammaging as interconnected aging mechanisms."
+        },
+        {
+          "theory_id": "T023636",
+          "subcluster_name": "Oxidation-Inflammation Theory of Aging",
+          "reasoning": "Links oxidative damage accumulation, antioxidant defense decline, apoptosis, and klotho gene regulation to aging and cognitive decline."
+        },
+        {
+          "theory_id": "T023827",
+          "subcluster_name": "Oxidation-Inflammation Theory of Aging",
+          "reasoning": "Describes oxidative stress imbalance, antioxidant defense decline, and intervention by antioxidant supplementation to reduce aging-related decline."
+        },
+        {
+          "theory_id": "T023357",
+          "subcluster_name": "Nrf2-Regulated Oxidative Stress Theory of Aging",
+          "reasoning": "Emphasizes Nrf2 as master regulator of antioxidant and immune genes controlling oxidative stress and aging."
+        },
+        {
+          "theory_id": "T022834",
+          "subcluster_name": "Oxidative Stress-Driven Insulin Signaling Theory of Aging",
+          "reasoning": "Focuses on oxidative stress-induced pancreatic angiogenesis, hyperinsulinemia, and insulin/IGF-1 signaling activation driving aging."
+        },
+        {
+          "theory_id": "T022186",
+          "subcluster_name": "Mitochondrial ROS and Functional Decline Theory of Aging",
+          "reasoning": "Highlights mitochondrial ROS accumulation, SOD2 antioxidant defense, and stochastic parallel organ failure in aging."
+        },
+        {
+          "theory_id": "T023089",
+          "subcluster_name": "Mitochondrial ROS and Functional Decline Theory of Aging",
+          "reasoning": "Proposes mitohormesis where moderate ROS exposure induces adaptive mitochondrial responses affecting aging."
+        },
+        {
+          "theory_id": "T022959",
+          "subcluster_name": "Mitochondrial ROS and Functional Decline Theory of Aging",
+          "reasoning": "Describes ROS as signaling molecules regulating neuronal plasticity and homeostasis, linking ROS to functional maintenance."
+        },
+        {
+          "theory_id": "T022977",
+          "subcluster_name": "Mitochondrial ROS and Functional Decline Theory of Aging",
+          "reasoning": "Focuses on oxidative stress-induced mitochondrial dysfunction and vascular hypoperfusion as key initiators of brain aging and Alzheimer disease."
+        },
+        {
+          "theory_id": "T023167",
+          "subcluster_name": "Oxidative Stress-Induced Telomere Attrition Theory of Aging",
+          "reasoning": "Focuses on oxidative stress accelerating telomere shortening, driving cellular senescence and organismal aging."
+        },
+        {
+          "theory_id": "T023678",
+          "subcluster_name": "Oxidative Stress-Induced Telomere Attrition Theory of Aging",
+          "reasoning": "Emphasizes oxidative DNA damage at telomeres, repair mechanisms, and cross-talk with mitochondrial dysfunction in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:41:26"
+}

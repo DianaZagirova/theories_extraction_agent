@@ -1,0 +1,207 @@
+{
+  "cluster_name": "Immunological Theory",
+  "batch_num": 9,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Chronic Inflammation-Driven Immunological Aging",
+        "theory_ids": [
+          "T025507",
+          "T027431",
+          "T024894",
+          "T026249",
+          "T026838",
+          "T024012",
+          "T027560"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "ROS and Chronic Inflammation-Driven Immunological Aging",
+        "theory_ids": [
+          "T026954",
+          "T026447"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Adaptive Immunity Decline and Immunosenescence",
+        "theory_ids": [
+          "T027051",
+          "T027345",
+          "T024725",
+          "T027315",
+          "T025966",
+          "T025123",
+          "T027570",
+          "T027139",
+          "T027215"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Autoimmunity-Associated Immunological Aging",
+        "theory_ids": [
+          "T024656",
+          "T025131"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Immunological Theory",
+        "theory_ids": [
+          "T023439",
+          "T023421",
+          "T023306",
+          "T024962",
+          "T004419",
+          "T004104"
+        ],
+        "theory_count": 6,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "6 subclusters too small"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025507",
+          "subcluster_name": "Chronic Inflammation-Driven Immunological Aging",
+          "reasoning": "Focuses on the dual role of inflammation, especially chronic inflammation's contribution to aging pathology and fibrosis, fitting the chronic inflammation mechanistic theme."
+        },
+        {
+          "theory_id": "T027431",
+          "subcluster_name": "Chronic Inflammation-Driven Immunological Aging",
+          "reasoning": "Links systemic low-grade inflammation and altered insulin/IGF signaling to aging and age-related diseases, emphasizing chronic inflammation as a key driver."
+        },
+        {
+          "theory_id": "T024894",
+          "subcluster_name": "Chronic Inflammation-Driven Immunological Aging",
+          "reasoning": "Describes immunosenescence and inflammaging driven by IL-23 signaling, highlighting chronic inflammation's role in systemic aging."
+        },
+        {
+          "theory_id": "T026954",
+          "subcluster_name": "ROS and Chronic Inflammation-Driven Immunological Aging",
+          "reasoning": "Integrates ROS-induced oxidative stress with chronic inflammation and immune senescence, emphasizing inflammation as a central aging mechanism."
+        },
+        {
+          "theory_id": "T026447",
+          "subcluster_name": "ROS and Chronic Inflammation-Driven Immunological Aging",
+          "reasoning": "Focuses on inflammation and oxidative stress driving microvascular aging, linking ROS and chronic inflammation to vascular aging."
+        },
+        {
+          "theory_id": "T023439",
+          "subcluster_name": "Exosome-Mediated Immunological Aging",
+          "reasoning": "Centers on exosomes modulating inflammaging and immune communication, representing a distinct mechanism of immune aging via extracellular vesicles."
+        },
+        {
+          "theory_id": "T027051",
+          "subcluster_name": "Adaptive Immunity Decline and Immunosenescence",
+          "reasoning": "Focuses on deterioration of adaptive immunity, impaired immunosurveillance, and pro-inflammatory lymphocyte phenotypes driving aging."
+        },
+        {
+          "theory_id": "T027345",
+          "subcluster_name": "Adaptive Immunity Decline and Immunosenescence",
+          "reasoning": "Links immunological aging to brain aging via immune system decline, emphasizing adaptive immune system's role in brain maintenance."
+        },
+        {
+          "theory_id": "T024725",
+          "subcluster_name": "Adaptive Immunity Decline and Immunosenescence",
+          "reasoning": "Describes immune senescence driven by chronic immune activation and CTLA-4 upregulation, focusing on T cell regulatory changes."
+        },
+        {
+          "theory_id": "T027315",
+          "subcluster_name": "Adaptive Immunity Decline and Immunosenescence",
+          "reasoning": "Attributes immunosenescence primarily to thymic microenvironment degeneration affecting T cell development."
+        },
+        {
+          "theory_id": "T025966",
+          "subcluster_name": "Adaptive Immunity Decline and Immunosenescence",
+          "reasoning": "Discusses immunosenescence and inflammaging as co-evolving immune aging mechanisms, emphasizing immune system decline."
+        },
+        {
+          "theory_id": "T025123",
+          "subcluster_name": "Adaptive Immunity Decline and Immunosenescence",
+          "reasoning": "Focuses on age-related decline in T lymphocyte signal transduction as a driver of immune and systemic aging."
+        },
+        {
+          "theory_id": "T024656",
+          "subcluster_name": "Autoimmunity-Associated Immunological Aging",
+          "reasoning": "Centers on autoimmune responses increasing with age, contributing to tissue damage and systemic aging."
+        },
+        {
+          "theory_id": "T026249",
+          "subcluster_name": "Chronic Inflammation-Driven Immunological Aging",
+          "reasoning": "Highlights chronic inflammation as a hallmark of aging, particularly in ovarian aging, fitting the chronic inflammation theme."
+        },
+        {
+          "theory_id": "T027570",
+          "subcluster_name": "Adaptive Immunity Decline and Immunosenescence",
+          "reasoning": "Details T cell dysfunction and multiple factors contributing to immunosenescence, emphasizing adaptive immune decline."
+        },
+        {
+          "theory_id": "T023421",
+          "subcluster_name": "Inflammasome-Mediated Immunological Aging",
+          "reasoning": "Focuses on NLRP3 inflammasome activation driving inflammaging and sarcopenia, a specific inflammatory immune mechanism."
+        },
+        {
+          "theory_id": "T023306",
+          "subcluster_name": "Nutrient Deficiency and Immunosenescence",
+          "reasoning": "Links age-related zinc deficiency to impaired immune function and inflammaging, highlighting nutrient-immune interactions."
+        },
+        {
+          "theory_id": "T026838",
+          "subcluster_name": "Chronic Inflammation-Driven Immunological Aging",
+          "reasoning": "Posits chronic low-grade inflammation as a causal driver of aging and age-related diseases, fitting the chronic inflammation cluster."
+        },
+        {
+          "theory_id": "T027139",
+          "subcluster_name": "Adaptive Immunity Decline and Immunosenescence",
+          "reasoning": "Describes hematopoietic stem cell decline and immune alterations leading to chronic inflammation and systemic aging."
+        },
+        {
+          "theory_id": "T027215",
+          "subcluster_name": "Adaptive Immunity Decline and Immunosenescence",
+          "reasoning": "Focuses on NF-kappa B dysregulation impairing immune senescence, emphasizing transcriptional regulation in adaptive immunity."
+        },
+        {
+          "theory_id": "T024012",
+          "subcluster_name": "Chronic Inflammation-Driven Immunological Aging",
+          "reasoning": "Proposes a proinflammatory status as a driver of aging, linking inflammation to vascular injury and systemic aging."
+        },
+        {
+          "theory_id": "T025131",
+          "subcluster_name": "Autoimmunity-Associated Immunological Aging",
+          "reasoning": "Links thymic involution, immune decline, and increased autoantibody production to aging and mortality."
+        },
+        {
+          "theory_id": "T027560",
+          "subcluster_name": "Chronic Inflammation-Driven Immunological Aging",
+          "reasoning": "Describes chronic inflammation as a mechanism of aging-related functional decline, emphasizing inflammation biomarkers."
+        },
+        {
+          "theory_id": "T024962",
+          "subcluster_name": "Neuroinflammatory Immunological Aging",
+          "reasoning": "Focuses on IL-6 mediated neuroinflammation driving brain aging and cognitive decline, a brain-specific immune aging mechanism."
+        },
+        {
+          "theory_id": "T004419",
+          "subcluster_name": "Premature Immunosenescence from Early-Life Immune Challenges",
+          "reasoning": "Describes premature immunological aging caused by recurrent childhood infections and immune dysregulation."
+        },
+        {
+          "theory_id": "T004104",
+          "subcluster_name": "Immune Response to Somatic Mutation-Generated Neo-Antigens",
+          "reasoning": "Focuses on immune recognition of somatic mutation-generated neo-antigens causing tissue damage and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:16:19"
+}

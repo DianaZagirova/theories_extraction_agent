@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+        "theory_ids": [
+          "T000802",
+          "T000900",
+          "T000378",
+          "T000320",
+          "T000875",
+          "T001121",
+          "T001052",
+          "T000494",
+          "T000445",
+          "T000907",
+          "T000519",
+          "T000263",
+          "T000414",
+          "T001246",
+          "T001171",
+          "T000186"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Telomere-Driven Reproductive Aging Theory",
+        "theory_ids": [
+          "T000116",
+          "T000375"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Telomere Dysfunction in Premature Aging Syndromes Theory",
+        "theory_ids": [
+          "T000063",
+          "T001205"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Telomere-Mediated Tumor Suppression and Senescence Theory",
+        "theory_ids": [
+          "T000808",
+          "T000853"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Telomere Maintenance and Longevity Decoupling Theory",
+        "theory_ids": [
+          "T000394",
+          "T000563"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000802",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Focuses on telomere shortening triggering replicative senescence and telomerase extending cell lifespan, emphasizing telomere length as a mitotic clock."
+        },
+        {
+          "theory_id": "T000900",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Describes telomere shortening causing DNA damage checkpoint activation leading to cellular senescence, highlighting telomere dysfunction as intrinsic aging mechanism."
+        },
+        {
+          "theory_id": "T000378",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Presents telomeres as mitotic clock with shortening leading to senescence and telomerase maintaining length, fitting the molecular clock theme."
+        },
+        {
+          "theory_id": "T000320",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Focuses on telomere shortening triggering senescence and telomerase/ALT maintaining telomeres, consistent with molecular clock mechanism."
+        },
+        {
+          "theory_id": "T000875",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Details telomere shortening as mitotic clock triggering replicative senescence and telomerase reactivation enabling immortalization."
+        },
+        {
+          "theory_id": "T001121",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Describes end-replication problem causing telomere shortening acting as mitotic clock triggering senescence, with telomerase maintaining length."
+        },
+        {
+          "theory_id": "T001052",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Models telomere shortening as stochastic process limiting cell division, emphasizing shortest telomere as determinant of replicative potential."
+        },
+        {
+          "theory_id": "T000494",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Focuses on telomere rate of change correlating with species longevity, emphasizing dynamic telomere shortening as aging determinant."
+        },
+        {
+          "theory_id": "T000445",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Models telomere shortening and telomerase activity in cell populations, linking telomere length dynamics to replicative senescence."
+        },
+        {
+          "theory_id": "T000907",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Discusses heritability and environmental effects on telomere length and shortening, supporting telomere length as aging biomarker and causal factor."
+        },
+        {
+          "theory_id": "T000519",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Describes telomere shortening limiting hematopoietic stem cell replicative capacity, fitting telomere shortening as molecular clock theme."
+        },
+        {
+          "theory_id": "T000263",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Links telomere length shortening to organismal aging and body size trade-offs, consistent with telomere shortening as aging mechanism."
+        },
+        {
+          "theory_id": "T000414",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Shows infectious disease and inflammation accelerate telomere attrition causing cellular senescence, fitting telomere shortening aging mechanism."
+        },
+        {
+          "theory_id": "T001246",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Describes stress-induced acceleration of telomere shortening and cross-generational effects, emphasizing telomere shortening as aging driver."
+        },
+        {
+          "theory_id": "T001171",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Proposes ancestral telomere shortening as biological countdown limiting lifespan, consistent with telomere shortening molecular clock concept."
+        },
+        {
+          "theory_id": "T000116",
+          "subcluster_name": "Telomere-Driven Reproductive Aging Theory",
+          "reasoning": "Focuses on telomere shortening in oocytes causing meiotic errors and reproductive aging, a distinct germline telomere aging mechanism."
+        },
+        {
+          "theory_id": "T000375",
+          "subcluster_name": "Telomere-Driven Reproductive Aging Theory",
+          "reasoning": "Details telomere shortening causing meiotic dysfunction in female germ cells, supporting telomere role in reproductive aging."
+        },
+        {
+          "theory_id": "T000063",
+          "subcluster_name": "Telomere Dysfunction in Premature Aging Syndromes Theory",
+          "reasoning": "Describes WRN helicase role in telomere maintenance and dysfunction causing premature aging, linking telomere dysfunction to progeroid syndromes."
+        },
+        {
+          "theory_id": "T001205",
+          "subcluster_name": "Telomere Dysfunction in Premature Aging Syndromes Theory",
+          "reasoning": "Focuses on asymmetric division and extrachromosomal rDNA circles causing replicative aging in yeast, a telomere-related dysfunction aging model."
+        },
+        {
+          "theory_id": "T000801",
+          "subcluster_name": "Telomere Dysfunction and Metabolic Alteration Theory",
+          "reasoning": "Links telomere attrition-induced dysfunction to cellular senescence and systemic metabolic changes, highlighting metabolic consequences of telomere dysfunction."
+        },
+        {
+          "theory_id": "T000808",
+          "subcluster_name": "Telomere-Mediated Tumor Suppression and Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening triggering replicative senescence as tumor suppression mechanism, with species differences in telomerase regulation."
+        },
+        {
+          "theory_id": "T000853",
+          "subcluster_name": "Telomere-Mediated Tumor Suppression and Senescence Theory",
+          "reasoning": "Describes evolutionary adaptation of telomere length to balance cancer risk and longevity, supporting telomere role in tumor suppression."
+        },
+        {
+          "theory_id": "T000394",
+          "subcluster_name": "Telomere Maintenance and Longevity Decoupling Theory",
+          "reasoning": "Shows termite telomere length maintained by telomerase independent of aging, challenging telomere shortening as universal aging mechanism."
+        },
+        {
+          "theory_id": "T000563",
+          "subcluster_name": "Telomere Maintenance and Longevity Decoupling Theory",
+          "reasoning": "Proposes telomere integrity maintenance via recombination or compensatory mechanisms enables clonal lineage longevity, decoupling telomere shortening from aging."
+        },
+        {
+          "theory_id": "T000186",
+          "subcluster_name": "Telomere Shortening as Molecular Clock Theory",
+          "reasoning": "Focuses on replicative senescence in placenta driven by accumulation of short telomeres and telomere dysfunction-induced DNA damage foci."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:19:22"
+}

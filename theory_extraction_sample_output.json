@@ -1,0 +1,37 @@
+{
+      "doi": "10.1016/j.arr.2024.102310",
+      "pmid": "38636560",
+      "title": "Aging as a loss of morphostatic information: A developmental bioelectricity perspective.",
+      "validation_result": "valid",
+      "confidence_score": 9,
+      "contains_theory": true,
+      "theories": [
+        {
+          "name": "Morphostasis Defect Theory of Aging via Bioelectric Signaling",
+          "key_concepts": [
+            {
+              "concept": "Loss of morphostatic information",
+              "description": "Aging is characterized as a progressive loss of biophysical prepattern information that encodes anatomical setpoints necessary for maintaining dynamic tissue and organ homeostasis. This loss leads to failure in preserving anatomical order and function."
+            },
+            {
+              "concept": "Endogenous bioelectric signaling as physiological software",
+              "description": "Bioelectric signals within cells and tissues act as a form of physiological software that orchestrates cell behavior to create and maintain complex multicellular structures. Disruption of this signaling impairs morphostasis and drives aging."
+            },
+            {
+              "concept": "Link between aging, regeneration, and cancer through bioelectricity",
+              "description": "The theory posits homologies between developmental processes, aging, cancer, and regeneration mediated by bioelectric signaling pathways, suggesting that aging results from defects in the same bioelectric mechanisms that regulate tissue patterning and repair."
+            },
+            {
+              "concept": "Morphoceuticals as interventions",
+              "description": "The concept of morphoceuticals is introduced as a potential therapeutic approach targeting bioelectric signaling to restore morphostasis, promote regeneration, and extend healthful longevity."
+            }
+          ],
+          "confidence_is_theory": "medium",
+          "mode": "propose, discuss, synthesize",
+          "evidence": "The abstract references conceptual links between bioelectricity and life extension strategies, age-related diseases, and regeneration, but does not specify experimental data within the abstract. It suggests a research program and theoretical framework rather than presenting new empirical evidence.",
+          "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism for aging at the organismal level, explaining aging as a failure of bioelectric morphostasis that underlies tissue and organ decline. It goes beyond describing patterns by hypothesizing a mechanistic driver (bioelectric signaling loss) and connects aging to development and regeneration, thus addressing broad aging processes.",
+          "paper_focus": 9
+        }
+      ],
+      "timestamp": "2025-10-19T18:19:47.344294"
+    }

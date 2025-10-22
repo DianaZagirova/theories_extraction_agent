@@ -1,0 +1,182 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 21,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+        "theory_ids": [
+          "T025820",
+          "T025530",
+          "T025124",
+          "T025817",
+          "T025774",
+          "T025125",
+          "T025156",
+          "T025835",
+          "T025233",
+          "T025505",
+          "T025750",
+          "T025298"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Antioxidant Capacity and Endogenous Scavenger Theory",
+        "theory_ids": [
+          "T025230",
+          "T025761",
+          "T025433",
+          "T024612",
+          "T025312",
+          "T024995",
+          "T025786"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitohormesis and ROS Signaling Theory",
+        "theory_ids": [
+          "T025294",
+          "T024572",
+          "T025314"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025820",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, ubiquinone role, and mitochondrial dysfunction as primary drivers of aging."
+        },
+        {
+          "theory_id": "T025530",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS generation and oxidative damage leading to muscle aging and sarcopenia."
+        },
+        {
+          "theory_id": "T025124",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Highlights mitochondrial ROS production, antioxidant defense decline, and oxidative damage in skeletal muscle aging."
+        },
+        {
+          "theory_id": "T025817",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes progressive accumulation of mitochondrial ROS-induced oxidative damage causing functional decline."
+        },
+        {
+          "theory_id": "T025774",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on oxidative damage accumulation from ROS and the insufficiency of antioxidant defenses."
+        },
+        {
+          "theory_id": "T025125",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Discusses systemic oxidative stress from free radicals and lipid peroxidation driving aging."
+        },
+        {
+          "theory_id": "T025156",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Details mitochondrial dysfunction, ROS/RNS accumulation, and impaired antioxidant defenses in aging and COPD."
+        },
+        {
+          "theory_id": "T025835",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on ROS-induced protein carbonylation and oxidative protein damage as causal in aging."
+        },
+        {
+          "theory_id": "T025233",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production and nitrones as antioxidants targeting oxidative damage."
+        },
+        {
+          "theory_id": "T025505",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Covers ROS/RNS production, oxidative stress imbalance, and inflammation driving aging and disease."
+        },
+        {
+          "theory_id": "T025750",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on ROS-induced DNA damage accumulation and decline in DNA repair efficiency with age."
+        },
+        {
+          "theory_id": "T025298",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes oxidative stress causing modification and fragmentation of elongation factor 2, impairing protein synthesis."
+        },
+        {
+          "theory_id": "T025383",
+          "subcluster_name": "Glycation-Associated Oxidative Stress Theory",
+          "reasoning": "Focuses on glycation-induced inactivation of NADP(+)-dependent isocitrate dehydrogenase leading to oxidative imbalance."
+        },
+        {
+          "theory_id": "T025230",
+          "subcluster_name": "Antioxidant Capacity and Endogenous Scavenger Theory",
+          "reasoning": "Highlights uric acid as a major endogenous antioxidant protecting against oxidative stress and promoting longevity."
+        },
+        {
+          "theory_id": "T025761",
+          "subcluster_name": "Antioxidant Capacity and Endogenous Scavenger Theory",
+          "reasoning": "Emphasizes enhanced antioxidant defenses and selective activation of antioxidant mechanisms in longevity."
+        },
+        {
+          "theory_id": "T025433",
+          "subcluster_name": "Antioxidant Capacity and Endogenous Scavenger Theory",
+          "reasoning": "Focuses on endogenous antioxidant enzymes and dietary antioxidants modulating oxidative stress and lifespan."
+        },
+        {
+          "theory_id": "T024612",
+          "subcluster_name": "Antioxidant Capacity and Endogenous Scavenger Theory",
+          "reasoning": "Describes DAF-16/FOXO regulation of antioxidant genes enhancing oxidative stress resistance and lifespan."
+        },
+        {
+          "theory_id": "T025312",
+          "subcluster_name": "Antioxidant Capacity and Endogenous Scavenger Theory",
+          "reasoning": "Focuses on extracellular superoxide dismutase (EC-SOD) scavenging ROS and protecting against cognitive decline."
+        },
+        {
+          "theory_id": "T024995",
+          "subcluster_name": "Antioxidant Capacity and Endogenous Scavenger Theory",
+          "reasoning": "Highlights Nrf2 dysregulation reducing antioxidant defenses and promoting oxidative damage with aging."
+        },
+        {
+          "theory_id": "T025786",
+          "subcluster_name": "Antioxidant Capacity and Endogenous Scavenger Theory",
+          "reasoning": "Discusses imbalance of ROS and antioxidants affecting synaptic plasticity and cognitive aging."
+        },
+        {
+          "theory_id": "T025294",
+          "subcluster_name": "Mitohormesis and ROS Signaling Theory",
+          "reasoning": "Proposes moderate ROS as signaling molecules inducing adaptive stress responses that promote longevity."
+        },
+        {
+          "theory_id": "T024572",
+          "subcluster_name": "Mitohormesis and ROS Signaling Theory",
+          "reasoning": "Describes hormetic mitochondrial metabolism induction by mild stressors promoting lifespan extension."
+        },
+        {
+          "theory_id": "T025314",
+          "subcluster_name": "Mitohormesis and ROS Signaling Theory",
+          "reasoning": "Focuses on ROS dual role in synaptic plasticity signaling pathways and age-related functional decline."
+        },
+        {
+          "theory_id": "T024704",
+          "subcluster_name": "Oxidative Stress-Mediated Autophagy Inhibition Theory",
+          "reasoning": "Details oxidative inhibition of autophagy enzymes Atg3 and Atg7 via thiol oxidation impairing cellular homeostasis."
+        },
+        {
+          "theory_id": "T024686",
+          "subcluster_name": "Oxidative Stress in Alzheimer's Disease Theory",
+          "reasoning": "Links oxidative stress to AD lesion formation and accelerated neurodegeneration as a specific aging pathology."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:42:42"
+}

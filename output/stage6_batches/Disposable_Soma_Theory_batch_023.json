@@ -1,0 +1,209 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 23,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+        "theory_ids": [
+          "T015764",
+          "T015873",
+          "T015944",
+          "T015920",
+          "T015934",
+          "T015834",
+          "T015737",
+          "T015720",
+          "T015542",
+          "T015766"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Reproduction and Longevity Trade-Off Theories",
+        "theory_ids": [
+          "T015829",
+          "T015896",
+          "T015749",
+          "T015731",
+          "T015907"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theories",
+        "theory_ids": [
+          "T015805",
+          "T015817",
+          "T015967",
+          "T015759",
+          "T015868",
+          "T015787",
+          "T015795",
+          "T015843"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "ROS and Insulin/IGF-1 Signaling Interaction Theories",
+        "theory_ids": [
+          "T015742",
+          "T015911",
+          "T015614",
+          "T015782"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015764",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+          "reasoning": "This theory focuses on caloric restriction as a nutritional intervention that extends lifespan and delays age-related diseases, fitting well with other CR/DR theories."
+        },
+        {
+          "theory_id": "T015873",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+          "reasoning": "Dietary restriction theory emphasizing reduced caloric intake and signaling pathways mediating lifespan extension aligns with CR/DR mechanisms."
+        },
+        {
+          "theory_id": "T015944",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+          "reasoning": "Explores metabolic adaptations and lifespan extension by caloric restriction, consistent with CR/DR mechanistic themes."
+        },
+        {
+          "theory_id": "T015920",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+          "reasoning": "Focuses on body weight, fat mass, and lifespan extension by caloric restriction, fitting the CR/DR cluster."
+        },
+        {
+          "theory_id": "T015934",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+          "reasoning": "Describes physiological effects of caloric restriction in primates and humans, consistent with CR/DR mechanisms."
+        },
+        {
+          "theory_id": "T015834",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+          "reasoning": "Summarizes CR effects on longevity and healthspan in primates, fitting the CR/DR cluster."
+        },
+        {
+          "theory_id": "T015737",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+          "reasoning": "DR theory in rotifers involving nutrient sensing and hormesis aligns with CR/DR mechanisms."
+        },
+        {
+          "theory_id": "T015720",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+          "reasoning": "Dietary restriction theory emphasizing TOR signaling and autophagy fits well within CR/DR cluster."
+        },
+        {
+          "theory_id": "T015542",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+          "reasoning": "Discusses species-specific effects of caloric restriction and trade-offs with reproduction, consistent with CR/DR themes."
+        },
+        {
+          "theory_id": "T015766",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Theories",
+          "reasoning": "Energy allocation theory linking dietary intake, reproduction, and longevity fits with CR/DR and resource trade-off mechanisms."
+        },
+        {
+          "theory_id": "T015829",
+          "subcluster_name": "Reproduction and Longevity Trade-Off Theories",
+          "reasoning": "Focuses on reproduction-longevity trade-offs and distinct physiological mechanisms underlying lifespan extension, fitting reproduction trade-off cluster."
+        },
+        {
+          "theory_id": "T015896",
+          "subcluster_name": "Reproduction and Longevity Trade-Off Theories",
+          "reasoning": "Describes reciprocal costs of reproduction and aging in fruit flies, emphasizing life-history trade-offs."
+        },
+        {
+          "theory_id": "T015749",
+          "subcluster_name": "Reproduction and Longevity Trade-Off Theories",
+          "reasoning": "Disposable Soma theory emphasizing trade-offs between reproduction and somatic maintenance fits reproduction-longevity trade-off cluster."
+        },
+        {
+          "theory_id": "T015731",
+          "subcluster_name": "Reproduction and Longevity Trade-Off Theories",
+          "reasoning": "Life-history trade-offs in dogs linking body size, metabolism, and lifespan align with reproduction and longevity trade-off mechanisms."
+        },
+        {
+          "theory_id": "T015907",
+          "subcluster_name": "Reproduction and Longevity Trade-Off Theories",
+          "reasoning": "Reproductive signaling in C. elegans showing germline removal extends lifespan fits reproduction-longevity trade-off cluster."
+        },
+        {
+          "theory_id": "T015566",
+          "subcluster_name": "Molecular Mobility and Biophysical Aging Theory",
+          "reasoning": "Unique mechanistic theory focusing on molecular mobility in cytoplasm and glassy state effects on aging, distinct from other clusters."
+        },
+        {
+          "theory_id": "T015805",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theories",
+          "reasoning": "Core insulin/IGF-1 signaling pathway theory with neuroendocrine regulation and FOXO involvement fits this cluster."
+        },
+        {
+          "theory_id": "T015817",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theories",
+          "reasoning": "Insulin/IGF-1 signaling and sirtuin-dependent lifespan extension involving daf-16/FOXO fits this cluster."
+        },
+        {
+          "theory_id": "T015967",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theories",
+          "reasoning": "Insulin receptor mutation and methionine metabolism reprogramming affecting lifespan via insulin signaling fits this cluster."
+        },
+        {
+          "theory_id": "T015759",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theories",
+          "reasoning": "Insulin-like signaling regulating dauer longevity assurance program via FOXO fits this cluster."
+        },
+        {
+          "theory_id": "T015868",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theories",
+          "reasoning": "Functional genomic approach identifying insulin/IGF-1 receptor mutation and DAF-16/FOXO regulation fits this cluster."
+        },
+        {
+          "theory_id": "T015787",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theories",
+          "reasoning": "Reduced insulin/IGF-1 signaling extending lifespan via DAF-16/FOXO fits this cluster."
+        },
+        {
+          "theory_id": "T015795",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theories",
+          "reasoning": "Insulin/IGF signaling modulation via dFOXO-dilp6 feedback loop fits insulin/IGF-1 and FOXO cluster."
+        },
+        {
+          "theory_id": "T015843",
+          "subcluster_name": "Insulin/IGF-1 Signaling and FOXO-Mediated Aging Theories",
+          "reasoning": "DAF-16/FOXO-mediated longevity regulation via unc-43 and egl-8 signaling fits insulin/IGF-1 and FOXO cluster."
+        },
+        {
+          "theory_id": "T015742",
+          "subcluster_name": "ROS and Insulin/IGF-1 Signaling Interaction Theories",
+          "reasoning": "ROS-mediated modulation of insulin signaling pathway in diapause and lifespan extension highlights ROS-insulin signaling interaction."
+        },
+        {
+          "theory_id": "T015911",
+          "subcluster_name": "ROS and Insulin/IGF-1 Signaling Interaction Theories",
+          "reasoning": "Oxidative stress and insulin/IGF-1 signaling theory focusing on ROS and DAF-16/FOXO fits ROS-insulin signaling interaction cluster."
+        },
+        {
+          "theory_id": "T015614",
+          "subcluster_name": "ROS and Insulin/IGF-1 Signaling Interaction Theories",
+          "reasoning": "Insulin/IGF-1 signaling antagonistic pleiotropy involving mTOR, oxidative stress, and immunosuppression fits ROS-insulin signaling interaction cluster."
+        },
+        {
+          "theory_id": "T015782",
+          "subcluster_name": "ROS and Insulin/IGF-1 Signaling Interaction Theories",
+          "reasoning": "Modulation of insulin, TOR, and MAPK signaling pathways by ginseng affecting aging fits ROS and insulin signaling interaction cluster."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:09:02"
+}

@@ -1,0 +1,186 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 38,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+        "theory_ids": [
+          "T024594",
+          "T024705",
+          "T024755",
+          "T024765",
+          "T024869",
+          "T024766",
+          "T024720",
+          "T024412",
+          "T024216",
+          "T024806",
+          "T024223",
+          "T024382",
+          "T024283",
+          "T024794",
+          "T024834"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Immune Cell Senescence and Immune Aging Theory",
+        "theory_ids": [
+          "T024863",
+          "T024871"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Stem Cell Senescence and Epigenetic Regulation Theory",
+        "theory_ids": [
+          "T024860",
+          "T024727",
+          "T024801",
+          "T024740"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T024429",
+          "T024331",
+          "T023166"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024594",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on senescence-associated secretory phenotype (SASP) and exosomal non-coding RNAs as regulators of senescence and aging."
+        },
+        {
+          "theory_id": "T024705",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Emphasizes SASP secretion, chronic inflammation, and senolytic interventions targeting secretory phenotype."
+        },
+        {
+          "theory_id": "T024755",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Highlights SASP-driven inflammaging and senolytic/anti-SASP compounds as therapeutic approaches."
+        },
+        {
+          "theory_id": "T024765",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Details SASP factor IGFBP5 mediating secondary senescence via paracrine signaling and nuclear receptor interaction."
+        },
+        {
+          "theory_id": "T024869",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on SASP chemokines (CXCR2 ligands) reinforcing senescence and promoting tissue dysfunction."
+        },
+        {
+          "theory_id": "T024766",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Describes SASP-driven adipose tissue inflammation and impaired clearance of senescent cells."
+        },
+        {
+          "theory_id": "T024720",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Discusses SASP effects in liver disease, including inflammation, fibrosis, and dual roles in aging."
+        },
+        {
+          "theory_id": "T024412",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Highlights SASP secretion and chronic accumulation of senescent cells causing tissue dysfunction."
+        },
+        {
+          "theory_id": "T024216",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on SASP-driven inflammaging and molecular pathways linking oxidative stress to senescence."
+        },
+        {
+          "theory_id": "T024806",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Emphasizes SASP secretion in skin aging and molecular pathways regulating senescence."
+        },
+        {
+          "theory_id": "T024223",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Describes SASP-mediated chronic inflammation and DNA damage response reinforcing senescence."
+        },
+        {
+          "theory_id": "T024382",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Comprehensive overview of SASP, senescence inducers, and their role in aging and pathology."
+        },
+        {
+          "theory_id": "T024283",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on SASP promoting pro-inflammatory and tumorigenic microenvironment in aging tissues."
+        },
+        {
+          "theory_id": "T024794",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Details SASP secretion and major senescence pathways (p53/p21 and p16/RB) driving aging phenotypes."
+        },
+        {
+          "theory_id": "T024834",
+          "subcluster_name": "SASP and Secretome-Mediated Cellular Senescence Theory",
+          "reasoning": "Highlights SASP heterogeneity, secretome effects, and causal role in organismal aging."
+        },
+        {
+          "theory_id": "T024863",
+          "subcluster_name": "Immune Cell Senescence and Immune Aging Theory",
+          "reasoning": "Focuses on senescence of T lymphocytes, immune signaling pathways, and reversibility of senescence features."
+        },
+        {
+          "theory_id": "T024871",
+          "subcluster_name": "Immune Cell Senescence and Immune Aging Theory",
+          "reasoning": "Describes microglial senescence, impaired immune signaling, and neuroinflammation driving brain aging."
+        },
+        {
+          "theory_id": "T024860",
+          "subcluster_name": "Stem Cell Senescence and Epigenetic Regulation Theory",
+          "reasoning": "Focuses on stem cell senescence, DNA damage response, epigenetic alterations, and regenerative decline."
+        },
+        {
+          "theory_id": "T024727",
+          "subcluster_name": "Stem Cell Senescence and Epigenetic Regulation Theory",
+          "reasoning": "Details aberrant chromatin remodeling by HIST1H1E mutations accelerating cellular senescence and premature aging."
+        },
+        {
+          "theory_id": "T024801",
+          "subcluster_name": "Stem Cell Senescence and Epigenetic Regulation Theory",
+          "reasoning": "Describes epigenetic regulation of senescence, INK4a/ARF locus, and stress-induced premature senescence in kidney aging."
+        },
+        {
+          "theory_id": "T024740",
+          "subcluster_name": "Stem Cell Senescence and Epigenetic Regulation Theory",
+          "reasoning": "Includes molecular pathways regulating senescence such as DNA damage response, mitochondrial dysfunction, and epigenetic changes."
+        },
+        {
+          "theory_id": "T024429",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on oxidative stress as a driver of senescence, p53/p21 pathway activation, and age-related diseases."
+        },
+        {
+          "theory_id": "T024331",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Emphasizes oxidative stress, redox control by non-coding RNAs, and SASP in senescence and aging."
+        },
+        {
+          "theory_id": "T023166",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on autophagy decline leading to accumulation of damaged components and oxidative stress driving aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:28:24"
+}

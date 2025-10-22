@@ -1,0 +1,182 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T005848",
+          "T005161",
+          "T004957",
+          "T004975",
+          "T005199",
+          "T004878",
+          "T005128",
+          "T005822",
+          "T004993",
+          "T005833",
+          "T005823",
+          "T005234",
+          "T004868"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Extrinsic Mortality and Natural Selection Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T005033",
+          "T005041"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Somatic Maintenance and Cancer Risk Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T004767",
+          "T005247"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005120",
+          "subcluster_name": "Inclusive Fitness and Social Demography Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on post-reproductive lifespan evolution via inclusive fitness benefits and social structure, highlighting antagonistic pleiotropy in life-history traits related to reproduction and social help."
+        },
+        {
+          "theory_id": "T005848",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Centers on the declining force of natural selection with age affecting fecundity and mortality plateaus, explaining aging through pleiotropic effects on life-history traits."
+        },
+        {
+          "theory_id": "T005161",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes weakening natural selection with age and trade-offs between reproduction and maintenance, consistent with antagonistic pleiotropy driving senescence."
+        },
+        {
+          "theory_id": "T005033",
+          "subcluster_name": "Extrinsic Mortality and Natural Selection Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on how extrinsic mortality shapes aging evolution by modulating selection on pleiotropic genes affecting longevity and reproduction."
+        },
+        {
+          "theory_id": "T004957",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes trade-offs between early-life reproductive success and late-life decline, with age-specific selection strength variation causing antagonistic pleiotropy effects."
+        },
+        {
+          "theory_id": "T004975",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Presents aging as an evolutionarily stable outcome driven by dynamically declining selection force with age, consistent with antagonistic pleiotropy mechanisms."
+        },
+        {
+          "theory_id": "T004930",
+          "subcluster_name": "Resource Allocation and Disposable Soma Antagonistic Pleiotropy Theory",
+          "reasoning": "Combines antagonistic pleiotropy with disposable soma theory in leaf senescence, focusing on resource allocation trade-offs affecting longevity and reproduction."
+        },
+        {
+          "theory_id": "T005199",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Highlights trade-offs between early-life fitness and late-life health, with selection favoring early reproduction despite late-life costs, a core antagonistic pleiotropy concept."
+        },
+        {
+          "theory_id": "T004767",
+          "subcluster_name": "Somatic Maintenance and Cancer Risk Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on evolution of somatic maintenance and cancer incidence as outcomes of antagonistic pleiotropy affecting lifespan and disease risk."
+        },
+        {
+          "theory_id": "T005247",
+          "subcluster_name": "Somatic Maintenance and Cancer Risk Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes somatic maintenance and resistance to causes of death as pleiotropic traits influencing longevity evolution."
+        },
+        {
+          "theory_id": "T005110",
+          "subcluster_name": "Early-Adulthood Protein Translation Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes early-adulthood protein translation elevation causing late-life proteostatic dysfunction, a mechanistic antagonistic pleiotropy involving hormonal and germline signaling."
+        },
+        {
+          "theory_id": "T004791",
+          "subcluster_name": "Germ-Line Modulation of Insulin/IGF Signaling Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on germ-line signals modulating IIS pathway and lifespan, representing a molecular antagonistic pleiotropy mechanism linking reproduction and aging."
+        },
+        {
+          "theory_id": "T005006",
+          "subcluster_name": "Exercise-APOE Interaction Antagonistic Pleiotropy Theory",
+          "reasoning": "Explains how APOE e4 allele constrains lifespan but aerobic exercise mitigates late-life deleterious effects, illustrating antagonistic pleiotropy modulated by behavior."
+        },
+        {
+          "theory_id": "T004878",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Couples reproductive and somatic senescence under declining selection force, showing antagonistic pleiotropy in life-history trade-offs affecting longevity."
+        },
+        {
+          "theory_id": "T005041",
+          "subcluster_name": "Extrinsic Mortality and Natural Selection Antagonistic Pleiotropy Theory",
+          "reasoning": "Examines extrinsic mortality and condition-dependent survival shaping aging evolution via antagonistic pleiotropy and life-history trade-offs."
+        },
+        {
+          "theory_id": "T005128",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Integrates antagonistic pleiotropy and mutation accumulation theories based on declining natural selection force with age."
+        },
+        {
+          "theory_id": "T005822",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Demonstrates pleiotropic gene effects causing trade-offs between early fecundity and lifespan, consistent with antagonistic pleiotropy driven by declining selection."
+        },
+        {
+          "theory_id": "T004993",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Shows pleiotropic gene functions with early-life benefits and late-life costs, a classic antagonistic pleiotropy mechanism under declining selection."
+        },
+        {
+          "theory_id": "T005900",
+          "subcluster_name": "Early-Life Hyperfunction Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on hyper-function of biological processes beneficial early but deleterious later, a mechanistic form of antagonistic pleiotropy causing aging."
+        },
+        {
+          "theory_id": "T005833",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes pleiotropic gene action causing early-life reproductive benefits and late-life survival costs, illustrating antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005152",
+          "subcluster_name": "Multilayered Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Presents aging as layered evolutionary mechanisms, integrating multiple antagonistic pleiotropy effects at cellular and metacellular levels."
+        },
+        {
+          "theory_id": "T005823",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on genetic pleiotropy causing trade-offs between early fecundity and survival, a core antagonistic pleiotropy concept."
+        },
+        {
+          "theory_id": "T005234",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Incorporates antagonistic pleiotropy and sex-specific effects under declining natural selection force, explaining aging evolution."
+        },
+        {
+          "theory_id": "T004868",
+          "subcluster_name": "Declining Natural Selection Force Antagonistic Pleiotropy Theory",
+          "reasoning": "Classic theory emphasizing weakening natural selection with age as the driver of antagonistic pleiotropy and aging."
+        },
+        {
+          "theory_id": "T005190",
+          "subcluster_name": "Asymmetrical Cell Division and Damage Segregation Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on asymmetrical cell division partitioning damage, reducing repair investment and driving aging via antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T004824",
+          "subcluster_name": "Growth Rate-Lifespan Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes trade-offs between growth rate and lifespan mediated by resource allocation, a form of antagonistic pleiotropy affecting aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:49:12"
+}

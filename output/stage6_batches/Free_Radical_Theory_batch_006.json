@@ -1,0 +1,176 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Glutathione Deficiency-Driven Free Radical Theory",
+        "theory_ids": [
+          "T010644",
+          "T010776"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T010681",
+          "T010684",
+          "T010771",
+          "T010800",
+          "T010889"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Antioxidant Enzyme Role in Free Radical Theory",
+        "theory_ids": [
+          "T010767",
+          "T010851",
+          "T010926",
+          "T010956",
+          "T010959",
+          "T010965"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Lipid Peroxidation and Membrane Oxidative Damage Theory",
+        "theory_ids": [
+          "T010692",
+          "T010970"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Antioxidant Intervention and ROS Homeostasis Theory",
+        "theory_ids": [
+          "T010903",
+          "T010927"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T010644",
+          "subcluster_name": "Glutathione Deficiency-Driven Free Radical Theory",
+          "reasoning": "Focuses on glutathione depletion causing oxidative stress and mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T010776",
+          "subcluster_name": "Glutathione Deficiency-Driven Free Radical Theory",
+          "reasoning": "Emphasizes glutathione synthesis decline and restoration reducing oxidative stress and improving mitochondrial function."
+        },
+        {
+          "theory_id": "T010681",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Centers on mitochondria as primary ROS source causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T010684",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights mitochondrial DNA damage by ROS and vicious cycle of mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T010771",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial ROS production, dysfunction, and feedback loop contributing to aging."
+        },
+        {
+          "theory_id": "T010800",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial DNA mutation accumulation from ROS and resulting aging acceleration."
+        },
+        {
+          "theory_id": "T010889",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Details mitochondrial ROS production, damage, and vicious cycle impacting aging and male infertility."
+        },
+        {
+          "theory_id": "T010703",
+          "subcluster_name": "Endocrine Oxidative Stress-Linked Free Radical Theory",
+          "reasoning": "Links oxidative stress from ROS to endocrine system aging, inflammation, and dysfunction."
+        },
+        {
+          "theory_id": "T010829",
+          "subcluster_name": "Hormesis and Adaptive Response Free Radical Theory",
+          "reasoning": "Focuses on dual role of ROS as damaging agents and hormetic signaling molecules inducing adaptive defenses."
+        },
+        {
+          "theory_id": "T010899",
+          "subcluster_name": "ROS-Driven Gene Regulation Free Radical Theory",
+          "reasoning": "Emphasizes ROS as signaling molecules activating age-related gene expression and inflammatory pathways."
+        },
+        {
+          "theory_id": "T010910",
+          "subcluster_name": "Redox Signaling and Compartmentalized Oxidative Stress Theory",
+          "reasoning": "Highlights compartment-specific oxidative stress effects and redox-sensitive signaling pathways in aging."
+        },
+        {
+          "theory_id": "T010767",
+          "subcluster_name": "Antioxidant Enzyme Role in Free Radical Theory",
+          "reasoning": "Focuses on antioxidant enzymes like SOD in modulating oxidative damage and lifespan."
+        },
+        {
+          "theory_id": "T010851",
+          "subcluster_name": "Antioxidant Enzyme Role in Free Radical Theory",
+          "reasoning": "Describes enzymatic antioxidant defenses mitigating mitochondrial ROS and aging."
+        },
+        {
+          "theory_id": "T010926",
+          "subcluster_name": "Antioxidant Enzyme Role in Free Radical Theory",
+          "reasoning": "Emphasizes natural antioxidant enzymes (SOD, catalase) reducing ROS damage and extending lifespan."
+        },
+        {
+          "theory_id": "T010956",
+          "subcluster_name": "Antioxidant Enzyme Role in Free Radical Theory",
+          "reasoning": "Focuses on antioxidant enzymes modulating mitochondrial ROS and photoaging."
+        },
+        {
+          "theory_id": "T010959",
+          "subcluster_name": "Antioxidant Enzyme Role in Free Radical Theory",
+          "reasoning": "Discusses balance of oxidative damage and antioxidant defenses correlating with aging clinical parameters."
+        },
+        {
+          "theory_id": "T010965",
+          "subcluster_name": "Antioxidant Enzyme Role in Free Radical Theory",
+          "reasoning": "Covers antioxidant interventions reducing ROS damage and extending lifespan in model organisms."
+        },
+        {
+          "theory_id": "T010692",
+          "subcluster_name": "Lipid Peroxidation and Membrane Oxidative Damage Theory",
+          "reasoning": "Focuses on oxidative damage to membrane lipids, lipid peroxidation, and antioxidant ether lipids influencing aging."
+        },
+        {
+          "theory_id": "T010970",
+          "subcluster_name": "Lipid Peroxidation and Membrane Oxidative Damage Theory",
+          "reasoning": "Highlights mitochondrial dysfunction and plasma membrane redox system protecting against lipid oxidative damage."
+        },
+        {
+          "theory_id": "T010903",
+          "subcluster_name": "Antioxidant Intervention and ROS Homeostasis Theory",
+          "reasoning": "Emphasizes antioxidant defense mechanisms and interventions reducing ROS accumulation to delay aging."
+        },
+        {
+          "theory_id": "T010927",
+          "subcluster_name": "Antioxidant Intervention and ROS Homeostasis Theory",
+          "reasoning": "Discusses ROS damage accumulation and effects of antioxidant supplementation on lifespan."
+        },
+        {
+          "theory_id": "T010908",
+          "subcluster_name": "Oxidative Stress in Life-History Trade-Offs Theory",
+          "reasoning": "Focuses on oxidative stress mediating trade-offs between reproduction, growth, and survival affecting aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 04:10:36"
+}

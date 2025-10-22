@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 25,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+        "theory_ids": [
+          "T016463",
+          "T016386",
+          "T016467",
+          "T016494",
+          "T016493",
+          "T016411",
+          "T016447",
+          "T016480",
+          "T016550",
+          "T016055",
+          "T016517",
+          "T016409"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Growth Hormone and IGF Signaling Trade-Off Theory",
+        "theory_ids": [
+          "T016465",
+          "T016346",
+          "T016553",
+          "T016573"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Genetic Trade-Off and Conditional Effects Theory of Longevity",
+        "theory_ids": [
+          "T016546",
+          "T016549"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Dietary Restriction and Caloric Restriction Longevity Theory",
+        "theory_ids": [
+          "T016474",
+          "T016355",
+          "T016499",
+          "T016529",
+          "T016483",
+          "T016518"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016463",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "This theory focuses on the insulin-like signaling pathway regulating longevity via DAF-16 and OLD-1 in C. elegans, fitting the IIS and FOXO transcription factor theme."
+        },
+        {
+          "theory_id": "T016386",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Describes IIS pathway and DAF-16's role in aging and immunity, central to insulin/IGF-1 signaling mechanisms."
+        },
+        {
+          "theory_id": "T016467",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Focuses on IIS pathway regulating lifespan via DAF-16/FOXO and cross-talk with stress pathways, fitting the IIS-DAF-16 subcluster."
+        },
+        {
+          "theory_id": "T016494",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Details IIS pathway and JNK/MAPK interaction with DAF-16 in longevity regulation, part of IIS-FOXO signaling."
+        },
+        {
+          "theory_id": "T016493",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Focuses on genome-wide DAF-16/FOXO recruitment downstream of IIS, central to insulin/IGF-1 signaling regulation of aging."
+        },
+        {
+          "theory_id": "T016411",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Describes conserved IIS pathway regulating lifespan across species via epigenetic and genetic mechanisms, core IIS theme."
+        },
+        {
+          "theory_id": "T016447",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Describes IIS pathway modulation by small molecules activating DAF-16 and related transcription factors, fitting IIS-FOXO regulation."
+        },
+        {
+          "theory_id": "T016480",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Links IIS pathway to iron homeostasis and aging trade-offs via DAF-16 regulation, part of IIS-mediated longevity mechanisms."
+        },
+        {
+          "theory_id": "T016550",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Focuses on PKB/FOXO signaling switch in aging and cancer, a key IIS downstream regulatory mechanism."
+        },
+        {
+          "theory_id": "T016055",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Describes insulin receptor mutations affecting lifespan via methionine metabolism reprogramming, linked to IIS pathway modulation."
+        },
+        {
+          "theory_id": "T016517",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Describes germline-intestine endocrine signaling involving DAF-16 and DAF-12 in longevity, integrated with IIS pathway."
+        },
+        {
+          "theory_id": "T016409",
+          "subcluster_name": "Insulin/IGF-1 Signaling and DAF-16 Regulation Theory",
+          "reasoning": "Describes chromatin modifier ZFP1 integrating IIS and dietary restriction pathways via DAF-16, part of IIS regulatory network."
+        },
+        {
+          "theory_id": "T016465",
+          "subcluster_name": "Growth Hormone and IGF Signaling Trade-Off Theory",
+          "reasoning": "Focuses on IGF system modulation of aging and lifespan, highlighting IGF binding proteins and proteases, fitting GH/IGF signaling theme."
+        },
+        {
+          "theory_id": "T016346",
+          "subcluster_name": "Growth Hormone and IGF Signaling Trade-Off Theory",
+          "reasoning": "Describes GH/IGF-1/insulin signaling reduction extending lifespan and trade-offs between growth/reproduction and longevity."
+        },
+        {
+          "theory_id": "T016553",
+          "subcluster_name": "Growth Hormone and IGF Signaling Trade-Off Theory",
+          "reasoning": "Describes trade-off between growth hormone levels, thymic involution, immune function, and lifespan, fitting GH-related trade-offs."
+        },
+        {
+          "theory_id": "T016573",
+          "subcluster_name": "Growth Hormone and IGF Signaling Trade-Off Theory",
+          "reasoning": "Classic disposable soma theory emphasizing resource allocation trade-offs between reproduction and somatic maintenance, related to GH/IGF trade-offs."
+        },
+        {
+          "theory_id": "T016578",
+          "subcluster_name": "Reproductive Activation and Stress Resistance Theory in Social Insects",
+          "reasoning": "Focuses on reproductive activation inducing stress resistance and longevity in social insects, a distinct reproductive-stress resistance mechanism."
+        },
+        {
+          "theory_id": "T016555",
+          "subcluster_name": "Life-History Pace-of-Life Syndrome Theory",
+          "reasoning": "Describes life-history trade-offs shaping pace of life, survival, and reproduction strategies, a life-history evolutionary framework."
+        },
+        {
+          "theory_id": "T016546",
+          "subcluster_name": "Genetic Trade-Off and Conditional Effects Theory of Longevity",
+          "reasoning": "Focuses on antagonistic gene effects, gene-gene and gene-environment interactions influencing longevity, a genetic trade-off theme."
+        },
+        {
+          "theory_id": "T016549",
+          "subcluster_name": "Genetic Trade-Off and Conditional Effects Theory of Longevity",
+          "reasoning": "Describes genetic trade-offs in aging lung diseases with opposite allelic effects, fitting genetic trade-off mechanisms."
+        },
+        {
+          "theory_id": "T016474",
+          "subcluster_name": "Dietary Restriction and Caloric Restriction Longevity Theory",
+          "reasoning": "Describes caloric restriction effects on metabolism and longevity, a core dietary restriction mechanism."
+        },
+        {
+          "theory_id": "T016355",
+          "subcluster_name": "Dietary Restriction and Caloric Restriction Longevity Theory",
+          "reasoning": "Focuses on dietary restriction extending lifespan and improving metabolic health, fitting DR/CR theme."
+        },
+        {
+          "theory_id": "T016499",
+          "subcluster_name": "Dietary Restriction and Caloric Restriction Longevity Theory",
+          "reasoning": "Describes dietary restriction effects on aging biomarkers and lifespan in primates, part of DR/CR mechanisms."
+        },
+        {
+          "theory_id": "T016529",
+          "subcluster_name": "Dietary Restriction and Caloric Restriction Longevity Theory",
+          "reasoning": "Focuses on caloric restriction reducing age-related diseases and oxidative stress, fitting DR/CR longevity mechanisms."
+        },
+        {
+          "theory_id": "T016483",
+          "subcluster_name": "Dietary Restriction and Caloric Restriction Longevity Theory",
+          "reasoning": "Describes dietary restriction-induced state changes modulated by alpha-lipoic acid affecting survival trajectories, part of DR mechanisms."
+        },
+        {
+          "theory_id": "T016518",
+          "subcluster_name": "Dietary Restriction and Caloric Restriction Longevity Theory",
+          "reasoning": "Focuses on dietary restriction extending lifespan via TOR-eIF4H translation regulation, a nutrient sensing and DR mechanism."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:09:56"
+}

@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 46,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Autophagy Decline Theory of Aging",
+        "theory_ids": [
+          "T027221",
+          "T027202"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Senescence and SASP in Endocrine Aging",
+        "theory_ids": [
+          "T027300",
+          "T027325",
+          "T027211",
+          "T027230",
+          "T027320",
+          "T027311",
+          "T027247",
+          "T027227",
+          "T027344",
+          "T027266"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "DNA Damage and Oxidative Stress-Induced Senescence Theory",
+        "theory_ids": [
+          "T027318",
+          "T027349",
+          "T027282",
+          "T027209",
+          "T027231",
+          "T027324",
+          "T027337",
+          "T027297"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Senescence-Associated ECM Remodeling Theory",
+        "theory_ids": [
+          "T027276",
+          "T027305",
+          "T027283",
+          "T027323",
+          "T027187"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027221",
+          "subcluster_name": "Autophagy Decline Theory of Aging",
+          "reasoning": "Focuses on the decline of autophagy processes, including mitophagy, as a key driver of aging and cellular damage accumulation."
+        },
+        {
+          "theory_id": "T027202",
+          "subcluster_name": "Autophagy Decline Theory of Aging",
+          "reasoning": "Describes autophagy as a homeostatic mechanism whose age-related decline contributes to neurodegenerative diseases and aging."
+        },
+        {
+          "theory_id": "T027300",
+          "subcluster_name": "Senescence and SASP in Endocrine Aging",
+          "reasoning": "Emphasizes cellular senescence and SASP effects specifically in endocrine tissues and hormonal dysregulation."
+        },
+        {
+          "theory_id": "T027325",
+          "subcluster_name": "Senescence and SASP in Endocrine Aging",
+          "reasoning": "Focuses on cell cycle arrest, SASP, and DNA damage as core features of senescence contributing to aging and endocrine dysfunction."
+        },
+        {
+          "theory_id": "T027211",
+          "subcluster_name": "Senescence and SASP in Endocrine Aging",
+          "reasoning": "Highlights cell cycle arrest, SASP, and metabolic dysfunction in senescent cells affecting ovarian and endocrine aging."
+        },
+        {
+          "theory_id": "T027230",
+          "subcluster_name": "Senescence and SASP in Endocrine Aging",
+          "reasoning": "Describes senescence gene expression and SASP profiles in CNS aging and disease, linking to endocrine and systemic aging."
+        },
+        {
+          "theory_id": "T027320",
+          "subcluster_name": "Senescence and SASP in Endocrine Aging",
+          "reasoning": "Links cellular senescence and SASP to preeclampsia and endocrine-related disease pathogenesis."
+        },
+        {
+          "theory_id": "T027311",
+          "subcluster_name": "Senescence and SASP in Endocrine Aging",
+          "reasoning": "Focuses on regulation and dual roles of SASP in senescence and aging, relevant to endocrine and systemic aging."
+        },
+        {
+          "theory_id": "T027247",
+          "subcluster_name": "Senescence and SASP in Endocrine Aging",
+          "reasoning": "Discusses the dual role of senescent cells and senolytics in tissue regeneration and aging, emphasizing SASP effects."
+        },
+        {
+          "theory_id": "T027227",
+          "subcluster_name": "Senescence and SASP in Endocrine Aging",
+          "reasoning": "Describes senescence-driven SASP secretion impacting tissue microenvironment and aging processes."
+        },
+        {
+          "theory_id": "T027344",
+          "subcluster_name": "Senescence and SASP in Endocrine Aging",
+          "reasoning": "Highlights the dual role of senescent cells in tissue repair and aging, focusing on SASP and regenerative effects."
+        },
+        {
+          "theory_id": "T027266",
+          "subcluster_name": "Senescence and SASP in Endocrine Aging",
+          "reasoning": "Details cell cycle arrest, SASP secretion, and senolytic interventions targeting senescent cells to mitigate aging."
+        },
+        {
+          "theory_id": "T027318",
+          "subcluster_name": "DNA Damage and Oxidative Stress-Induced Senescence Theory",
+          "reasoning": "Focuses on DNA damage, oxidative stress, mitochondrial dysfunction as triggers of senescence and aging."
+        },
+        {
+          "theory_id": "T027349",
+          "subcluster_name": "DNA Damage and Oxidative Stress-Induced Senescence Theory",
+          "reasoning": "Describes senescence triggered by DNA damage and oxidative stress, with SASP and interventions to delay aging."
+        },
+        {
+          "theory_id": "T027282",
+          "subcluster_name": "DNA Damage and Oxidative Stress-Induced Senescence Theory",
+          "reasoning": "Explains senescence induced by telomere shortening and stress, SASP effects, and dual roles in cancer and aging."
+        },
+        {
+          "theory_id": "T027209",
+          "subcluster_name": "DNA Damage and Oxidative Stress-Induced Senescence Theory",
+          "reasoning": "Covers senescent cell accumulation, dual roles, and therapeutic targeting in multiple tissues driven by DNA damage."
+        },
+        {
+          "theory_id": "T027231",
+          "subcluster_name": "DNA Damage and Oxidative Stress-Induced Senescence Theory",
+          "reasoning": "Links senescence to immune aging and inflammageing driven by DNA damage and oxidative stress."
+        },
+        {
+          "theory_id": "T027324",
+          "subcluster_name": "DNA Damage and Oxidative Stress-Induced Senescence Theory",
+          "reasoning": "Focuses on DNA damage response triggering senescence, SASP-driven inflammation, and premature aging phenotypes."
+        },
+        {
+          "theory_id": "T027337",
+          "subcluster_name": "DNA Damage and Oxidative Stress-Induced Senescence Theory",
+          "reasoning": "Describes senescent cell accumulation and senolytic interventions targeting DNA damage-induced senescence."
+        },
+        {
+          "theory_id": "T027297",
+          "subcluster_name": "DNA Damage and Oxidative Stress-Induced Senescence Theory",
+          "reasoning": "Discusses decline in proliferative capacity due to DNA damage and accelerated senescence in progeroid syndromes."
+        },
+        {
+          "theory_id": "T027276",
+          "subcluster_name": "Senescence-Associated ECM Remodeling Theory",
+          "reasoning": "Focuses on SASP-driven extracellular matrix alterations by senescent cells affecting tissue function and aging."
+        },
+        {
+          "theory_id": "T027305",
+          "subcluster_name": "Senescence-Associated ECM Remodeling Theory",
+          "reasoning": "Describes immune surveillance of senescent cells and their evasion, linking ECM changes and immune interactions."
+        },
+        {
+          "theory_id": "T027283",
+          "subcluster_name": "Senescence-Associated ECM Remodeling Theory",
+          "reasoning": "Covers senolytics and senomorphics targeting SASP and ECM remodeling to mitigate aging effects."
+        },
+        {
+          "theory_id": "T027323",
+          "subcluster_name": "Senescence-Associated ECM Remodeling Theory",
+          "reasoning": "Details endothelial cell senescence causing ECM disruption, blood-brain barrier dysfunction, and vascular aging."
+        },
+        {
+          "theory_id": "T027187",
+          "subcluster_name": "Senescence-Associated ECM Remodeling Theory",
+          "reasoning": "Focuses on brain cell senescence, SASP, ECM changes, and their roles in neurodegeneration and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:32:08"
+}

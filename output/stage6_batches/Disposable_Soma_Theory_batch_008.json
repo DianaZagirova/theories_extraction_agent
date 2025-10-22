@@ -1,0 +1,197 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+        "theory_ids": [
+          "T005404",
+          "T005160",
+          "T004825",
+          "T004821",
+          "T005148",
+          "T004898",
+          "T004884",
+          "T005271",
+          "T004800",
+          "T005194"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+        "theory_ids": [
+          "T005113",
+          "T004946",
+          "T005180",
+          "T004712",
+          "T004968",
+          "T004710",
+          "T004891",
+          "T005085",
+          "T005136",
+          "T005295",
+          "T005107"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Metabolic Restriction and Dietary Restriction Disposable Soma Theory",
+        "theory_ids": [
+          "T004966",
+          "T005159",
+          "T004833",
+          "T005059",
+          "T005426",
+          "T004563"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005404",
+          "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+          "reasoning": "Focuses on IIS pathway attenuation and its role in lifespan extension and fat metabolism, fitting the insulin/IGF-1 signaling mechanistic theme."
+        },
+        {
+          "theory_id": "T005160",
+          "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+          "reasoning": "Centers on reduced IGF-1 signaling variants linked to longevity, part of the insulin/IGF-1 signaling attenuation mechanism."
+        },
+        {
+          "theory_id": "T004825",
+          "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+          "reasoning": "Describes conserved IIS pathway modulation extending lifespan, aligning with insulin/IGF-1 signaling attenuation."
+        },
+        {
+          "theory_id": "T004821",
+          "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+          "reasoning": "Details insulin/IGF-1 signaling in metabolic regulation and lifespan, fitting the IIS attenuation theme."
+        },
+        {
+          "theory_id": "T005148",
+          "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+          "reasoning": "Explores synergistic effects of insulin and IGF-1 receptor reduction on healthy aging, part of IIS attenuation."
+        },
+        {
+          "theory_id": "T004898",
+          "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+          "reasoning": "Focuses on IIS pathway regulation of lifespan via FoxO and nutrient sensing, fitting IIS attenuation."
+        },
+        {
+          "theory_id": "T004884",
+          "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+          "reasoning": "Describes DAF-16/FoxO-AMPK feedback in IIS pathway regulating aging, part of IIS attenuation mechanisms."
+        },
+        {
+          "theory_id": "T005271",
+          "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+          "reasoning": "Covers insulin signaling pathways and their impact on lifespan and oxidative stress, fitting IIS attenuation."
+        },
+        {
+          "theory_id": "T004800",
+          "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+          "reasoning": "FOXO transcription factors as central regulators downstream of IIS, controlling longevity-related gene networks."
+        },
+        {
+          "theory_id": "T005194",
+          "subcluster_name": "Insulin/IGF-1 Signaling Attenuation Disposable Soma Theory",
+          "reasoning": "Links body size-dependent lifespan differences in dogs to IGF-1 pathway, fitting IIS attenuation theme."
+        },
+        {
+          "theory_id": "T005113",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Focuses on reproduction-longevity tradeoffs and resource allocation affecting somatic maintenance."
+        },
+        {
+          "theory_id": "T004946",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Describes trade-offs between reproduction and survival in elephant seals, fitting reproduction-energy allocation."
+        },
+        {
+          "theory_id": "T005180",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Explores cost of reproduction on mortality and senescence rates, consistent with reproduction-energy tradeoff."
+        },
+        {
+          "theory_id": "T004712",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Posits trade-off between early development/reproduction and maintenance/longevity, fitting reproduction-energy theme."
+        },
+        {
+          "theory_id": "T004968",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Classic disposable soma hypothesis emphasizing energy allocation trade-off between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T004710",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation shift from reproduction to somatic maintenance under dietary restriction."
+        },
+        {
+          "theory_id": "T004891",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Describes energy reallocation from reproduction to somatic maintenance and antioxidant defense in longevity."
+        },
+        {
+          "theory_id": "T005085",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Discusses trade-off between repair and reproduction shaping aging and somatic damage accumulation."
+        },
+        {
+          "theory_id": "T005136",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Resource allocation trade-off between somatic maintenance and reproduction causing aging and senescence."
+        },
+        {
+          "theory_id": "T005295",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Highlights resource allocation trade-offs and evolutionary decline in selection pressure with age."
+        },
+        {
+          "theory_id": "T005107",
+          "subcluster_name": "Reproduction-Energy Tradeoff Disposable Soma Theory",
+          "reasoning": "Links reproductive potential and timing to longevity, emphasizing evolutionary trade-offs in reproduction and lifespan."
+        },
+        {
+          "theory_id": "T004966",
+          "subcluster_name": "Metabolic Restriction and Dietary Restriction Disposable Soma Theory",
+          "reasoning": "Focuses on nutrient restriction and metabolic control enhancing longevity, consistent with dietary restriction mechanisms."
+        },
+        {
+          "theory_id": "T005159",
+          "subcluster_name": "Metabolic Restriction and Dietary Restriction Disposable Soma Theory",
+          "reasoning": "Describes metabolic reprogramming induced by dietary restriction leading to lifespan extension."
+        },
+        {
+          "theory_id": "T004833",
+          "subcluster_name": "Metabolic Restriction and Dietary Restriction Disposable Soma Theory",
+          "reasoning": "Details dietary restriction effects on mTOR signaling, insulin sensitivity, and broad metabolic changes."
+        },
+        {
+          "theory_id": "T005059",
+          "subcluster_name": "Metabolic Restriction and Dietary Restriction Disposable Soma Theory",
+          "reasoning": "Classic dietary restriction theory showing lifespan extension and slowed aging processes."
+        },
+        {
+          "theory_id": "T005426",
+          "subcluster_name": "Metabolic Restriction and Dietary Restriction Disposable Soma Theory",
+          "reasoning": "Describes genetic regulation of longevity via metabolic capacity, stress resistance, and resource allocation in yeast."
+        },
+        {
+          "theory_id": "T004563",
+          "subcluster_name": "Metabolic Restriction and Dietary Restriction Disposable Soma Theory",
+          "reasoning": "Explores trade-offs among growth rate, lifespan, and stress susceptibility linked to metabolic and environmental factors."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:02:07"
+}

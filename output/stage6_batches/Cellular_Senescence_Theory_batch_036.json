@@ -1,0 +1,202 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 36,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+        "theory_ids": [
+          "T023403",
+          "T023398",
+          "T023346",
+          "T023584",
+          "T023654",
+          "T023555",
+          "T023460",
+          "T023568",
+          "T023445",
+          "T023485",
+          "T023362",
+          "T023643",
+          "T023345",
+          "T023623",
+          "T023626"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Microglial Senescence and Neurodegenerative Aging Theory",
+        "theory_ids": [
+          "T023327",
+          "T023492",
+          "T022878"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "p53 Phosphorylation-Mediated Cellular Senescence and Aging Theory",
+        "theory_ids": [
+          "T023312",
+          "T023422",
+          "T023525"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Telomere-Associated Cellular Senescence and Vascular Aging Theory",
+        "theory_ids": [
+          "T023366",
+          "T023352",
+          "T023476",
+          "T023596"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T023403",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Focuses on senescent cell heterogeneity, cell cycle arrest phases, and systemic aging effects."
+        },
+        {
+          "theory_id": "T023398",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Describes cellular senescence as a driver of systemic aging and chronic lung disease with gene expression changes."
+        },
+        {
+          "theory_id": "T023346",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "General cellular senescence theory emphasizing systemic aging and senescence markers."
+        },
+        {
+          "theory_id": "T023584",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Models senescent cell accumulation and heterogeneity in aging tissues and systemic aging."
+        },
+        {
+          "theory_id": "T023654",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Focuses on SASP and systemic aging effects including immune suppression and tissue remodeling."
+        },
+        {
+          "theory_id": "T023555",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Describes hallmarks of cellular senescence including SASP and dual roles in cancer and aging."
+        },
+        {
+          "theory_id": "T023460",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Details senescence-associated growth arrest, SASP, apoptosis resistance, and contribution to tissue dysfunction."
+        },
+        {
+          "theory_id": "T023568",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Discusses senescent cell accumulation, stress-induced senescence, and SASP in cardiovascular aging."
+        },
+        {
+          "theory_id": "T023445",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Explores senescent cells' dual role in tumor suppression and aging via SASP and systemic effects."
+        },
+        {
+          "theory_id": "T023485",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Models spatiotemporal dynamics of senescent cells in wound healing and aging pathology."
+        },
+        {
+          "theory_id": "T023362",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Links bacterial induction of senescence to systemic aging and impaired tissue repair."
+        },
+        {
+          "theory_id": "T023643",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Describes radiation-induced senescence and systemic aging phenotypes like hair graying."
+        },
+        {
+          "theory_id": "T023345",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Focuses on \u03b2 cell senescence as a systemic aging driver in type 2 diabetes."
+        },
+        {
+          "theory_id": "T023623",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Describes senescent cells impairing tissue regeneration and promoting fibrosis in chronic wounds."
+        },
+        {
+          "theory_id": "T023626",
+          "subcluster_name": "Senescent Cell Heterogeneity and Systemic Aging Theory",
+          "reasoning": "Links leukocyte senescence to systemic inflammation and vascular aging in chronic renal failure."
+        },
+        {
+          "theory_id": "T023327",
+          "subcluster_name": "Microglial Senescence and Neurodegenerative Aging Theory",
+          "reasoning": "Focuses on microglial senescence and cholesterol dysregulation driving neurodegenerative aging."
+        },
+        {
+          "theory_id": "T023492",
+          "subcluster_name": "Microglial Senescence and Neurodegenerative Aging Theory",
+          "reasoning": "Describes microglial senescence as a driver of neurodegeneration and CNS aging."
+        },
+        {
+          "theory_id": "T023426",
+          "subcluster_name": "Glial Cell Senescence and Neurodegenerative Aging Theory",
+          "reasoning": "Focuses on astrocyte senescence mediated by p53 isoforms driving neurodegenerative aging."
+        },
+        {
+          "theory_id": "T022878",
+          "subcluster_name": "Microglial Senescence and Neurodegenerative Aging Theory",
+          "reasoning": "Discusses stress-induced premature senescence contributing to brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T023312",
+          "subcluster_name": "p53 Phosphorylation-Mediated Cellular Senescence and Aging Theory",
+          "reasoning": "Details p53 phosphorylation regulating senescence, tumor suppression, and aging phenotypes."
+        },
+        {
+          "theory_id": "T023422",
+          "subcluster_name": "p53 Phosphorylation-Mediated Cellular Senescence and Aging Theory",
+          "reasoning": "Describes p53 as a regulator of senescence, telomere-related aging, and tumor suppression."
+        },
+        {
+          "theory_id": "T023525",
+          "subcluster_name": "p53 Phosphorylation-Mediated Cellular Senescence and Aging Theory",
+          "reasoning": "Links cellular senescence to translational readthrough control via RB pathway and tumor suppression."
+        },
+        {
+          "theory_id": "T023366",
+          "subcluster_name": "Telomere-Associated Cellular Senescence and Vascular Aging Theory",
+          "reasoning": "Focuses on p16INK4a, telomerase, and oxidative stress modulating endothelial progenitor cell senescence."
+        },
+        {
+          "theory_id": "T023352",
+          "subcluster_name": "Telomere-Associated Cellular Senescence and Vascular Aging Theory",
+          "reasoning": "Describes telomere shortening driving cardiac aging and replicative senescence."
+        },
+        {
+          "theory_id": "T023476",
+          "subcluster_name": "Telomere-Associated Cellular Senescence and Vascular Aging Theory",
+          "reasoning": "Focuses on endothelial cell senescence, vascular aging, and related SASP effects."
+        },
+        {
+          "theory_id": "T023596",
+          "subcluster_name": "Telomere-Associated Cellular Senescence and Vascular Aging Theory",
+          "reasoning": "Mathematical modeling of replicative senescence time distribution related to telomere shortening."
+        },
+        {
+          "theory_id": "T023166",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Aging Theory",
+          "reasoning": "Describes age-dependent decline in autophagy contributing to cellular senescence and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:27:10"
+}

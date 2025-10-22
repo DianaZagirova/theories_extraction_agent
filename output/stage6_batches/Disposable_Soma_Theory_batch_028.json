@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 28,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Reproductive Resource Allocation Disposable Soma Theory",
+        "theory_ids": [
+          "T017678",
+          "T017469",
+          "T018023",
+          "T016805"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Dietary Restriction and Sensory Modulation Disposable Soma Theory",
+        "theory_ids": [
+          "T017404",
+          "T017549",
+          "T017593",
+          "T017936"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+        "theory_ids": [
+          "T017694",
+          "T017744",
+          "T017654",
+          "T017859",
+          "T017420",
+          "T017429",
+          "T017415",
+          "T017395",
+          "T017641",
+          "T017689",
+          "T018062",
+          "T017601",
+          "T017538",
+          "T017853",
+          "T017980",
+          "T017703",
+          "T017974",
+          "T018027"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 18
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T017678",
+          "subcluster_name": "Reproductive Resource Allocation Disposable Soma Theory",
+          "reasoning": "This theory focuses on resource allocation trade-offs between reproduction and somatic maintenance, with reproductive effort causing senescence and adaptive reproductive strategies to mitigate aging."
+        },
+        {
+          "theory_id": "T017469",
+          "subcluster_name": "Reproductive Resource Allocation Disposable Soma Theory",
+          "reasoning": "This theory emphasizes sex-dependent germ cell signaling affecting somatic maintenance and aging via endocrine pathways, fitting the reproductive resource allocation and signaling theme."
+        },
+        {
+          "theory_id": "T018023",
+          "subcluster_name": "Reproductive Resource Allocation Disposable Soma Theory",
+          "reasoning": "This theory centers on reproductive homeostasis collapse affecting aging, linking reproductive system stability and senescence, consistent with reproductive resource allocation mechanisms."
+        },
+        {
+          "theory_id": "T016805",
+          "subcluster_name": "Reproductive Resource Allocation Disposable Soma Theory",
+          "reasoning": "Growth hormone receptor disruption affects insulin sensitivity and lifespan, linking GH/IGF-1 axis with reproduction and somatic maintenance trade-offs, fitting reproductive resource allocation."
+        },
+        {
+          "theory_id": "T017404",
+          "subcluster_name": "Dietary Restriction and Sensory Modulation Disposable Soma Theory",
+          "reasoning": "Caloric restriction theory involves nutrient intake reduction affecting aging, a key environmental intervention related to resource allocation and somatic maintenance."
+        },
+        {
+          "theory_id": "T017549",
+          "subcluster_name": "Dietary Restriction and Sensory Modulation Disposable Soma Theory",
+          "reasoning": "This theory discusses caloric restriction's lifespan extension and aging retardation effects, fitting the dietary restriction and resource allocation theme."
+        },
+        {
+          "theory_id": "T017593",
+          "subcluster_name": "Dietary Restriction and Sensory Modulation Disposable Soma Theory",
+          "reasoning": "This theory focuses on dietary restriction mimetics and sensory perception modulating aging, linking nutrient sensing and lifespan regulation."
+        },
+        {
+          "theory_id": "T017936",
+          "subcluster_name": "Dietary Restriction and Sensory Modulation Disposable Soma Theory",
+          "reasoning": "Gustatory modulation of lifespan via insulin-like signaling and dFOXO pathway highlights sensory inputs affecting aging, consistent with dietary restriction and sensory modulation."
+        },
+        {
+          "theory_id": "T017694",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "This theory details insulin/IGF-1 signaling pathway regulation of lifespan in C. elegans, a core mechanistic theme of IIS in aging."
+        },
+        {
+          "theory_id": "T017744",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "JNK pathway antagonism of IIS to extend lifespan fits within insulin/IGF-1 signaling mechanisms regulating aging."
+        },
+        {
+          "theory_id": "T017654",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Mammalian IIS and GH signaling modulation of lifespan aligns with insulin/IGF-1 signaling theme."
+        },
+        {
+          "theory_id": "T017859",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "DAF-16/FoxO transcription factor regulation downstream of IIS is central to insulin/IGF-1 signaling in aging."
+        },
+        {
+          "theory_id": "T017420",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "IIS pathway's role in nutrient and growth regulation and longevity modulation fits the insulin/IGF-1 signaling cluster."
+        },
+        {
+          "theory_id": "T017429",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Insulin/IGF-1 signaling modulation of aging and behavioral plasticity in C. elegans fits IIS mechanisms."
+        },
+        {
+          "theory_id": "T017415",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Endocrine regulation of aging by insulin-like signals and DAF-16/FoxO fits the insulin/IGF-1 signaling theme."
+        },
+        {
+          "theory_id": "T017395",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "IIS pathway's critical role in aging and paradox of insulin resistance aligns with insulin/IGF-1 signaling mechanisms."
+        },
+        {
+          "theory_id": "T017641",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Drosophila dFOXO control of lifespan and insulin signaling regulation fits the insulin/IGF-1 signaling cluster."
+        },
+        {
+          "theory_id": "T017689",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "DAF-2/Insulin/IGF-1 receptor-like signaling control of longevity and mitochondrial bioenergetics fits IIS mechanisms."
+        },
+        {
+          "theory_id": "T018062",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Insulin/IGF-1 signaling regulation of neuronal aging and neurite branching fits within IIS pathway effects on aging."
+        },
+        {
+          "theory_id": "T017601",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "PRDX-2's role in insulin secretion and IIS-dependent regulation of stress resistance and longevity fits IIS signaling."
+        },
+        {
+          "theory_id": "T017538",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Fat tissue and insulin/IGF-1 signaling modulation of longevity fits the IIS signaling cluster."
+        },
+        {
+          "theory_id": "T017853",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Molecular genetic mechanisms of lifespan manipulation via insulin-like signaling in C. elegans fits IIS signaling."
+        },
+        {
+          "theory_id": "T017980",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Genetics of human longevity involving reduced insulin/IGF-1 signaling fits IIS signaling mechanisms."
+        },
+        {
+          "theory_id": "T017703",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "DAF-16 and HSF-1 mediated regulation of longevity via small heat-shock proteins is downstream of IIS signaling."
+        },
+        {
+          "theory_id": "T017974",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "DAF-2/IIS pathway regulation of longevity and interaction with dietary restriction fits IIS signaling."
+        },
+        {
+          "theory_id": "T018027",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Maternal protein restriction affecting insulin/IGF-1 signaling and aging fits IIS signaling mechanisms."
+        },
+        {
+          "theory_id": "T016868",
+          "subcluster_name": "Cognitive Resource Allocation Disposable Soma Theory",
+          "reasoning": "This theory focuses on resource-rational meta-control and cognitive resource allocation across lifespan, distinct from metabolic or reproductive resource allocation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:11:08"
+}

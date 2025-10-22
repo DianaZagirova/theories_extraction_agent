@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 7,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomerase Activity Regulation Theory",
+        "theory_ids": [
+          "T008325",
+          "T007627",
+          "T007389",
+          "T008144",
+          "T007742",
+          "T008120",
+          "T008166",
+          "T007989"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+        "theory_ids": [
+          "T007547",
+          "T008201",
+          "T007231",
+          "T007469",
+          "T007376",
+          "T007759",
+          "T008001",
+          "T008223",
+          "T008240",
+          "T007142",
+          "T008012",
+          "T007714"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Telomere Shortening-Induced Cellular Senescence in Vascular Aging Theory",
+        "theory_ids": [
+          "T008217",
+          "T007765"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Telomere Shortening in Reproductive Aging Theory",
+        "theory_ids": [
+          "T008148",
+          "T007430"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T007656",
+          "subcluster_name": "Telomere Shortening-Induced Genetic Instability Theory",
+          "reasoning": "Focuses on telomere shortening causing epigenetic and genetic instability beyond telomeres, including transgenerational inheritance of defects."
+        },
+        {
+          "theory_id": "T008325",
+          "subcluster_name": "Telomerase Activity Regulation Theory",
+          "reasoning": "Emphasizes telomerase enzyme activity as a regulator of telomere length and tissue regeneration affecting aging."
+        },
+        {
+          "theory_id": "T007547",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Centers on progressive telomere shortening with age as a fundamental mitotic clock driving cellular senescence and aging."
+        },
+        {
+          "theory_id": "T008201",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Discusses telomere shortening causing senescence and mortality, with telomerase modulation affecting lifespan."
+        },
+        {
+          "theory_id": "T008217",
+          "subcluster_name": "Telomere Shortening-Induced Cellular Senescence in Vascular Aging Theory",
+          "reasoning": "Focuses on telomere attrition triggering vascular cell senescence and endothelial dysfunction in atherosclerosis."
+        },
+        {
+          "theory_id": "T007627",
+          "subcluster_name": "Telomerase Activity Regulation Theory",
+          "reasoning": "Details telomere shortening triggering replicative senescence and telomerase enabling immortalization."
+        },
+        {
+          "theory_id": "T007231",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Describes telomere shortening as a mitotic clock with specific proliferation-restricting telomeres controlling cell lifespan."
+        },
+        {
+          "theory_id": "T007469",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Links telomere shortening causally to aging and age-related diseases like ischemic heart disease."
+        },
+        {
+          "theory_id": "T007376",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Presents telomeres as molecular clocks with telomerase repression causing replicative senescence and aging."
+        },
+        {
+          "theory_id": "T007759",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Supports telomere shortening as a counting mechanism triggering senescence and genetically programmed aging."
+        },
+        {
+          "theory_id": "T007765",
+          "subcluster_name": "Telomere Shortening-Induced Cellular Senescence in Vascular Aging Theory",
+          "reasoning": "Focuses on local telomere attrition in vascular lesions causing cellular senescence and cardiovascular aging."
+        },
+        {
+          "theory_id": "T008001",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Describes telomere shortening causing replicative senescence in somatic cells, with species differences in telomerase activity."
+        },
+        {
+          "theory_id": "T008223",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Frames telomere shortening as a programmed aging clock limiting lifespan and promoting senescence-driven aging."
+        },
+        {
+          "theory_id": "T007330",
+          "subcluster_name": "Telomere Dysfunction-p53-Mitochondrial Aging Theory",
+          "reasoning": "Links telomere dysfunction to p53 activation and mitochondrial decline driving systemic aging."
+        },
+        {
+          "theory_id": "T008240",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Associates telomere shortening in blood with mortality and systemic biological aging."
+        },
+        {
+          "theory_id": "T007389",
+          "subcluster_name": "Telomerase Activity Regulation Theory",
+          "reasoning": "Highlights telomerase activity maintenance in long-lived birds modulating telomere dynamics and lifespan."
+        },
+        {
+          "theory_id": "T008144",
+          "subcluster_name": "Telomerase Activity Regulation Theory",
+          "reasoning": "Describes telomere shortening as mitotic clock and telomerase role in senescence, stem cells, and cancer immortalization."
+        },
+        {
+          "theory_id": "T008148",
+          "subcluster_name": "Telomere Shortening in Reproductive Aging Theory",
+          "reasoning": "Focuses on telomere shortening causing meiotic dysfunction and reproductive aging phenotypes."
+        },
+        {
+          "theory_id": "T007142",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Details telomere shortening triggering DNA damage response, senescence, and age-related diseases."
+        },
+        {
+          "theory_id": "T008012",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Explains telomere loss causing DNA damage response and senescence via p53 and Rb pathways."
+        },
+        {
+          "theory_id": "T007742",
+          "subcluster_name": "Telomerase Activity Regulation Theory",
+          "reasoning": "Describes telomere loss causing senescence and telomerase activation enabling immortalization and tumor suppression."
+        },
+        {
+          "theory_id": "T008120",
+          "subcluster_name": "Telomerase Activity Regulation Theory",
+          "reasoning": "Covers DNA end replication problem, telomere shortening as mitotic clock, and telomerase role in germline and cancer cells."
+        },
+        {
+          "theory_id": "T007714",
+          "subcluster_name": "Telomere Attrition as Molecular Aging Clock Theory",
+          "reasoning": "Presents stochastic model of progressive loss of DNA ends acting as replication clock limiting cell lifespan."
+        },
+        {
+          "theory_id": "T008166",
+          "subcluster_name": "Telomerase Activity Regulation Theory",
+          "reasoning": "Discusses telomere shortening limiting proliferation, telomerase regulation, and antagonistic pleiotropy in aging."
+        },
+        {
+          "theory_id": "T007430",
+          "subcluster_name": "Telomere Shortening in Reproductive Aging Theory",
+          "reasoning": "Describes telomere shortening as gestational clock triggering parturition via senescence and inflammation."
+        },
+        {
+          "theory_id": "T007989",
+          "subcluster_name": "Telomerase Activity Regulation Theory",
+          "reasoning": "Details telomere shortening inducing senescence and tumor suppression, with telomerase repression/reactivation in cancer."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:21:47"
+}

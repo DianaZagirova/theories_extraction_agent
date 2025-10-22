@@ -1,0 +1,216 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 18,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Replicative Senescence Theory",
+        "theory_ids": [
+          "T015796",
+          "T015526",
+          "T015827",
+          "T016111",
+          "T015712",
+          "T016456"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Metabolic Dysfunction-Associated Senescence Theory",
+        "theory_ids": [
+          "T015929",
+          "T015576",
+          "T015321",
+          "T015544",
+          "T015883",
+          "T016175"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) Theory",
+        "theory_ids": [
+          "T015568",
+          "T014817",
+          "T015332",
+          "T015474",
+          "T016370",
+          "T014072"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Autophagy Decline Theory",
+        "theory_ids": [
+          "T016375",
+          "T014735",
+          "T015488",
+          "T014767",
+          "T016333",
+          "T015353",
+          "T014861"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "p53 Regulation of Aging Theory",
+        "theory_ids": [
+          "T014864",
+          "T015872"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015796",
+          "subcluster_name": "Replicative Senescence Theory",
+          "reasoning": "Focuses on finite replicative capacity of cells, growth crisis, and correlation with species longevity, classic replicative senescence mechanisms."
+        },
+        {
+          "theory_id": "T015526",
+          "subcluster_name": "Replicative Senescence Theory",
+          "reasoning": "Describes finite replicative capacity, intranuclear chronometer, and dominance of senescence over immortality, linking cellular senescence to organismal aging."
+        },
+        {
+          "theory_id": "T015827",
+          "subcluster_name": "Replicative Senescence Theory",
+          "reasoning": "Details replicative senescence of fibroblasts, molecular mechanisms of senescence, and correlation with organismal aging."
+        },
+        {
+          "theory_id": "T016111",
+          "subcluster_name": "Replicative Senescence Theory",
+          "reasoning": "Focuses on replicative senescence, accumulation of senescent cells in vivo, tumor suppression, and genetic control of lifespan."
+        },
+        {
+          "theory_id": "T015712",
+          "subcluster_name": "Replicative Senescence Theory",
+          "reasoning": "Describes accumulation of senescent cells in mitotic tissues, telomere dysfunction-induced senescence, stress-induced senescence, and SASP."
+        },
+        {
+          "theory_id": "T016456",
+          "subcluster_name": "Replicative Senescence Theory",
+          "reasoning": "High NaCl induces DNA damage and oxidative stress leading to cellular senescence and accelerated aging, fitting stress-induced senescence within replicative senescence context."
+        },
+        {
+          "theory_id": "T015929",
+          "subcluster_name": "Metabolic Dysfunction-Associated Senescence Theory",
+          "reasoning": "Focuses on metabolic reprogramming in senescent cells, especially mevalonate pathway downregulation and lipid metabolism decline driving senescence."
+        },
+        {
+          "theory_id": "T015576",
+          "subcluster_name": "Metabolic Dysfunction-Associated Senescence Theory",
+          "reasoning": "Senescent glia link mitochondrial dysfunction and lipid accumulation, highlighting metabolic dysfunction as a driver of senescence."
+        },
+        {
+          "theory_id": "T015321",
+          "subcluster_name": "Metabolic Dysfunction-Associated Senescence Theory",
+          "reasoning": "Describes metabolic activity of senescent cells, SASP, and role in metabolic diseases, emphasizing metabolic dysregulation in senescence."
+        },
+        {
+          "theory_id": "T015544",
+          "subcluster_name": "Metabolic Dysfunction-Associated Senescence Theory",
+          "reasoning": "Senescent cells produce increased ROS due to mitochondrial dysfunction, linking metabolic dysfunction and oxidative stress to senescence."
+        },
+        {
+          "theory_id": "T015883",
+          "subcluster_name": "Metabolic Dysfunction-Associated Senescence Theory",
+          "reasoning": "CK2 downregulation increases ROS and modulates IIS pathway, linking metabolic signaling and oxidative stress to senescence and aging."
+        },
+        {
+          "theory_id": "T016175",
+          "subcluster_name": "Metabolic Dysfunction-Associated Senescence Theory",
+          "reasoning": "ROS-induced cellular senescence theory emphasizing oxidative stress and mitochondrial dysfunction as drivers of senescence and aging."
+        },
+        {
+          "theory_id": "T015568",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) Theory",
+          "reasoning": "Focuses on accumulation of senescent cells, SASP, and senolytics/senomorphics targeting SASP to delay aging."
+        },
+        {
+          "theory_id": "T014817",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) Theory",
+          "reasoning": "Describes senescence as causal driver of aging via SASP, and caloric restriction reducing senescent cell burden and SASP."
+        },
+        {
+          "theory_id": "T015332",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) Theory",
+          "reasoning": "Details replicative senescence, SASP, developmental senescence, and tumor suppression roles of senescence."
+        },
+        {
+          "theory_id": "T015474",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) Theory",
+          "reasoning": "Emphasizes senescence as causal driver of aging, SASP secretion, accumulation with age, and immune clearance mechanisms."
+        },
+        {
+          "theory_id": "T016370",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) Theory",
+          "reasoning": "Focuses on MTOR regulation of SASP, IL1A translation, and rapamycin suppression of SASP to reduce inflammation and tumorigenesis."
+        },
+        {
+          "theory_id": "T014072",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) Theory",
+          "reasoning": "Describes permanent growth arrest, antagonistic pleiotropy, and SASP as drivers of aging and inflammation."
+        },
+        {
+          "theory_id": "T016375",
+          "subcluster_name": "Autophagy Decline Theory",
+          "reasoning": "Describes autophagy decline with age, its role in removing damaged organelles, and caloric restriction activating autophagy to delay aging."
+        },
+        {
+          "theory_id": "T014735",
+          "subcluster_name": "Autophagy Decline Theory",
+          "reasoning": "Focuses on autophagy maintaining homeostasis, age-related decline, and lifespan extension by autophagy induction."
+        },
+        {
+          "theory_id": "T015488",
+          "subcluster_name": "Autophagy Decline Theory",
+          "reasoning": "Details autophagy as cell maintenance, decline with age, oxidative damage, and pharmacological intensification as anti-aging."
+        },
+        {
+          "theory_id": "T014767",
+          "subcluster_name": "Autophagy Decline Theory",
+          "reasoning": "Describes macroautophagy decline with age, regulation by nutrients and hormones, and enhancement by caloric restriction."
+        },
+        {
+          "theory_id": "T016333",
+          "subcluster_name": "Autophagy Decline Theory",
+          "reasoning": "Focuses on autophagy decline in neurons causing mitochondrial and protein aggregate accumulation, synaptic abnormalities, and aging."
+        },
+        {
+          "theory_id": "T015353",
+          "subcluster_name": "Autophagy Decline Theory",
+          "reasoning": "Describes autophagy decline with age, its role in liver aging and diseases, and autophagy as a longevity mechanism."
+        },
+        {
+          "theory_id": "T014861",
+          "subcluster_name": "Autophagy Decline Theory",
+          "reasoning": "Focuses on mitophagy decline, accumulation of damaged mitochondria, oxidative stress, and caloric restriction maintaining autophagy."
+        },
+        {
+          "theory_id": "T014204",
+          "subcluster_name": "Microglial Senescence and Neuroinflammation Theory",
+          "reasoning": "Describes microglial senescence, immune exhaustion, low-grade neuroinflammation, and contribution to brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T014864",
+          "subcluster_name": "p53 Regulation of Aging Theory",
+          "reasoning": "Focuses on neuronal p53 activity modulation extending lifespan, stress resistance, and overlap with calorie restriction pathways."
+        },
+        {
+          "theory_id": "T015872",
+          "subcluster_name": "p53 Regulation of Aging Theory",
+          "reasoning": "Describes complex dual role of p53 in aging, interaction with insulin/IGF-1 and TOR pathways, stem cell regulation, and ROS modulation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:09:39"
+}

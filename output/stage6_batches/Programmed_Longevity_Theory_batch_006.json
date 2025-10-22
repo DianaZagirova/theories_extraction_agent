@@ -1,0 +1,204 @@
+{
+  "cluster_name": "Programmed Longevity Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Sirtuin-Mediated Calorie Restriction Longevity Theory",
+        "theory_ids": [
+          "T015063",
+          "T015096",
+          "T015050",
+          "T015076",
+          "T015809",
+          "T015276"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Nutrient-Sensing Pathways Longevity Theory",
+        "theory_ids": [
+          "T015129",
+          "T015713",
+          "T015244",
+          "T015339",
+          "T015055",
+          "T015191"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+        "theory_ids": [
+          "T015581",
+          "T015523",
+          "T015583",
+          "T015621",
+          "T015803",
+          "T015541",
+          "T015433",
+          "T015674",
+          "T015835",
+          "T015101",
+          "T015965"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Programmed Aging via Mitochondrial Oxidative Damage and Genetic Program",
+        "theory_ids": [
+          "T015710",
+          "T015489",
+          "T008690",
+          "T010619"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015063",
+          "subcluster_name": "Sirtuin-Mediated Calorie Restriction Longevity Theory",
+          "reasoning": "Focuses on Sirt1 activation under calorie restriction linking fat mobilization to lifespan extension, fitting the sirtuin-CR mechanism."
+        },
+        {
+          "theory_id": "T015096",
+          "subcluster_name": "Sirtuin-Mediated Calorie Restriction Longevity Theory",
+          "reasoning": "Describes sirtuins as NAD+-dependent deacetylases activated by calorie restriction, central to lifespan extension."
+        },
+        {
+          "theory_id": "T015050",
+          "subcluster_name": "Sirtuin-Mediated Calorie Restriction Longevity Theory",
+          "reasoning": "Details dual pathways activating Sir2 in yeast under calorie restriction, emphasizing sirtuin activation mechanisms."
+        },
+        {
+          "theory_id": "T015076",
+          "subcluster_name": "Sirtuin-Mediated Calorie Restriction Longevity Theory",
+          "reasoning": "Explains Sir2p activation by calorie restriction in yeast and its role in genomic stability and lifespan extension."
+        },
+        {
+          "theory_id": "T015809",
+          "subcluster_name": "Sirtuin-Mediated Calorie Restriction Longevity Theory",
+          "reasoning": "Focuses on dietary activators of Sirt1 and sirtuin-mediated molecular mechanisms linking CR to longevity."
+        },
+        {
+          "theory_id": "T015276",
+          "subcluster_name": "Sirtuin-Mediated Calorie Restriction Longevity Theory",
+          "reasoning": "Describes Sir2 activation by CR reducing rDNA recombination and promoting longevity, a sirtuin-CR mechanism."
+        },
+        {
+          "theory_id": "T015129",
+          "subcluster_name": "Nutrient-Sensing Pathways Longevity Theory",
+          "reasoning": "Focuses on nutrient-sensing pathways modulated by calorie restriction and fasting affecting lifespan and immune aging."
+        },
+        {
+          "theory_id": "T015713",
+          "subcluster_name": "Nutrient-Sensing Pathways Longevity Theory",
+          "reasoning": "Describes nutrient-sensing pathways like TOR/Sch9 and Ras/PKA regulating aging and lifespan under nutrient availability."
+        },
+        {
+          "theory_id": "T015244",
+          "subcluster_name": "Nutrient-Sensing Pathways Longevity Theory",
+          "reasoning": "Focuses on RIM15 kinase integrating nutrient-sensing signals to regulate aging under calorie restriction."
+        },
+        {
+          "theory_id": "T015339",
+          "subcluster_name": "Nutrient-Sensing Pathways Longevity Theory",
+          "reasoning": "Broad nutrient-sensing pathways (mTOR, AMPK, insulin/IGF-1, sirtuins) regulate aging in response to macronutrients and CR."
+        },
+        {
+          "theory_id": "T015055",
+          "subcluster_name": "Nutrient-Sensing Pathways Longevity Theory",
+          "reasoning": "Explores mTORC2's role in insulin sensitivity under CR, linking nutrient sensing to lifespan regulation."
+        },
+        {
+          "theory_id": "T015191",
+          "subcluster_name": "Nutrient-Sensing Pathways Longevity Theory",
+          "reasoning": "Details PI3K/Akt/mTOR signaling pathway's role in aging and lifespan extension via reduced mTORC1 activity."
+        },
+        {
+          "theory_id": "T015581",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Describes gerontogenes including DNA repair, insulin/IGF-1, mTOR, and chromatin remodeling genes regulating aging genetically."
+        },
+        {
+          "theory_id": "T015523",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Focuses on genetic control of aging pace, natural selection of aging genes, and genetic linkage of body size and lifespan."
+        },
+        {
+          "theory_id": "T015583",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Presents genetic program controlling aging rate and lifespan, supported by monogenic mutations and progeroid syndromes."
+        },
+        {
+          "theory_id": "T015621",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Shows genetic modulation of mortality rate and lifespan independent of development and reproduction, indicating genetic aging control."
+        },
+        {
+          "theory_id": "T015803",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Proposes limited number of genes timing aging rate across systems, identified by selection for longevity."
+        },
+        {
+          "theory_id": "T015541",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Suggests genetically determined lifespan potential with biomarkers reflecting genetic aging programs."
+        },
+        {
+          "theory_id": "T015433",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Focuses on insulin/IGF-1 signaling and daf-16 transcription factor regulating lifespan genetically in invertebrates."
+        },
+        {
+          "theory_id": "T015674",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Describes IGF-I hormone and growth hormone axis genetic modulation of aging and longevity."
+        },
+        {
+          "theory_id": "T015835",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Details IGF-1-FoxO axis as a genetic and dietary restriction regulated pathway influencing aging."
+        },
+        {
+          "theory_id": "T015101",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Shows localized IGF-1 signaling reduction genetically extends lifespan, supporting genetic regulation of aging."
+        },
+        {
+          "theory_id": "T015965",
+          "subcluster_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "reasoning": "Focuses on growth hormone signaling suppression genetically extending healthspan and lifespan."
+        },
+        {
+          "theory_id": "T015710",
+          "subcluster_name": "Programmed Aging via Mitochondrial Oxidative Damage and Genetic Program",
+          "reasoning": "Proposes aging as a genetically programmed process driven by mitochondrial ROS and modulated by antioxidants."
+        },
+        {
+          "theory_id": "T015489",
+          "subcluster_name": "Programmed Aging via Mitochondrial Oxidative Damage and Genetic Program",
+          "reasoning": "Combines programmed aging with damage accumulation including mutational damage and cancer overlap."
+        },
+        {
+          "theory_id": "T008690",
+          "subcluster_name": "Programmed Aging via Mitochondrial Oxidative Damage and Genetic Program",
+          "reasoning": "Describes programmed aging linked to telomere shortening and subtelomere repression as a genetic aging program."
+        },
+        {
+          "theory_id": "T010619",
+          "subcluster_name": "Programmed Aging via Mitochondrial Oxidative Damage and Genetic Program",
+          "reasoning": "Presents aging as genetically programmed and modulated by temperature via thermosensory neurons and proteostasis."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:57:21"
+}

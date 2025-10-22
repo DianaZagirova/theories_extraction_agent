@@ -1,0 +1,224 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 24,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+        "theory_ids": [
+          "T016769",
+          "T017386",
+          "T017150",
+          "T017222",
+          "T017307",
+          "T017229",
+          "T017051",
+          "T016534",
+          "T016374",
+          "T016385",
+          "T016286",
+          "T016306",
+          "T017112",
+          "T017135",
+          "T017046"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and Apoptosis-Driven Aging Theory",
+        "theory_ids": [
+          "T017134",
+          "T017052",
+          "T017048",
+          "T016525",
+          "T017016",
+          "T017173"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial Autophagy and Quality Control Decline Theory",
+        "theory_ids": [
+          "T016946",
+          "T017343",
+          "T017342",
+          "T016502"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitonuclear Interaction and Life-History Trade-Off Theory",
+        "theory_ids": [
+          "T016873",
+          "T016748"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016769",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial ROS production causing oxidative damage and a vicious cycle of mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T017386",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Emphasizes mitochondrial ROS as a key driver of aging and lifespan modulation, including antioxidant defense and dietary restriction effects."
+        },
+        {
+          "theory_id": "T017150",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes mitochondrial dysfunction and ROS vicious cycle causing cellular damage and apoptosis contributing to aging."
+        },
+        {
+          "theory_id": "T017222",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Highlights mitochondrial ROS as both source and target of damage, with ROS accumulation correlating with aging and lifespan."
+        },
+        {
+          "theory_id": "T017307",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial ROS production correlating inversely with lifespan and its causal role in aging."
+        },
+        {
+          "theory_id": "T017229",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes mitochondrial dysfunction causing ROS overproduction and a vicious cycle of oxidative damage driving aging."
+        },
+        {
+          "theory_id": "T017051",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Methionine restriction reduces mitochondrial ROS generation and oxidative damage, linking ROS to aging."
+        },
+        {
+          "theory_id": "T016534",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Proposes lower mitochondrial ROS production in long-lived species reduces oxidative damage and extends lifespan."
+        },
+        {
+          "theory_id": "T016374",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Attributes low mitochondrial ROS production and longer lifespan to reduced complex I content in mitochondria."
+        },
+        {
+          "theory_id": "T016385",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Links mitochondrial dysfunction to increased ROS production causing oxidative stress and reduced lifespan."
+        },
+        {
+          "theory_id": "T016286",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes mitochondrial free radical generation causing cumulative damage and aging, with metabolic rate correlations."
+        },
+        {
+          "theory_id": "T016306",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial H2O2 signaling balancing ROS species to modulate oxidative damage and aging outcomes."
+        },
+        {
+          "theory_id": "T017112",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes mitochondrial dysfunction and ROS accumulation causing oxidative damage and bioenergetic decline in aging."
+        },
+        {
+          "theory_id": "T017135",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Links increased mitochondrial ROS with apoptosis activation and mitochondrial DNA damage driving brain aging."
+        },
+        {
+          "theory_id": "T017046",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Proposes a mitocheckpoint sensing mitochondrial ROS damage, triggering senescence and aging via retrograde signaling."
+        },
+        {
+          "theory_id": "T017134",
+          "subcluster_name": "Mitochondrial DNA Mutation and Apoptosis-Driven Aging Theory",
+          "reasoning": "Focuses on mtDNA mutations causing mitochondrial dysfunction and apoptosis leading to tissue degeneration independent of ROS."
+        },
+        {
+          "theory_id": "T017052",
+          "subcluster_name": "Mitochondrial DNA Mutation and Apoptosis-Driven Aging Theory",
+          "reasoning": "Describes accumulation and clonal expansion of mtDNA mutations causing respiratory deficiency and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T017048",
+          "subcluster_name": "Mitochondrial DNA Mutation and Apoptosis-Driven Aging Theory",
+          "reasoning": "Links mtDNA mutations from POLG proofreading defects to apoptosis induction and accelerated aging independent of oxidative stress."
+        },
+        {
+          "theory_id": "T016525",
+          "subcluster_name": "Mitochondrial DNA Mutation and Apoptosis-Driven Aging Theory",
+          "reasoning": "Emphasizes exponential accumulation of mtDNA deletions causing electron transport deficiency and cell loss in aging tissues."
+        },
+        {
+          "theory_id": "T017016",
+          "subcluster_name": "Mitochondrial DNA Mutation and Apoptosis-Driven Aging Theory",
+          "reasoning": "Focuses on mtDNA deletions as markers and mediators of aging, with oxidative stress from exercise exacerbating damage."
+        },
+        {
+          "theory_id": "T017173",
+          "subcluster_name": "Mitochondrial DNA Mutation and Apoptosis-Driven Aging Theory",
+          "reasoning": "Links mtDNA damage accumulation to reduced mitochondrial oxidative capacity and systemic aging phenotypes."
+        },
+        {
+          "theory_id": "T016946",
+          "subcluster_name": "Mitochondrial Autophagy and Quality Control Decline Theory",
+          "reasoning": "Focuses on mitochondrial degeneration triggering autophagy (not apoptosis), impaired mitochondrial turnover, and premature aging."
+        },
+        {
+          "theory_id": "T017343",
+          "subcluster_name": "Mitochondrial Autophagy and Quality Control Decline Theory",
+          "reasoning": "Describes oxidative stress impairing mitochondrial turnover and autophagy, leading to lipofuscin accumulation and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T017342",
+          "subcluster_name": "Mitochondrial Autophagy and Quality Control Decline Theory",
+          "reasoning": "Proposes catabolic insufficiency with lysosomal and autophagic decline causes accumulation of damaged mitochondria and lipofuscin."
+        },
+        {
+          "theory_id": "T016502",
+          "subcluster_name": "Mitochondrial Autophagy and Quality Control Decline Theory",
+          "reasoning": "Highlights PGC1\u03b1 regulation balancing mitochondrial biogenesis and mitophagy; defective mitophagy leads to mitochondrial damage and aging."
+        },
+        {
+          "theory_id": "T016814",
+          "subcluster_name": "Mitochondrial Metabolism and Gene Regulation Theory of Aging",
+          "reasoning": "Focuses on transcriptomic regulation of mitochondrial metabolism genes correlating with lifespan and aging phenotypes."
+        },
+        {
+          "theory_id": "T016873",
+          "subcluster_name": "Mitonuclear Interaction and Life-History Trade-Off Theory",
+          "reasoning": "Emphasizes mitonuclear genetic interactions modulating mitochondrial function and resource allocation between fecundity and longevity."
+        },
+        {
+          "theory_id": "T016748",
+          "subcluster_name": "Mitonuclear Interaction and Life-History Trade-Off Theory",
+          "reasoning": "Describes gene-by-gene-by-environment interactions among mitochondrial, nuclear genotypes and diet affecting lifespan and aging."
+        },
+        {
+          "theory_id": "T016432",
+          "subcluster_name": "Mitochondrial Genome Composition and Metabolic Rate Longevity Theory",
+          "reasoning": "Proposes mtDNA base composition and resting metabolic rate independently and additively determine mammalian maximum lifespan."
+        },
+        {
+          "theory_id": "T017075",
+          "subcluster_name": "Mitochondrial Respiratory Supercomplex Organization Theory",
+          "reasoning": "Focuses on mitochondrial respiratory supercomplex assembly and stability affecting electron transport efficiency, ROS production, and aging."
+        },
+        {
+          "theory_id": "T016536",
+          "subcluster_name": "Mitochondrial Complex I Partial Inhibition and Mitohormesis Theory",
+          "reasoning": "Describes mild complex I inhibition triggering integrated stress response and mitohormesis promoting healthy aging and neuroprotection."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:48:29"
+}

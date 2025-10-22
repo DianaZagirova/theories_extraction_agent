@@ -1,0 +1,200 @@
+{
+  "cluster_name": "Accumulated Damage Theory",
+  "batch_num": 5,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Metal and Glycation-Related Accumulated Damage Theory",
+        "theory_ids": [
+          "T026495",
+          "T026576",
+          "T012591"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+        "theory_ids": [
+          "T026740",
+          "T027442",
+          "T026226",
+          "T027138",
+          "T027368",
+          "T026534",
+          "T026725",
+          "T026801",
+          "T027121",
+          "T025169"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+        "theory_ids": [
+          "T027361",
+          "T008028",
+          "T026153",
+          "T026162",
+          "T027137",
+          "T022707",
+          "T027145",
+          "T027125",
+          "T022940",
+          "T001448",
+          "T026142"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Accumulated Damage Theory",
+        "theory_ids": [
+          "T027333",
+          "T023961"
+        ],
+        "theory_count": 2,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "2 subclusters too small"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026495",
+          "subcluster_name": "Metal and Glycation-Related Accumulated Damage Theory",
+          "reasoning": "Focuses on metal bioaccumulation and advanced glycation/lipoxidation end products (AGEs/ALEs) causing molecular damage and self-reinforcing complexes."
+        },
+        {
+          "theory_id": "T026576",
+          "subcluster_name": "Metal and Glycation-Related Accumulated Damage Theory",
+          "reasoning": "Emphasizes reactive species, transition metal bioaccumulation, AGEs, ALEs, and autocatalytic feedback loops driving damage accumulation."
+        },
+        {
+          "theory_id": "T026740",
+          "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+          "reasoning": "Highlights mitochondrial dysfunction, oxidative stress, loss of proteostasis, and deregulated nutrient sensing as key damage mechanisms."
+        },
+        {
+          "theory_id": "T027442",
+          "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+          "reasoning": "Focuses on genomic instability, oxidative stress, mitochondrial dysfunction, and metabolic burden causing damage accumulation."
+        },
+        {
+          "theory_id": "T026226",
+          "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+          "reasoning": "Centers on oxidative damage accumulation to proteins and decline in proteolytic degradation leading to damage buildup."
+        },
+        {
+          "theory_id": "T027138",
+          "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+          "reasoning": "Details oxidative protein damage, accumulation of oxidized proteins, functional decline, and intervention by free radical scavengers."
+        },
+        {
+          "theory_id": "T027368",
+          "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+          "reasoning": "Describes oxidative damage by ROS, DNA damage, and decline in repair system efficiency contributing to aging."
+        },
+        {
+          "theory_id": "T026534",
+          "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+          "reasoning": "Includes oxidative stress, chronic inflammation, mitochondrial decline, and impaired autophagy as damage drivers."
+        },
+        {
+          "theory_id": "T026725",
+          "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+          "reasoning": "Focuses on progressive mitochondrial damage accumulation, functional decline, and environmental/dietary modulation."
+        },
+        {
+          "theory_id": "T026801",
+          "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+          "reasoning": "Describes cumulative molecular damage to proteins and DNA disrupting homeostasis and multifactorial aging mechanisms."
+        },
+        {
+          "theory_id": "T027121",
+          "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+          "reasoning": "Emphasizes stochastic biomolecular damage accumulation, genetic and extrinsic modulation, and cellular stress response."
+        },
+        {
+          "theory_id": "T027333",
+          "subcluster_name": "Extracellular and Metabolism-Induced Damage Accumulation Theory",
+          "reasoning": "Focuses on metabolism-induced molecular damage, extracellular vs intracellular damage, and therapeutic repair of extracellular damage."
+        },
+        {
+          "theory_id": "T027361",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Highlights stochastic molecular errors, insufficient repair, entropy increase, and DNA repair capacity's role in longevity."
+        },
+        {
+          "theory_id": "T008028",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Focuses on random genetic mutations, somatic mutation theory, DNA repair, and error catastrophe in protein synthesis."
+        },
+        {
+          "theory_id": "T026153",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Emphasizes macromolecular damage accrual including DNA, genomic instability, heterochromatin loss, and stem cell fatigue."
+        },
+        {
+          "theory_id": "T026162",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Focuses on genetic damage accumulation, antioxidant protection reducing damage, and mutation load correlating with mortality."
+        },
+        {
+          "theory_id": "T027137",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Describes DNA damage accumulation in hematopoietic stem cells, epigenetic remodeling, inflammaging, and metabolic regulation."
+        },
+        {
+          "theory_id": "T022707",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Focuses on DNA-protein crosslink accumulation, differential tissue accumulation, and impaired DNA repair accelerating aging."
+        },
+        {
+          "theory_id": "T027145",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Highlights DNA damage accumulation, telomere attrition, mitochondrial dysfunction, and chronic inflammation targeted by gene therapy."
+        },
+        {
+          "theory_id": "T027125",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Describes molecular and cellular damage accumulation, physiological decline, and genetic modifications linked to adaptive processes."
+        },
+        {
+          "theory_id": "T022940",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Links insufficient sleep to accelerated biological aging via epigenetic damage, DNA damage, inflammation, and cellular senescence."
+        },
+        {
+          "theory_id": "T023961",
+          "subcluster_name": "Environmental Damage and Neuronal Attrition Accumulation Theory",
+          "reasoning": "Focuses on environmental toxins causing subclinical neuronal damage interacting with age-related neuronal loss and vulnerability."
+        },
+        {
+          "theory_id": "T012591",
+          "subcluster_name": "Metal and Glycation-Related Accumulated Damage Theory",
+          "reasoning": "Describes multiple synergistic causes including oxidative stress, glycation, mutations, and protein aggregation contributing to damage."
+        },
+        {
+          "theory_id": "T001448",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Presents aging as inevitable damage accumulation modulated adaptively by repair efficiency without a specific aging program."
+        },
+        {
+          "theory_id": "T025169",
+          "subcluster_name": "Mitochondrial and Proteostasis Damage Accumulation Theory",
+          "reasoning": "Focuses on age-related decline in translational capacity affecting protein synthesis and meiotic spindle stability in oocytes."
+        },
+        {
+          "theory_id": "T026142",
+          "subcluster_name": "Genomic Instability and DNA Damage Accumulation Theory",
+          "reasoning": "Describes random molecular damage accumulation, breakdown of maintenance mechanisms including stem cell exhaustion and genomic instability."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:36:28"
+}

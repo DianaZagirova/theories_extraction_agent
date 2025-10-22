@@ -1,0 +1,177 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 30,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "SASP and Metabolic Dysfunction-Driven Senescence Theory",
+        "theory_ids": [
+          "T021527",
+          "T021557",
+          "T021574",
+          "T021320",
+          "T021468",
+          "T021560",
+          "T021352",
+          "T021396",
+          "T021381"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+        "theory_ids": [
+          "T021365",
+          "T021509",
+          "T021450",
+          "T021449",
+          "T021380",
+          "T021409",
+          "T021345",
+          "T021474",
+          "T021476",
+          "T021516"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T021527",
+          "subcluster_name": "SASP and Metabolic Dysfunction-Driven Senescence Theory",
+          "reasoning": "Focuses on metabolic regulation of senescence and SASP-driven feedback loops promoting aging and metabolic disease."
+        },
+        {
+          "theory_id": "T021557",
+          "subcluster_name": "SASP and Metabolic Dysfunction-Driven Senescence Theory",
+          "reasoning": "Emphasizes inflammatory SASP, NF-kB and inflammasome regulation linking senescence to aging and cancer."
+        },
+        {
+          "theory_id": "T021574",
+          "subcluster_name": "SASP and Metabolic Dysfunction-Driven Senescence Theory",
+          "reasoning": "Describes senescence in postmitotic neurons with SASP contributing to brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T021365",
+          "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "reasoning": "Focuses on cell cycle arrest, p16INK4 induction, heterochromatin foci, and senescence as a barrier to reprogramming."
+        },
+        {
+          "theory_id": "T021509",
+          "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "reasoning": "Highlights stable proliferative arrest from DNA damage and telomere shortening with SASP driving aging."
+        },
+        {
+          "theory_id": "T021438",
+          "subcluster_name": "Autophagy Decline and Senescence Interaction Theory",
+          "reasoning": "Focuses on autophagy decline with age, its role in preventing senescence, and caloric restriction effects."
+        },
+        {
+          "theory_id": "T021320",
+          "subcluster_name": "SASP and Metabolic Dysfunction-Driven Senescence Theory",
+          "reasoning": "Describes accumulation of p16Ink4a-positive senescent cells driving inflammaging via SASP."
+        },
+        {
+          "theory_id": "T021450",
+          "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "reasoning": "Details replicative senescence, tumor suppressor activation, telomere shortening as a genetic clock."
+        },
+        {
+          "theory_id": "T021449",
+          "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "reasoning": "Focuses on replicative senescence in T cells, telomere shortening, and apoptosis resistance."
+        },
+        {
+          "theory_id": "T021468",
+          "subcluster_name": "SASP and Metabolic Dysfunction-Driven Senescence Theory",
+          "reasoning": "Links senescent cell accumulation and SASP to immunosenescence, chronic inflammation, and COVID-19 severity."
+        },
+        {
+          "theory_id": "T021560",
+          "subcluster_name": "SASP and Metabolic Dysfunction-Driven Senescence Theory",
+          "reasoning": "Covers SASP, inflammation, epigenetics, metabolism converging on senescence and therapeutic targeting."
+        },
+        {
+          "theory_id": "T021380",
+          "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "reasoning": "Describes molecular mechanisms of senescence including cell cycle arrest, SASP, and key signaling pathways."
+        },
+        {
+          "theory_id": "T021352",
+          "subcluster_name": "SASP and Metabolic Dysfunction-Driven Senescence Theory",
+          "reasoning": "Focuses on skin senescence, SASP, and skin\u2019s role as a systemic aging trigger via secreted factors."
+        },
+        {
+          "theory_id": "T021409",
+          "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "reasoning": "Emphasizes senescent cell accumulation, SASP, and nuclear/mechanotransduction changes driving systemic aging."
+        },
+        {
+          "theory_id": "T021345",
+          "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "reasoning": "Focuses on p16INK4a-mediated senescence reducing progenitor proliferation and neurogenesis during aging."
+        },
+        {
+          "theory_id": "T021474",
+          "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "reasoning": "Describes progenitor cell senescence with p16Ink4a, SASP, and impaired remyelination in multiple sclerosis."
+        },
+        {
+          "theory_id": "T021566",
+          "subcluster_name": "Stress-Induced Premature Senescence and Autophagy Dysfunction Theory",
+          "reasoning": "Focuses on stress-induced premature senescence (SIPS), lysosomal/autophagy dysfunction, and distinct molecular regulators."
+        },
+        {
+          "theory_id": "T021396",
+          "subcluster_name": "SASP and Metabolic Dysfunction-Driven Senescence Theory",
+          "reasoning": "Describes senescence as causal driver of aging, SASP effects, and therapeutic senolysis approaches."
+        },
+        {
+          "theory_id": "T021576",
+          "subcluster_name": "Endothelial Cell Senescence and Vascular Dysfunction Theory",
+          "reasoning": "Focuses on endothelial cell senescence, SASP, vascular dysfunction, BBB disruption, and cerebrovascular aging."
+        },
+        {
+          "theory_id": "T021478",
+          "subcluster_name": "p53 Tumor Suppressor and Senescence Regulation Theory",
+          "reasoning": "Details p53\u2019s role in tumor suppression, senescence induction, and its balance affecting aging phenotypes."
+        },
+        {
+          "theory_id": "T021471",
+          "subcluster_name": "Chromatin and Histone Variant-Mediated SASP Regulation Theory",
+          "reasoning": "Focuses on histone variant H2A.J accumulation in senescent cells promoting SASP and inflammatory gene expression."
+        },
+        {
+          "theory_id": "T021476",
+          "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "reasoning": "Uses replicative senescence of fibroblasts as a model linking senescent cell accumulation to organismal aging."
+        },
+        {
+          "theory_id": "T021569",
+          "subcluster_name": "DNA Damage-Induced Senescence and Transcriptional Regulation Theory",
+          "reasoning": "Emphasizes DNA damage accumulation, ATM/ATR activation, and transcription factor networks driving senescence."
+        },
+        {
+          "theory_id": "T021369",
+          "subcluster_name": "Mitochondrial Dysfunction and Senescence Interaction Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction triggering senescence, DNA damage response, SASP, and musculoskeletal aging."
+        },
+        {
+          "theory_id": "T021516",
+          "subcluster_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "reasoning": "Details replicative senescence in endothelial cells driven by telomere shortening, oxidative stress, and telomere-independent stress."
+        },
+        {
+          "theory_id": "T021381",
+          "subcluster_name": "SASP and Metabolic Dysfunction-Driven Senescence Theory",
+          "reasoning": "Describes senescence in brain cells, SASP-driven neuroinflammation, and contribution to neurodegeneration."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:19:02"
+}

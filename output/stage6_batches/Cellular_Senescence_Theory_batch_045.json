@@ -1,0 +1,186 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 45,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T027168",
+          "T027050",
+          "T027087",
+          "T027203",
+          "T027173",
+          "T027135",
+          "T026027"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Extracellular Propagation and SASP-Mediated Senescence Theory",
+        "theory_ids": [
+          "T027024",
+          "T027074",
+          "T027082",
+          "T027170",
+          "T027181",
+          "T027157",
+          "T027184",
+          "T027206"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Senolytic and Immune Clearance-Based Cellular Senescence Theory",
+        "theory_ids": [
+          "T027196",
+          "T027189",
+          "T027027",
+          "T027117",
+          "T027160",
+          "T027101",
+          "T027132"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Epigenetic Dysregulation and Partial Reprogramming Cellular Senescence Theory",
+        "theory_ids": [
+          "T027095",
+          "T027019"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027168",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on DNA damage accumulation triggering senescence and neuroinflammation, linking DNA damage as a causal driver of aging."
+        },
+        {
+          "theory_id": "T027050",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Centers on DNA damage response (DDR) signaling cascade activating senescence and SASP, emphasizing DNA damage and repair mechanisms in aging."
+        },
+        {
+          "theory_id": "T027087",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Highlights genome instability, chromatin changes, and DNA damage as triggers of senescence and aging, focusing on nuclear genome integrity."
+        },
+        {
+          "theory_id": "T027203",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Describes molecular mechanisms of irreversible cell cycle arrest and DNA synthesis suppression in senescent cells, emphasizing DNA damage and cell cycle control."
+        },
+        {
+          "theory_id": "T027173",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative senescence due to limited proliferative potential and gene expression changes linked to DNA damage and cell cycle arrest."
+        },
+        {
+          "theory_id": "T027135",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Integrates telomere attrition, oxidative stress, and genotoxic damage as multifactorial causes of senescence, emphasizing DNA damage-related mechanisms."
+        },
+        {
+          "theory_id": "T026027",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "reasoning": "Discusses epigenetic reprogramming and mitochondrial dysfunction reversal but fundamentally links aging to DNA damage and genome integrity."
+        },
+        {
+          "theory_id": "T027024",
+          "subcluster_name": "Extracellular Propagation and SASP-Mediated Senescence Theory",
+          "reasoning": "Focuses on extracellular HMGB1 redox states propagating senescence via SASP and systemic signaling, highlighting extracellular factors spreading senescence."
+        },
+        {
+          "theory_id": "T027074",
+          "subcluster_name": "Extracellular Propagation and SASP-Mediated Senescence Theory",
+          "reasoning": "Emphasizes SASP secretion and altered receptor/binding protein signaling in senescent cells affecting tissue environment and promoting aging."
+        },
+        {
+          "theory_id": "T027082",
+          "subcluster_name": "Extracellular Propagation and SASP-Mediated Senescence Theory",
+          "reasoning": "Describes SASP as a key feature of senescent cells driving aging and therapeutic targeting of senescent cells to modulate SASP effects."
+        },
+        {
+          "theory_id": "T027170",
+          "subcluster_name": "Extracellular Propagation and SASP-Mediated Senescence Theory",
+          "reasoning": "Details the dual role of SASP in aging and tissue regeneration, focusing on secretory phenotype as a driver of aging phenotypes."
+        },
+        {
+          "theory_id": "T027181",
+          "subcluster_name": "Extracellular Propagation and SASP-Mediated Senescence Theory",
+          "reasoning": "Links SASP secretion by senescent cells to chronic inflammation and age-related intestinal diseases, emphasizing secretory phenotype effects."
+        },
+        {
+          "theory_id": "T027157",
+          "subcluster_name": "Extracellular Propagation and SASP-Mediated Senescence Theory",
+          "reasoning": "Focuses on senescent endothelial cells secreting SASP factors that drive cardiovascular aging and therapeutic targeting via extracellular vesicles."
+        },
+        {
+          "theory_id": "T027184",
+          "subcluster_name": "Extracellular Propagation and SASP-Mediated Senescence Theory",
+          "reasoning": "Describes accumulation of senescent cells and SASP secretion promoting chronic inflammation and age-related diseases, with senolytics as therapy."
+        },
+        {
+          "theory_id": "T027206",
+          "subcluster_name": "Extracellular Propagation and SASP-Mediated Senescence Theory",
+          "reasoning": "Highlights SASP secretion by senescent cells in cardiovascular tissues driving inflammation and fibrosis, linking secretory phenotype to disease."
+        },
+        {
+          "theory_id": "T027196",
+          "subcluster_name": "Senolytic and Immune Clearance-Based Cellular Senescence Theory",
+          "reasoning": "Focuses on therapeutic removal of senescent cells (senolytics/senomorphics) to delay aging and mitigate diseases, emphasizing intervention strategies."
+        },
+        {
+          "theory_id": "T027189",
+          "subcluster_name": "Senolytic and Immune Clearance-Based Cellular Senescence Theory",
+          "reasoning": "Describes CAR T cell therapy targeting senescent cells to improve aging-related decline, highlighting immune-based clearance approaches."
+        },
+        {
+          "theory_id": "T027027",
+          "subcluster_name": "Senolytic and Immune Clearance-Based Cellular Senescence Theory",
+          "reasoning": "Discusses senescent cell accumulation causing aging and benefits of senolytic drugs in animal models, focusing on therapeutic targeting."
+        },
+        {
+          "theory_id": "T027117",
+          "subcluster_name": "Senolytic and Immune Clearance-Based Cellular Senescence Theory",
+          "reasoning": "Presents photoactivatable senolysis technology for precise elimination of senescent cells to delay aging, emphasizing targeted senolytic therapy."
+        },
+        {
+          "theory_id": "T027160",
+          "subcluster_name": "Senolytic and Immune Clearance-Based Cellular Senescence Theory",
+          "reasoning": "Focuses on immune system role in recognizing and clearing senescent cells, and immune evasion by senescent cells exacerbating aging."
+        },
+        {
+          "theory_id": "T027101",
+          "subcluster_name": "Senolytic and Immune Clearance-Based Cellular Senescence Theory",
+          "reasoning": "Describes senescent cells expressing immune checkpoint ligands causing immune exhaustion and immunosenescence, highlighting immune-senescence interplay."
+        },
+        {
+          "theory_id": "T027132",
+          "subcluster_name": "Senolytic and Immune Clearance-Based Cellular Senescence Theory",
+          "reasoning": "Focuses on senescent cell-derived extracellular vesicles modulating innate immunity and inflammaging, linking senescence to immune dysfunction."
+        },
+        {
+          "theory_id": "T027095",
+          "subcluster_name": "Epigenetic Dysregulation and Partial Reprogramming Cellular Senescence Theory",
+          "reasoning": "Emphasizes epigenome dysregulation in aging and partial reprogramming to reverse senescence and improve health markers."
+        },
+        {
+          "theory_id": "T027019",
+          "subcluster_name": "Epigenetic Dysregulation and Partial Reprogramming Cellular Senescence Theory",
+          "reasoning": "Highlights multifactorial influences on senescence including genetic and physiological factors, and modeling senescence for mechanistic studies."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:31:38"
+}

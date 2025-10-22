@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Protein Damage Theory",
+  "batch_num": 10,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Error-Prone Protein Synthesis and Aggregation Theory",
+        "theory_ids": [
+          "T026347",
+          "T027115",
+          "T026008",
+          "T023252",
+          "T005534",
+          "T027130",
+          "T026353",
+          "T027460"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Proteostasis Network Decline and Stress Response Theory",
+        "theory_ids": [
+          "T027403",
+          "T026354",
+          "T025369",
+          "T026735",
+          "T027075",
+          "T006972"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Proteasome Dysfunction and Decline Theory",
+        "theory_ids": [
+          "T027293",
+          "T018738",
+          "T026174",
+          "T027454",
+          "T014397",
+          "T026175"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Protein Chemical Modification Accumulation Theory",
+        "theory_ids": [
+          "T023744",
+          "T012610",
+          "T027150",
+          "T025252"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Protein Damage Theory",
+        "theory_ids": [
+          "T027401"
+        ],
+        "theory_count": 1,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "1 theories not assigned"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026347",
+          "subcluster_name": "Error-Prone Protein Synthesis and Aggregation Theory",
+          "reasoning": "Focuses on ribosomal translational errors causing misfolded proteins and aggregation driving aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T027115",
+          "subcluster_name": "Error-Prone Protein Synthesis and Aggregation Theory",
+          "reasoning": "Describes how error-prone protein translation disrupts proteostasis and accelerates aging phenotypes."
+        },
+        {
+          "theory_id": "T026008",
+          "subcluster_name": "Error-Prone Protein Synthesis and Aggregation Theory",
+          "reasoning": "Posits that random protein misfolding from translation errors causes neurodegenerative aging phenotypes."
+        },
+        {
+          "theory_id": "T023252",
+          "subcluster_name": "Error-Prone Protein Synthesis and Aggregation Theory",
+          "reasoning": "Describes accumulation of damaged/aggregated proteins causing cytoplasmic crowding and aging in bacteria."
+        },
+        {
+          "theory_id": "T005534",
+          "subcluster_name": "Error-Prone Protein Synthesis and Aggregation Theory",
+          "reasoning": "Focuses on protein destabilization and self-assembly into aggregates as drivers of aging disorders."
+        },
+        {
+          "theory_id": "T027130",
+          "subcluster_name": "Error-Prone Protein Synthesis and Aggregation Theory",
+          "reasoning": "Describes protein misfolding leading to insolubility and membrane toxicity contributing to aging and disease."
+        },
+        {
+          "theory_id": "T026353",
+          "subcluster_name": "Error-Prone Protein Synthesis and Aggregation Theory",
+          "reasoning": "Links proteostasis impairment to amyloid deposition and tissue degeneration in aging."
+        },
+        {
+          "theory_id": "T027460",
+          "subcluster_name": "Error-Prone Protein Synthesis and Aggregation Theory",
+          "reasoning": "Describes metabolic regulation of proteostasis affecting protein aggregation and aging."
+        },
+        {
+          "theory_id": "T027403",
+          "subcluster_name": "Proteostasis Network Decline and Stress Response Theory",
+          "reasoning": "Focuses on proteostatic stress responses and their decline impacting aging and protein homeostasis."
+        },
+        {
+          "theory_id": "T026354",
+          "subcluster_name": "Proteostasis Network Decline and Stress Response Theory",
+          "reasoning": "Describes age-dependent deterioration of HSF1-regulated proteostasis and links to neurodegeneration."
+        },
+        {
+          "theory_id": "T025369",
+          "subcluster_name": "Proteostasis Network Decline and Stress Response Theory",
+          "reasoning": "Discusses age-related decline in proteostasis network and stress response pathways affecting aging."
+        },
+        {
+          "theory_id": "T026735",
+          "subcluster_name": "Proteostasis Network Decline and Stress Response Theory",
+          "reasoning": "Describes proteostasis network collapse and chaperome imbalance as hallmarks of aging."
+        },
+        {
+          "theory_id": "T027293",
+          "subcluster_name": "Proteasome Dysfunction and Decline Theory",
+          "reasoning": "Focuses on age-related decline in proteasome function and altered proteasome complex dynamics."
+        },
+        {
+          "theory_id": "T018738",
+          "subcluster_name": "Proteasome Dysfunction and Decline Theory",
+          "reasoning": "Describes decline in proteasome activity and role of Hsc70 chaperone in aging proteostasis."
+        },
+        {
+          "theory_id": "T026174",
+          "subcluster_name": "Proteasome Dysfunction and Decline Theory",
+          "reasoning": "Links oxidative stress to proteolytic system dysfunction and accumulation of damaged proteins."
+        },
+        {
+          "theory_id": "T027454",
+          "subcluster_name": "Proteasome Dysfunction and Decline Theory",
+          "reasoning": "Focuses on accumulation of oxidized proteins and decline in proteolytic degradation with age."
+        },
+        {
+          "theory_id": "T014397",
+          "subcluster_name": "Proteasome Dysfunction and Decline Theory",
+          "reasoning": "Describes balance between protein oxidation and degradation, with proteasomal decline in aging."
+        },
+        {
+          "theory_id": "T026175",
+          "subcluster_name": "Proteasome Dysfunction and Decline Theory",
+          "reasoning": "Details enzymatic repair and ubiquitin-proteasome targeting of spontaneously damaged proteins."
+        },
+        {
+          "theory_id": "T027075",
+          "subcluster_name": "Proteostasis Network Decline and Stress Response Theory",
+          "reasoning": "Integrates proteostasis loss, oxidative damage, and translational dysregulation affecting aging."
+        },
+        {
+          "theory_id": "T006972",
+          "subcluster_name": "Proteostasis Network Decline and Stress Response Theory",
+          "reasoning": "Describes Ranbp2-dependent proteostatic remodeling and chaperone regulation influencing aging."
+        },
+        {
+          "theory_id": "T023744",
+          "subcluster_name": "Protein Chemical Modification Accumulation Theory",
+          "reasoning": "Focuses on spontaneous non-enzymatic protein modifications accumulating and impairing function."
+        },
+        {
+          "theory_id": "T012610",
+          "subcluster_name": "Protein Chemical Modification Accumulation Theory",
+          "reasoning": "Describes oxidative protein damage accumulation, especially nuclear protein carbonyls, driving aging."
+        },
+        {
+          "theory_id": "T027150",
+          "subcluster_name": "Protein Chemical Modification Accumulation Theory",
+          "reasoning": "Links oxidative damage and protein prenylation regulation as anti-aging mechanisms."
+        },
+        {
+          "theory_id": "T025252",
+          "subcluster_name": "Protein Chemical Modification Accumulation Theory",
+          "reasoning": "Describes accumulation of chemically modified proteins and failure of quality control with age."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:07:57"
+}

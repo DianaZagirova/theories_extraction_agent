@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 14,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+        "theory_ids": [
+          "T018116",
+          "T018179",
+          "T018351",
+          "T017925",
+          "T018645",
+          "T018240",
+          "T018247",
+          "T018424",
+          "T018375",
+          "T018307",
+          "T017802",
+          "T017920",
+          "T018115"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Stem Cell DNA Damage and Mutation Theory",
+        "theory_ids": [
+          "T017943",
+          "T018656",
+          "T018033",
+          "T017832"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Chromosomal Instability and Aneuploidy Theory",
+        "theory_ids": [
+          "T017924",
+          "T018085"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018116",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Focuses on DNA damage response (DDR) pathways, their division of labor, and how repair pathway efficiency and signaling (e.g., p53) balance aging and cancer."
+        },
+        {
+          "theory_id": "T018179",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Emphasizes deficient DNA repair mechanisms and DDR-induced cellular senescence as causal drivers of aging."
+        },
+        {
+          "theory_id": "T018351",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Focuses on DDR deficiency effects in stem cells and niche cells, highlighting DDR as a protective mechanism in aging."
+        },
+        {
+          "theory_id": "T017925",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Describes defective nucleotide excision repair (NER) and its role in premature aging, linking DNA repair defects to systemic aging."
+        },
+        {
+          "theory_id": "T018645",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Links DNA repair capacity, especially NER, to longevity and stress resistance, emphasizing repair efficiency in aging."
+        },
+        {
+          "theory_id": "T018240",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Details DDR-mediated senescence and apoptosis, highlighting antagonistic pleiotropy between cancer suppression and aging."
+        },
+        {
+          "theory_id": "T018247",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Focuses on DNA repair decline, accumulation of DNA damage, and premature aging syndromes as models of repair deficiency."
+        },
+        {
+          "theory_id": "T018424",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Emphasizes genome maintenance defects and DNA repair deficiencies causing aging and progeroid syndromes."
+        },
+        {
+          "theory_id": "T018375",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Highlights DNA repair efficiency and stress signaling (e.g., GADD45) in modulating aging and lifespan."
+        },
+        {
+          "theory_id": "T018307",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Describes compensatory stress responses triggered by DNA repair deficiencies, linking repair pathways to aging regulation."
+        },
+        {
+          "theory_id": "T017802",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Focuses on accumulation of oxidative DNA damage and correlation between repair capacity and lifespan."
+        },
+        {
+          "theory_id": "T017920",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Covers DNA damage accumulation, decline in repair capacity, and roles of telomere and mitochondrial DNA repair in aging."
+        },
+        {
+          "theory_id": "T018115",
+          "subcluster_name": "DNA Damage Response and Repair Pathway Theory",
+          "reasoning": "Focuses on endogenous DNA base lesions, repair decline, and their cytotoxic and mutagenic effects causing aging."
+        },
+        {
+          "theory_id": "T017943",
+          "subcluster_name": "Stem Cell DNA Damage and Mutation Theory",
+          "reasoning": "Focuses on DNA damage and mutation accumulation specifically in adult stem cells causing functional decline and aging."
+        },
+        {
+          "theory_id": "T018656",
+          "subcluster_name": "Stem Cell DNA Damage and Mutation Theory",
+          "reasoning": "Emphasizes DNA damage checkpoints in stem cells, their role in functional decline, and trade-offs between cancer and aging."
+        },
+        {
+          "theory_id": "T018033",
+          "subcluster_name": "Stem Cell DNA Damage and Mutation Theory",
+          "reasoning": "Describes accumulation of large somatic genome rearrangements from DNA double-strand breaks affecting tissue function."
+        },
+        {
+          "theory_id": "T017832",
+          "subcluster_name": "Stem Cell DNA Damage and Mutation Theory",
+          "reasoning": "Focuses on DNA instability and sirtuin-mediated DNA repair pathways that maintain genome stability and delay aging."
+        },
+        {
+          "theory_id": "T018591",
+          "subcluster_name": "rDNA Instability and Genome Maintenance Theory",
+          "reasoning": "Focuses on rDNA locus instability, extrachromosomal rDNA circles, and nucleolar regulation as drivers of aging."
+        },
+        {
+          "theory_id": "T017924",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy Theory",
+          "reasoning": "Describes whole chromosome instability (W-CIN), aneuploidy, and their induction of cellular senescence and SASP."
+        },
+        {
+          "theory_id": "T018085",
+          "subcluster_name": "Chromosomal Instability and Aneuploidy Theory",
+          "reasoning": "Focuses on aneuploidy from chromosomal missegregation, its dual role in cancer and aging, and gene-centric theories."
+        },
+        {
+          "theory_id": "T018091",
+          "subcluster_name": "Transcription Factor Decline and Aging Regulation Theory",
+          "reasoning": "Focuses on age-related decline of ELT-2 GATA transcription factor affecting intestinal gene expression and systemic aging."
+        },
+        {
+          "theory_id": "T018215",
+          "subcluster_name": "Protein Damage and Chronic Inflammation Theory",
+          "reasoning": "Describes accumulation of isoDGR-modified ECM proteins causing chronic inflammation and aging via immune activation."
+        },
+        {
+          "theory_id": "T018177",
+          "subcluster_name": "Immune System Decline and B Cell Aging Theory",
+          "reasoning": "Focuses on age-associated decline in B lymphopoiesis, skewing of B cell populations, and impaired humoral immunity."
+        },
+        {
+          "theory_id": "T018159",
+          "subcluster_name": "Genetic Regulation of Aging via Dauer and Stress Resistance",
+          "reasoning": "Describes dauer-related genetic pathways in C. elegans that regulate longevity and stress resistance via insulin/IGF-1 signaling."
+        },
+        {
+          "theory_id": "T017860",
+          "subcluster_name": "ATM Signaling and Oxidative Stress DNA Damage Theory",
+          "reasoning": "Focuses on ATM kinase and cofactor ATMIN in DNA damage response to oxidative stress, preventing neurodegeneration and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:46:45"
+}

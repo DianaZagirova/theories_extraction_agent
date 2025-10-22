@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T000284",
+          "T000266",
+          "T000084",
+          "T000602",
+          "T000306",
+          "T000604",
+          "T000246",
+          "T000541",
+          "T000197",
+          "T000434",
+          "T000595",
+          "T000640",
+          "T000308",
+          "T000218",
+          "T000446"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Declining Force of Natural Selection Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T000490",
+          "T000498",
+          "T000148",
+          "T000161"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Genetic Heterogeneity and Complex Pleiotropy Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T000371",
+          "T000415",
+          "T000301"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Molecular Pathway-Specific Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T000361",
+          "T000671"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000284",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on evolutionary trade-offs between reproduction and somatic maintenance shaping lifespan and aging patterns."
+        },
+        {
+          "theory_id": "T000266",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Classic AP theory emphasizing genes beneficial early in life for reproduction but deleterious later, causing senescence."
+        },
+        {
+          "theory_id": "T000084",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Extends AP theory by incorporating demographic stochasticity affecting trade-offs between juvenile and adult survival."
+        },
+        {
+          "theory_id": "T000602",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses genetic variation and trade-offs between early and late life fitness consistent with AP theory."
+        },
+        {
+          "theory_id": "T000306",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Evolutionary life-history trade-offs in fish involving growth, maturation, and longevity reflecting AP principles."
+        },
+        {
+          "theory_id": "T000604",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "AP theory applied to mammals emphasizing declining selection with age and pleiotropic genes with early benefits."
+        },
+        {
+          "theory_id": "T000246",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "AP theory extended to environmental toxicant responses, focusing on genetic trade-offs affecting aging."
+        },
+        {
+          "theory_id": "T000541",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "AP theory highlighting trade-offs between early reproduction and longevity shaped by natural selection."
+        },
+        {
+          "theory_id": "T000197",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "AP theory emphasizing early-life fitness benefits versus late-life senescence and effects of extrinsic mortality."
+        },
+        {
+          "theory_id": "T000434",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Integrates AP, mutation accumulation, and disposable soma theories focusing on trade-offs between reproduction and maintenance."
+        },
+        {
+          "theory_id": "T000595",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Explains reproductive senescence as a consequence of weakened late-life selection consistent with AP trade-offs."
+        },
+        {
+          "theory_id": "T000640",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses fecundity-longevity trade-offs in eusocial insects within an evolutionary aging framework."
+        },
+        {
+          "theory_id": "T000308",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Life history evolution in guppies showing mortality-driven trade-offs between reproduction timing and longevity."
+        },
+        {
+          "theory_id": "T000490",
+          "subcluster_name": "Declining Force of Natural Selection Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on the decline of natural selection force with age causing accumulation of deleterious late-acting alleles and mortality plateaus."
+        },
+        {
+          "theory_id": "T000498",
+          "subcluster_name": "Declining Force of Natural Selection Antagonistic Pleiotropy Theory",
+          "reasoning": "AP theory applied to APOE alleles showing selection on late-acting alleles with age-dependent effects."
+        },
+        {
+          "theory_id": "T000148",
+          "subcluster_name": "Declining Force of Natural Selection Antagonistic Pleiotropy Theory",
+          "reasoning": "Senescence caused by weakened natural selection at late ages, with age-specific reproductive value as fitness measure."
+        },
+        {
+          "theory_id": "T000161",
+          "subcluster_name": "Declining Force of Natural Selection Antagonistic Pleiotropy Theory",
+          "reasoning": "Essential genes with early benefits but late-life detrimental effects consistent with AP and declining selection force."
+        },
+        {
+          "theory_id": "T000371",
+          "subcluster_name": "Genetic Heterogeneity and Complex Pleiotropy Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on antagonistic genetic heterogeneity and pleiotropy causing complex age-related phenotypes beyond classical AP."
+        },
+        {
+          "theory_id": "T000361",
+          "subcluster_name": "Molecular Pathway-Specific Antagonistic Pleiotropy Theory",
+          "reasoning": "AP theory applied to p53 gene showing tumor suppression early but aging promotion later via cellular senescence."
+        },
+        {
+          "theory_id": "T000257",
+          "subcluster_name": "Mitochondrial Retrograde Signaling Antagonistic Pleiotropy Theory",
+          "reasoning": "AP theory involving HRAS1 and mitochondria-to-nucleus retrograde signaling regulating stress response and longevity."
+        },
+        {
+          "theory_id": "T000562",
+          "subcluster_name": "Stem Cell Niche Size Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Evolutionary trade-off between stem cell niche size, aging via mutation accumulation, and tumorigenesis risk."
+        },
+        {
+          "theory_id": "T000671",
+          "subcluster_name": "Molecular Pathway-Specific Antagonistic Pleiotropy Theory",
+          "reasoning": "AP theory explaining osteoarthritis as a late-life disease caused by early-life beneficial developmental programs."
+        },
+        {
+          "theory_id": "T000415",
+          "subcluster_name": "Genetic Heterogeneity and Complex Pleiotropy Antagonistic Pleiotropy Theory",
+          "reasoning": "AP theory focused on APOE e4 allele showing complex trade-offs in disease risks with age, sex, and population specificity."
+        },
+        {
+          "theory_id": "T000301",
+          "subcluster_name": "Genetic Heterogeneity and Complex Pleiotropy Antagonistic Pleiotropy Theory",
+          "reasoning": "Pleiotropic constraints theory linking cooperation and private traits in cellular groups, relevant to aging and cancer suppression."
+        },
+        {
+          "theory_id": "T000218",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Theory of selection at implantation showing trade-offs between early implantation success and post-implantation longevity."
+        },
+        {
+          "theory_id": "T000446",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Argues aging is non-programmed and results from evolutionary trade-offs favoring early reproduction over longevity."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:44:50"
+}

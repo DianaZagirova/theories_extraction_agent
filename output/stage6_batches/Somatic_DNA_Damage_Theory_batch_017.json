@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 17,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+        "theory_ids": [
+          "T020664",
+          "T021193",
+          "T020872",
+          "T020464",
+          "T021091",
+          "T021259",
+          "T020441",
+          "T020594",
+          "T020921",
+          "T020426",
+          "T020612",
+          "T021056",
+          "T021084",
+          "T021264",
+          "T020960",
+          "T020999",
+          "T020348"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Damage and ROS-Induced Aging Theory",
+        "theory_ids": [
+          "T020761",
+          "T020720"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "DNA Damage-Induced Endocrine and Metabolic Reprogramming Theory",
+        "theory_ids": [
+          "T020520",
+          "T020577"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Stem Cell DNA Damage and Telomere Attrition Theory",
+        "theory_ids": [
+          "T020901",
+          "T020599",
+          "T020401",
+          "T020521",
+          "T019700"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020664",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Focuses on nuclear DNA damage accumulation, defective DNA repair (WRN helicase), and genomic instability driving aging phenotypes."
+        },
+        {
+          "theory_id": "T021193",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Emphasizes DNA damage accumulation and the role of NHEJ pathway in nuclear DNA repair linked to aging."
+        },
+        {
+          "theory_id": "T020872",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Describes accumulation of nuclear DNA damage, decline in repair capacity, and overlap with cancer mechanisms."
+        },
+        {
+          "theory_id": "T020464",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Highlights balance between DNA repair/apoptosis and cell mass, stochastic DNA damage, and genomic instability in nuclear DNA."
+        },
+        {
+          "theory_id": "T021091",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Focuses on multiple nuclear DNA repair sub-processes (BER, HRR, NHEJ) and their role in genomic stability and longevity."
+        },
+        {
+          "theory_id": "T021259",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Centers on oxidative nuclear DNA damage accumulation and base excision repair as protective mechanism."
+        },
+        {
+          "theory_id": "T020441",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Describes DNA damage accumulation and repair decline in stem cells, focusing on nuclear genome instability."
+        },
+        {
+          "theory_id": "T020594",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Links genomic stability via nuclear DNA repair pathways (HR, NHEJ, BER, NER) to aging and longevity."
+        },
+        {
+          "theory_id": "T020921",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Focuses on decline of nuclear DNA mismatch repair efficiency and microsatellite instability contributing to aging."
+        },
+        {
+          "theory_id": "T020426",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Describes early age decline in nuclear DNA repair capacity, especially for double-strand breaks, and p53 pathway involvement."
+        },
+        {
+          "theory_id": "T020612",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Posits accumulation of nuclear DNA damage and genomic instability as fundamental aging drivers linked to species longevity."
+        },
+        {
+          "theory_id": "T021056",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Focuses on somatic mutation accumulation, double-strand break repair (HR, NHEJ), and tissue-specific mutation patterns in nuclear DNA."
+        },
+        {
+          "theory_id": "T021084",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Describes stochastic nuclear DNA damage accumulation, DNA damage response signaling, and genome maintenance in aging."
+        },
+        {
+          "theory_id": "T021264",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Emphasizes DNA damage accumulation, decline in nuclear DNA repair pathways (NER, HR), and progeroid syndromes."
+        },
+        {
+          "theory_id": "T020960",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Focuses on age-related decline in homologous recombination repair of nuclear DNA double-strand breaks."
+        },
+        {
+          "theory_id": "T020999",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Highlights altered gene expression responses to nuclear DNA damage and genome instability in aging and Werner Syndrome."
+        },
+        {
+          "theory_id": "T020348",
+          "subcluster_name": "Nuclear DNA Repair Deficiency and Genomic Instability Theory",
+          "reasoning": "Describes accumulation of nuclear DNA damage, defective repair, and somatic mutation theory linking aging and cancer."
+        },
+        {
+          "theory_id": "T020761",
+          "subcluster_name": "Mitochondrial DNA Damage and ROS-Induced Aging Theory",
+          "reasoning": "Focuses on mitochondrial DNA mutations, mitochondrial dysfunction, ROS generation, and their interplay with nuclear DNA damage."
+        },
+        {
+          "theory_id": "T020720",
+          "subcluster_name": "Mitochondrial DNA Damage and ROS-Induced Aging Theory",
+          "reasoning": "Describes accumulation of mitochondrial DNA single-strand breaks and fragmentation leading to mitochondrial dysfunction and senescence."
+        },
+        {
+          "theory_id": "T020520",
+          "subcluster_name": "DNA Damage-Induced Endocrine and Metabolic Reprogramming Theory",
+          "reasoning": "Focuses on DNA damage causing tissue-specific suppression of thyroid hormone signaling as an adaptive metabolic response in aging."
+        },
+        {
+          "theory_id": "T020577",
+          "subcluster_name": "DNA Damage-Induced Endocrine and Metabolic Reprogramming Theory",
+          "reasoning": "Describes DNA damage-triggered suppression of IGF-1 signaling, linking DNA damage response to endocrine regulation of aging and longevity."
+        },
+        {
+          "theory_id": "T020901",
+          "subcluster_name": "Stem Cell DNA Damage and Telomere Attrition Theory",
+          "reasoning": "Focuses on DNA damage accumulation, telomere shortening, ROS management, and apoptosis/senescence in hematopoietic stem cell aging."
+        },
+        {
+          "theory_id": "T020599",
+          "subcluster_name": "Stem Cell DNA Damage and Telomere Attrition Theory",
+          "reasoning": "Describes DNA damage accumulation in hematopoietic stem cells causing chronic inflammation, altered immune aging, and SASP."
+        },
+        {
+          "theory_id": "T020401",
+          "subcluster_name": "Stem Cell DNA Damage and Telomere Attrition Theory",
+          "reasoning": "Focuses on p53-mediated proliferation arrest of neural stem cells due to DNA damage, leading to brain aging and anxiety."
+        },
+        {
+          "theory_id": "T020521",
+          "subcluster_name": "Stem Cell DNA Damage and Telomere Attrition Theory",
+          "reasoning": "Describes accumulation of molecular damage including DNA damage and telomere shortening, with early life programming affecting aging trajectory."
+        },
+        {
+          "theory_id": "T019700",
+          "subcluster_name": "Stem Cell DNA Damage and Telomere Attrition Theory",
+          "reasoning": "Focuses on asymmetric segregation of damaged components (including mtDNA) during stem cell division to maintain stem cell population longevity."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:51:38"
+}

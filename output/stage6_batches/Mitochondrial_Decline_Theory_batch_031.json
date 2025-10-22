@@ -1,0 +1,205 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 31,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+        "theory_ids": [
+          "T021184",
+          "T020991",
+          "T020794",
+          "T020939",
+          "T021163",
+          "T020854",
+          "T020811",
+          "T020778",
+          "T020724",
+          "T020336"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and Longevity Theory",
+        "theory_ids": [
+          "T020743",
+          "T021161",
+          "T020782",
+          "T021001",
+          "T021101"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial Dynamics and Quality Control Theory",
+        "theory_ids": [
+          "T020951",
+          "T021051",
+          "T020871",
+          "T021090",
+          "T020760",
+          "T020952"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial Biogenesis and Metabolic Regulation Theory",
+        "theory_ids": [
+          "T021192",
+          "T020861"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Calcium Overload and Excitotoxicity Theory",
+        "theory_ids": [
+          "T020998",
+          "T020933",
+          "T020909"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T021184",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+          "reasoning": "Focuses on mtDNA mutations, ROS production, oxidative damage, and impaired oxidative phosphorylation as drivers of aging."
+        },
+        {
+          "theory_id": "T020991",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+          "reasoning": "Emphasizes mtDNA mutations, oxidative phosphorylation decline, and their causal role in aging."
+        },
+        {
+          "theory_id": "T020794",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+          "reasoning": "Describes accumulation of mtDNA mutations causing respiratory chain dysfunction and aging."
+        },
+        {
+          "theory_id": "T020939",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+          "reasoning": "Links mtDNA mutations, increased ROS, and ATP decline to aging phenotypes."
+        },
+        {
+          "theory_id": "T021163",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+          "reasoning": "Focuses on mitochondrial oxidative stress, ROS damage, and mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T020854",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+          "reasoning": "Highlights oxidative damage accumulation, mtDNA deletions, and respiratory chain dysfunction in aging."
+        },
+        {
+          "theory_id": "T020811",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+          "reasoning": "Describes mtDNA mutations, respiratory chain defects, ROS production, and aging causality."
+        },
+        {
+          "theory_id": "T020778",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+          "reasoning": "Focuses on ROS-induced mtDNA damage, respiratory decline, and aging mechanisms."
+        },
+        {
+          "theory_id": "T020724",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+          "reasoning": "Emphasizes mitochondrial oxidative damage, enzyme dysfunction, and antioxidant interventions delaying aging."
+        },
+        {
+          "theory_id": "T020336",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Phosphorylation Decline Theory",
+          "reasoning": "Describes mitochondrial respiratory chain dysfunction, ROS vicious cycle, and permeability transition pore in aging."
+        },
+        {
+          "theory_id": "T020743",
+          "subcluster_name": "Mitochondrial DNA Mutation and Longevity Theory",
+          "reasoning": "Focuses on inherited mtDNA haplogroups, somatic mtDNA mutations, heteroplasmy, and mitochondrial-nuclear cross-talk affecting aging and longevity."
+        },
+        {
+          "theory_id": "T021161",
+          "subcluster_name": "Mitochondrial DNA Mutation and Longevity Theory",
+          "reasoning": "Describes somatic mtDNA mutations driving aging, threshold effects, and systemic mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T020782",
+          "subcluster_name": "Mitochondrial DNA Mutation and Longevity Theory",
+          "reasoning": "Focuses on mtDNA point mutations causing respiratory chain deficiency and premature aging."
+        },
+        {
+          "theory_id": "T021001",
+          "subcluster_name": "Mitochondrial DNA Mutation and Longevity Theory",
+          "reasoning": "Links mtDNA mutation accumulation to mitochondrial dysfunction and aging phenotypes; highlights mitochondrial biogenesis as compensatory."
+        },
+        {
+          "theory_id": "T021101",
+          "subcluster_name": "Mitochondrial DNA Mutation and Longevity Theory",
+          "reasoning": "Focuses on mtDNA copy number decline, integrity loss, and their causal role in vascular aging."
+        },
+        {
+          "theory_id": "T020951",
+          "subcluster_name": "Mitochondrial Dynamics and Quality Control Theory",
+          "reasoning": "Describes coordination of mitochondrial biogenesis and mitophagy maintaining mitochondrial homeostasis and longevity."
+        },
+        {
+          "theory_id": "T021051",
+          "subcluster_name": "Mitochondrial Dynamics and Quality Control Theory",
+          "reasoning": "Focuses on mitochondrial fusion/fission dynamics regulating mitochondrial fitness and aging."
+        },
+        {
+          "theory_id": "T020871",
+          "subcluster_name": "Mitochondrial Dynamics and Quality Control Theory",
+          "reasoning": "Emphasizes mitophagy decline with aging impairing mitochondrial quality control and promoting cellular aging."
+        },
+        {
+          "theory_id": "T021090",
+          "subcluster_name": "Mitochondrial Dynamics and Quality Control Theory",
+          "reasoning": "Describes mitochondrial dysfunction including impaired biogenesis, turnover, and mitophagy contributing to aging."
+        },
+        {
+          "theory_id": "T020760",
+          "subcluster_name": "Mitochondrial Dynamics and Quality Control Theory",
+          "reasoning": "Focuses on mitochondrial quality control failure, dynamics decline, mitophagy impairment, and mtDNA mutation accumulation in brain aging."
+        },
+        {
+          "theory_id": "T020952",
+          "subcluster_name": "Mitochondrial Dynamics and Quality Control Theory",
+          "reasoning": "Highlights mitochondrial chaperone Hsp22 maintaining OXPHOS and mitochondrial homeostasis to extend lifespan."
+        },
+        {
+          "theory_id": "T021192",
+          "subcluster_name": "Mitochondrial Biogenesis and Metabolic Regulation Theory",
+          "reasoning": "Focuses on PGC-1\u03b1 regulation of mitochondrial biogenesis, metabolism, and brain aging via growth signaling pathways."
+        },
+        {
+          "theory_id": "T020861",
+          "subcluster_name": "Mitochondrial Biogenesis and Metabolic Regulation Theory",
+          "reasoning": "Describes mitochondrial-encoded peptide MOTS-c regulating metabolism, physical capacity, and aging via bi-genomic signaling."
+        },
+        {
+          "theory_id": "T020998",
+          "subcluster_name": "Mitochondrial Calcium Overload and Excitotoxicity Theory",
+          "reasoning": "Focuses on mitochondrial calcium overload causing excitotoxic apoptosis in aging neurons and neuroprotection by modulating mitochondrial Ca2+ uptake."
+        },
+        {
+          "theory_id": "T020933",
+          "subcluster_name": "Mitochondrial Calcium Overload and Excitotoxicity Theory",
+          "reasoning": "Describes mitochondrial respiratory chain failure causing energy deficiency and cellular attrition, linked to excitotoxic neuronal loss."
+        },
+        {
+          "theory_id": "T020909",
+          "subcluster_name": "Mitochondrial Calcium Overload and Excitotoxicity Theory",
+          "reasoning": "Emphasizes mitochondrial damage accumulation, ROS production, lysosomal dysfunction, and impaired degradation contributing to aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:51:14"
+}

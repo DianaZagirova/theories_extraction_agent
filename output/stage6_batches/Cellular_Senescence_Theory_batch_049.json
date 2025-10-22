@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 49,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Chromatin Remodeling-Associated Cellular Senescence Theory",
+        "theory_ids": [
+          "T019839",
+          "T024665",
+          "T024673",
+          "T021255",
+          "T021749"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Replicative Senescence and Cell Cycle Arrest Theory",
+        "theory_ids": [
+          "T019891",
+          "T023538",
+          "T021797",
+          "T025112",
+          "T025154"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Epigenetic Regulation of Cellular Senescence Theory",
+        "theory_ids": [
+          "T025674",
+          "T026341",
+          "T025454",
+          "T026382",
+          "T026578"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Autophagy-Mediated Cellular Senescence Regulation Theory",
+        "theory_ids": [
+          "T021656",
+          "T024900"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T026334",
+          "T026199"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Senescent Cell Immune Clearance Impairment Theory",
+        "theory_ids": [
+          "T026146",
+          "T026413",
+          "T026030"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T019839",
+          "subcluster_name": "Chromatin Remodeling-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on SAHF formation and chromatin changes driving senescence and aging."
+        },
+        {
+          "theory_id": "T024665",
+          "subcluster_name": "Chromatin Remodeling-Associated Cellular Senescence Theory",
+          "reasoning": "Describes chromatin fiber density and spacing changes linked to senescence."
+        },
+        {
+          "theory_id": "T024673",
+          "subcluster_name": "Chromatin Remodeling-Associated Cellular Senescence Theory",
+          "reasoning": "Involves MORF4/MRG family genes regulating chromatin remodeling and senescence."
+        },
+        {
+          "theory_id": "T021255",
+          "subcluster_name": "Chromatin Remodeling-Associated Cellular Senescence Theory",
+          "reasoning": "MORF4 and MRG genes modulate chromatin state to induce senescence."
+        },
+        {
+          "theory_id": "T021749",
+          "subcluster_name": "Chromatin Remodeling-Associated Cellular Senescence Theory",
+          "reasoning": "Anti-oncogenes like RB regulate cell cycle arrest via chromatin and epigenetic changes."
+        },
+        {
+          "theory_id": "T019891",
+          "subcluster_name": "Replicative Senescence and Cell Cycle Arrest Theory",
+          "reasoning": "Describes replicative senescence as terminal postmitotic state and its markers."
+        },
+        {
+          "theory_id": "T023538",
+          "subcluster_name": "Replicative Senescence and Cell Cycle Arrest Theory",
+          "reasoning": "Focuses on replicative senescence, generation time changes, and cell cycle dynamics."
+        },
+        {
+          "theory_id": "T021797",
+          "subcluster_name": "Replicative Senescence and Cell Cycle Arrest Theory",
+          "reasoning": "Centers on Hayflick limit and cellular senescence as a biological clock."
+        },
+        {
+          "theory_id": "T025112",
+          "subcluster_name": "Replicative Senescence and Cell Cycle Arrest Theory",
+          "reasoning": "Discusses replicative and stress-induced senescence including neuronal senescence-like states."
+        },
+        {
+          "theory_id": "T025154",
+          "subcluster_name": "Replicative Senescence and Cell Cycle Arrest Theory",
+          "reasoning": "Describes p21WAF1 and pRb phosphorylation regulating senescence versus apoptosis."
+        },
+        {
+          "theory_id": "T025674",
+          "subcluster_name": "Epigenetic Regulation of Cellular Senescence Theory",
+          "reasoning": "miR-194 targets DNMT3A affecting DNA methylation and inducing senescence."
+        },
+        {
+          "theory_id": "T026341",
+          "subcluster_name": "Epigenetic Regulation of Cellular Senescence Theory",
+          "reasoning": "p53 pathway genetic variants modulate stress response and influence aging."
+        },
+        {
+          "theory_id": "T025454",
+          "subcluster_name": "Epigenetic Regulation of Cellular Senescence Theory",
+          "reasoning": "p53 pro-oxidant activity links DNA damage response and neuronal aging."
+        },
+        {
+          "theory_id": "T026382",
+          "subcluster_name": "Epigenetic Regulation of Cellular Senescence Theory",
+          "reasoning": "NF\u03baB dynamics induce epigenetic changes driving inflammatory senescence."
+        },
+        {
+          "theory_id": "T026578",
+          "subcluster_name": "Epigenetic Regulation of Cellular Senescence Theory",
+          "reasoning": "NF-\u03baB signaling mediates systemic aging via senescence and SASP regulation."
+        },
+        {
+          "theory_id": "T021656",
+          "subcluster_name": "Autophagy-Mediated Cellular Senescence Regulation Theory",
+          "reasoning": "Autophagy controls protein quality and SASP production during senescence."
+        },
+        {
+          "theory_id": "T024900",
+          "subcluster_name": "Autophagy-Mediated Cellular Senescence Regulation Theory",
+          "reasoning": "ApoJ upregulation in senescence links stress response, chaperone activity, and aging."
+        },
+        {
+          "theory_id": "T026334",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "Describes feedback loop between oxidative stress and senescent cell phenotype."
+        },
+        {
+          "theory_id": "T026199",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence Theory",
+          "reasoning": "ELN regulates mitochondrial function affecting oxidative stress and senescence."
+        },
+        {
+          "theory_id": "T026053",
+          "subcluster_name": "DNA Damage Repair-Enhanced Cellular Senescence Delay Theory",
+          "reasoning": "cGAS-mediated enhanced homologous recombination repair delays senescence and aging."
+        },
+        {
+          "theory_id": "T026146",
+          "subcluster_name": "Senescent Cell Immune Clearance Impairment Theory",
+          "reasoning": "Loss of Y chromosome impairs immune clearance of senescent cells causing accumulation."
+        },
+        {
+          "theory_id": "T026413",
+          "subcluster_name": "Senescent Cell Immune Clearance Impairment Theory",
+          "reasoning": "Immune surveillance normally clears senescent cells; failure leads to accumulation and disease."
+        },
+        {
+          "theory_id": "T026030",
+          "subcluster_name": "Senescent Cell Immune Clearance Impairment Theory",
+          "reasoning": "Microglial senescence impairs immune function contributing to neurodegeneration."
+        },
+        {
+          "theory_id": "T026281",
+          "subcluster_name": "Sterile Immune Activation and Metabolic Dysfunction in Senescence Theory",
+          "reasoning": "IRF7-driven sterile immune activation impairs metabolism in aging stromal cells."
+        },
+        {
+          "theory_id": "T025980",
+          "subcluster_name": "Nuclear Partitioning and Cellular Immortality-Senescence Theory",
+          "reasoning": "Partitioning of immortality in nuclear components explains senescence and longevity."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 01:28:29"
+}

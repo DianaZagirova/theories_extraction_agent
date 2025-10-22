@@ -1,0 +1,223 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 41,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+        "theory_ids": [
+          "T025442",
+          "T025617",
+          "T025496",
+          "T025584",
+          "T025503",
+          "T025555",
+          "T025129",
+          "T025426",
+          "T025452",
+          "T025501",
+          "T025274"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "p16Ink4a-Mediated Senescence and SASP Regulation Theory",
+        "theory_ids": [
+          "T025621",
+          "T025521",
+          "T025413",
+          "T025633",
+          "T025493",
+          "T025416",
+          "T025468",
+          "T025533"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Immune Evasion and Senescent Cell Persistence Theory",
+        "theory_ids": [
+          "T025590",
+          "T025444",
+          "T025580",
+          "T025446"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Epigenetic Regulation and Chromatin Remodeling Senescence Theory",
+        "theory_ids": [
+          "T025592",
+          "T025491",
+          "T025615",
+          "T025265"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Autophagy Decline and Cellular Senescence Theory",
+        "theory_ids": [
+          "T025630",
+          "T025296"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025442",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "This theory focuses on telomere-associated Rap1 protein deficiency leading to p53 activation and metabolic dysfunction driving cardiac aging, linking telomere dysfunction and p53 signaling."
+        },
+        {
+          "theory_id": "T025617",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "Describes replicative senescence driven by telomere shortening activating p53 and pRb pathways, central to telomere-dependent cellular senescence."
+        },
+        {
+          "theory_id": "T025496",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "Includes replicative senescence due to telomere shortening and stress-induced premature senescence, emphasizing telomere-related mechanisms in musculoskeletal aging."
+        },
+        {
+          "theory_id": "T025584",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "Focuses on replicative senescence as a telomere shortening-driven process limiting cell proliferation, a classic telomere-based aging mechanism."
+        },
+        {
+          "theory_id": "T025503",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "Describes replicative senescence caused by telomere attrition and stress-induced premature senescence activating p53 and p16-Rb pathways."
+        },
+        {
+          "theory_id": "T025555",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "Focuses on replicative senescence of T cells driven by telomere shortening and epigenetic clocks, linking telomere attrition to immunosenescence."
+        },
+        {
+          "theory_id": "T025129",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "Describes replicative senescence driven by telomere shortening as a fundamental aging mechanism linking cellular and organismal aging."
+        },
+        {
+          "theory_id": "T025426",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "Microglial senescence driven by telomere shortening and replicative senescence impairs brain aging, fitting telomere-dependent senescence mechanisms."
+        },
+        {
+          "theory_id": "T025452",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "Describes senescence pathways involving p53-p21-pRb and p16-pRb triggered by telomere attrition and DNA damage, central to telomere-dependent senescence."
+        },
+        {
+          "theory_id": "T025501",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "Classic cellular senescence theory emphasizing replicative limit due to telomere shortening and p53/Rb tumor suppressor pathways."
+        },
+        {
+          "theory_id": "T025274",
+          "subcluster_name": "Telomere-Associated p53-Mediated Senescence Theory",
+          "reasoning": "Epithelial cell senescence involving p16/Rb pathway and partial DNA damage response, linking telomere-independent and dependent senescence mechanisms."
+        },
+        {
+          "theory_id": "T025621",
+          "subcluster_name": "p16Ink4a-Mediated Senescence and SASP Regulation Theory",
+          "reasoning": "Focuses on p16Ink4a as a key regulator and marker of senescence and SASP, modulating tissue degeneration and matrix homeostasis."
+        },
+        {
+          "theory_id": "T025521",
+          "subcluster_name": "p16Ink4a-Mediated Senescence and SASP Regulation Theory",
+          "reasoning": "Describes microRNA-141 regulation of BMI1 leading to p16Ink4a upregulation and senescence induction, highlighting p16Ink4a pathway control."
+        },
+        {
+          "theory_id": "T025413",
+          "subcluster_name": "p16Ink4a-Mediated Senescence and SASP Regulation Theory",
+          "reasoning": "Identifies senescence trajectories with high p16 expression and SASP, emphasizing p16Ink4a's role in senescence heterogeneity and aging."
+        },
+        {
+          "theory_id": "T025633",
+          "subcluster_name": "p16Ink4a-Mediated Senescence and SASP Regulation Theory",
+          "reasoning": "Details transcriptional regulation of replicative senescence with elevated p16 and p21, SASP, and epigenetic changes, highlighting p16Ink4a pathway."
+        },
+        {
+          "theory_id": "T025493",
+          "subcluster_name": "p16Ink4a-Mediated Senescence and SASP Regulation Theory",
+          "reasoning": "Describes cellular senescence as tumor suppressive with SASP driving aging, consistent with p16Ink4a-associated senescence and secretory phenotype."
+        },
+        {
+          "theory_id": "T025416",
+          "subcluster_name": "p16Ink4a-Mediated Senescence and SASP Regulation Theory",
+          "reasoning": "Links senescence and SASP accumulation to age-related hearing loss, consistent with p16Ink4a-driven senescence and inflammatory secretome."
+        },
+        {
+          "theory_id": "T025468",
+          "subcluster_name": "p16Ink4a-Mediated Senescence and SASP Regulation Theory",
+          "reasoning": "Focuses on senescence-associated secretory phenotype and stable proliferative arrest mediated by p16Ink4a and related pathways."
+        },
+        {
+          "theory_id": "T025533",
+          "subcluster_name": "p16Ink4a-Mediated Senescence and SASP Regulation Theory",
+          "reasoning": "Emphasizes JAK/STAT pathway activation in senescent cells regulating SASP, linking inflammatory secretory phenotype with p16Ink4a-mediated senescence."
+        },
+        {
+          "theory_id": "T025590",
+          "subcluster_name": "Immune Evasion and Senescent Cell Persistence Theory",
+          "reasoning": "Describes senescent cells evading immune clearance via HLA-E/NKG2A inhibitory pathway, explaining accumulation through immune evasion mechanisms."
+        },
+        {
+          "theory_id": "T025444",
+          "subcluster_name": "Immune Evasion and Senescent Cell Persistence Theory",
+          "reasoning": "Shows V\u03b42+ T cells resist senescence via enhanced DNA repair and epigenetic profiles, highlighting immune cell intrinsic resistance to senescence."
+        },
+        {
+          "theory_id": "T025580",
+          "subcluster_name": "Immune Evasion and Senescent Cell Persistence Theory",
+          "reasoning": "COPD as accelerated aging driven by senescence accumulation due to environmental stress and impaired immune clearance."
+        },
+        {
+          "theory_id": "T025446",
+          "subcluster_name": "Immune Evasion and Senescent Cell Persistence Theory",
+          "reasoning": "Stem cell senescence and SASP contribute to aging and disease, linking senescent cell accumulation and altered tissue microenvironment."
+        },
+        {
+          "theory_id": "T025592",
+          "subcluster_name": "Epigenetic Regulation and Chromatin Remodeling Senescence Theory",
+          "reasoning": "Focuses on MRG15/MORF4 gene family regulating chromatin remodeling and epigenetic states influencing senescence and aging."
+        },
+        {
+          "theory_id": "T025491",
+          "subcluster_name": "Epigenetic Regulation and Chromatin Remodeling Senescence Theory",
+          "reasoning": "Describes chromatin landscape changes in senescence including heterochromatin foci and nuclear lamina alterations, linking epigenetics to senescence."
+        },
+        {
+          "theory_id": "T025615",
+          "subcluster_name": "Epigenetic Regulation and Chromatin Remodeling Senescence Theory",
+          "reasoning": "Lamin-B loss disrupts nuclear integrity and heterochromatin, triggering systemic inflammation and aging, highlighting chromatin structural regulation."
+        },
+        {
+          "theory_id": "T025265",
+          "subcluster_name": "Epigenetic Regulation and Chromatin Remodeling Senescence Theory",
+          "reasoning": "p53 family regulates mitochondrial metabolism and stem cell maintenance, linking transcriptional and epigenetic control to aging and senescence."
+        },
+        {
+          "theory_id": "T025630",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Theory",
+          "reasoning": "Describes age-related decline in autophagy impairing cellular homeostasis and promoting senescence, especially in liver aging."
+        },
+        {
+          "theory_id": "T025296",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Theory",
+          "reasoning": "REST deficiency impairs neuronal autophagy leading to senescence-like phenotype, linking autophagy dysfunction to neuronal aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:29:46"
+}

@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 32,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+        "theory_ids": [
+          "T021651",
+          "T021578",
+          "T021340",
+          "T021606",
+          "T021313",
+          "T021317",
+          "T021596",
+          "T021644",
+          "T021534",
+          "T021203",
+          "T021278",
+          "T021397",
+          "T021212",
+          "T021393"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS Regulation and Senescence Theory",
+        "theory_ids": [
+          "T021529",
+          "T021525"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitophagy Impairment and Aging Theory",
+        "theory_ids": [
+          "T021711",
+          "T021577",
+          "T021416"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T021651",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Focuses on accumulation of mtDNA mutations causing respiratory defects that increase ROS, creating a feedback loop driving aging."
+        },
+        {
+          "theory_id": "T021578",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Centers on mitochondrial ROS generation causing oxidative damage to mtDNA and proteins, leading to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T021340",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Describes mitochondrial ROS production causing mtDNA damage and mitochondrial morphological changes that accelerate aging."
+        },
+        {
+          "theory_id": "T021606",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Emphasizes accumulation of mtDNA deletions causing respiratory defects and increased ROS, contributing to aging."
+        },
+        {
+          "theory_id": "T021313",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Highlights mitochondrial oxidative stress causing mtDNA mutations and respiratory chain decline, leading to aging."
+        },
+        {
+          "theory_id": "T021317",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Focuses on accumulation and clonal expansion of mtDNA mutations causing respiratory chain deficiency and ROS increase."
+        },
+        {
+          "theory_id": "T021596",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Describes mitochondrial ROS generation causing mtDNA deletions and lipid peroxidation, linking oxidative damage to aging."
+        },
+        {
+          "theory_id": "T021644",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Focuses on oxidative stress-induced mtDNA mutations impairing respiratory chain and increasing ROS, driving aging."
+        },
+        {
+          "theory_id": "T021534",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Posits accumulation of mtDNA mutations causing mitochondrial dysfunction and ROS increase as causal in aging."
+        },
+        {
+          "theory_id": "T021203",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Emphasizes accumulation and segregation of mtDNA mutations impairing bioenergetics and promoting aging."
+        },
+        {
+          "theory_id": "T021278",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Focuses on clonal expansion of early-life mtDNA mutations increasing mutational load and mitochondrial dysfunction with age."
+        },
+        {
+          "theory_id": "T021397",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Links mitochondrial genome instability and loss of mtDNA maintenance enzymes to mtDNA deletions and mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T021212",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Discusses mtDNA mutation accumulation, mito-nuclear interactions, and epigenetics affecting mitochondrial function and aging."
+        },
+        {
+          "theory_id": "T021393",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Vicious Cycle Theory",
+          "reasoning": "Describes mtDNA mutation accumulation impairing NADH/NAD+ redox and mitochondrial energy metabolism causing female reproductive aging."
+        },
+        {
+          "theory_id": "T021529",
+          "subcluster_name": "Mitochondrial ROS Regulation and Senescence Theory",
+          "reasoning": "Focuses on Romo1-mediated mitochondrial ROS production from complex III driving replicative senescence via DNA damage."
+        },
+        {
+          "theory_id": "T021525",
+          "subcluster_name": "Mitochondrial ROS Regulation and Senescence Theory",
+          "reasoning": "Describes mitochondrial ROS production modulated by caspase-2 and complex III dysfunction accelerating mitochondrial oxidative stress and aging."
+        },
+        {
+          "theory_id": "T021237",
+          "subcluster_name": "Mitochondrial Protein Quality Control and Aging Theory",
+          "reasoning": "Focuses on Lon protease regulation of mitochondrial protein quality control and its dysregulation leading to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T021414",
+          "subcluster_name": "Mitochondrial Dynamics and Programmed Cell Death Theory",
+          "reasoning": "Emphasizes mitochondrial fusion/fission balance, fragmentation, and dynamics regulating mitochondrial function, ROS, and apoptosis in aging."
+        },
+        {
+          "theory_id": "T021711",
+          "subcluster_name": "Mitophagy Impairment and Aging Theory",
+          "reasoning": "Focuses on mitophagy as mitochondrial quality control, with AMBRA1 regulation impairment causing accumulation of damaged mitochondria and aging."
+        },
+        {
+          "theory_id": "T021577",
+          "subcluster_name": "Mitophagy Impairment and Aging Theory",
+          "reasoning": "Describes interplay between DNA damage and mitophagy decline leading to accumulation of dysfunctional mitochondria and aging phenotypes."
+        },
+        {
+          "theory_id": "T021416",
+          "subcluster_name": "Mitophagy Impairment and Aging Theory",
+          "reasoning": "Highlights mitochondrial quality control mechanisms including mitophagy and mitochondrial-derived vesicles as central to brain aging."
+        },
+        {
+          "theory_id": "T021679",
+          "subcluster_name": "Coenzyme Q Biosynthesis Deficiency and Aging Theory",
+          "reasoning": "Focuses on clk-1 mutation impairing endogenous coenzyme Q biosynthesis, altering mitochondrial respiration and redox balance affecting aging."
+        },
+        {
+          "theory_id": "T021461",
+          "subcluster_name": "Mitochondrial DNA Control Region Remodeling and Healthy Aging Theory",
+          "reasoning": "Proposes somatic mtDNA control region mutations remodel replication origins, maintaining mitochondrial function and promoting healthy aging."
+        },
+        {
+          "theory_id": "T021445",
+          "subcluster_name": "Mitochondrial Dysfunction and Systemic Aging Phenotypes Theory",
+          "reasoning": "Describes accumulation of mtDNA mutations causing respiratory chain decline, apoptosis, and systemic aging phenotypes."
+        },
+        {
+          "theory_id": "T021356",
+          "subcluster_name": "Mitochondrial Oxidative Damage Accumulation and Aging Theory",
+          "reasoning": "Focuses on oxidative damage accumulation to mitochondrial DNA, proteins, and lipids impairing mitochondrial function and cellular homeostasis with age."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:51:38"
+}

@@ -1,0 +1,216 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 13,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T008698",
+          "T008786",
+          "T008319",
+          "T008526",
+          "T008348",
+          "T008740",
+          "T008668",
+          "T008369",
+          "T009068",
+          "T008982",
+          "T008762",
+          "T008102"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "DNA Damage Response and Cell Cycle Arrest-Mediated Cellular Senescence Theory",
+        "theory_ids": [
+          "T008788",
+          "T008522",
+          "T008129"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Paracrine Senescence Theory",
+        "theory_ids": [
+          "T008198",
+          "T008789",
+          "T008610",
+          "T008741",
+          "T009056",
+          "T008193",
+          "T008912"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Inflammaging-Associated Cellular Senescence Theory",
+        "theory_ids": [
+          "T008528",
+          "T008458"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitogen Recognition Decline and Cell Cycle Transit Hindrance Cellular Senescence Theory",
+        "theory_ids": [
+          "T008828",
+          "T008190",
+          "T008482"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T008698",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative senescence caused by limited cell divisions and altered transcription factors, linked to telomere-related growth arrest."
+        },
+        {
+          "theory_id": "T008786",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening as a biological clock triggering replicative senescence and cell cycle arrest."
+        },
+        {
+          "theory_id": "T008319",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Highlights p16INK4a accumulation as a key mediator of replicative senescence linked to cell division limits."
+        },
+        {
+          "theory_id": "T008526",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Describes finite replicative lifespan controlled by telomere shortening and gene expression changes enforcing senescence."
+        },
+        {
+          "theory_id": "T008348",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere shortening as a molecular clock limiting cell divisions and triggering senescence as an anticancer mechanism."
+        },
+        {
+          "theory_id": "T008740",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Details telomere erosion in chondrocytes causing replicative senescence and tissue aging."
+        },
+        {
+          "theory_id": "T008668",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Telomere attrition as a hallmark and biomarker of aging linked to cellular senescence and mortality."
+        },
+        {
+          "theory_id": "T008369",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Describes replicative senescence as a mitotic clock driven by telomere shortening and tumor suppressor pathways."
+        },
+        {
+          "theory_id": "T009068",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Explores telomere dysfunction and p21 in aging and cancer, linking replicative senescence to tumor suppression and aging."
+        },
+        {
+          "theory_id": "T008982",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on finite replicative capacity and accumulation of senescent cells due to telomere shortening."
+        },
+        {
+          "theory_id": "T008762",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Combines replicative senescence from telomere shortening with stress-induced premature senescence and SASP in organ aging."
+        },
+        {
+          "theory_id": "T008102",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Describes replicative senescence limiting cell division and tissue renewal, with SASP contributing to aging."
+        },
+        {
+          "theory_id": "T008788",
+          "subcluster_name": "DNA Damage Response and Cell Cycle Arrest-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on irreversible cell cycle arrest induced by persistent DNA damage and CDK inhibitors p16 and p21 enforcing senescence."
+        },
+        {
+          "theory_id": "T008522",
+          "subcluster_name": "DNA Damage Response and Cell Cycle Arrest-Mediated Cellular Senescence Theory",
+          "reasoning": "Describes senescence triggered by oncogenic signals, DNA damage, oxidative stress, and telomere dysfunction acting as tumor suppression."
+        },
+        {
+          "theory_id": "T008129",
+          "subcluster_name": "DNA Damage Response and Cell Cycle Arrest-Mediated Cellular Senescence Theory",
+          "reasoning": "p53 activation by DNA damage and telomere shortening induces senescence and apoptosis, balancing tumor suppression and aging."
+        },
+        {
+          "theory_id": "T008198",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Paracrine Senescence Theory",
+          "reasoning": "Emphasizes SASP secretion by senescent cells and its dual role in inflammation, tissue repair, and aging."
+        },
+        {
+          "theory_id": "T008789",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Paracrine Senescence Theory",
+          "reasoning": "Focuses on SASP factors secreted by senescent cells inducing paracrine and autocrine senescence and chronic inflammation."
+        },
+        {
+          "theory_id": "T008610",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Paracrine Senescence Theory",
+          "reasoning": "Describes senescence-messaging secretome (SMS) factors triggering premature senescence in neighboring cells via paracrine signaling."
+        },
+        {
+          "theory_id": "T008741",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Paracrine Senescence Theory",
+          "reasoning": "Details SASP-driven chronic inflammation, apoptosis resistance, and antagonistic pleiotropy of senescence in aging."
+        },
+        {
+          "theory_id": "T009056",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Paracrine Senescence Theory",
+          "reasoning": "Links SASP secretion by senescent cells to prostate disease progression and tissue microenvironment remodeling."
+        },
+        {
+          "theory_id": "T008193",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Paracrine Senescence Theory",
+          "reasoning": "Describes accumulation of senescent cells and SASP-driven chronic inflammation contributing to autoimmune disease via immune imbalance."
+        },
+        {
+          "theory_id": "T008528",
+          "subcluster_name": "Mitochondrial Dysfunction and Inflammaging-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction in immune cells causing premature senescence, SASP-like inflammation, and inflammaging."
+        },
+        {
+          "theory_id": "T008458",
+          "subcluster_name": "Mitochondrial Dysfunction and Inflammaging-Associated Cellular Senescence Theory",
+          "reasoning": "Links genomic instability-induced senescence in vascular cells with PDE1 dysregulation and vascular aging."
+        },
+        {
+          "theory_id": "T008828",
+          "subcluster_name": "Mitogen Recognition Decline and Cell Cycle Transit Hindrance Cellular Senescence Theory",
+          "reasoning": "Proposes aging results from progressive decline in mitogen recognition and response, causing senescence distinct from quiescence."
+        },
+        {
+          "theory_id": "T008190",
+          "subcluster_name": "Mitogen Recognition Decline and Cell Cycle Transit Hindrance Cellular Senescence Theory",
+          "reasoning": "Describes progressive hindrance of cell cycle transit and heterogeneous proliferative states leading to senescence."
+        },
+        {
+          "theory_id": "T008482",
+          "subcluster_name": "Mitogen Recognition Decline and Cell Cycle Transit Hindrance Cellular Senescence Theory",
+          "reasoning": "Highlights intrinsic cellular clocks and loss of mitogen responsiveness causing replicative senescence and aging."
+        },
+        {
+          "theory_id": "T008912",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Paracrine Senescence Theory",
+          "reasoning": "Focuses on antagonistic pleiotropy of senescence and SASP secretion including VEGF promoting tumor progression and aging."
+        },
+        {
+          "theory_id": "T007840",
+          "subcluster_name": "Nucleolus-Centered Cellular Senescence and Aging Theory",
+          "reasoning": "Emphasizes nucleolus and rDNA locus as key regulators of cellular senescence and aging via nucleolar integrity and Sir proteins."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:07:35"
+}

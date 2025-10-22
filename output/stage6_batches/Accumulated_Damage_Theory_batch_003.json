@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Accumulated Damage Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Damage and Oxidative Mutation Accumulation Theory",
+        "theory_ids": [
+          "T020744",
+          "T022624",
+          "T020855",
+          "T021111",
+          "T019688",
+          "T021023",
+          "T021035",
+          "T016330",
+          "T019034"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+        "theory_ids": [
+          "T022399",
+          "T019992",
+          "T020013"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Entropic Physicochemical Damage Accumulation Theory",
+        "theory_ids": [
+          "T022516",
+          "T022586",
+          "T018878",
+          "T018797",
+          "T022153",
+          "T021094",
+          "T020889",
+          "T020180",
+          "T019120"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Protein Oxidation and Glycation Damage Accumulation Theory",
+        "theory_ids": [
+          "T022319",
+          "T021949",
+          "T020020",
+          "T021132",
+          "T019710"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020744",
+          "subcluster_name": "DNA Damage and Oxidative Mutation Accumulation Theory",
+          "reasoning": "Focuses on oxidative damage causing DNA mutations and decline in DNA repair leading to mutation accumulation driving aging."
+        },
+        {
+          "theory_id": "T022624",
+          "subcluster_name": "DNA Damage and Oxidative Mutation Accumulation Theory",
+          "reasoning": "Emphasizes genomic DNA damage, mitochondrial DNA mutations, ROS, and decline in repair mechanisms impacting stem cells."
+        },
+        {
+          "theory_id": "T020855",
+          "subcluster_name": "DNA Damage and Oxidative Mutation Accumulation Theory",
+          "reasoning": "Highlights genomic instability, oxidative DNA damage, and loss of proteostasis as central to aging."
+        },
+        {
+          "theory_id": "T021111",
+          "subcluster_name": "DNA Damage and Oxidative Mutation Accumulation Theory",
+          "reasoning": "Describes ROS-induced damage to DNA, proteins, and telomeres and the role of repair systems in aging."
+        },
+        {
+          "theory_id": "T019688",
+          "subcluster_name": "DNA Damage and Oxidative Mutation Accumulation Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing molecular damage and mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T021023",
+          "subcluster_name": "DNA Damage and Oxidative Mutation Accumulation Theory",
+          "reasoning": "Describes molecular damage from endogenous and exogenous sources including genotoxic and organellar damage with repair mechanisms modulating aging."
+        },
+        {
+          "theory_id": "T021035",
+          "subcluster_name": "DNA Damage and Oxidative Mutation Accumulation Theory",
+          "reasoning": "Links DNA damage, oxidative stress, inflammation, and mitochondrial dysfunction as drivers of aging."
+        },
+        {
+          "theory_id": "T016330",
+          "subcluster_name": "DNA Damage and Oxidative Mutation Accumulation Theory",
+          "reasoning": "Focuses on DNA damage accumulation, genome instability, and DNA repair deficiency as primary aging causes."
+        },
+        {
+          "theory_id": "T019034",
+          "subcluster_name": "DNA Damage and Oxidative Mutation Accumulation Theory",
+          "reasoning": "Describes endogenous and exogenous damage including ROS causing DNA mutations and genome instability driving aging."
+        },
+        {
+          "theory_id": "T022399",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Specifically focuses on accumulation of mitochondrial DNA mutations and defective mtDNA polymerase proofreading causing premature aging."
+        },
+        {
+          "theory_id": "T019992",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Emphasizes mtDNA mutation accumulation, mitochondrial respiratory chain decline, and mitochondrial dysfunction causing aging."
+        },
+        {
+          "theory_id": "T020013",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing oxidative damage limiting lifespan, mitochondrial defects driving replicative aging."
+        },
+        {
+          "theory_id": "T022516",
+          "subcluster_name": "Entropic Physicochemical Damage Accumulation Theory",
+          "reasoning": "Centers on stochastic entropic forces causing molecular damage, cellular heterogeneity, and decline of repair mechanisms due to physicochemical damage."
+        },
+        {
+          "theory_id": "T022586",
+          "subcluster_name": "Entropic Physicochemical Damage Accumulation Theory",
+          "reasoning": "Describes random accumulation of damage from environmental and genetic factors with systemic regulatory decline."
+        },
+        {
+          "theory_id": "T018878",
+          "subcluster_name": "Entropic Physicochemical Damage Accumulation Theory",
+          "reasoning": "Posits progressive molecular and cellular damage accumulation as central dogma of aging."
+        },
+        {
+          "theory_id": "T018797",
+          "subcluster_name": "Entropic Physicochemical Damage Accumulation Theory",
+          "reasoning": "Describes stochastic molecular damage accumulation and progressive failure of maintenance and repair mechanisms."
+        },
+        {
+          "theory_id": "T022153",
+          "subcluster_name": "Entropic Physicochemical Damage Accumulation Theory",
+          "reasoning": "Focuses on accumulation of cellular and molecular damage, failure of homeostasis, and genome destabilization."
+        },
+        {
+          "theory_id": "T021094",
+          "subcluster_name": "Entropic Physicochemical Damage Accumulation Theory",
+          "reasoning": "Describes cumulative molecular damage from metabolic activity and heterogeneous damage forms driving aging phenotypes."
+        },
+        {
+          "theory_id": "T020889",
+          "subcluster_name": "Entropic Physicochemical Damage Accumulation Theory",
+          "reasoning": "Focuses on stochastic biomolecular damage accumulation and decline in cellular stress response pathways including autophagy and proteasome."
+        },
+        {
+          "theory_id": "T020180",
+          "subcluster_name": "Entropic Physicochemical Damage Accumulation Theory",
+          "reasoning": "Highlights early-life accumulation of oxidative protein damage and correlation of stress resistance with lifespan."
+        },
+        {
+          "theory_id": "T019120",
+          "subcluster_name": "Entropic Physicochemical Damage Accumulation Theory",
+          "reasoning": "Describes progressive accumulation of oxidized, aggregated, and misfolded proteins with decline in repair and maintenance mechanisms."
+        },
+        {
+          "theory_id": "T022319",
+          "subcluster_name": "Protein Oxidation and Glycation Damage Accumulation Theory",
+          "reasoning": "Focuses specifically on protein oxidative damage, glycation, AGE accumulation, proteolytic system decline, and protein aggregation driving aging."
+        },
+        {
+          "theory_id": "T021949",
+          "subcluster_name": "Protein Oxidation and Glycation Damage Accumulation Theory",
+          "reasoning": "Centers on accumulation of lipofuscin, a marker of damaged proteins and cellular waste, linked to oxidative stress and impaired degradation."
+        },
+        {
+          "theory_id": "T020020",
+          "subcluster_name": "Protein Oxidation and Glycation Damage Accumulation Theory",
+          "reasoning": "Describes accumulation of biological waste including damaged proteins and organelles due to imperfect autophagy and lysosomal degradation."
+        },
+        {
+          "theory_id": "T021132",
+          "subcluster_name": "Protein Oxidation and Glycation Damage Accumulation Theory",
+          "reasoning": "Describes cigarette smoke accelerating aging by exhausting repair mechanisms and causing accumulation of molecular damage including protein malfunction."
+        },
+        {
+          "theory_id": "T019710",
+          "subcluster_name": "Protein Oxidation and Glycation Damage Accumulation Theory",
+          "reasoning": "Focuses on accumulated damage and wear-and-tear in muscle proteins, autophagy dysregulation, and stress resistance affecting muscle aging."
+        },
+        {
+          "theory_id": "T019366",
+          "subcluster_name": "Integrated Hallmarks and Nutrient-Sensing Modulation Theory",
+          "reasoning": "Integrates conserved hallmarks of aging including DNA damage and metabolic dysregulation with nutrient-sensing pathways modulating aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:35:17"
+}

@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 5,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+        "theory_ids": [
+          "T003389",
+          "T003206",
+          "T003368",
+          "T003820",
+          "T003493",
+          "T003573",
+          "T003781",
+          "T003507",
+          "T003803",
+          "T003546",
+          "T003280",
+          "T003702"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "p53 Isoform Regulation of Cellular Senescence Theory",
+        "theory_ids": [
+          "T003405",
+          "T003348",
+          "T003252",
+          "T003230",
+          "T003211",
+          "T003575"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Telomere-Associated Replicative Senescence Theory",
+        "theory_ids": [
+          "T003629",
+          "T003318",
+          "T003485",
+          "T003302"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Autophagy Decline and Cellular Senescence Prevention Theory",
+        "theory_ids": [
+          "T003671",
+          "T003255",
+          "T003766",
+          "T003223"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T003389",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Focuses on senescent cell accumulation, SASP secretion, and systemic aging effects including inflammation and multimorbidity."
+        },
+        {
+          "theory_id": "T003206",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Describes senescent cell accumulation, SASP-driven chronic inflammation, and causal role in organismal aging and diseases."
+        },
+        {
+          "theory_id": "T003368",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Emphasizes SASP-driven chronic inflammation and tissue dysfunction caused by senescent cells accumulating with age."
+        },
+        {
+          "theory_id": "T003820",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Focuses on senescent cell accumulation, SASP secretion, and their causal role in cardiovascular aging and systemic aging."
+        },
+        {
+          "theory_id": "T003493",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Links cellular senescence gene expression changes and senescent cell accumulation to chronic lung diseases and systemic aging."
+        },
+        {
+          "theory_id": "T003573",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Describes radiation-induced endothelial senescence, SASP-driven neurovascular inflammation, and cerebromicrovascular aging."
+        },
+        {
+          "theory_id": "T003781",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Discusses heterogeneity of senescent cells, immune senescence, stem cell senescence, and systemic aging effects."
+        },
+        {
+          "theory_id": "T003507",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Proposes senescence as a longevity assurance mechanism linked to DNA damage response and tissue integrity maintenance."
+        },
+        {
+          "theory_id": "T003803",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Models cellular senescence as homeostasis imbalance with SASP as a key driver of chronic inflammation and aging pathology."
+        },
+        {
+          "theory_id": "T003546",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Describes dual role of senescence in cancer and aging, emphasizing SASP effects on tumor microenvironment and aging."
+        },
+        {
+          "theory_id": "T003280",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Focuses on senescence as tumor suppression and SASP-mediated paracrine effects influencing cancer and aging."
+        },
+        {
+          "theory_id": "T003702",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Systemic Aging Theory",
+          "reasoning": "Covers replicative and stress-induced senescence, tumor suppression, and SASP-driven tumor promotion and aging."
+        },
+        {
+          "theory_id": "T003405",
+          "subcluster_name": "p53 Isoform Regulation of Cellular Senescence Theory",
+          "reasoning": "Focuses on regulation of senescence by p53 isoforms in T cells, linking molecular isoform switching to immunosenescence."
+        },
+        {
+          "theory_id": "T003348",
+          "subcluster_name": "p53 Isoform Regulation of Cellular Senescence Theory",
+          "reasoning": "Describes ATM/p53 pathway activation by oncogene-induced DNA damage leading to senescence as tumor suppression."
+        },
+        {
+          "theory_id": "T003252",
+          "subcluster_name": "p53 Isoform Regulation of Cellular Senescence Theory",
+          "reasoning": "Integrates stress signals via p53 and Rb pathways to induce senescence as a general cellular stress response."
+        },
+        {
+          "theory_id": "T003230",
+          "subcluster_name": "p53 Isoform Regulation of Cellular Senescence Theory",
+          "reasoning": "Links nuclear envelope abnormalities and p16/p21 cell cycle dysregulation to premature senescence in progeroid myotonic dystrophy."
+        },
+        {
+          "theory_id": "T003211",
+          "subcluster_name": "p53 Isoform Regulation of Cellular Senescence Theory",
+          "reasoning": "Describes microglia senescence driven by intrinsic and extrinsic factors, impairing neuroprotection and promoting neurodegeneration."
+        },
+        {
+          "theory_id": "T003575",
+          "subcluster_name": "p53 Isoform Regulation of Cellular Senescence Theory",
+          "reasoning": "Details DICER1 regulation of microRNA biogenesis affecting senescence pathways, involving AMPK and p53-related stress responses."
+        },
+        {
+          "theory_id": "T003629",
+          "subcluster_name": "Telomere-Associated Replicative Senescence Theory",
+          "reasoning": "Focuses on telomere shortening as a biological clock limiting replicative capacity and driving replicative senescence."
+        },
+        {
+          "theory_id": "T003318",
+          "subcluster_name": "Telomere-Associated Replicative Senescence Theory",
+          "reasoning": "Proposes evolutionary tradeoff in telomere length balancing cancer risk and degenerative disease risk."
+        },
+        {
+          "theory_id": "T003485",
+          "subcluster_name": "Telomere-Associated Replicative Senescence Theory",
+          "reasoning": "Links hematopoietic stem cell replicative limits and telomere attrition to intrinsic aging and lifespan scaling."
+        },
+        {
+          "theory_id": "T003302",
+          "subcluster_name": "Telomere-Associated Replicative Senescence Theory",
+          "reasoning": "Describes telomere shortening and oxidative stress driving senescence in bone cells, impairing bone regeneration."
+        },
+        {
+          "theory_id": "T003671",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Prevention Theory",
+          "reasoning": "Describes age-related autophagy decline causing accumulation of damaged components and promoting cellular senescence."
+        },
+        {
+          "theory_id": "T003255",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Prevention Theory",
+          "reasoning": "Focuses on autophagy as cellular housekeeping whose decline accelerates aging and senescence."
+        },
+        {
+          "theory_id": "T003766",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Prevention Theory",
+          "reasoning": "Details lysosomal dysfunction and hormonal regulation impairing autophagy, contributing to aging and senescence."
+        },
+        {
+          "theory_id": "T003223",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Prevention Theory",
+          "reasoning": "Genetic evidence links autophagy decline causally to aging phenotypes and reduced lifespan."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:01:58"
+}

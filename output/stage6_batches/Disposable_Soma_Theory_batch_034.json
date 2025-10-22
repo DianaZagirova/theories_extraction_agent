@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 34,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+        "theory_ids": [
+          "T023351",
+          "T023466",
+          "T023335",
+          "T023100",
+          "T023440",
+          "T022984",
+          "T023540",
+          "T023897",
+          "T023054",
+          "T024167"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+        "theory_ids": [
+          "T023413",
+          "T023766",
+          "T024064",
+          "T023379",
+          "T023259",
+          "T023671",
+          "T024131",
+          "T023380"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Nutrient Sensing and mTOR Disposable Soma Theory",
+        "theory_ids": [
+          "T022866",
+          "T023274",
+          "T022848",
+          "T024006"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Resource Modulation and Brain Aging Theory",
+        "theory_ids": [
+          "T023846",
+          "T023191"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T023351",
+          "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation trade-offs between reproduction and somatic maintenance affecting lifespan, a core disposable soma mechanism emphasizing life history and reproduction costs."
+        },
+        {
+          "theory_id": "T023466",
+          "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+          "reasoning": "Describes accelerated aging due to reproductive effort and social status, highlighting trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T023335",
+          "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+          "reasoning": "Explores dietary protein's role in modulating reproduction and longevity trade-offs, fitting the resource allocation theme of disposable soma."
+        },
+        {
+          "theory_id": "T023100",
+          "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+          "reasoning": "Protein restriction reallocates resources from reproduction to somatic maintenance, directly linking reproduction-longevity trade-offs to disposable soma."
+        },
+        {
+          "theory_id": "T023440",
+          "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+          "reasoning": "Shows how mating costs mediated by ecdysone receptor signaling affect resource allocation between reproduction and maintenance."
+        },
+        {
+          "theory_id": "T022984",
+          "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+          "reasoning": "Details reproductive overload causing premature death due to resource allocation imbalance, a disposable soma concept focused on reproduction-maintenance trade-offs."
+        },
+        {
+          "theory_id": "T023540",
+          "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+          "reasoning": "Emphasizes evolutionary optimization of energy allocation between reproduction and somatic maintenance, core to disposable soma theory."
+        },
+        {
+          "theory_id": "T023897",
+          "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+          "reasoning": "Classic disposable soma theory highlighting energy allocation trade-offs between reproduction and somatic maintenance leading to aging."
+        },
+        {
+          "theory_id": "T023054",
+          "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+          "reasoning": "Focuses on energetic trade-offs between maintenance and reproduction, explaining aging as accumulation of damage due to limited maintenance."
+        },
+        {
+          "theory_id": "T024167",
+          "subcluster_name": "Reproduction-Longevity Trade-off Disposable Soma Theory",
+          "reasoning": "Describes resource allocation favoring germline over soma, with somatic maintenance limited, consistent with disposable soma trade-offs."
+        },
+        {
+          "theory_id": "T023413",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Focuses on IIS/IGF-1 pathway regulating lifespan via growth, reproduction, and oxidative stress, a molecular mechanism modulating disposable soma trade-offs."
+        },
+        {
+          "theory_id": "T023766",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Details IIS pathway and DAF-16/FOXO regulation of stem cell niche aging, highlighting IIS as a conserved longevity regulator."
+        },
+        {
+          "theory_id": "T024064",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Describes IIS pathway genes modulating metabolism and longevity via DAF-16/FOXO, fitting IIS-centered disposable soma mechanisms."
+        },
+        {
+          "theory_id": "T023379",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Explains insulin-like peptide binding protein complexes modulating IIS signaling and growth, metabolism, and longevity."
+        },
+        {
+          "theory_id": "T023259",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Reduced IIS signaling extends lifespan via somatotropic axis suppression and metabolic improvements, a key disposable soma molecular pathway."
+        },
+        {
+          "theory_id": "T023671",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Neuronal IGF1R suppression promotes neuroprotection and delays aging, linking IIS signaling to aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T024131",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Integrates IIS and mTOR pathways as regulators of aging and longevity, emphasizing nutrient signaling in disposable soma."
+        },
+        {
+          "theory_id": "T023380",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Shows evolutionary adaptations in IIS genes linked to longevity and cancer resistance, highlighting IIS pathway's role in disposable soma."
+        },
+        {
+          "theory_id": "T022866",
+          "subcluster_name": "Nutrient Sensing and mTOR Disposable Soma Theory",
+          "reasoning": "Focuses on amino acid sensing and mTORC1 signaling as nutrient sensors regulating aging and cellular homeostasis."
+        },
+        {
+          "theory_id": "T023274",
+          "subcluster_name": "Nutrient Sensing and mTOR Disposable Soma Theory",
+          "reasoning": "Calorie restriction modulates signaling pathways including mTOR and FOXO, linking nutrient sensing to aging regulation."
+        },
+        {
+          "theory_id": "T022848",
+          "subcluster_name": "Nutrient Sensing and mTOR Disposable Soma Theory",
+          "reasoning": "Caloric restriction theory emphasizing metabolic rate reduction and improved maintenance via nutrient sensing pathways."
+        },
+        {
+          "theory_id": "T024006",
+          "subcluster_name": "Nutrient Sensing and mTOR Disposable Soma Theory",
+          "reasoning": "Caloric restriction reduces oxidative stress and maintains cellular function, implicating nutrient sensing in disposable soma aging."
+        },
+        {
+          "theory_id": "T023846",
+          "subcluster_name": "Resource Modulation and Brain Aging Theory",
+          "reasoning": "Proposes age-related decline in neural resources magnifies genetic effects on cognition, focusing on brain resource constraints."
+        },
+        {
+          "theory_id": "T023191",
+          "subcluster_name": "Resource Modulation and Brain Aging Theory",
+          "reasoning": "Details nonlinear relationship between brain resources and cognition, with genetic effects amplified by aging-related resource loss."
+        },
+        {
+          "theory_id": "T023577",
+          "subcluster_name": "Reproductive Senescence and Cellular Maintenance Theory",
+          "reasoning": "Focuses on molecular mechanisms of reproductive aging including genome instability, mitochondrial dysfunction, and proteostasis loss."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:13:34"
+}

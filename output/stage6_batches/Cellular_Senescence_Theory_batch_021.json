@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 21,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+        "theory_ids": [
+          "T018096",
+          "T018216",
+          "T018013",
+          "T017888",
+          "T018058",
+          "T018110",
+          "T017876",
+          "T018051",
+          "T018032",
+          "T018112",
+          "T018068",
+          "T017951",
+          "T018143",
+          "T017957"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "DNA Damage and Telomere Dysfunction-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T018173",
+          "T017904",
+          "T017878",
+          "T018149",
+          "T018039"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Immune Cell Senescence and Immunosenescence Theory",
+        "theory_ids": [
+          "T018009",
+          "T017858",
+          "T017931"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018096",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Focuses on permanent proliferative arrest and SASP driving chronic inflammation and tissue dysfunction, a core theme shared with many theories emphasizing SASP's role in aging."
+        },
+        {
+          "theory_id": "T018216",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Describes senescence induced by DNA damage and radiation, highlighting SASP-driven tissue dysfunction and chronic inflammation."
+        },
+        {
+          "theory_id": "T018013",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Emphasizes SASP's role in lung fibrosis and chronic inflammation, illustrating antagonistic pleiotropy of senescence."
+        },
+        {
+          "theory_id": "T017888",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Details dual roles of senescence and SASP in tumor suppression, wound healing, and chronic inflammation driving aging."
+        },
+        {
+          "theory_id": "T018058",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Links NF-\u03baB regulation of SASP to inflammaging and mitochondrial ROS-induced telomere dysfunction."
+        },
+        {
+          "theory_id": "T018110",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Focuses on kidney senescence with SASP driving inflammation, fibrosis, and age-related organ dysfunction."
+        },
+        {
+          "theory_id": "T017876",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Describes senescent cells\u2019 dual roles and SASP-driven chronic inflammation contributing to aging and diseases."
+        },
+        {
+          "theory_id": "T018051",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Highlights senescence induced by multiple stressors and SASP\u2019s role in systemic aging and age-related diseases."
+        },
+        {
+          "theory_id": "T018032",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Focuses on molecular pathways of senescence, SASP secretion, and tumor suppression-aging trade-offs."
+        },
+        {
+          "theory_id": "T018112",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Describes musculoskeletal aging driven by senescent cells and SASP, and therapeutic modulation by exercise and senolytics."
+        },
+        {
+          "theory_id": "T018068",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Links senescence and SASP to metabolic diseases like diabetes and osteoporosis, emphasizing chronic sterile inflammation."
+        },
+        {
+          "theory_id": "T017951",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Focuses on senescent cells in bone aging, SASP-driven inflammation, and senolytic therapies for skeletal pathologies."
+        },
+        {
+          "theory_id": "T018143",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Details cardiovascular aging driven by senescent cells and SASP, with senolytics as therapeutic agents."
+        },
+        {
+          "theory_id": "T017957",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Chronic Inflammation Theory",
+          "reasoning": "Emphasizes senescent cell accumulation, SASP secretion, and experimental clearance supporting causal role in aging."
+        },
+        {
+          "theory_id": "T018173",
+          "subcluster_name": "DNA Damage and Telomere Dysfunction-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on DNA damage response, telomere dysfunction, oxidative stress, and epigenetic regulation as triggers and modulators of senescence."
+        },
+        {
+          "theory_id": "T017904",
+          "subcluster_name": "DNA Damage and Telomere Dysfunction-Driven Cellular Senescence Theory",
+          "reasoning": "Highlights oxidative stress-induced DNA damage, telomere shortening, and defective inflammation resolution in lung aging and COPD."
+        },
+        {
+          "theory_id": "T017878",
+          "subcluster_name": "DNA Damage and Telomere Dysfunction-Driven Cellular Senescence Theory",
+          "reasoning": "Describes in vivo senescence with p16INK4a marker accumulation independent of telomere shortening, emphasizing DNA damage and stress."
+        },
+        {
+          "theory_id": "T018149",
+          "subcluster_name": "DNA Damage and Telomere Dysfunction-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on senescence induction by stress, tumor suppressor regulation (p53, Rb), and stem cell function limitation."
+        },
+        {
+          "theory_id": "T018039",
+          "subcluster_name": "DNA Damage and Telomere Dysfunction-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescence as a programmed state with metabolic and epigenomic remodeling driven by DNA damage and telomere attrition."
+        },
+        {
+          "theory_id": "T018009",
+          "subcluster_name": "Immune Cell Senescence and Immunosenescence Theory",
+          "reasoning": "Focuses on accumulation of senescent immune and stromal cells in secondary lymphoid organs, immune dysfunction, and microbiota influence."
+        },
+        {
+          "theory_id": "T017858",
+          "subcluster_name": "Immune Cell Senescence and Immunosenescence Theory",
+          "reasoning": "Describes loss of immune cell identity, increased heterogeneity, and inflammatory signaling contributing to immunosenescence."
+        },
+        {
+          "theory_id": "T017931",
+          "subcluster_name": "Immune Cell Senescence and Immunosenescence Theory",
+          "reasoning": "Highlights metabolic reprogramming of senescent cells affecting immune function and promoting immunosenescence."
+        },
+        {
+          "theory_id": "T017883",
+          "subcluster_name": "Cell Death and Senescence Interaction Theory",
+          "reasoning": "Discusses balance between apoptosis and senescence as parallel protective mechanisms influencing tissue aging."
+        },
+        {
+          "theory_id": "T017954",
+          "subcluster_name": "Cellular Senescence and Reprogramming Barrier Theory",
+          "reasoning": "Focuses on senescence impairing induced pluripotent stem cell reprogramming and links between aging pathways and cellular plasticity."
+        },
+        {
+          "theory_id": "T017990",
+          "subcluster_name": "Metabolic Regulation of Stem Cell Senescence Theory",
+          "reasoning": "Emphasizes metabolic plasticity, metabolism-epigenetic axis, and dysregulated metabolic pathways driving stem cell senescence."
+        },
+        {
+          "theory_id": "T017699",
+          "subcluster_name": "RNA Sensing-Mediated Endothelial Senescence Theory",
+          "reasoning": "Describes self-RNA accumulation activating RIG-I sensor, inducing interferon-like response and SASP in endothelial senescence."
+        },
+        {
+          "theory_id": "T017690",
+          "subcluster_name": "Sphingolipid-Mediated Cellular Senescence Theory",
+          "reasoning": "Focuses on sphingolipid balance (ceramide and S1P) regulating senescence induction and SASP-driven inflammation in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:11:13"
+}

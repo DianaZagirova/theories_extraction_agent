@@ -1,0 +1,195 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T002148",
+          "T002291",
+          "T002440",
+          "T002361",
+          "T001577",
+          "T001568",
+          "T002057",
+          "T002188",
+          "T001674",
+          "T002485",
+          "T002042",
+          "T002259",
+          "T002166",
+          "T001551"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Sex-Specific Evolutionary Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T001693",
+          "T001823"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Life History and Extrinsic Mortality Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T002449",
+          "T002164",
+          "T002170",
+          "T002337"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T002148",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "This theory presents the foundational concept of antagonistic pleiotropy as a trade-off between early-life fitness benefits and late-life costs shaping aging."
+        },
+        {
+          "theory_id": "T002336",
+          "subcluster_name": "Gene-Environment Interaction Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on APOE-\u03b54 allele's antagonistic pleiotropy with environment-dependent effects on survival and fertility, illustrating gene-environment trade-offs."
+        },
+        {
+          "theory_id": "T001693",
+          "subcluster_name": "Sex-Specific Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes sex differences in mortality and senescence driven by sexual selection and reproductive effort, a specific form of antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T001864",
+          "subcluster_name": "Genome Maintenance Antagonistic Pleiotropy Theory",
+          "reasoning": "Details antagonistic pleiotropy involving genome maintenance mechanisms that protect early life but cause aging via DNA damage accumulation later."
+        },
+        {
+          "theory_id": "T002291",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes the general evolutionary genetic theory of aging with antagonistic pleiotropy as a key mechanism explaining trade-offs between reproduction and survival."
+        },
+        {
+          "theory_id": "T001823",
+          "subcluster_name": "Sex-Specific Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on declining selection strength with age and sexual conflict driving sex-specific aging patterns, a nuanced form of antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T002440",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Experimental evidence of antagonistic pleiotropy in reproductive timing versus lifespan, illustrating the classic trade-off central to the theory."
+        },
+        {
+          "theory_id": "T002361",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Integrates mutation accumulation and antagonistic pleiotropy mechanisms in aging evolution, emphasizing declining selection with age."
+        },
+        {
+          "theory_id": "T002449",
+          "subcluster_name": "Life History and Extrinsic Mortality Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on how extrinsic mortality and indeterminate growth affect senescence evolution, linking life history traits with antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T001812",
+          "subcluster_name": "Resource Allocation Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes micronutrient triage as an antagonistic pleiotropy mechanism where short-term survival is favored at the expense of long-term maintenance."
+        },
+        {
+          "theory_id": "T001577",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Presents the broad evolutionary biological theory of aging combining mutation accumulation and antagonistic pleiotropy as polygenic and stochastic processes."
+        },
+        {
+          "theory_id": "T001568",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Williams 1957 model emphasizing selection on reproduction timing and antagonistic pleiotropy as drivers of lifespan evolution."
+        },
+        {
+          "theory_id": "T002057",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Medawar\u2019s foundational theory on declining selection with age and accumulation of late-acting deleterious mutations, a core antagonistic pleiotropy concept."
+        },
+        {
+          "theory_id": "T002188",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "General Darwinian concept of age-related diseases caused by genes with pleiotropic effects beneficial early but harmful late in life."
+        },
+        {
+          "theory_id": "T002164",
+          "subcluster_name": "Life History and Extrinsic Mortality Antagonistic Pleiotropy Theory",
+          "reasoning": "Links extrinsic mortality rates with aging pace and reproductive decline, integrating life history trade-offs with antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T001674",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Experimental evolution showing selection for early reproduction accelerates aging, illustrating classic antagonistic pleiotropy trade-offs."
+        },
+        {
+          "theory_id": "T002485",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Integrates mutation accumulation, antagonistic pleiotropy, and disposable soma theories as evolutionary explanations for senescence."
+        },
+        {
+          "theory_id": "T002042",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Shows postponed reproduction leads to lifespan extension, consistent with antagonistic pleiotropy and life history trade-offs."
+        },
+        {
+          "theory_id": "T002259",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Combines mutation accumulation, antagonistic pleiotropy, and disposable soma theories to explain sex-specific lifespan evolution."
+        },
+        {
+          "theory_id": "T002170",
+          "subcluster_name": "Life History and Extrinsic Mortality Antagonistic Pleiotropy Theory",
+          "reasoning": "Mathematical modeling of age-dependent death rates showing trade-offs between early survival and late mortality shaping senescence."
+        },
+        {
+          "theory_id": "T002136",
+          "subcluster_name": "Cancer Suppression Trade-off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on antagonistic pleiotropy involving cancer suppression mechanisms that trade off reproduction and longevity."
+        },
+        {
+          "theory_id": "T002166",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Discusses natural selection trade-offs and evolutionary mismatch shaping aging mechanisms, consistent with antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T002337",
+          "subcluster_name": "Life History and Extrinsic Mortality Antagonistic Pleiotropy Theory",
+          "reasoning": "Examines age-specific trade-offs between reproduction and survival in elephants, linking life history and antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T001551",
+          "subcluster_name": "Classical Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Comprehensive evolutionary theory combining mutation accumulation, antagonistic pleiotropy, and disposable soma as aging mechanisms."
+        },
+        {
+          "theory_id": "T001460",
+          "subcluster_name": "Behavioral and Cognitive Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on age-related decline in exploration behavior due to neural mechanisms, representing antagonistic pleiotropy in cognitive/behavioral traits."
+        },
+        {
+          "theory_id": "T001944",
+          "subcluster_name": "Non-Animal Mutation Load Management Theory",
+          "reasoning": "Describes multinucleate spore sporogenesis in asexual fungi as a mechanism to limit mutation load, distinct from classical antagonistic pleiotropy but related to mutation management."
+        },
+        {
+          "theory_id": "T002452",
+          "subcluster_name": "Social Evolution and Cooperative Breeding Theory",
+          "reasoning": "Explains evolution of sterile helpers via cooperative breeding and life history traits, distinct from classical antagonistic pleiotropy mechanisms."
+        },
+        {
+          "theory_id": "T002467",
+          "subcluster_name": "Two-Sex Human Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Extends classical theory by incorporating male fertility and mating patterns to explain extended human lifespan and senescence."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:45:31"
+}

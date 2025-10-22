@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 14,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T014403",
+          "T014347",
+          "T013805",
+          "T014065",
+          "T014279",
+          "T014382",
+          "T014401",
+          "T013795",
+          "T014007",
+          "T014514",
+          "T014466"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+        "theory_ids": [
+          "T014311",
+          "T014205",
+          "T014182",
+          "T014286",
+          "T014471",
+          "T012984",
+          "T013860",
+          "T014137",
+          "T013781",
+          "T014315",
+          "T013790"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Oxidative Damage and Repair Decline Free Radical Theory",
+        "theory_ids": [
+          "T013830",
+          "T014240",
+          "T014231",
+          "T012820"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T014403",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, oxidative damage accumulation, and modulation by caloric restriction affecting aging."
+        },
+        {
+          "theory_id": "T014347",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial ROS, SOD2 role, and oxidative stress impact on telomere shortening and aging."
+        },
+        {
+          "theory_id": "T013805",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights mitochondrial ROS accumulation, oxidative damage, and caloric restriction reducing ROS to delay aging."
+        },
+        {
+          "theory_id": "T014065",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes oxidative damage from metabolism, antioxidant defenses, and calorie restriction effects on mitochondrial ROS."
+        },
+        {
+          "theory_id": "T014279",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on ROS causing cumulative damage, antioxidant defenses, and links to aging and disease."
+        },
+        {
+          "theory_id": "T014382",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Discusses mitochondrial oxidant generation, oxidative damage accumulation, and GH signaling influence on ROS and aging."
+        },
+        {
+          "theory_id": "T014401",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Centers on mitochondrial proton leak modulating ROS production and its impact on aging."
+        },
+        {
+          "theory_id": "T013795",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondria-generated ROS causing damage and antioxidant defenses modulating aging."
+        },
+        {
+          "theory_id": "T014007",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Details mitochondrial ETC ROS production, oxidative damage to mitochondrial proteins, and progressive dysfunction."
+        },
+        {
+          "theory_id": "T014514",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial ROS causing oxidative damage and the role of antioxidant systems enhanced by traditional medicine."
+        },
+        {
+          "theory_id": "T014466",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights ROS as causal agents of aging, oxidative stress, and lifespan modulation via ROS production."
+        },
+        {
+          "theory_id": "T014311",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Focuses on antioxidant enzymes like SOD detoxifying ROS and their role in mitigating oxidative damage and aging."
+        },
+        {
+          "theory_id": "T014205",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Emphasizes protective role of antioxidant enzymes such as Cu-Zn SOD in scavenging free radicals and aging."
+        },
+        {
+          "theory_id": "T014182",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Discusses enzymatic detoxification systems (SOD, AHH) and their efficiency in neutralizing free radicals affecting aging."
+        },
+        {
+          "theory_id": "T014286",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Highlights catalase enzyme's protective role against hydrogen peroxide-derived radicals and oxidative damage."
+        },
+        {
+          "theory_id": "T014471",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Focuses on superoxide dismutase enzymes removing superoxide radicals and influencing aging and gene regulation."
+        },
+        {
+          "theory_id": "T012984",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Describes decline in antioxidative enzymes (SOD, catalase, glutathione) with age and their role in oxidative damage."
+        },
+        {
+          "theory_id": "T013860",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Details enzymatic antioxidant defenses mitigating free radical damage, including effects of ionizing radiation."
+        },
+        {
+          "theory_id": "T014137",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Describes antioxidant defenses and DNA repair systems declining with age, affecting free radical damage accumulation."
+        },
+        {
+          "theory_id": "T013781",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Emphasizes inadequate repair and defense mechanisms leading to accumulation of oxidative damage and aging."
+        },
+        {
+          "theory_id": "T014315",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Focuses on balance between pro-oxidants and antioxidants, with MAO as a source of ROS in aging brain tissue."
+        },
+        {
+          "theory_id": "T013830",
+          "subcluster_name": "Oxidative Damage and Repair Decline Free Radical Theory",
+          "reasoning": "Highlights accumulation of oxidative damage and declining repair efficiency as key drivers of aging."
+        },
+        {
+          "theory_id": "T013833",
+          "subcluster_name": "Metal-Dependent Flavonoid Activation Free Radical Theory",
+          "reasoning": "Focuses on metal ion catalysis of ROS via flavonoid activation and protective role of PaMTH1 enzyme."
+        },
+        {
+          "theory_id": "T014240",
+          "subcluster_name": "Oxidative Damage and Repair Decline Free Radical Theory",
+          "reasoning": "Discusses ROS as cause of aging and trade-offs between reproduction and oxidative protection affecting senescence."
+        },
+        {
+          "theory_id": "T014231",
+          "subcluster_name": "Oxidative Damage and Repair Decline Free Radical Theory",
+          "reasoning": "Focuses on ROS-driven cellular senescence in cardiac stem cells, DNA damage, telomere attrition, and repair decline."
+        },
+        {
+          "theory_id": "T013790",
+          "subcluster_name": "Antioxidant Enzyme Modulation of Free Radical Theory",
+          "reasoning": "Emphasizes oxidative damage accumulation and antioxidant intervention delaying aging."
+        },
+        {
+          "theory_id": "T012820",
+          "subcluster_name": "Oxidative Damage and Repair Decline Free Radical Theory",
+          "reasoning": "Describes oxidative degradation leading to amyloidosis and antioxidant inhibition of amyloid formation in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:13:21"
+}

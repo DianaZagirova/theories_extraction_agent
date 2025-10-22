@@ -1,0 +1,214 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 16,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+        "theory_ids": [
+          "T012843",
+          "T012908",
+          "T012607",
+          "T012597",
+          "T012587",
+          "T012795",
+          "T012482",
+          "T012519",
+          "T012523",
+          "T013000",
+          "T012494",
+          "T012558",
+          "T012860",
+          "T012457",
+          "T012614",
+          "T012571",
+          "T012741",
+          "T012480",
+          "T012579",
+          "T012991",
+          "T012575",
+          "T012870",
+          "T012520",
+          "T012120"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 24
+      },
+      {
+        "subcluster_name": "Antagonistic Pleiotropy in Stress Resistance and Aging",
+        "theory_ids": [
+          "T012634",
+          "T012660"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Gene-Specific Antagonistic Pleiotropy Effects on Aging",
+        "theory_ids": [
+          "T012192",
+          "T012263",
+          "T010847"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T012843",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Focuses on the weakening of natural selection with age and trade-offs between early-life benefits and late-life costs shaping senescence."
+        },
+        {
+          "theory_id": "T012908",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Combines antagonistic pleiotropy with mutation accumulation and emphasizes trade-offs between early fecundity and longevity under declining selection."
+        },
+        {
+          "theory_id": "T012607",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Highlights extrinsic mortality shaping lifespan evolution and trade-offs among life history traits under declining natural selection."
+        },
+        {
+          "theory_id": "T012597",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Focuses on extrinsic mortality and declining selection intensity with age as drivers of senescence timing."
+        },
+        {
+          "theory_id": "T012587",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Integrates mutation accumulation, antagonistic pleiotropy, and disposable soma theories under declining natural selection."
+        },
+        {
+          "theory_id": "T012795",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Emphasizes trade-offs between reproduction and somatic maintenance and the evolutionary logic of aging under declining selection."
+        },
+        {
+          "theory_id": "T012482",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Describes genetic trade-offs between early-life benefits and late-life costs shaping lifespan and aging patterns."
+        },
+        {
+          "theory_id": "T012519",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Focuses on extrinsic mortality reduction via ecological factors leading to increased longevity under declining selection."
+        },
+        {
+          "theory_id": "T012523",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Details alleles with opposing fitness effects at different life stages and maintenance of genetic variation via antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T013000",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Explores selection shadow concept and how survival rates relate to senescence under declining natural selection."
+        },
+        {
+          "theory_id": "T012494",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Focuses on Hamilton's forces of natural selection decline and de-tuning of adaptations causing aging."
+        },
+        {
+          "theory_id": "T012558",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Describes declining selection with age, reproduction-somatic maintenance trade-offs, and sexual selection effects on aging."
+        },
+        {
+          "theory_id": "T012860",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Emphasizes declining natural selection, early reproduction vs late survival trade-offs, and metabolic costs of longevity."
+        },
+        {
+          "theory_id": "T012457",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Discusses reduced selection post-reproduction, reproduction vs somatic maintenance trade-offs, and clonal organism aging."
+        },
+        {
+          "theory_id": "T012614",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Focuses on extrinsic mortality timing and predictability shaping senescence evolution and physiological deterioration."
+        },
+        {
+          "theory_id": "T012571",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Describes declining selection pressure with age, reproductive senescence, and sex differences in aging."
+        },
+        {
+          "theory_id": "T012741",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Focuses on early-life fitness advantage with late-life deleterious effects and reproduction-longevity trade-offs."
+        },
+        {
+          "theory_id": "T012480",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Describes genetic trade-offs between survival and reproduction and evolutionary basis of aging under declining selection."
+        },
+        {
+          "theory_id": "T012579",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Covers declining selection with age, extrinsic mortality effects, disposable soma, and social insect lifespan evolution."
+        },
+        {
+          "theory_id": "T012991",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Focuses on evolutionary trade-offs between somatic maintenance and reproduction and lack of direct selection for aging."
+        },
+        {
+          "theory_id": "T012575",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Describes trade-offs between early-life fitness and late-life decline and predation-driven evolutionary changes in senescence."
+        },
+        {
+          "theory_id": "T012870",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Integrates mutation accumulation, antagonistic pleiotropy, declining selection, and resource allocation trade-offs."
+        },
+        {
+          "theory_id": "T012520",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Combines antagonistic pleiotropy and disposable soma theories focusing on genetic trade-offs between reproduction and lifespan."
+        },
+        {
+          "theory_id": "T012120",
+          "subcluster_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "reasoning": "Explores diversity of aging patterns shaped by genotype, environment, and life-history traits under evolutionary theory."
+        },
+        {
+          "theory_id": "T012634",
+          "subcluster_name": "Antagonistic Pleiotropy in Stress Resistance and Aging",
+          "reasoning": "Focuses on antagonistic pleiotropy involving stress resistance traits like thermal tolerance and their age-dependent trade-offs."
+        },
+        {
+          "theory_id": "T012660",
+          "subcluster_name": "Antagonistic Pleiotropy in Stress Resistance and Aging",
+          "reasoning": "Describes resource allocation trade-offs between reproduction and somatic maintenance mediated by IIS pathway affecting aging."
+        },
+        {
+          "theory_id": "T012192",
+          "subcluster_name": "Gene-Specific Antagonistic Pleiotropy Effects on Aging",
+          "reasoning": "Details APOE e4 allele's pleiotropic effects on cognition across lifespan, illustrating gene-specific antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T012263",
+          "subcluster_name": "Gene-Specific Antagonistic Pleiotropy Effects on Aging",
+          "reasoning": "Focuses on TOR pathway as a key antagonistic pleiotropy gene driving aging via quasi-program and gerogene activity."
+        },
+        {
+          "theory_id": "T010847",
+          "subcluster_name": "Gene-Specific Antagonistic Pleiotropy Effects on Aging",
+          "reasoning": "Describes phylogenetic antagonistic pleiotropy where ancient genes beneficial in evolution now contribute to aging."
+        },
+        {
+          "theory_id": "T012144",
+          "subcluster_name": "Sexual Selection and Sexual Conflict Driven Antagonistic Pleiotropy",
+          "reasoning": "Explains sex differences in aging via sexual selection, sexual conflict, and costs of sexually dimorphic traits."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:55:48"
+}

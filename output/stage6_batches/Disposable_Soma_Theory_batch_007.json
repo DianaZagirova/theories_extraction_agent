@@ -1,0 +1,208 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 7,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+        "theory_ids": [
+          "T004463",
+          "T004452",
+          "T004162",
+          "T003868",
+          "T004520",
+          "T004293",
+          "T004432",
+          "T004194",
+          "T004316",
+          "T004004",
+          "T004604",
+          "T004645"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+        "theory_ids": [
+          "T003914",
+          "T004112",
+          "T004075",
+          "T004054",
+          "T004274",
+          "T004164",
+          "T004182",
+          "T003963",
+          "T003362",
+          "T003121",
+          "T003347"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Dietary Restriction and Metabolic Adaptation Theories",
+        "theory_ids": [
+          "T003857",
+          "T004416",
+          "T004378",
+          "T004095",
+          "T004470"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T004463",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Focuses on insulin/IGF receptor stability and signaling modes affecting aging and reproduction, fitting within IIS pathway mechanisms."
+        },
+        {
+          "theory_id": "T004452",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Describes conserved genetic-hormonal control of aging via insulin/IGF-1 signaling and antagonistic pleiotropy, central IIS theme."
+        },
+        {
+          "theory_id": "T004162",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Details conserved IIS pathway and FOXO transcription factor role in longevity and stress resistance."
+        },
+        {
+          "theory_id": "T003868",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Focuses on IIS pathway regulation of lifespan, adaptor proteins, and dFoxo transcription factor in Drosophila."
+        },
+        {
+          "theory_id": "T004520",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Explores genetic polymorphisms in IIS pathway components affecting human longevity, emphasizing conserved IIS network."
+        },
+        {
+          "theory_id": "T004293",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Describes IIS regulation of proteasome activity via DAF-16 and UBH-4, linking IIS to proteostasis and aging."
+        },
+        {
+          "theory_id": "T004432",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Shows cilia-mediated regulation of longevity through DAF-2 insulin/IGF-1-like signaling pathway."
+        },
+        {
+          "theory_id": "T004194",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Focuses on IIS regulation of aging via carbohydrate metabolism and transcription factors DAF-16/FOXO and HSF-1."
+        },
+        {
+          "theory_id": "T004316",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Details DAF-2 receptor signaling inhibiting DAF-16/FOXO and metabolic downregulation extending lifespan."
+        },
+        {
+          "theory_id": "T004004",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Describes evolutionary conservation of reduced IIS signaling promoting healthy aging and tissue-specific effects."
+        },
+        {
+          "theory_id": "T004604",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Explores IIS-JH-Vg/YP circuit regulating fecundity-longevity trade-off, integrating nutrient sensing and hormonal control."
+        },
+        {
+          "theory_id": "T004645",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theories",
+          "reasoning": "Focuses on IIS/TOR signaling pathways mediating longevity-fecundity trade-offs and rewiring in social insects."
+        },
+        {
+          "theory_id": "T003914",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Centers on energy allocation trade-off between reproduction and somatic maintenance accelerating aging."
+        },
+        {
+          "theory_id": "T004112",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Describes energy allocation trade-offs among growth, reproduction, and maintenance limiting selection and aging."
+        },
+        {
+          "theory_id": "T004075",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Focuses on trade-off between fertility and immature survival shaping life history and reproductive senescence."
+        },
+        {
+          "theory_id": "T004054",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Explores trade-off between somatic maintenance and reproduction with age-dependent plasticity in reproductive investment."
+        },
+        {
+          "theory_id": "T004274",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Describes resource allocation trade-offs between somatic maintenance and reproduction influenced by age and sexual conflict."
+        },
+        {
+          "theory_id": "T004164",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Posits trade-off between reproduction and longevity with independent somatic and reproductive senescence trajectories."
+        },
+        {
+          "theory_id": "T004182",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Classic disposable soma theory emphasizing evolutionary trade-off between somatic maintenance and reproduction."
+        },
+        {
+          "theory_id": "T003963",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Focuses on resource allocation trade-off where reproduction reduces somatic maintenance causing aging."
+        },
+        {
+          "theory_id": "T003362",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Describes disposable soma theory with resource allocation trade-off leading to aging from insufficient somatic repair."
+        },
+        {
+          "theory_id": "T003121",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Details reproductive signaling trade-off where germline signals repress longevity, linking reproduction and aging."
+        },
+        {
+          "theory_id": "T003347",
+          "subcluster_name": "Reproduction-Energy Trade-Off Theories",
+          "reasoning": "Links reproductive aging (menopause timing) to systemic and brain aging, reflecting reproductive-somatic aging interplay."
+        },
+        {
+          "theory_id": "T003857",
+          "subcluster_name": "Dietary Restriction and Metabolic Adaptation Theories",
+          "reasoning": "Focuses on lifespan extension by dietary restriction via nutrient reduction and autophagy activation."
+        },
+        {
+          "theory_id": "T004416",
+          "subcluster_name": "Dietary Restriction and Metabolic Adaptation Theories",
+          "reasoning": "Describes PHA-4/FOXA-regulated feed-forward loops mediating gene expression robustness during dietary restriction."
+        },
+        {
+          "theory_id": "T004378",
+          "subcluster_name": "Dietary Restriction and Metabolic Adaptation Theories",
+          "reasoning": "Explains caloric restriction-mediated lifespan extension via attenuation of oxidative stress and redox state maintenance."
+        },
+        {
+          "theory_id": "T004095",
+          "subcluster_name": "Dietary Restriction and Metabolic Adaptation Theories",
+          "reasoning": "Details metabolic adaptations under caloric restriction including stress resistance, mitochondrial function, and autophagy."
+        },
+        {
+          "theory_id": "T004470",
+          "subcluster_name": "Dietary Restriction and Metabolic Adaptation Theories",
+          "reasoning": "Comprehensive caloric restriction theory emphasizing metabolic slowing, oxidative stress reduction, and hormonal mediators."
+        },
+        {
+          "theory_id": "T004563",
+          "subcluster_name": "Life History Pace-of-Life and Stress Trade-Off Theories",
+          "reasoning": "Focuses on trade-offs among growth rate, lifespan, and stress susceptibility shaping life-history traits."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:01:41"
+}

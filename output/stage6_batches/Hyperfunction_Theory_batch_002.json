@@ -1,0 +1,180 @@
+{
+  "cluster_name": "Hyperfunction Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+        "theory_ids": [
+          "T003509",
+          "T004671",
+          "T004407",
+          "T002717",
+          "T003770",
+          "T003498",
+          "T003900",
+          "T002621",
+          "T003537",
+          "T004305",
+          "T002410",
+          "T004341",
+          "T002282",
+          "T002451",
+          "T003730"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Quasi-Programmed Hyperfunction Aging Theories",
+        "theory_ids": [
+          "T002812",
+          "T004715",
+          "T004675",
+          "T003750",
+          "T004059",
+          "T002822",
+          "T002049"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T003509",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Focuses on reduced mTOR signaling as a conserved mechanism extending lifespan via nutrient sensing and metabolic regulation."
+        },
+        {
+          "theory_id": "T004671",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Describes mTOR as a central nutrient sensor whose inhibition promotes longevity through autophagy and proteostasis."
+        },
+        {
+          "theory_id": "T004407",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Emphasizes mTORC1 inhibition mimicking caloric restriction and promoting autophagy to extend lifespan."
+        },
+        {
+          "theory_id": "T002717",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Details mTOR\u2019s role in protein synthesis, mitochondrial function, inflammaging, and senescence affecting aging."
+        },
+        {
+          "theory_id": "T003770",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Focuses on mTORC1 regulation of aging hallmarks including senescence and metabolic reprogramming."
+        },
+        {
+          "theory_id": "T003498",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Describes nutrient-driven mTOR hyperactivation causing cell damage and how mTOR inhibition promotes survival."
+        },
+        {
+          "theory_id": "T003900",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Highlights evolutionary adaptations in mTOR pathway genes linked to lifespan extension and autophagy."
+        },
+        {
+          "theory_id": "T002621",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Shows mTOR inhibition preserving intestinal stem cell homeostasis and promoting autophagy to delay aging."
+        },
+        {
+          "theory_id": "T003537",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Focuses on TOR nutrient sensing and lifespan modulation via cross-talk with other aging pathways."
+        },
+        {
+          "theory_id": "T004305",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Describes mTOR inhibition extending lifespan via PHA-4/FOXA and neurodegeneration modulation."
+        },
+        {
+          "theory_id": "T002410",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Details mTORC1 regulation by CGEF-1 and downstream transcription factors affecting longevity and stress resistance."
+        },
+        {
+          "theory_id": "T004341",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Focuses on mTORC1 inhibition promoting autophagy and metabolic regulation to delay aging and memory decline."
+        },
+        {
+          "theory_id": "T002282",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Emphasizes mTOR control of mRNA translation and tissue-specific effects on aging and longevity."
+        },
+        {
+          "theory_id": "T002451",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Describes dose-dependent mTOR inhibition effects on aging phenotypes and mitochondrial disease progression."
+        },
+        {
+          "theory_id": "T003730",
+          "subcluster_name": "mTOR Signaling and Lifespan Extension Theories",
+          "reasoning": "Covers TOR down-regulation mechanisms including reduced translation, increased autophagy, and improved metabolism."
+        },
+        {
+          "theory_id": "T004812",
+          "subcluster_name": "IIS-mTOR Signaling and Muscle Aging Theories",
+          "reasoning": "Focuses on insulin/IGF signaling and mTORC1 regulation affecting muscle mitochondrial integrity and age-related functional decline."
+        },
+        {
+          "theory_id": "T003227",
+          "subcluster_name": "mTOR Complexes and Epigenetic Aging Theories",
+          "reasoning": "Describes balance of mTORC1 and mTORC2 in Sertoli cells regulating sperm epigenetic aging via blood-testis barrier permeability."
+        },
+        {
+          "theory_id": "T003701",
+          "subcluster_name": "Milk-Activated mTORC1 Quasi-Programmed Aging Theories",
+          "reasoning": "Proposes milk-derived nutrients and exosomal microRNAs hyperactivate mTORC1, driving quasi-programmed aging and diseases."
+        },
+        {
+          "theory_id": "T002812",
+          "subcluster_name": "Quasi-Programmed Hyperfunction Aging Theories",
+          "reasoning": "Conceptualizes aging as quasi-programmed continuation of developmental growth causing hyperfunctional signaling and age-related diseases."
+        },
+        {
+          "theory_id": "T004715",
+          "subcluster_name": "Quasi-Programmed Hyperfunction Aging Theories",
+          "reasoning": "Focuses on run-on of early-life fitness processes causing hyperfunction and senescent pathologies as aging mechanisms."
+        },
+        {
+          "theory_id": "T004675",
+          "subcluster_name": "Quasi-Programmed Hyperfunction Aging Theories",
+          "reasoning": "Describes cellular and systemic hyperfunction driven by growth pathways like mTOR causing age-related diseases and death."
+        },
+        {
+          "theory_id": "T003750",
+          "subcluster_name": "Quasi-Programmed Hyperfunction Aging Theories",
+          "reasoning": "Emphasizes mTOR-driven cellular hyperfunction as the essence of aging and cause of multiple age-related diseases."
+        },
+        {
+          "theory_id": "T004059",
+          "subcluster_name": "Quasi-Programmed Hyperfunction Aging Theories",
+          "reasoning": "Frames aging as sum of quasi-programmed diseases caused by hyperfunctional cellular processes including mTOR hyperactivity."
+        },
+        {
+          "theory_id": "T003089",
+          "subcluster_name": "mTOR-Driven Cellular Senescence and SASP Theories",
+          "reasoning": "Focuses on mTOR\u2019s role in driving cellular senescence, hypertrophy, and the senescence-associated secretory phenotype promoting aging."
+        },
+        {
+          "theory_id": "T002822",
+          "subcluster_name": "Quasi-Programmed Hyperfunction Aging Theories",
+          "reasoning": "Describes yeast aging as quasi-programmed hyperfunction of early-life processes causing late-life pathologies and death."
+        },
+        {
+          "theory_id": "T002049",
+          "subcluster_name": "Quasi-Programmed Hyperfunction Aging Theories",
+          "reasoning": "Links conserved nutrient signaling pathways (Sch9/Ras) to aging and cancer-like phenotypes via genomic instability and hyperfunction."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:08:46"
+}

@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 28,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+        "theory_ids": [
+          "T019186",
+          "T019412",
+          "T019400",
+          "T019401",
+          "T019252",
+          "T019454",
+          "T019248",
+          "T019128",
+          "T019134",
+          "T019131",
+          "T019144"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+        "theory_ids": [
+          "T019176",
+          "T019369",
+          "T019327",
+          "T019310",
+          "T019135"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial Apoptosis and Quality Control Theory",
+        "theory_ids": [
+          "T019250",
+          "T019235",
+          "T019479",
+          "T019466",
+          "T019474",
+          "T019481",
+          "T019226"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Dynamics and Longevity Signaling Theory",
+        "theory_ids": [
+          "T019432",
+          "T019155"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T019186",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Focuses on mitochondrial free radicals causing mtDNA and protein damage leading to dysfunction and aging."
+        },
+        {
+          "theory_id": "T019412",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Emphasizes ROS-induced mtDNA damage and a vicious cycle of mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T019400",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Highlights mitochondrial ROS generation, mtDNA mutations, and oxidative stress imbalance as aging drivers."
+        },
+        {
+          "theory_id": "T019401",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Focuses on mitochondrial oxidative stress causing mtDNA damage and aging phenotypes."
+        },
+        {
+          "theory_id": "T019252",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Describes mitochondria as both source and target of oxidative damage driving aging and apoptosis."
+        },
+        {
+          "theory_id": "T019454",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, oxidative damage, and MPTP role in aging."
+        },
+        {
+          "theory_id": "T019248",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production at complex I and oxidative damage as aging causes."
+        },
+        {
+          "theory_id": "T019128",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Links mitochondrial dysfunction and mtDNA mutations affecting ROS production and longevity."
+        },
+        {
+          "theory_id": "T019134",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Details ROS-driven cardiolipin peroxidation impairing complex I and mitochondrial function."
+        },
+        {
+          "theory_id": "T019131",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Focuses on ROS-mediated cardiolipin peroxidation causing complex I dysfunction in aging heart."
+        },
+        {
+          "theory_id": "T019144",
+          "subcluster_name": "Mitochondrial ROS-Induced DNA Damage Theory",
+          "reasoning": "Describes accumulation of oxidative mtDNA damage and insufficient repair leading to dysfunction."
+        },
+        {
+          "theory_id": "T019176",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Focuses on mtDNA instability and mutation accumulation impairing oocyte mitochondrial function."
+        },
+        {
+          "theory_id": "T019369",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Centers on clonal expansion of mtDNA heteroplasmy causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T019327",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Emphasizes somatic mtDNA mutation accumulation and threshold effects driving aging phenotypes."
+        },
+        {
+          "theory_id": "T019310",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Highlights high mtDNA mutation rate and accumulation impairing energy production and aging."
+        },
+        {
+          "theory_id": "T019135",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Describes mtDNA mutations and deletions accumulating with age causing reproductive senescence."
+        },
+        {
+          "theory_id": "T019250",
+          "subcluster_name": "Mitochondrial Apoptosis and Quality Control Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction triggering apoptosis via cytochrome c release and Bcl-2 family regulation."
+        },
+        {
+          "theory_id": "T019235",
+          "subcluster_name": "Mitochondrial Apoptosis and Quality Control Theory",
+          "reasoning": "Describes senescence-associated mitochondrial dysfunction linked to impaired mitophagy and SASP."
+        },
+        {
+          "theory_id": "T019479",
+          "subcluster_name": "Mitochondrial Apoptosis and Quality Control Theory",
+          "reasoning": "Links mitochondrial dysfunction causally to cellular senescence and aging."
+        },
+        {
+          "theory_id": "T019466",
+          "subcluster_name": "Mitochondrial Apoptosis and Quality Control Theory",
+          "reasoning": "Focuses on mitochondrial proteostasis via mitoproteases maintaining mitochondrial quality and function."
+        },
+        {
+          "theory_id": "T019474",
+          "subcluster_name": "Mitochondrial Apoptosis and Quality Control Theory",
+          "reasoning": "Describes mitochondrial dysfunction, proteostasis, and retrograde signaling contributing to aging."
+        },
+        {
+          "theory_id": "T019481",
+          "subcluster_name": "Mitochondrial Apoptosis and Quality Control Theory",
+          "reasoning": "Emphasizes mitochondrial dynamics, turnover, and mitochondria-nucleus communication in aging."
+        },
+        {
+          "theory_id": "T019226",
+          "subcluster_name": "Mitochondrial Apoptosis and Quality Control Theory",
+          "reasoning": "Highlights mitochondrial quality control decline, mitophagy impairment, and mitochondrial-lysosomal axis in aging."
+        },
+        {
+          "theory_id": "T019432",
+          "subcluster_name": "Mitochondrial Dynamics and Longevity Signaling Theory",
+          "reasoning": "Focuses on mitochondrial fission/fusion dynamics regulating mitochondrial health and aging."
+        },
+        {
+          "theory_id": "T019155",
+          "subcluster_name": "Mitochondrial Dynamics and Longevity Signaling Theory",
+          "reasoning": "Describes mitochondrial ETC dysfunction activating AMPK-CEH23-CEP1 signaling modulating longevity."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:50:04"
+}

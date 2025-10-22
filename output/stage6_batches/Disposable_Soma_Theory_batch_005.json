@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 5,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Caloric Restriction-Mediated Disposable Soma Theory",
+        "theory_ids": [
+          "T002804",
+          "T003035",
+          "T003044",
+          "T002718",
+          "T002556",
+          "T002679",
+          "T002184"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+        "theory_ids": [
+          "T002623",
+          "T002453",
+          "T003005",
+          "T002459",
+          "T002987",
+          "T003033",
+          "T002925",
+          "T003031",
+          "T002298",
+          "T002465"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+        "theory_ids": [
+          "T002606",
+          "T002704",
+          "T003053",
+          "T002754",
+          "T002616",
+          "T002457",
+          "T002866",
+          "T003067",
+          "T002813",
+          "T002778",
+          "T002981"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T002804",
+          "subcluster_name": "Caloric Restriction-Mediated Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation shifts under calorie restriction enhancing somatic maintenance and slowing aging."
+        },
+        {
+          "theory_id": "T003035",
+          "subcluster_name": "Caloric Restriction-Mediated Disposable Soma Theory",
+          "reasoning": "Describes caloric restriction effects on lifespan via nutrient-sensing pathways including IIS, TOR, and sirtuins."
+        },
+        {
+          "theory_id": "T003044",
+          "subcluster_name": "Caloric Restriction-Mediated Disposable Soma Theory",
+          "reasoning": "Details conserved transcriptional and mitochondrial metabolic reprogramming induced by caloric restriction delaying aging."
+        },
+        {
+          "theory_id": "T002718",
+          "subcluster_name": "Caloric Restriction-Mediated Disposable Soma Theory",
+          "reasoning": "Examines metabolic and biomarker changes under caloric restriction that slow aging processes."
+        },
+        {
+          "theory_id": "T002556",
+          "subcluster_name": "Caloric Restriction-Mediated Disposable Soma Theory",
+          "reasoning": "Explores molecular and cellular mechanisms by which calorie restriction limits resource availability to delay senescence."
+        },
+        {
+          "theory_id": "T002679",
+          "subcluster_name": "Caloric Restriction-Mediated Disposable Soma Theory",
+          "reasoning": "Focuses on CR-induced activation of stress defense and mitochondrial pathways contributing to lifespan extension."
+        },
+        {
+          "theory_id": "T002184",
+          "subcluster_name": "Caloric Restriction-Mediated Disposable Soma Theory",
+          "reasoning": "Discusses genetic variation in response to dietary restriction and its impact on aging via multiple pathways."
+        },
+        {
+          "theory_id": "T002623",
+          "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Core disposable soma concept emphasizing energy trade-off between reproduction and somatic repair causing damage accumulation."
+        },
+        {
+          "theory_id": "T002453",
+          "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes survival-reproduction trade-offs in parasitoids allocating limited resources between longevity and fecundity."
+        },
+        {
+          "theory_id": "T003005",
+          "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Models resource allocation trade-offs at cellular and organismal levels shaping life history and aging."
+        },
+        {
+          "theory_id": "T002459",
+          "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Explores personality-mediated life-history trade-offs affecting senescence rates via differential energy allocation."
+        },
+        {
+          "theory_id": "T002987",
+          "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Integrates life-history trade-offs with time-preference behavior influencing aging and resource allocation."
+        },
+        {
+          "theory_id": "T003033",
+          "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on reproduction-oxidative stress trade-off where reproduction costs reduce somatic maintenance and lifespan."
+        },
+        {
+          "theory_id": "T002925",
+          "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Life history theory emphasizing reproduction-longevity trade-offs shaping lifespan via resource allocation."
+        },
+        {
+          "theory_id": "T003031",
+          "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes trade-offs between parental survival and offspring survival mediated by resource allocation strategies."
+        },
+        {
+          "theory_id": "T002298",
+          "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Discusses reversal of fecundity-longevity trade-off in social insects as an exception to classic resource allocation trade-offs."
+        },
+        {
+          "theory_id": "T002465",
+          "subcluster_name": "Classic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Examines reproductive plasticity and longevity reorganization in social insects showing decoupling of fecundity and aging."
+        },
+        {
+          "theory_id": "T002606",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Focuses on IIS pathway modulation of longevity and fitness trade-offs via PTEN and downstream transcription factors."
+        },
+        {
+          "theory_id": "T002704",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Details IIS receptor-like signaling regulating aging, apoptosis, and tissue-specific lifespan control."
+        },
+        {
+          "theory_id": "T003053",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "IGF-1 mediated life-history trade-offs integrating growth, reproduction, and longevity via conserved hormonal signaling."
+        },
+        {
+          "theory_id": "T002754",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Evolutionary molecular evolution of IIS/TOR network components affecting lifespan and life history traits."
+        },
+        {
+          "theory_id": "T002616",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Conserved IIS pathway regulating lifespan, metabolism, and adipose tissue function influencing aging."
+        },
+        {
+          "theory_id": "T002457",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "IIS pathway and insulin receptor gene duplications in insects regulating lifespan and polyphenism."
+        },
+        {
+          "theory_id": "T002866",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "IIS pathway regulation of lifespan via DAF-16/FOXO, sirtuins, and stress response transcription factors."
+        },
+        {
+          "theory_id": "T003067",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Reduced IGF1 receptor signaling extends lifespan via altered downstream signaling and gene expression."
+        },
+        {
+          "theory_id": "T002813",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Feedback regulation of insulin gene expression coordinating tissue aging via IIS and DAF-16 inter-tissue signaling."
+        },
+        {
+          "theory_id": "T002778",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "Neuronal subtype-specific IIS reduction extends lifespan, highlighting serotonergic neurons in aging modulation."
+        },
+        {
+          "theory_id": "T002981",
+          "subcluster_name": "Insulin/IGF-1 Signaling Disposable Soma Theory",
+          "reasoning": "IIS pathway reduction extends lifespan and regulates neuronal aging and cognitive decline."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:00:05"
+}

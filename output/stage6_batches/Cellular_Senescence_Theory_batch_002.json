@@ -1,0 +1,184 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T000732",
+          "T001317",
+          "T000730",
+          "T000698",
+          "T001264",
+          "T001097",
+          "T001261"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T001133",
+          "T001191",
+          "T000733",
+          "T000840",
+          "T001185",
+          "T000812",
+          "T000716",
+          "T001381",
+          "T001483",
+          "T000763",
+          "T000424",
+          "T001134"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Network and Systems Biology of Senescence Theory",
+        "theory_ids": [
+          "T001032",
+          "T001156",
+          "T000925",
+          "T000871",
+          "T000085"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000732",
+          "subcluster_name": "Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on sudden telomere shortening and telomere recombination as triggers of senescence, distinct from gradual telomere attrition."
+        },
+        {
+          "theory_id": "T001317",
+          "subcluster_name": "Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes shortest telomere length triggering replicative senescence and models telomere dynamics in yeast."
+        },
+        {
+          "theory_id": "T000730",
+          "subcluster_name": "Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Describes two-phase senescence regulated by telomere shortening, p53, and p16INK4a pathways."
+        },
+        {
+          "theory_id": "T000698",
+          "subcluster_name": "Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Classic replicative senescence theory based on limited proliferative capacity linked to telomere shortening."
+        },
+        {
+          "theory_id": "T001264",
+          "subcluster_name": "Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Proposes a genetically programmed mitotic clock limiting cell divisions, consistent with telomere-based replicative senescence."
+        },
+        {
+          "theory_id": "T001097",
+          "subcluster_name": "Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "p53-mediated regulation of senescence and longevity, linking DNA damage response and telomere signaling to aging."
+        },
+        {
+          "theory_id": "T001261",
+          "subcluster_name": "Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on p53-mediated cellular senescence pathways that regulate replicative arrest and organismal longevity."
+        },
+        {
+          "theory_id": "T001133",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes DNA damage response, SASP, and paracrine senescence in tissue dysfunction and aging."
+        },
+        {
+          "theory_id": "T001191",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Highlights therapy-induced DNA damage, SASP, and systemic spread of senescence driving aging phenotypes."
+        },
+        {
+          "theory_id": "T000733",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescent cell accumulation, SASP heterogeneity, and threshold effects causing systemic aging."
+        },
+        {
+          "theory_id": "T000840",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on senescent cell accumulation and SASP causing bone loss and systemic aging."
+        },
+        {
+          "theory_id": "T001185",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Links senescent cell accumulation and SASP to multiple age-related diseases and systemic aging."
+        },
+        {
+          "theory_id": "T000812",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescent cell accumulation, SASP, and anti-apoptotic pathways contributing to aging and disease."
+        },
+        {
+          "theory_id": "T000716",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on irreversible arrest, SASP, SCAPs, and causal role of senescent cells in aging and diseases."
+        },
+        {
+          "theory_id": "T001381",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescence as a stress response with persistent DNA damage, SASP, and systemic aging effects."
+        },
+        {
+          "theory_id": "T001483",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Shows ionizing radiation induces persistent DNA damage foci and senescence markers contributing to aging."
+        },
+        {
+          "theory_id": "T000763",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Senescent mesenchymal stromal cells secrete SASP factors driving inflammaging and tissue dysfunction."
+        },
+        {
+          "theory_id": "T000424",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Links cellular senescence, SASP, inflammaging, and immune senescence to reproductive aging."
+        },
+        {
+          "theory_id": "T001134",
+          "subcluster_name": "DNA Damage and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Removal of p16INK4a-expressing senescent cells reduces SASP-driven tissue dysfunction and aging phenotypes."
+        },
+        {
+          "theory_id": "T001032",
+          "subcluster_name": "Network and Systems Biology of Senescence Theory",
+          "reasoning": "Uses protein interaction networks and gene expression to identify senescence-related critical proteins driving aging."
+        },
+        {
+          "theory_id": "T001156",
+          "subcluster_name": "Network and Systems Biology of Senescence Theory",
+          "reasoning": "PAI-1 as a SASP component linking metabolism, senescence, and systemic aging, supported by genetic and pharmacological data."
+        },
+        {
+          "theory_id": "T000925",
+          "subcluster_name": "Network and Systems Biology of Senescence Theory",
+          "reasoning": "Mathematical modeling of senescent cell dynamics balancing cancer suppression and aging mortality."
+        },
+        {
+          "theory_id": "T000871",
+          "subcluster_name": "Network and Systems Biology of Senescence Theory",
+          "reasoning": "Intrinsic cellular properties and DNA repair capacity govern fibroblast senescence and immortalization, linking to aging."
+        },
+        {
+          "theory_id": "T000085",
+          "subcluster_name": "Network and Systems Biology of Senescence Theory",
+          "reasoning": "Reprogramming senescent cells to embryonic-like state reverses aging markers, indicating plasticity of senescence."
+        },
+        {
+          "theory_id": "T000707",
+          "subcluster_name": "Programmed and Developmental Cellular Senescence Theory",
+          "reasoning": "Senescence as a programmed developmental mechanism distinct from stress-induced senescence, with beneficial roles in embryogenesis."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 07:59:37"
+}

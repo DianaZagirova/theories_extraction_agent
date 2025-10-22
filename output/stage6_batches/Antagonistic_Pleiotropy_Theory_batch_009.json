@@ -1,0 +1,251 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 9,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+        "theory_ids": [
+          "T005919",
+          "T005957",
+          "T005913",
+          "T006948",
+          "T005939",
+          "T005944",
+          "T005910",
+          "T005945",
+          "T005905",
+          "T005953",
+          "T005902",
+          "T005940",
+          "T005955",
+          "T005914",
+          "T007002",
+          "T005918",
+          "T005932",
+          "T005110",
+          "T004791",
+          "T005006",
+          "T005900"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 21
+      },
+      {
+        "subcluster_name": "Sexual Antagonistic Pleiotropy and Life-History Trade-Offs",
+        "theory_ids": [
+          "T005934",
+          "T006065",
+          "T005941"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Evolutionary Extrinsic Mortality and Aging Theory",
+        "theory_ids": [
+          "T007055",
+          "T006977",
+          "T007026",
+          "T005120",
+          "T004930",
+          "T005152",
+          "T005190",
+          "T004824"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Immune System Antagonistic Pleiotropy and Aging",
+        "theory_ids": [
+          "T005938",
+          "T006590"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005919",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "ANK3 gene expression shows age-dependent opposite effects on stress resistance and longevity, exemplifying molecular genetic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005957",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "ADRB2 gene polymorphisms have beneficial early-life effects but increase late-life disease risks, illustrating genetic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005934",
+          "subcluster_name": "Sexual Antagonistic Pleiotropy and Life-History Trade-Offs",
+          "reasoning": "Sex-specific effects of reproduction and mortality parameters mediated by p53/TOR pathways demonstrate sexual antagonistic pleiotropy in aging."
+        },
+        {
+          "theory_id": "T005913",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "Adiponectin and Activin mediate early-life benefits but promote late-life neurodegeneration, a molecular genetic antagonistic pleiotropy example."
+        },
+        {
+          "theory_id": "T007055",
+          "subcluster_name": "Evolutionary Extrinsic Mortality and Aging Theory",
+          "reasoning": "Chemical defense reducing extrinsic mortality shapes lifespan evolution, linking extrinsic mortality to aging rates."
+        },
+        {
+          "theory_id": "T006948",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "miR-34 represses deleterious adult gene expression (E74A), modulating aging and neurodegeneration via antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T006977",
+          "subcluster_name": "Evolutionary Extrinsic Mortality and Aging Theory",
+          "reasoning": "Extrinsic mortality from pathogens modulates aging and reproduction trade-offs, shaping life-history evolution."
+        },
+        {
+          "theory_id": "T005938",
+          "subcluster_name": "Immune System Antagonistic Pleiotropy and Aging",
+          "reasoning": "Homeostatic proliferation maintains naive T cells early but accelerates their loss late in life, exemplifying immune antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T006018",
+          "subcluster_name": "Intragenomic Conflict and Antagonistic Pleiotropy in Reproductive Aging",
+          "reasoning": "Menopause arises from intragenomic conflict between maternal and paternal genes, a form of antagonistic pleiotropy affecting reproductive aging."
+        },
+        {
+          "theory_id": "T005939",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "P16Ink4a gene has dual roles in ROS prevention and senescence induction, illustrating molecular antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T006065",
+          "subcluster_name": "Sexual Antagonistic Pleiotropy and Life-History Trade-Offs",
+          "reasoning": "Sexual selection intensity shapes sex differences in senescence, linking sexual antagonistic pleiotropy to life-history evolution."
+        },
+        {
+          "theory_id": "T005944",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "Modeling pleiotropic gene effects on mortality and longevity illustrates genetic antagonistic pleiotropy mechanisms."
+        },
+        {
+          "theory_id": "T005910",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "Zinc homeostasis affects longevity via conserved pathways with early-life benefits but late-life detriments, a molecular antagonistic pleiotropy example."
+        },
+        {
+          "theory_id": "T005945",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "mTORC1 promotes early-life neuronal development but inhibits autophagy causing neurodegeneration later, exemplifying molecular antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005905",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "Yeast Gcn5 acetyltransferase has early-life stress resistance benefits but promotes senescence via epigenetic changes, illustrating antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005941",
+          "subcluster_name": "Sexual Antagonistic Pleiotropy and Life-History Trade-Offs",
+          "reasoning": "p53 exhibits sex- and stage-specific effects on lifespan, demonstrating sexual antagonistic pleiotropy in aging."
+        },
+        {
+          "theory_id": "T005953",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "DNA damage checkpoint activation promotes repair early but causes histone loss and genome instability late, a molecular antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T005902",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "APOE\u03b54 allele has beneficial cognitive effects early but promotes premature brain aging and neurodegeneration later, a genetic antagonistic pleiotropy case."
+        },
+        {
+          "theory_id": "T005940",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "CaMKII signaling benefits muscle function early but chronic activation drives sarcopenia, illustrating molecular antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005955",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "REC-8 gene allelic variation balances germline genome stability and somatic aging, exemplifying antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T006590",
+          "subcluster_name": "Immune System Antagonistic Pleiotropy and Aging",
+          "reasoning": "Immunosenescence arises from evolutionary trade-offs reallocating resources from immune maintenance to reproduction, an immune antagonistic pleiotropy perspective."
+        },
+        {
+          "theory_id": "T005914",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "dMMP1 is essential for development but reactivation in aging impairs motor function, a molecular antagonistic pleiotropy example."
+        },
+        {
+          "theory_id": "T007002",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "GDF15 has early-life adaptive benefits but chronic elevation promotes aging-related diseases, illustrating molecular antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005918",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "Immune genes beneficial in early brain development cause damage when reactivated in aging, a molecular antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T007026",
+          "subcluster_name": "Evolutionary Extrinsic Mortality and Aging Theory",
+          "reasoning": "Evolutionary pressures at older ages shape cognitive and socioemotional aging, linking life-history evolution to aging."
+        },
+        {
+          "theory_id": "T005932",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "Huntington's disease mutation confers early-life fitness benefits but causes late-life neurodegeneration, a genetic antagonistic pleiotropy example."
+        },
+        {
+          "theory_id": "T005120",
+          "subcluster_name": "Evolutionary Extrinsic Mortality and Aging Theory",
+          "reasoning": "Post-reproductive lifespan evolves via inclusive fitness benefits and social demography, an evolutionary life-history aging theory."
+        },
+        {
+          "theory_id": "T004930",
+          "subcluster_name": "Evolutionary Extrinsic Mortality and Aging Theory",
+          "reasoning": "Leaf senescence evolves as nutrient salvage benefiting reproduction at cost to longevity, an evolutionary trade-off consistent with antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005110",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "Early-adulthood protein translation elevation promotes reproduction but drives proteostatic dysfunction and aging, a molecular antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T004791",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "Germ-line modulation of insulin/IGF signaling influences lifespan, linking reproductive signaling to molecular antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005006",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "APOE e4 allele constrains lifespan but aerobic exercise mitigates its late-life risks, illustrating gene-environment interaction in antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T005900",
+          "subcluster_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "reasoning": "Hyper-function of biological processes beneficial early but deleterious late exemplifies molecular antagonistic pleiotropy driving aging."
+        },
+        {
+          "theory_id": "T005152",
+          "subcluster_name": "Evolutionary Extrinsic Mortality and Aging Theory",
+          "reasoning": "Multilayered aging mechanisms evolved progressively, with metacellular layers modulating unicellular aging, fitting evolutionary aging framework."
+        },
+        {
+          "theory_id": "T005190",
+          "subcluster_name": "Evolutionary Extrinsic Mortality and Aging Theory",
+          "reasoning": "Asymmetrical cell division partitions damage and reduces repair costs, shaping aging evolution via extrinsic mortality and life-history trade-offs."
+        },
+        {
+          "theory_id": "T004824",
+          "subcluster_name": "Evolutionary Extrinsic Mortality and Aging Theory",
+          "reasoning": "Growth rate-lifespan trade-off reflects resource allocation shaped by extrinsic mortality and life-history evolution."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:50:39"
+}

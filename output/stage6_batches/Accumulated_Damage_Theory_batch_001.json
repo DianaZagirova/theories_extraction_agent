@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Accumulated Damage Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+        "theory_ids": [
+          "T000028",
+          "T001519",
+          "T004028",
+          "T006175",
+          "T001282",
+          "T009111",
+          "T004637",
+          "T006219"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Damage Accumulation and Asymmetric Segregation in Unicellular Aging",
+        "theory_ids": [
+          "T008817",
+          "T000332",
+          "T001229",
+          "T005377",
+          "T010085",
+          "T001883"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Stochastic Damage Threshold and Mortality Models",
+        "theory_ids": [
+          "T001901",
+          "T005712",
+          "T004401",
+          "T002242",
+          "T003291",
+          "T007077",
+          "T001659"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "DNA Repair and Proteostasis Decline in Accumulated Damage Theory",
+        "theory_ids": [
+          "T005773",
+          "T001923",
+          "T001356",
+          "T000868"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000028",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Focuses on oxidative damage by ROS, mitochondrial dysfunction, and proteostasis collapse as primary aging mechanisms."
+        },
+        {
+          "theory_id": "T001519",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Emphasizes oxidative damage from mitochondrial superoxide radicals and role of antioxidant enzymes in aging."
+        },
+        {
+          "theory_id": "T004028",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Highlights ROS-generated oxidative stress from mitochondria causing DNA, protein, and lipid damage leading to aging."
+        },
+        {
+          "theory_id": "T006175",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Describes stochastic oxidative damage by reactive oxygen intermediates from metabolism as primary aging driver."
+        },
+        {
+          "theory_id": "T001282",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Focuses on oxidative stress, mitochondrial DNA deletions, and oxidative damage accumulation as aging causes."
+        },
+        {
+          "theory_id": "T009111",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Considers oxidative stress and molecular damage accumulation as major contributors to aging phenotype."
+        },
+        {
+          "theory_id": "T004637",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS as major damage source and links damage control efficiency to lifespan."
+        },
+        {
+          "theory_id": "T006219",
+          "subcluster_name": "Mitochondrial ROS-Induced Accumulated Damage Theory",
+          "reasoning": "Focuses on oxidative DNA damage by ROS and its accumulation as causal for aging and lifespan modulation."
+        },
+        {
+          "theory_id": "T008817",
+          "subcluster_name": "Damage Accumulation and Asymmetric Segregation in Unicellular Aging",
+          "reasoning": "Describes accumulation of molecular damage and asymmetric damage segregation during unicellular organism division."
+        },
+        {
+          "theory_id": "T000332",
+          "subcluster_name": "Damage Accumulation and Asymmetric Segregation in Unicellular Aging",
+          "reasoning": "Models damage accumulation, repair, and dilution by cell division affecting clonal senescence and fitness."
+        },
+        {
+          "theory_id": "T001229",
+          "subcluster_name": "Damage Accumulation and Asymmetric Segregation in Unicellular Aging",
+          "reasoning": "Focuses on damaged protein accumulation and asymmetric retention in mother cells driving replicative aging."
+        },
+        {
+          "theory_id": "T005377",
+          "subcluster_name": "Damage Accumulation and Asymmetric Segregation in Unicellular Aging",
+          "reasoning": "Details asymmetric segregation of damaged molecules and ERC accumulation in yeast replicative aging."
+        },
+        {
+          "theory_id": "T010085",
+          "subcluster_name": "Damage Accumulation and Asymmetric Segregation in Unicellular Aging",
+          "reasoning": "Describes damage accumulation and asymmetric segregation in bacteria leading to senescence and population dynamics."
+        },
+        {
+          "theory_id": "T001883",
+          "subcluster_name": "Damage Accumulation and Asymmetric Segregation in Unicellular Aging",
+          "reasoning": "Explains asymmetric damage partitioning during cell division enabling rejuvenation and cellular immortality."
+        },
+        {
+          "theory_id": "T001901",
+          "subcluster_name": "Stochastic Damage Threshold and Mortality Models",
+          "reasoning": "Models senescence as progressive physiological damage accumulation with thresholds triggering mortality."
+        },
+        {
+          "theory_id": "T005712",
+          "subcluster_name": "Stochastic Damage Threshold and Mortality Models",
+          "reasoning": "Describes feedback-accelerated damage accumulation and stochastic mortality when damage surpasses thresholds."
+        },
+        {
+          "theory_id": "T004401",
+          "subcluster_name": "Stochastic Damage Threshold and Mortality Models",
+          "reasoning": "Highlights positive feedback loops in damage accumulation and threshold effects limiting lifespan."
+        },
+        {
+          "theory_id": "T002242",
+          "subcluster_name": "Stochastic Damage Threshold and Mortality Models",
+          "reasoning": "Focuses on unrepaired genomic damage accumulation increasing vulnerability and triggering phenoptosis."
+        },
+        {
+          "theory_id": "T003291",
+          "subcluster_name": "Stochastic Damage Threshold and Mortality Models",
+          "reasoning": "Emphasizes stochastic molecular fidelity loss and early onset of damage leading to aging and disease."
+        },
+        {
+          "theory_id": "T007077",
+          "subcluster_name": "Stochastic Damage Threshold and Mortality Models",
+          "reasoning": "Integrates genetic, environmental, epigenetic, and stochastic damage accumulation as drivers of aging phenotype."
+        },
+        {
+          "theory_id": "T001659",
+          "subcluster_name": "Stochastic Damage Threshold and Mortality Models",
+          "reasoning": "Describes accumulation of molecular damage exceeding thresholds and potential interventions via repair."
+        },
+        {
+          "theory_id": "T005773",
+          "subcluster_name": "DNA Repair and Proteostasis Decline in Accumulated Damage Theory",
+          "reasoning": "Focuses on DNA damage accumulation, repair efficiency, and proteostasis decline as key aging mechanisms."
+        },
+        {
+          "theory_id": "T001923",
+          "subcluster_name": "DNA Repair and Proteostasis Decline in Accumulated Damage Theory",
+          "reasoning": "Highlights somatic repair gene expression differences modulating lifespan via DNA and protein maintenance."
+        },
+        {
+          "theory_id": "T001356",
+          "subcluster_name": "DNA Repair and Proteostasis Decline in Accumulated Damage Theory",
+          "reasoning": "Details enhanced DNA repair, tumor suppressor gene duplication, and genomic stability in long-lived whales."
+        },
+        {
+          "theory_id": "T000868",
+          "subcluster_name": "DNA Repair and Proteostasis Decline in Accumulated Damage Theory",
+          "reasoning": "Describes limits of repair mechanisms and progressive macromolecular damage accumulation causing aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:33:44"
+}

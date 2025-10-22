@@ -1,0 +1,231 @@
+{
+  "cluster_name": "Immunological Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+        "theory_ids": [
+          "T022460",
+          "T022862",
+          "T024312",
+          "T022537",
+          "T022926",
+          "T015644",
+          "T017406",
+          "T017171",
+          "T018050",
+          "T022889",
+          "T023805",
+          "T022979"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+        "theory_ids": [
+          "T022493",
+          "T023528",
+          "T022042",
+          "T022669",
+          "T022353",
+          "T024667",
+          "T024635",
+          "T022694",
+          "T017035",
+          "T017755",
+          "T022519"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "NLRP3 Inflammasome Activation and Inflammaging",
+        "theory_ids": [
+          "T024281",
+          "T022257",
+          "T017455"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022460",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Focuses on genetic polymorphisms regulating immune-inflammatory responses and chronic inflammation (inflammaging) as drivers of aging and longevity."
+        },
+        {
+          "theory_id": "T022862",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Emphasizes genetic control of immune responsiveness affecting lifespan and tumor incidence, linking immune genetics to aging."
+        },
+        {
+          "theory_id": "T024312",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Describes age-related immune remodeling driven by chronic antigen load and immunosenescence impacting age-related diseases."
+        },
+        {
+          "theory_id": "T022537",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Highlights early-life infection and chronic inflammation as drivers of aging, with immunopathology linking immune activity to senescence."
+        },
+        {
+          "theory_id": "T022926",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Focuses on immune regulation capacity, immune dysregulation, and chronic inflammation as determinants of aging and survival."
+        },
+        {
+          "theory_id": "T015644",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Centers on genetic factors in immune system gene regulation influencing lifespan and disease susceptibility."
+        },
+        {
+          "theory_id": "T017406",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Explains evolutionary trade-offs involving inflammatory host response shaping life history and aging via genetic adaptations."
+        },
+        {
+          "theory_id": "T017171",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Details TLR4 polymorphisms modulating inflammatory responses and their impact on aging and age-related diseases."
+        },
+        {
+          "theory_id": "T018050",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Shows altered immune gene expression and inflammation suppression in Ames dwarf mice delaying aging."
+        },
+        {
+          "theory_id": "T022889",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Describes sex-specific immunosenescence and chronic immune activation affecting parasite burden and health decline."
+        },
+        {
+          "theory_id": "T023805",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Focuses on immunosenescence, inflammaging, and their role in chronic inflammatory diseases with genetic background influence."
+        },
+        {
+          "theory_id": "T022979",
+          "subcluster_name": "Genetic and Inflammatory Regulation of Immunosenescence",
+          "reasoning": "Integrates immunosenescence and inflammaging with genetic and epigenetic regulation affecting aging and disease susceptibility."
+        },
+        {
+          "theory_id": "T022493",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Emphasizes thymic involution, decline in T cell function, and impaired immunoregulation as central to immune aging."
+        },
+        {
+          "theory_id": "T023528",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Focuses on thymic involution, T cell subset imbalance, and inflammation-mediated insulin resistance linking immune aging to diabetes."
+        },
+        {
+          "theory_id": "T022042",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Describes neuroendocrine-immune axis disruption via thymic involution as a trigger for systemic aging."
+        },
+        {
+          "theory_id": "T022669",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Details inflammation-driven lamin-B1 reduction causing thymic epithelial cell senescence and thymic involution."
+        },
+        {
+          "theory_id": "T022353",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Explains asymmetric thymic involution causing clonal imbalance in T cell populations and increased autoimmunity."
+        },
+        {
+          "theory_id": "T024667",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Shows early life adversity programs immune system towards pro-inflammatory senescence affecting T cell function and aging."
+        },
+        {
+          "theory_id": "T024635",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Describes type 1 interferon-induced Foxo1 down-regulation causing T cell exhaustion and dysfunction in aging."
+        },
+        {
+          "theory_id": "T022694",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Focuses on thymic involution reducing naive T cells, oligoclonal expansions, and senescent T cell pro-inflammatory secretions."
+        },
+        {
+          "theory_id": "T017035",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Links immunosenescence, especially T cell decline, to increased parasite burden and mortality, emphasizing immune aging's causal role."
+        },
+        {
+          "theory_id": "T017755",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Proposes early immune dysfunction, including thymic involution and T cell decline, as causal drivers of systemic aging."
+        },
+        {
+          "theory_id": "T022519",
+          "subcluster_name": "Thymic Involution and T Cell Dysfunction in Aging",
+          "reasoning": "Describes accumulation of senescent immune cells with telomere shortening and molecular defects impairing immune competence."
+        },
+        {
+          "theory_id": "T023189",
+          "subcluster_name": "Chronic Viral Antigenic Stimulation and T Cell Exhaustion in Aging",
+          "reasoning": "Focuses on persistent viral infections like CMV driving chronic antigenic stimulation, T cell differentiation, and immunosenescence."
+        },
+        {
+          "theory_id": "T023026",
+          "subcluster_name": "Exercise-Enhanced Immune Competency and Aging",
+          "reasoning": "Highlights exercise improving immune function, delaying immunosenescence, and enhancing vaccine responses across lifespan."
+        },
+        {
+          "theory_id": "T022633",
+          "subcluster_name": "Immune Cell Senescence and Systemic Aging Propagation",
+          "reasoning": "Shows DNA damage-induced immune cell senescence causally driving systemic aging via SASP and cell non-autonomous effects."
+        },
+        {
+          "theory_id": "T023813",
+          "subcluster_name": "Epigenetic and Post-Translational Regulation of Immunosenescence",
+          "reasoning": "Emphasizes epigenetic and post-translational modifications regulating immune cell aging, immunosenescence, and inflammaging."
+        },
+        {
+          "theory_id": "T024281",
+          "subcluster_name": "NLRP3 Inflammasome Activation and Inflammaging",
+          "reasoning": "Details NLRP3 inflammasome activation by ROS driving cardiocyte aging and inflammatory cytokine release."
+        },
+        {
+          "theory_id": "T022257",
+          "subcluster_name": "NLRP3 Inflammasome Activation and Inflammaging",
+          "reasoning": "Describes innate immune dysregulation with NF-\u03baB/NLRP3 inflammasome vicious cycle driving inflammaging and mitochondrial impairment."
+        },
+        {
+          "theory_id": "T017455",
+          "subcluster_name": "NLRP3 Inflammasome Activation and Inflammaging",
+          "reasoning": "Focuses on metabolic regulation of NLRP3 inflammasome activation linking mitochondrial dysfunction to chronic inflammation."
+        },
+        {
+          "theory_id": "T007578",
+          "subcluster_name": "Inflammation-Induced Endothelial and Tissue Senescence",
+          "reasoning": "Proposes chronic inflammation and ROS from leukocytes cause endothelial senescence and systemic aging via tissue damage."
+        },
+        {
+          "theory_id": "T015123",
+          "subcluster_name": "Inflammation-Resolution Imbalance via Lipid Mediators in Aging",
+          "reasoning": "Describes imbalance between pro- and anti-inflammatory lipid mediators from arachidonic acid metabolism driving chronic inflammation."
+        },
+        {
+          "theory_id": "T011777",
+          "subcluster_name": "Autoantibody Accumulation and Chronic Inflammation in Aging",
+          "reasoning": "Explains antibody repertoire changes with age leading to autoantibody accumulation, chronic inflammation, and accelerated aging."
+        },
+        {
+          "theory_id": "T024004",
+          "subcluster_name": "Autoimmune and Neuroinflammatory Mechanisms in Immune Aging",
+          "reasoning": "Links immune aging to increased autoimmunity and neuroinflammation contributing to Alzheimer's disease pathogenesis."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:14:52"
+}

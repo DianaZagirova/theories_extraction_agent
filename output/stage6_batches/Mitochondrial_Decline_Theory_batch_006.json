@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+        "theory_ids": [
+          "T005976",
+          "T006292",
+          "T005961",
+          "T005983",
+          "T005962",
+          "T005980",
+          "T005981",
+          "T006802",
+          "T007058",
+          "T006294"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+        "theory_ids": [
+          "T007135",
+          "T006040",
+          "T007192",
+          "T007013",
+          "T006976"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction-Genomic Instability and Telomere Attrition Theory",
+        "theory_ids": [
+          "T006468",
+          "T006158",
+          "T006351",
+          "T006531",
+          "T006785"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitophagy Dysfunction and Mitochondrial Quality Control Theory",
+        "theory_ids": [
+          "T006804",
+          "T006774",
+          "T006879",
+          "T007057",
+          "T006949"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005976",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+          "reasoning": "Focuses on accumulation of mtDNA mutations and their replication dynamics leading to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T006292",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+          "reasoning": "Describes somatic mtDNA mutation accumulation and clonal expansion as drivers of mitochondrial aging."
+        },
+        {
+          "theory_id": "T005961",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+          "reasoning": "Emphasizes age-related accumulation of mtDNA mutations causing respiratory chain defects and aging."
+        },
+        {
+          "theory_id": "T005983",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+          "reasoning": "Highlights early-life mtDNA point mutations and their clonal expansion as contributors to aging."
+        },
+        {
+          "theory_id": "T005962",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+          "reasoning": "Focuses on clonal expansion of mtDNA deletions and their role in mitochondrial dysfunction during aging."
+        },
+        {
+          "theory_id": "T005980",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+          "reasoning": "Explains coexistence and selection dynamics of mutant and wild-type mtDNA via replication and degradation."
+        },
+        {
+          "theory_id": "T005981",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+          "reasoning": "Describes transcriptional feedback inhibition loss in mtDNA deletions leading to selective replication advantage."
+        },
+        {
+          "theory_id": "T006802",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+          "reasoning": "Attributes mtDNA mutation accumulation primarily to replication errors and spontaneous base hydrolysis."
+        },
+        {
+          "theory_id": "T007058",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+          "reasoning": "Focuses on mtDNA mutation accumulation, replication errors, and their impact on stem cell function and aging."
+        },
+        {
+          "theory_id": "T006294",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation and Clonal Expansion Theory",
+          "reasoning": "Describes ROS-induced mtDNA mutation accumulation and positive feedback damage cycle contributing to aging."
+        },
+        {
+          "theory_id": "T007135",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial hydrogen peroxide production rate as a causal factor in aging via oxidative damage."
+        },
+        {
+          "theory_id": "T006040",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Emphasizes mitochondrial ROS and cardiolipin oxidation signaling triggering mitophagy, apoptosis, and aging."
+        },
+        {
+          "theory_id": "T007192",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Links mitochondrial ROS production and oxidative damage accumulation to aging and calorie restriction effects."
+        },
+        {
+          "theory_id": "T007013",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes mitochondrial oxidative damage and free radical theory as drivers of mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T006976",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Details mitochondrial dysfunction-driven H2O2 signaling activating lipid catabolism and white matter degeneration."
+        },
+        {
+          "theory_id": "T006468",
+          "subcluster_name": "Mitochondrial Dysfunction-Genomic Instability and Telomere Attrition Theory",
+          "reasoning": "Links mitochondrial dysfunction to nuclear genomic instability, DNA damage response, and aging via mito-nuclear communication."
+        },
+        {
+          "theory_id": "T006158",
+          "subcluster_name": "Mitochondrial Dysfunction-Genomic Instability and Telomere Attrition Theory",
+          "reasoning": "Connects mitochondrial dysfunction-induced ROS to telomere attrition, genomic instability, and apoptosis in aging."
+        },
+        {
+          "theory_id": "T006351",
+          "subcluster_name": "Mitochondrial Dysfunction-Genomic Instability and Telomere Attrition Theory",
+          "reasoning": "Shows mitochondrial complex III deficiency causing nuclear DNA damage, aberrant cell cycle, and progeroid aging."
+        },
+        {
+          "theory_id": "T006531",
+          "subcluster_name": "Mitochondrial Dysfunction-Genomic Instability and Telomere Attrition Theory",
+          "reasoning": "Describes mitochondrial energetic decline limiting ATP, impairing proteostasis, and contributing to muscle aging."
+        },
+        {
+          "theory_id": "T006785",
+          "subcluster_name": "Mitochondrial Dysfunction-Genomic Instability and Telomere Attrition Theory",
+          "reasoning": "Focuses on mitochondrial bioenergetic decline driving vascular aging, senescence, inflammation, and tissue degeneration."
+        },
+        {
+          "theory_id": "T006804",
+          "subcluster_name": "Mitophagy Dysfunction and Mitochondrial Quality Control Theory",
+          "reasoning": "Emphasizes mitophagy as a mitochondrial quality control mechanism whose impairment leads to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T006774",
+          "subcluster_name": "Mitophagy Dysfunction and Mitochondrial Quality Control Theory",
+          "reasoning": "Describes mosaic mitophagy impairment in muscle fibers causing mitochondrial disease and aging pathology."
+        },
+        {
+          "theory_id": "T006879",
+          "subcluster_name": "Mitophagy Dysfunction and Mitochondrial Quality Control Theory",
+          "reasoning": "Details age-dependent decline in mitophagy causing accumulation of damaged mitochondria and age-related diseases."
+        },
+        {
+          "theory_id": "T007057",
+          "subcluster_name": "Mitophagy Dysfunction and Mitochondrial Quality Control Theory",
+          "reasoning": "Proposes coordination between mitophagy and mitochondrial biogenesis is disrupted in aging, leading to mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T006949",
+          "subcluster_name": "Mitophagy Dysfunction and Mitochondrial Quality Control Theory",
+          "reasoning": "Focuses on mitonuclear imbalance and mitochondrial unfolded protein response affecting mitochondrial proteostasis and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:40:29"
+}

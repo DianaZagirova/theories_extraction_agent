@@ -1,0 +1,188 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Replicative and Telomere-Associated Cellular Senescence Theory",
+        "theory_ids": [
+          "T004490",
+          "T003866",
+          "T004010",
+          "T004367",
+          "T003871"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and p16Ink4a Cellular Senescence Theory",
+        "theory_ids": [
+          "T004126",
+          "T004252",
+          "T004319",
+          "T004296"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Senescent Microglia and Neuroinflammation Cellular Senescence Theory",
+        "theory_ids": [
+          "T003955",
+          "T003984",
+          "T004021",
+          "T004265",
+          "T004017"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Endothelial Cell Senescence and Vascular Dysfunction Cellular Senescence Theory",
+        "theory_ids": [
+          "T004294",
+          "T004516"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T004490",
+          "subcluster_name": "Replicative and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative senescence linked to telomere length and its impact on vascular aging and cardiovascular disease."
+        },
+        {
+          "theory_id": "T004126",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and p16Ink4a Cellular Senescence Theory",
+          "reasoning": "Emphasizes accumulation of p16Ink4a-positive senescent cells and their SASP-driven contribution to aging and age-related disorders."
+        },
+        {
+          "theory_id": "T004486",
+          "subcluster_name": "Stress-Induced Premature Senescence via Caveolin-1 and p53 Pathways",
+          "reasoning": "Describes oxidative stress-induced premature senescence mediated by caveolin-1 and p53/p21 signaling."
+        },
+        {
+          "theory_id": "T004252",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and p16Ink4a Cellular Senescence Theory",
+          "reasoning": "Highlights accumulation of senescent cells with SASP effects and their causal role in aging and age-related diseases."
+        },
+        {
+          "theory_id": "T003866",
+          "subcluster_name": "Replicative and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on multiple genetic pathways inducing senescence, especially telomerase repression and telomere shortening."
+        },
+        {
+          "theory_id": "T004150",
+          "subcluster_name": "Oxidative DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Centers on oxidative DNA damage accumulation from ROS leading to mitochondrial dysfunction and senescence."
+        },
+        {
+          "theory_id": "T004319",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and p16Ink4a Cellular Senescence Theory",
+          "reasoning": "Describes stable cell cycle arrest and SASP secretion driving tissue dysfunction and age-related diseases."
+        },
+        {
+          "theory_id": "T003955",
+          "subcluster_name": "Senescent Microglia and Neuroinflammation Cellular Senescence Theory",
+          "reasoning": "Focuses on microglial senescence, metabolic reprogramming, and SASP-driven neuroinflammation in brain aging."
+        },
+        {
+          "theory_id": "T003984",
+          "subcluster_name": "Senescent Microglia and Neuroinflammation Cellular Senescence Theory",
+          "reasoning": "Describes senescence in post-mitotic neurons and glia with SASP contributing to neurodegeneration."
+        },
+        {
+          "theory_id": "T004021",
+          "subcluster_name": "Senescent Microglia and Neuroinflammation Cellular Senescence Theory",
+          "reasoning": "Details microglial senescence impairing clearance of beta-amyloid and promoting Alzheimer's disease pathology."
+        },
+        {
+          "theory_id": "T004294",
+          "subcluster_name": "Endothelial Cell Senescence and Vascular Dysfunction Cellular Senescence Theory",
+          "reasoning": "Focuses on senescence in brain endothelial cells disrupting blood-brain barrier and promoting neurovascular aging."
+        },
+        {
+          "theory_id": "T004010",
+          "subcluster_name": "Replicative and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Describes two-stage mortality model of senescence involving cell cycle arrest and crisis linked to replicative limits."
+        },
+        {
+          "theory_id": "T004472",
+          "subcluster_name": "Nuclear Lamin A Defect-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on protease inhibitor-induced lamin A processing defects causing reversible p53-dependent senescence."
+        },
+        {
+          "theory_id": "T004367",
+          "subcluster_name": "Replicative and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Details telomere shortening triggering DNA damage checkpoints and replicative senescence conserved across species."
+        },
+        {
+          "theory_id": "T004497",
+          "subcluster_name": "Extracellular Proteolysis-Regulated Cellular Senescence Theory",
+          "reasoning": "Emphasizes PAI-1 regulation of extracellular proteolysis and its role in senescence messaging and systemic aging."
+        },
+        {
+          "theory_id": "T004135",
+          "subcluster_name": "p53-Dependent DNA Damage and Senescence Theory",
+          "reasoning": "Describes p53 activation by DNA damage (Brca1 deficiency) inducing senescence that drives aging and tumor suppression."
+        },
+        {
+          "theory_id": "T004219",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Interaction Theory",
+          "reasoning": "Focuses on age-related decline in autophagy contributing to accumulation of damaged components and senescence."
+        },
+        {
+          "theory_id": "T004296",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and p16Ink4a Cellular Senescence Theory",
+          "reasoning": "Highlights mitochondrial dysfunction, DNA damage, apoptosis resistance, and SASP in senescent cells driving aging."
+        },
+        {
+          "theory_id": "T004540",
+          "subcluster_name": "Senescence in Neuropsychiatric Disorders and Brain Aging Theory",
+          "reasoning": "Links cellular senescence driven by AhR activation and ferrosenescence to premature brain aging in schizophrenia."
+        },
+        {
+          "theory_id": "T004516",
+          "subcluster_name": "Endothelial Cell Senescence and Vascular Dysfunction Cellular Senescence Theory",
+          "reasoning": "Describes endothelial senescence contributing to pulmonary arterial hypertension via SASP and vascular remodeling."
+        },
+        {
+          "theory_id": "T004265",
+          "subcluster_name": "Senescent Microglia and Neuroinflammation Cellular Senescence Theory",
+          "reasoning": "Focuses on senescent glial cells driving neuroinflammation, cognitive decline, and benefits of senolytic therapy."
+        },
+        {
+          "theory_id": "T003871",
+          "subcluster_name": "Replicative and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Details telomere shortening-induced senescence impairing vascular cell function and angiogenesis in aging."
+        },
+        {
+          "theory_id": "T003875",
+          "subcluster_name": "Genetic Programming of Cellular Senescence Theory",
+          "reasoning": "Emphasizes genetic control of senescence phenotype and recessive mutations enabling immortalization."
+        },
+        {
+          "theory_id": "T004320",
+          "subcluster_name": "Senescence-Induced Cellular Plasticity and Carcinogenesis Theory",
+          "reasoning": "Describes senescence-driven epigenetic changes and inflammation promoting epithelial plasticity and cancer progression."
+        },
+        {
+          "theory_id": "T003966",
+          "subcluster_name": "Immune Cell Senescence and Immune Aging Theory",
+          "reasoning": "Focuses on replicative senescence of T cells due to thymic involution and homeostatic proliferation causing immune decline."
+        },
+        {
+          "theory_id": "T004017",
+          "subcluster_name": "Senescent Microglia and Neuroinflammation Cellular Senescence Theory",
+          "reasoning": "Links microglial senescence to impaired pathogen clearance, beta-amyloid accumulation, and Alzheimer's disease pathology."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:02:28"
+}

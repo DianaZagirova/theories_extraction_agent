@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 31,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+        "theory_ids": [
+          "T020988",
+          "T020851",
+          "T021133",
+          "T020838",
+          "T021054",
+          "T020698",
+          "T020706",
+          "T020762",
+          "T020823",
+          "T020795",
+          "T020808",
+          "T020551",
+          "T020299",
+          "T020212",
+          "T020996",
+          "T020539",
+          "T020915",
+          "T019627",
+          "T019820"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 19
+      },
+      {
+        "subcluster_name": "Reproductive Control of Aging via Germline Signaling",
+        "theory_ids": [
+          "T020634",
+          "T019194",
+          "T020535",
+          "T020163"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Dietary Restriction and Nutrient-Sensing Pathways in Aging",
+        "theory_ids": [
+          "T020814",
+          "T020595",
+          "T020200",
+          "T020661",
+          "T020215"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020988",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Focuses on IIS pathway, DAF-2 receptor, DAF-16 transcription factor, and systemic coordination of aging via insulin signaling."
+        },
+        {
+          "theory_id": "T020851",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Details daf-2/daf-16 axis in muscle and mitochondrial aging, highlighting cell-autonomous and non-autonomous IIS roles."
+        },
+        {
+          "theory_id": "T021133",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Describes insulin/IGF-I signaling pathway's conserved role in lifespan regulation and neuroendocrine control."
+        },
+        {
+          "theory_id": "T020838",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Focuses on tissue-specific proteomic remodeling and dFOXO mediation downstream of IIS for longevity assurance."
+        },
+        {
+          "theory_id": "T021054",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Emphasizes neurosecretory control of aging via insulin-like ligand secretion and neuronal IIS regulation."
+        },
+        {
+          "theory_id": "T020698",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Highlights IIS pathway's evolutionary conservation, neuroendocrine regulation, and interaction with caloric restriction."
+        },
+        {
+          "theory_id": "T020706",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Focuses on CNS-specific IIS signaling, especially IRS2, as a central regulator of systemic aging."
+        },
+        {
+          "theory_id": "T020762",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Describes IGF1-R signaling as a programmed aging mechanism with downstream cascades affecting neurodegeneration and lifespan."
+        },
+        {
+          "theory_id": "T020823",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Shows adult-specific modulation of insulin-producing neurons affecting IIS, metabolism, and lifespan without insulin resistance."
+        },
+        {
+          "theory_id": "T020795",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Integrates metabolism and longevity through IIS, highlighting tissue-specific effects and IRS2's role."
+        },
+        {
+          "theory_id": "T020808",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Links IIS pathway to aging via SUMOylation of CAR-1 and downstream proteostasis regulation."
+        },
+        {
+          "theory_id": "T020551",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Describes miR-58 microRNA family as downstream effectors of IIS in lifespan regulation."
+        },
+        {
+          "theory_id": "T020299",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Focuses on FOXO transcription factors as key IIS effectors regulating metabolic and proliferative homeostasis."
+        },
+        {
+          "theory_id": "T020212",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Explores interaction between IIS and Ras pathway downstream of DAF-2 in aging regulation."
+        },
+        {
+          "theory_id": "T020996",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Describes modulation of IIS by IGFBP-like protein IMP-L2 affecting lifespan via insulin-like peptide sequestration."
+        },
+        {
+          "theory_id": "T020539",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Focuses on endosomal trafficking protein TBC-2 modulating DAF-16 localization and IIS-dependent lifespan regulation."
+        },
+        {
+          "theory_id": "T020915",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Discusses IIS as a therapeutic target for aging, including trade-offs and side effects of pathway modulation."
+        },
+        {
+          "theory_id": "T019627",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Details PI3K downstream of IIS regulating cardiac aging via autophagy and oxidative stress reduction."
+        },
+        {
+          "theory_id": "T019820",
+          "subcluster_name": "Insulin/IGF-1 Signaling (IIS) Regulation of Aging",
+          "reasoning": "Links daf-2 mutations to metabolic youthfulness and lifespan extension via IIS pathway modulation."
+        },
+        {
+          "theory_id": "T020634",
+          "subcluster_name": "Reproductive Control of Aging via Germline Signaling",
+          "reasoning": "Focuses on germline stem cells producing signals that regulate somatic longevity via transcriptional networks."
+        },
+        {
+          "theory_id": "T019194",
+          "subcluster_name": "Reproductive Control of Aging via Germline Signaling",
+          "reasoning": "Describes germline removal triggering innate immunity activation and longevity via irg-7 and DAF-16/DAF-12."
+        },
+        {
+          "theory_id": "T020535",
+          "subcluster_name": "Reproductive Control of Aging via Germline Signaling",
+          "reasoning": "Emphasizes trade-off between reproduction and somatic maintenance with genetically fixed lifespan linked to reproduction."
+        },
+        {
+          "theory_id": "T020163",
+          "subcluster_name": "Reproductive Control of Aging via Germline Signaling",
+          "reasoning": "Describes energy allocation trade-offs between reproduction and somatic maintenance influencing longevity."
+        },
+        {
+          "theory_id": "T020814",
+          "subcluster_name": "Dietary Restriction and Nutrient-Sensing Pathways in Aging",
+          "reasoning": "Focuses on dietary restriction inhibiting nutrient-sensing pathways (TOR, IIS) to activate protective mechanisms and extend lifespan."
+        },
+        {
+          "theory_id": "T020595",
+          "subcluster_name": "Dietary Restriction and Nutrient-Sensing Pathways in Aging",
+          "reasoning": "Describes lifespan extension and health benefits of dietary restriction modulated by genetic background."
+        },
+        {
+          "theory_id": "T020200",
+          "subcluster_name": "Dietary Restriction and Nutrient-Sensing Pathways in Aging",
+          "reasoning": "Highlights caloric/dietary restriction extending healthspan and lifespan, including late-life initiation effects."
+        },
+        {
+          "theory_id": "T020661",
+          "subcluster_name": "Dietary Restriction and Nutrient-Sensing Pathways in Aging",
+          "reasoning": "Reviews dietary restriction effects on lifespan, cellular aging mechanisms, and evolutionary conserved aging clocks."
+        },
+        {
+          "theory_id": "T020215",
+          "subcluster_name": "Dietary Restriction and Nutrient-Sensing Pathways in Aging",
+          "reasoning": "Discusses caloric restriction's lifespan extension effects, species variability, and translational potential."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:12:27"
+}

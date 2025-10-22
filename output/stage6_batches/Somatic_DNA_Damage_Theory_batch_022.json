@@ -1,0 +1,173 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 22,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+        "theory_ids": [
+          "T026716",
+          "T027201",
+          "T026993",
+          "T027022",
+          "T027348",
+          "T027200",
+          "T026426",
+          "T002571",
+          "T026608",
+          "T027366",
+          "T026616",
+          "T026430",
+          "T027367",
+          "T026513",
+          "T027064",
+          "T026802",
+          "T026858",
+          "T004502"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 18
+      },
+      {
+        "subcluster_name": "PARP-Mediated DNA Repair and Genomic Stability Theory",
+        "theory_ids": [
+          "T007575",
+          "T000722"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026716",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Focuses on genomic instability, nuclear DNA damage accumulation, and impaired DNA repair mechanisms as drivers of aging."
+        },
+        {
+          "theory_id": "T027201",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Emphasizes accumulation of nuclear DNA damage and decline in repair efficiency affecting stem cell function and aging."
+        },
+        {
+          "theory_id": "T007575",
+          "subcluster_name": "PARP-Mediated DNA Repair and Genomic Stability Theory",
+          "reasoning": "Centers on poly(ADP-ribosyl)ation (PARylation) by PARP enzymes in DNA repair and its age-related decline impacting genomic stability."
+        },
+        {
+          "theory_id": "T026993",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Focuses on DNA damage accumulation and the critical role of DNA repair pathways in longevity and aging."
+        },
+        {
+          "theory_id": "T027022",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Highlights DNA damage-induced cellular senescence and SASP as mechanisms linking nuclear DNA damage to aging."
+        },
+        {
+          "theory_id": "T000722",
+          "subcluster_name": "PARP-Mediated DNA Repair and Genomic Stability Theory",
+          "reasoning": "Describes PARylation\u2019s multifaceted role in DNA repair, chromatin remodeling, and aging regulation."
+        },
+        {
+          "theory_id": "T027348",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Focuses on genome instability from defective nucleotide excision repair and its causal role in aging."
+        },
+        {
+          "theory_id": "T027200",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Posits DNA damage accumulation and impaired repair as fundamental causes of aging and targets for intervention."
+        },
+        {
+          "theory_id": "T026426",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Emphasizes DNA damage accumulation and repair efficiency in neurons as key to brain aging."
+        },
+        {
+          "theory_id": "T027044",
+          "subcluster_name": "Molecular Damage Accumulation and Homeostatic Decline Theory",
+          "reasoning": "Broad molecular damage accumulation including DNA damage and decline in homeostatic repair mechanisms driving aging."
+        },
+        {
+          "theory_id": "T002571",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Focuses on HMGB1 reduction impairing nuclear DNA maintenance and increasing DNA damage in brain aging."
+        },
+        {
+          "theory_id": "T026608",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Highlights ATM-regulated DNA damage response and genome instability as central to aging."
+        },
+        {
+          "theory_id": "T027366",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Integrates DNA damage accumulation with epigenetic alterations as interconnected aging mechanisms."
+        },
+        {
+          "theory_id": "T026616",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Describes age-related decline in DNA double-strand break repair efficiency contributing to genomic instability."
+        },
+        {
+          "theory_id": "T026430",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Focuses on DNA damage accumulation and impaired repair mechanisms accelerating aging and age-related diseases."
+        },
+        {
+          "theory_id": "T027367",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Details DNA double-strand break repair pathway shifts and mutation accumulation driving genomic instability with age."
+        },
+        {
+          "theory_id": "T026513",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "General genome instability theory emphasizing DNA damage accumulation as fundamental aging cause."
+        },
+        {
+          "theory_id": "T027064",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Focuses on DNA damage accumulation in neurons, chromatin effects on repair, and inflammation in neuronal aging."
+        },
+        {
+          "theory_id": "T026802",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Links unrepaired DNA damage to cellular senescence and immune aging, including interactions with viral infections."
+        },
+        {
+          "theory_id": "T026858",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Proposes rate of DNA damage accumulation, especially oxidative damage, as a fundamental aging driver modulated by metabolism."
+        },
+        {
+          "theory_id": "T004502",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Decline Theory",
+          "reasoning": "Describes decreased DNA repair efficiency due to lack of natural selection leading to accelerated aging."
+        },
+        {
+          "theory_id": "T027233",
+          "subcluster_name": "Mitochondrial DNA Damage Accumulation Theory",
+          "reasoning": "Focuses specifically on mitochondrial DNA mutations and deletions accumulating with age causing mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T007074",
+          "subcluster_name": "Protein Deamidation Molecular Clock Theory",
+          "reasoning": "Proposes spontaneous protein deamidation as a molecular clock regulating protein lifespan and organismal aging."
+        },
+        {
+          "theory_id": "T008381",
+          "subcluster_name": "Declining Neuronal Detoxification and Transporter Impairment Theory",
+          "reasoning": "Focuses on age-related decline in neuronal efflux transporter function causing toxic metabolite accumulation and aging."
+        },
+        {
+          "theory_id": "T005069",
+          "subcluster_name": "Defensive Activation Theory of REM Sleep and Aging",
+          "reasoning": "Proposes REM sleep and dreaming protect visual cortex from takeover due to cortical plasticity decline with age."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:54:24"
+}

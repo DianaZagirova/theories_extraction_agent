@@ -1,0 +1,161 @@
+{
+  "cluster_name": "Stem Cell Exhaustion Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+        "theory_ids": [
+          "T019074",
+          "T018893",
+          "T016915",
+          "T019238",
+          "T017250",
+          "T018454",
+          "T011110",
+          "T018887",
+          "T011636",
+          "T018621",
+          "T012852"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "DNA Damage, Senescence, and SASP-Driven Stem Cell Exhaustion Theory",
+        "theory_ids": [
+          "T012211",
+          "T013032"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T019074",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Focuses on aging driven by changes in the stem cell niche, specifically Notum-mediated Wnt inhibition from Paneth cells affecting stem cell regeneration."
+        },
+        {
+          "theory_id": "T018893",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Emphasizes the network interactions among stem cells, niches, tissues, and systemic environment influencing aging, highlighting extrinsic niche and systemic factors."
+        },
+        {
+          "theory_id": "T016915",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Describes stem cell aging involving both intrinsic changes and aged stromal microenvironment effects, highlighting niche aging impact on stem cell function."
+        },
+        {
+          "theory_id": "T019238",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Details intrinsic and extrinsic dysregulation of stem cells including niche and systemic environment contributions to functional decline."
+        },
+        {
+          "theory_id": "T017250",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Covers intrinsic and extrinsic factors including niche deterioration and systemic signals affecting stem cell aging and function."
+        },
+        {
+          "theory_id": "T018454",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Focuses on intrinsic and extrinsic influences on stem cells, including systemic environment and inflamm-aging impacting stem cell aging."
+        },
+        {
+          "theory_id": "T011110",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Describes intrinsic and extrinsic factors including niche aging and systemic environment impairing stem cell function and causing apoptosis."
+        },
+        {
+          "theory_id": "T018887",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Highlights regulation of stem cell self-renewal and senescence by intrinsic genetic/epigenetic factors and extrinsic niche influences."
+        },
+        {
+          "theory_id": "T011636",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Focuses on stem cell niche regulation, intrinsic cellular changes, and signaling pathway dysregulation affecting stem cell aging."
+        },
+        {
+          "theory_id": "T018621",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Describes ISC aging driven by intrinsic molecular dysfunction and extrinsic factors like microbiota-induced inflammation and niche changes."
+        },
+        {
+          "theory_id": "T012852",
+          "subcluster_name": "Stem Cell Niche Dysfunction and Extrinsic Regulation Theory",
+          "reasoning": "Emphasizes both intrinsic and extrinsic environmental factors contributing to impaired self-renewal and aberrant differentiation in aged stem cells."
+        },
+        {
+          "theory_id": "T019460",
+          "subcluster_name": "Stem Cell Selection and Resistance Mechanisms Theory",
+          "reasoning": "Focuses on selection within stem cell pools favoring apoptosis-resistant cells with high ABC/G2 transporter activity, a form of stem cell pool aging."
+        },
+        {
+          "theory_id": "T018309",
+          "subcluster_name": "Genetically Determined Mitotic Clock and Replicative Limit Theory",
+          "reasoning": "Centers on genetically controlled finite self-renewal capacity of hematopoietic stem cells, defining a mitotic clock limiting stem cell divisions."
+        },
+        {
+          "theory_id": "T017121",
+          "subcluster_name": "Nuclear DNA Damage and Apoptosis-Driven Stem Cell Exhaustion Theory",
+          "reasoning": "Describes stem cell exhaustion caused by nuclear fragility and increased apoptosis due to lamin A mutations in progeria, linking DNA damage to stem cell loss."
+        },
+        {
+          "theory_id": "T012211",
+          "subcluster_name": "DNA Damage, Senescence, and SASP-Driven Stem Cell Exhaustion Theory",
+          "reasoning": "Focuses on mesenchymal stem cell senescence driven by DNA damage response, telomere attrition, mitochondrial dysfunction, and SASP causing stem cell decline."
+        },
+        {
+          "theory_id": "T013032",
+          "subcluster_name": "DNA Damage, Senescence, and SASP-Driven Stem Cell Exhaustion Theory",
+          "reasoning": "Highlights DNA damage accumulation, epigenetic alterations, mitochondrial dysfunction, and metabolic dysregulation as intrinsic drivers of stem cell aging."
+        },
+        {
+          "theory_id": "T018106",
+          "subcluster_name": "Metabolic and Epigenetic Regulation of Stem Cell Exhaustion Theory",
+          "reasoning": "Emphasizes metabolic and epigenetic pathways regulating stem cell exhaustion, including mTOR, autophagy, and nutrient sensing affecting stem cell aging."
+        },
+        {
+          "theory_id": "T018090",
+          "subcluster_name": "Stem Cell Division Pattern and Self-Renewal Regulation Theory",
+          "reasoning": "Focuses on age-related changes in stem cell division patterns, balance of symmetric/asymmetric divisions, and niche sensitivity affecting self-renewal and exhaustion."
+        },
+        {
+          "theory_id": "T017660",
+          "subcluster_name": "Growth Factor Signaling and Stem Cell Senescence Regulation Theory",
+          "reasoning": "Describes FGF signaling as a key regulator of stem cell self-renewal and senescence, influencing stem cell exhaustion and aging."
+        },
+        {
+          "theory_id": "T016726",
+          "subcluster_name": "Stem Cell Turnover Rate Tradeoff Theory of Aging and Cancer",
+          "reasoning": "Explores how stem cell division frequency and turnover rates balance aging and cancer risk, linking stem cell proliferation dynamics to aging."
+        },
+        {
+          "theory_id": "T016277",
+          "subcluster_name": "Negligible Senescence via Continuous Stem Cell Renewal Theory",
+          "reasoning": "Describes Hydra\u2019s continuous stem cell renewal, lack of germline-soma distinction, and stress resistance mechanisms enabling negligible senescence."
+        },
+        {
+          "theory_id": "T016585",
+          "subcluster_name": "Intestinal Stem Cell Activity and Sex-Dimorphic Aging Theory",
+          "reasoning": "Focuses on sex differences in ISC proliferation and gut aging, linking ISC activity to pathology and lifespan differences modulated by diet."
+        },
+        {
+          "theory_id": "T017138",
+          "subcluster_name": "Satellite Cell Decline and Muscle Aging Theory",
+          "reasoning": "Describes age-related decline in satellite cell number/function causing loss of myonuclei and muscle fiber atrophy."
+        },
+        {
+          "theory_id": "T019453",
+          "subcluster_name": "Satellite Cell Quiescence, Senescence, and Activation Theory",
+          "reasoning": "Focuses on satellite cell quiescence maintenance, senescence induction by waste accumulation, and exercise-induced activation preventing exhaustion."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:32:01"
+}

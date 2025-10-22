@@ -1,0 +1,238 @@
+{
+  "cluster_name": "Epigenetic Aging Clock Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+        "theory_ids": [
+          "T005385",
+          "T004145",
+          "T004425",
+          "T005230",
+          "T006342",
+          "T005610",
+          "T002855",
+          "T002561",
+          "T001226",
+          "T003100",
+          "T000177",
+          "T004220"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Stem Cell Epigenetic Aging and Dysregulation Theories",
+        "theory_ids": [
+          "T006628",
+          "T001447",
+          "T006037",
+          "T002195",
+          "T006911",
+          "T006193",
+          "T005744",
+          "T006121",
+          "T005013"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Chromatin Remodeling and Nuclear Architecture Theories",
+        "theory_ids": [
+          "T006189",
+          "T004652",
+          "T006062",
+          "T000601",
+          "T000781",
+          "T003947",
+          "T006177"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Replication Timing and Mitotic Clock Epigenetic Theories",
+        "theory_ids": [
+          "T006203",
+          "T004311",
+          "T004221"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005385",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Focuses on epigenetic clocks as biomarkers and pacemakers of aging with emphasis on reversibility and modular epigenome models."
+        },
+        {
+          "theory_id": "T004145",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Discusses DNA methylation clocks as aging biomarkers and their evolutionary conservation, fitting the epigenetic clock theme."
+        },
+        {
+          "theory_id": "T004425",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Covers epigenetic clocks as biomarkers and mediators of aging, including environmental modulation and developmental tuning."
+        },
+        {
+          "theory_id": "T005230",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Describes epigenetic clocks disrupted by environmental factors and links DNA damage to epigenetic aging."
+        },
+        {
+          "theory_id": "T006342",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Focuses on DNA methylation age as a biomarker and environmental acceleration of epigenetic aging."
+        },
+        {
+          "theory_id": "T005610",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Highlights epigenetic clock plasticity modulated by developmental environment and nutrient-sensing pathways."
+        },
+        {
+          "theory_id": "T002855",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Meta-analysis of epigenetic age acceleration, genetic determinants, and causal mechanisms of epigenetic aging."
+        },
+        {
+          "theory_id": "T002561",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Identifies latent DNA methylation signatures linked to aging and reprogramming, emphasizing reversible and irreversible components."
+        },
+        {
+          "theory_id": "T001226",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Proposes aging as an epigenetic state reversible by reprogramming, linking epigenetic changes to aging clock reset."
+        },
+        {
+          "theory_id": "T003100",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Focuses on DNA methylation changes, DNMT1 role, and epigenetic clocks as measures of biological age and rejuvenation."
+        },
+        {
+          "theory_id": "T000177",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Introduces causality-enriched epigenetic clocks separating damaging and adaptive methylation changes influencing aging."
+        },
+        {
+          "theory_id": "T004220",
+          "subcluster_name": "Epigenetic Clock and Reprogramming Theories",
+          "reasoning": "Models non-linear epigenetic aging trajectories and site-specific methylation rates, refining epigenetic clock understanding."
+        },
+        {
+          "theory_id": "T006628",
+          "subcluster_name": "Stem Cell Epigenetic Aging and Dysregulation Theories",
+          "reasoning": "Focuses on epigenetic dysregulation in stem cells affecting self-renewal, differentiation, and tissue regeneration during aging."
+        },
+        {
+          "theory_id": "T001447",
+          "subcluster_name": "Stem Cell Epigenetic Aging and Dysregulation Theories",
+          "reasoning": "Proposes somatic epigenetic molecular clock reflecting stem cell divisions and niche dynamics influencing aging."
+        },
+        {
+          "theory_id": "T006037",
+          "subcluster_name": "Stem Cell Epigenetic Aging and Dysregulation Theories",
+          "reasoning": "Links chromatin state changes and environmental remodeling to aging, emphasizing epigenetic memory and chromatin modifiers."
+        },
+        {
+          "theory_id": "T002195",
+          "subcluster_name": "Stem Cell Epigenetic Aging and Dysregulation Theories",
+          "reasoning": "Describes epigenetic regulation as a fundamental aging mechanism with environmental modulation and epigenetic stability decline."
+        },
+        {
+          "theory_id": "T006911",
+          "subcluster_name": "Stem Cell Epigenetic Aging and Dysregulation Theories",
+          "reasoning": "Details epigenetic alterations including histone modifications and DNA methylation drift as causal drivers of aging."
+        },
+        {
+          "theory_id": "T006193",
+          "subcluster_name": "Stem Cell Epigenetic Aging and Dysregulation Theories",
+          "reasoning": "Covers DNA methylation, histone modifications, ncRNAs, and nuclear architecture impacting epigenetic regulation in aging."
+        },
+        {
+          "theory_id": "T005744",
+          "subcluster_name": "Stem Cell Epigenetic Aging and Dysregulation Theories",
+          "reasoning": "Focuses on epigenetic drift, tissue-specific methylation changes, and DNA methylation machinery regulation during aging."
+        },
+        {
+          "theory_id": "T006121",
+          "subcluster_name": "Stem Cell Epigenetic Aging and Dysregulation Theories",
+          "reasoning": "Describes interplay between DNA damage and epigenetic instability driving aging, with epigenetic clocks linked to DNA repair."
+        },
+        {
+          "theory_id": "T005013",
+          "subcluster_name": "Stem Cell Epigenetic Aging and Dysregulation Theories",
+          "reasoning": "Details global hypomethylation and local hypermethylation affecting gene expression and genomic stability in aging."
+        },
+        {
+          "theory_id": "T006189",
+          "subcluster_name": "Chromatin Remodeling and Nuclear Architecture Theories",
+          "reasoning": "Focuses on chromatin modifier redistribution, DNA damage-induced chromatin remodeling, and nuclear architecture changes driving aging."
+        },
+        {
+          "theory_id": "T004652",
+          "subcluster_name": "Chromatin Remodeling and Nuclear Architecture Theories",
+          "reasoning": "Describes epigenetic regulation of FKBP5 and NF-\u03baB inflammation feedback loop linking chromatin changes to cardiovascular aging risk."
+        },
+        {
+          "theory_id": "T006062",
+          "subcluster_name": "Chromatin Remodeling and Nuclear Architecture Theories",
+          "reasoning": "Shows early life heat stress induces persistent histone acetylation and chromatin remodeling, establishing epigenetic memory."
+        },
+        {
+          "theory_id": "T000601",
+          "subcluster_name": "Chromatin Remodeling and Nuclear Architecture Theories",
+          "reasoning": "Explains transcriptional memory via dFOXO activation and chromatin remodeling that programs longevity through early-life epigenetic changes."
+        },
+        {
+          "theory_id": "T000781",
+          "subcluster_name": "Chromatin Remodeling and Nuclear Architecture Theories",
+          "reasoning": "Links epigenetic alterations in SCN and hippocampus to circadian rhythm disruption and cognitive decline via chromatin changes."
+        },
+        {
+          "theory_id": "T003947",
+          "subcluster_name": "Chromatin Remodeling and Nuclear Architecture Theories",
+          "reasoning": "Focuses on age-associated loss of epigenetic gene repression leading to aberrant gene activation and physiological dysfunction."
+        },
+        {
+          "theory_id": "T006177",
+          "subcluster_name": "Chromatin Remodeling and Nuclear Architecture Theories",
+          "reasoning": "Describes epigenetic hypomethylation of endogenous retroelements causing genomic instability and aging-related epigenetic dysregulation."
+        },
+        {
+          "theory_id": "T006203",
+          "subcluster_name": "Replication Timing and Mitotic Clock Epigenetic Theories",
+          "reasoning": "Proposes DNA methylation loss in late-replicating domains as a mitotic clock tracking cell division history and aging."
+        },
+        {
+          "theory_id": "T004311",
+          "subcluster_name": "Replication Timing and Mitotic Clock Epigenetic Theories",
+          "reasoning": "Presents a genetically regulated molecular clock concept with metabolic age as a proxy, linking molecular clock to aging variability."
+        },
+        {
+          "theory_id": "T004221",
+          "subcluster_name": "Replication Timing and Mitotic Clock Epigenetic Theories",
+          "reasoning": "Models epigenetic state changes non-linearly over time, analogous to molecular evolution clocks, capturing complex aging dynamics."
+        },
+        {
+          "theory_id": "T000435",
+          "subcluster_name": "Thermodynamic and Information Theory of Epigenetic Aging",
+          "reasoning": "Frames DNA methylation as a thermodynamic and information processing system, linking entropy and energy dissipation to aging."
+        },
+        {
+          "theory_id": "T003768",
+          "subcluster_name": "Circadian Epigenetic Oscillation Theories",
+          "reasoning": "Focuses on circadian oscillations of cytosine modifications and their causal role in driving age-related epigenetic changes."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:21:57"
+}

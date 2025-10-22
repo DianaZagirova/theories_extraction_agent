@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 29,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+        "theory_ids": [
+          "T021242",
+          "T020967",
+          "T021105",
+          "T021016",
+          "T020914",
+          "T021155",
+          "T021138",
+          "T021254"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+        "theory_ids": [
+          "T021164",
+          "T021047",
+          "T021063",
+          "T021273",
+          "T020953",
+          "T021079",
+          "T021032",
+          "T021099",
+          "T021188",
+          "T021319",
+          "T021046"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Senescence Spread and Paracrine Signaling Theory",
+        "theory_ids": [
+          "T021093",
+          "T021173",
+          "T021272",
+          "T021258",
+          "T020913",
+          "T020950",
+          "T021307"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T021242",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on irreparable telomeric DNA damage and persistent DDR signaling as a cause of senescence and aging."
+        },
+        {
+          "theory_id": "T020967",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Centers on replicative senescence driven by telomere shortening and its role in aging and stem cell heterogeneity."
+        },
+        {
+          "theory_id": "T021105",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Describes replicative senescence as a tumor suppressor and aging mechanism linked to telomere shortening."
+        },
+        {
+          "theory_id": "T021016",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening triggering replicative senescence and SASP contributing to aging diseases."
+        },
+        {
+          "theory_id": "T020914",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Highlights replicative senescence and telomere dysfunction as biomarkers and drivers of aging in primates."
+        },
+        {
+          "theory_id": "T021155",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on senescence-to-immortality switch involving telomerase reactivation and telomere maintenance in cancer and aging."
+        },
+        {
+          "theory_id": "T021138",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Links genetic variation in telomerase and cell cycle control to aging, emphasizing telomere maintenance mechanisms."
+        },
+        {
+          "theory_id": "T021254",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Describes multiple senescence origins including replicative exhaustion (telomere shortening) and their impact on skin aging."
+        },
+        {
+          "theory_id": "T021164",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Focuses on senescence as a stress response with emphasis on SASP, immunosenescence, and inflammaging driving aging."
+        },
+        {
+          "theory_id": "T021047",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Highlights the dual role of senescence and SASP in development, regeneration, and aging-related pathology."
+        },
+        {
+          "theory_id": "T021063",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Distinguishes SASP as a damage-response phenotype and explores p16INK4a-induced senescence independent of SASP."
+        },
+        {
+          "theory_id": "T021273",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Emphasizes SASP and extracellular vesicles in senescence, with key molecular pathways p53/p21 and p16INK4a/pRB."
+        },
+        {
+          "theory_id": "T020953",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Focuses on SASP-driven inflammation and dual roles of senescence in physiology and pathology."
+        },
+        {
+          "theory_id": "T021079",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Details SASP's role in chronic inflammation, tissue dysfunction, and therapeutic targeting of senescent cells."
+        },
+        {
+          "theory_id": "T021032",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Describes SASP's role in neuropathology and neurodegeneration linking senescence to systemic aging diseases."
+        },
+        {
+          "theory_id": "T021099",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Focuses on endothelial cell senescence and SASP-mediated systemic metabolic dysfunction and insulin resistance."
+        },
+        {
+          "theory_id": "T021188",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Describes accumulation of senescent cells and SASP-driven inflammaging impairing regeneration and promoting aging."
+        },
+        {
+          "theory_id": "T021319",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Explores tumor suppression by senescence and antagonistic pleiotropy with SASP contributing to aging phenotypes."
+        },
+        {
+          "theory_id": "T021046",
+          "subcluster_name": "SASP-Centric Cellular Senescence Theory",
+          "reasoning": "Details molecular mechanisms of senescence involving RB/p53 pathways and SASP in tissue homeostasis and aging."
+        },
+        {
+          "theory_id": "T021093",
+          "subcluster_name": "Senescence Spread and Paracrine Signaling Theory",
+          "reasoning": "Focuses on paracrine and juxtacrine spread of senescence via SASP and NOTCH signaling, controlling senescence lesion propagation."
+        },
+        {
+          "theory_id": "T021173",
+          "subcluster_name": "Senescence Spread and Paracrine Signaling Theory",
+          "reasoning": "Describes systemic propagation of senescence through circulating factors and rejuvenation by senolytic interventions."
+        },
+        {
+          "theory_id": "T021272",
+          "subcluster_name": "Senescence Spread and Paracrine Signaling Theory",
+          "reasoning": "Links IGF-I induced senescence via ROS-p53 pathway, highlighting oxidative stress and signaling in senescence induction."
+        },
+        {
+          "theory_id": "T021258",
+          "subcluster_name": "Senescence Spread and Paracrine Signaling Theory",
+          "reasoning": "Describes PLA2R1-mediated tumor suppression via ROS-Rb-PARP1 pathway causing DNA damage and senescence induction."
+        },
+        {
+          "theory_id": "T020913",
+          "subcluster_name": "Senescence Spread and Paracrine Signaling Theory",
+          "reasoning": "Focuses on transcriptional fidelity loss and chromatin remodeling as features of senescence affecting gene expression and aging."
+        },
+        {
+          "theory_id": "T020950",
+          "subcluster_name": "Senescence Spread and Paracrine Signaling Theory",
+          "reasoning": "Links psychosocial stress to cellular senescence via oxidative stress and transcriptional control pathways influencing aging."
+        },
+        {
+          "theory_id": "T021307",
+          "subcluster_name": "Senescence Spread and Paracrine Signaling Theory",
+          "reasoning": "Describes autophagy decline mechanisms during aging that contribute to cellular dysfunction and senescence-related aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:18:37"
+}

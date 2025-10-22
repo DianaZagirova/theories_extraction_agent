@@ -1,0 +1,190 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 48,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+        "theory_ids": [
+          "T027568",
+          "T027537",
+          "T027561",
+          "T027566",
+          "T027542",
+          "T027548",
+          "T027546",
+          "T027579"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial Oxidative Stress and Membrane Signaling Senescence Theory",
+        "theory_ids": [
+          "T011676",
+          "T005511",
+          "T008383",
+          "T007984",
+          "T001543",
+          "T007141",
+          "T017025"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Cell Cycle Regulation and Proliferation Arrest Senescence Theory",
+        "theory_ids": [
+          "T005707",
+          "T005903",
+          "T027565",
+          "T009160",
+          "T017634",
+          "T007383"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+        "theory_ids": [
+          "T004760",
+          "T009102"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027568",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on accumulation of senescent cells and their SASP driving aging and tissue dysfunction."
+        },
+        {
+          "theory_id": "T027537",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Emphasizes senescent cell buildup and clearance as key to aging."
+        },
+        {
+          "theory_id": "T027561",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Describes accelerated senescence and SASP-driven inflammation contributing to tissue damage."
+        },
+        {
+          "theory_id": "T027566",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Highlights SASP and cell identity shifts as drivers of aging phenotypes."
+        },
+        {
+          "theory_id": "T027542",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Links cellular senescence and SASP to neurodegenerative disease and brain aging."
+        },
+        {
+          "theory_id": "T027548",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on senescent cell accumulation and senolysis as therapeutic intervention."
+        },
+        {
+          "theory_id": "T027546",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Describes macrophage clearance of senescent cells and SASP impact on aging and cancer."
+        },
+        {
+          "theory_id": "T027579",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Connects unfolded protein response with senescence phenotype and aging."
+        },
+        {
+          "theory_id": "T011676",
+          "subcluster_name": "Mitochondrial Oxidative Stress and Membrane Signaling Senescence Theory",
+          "reasoning": "Focuses on caveolae and caveolin-1 mediating oxidative stress and mitochondrial dysfunction in senescence."
+        },
+        {
+          "theory_id": "T005511",
+          "subcluster_name": "Mitochondrial Oxidative Stress and Membrane Signaling Senescence Theory",
+          "reasoning": "Premature senescence in diabetes linked to metabolic stress and accelerated tissue aging."
+        },
+        {
+          "theory_id": "T008383",
+          "subcluster_name": "Mitochondrial Oxidative Stress and Membrane Signaling Senescence Theory",
+          "reasoning": "Describes energy decline and mitochondrial dysfunction driving brain aging and senescence."
+        },
+        {
+          "theory_id": "T007984",
+          "subcluster_name": "Mitochondrial Oxidative Stress and Membrane Signaling Senescence Theory",
+          "reasoning": "Endothelial DNA damage and senescence impair neurovascular function, linked to oxidative stress."
+        },
+        {
+          "theory_id": "T001543",
+          "subcluster_name": "Mitochondrial Oxidative Stress and Membrane Signaling Senescence Theory",
+          "reasoning": "Mitotic catastrophe induces polyploidy and senescence via DNA/spindle damage and stress responses."
+        },
+        {
+          "theory_id": "T007141",
+          "subcluster_name": "Mitochondrial Oxidative Stress and Membrane Signaling Senescence Theory",
+          "reasoning": "Systemic circulating factors modulate senescence, likely affecting oxidative stress and signaling."
+        },
+        {
+          "theory_id": "T017025",
+          "subcluster_name": "Mitochondrial Oxidative Stress and Membrane Signaling Senescence Theory",
+          "reasoning": "Schizophrenia as segmental progeria involves cellular senescence and apoptosis linked to oxidative and epigenetic stress."
+        },
+        {
+          "theory_id": "T005707",
+          "subcluster_name": "Cell Cycle Regulation and Proliferation Arrest Senescence Theory",
+          "reasoning": "Focuses on cell cycle transition probabilities and altered proliferation dynamics in senescent cells."
+        },
+        {
+          "theory_id": "T005903",
+          "subcluster_name": "Cell Cycle Regulation and Proliferation Arrest Senescence Theory",
+          "reasoning": "B-MYB transcription factor regulates cell cycle progression and its loss induces senescence."
+        },
+        {
+          "theory_id": "T027565",
+          "subcluster_name": "Cell Cycle Regulation and Proliferation Arrest Senescence Theory",
+          "reasoning": "p53-p21 pathway and post-translational p21 stabilization enforce cell cycle arrest in senescence."
+        },
+        {
+          "theory_id": "T009160",
+          "subcluster_name": "Cell Cycle Regulation and Proliferation Arrest Senescence Theory",
+          "reasoning": "DNA synthesis inhibitor protein accumulates to irreversibly block cell cycle in senescence."
+        },
+        {
+          "theory_id": "T017634",
+          "subcluster_name": "Cell Cycle Regulation and Proliferation Arrest Senescence Theory",
+          "reasoning": "Replicative senescence and markers of cell cycle arrest define senescent cell accumulation."
+        },
+        {
+          "theory_id": "T007383",
+          "subcluster_name": "Cell Cycle Regulation and Proliferation Arrest Senescence Theory",
+          "reasoning": "Yeast replicative senescence models limited division capacity and aging linked to cell cycle arrest."
+        },
+        {
+          "theory_id": "T008290",
+          "subcluster_name": "Nuclear Genetic and Epigenetic Programming Senescence Theory",
+          "reasoning": "Programmed cellular lifespan controlled by nuclear chromatin and transcriptional regulation."
+        },
+        {
+          "theory_id": "T004760",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Telomere shortening triggers senescence and inflammation affecting placental aging and birth outcomes."
+        },
+        {
+          "theory_id": "T009102",
+          "subcluster_name": "Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Microglial telomere damage causes premature senescence contributing to Alzheimer's disease."
+        },
+        {
+          "theory_id": "T007246",
+          "subcluster_name": "Immune Recognition and Clearance of Senescent Cells Theory",
+          "reasoning": "Senescent cell antigen on membranes triggers immune clearance, linking molecular aging to systemic removal."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:35:09"
+}

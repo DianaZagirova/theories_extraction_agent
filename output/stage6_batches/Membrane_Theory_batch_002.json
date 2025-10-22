@@ -1,0 +1,200 @@
+{
+  "cluster_name": "Membrane Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+        "theory_ids": [
+          "T011946",
+          "T016367",
+          "T016362",
+          "T010984",
+          "T008666",
+          "T014293",
+          "T008810",
+          "T023858",
+          "T009618",
+          "T009572",
+          "T009123",
+          "T022768",
+          "T025776",
+          "T011231",
+          "T026748",
+          "T010146"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Membrane Lipid Raft Decline and Neurodegeneration Theory",
+        "theory_ids": [
+          "T021228",
+          "T026257",
+          "T024075"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Membrane Physical Properties and Intracellular Density Theory",
+        "theory_ids": [
+          "T007613",
+          "T009003",
+          "T009281",
+          "T009233",
+          "T008675",
+          "T008183"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Membrane Theory",
+        "theory_ids": [
+          "T021729"
+        ],
+        "theory_count": 1,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "1 subclusters too small"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011946",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Focuses on age-related changes in membrane lipid composition, increased rigidity, and lipid peroxidation linking oxidative stress to membrane dysfunction."
+        },
+        {
+          "theory_id": "T016367",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Emphasizes membrane fatty acid composition affecting metabolic rate and lifespan via susceptibility to peroxidation and oxidative damage."
+        },
+        {
+          "theory_id": "T016362",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Links membrane lipid unsaturation and peroxidation to aging rate, highlighting adaptive lipid remodeling reducing oxidative damage."
+        },
+        {
+          "theory_id": "T010984",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Describes longevity-homeoviscous adaptation linking membrane fatty acid unsaturation, lipid peroxidation susceptibility, and lifespan."
+        },
+        {
+          "theory_id": "T008666",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Details age-related increase in membrane microviscosity due to lipid changes and free radical damage affecting membrane function."
+        },
+        {
+          "theory_id": "T014293",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Focuses on age-dependent membrane rigidity increase impairing protein diffusion and enzyme activity, linked to lipid changes."
+        },
+        {
+          "theory_id": "T008810",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Highlights membrane vulnerability to free radical damage causing permeability loss, intracellular dehydration, and functional decline."
+        },
+        {
+          "theory_id": "T023858",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Emphasizes free radical-induced membrane lipid peroxidation and protein cross-linking causing decreased permeability and cellular dehydration."
+        },
+        {
+          "theory_id": "T009618",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Describes age-related decline in membrane protein lateral diffusion and permeability due to free radical damage and lipid peroxidation."
+        },
+        {
+          "theory_id": "T009572",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Focuses on decreased lateral diffusion of membrane proteins with age, leading to permeability loss and increased intracellular density."
+        },
+        {
+          "theory_id": "T009123",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Links cholesterol accumulation in membranes to increased microviscosity and decreased membrane enzyme activity during aging."
+        },
+        {
+          "theory_id": "T022768",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Shows age-related membrane lipid changes increasing microviscosity and how dietary restriction preserves membrane fluidity."
+        },
+        {
+          "theory_id": "T025776",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Membrane lipid peroxidation and reactive aldehydes cause membrane deterioration, disrupting cellular homeostasis and driving aging."
+        },
+        {
+          "theory_id": "T011231",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Membrane phospholipid unsaturation correlates with lifespan via lipid peroxidation affecting mitochondrial function and ROS production."
+        },
+        {
+          "theory_id": "T026748",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "LHA theory applied to fish links membrane lipid composition and peroxidation index to lifespan and metabolic rate."
+        },
+        {
+          "theory_id": "T010146",
+          "subcluster_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "reasoning": "Membrane lipid unsaturation influences metabolic rate, membrane fluidity, and susceptibility to oxidative damage affecting aging."
+        },
+        {
+          "theory_id": "T021228",
+          "subcluster_name": "Membrane Lipid Raft Decline and Neurodegeneration Theory",
+          "reasoning": "Focuses on age-related loss of membrane lipid rafts, cholesterol depletion, and consequent neuronal signaling and plasticity decline."
+        },
+        {
+          "theory_id": "T026257",
+          "subcluster_name": "Membrane Lipid Raft Decline and Neurodegeneration Theory",
+          "reasoning": "Links membrane lipid packing changes to impaired insulin receptor signaling and neurodegeneration, emphasizing membrane environment."
+        },
+        {
+          "theory_id": "T024075",
+          "subcluster_name": "Membrane Lipid Raft Decline and Neurodegeneration Theory",
+          "reasoning": "Connects free radical-induced membrane fluidity decline to NMDA receptor deficits and cognitive decline in aging brain."
+        },
+        {
+          "theory_id": "T021729",
+          "subcluster_name": "Reactive Oxygen Species-Induced Membrane Damage in Erythrocytes",
+          "reasoning": "Describes ROS-driven oxidative damage to erythrocyte membranes causing proteolysis, IgG binding, and clearance of aged cells."
+        },
+        {
+          "theory_id": "T007613",
+          "subcluster_name": "Membrane Physical Properties and Intracellular Density Theory",
+          "reasoning": "Emphasizes age-related decline in lateral mobility of membrane proteins/lipids, intracellular dehydration, and enzyme activity loss."
+        },
+        {
+          "theory_id": "T009003",
+          "subcluster_name": "Membrane Physical Properties and Intracellular Density Theory",
+          "reasoning": "Proposes lifelong increase in intracellular density inhibits enzyme activities, underlying aging-related cellular decline."
+        },
+        {
+          "theory_id": "T009281",
+          "subcluster_name": "Membrane Physical Properties and Intracellular Density Theory",
+          "reasoning": "Describes plasma membrane damage causing increased intracellular density, reduced enzyme catalytic rates, and compensatory enzyme expression."
+        },
+        {
+          "theory_id": "T009233",
+          "subcluster_name": "Membrane Physical Properties and Intracellular Density Theory",
+          "reasoning": "Attributes aging to plasma membrane alterations causing intracellular dehydration, enzyme activity decline, and modulation by hGH."
+        },
+        {
+          "theory_id": "T008675",
+          "subcluster_name": "Membrane Physical Properties and Intracellular Density Theory",
+          "reasoning": "Links plasma membrane damage and intracellular dry mass accumulation to slowed lysosomal degradation and biological waste buildup."
+        },
+        {
+          "theory_id": "T008183",
+          "subcluster_name": "Membrane Physical Properties and Intracellular Density Theory",
+          "reasoning": "Proposes increased intracellular dry mass and viscosity downregulate enzyme activities, underlying cell maturation and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:57:54"
+}

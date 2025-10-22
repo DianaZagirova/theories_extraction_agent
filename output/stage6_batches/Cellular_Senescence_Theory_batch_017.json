@@ -1,0 +1,197 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 17,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T014212",
+          "T013868",
+          "T014715",
+          "T013494",
+          "T013817",
+          "T013573",
+          "T014267",
+          "T013291",
+          "T014404",
+          "T013282",
+          "T013442",
+          "T013302"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and SASP-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T014579",
+          "T013775",
+          "T014353",
+          "T014458",
+          "T013185",
+          "T011344",
+          "T014562",
+          "T013248"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Autophagy Decline and Cellular Renewal Failure Theory",
+        "theory_ids": [
+          "T013755",
+          "T014717",
+          "T014603"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+        "theory_ids": [
+          "T014225",
+          "T014093"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T014212",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on DNA damage response activation, p53/p21/pRb pathways, and ROS feedback loops as primary mechanisms inducing senescence."
+        },
+        {
+          "theory_id": "T013868",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes p53/pRb cooperation in stress-induced premature senescence independent of telomere shortening, highlighting DNA damage response pathways."
+        },
+        {
+          "theory_id": "T014715",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Links p53 activation from DNA damage/telomere shortening to fatty acid metabolism changes driving senescence, fitting DNA damage response mechanisms."
+        },
+        {
+          "theory_id": "T013494",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Describes p53/p66Shc oxidative stress response pathway linking DNA damage and ROS to senescence and aging, fitting DNA damage and stress response theme."
+        },
+        {
+          "theory_id": "T013817",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on tumor suppressor pathways (p53, p16INK4a, Rb) regulating senescence induction and maintenance in response to DNA damage and oncogenic stress."
+        },
+        {
+          "theory_id": "T013573",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescence triggered by tumor suppressor pathways responding to DNA damage, oxidative stress, telomere attrition, and oncogenic signaling."
+        },
+        {
+          "theory_id": "T014267",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Highlights tumor suppressors p16ink4a, p53, and p19/p14arf mediating senescence and regenerative decline via DNA damage and telomere shortening."
+        },
+        {
+          "theory_id": "T013291",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescence as a programmed stress response involving DNA damage response, cell cycle arrest, and SASP secretion."
+        },
+        {
+          "theory_id": "T014404",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Links premature cellular senescence in progeroid syndromes to DNA damage and regenerative tissue aging."
+        },
+        {
+          "theory_id": "T013282",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Posits accumulation of senescent cells driven by DNA damage and stress as causal for organismal aging."
+        },
+        {
+          "theory_id": "T013442",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on telomere shortening and DNA damage as triggers of stable cell cycle arrest and SASP contributing to aging."
+        },
+        {
+          "theory_id": "T013302",
+          "subcluster_name": "DNA Damage Response-Driven Cellular Senescence Theory",
+          "reasoning": "Describes stress-induced premature senescence (SIPS) caused by subcytotoxic stress leading to DNA damage and senescence distinct from replicative senescence."
+        },
+        {
+          "theory_id": "T014579",
+          "subcluster_name": "Mitochondrial Dysfunction and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction, ROS, and SASP secretion as drivers of senescence and inflammaging."
+        },
+        {
+          "theory_id": "T013775",
+          "subcluster_name": "Mitochondrial Dysfunction and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction-associated senescence (MiDAS) and SASP contributing to inflammaging and aging."
+        },
+        {
+          "theory_id": "T014353",
+          "subcluster_name": "Mitochondrial Dysfunction and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Proposes cellular senescence as nexus linking subcellular damage including mitochondrial damage to organismal aging via SASP."
+        },
+        {
+          "theory_id": "T014458",
+          "subcluster_name": "Mitochondrial Dysfunction and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescent cells secreting SASP factors and mitochondrial ROS driving chronic inflammation and tissue dysfunction."
+        },
+        {
+          "theory_id": "T013185",
+          "subcluster_name": "Mitochondrial Dysfunction and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Highlights oxidative stress and DNA damage inducing senescence and SASP, with impaired immune clearance exacerbating accumulation."
+        },
+        {
+          "theory_id": "T011344",
+          "subcluster_name": "Mitochondrial Dysfunction and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on senescent cell accumulation and SASP secretion driving tissue dysfunction and age-related diseases like osteoarthritis."
+        },
+        {
+          "theory_id": "T014562",
+          "subcluster_name": "Mitochondrial Dysfunction and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Describes senescence as tumor suppressive but detrimental with SASP secretion causing chronic inflammation and aging."
+        },
+        {
+          "theory_id": "T013248",
+          "subcluster_name": "Mitochondrial Dysfunction and SASP-Driven Cellular Senescence Theory",
+          "reasoning": "Details senescent cell accumulation, SASP secretion, and their role in cardiovascular aging and disease."
+        },
+        {
+          "theory_id": "T014204",
+          "subcluster_name": "Microglial Senescence and Immune Exhaustion Theory",
+          "reasoning": "Focuses on microglial senescence, immune exhaustion, and neuroinflammation driving brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T013755",
+          "subcluster_name": "Autophagy Decline and Cellular Renewal Failure Theory",
+          "reasoning": "Describes age-related decline in autophagy leading to accumulation of damaged proteins and organelles, promoting senescence and aging."
+        },
+        {
+          "theory_id": "T014717",
+          "subcluster_name": "Autophagy Decline and Cellular Renewal Failure Theory",
+          "reasoning": "Focuses on macroautophagy decline with age and its restoration by caloric restriction or drugs to extend lifespan."
+        },
+        {
+          "theory_id": "T014603",
+          "subcluster_name": "Autophagy Decline and Cellular Renewal Failure Theory",
+          "reasoning": "Details nutrient-sensing regulation of autophagy decline in aging and genetic evidence linking autophagy to longevity."
+        },
+        {
+          "theory_id": "T014225",
+          "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative senescence driven by telomere shortening and its evolutionary role in tumor suppression linked to body size."
+        },
+        {
+          "theory_id": "T014093",
+          "subcluster_name": "Replicative Senescence and Telomere-Associated Cellular Senescence Theory",
+          "reasoning": "Describes replicative senescence in stem/progenitor cells linked to aging, with telomere shortening as a partial but not sole cause."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:09:13"
+}

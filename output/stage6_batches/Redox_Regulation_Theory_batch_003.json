@@ -1,0 +1,209 @@
+{
+  "cluster_name": "Redox Regulation Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Redox Signaling and Homeostasis Theory",
+        "theory_ids": [
+          "T009183",
+          "T026758",
+          "T026914",
+          "T027397",
+          "T000307",
+          "T012529",
+          "T003212",
+          "T000041",
+          "T020786",
+          "T026442",
+          "T026469"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Dietary Redox Modulation Theory",
+        "theory_ids": [
+          "T010704",
+          "T013578",
+          "T014006",
+          "T004317"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Metabolic Redox Regulation Theory",
+        "theory_ids": [
+          "T001099",
+          "T004154",
+          "T014045",
+          "T022423"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Thioredoxin Redox Regulation Theory",
+        "theory_ids": [
+          "T006497",
+          "T021537",
+          "T012432",
+          "T001634",
+          "T016357"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Redox Regulation Theory",
+        "theory_ids": [
+          "T002934",
+          "T017840",
+          "T027376",
+          "T026945"
+        ],
+        "theory_count": 4,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "2 subclusters too small, 2 theories not assigned"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T009183",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Focuses on ROS/RNS as signaling molecules and redox tone regulation affecting aging, emphasizing balanced redox signaling rather than damage alone."
+        },
+        {
+          "theory_id": "T026758",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Describes ROS as physiological regulators modulating specific protein cysteine oxidation and pathways linked to aging, fitting redox signaling mechanisms."
+        },
+        {
+          "theory_id": "T026914",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Focuses on redox signaling dysfunction in muscle aging via ROS and peroxiredoxins, highlighting redox signaling impairment rather than damage."
+        },
+        {
+          "theory_id": "T027397",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Links redox signaling via ROS to autophagy, inflammation, and senescence, emphasizing dynamic redox regulation of aging processes."
+        },
+        {
+          "theory_id": "T000307",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Describes dual role of ROS in signaling and protein aggregation, focusing on redox-regulated reversible protein aggregation as a stress response."
+        },
+        {
+          "theory_id": "T012529",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Emphasizes redox state as a regulator of cellular function and signaling disruption as cause of aging, highlighting redox signaling over damage."
+        },
+        {
+          "theory_id": "T003212",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Focuses on disruption of thiol redox circuits and nonradical oxidants affecting redox signaling networks, fitting redox signaling and control."
+        },
+        {
+          "theory_id": "T000041",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Proposes aging driven by pro-oxidizing shift disrupting redox-regulated signaling, emphasizing redox signaling dysfunction."
+        },
+        {
+          "theory_id": "T020786",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Focuses on redox homeostasis and signaling in brain aging, linking redox imbalance to neurodegeneration via signaling pathways."
+        },
+        {
+          "theory_id": "T026442",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Describes redox homeostasis dysfunction involving H2S signaling and nutrient regulation, emphasizing systemic redox balance and signaling."
+        },
+        {
+          "theory_id": "T026469",
+          "subcluster_name": "Redox Signaling and Homeostasis Theory",
+          "reasoning": "Links disruption of redox-regulated hormesis to aging and degenerative diseases, focusing on redox signaling and adaptive stress responses."
+        },
+        {
+          "theory_id": "T027376",
+          "subcluster_name": "Epigenetic Redox Regulation Theory",
+          "reasoning": "Focuses on NRF2 promoter methylation as an epigenetic marker linking redox regulation to aging, emphasizing epigenetic control of redox defenses."
+        },
+        {
+          "theory_id": "T010704",
+          "subcluster_name": "Dietary Redox Modulation Theory",
+          "reasoning": "Describes dietary restriction and methionine restriction modulating redox homeostasis via H2S and Nrf2 activation, linking diet to redox aging mechanisms."
+        },
+        {
+          "theory_id": "T013578",
+          "subcluster_name": "Dietary Redox Modulation Theory",
+          "reasoning": "Shows how dietary thiol antioxidants disrupt physiological ROS signaling, accelerating aging, highlighting diet-induced redox signaling modulation."
+        },
+        {
+          "theory_id": "T014006",
+          "subcluster_name": "Dietary Redox Modulation Theory",
+          "reasoning": "Proposes 2-mercaptoethanol modulates redox balance and sulfhydryl maintenance, acting as dietary redox modulator affecting aging and immune function."
+        },
+        {
+          "theory_id": "T004317",
+          "subcluster_name": "Dietary Redox Modulation Theory",
+          "reasoning": "Focuses on caloric restriction reducing oxidative stress and pro-oxidizing shifts, linking energy intake and diet to redox regulation of aging."
+        },
+        {
+          "theory_id": "T001099",
+          "subcluster_name": "Metabolic Redox Regulation Theory",
+          "reasoning": "Emphasizes NADPH and G6PD in antioxidant defense and redox homeostasis, linking metabolic enzyme regulation to redox aging mechanisms."
+        },
+        {
+          "theory_id": "T004154",
+          "subcluster_name": "Metabolic Redox Regulation Theory",
+          "reasoning": "Describes compartmentalized redox chemistry and metabolic signaling policing cell-level variation, linking metabolism and redox regulation to aging."
+        },
+        {
+          "theory_id": "T014045",
+          "subcluster_name": "Metabolic Redox Regulation Theory",
+          "reasoning": "Proposes circadian regulation of redox, bioenergetics, and temperature via mitochondrial-nuclear interactions, linking metabolic redox cycles to aging."
+        },
+        {
+          "theory_id": "T022423",
+          "subcluster_name": "Metabolic Redox Regulation Theory",
+          "reasoning": "Describes TBP-2 regulation of thioredoxin affecting redox state, energy metabolism, and cellular senescence, linking redox and metabolic aging pathways."
+        },
+        {
+          "theory_id": "T006497",
+          "subcluster_name": "Thioredoxin Redox Regulation Theory",
+          "reasoning": "Focuses on thioredoxin isoforms' roles in redox regulation, lifespan, and cancer, highlighting thioredoxin system's complex impact on aging."
+        },
+        {
+          "theory_id": "T021537",
+          "subcluster_name": "Thioredoxin Redox Regulation Theory",
+          "reasoning": "Emphasizes thioredoxin as cytoprotective antioxidant regulating redox signaling, apoptosis, and lifespan extension."
+        },
+        {
+          "theory_id": "T012432",
+          "subcluster_name": "Thioredoxin Redox Regulation Theory",
+          "reasoning": "Describes evolutionarily conserved thioredoxin system roles in antioxidant defense and lifespan modulation across species."
+        },
+        {
+          "theory_id": "T001634",
+          "subcluster_name": "Thioredoxin Redox Regulation Theory",
+          "reasoning": "Shows Trx1 overexpression effects on oxidative stress, lifespan, and cancer development, illustrating thioredoxin's dual role."
+        },
+        {
+          "theory_id": "T016357",
+          "subcluster_name": "Thioredoxin Redox Regulation Theory",
+          "reasoning": "Highlights dual and compartment-specific effects of thioredoxin isoforms on aging, cancer, and inflammation."
+        },
+        {
+          "theory_id": "T026945",
+          "subcluster_name": "Superoxide-Mediated Redox Signaling Theory",
+          "reasoning": "Focuses on superoxide as a redox signaling molecule modulating longevity via ARGK-1 and insulin/IGF-1 pathways."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:55:20"
+}

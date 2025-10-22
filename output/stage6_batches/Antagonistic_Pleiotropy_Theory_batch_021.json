@@ -1,0 +1,188 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 21,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "mTOR and Nutrient-Sensing Pathway Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T023612",
+          "T024933"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T023895",
+          "T023240",
+          "T024079",
+          "T024957",
+          "T024188",
+          "T024080",
+          "T025443",
+          "T023539",
+          "T023250",
+          "T024302"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Mutation Accumulation and Antagonistic Pleiotropy Combined Evolutionary Theory",
+        "theory_ids": [
+          "T024150",
+          "T025669",
+          "T024061",
+          "T024174",
+          "T024253"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Extrinsic Mortality-Driven Evolutionary Antagonistic Pleiotropy Theory",
+        "theory_ids": [
+          "T025723",
+          "T025685",
+          "T025236",
+          "T024013"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025247",
+          "subcluster_name": "Mitochondrial and Hormonal Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on estrogen's pleiotropic effects mediated via mitochondrial dysfunction and altered hormonal signaling with age."
+        },
+        {
+          "theory_id": "T023612",
+          "subcluster_name": "mTOR and Nutrient-Sensing Pathway Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes mTOR pathway activation by growth factors as a pleiotropic mechanism linking early-life fitness to late-life aging."
+        },
+        {
+          "theory_id": "T024933",
+          "subcluster_name": "mTOR and Nutrient-Sensing Pathway Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on neural insulin/IGF-1 signaling and klotho interaction regulating aging, fitting nutrient-sensing pathway mechanisms."
+        },
+        {
+          "theory_id": "T023895",
+          "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes pleiotropic genetic effects where early-life benefits trade off with late-life decline, a core antagonistic pleiotropy concept."
+        },
+        {
+          "theory_id": "T023240",
+          "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on genetic and physiological trade-offs between early reproduction and lifespan, a fundamental antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T024079",
+          "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Highlights genetic correlations and trade-offs between life-history traits driven by pleiotropic genes affecting aging."
+        },
+        {
+          "theory_id": "T024957",
+          "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes evolutionary trade-offs where genes beneficial early in life cause late-life decline, a core antagonistic pleiotropy theme."
+        },
+        {
+          "theory_id": "T024188",
+          "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on genetic trade-offs between fertility and lifespan mediated by pleiotropic genes, fitting classic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T024080",
+          "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Emphasizes genetic trade-offs and pleiotropy causing senescence, consistent with classic antagonistic pleiotropy theory."
+        },
+        {
+          "theory_id": "T025443",
+          "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes pleiotropic genes with early-life benefits and late-life costs driving aging, a fundamental antagonistic pleiotropy concept."
+        },
+        {
+          "theory_id": "T023539",
+          "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on pleiotropic genes with early benefits and late costs and declining selection pressure, core to antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T023250",
+          "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes declining natural selection and trade-offs between early reproduction and late-life harm, a classic antagonistic pleiotropy model."
+        },
+        {
+          "theory_id": "T024302",
+          "subcluster_name": "Classic Genetic Trade-Off Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on trade-offs between early reproduction and late-life senescence due to weakening natural selection, classic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T023411",
+          "subcluster_name": "Late-Life Beneficial Alleles Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes alleles with deleterious early effects but beneficial late-life effects, a less common but distinct antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T023989",
+          "subcluster_name": "Pathogen Resistance and ApoE4 Balancing Selection Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on ApoE4 allele maintained by balancing selection due to early-life pathogen resistance despite late-life costs."
+        },
+        {
+          "theory_id": "T024150",
+          "subcluster_name": "Mutation Accumulation and Antagonistic Pleiotropy Combined Evolutionary Theory",
+          "reasoning": "Integrates mutation accumulation and antagonistic pleiotropy as evolutionary mechanisms of aging."
+        },
+        {
+          "theory_id": "T025669",
+          "subcluster_name": "Mutation Accumulation and Antagonistic Pleiotropy Combined Evolutionary Theory",
+          "reasoning": "Describes accumulation of late-acting deleterious alleles and antagonistic pleiotropy contributing to aging."
+        },
+        {
+          "theory_id": "T024061",
+          "subcluster_name": "Mutation Accumulation and Antagonistic Pleiotropy Combined Evolutionary Theory",
+          "reasoning": "Focuses on mutation accumulation and antagonistic pleiotropy as evolutionary causes of aging."
+        },
+        {
+          "theory_id": "T024174",
+          "subcluster_name": "Mutation Accumulation and Antagonistic Pleiotropy Combined Evolutionary Theory",
+          "reasoning": "Describes aging as accumulation of harmful mutations and declining selection pressure, consistent with mutation accumulation theory."
+        },
+        {
+          "theory_id": "T024253",
+          "subcluster_name": "Mutation Accumulation and Antagonistic Pleiotropy Combined Evolutionary Theory",
+          "reasoning": "Presents evolutionary basis of aging including antagonistic pleiotropy and disposable soma, fitting combined evolutionary theories."
+        },
+        {
+          "theory_id": "T025723",
+          "subcluster_name": "Extrinsic Mortality-Driven Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on extrinsic mortality shaping aging rate via evolutionary trade-offs, a distinct ecological evolutionary mechanism."
+        },
+        {
+          "theory_id": "T025685",
+          "subcluster_name": "Extrinsic Mortality-Driven Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Describes extrinsic mortality and sociality influencing longevity evolution, fitting extrinsic mortality-driven theory."
+        },
+        {
+          "theory_id": "T025236",
+          "subcluster_name": "Extrinsic Mortality-Driven Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on extrinsic mortality shaping lifespan evolution and tumor suppression, consistent with extrinsic mortality-driven theory."
+        },
+        {
+          "theory_id": "T024013",
+          "subcluster_name": "Extrinsic Mortality-Driven Evolutionary Antagonistic Pleiotropy Theory",
+          "reasoning": "Explains aging as consequence of life-history trait selection and trade-offs shaped by extrinsic mortality."
+        },
+        {
+          "theory_id": "T023320",
+          "subcluster_name": "Cancer and Tissue Fitness Antagonistic Pleiotropy Theory",
+          "reasoning": "Focuses on antagonistic pleiotropy in tumor suppression and somatic evolution linking aging and cancer risk."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:57:27"
+}

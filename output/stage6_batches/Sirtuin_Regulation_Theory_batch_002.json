@@ -1,0 +1,168 @@
+{
+  "cluster_name": "Sirtuin Regulation Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "NAD+ Salvage Pathway and Reproductive Aging Sirtuin Theory",
+        "theory_ids": [
+          "T022992",
+          "T019127"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Sirtuin Modulation by Natural Compounds and Metabolic Regulation Theory",
+        "theory_ids": [
+          "T022993",
+          "T020245",
+          "T021565",
+          "T024529",
+          "T021732",
+          "T024724"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Caloric Restriction and Genomic Stability Sirtuin Theory",
+        "theory_ids": [
+          "T019939",
+          "T021918",
+          "T020048",
+          "T022978",
+          "T022936",
+          "T022301",
+          "T002808"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Aging, Metabolism, and Tumorigenesis Integration Sirtuin Theory",
+        "theory_ids": [
+          "T027528",
+          "T023732",
+          "T027088",
+          "T025824",
+          "T026933",
+          "T027289"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022992",
+          "subcluster_name": "NAD+ Salvage Pathway and Reproductive Aging Sirtuin Theory",
+          "reasoning": "Focuses on sirtuin activity linked to NAD+ salvage pathway and its role in reproductive aging and ovarian health."
+        },
+        {
+          "theory_id": "T019127",
+          "subcluster_name": "NAD+ Salvage Pathway and Reproductive Aging Sirtuin Theory",
+          "reasoning": "Emphasizes sirtuin regulation of oocyte quality and reproductive longevity via oxidative stress and epigenetic maintenance."
+        },
+        {
+          "theory_id": "T022993",
+          "subcluster_name": "Sirtuin Modulation by Natural Compounds and Metabolic Regulation Theory",
+          "reasoning": "Describes sirtuin activity modulation by natural compounds like curcumin affecting metabolism, inflammation, and aging."
+        },
+        {
+          "theory_id": "T020245",
+          "subcluster_name": "Sirtuin Modulation by Natural Compounds and Metabolic Regulation Theory",
+          "reasoning": "Focuses on sirtuins as metabolic sensors regulating energy homeostasis and healthspan through metabolic pathways."
+        },
+        {
+          "theory_id": "T021565",
+          "subcluster_name": "Sirtuin Modulation by Natural Compounds and Metabolic Regulation Theory",
+          "reasoning": "Highlights sirtuins as metabolic sensors linking dietary restriction and metabolic interventions to longevity and healthspan."
+        },
+        {
+          "theory_id": "T024529",
+          "subcluster_name": "Sirtuin Modulation by Natural Compounds and Metabolic Regulation Theory",
+          "reasoning": "Discusses sirtuin enzymatic activity regulation by NAD+ metabolism and endogenous modulators affecting aging and diseases."
+        },
+        {
+          "theory_id": "T021732",
+          "subcluster_name": "Sirtuin Modulation by Natural Compounds and Metabolic Regulation Theory",
+          "reasoning": "Describes tissue-specific sirtuin expression changes with age and their role in oxidative stress and cellular protection."
+        },
+        {
+          "theory_id": "T024724",
+          "subcluster_name": "Sirtuin Modulation by Natural Compounds and Metabolic Regulation Theory",
+          "reasoning": "Focuses on complex regulation of sirtuin expression and activity at multiple levels influencing aging and age-related diseases."
+        },
+        {
+          "theory_id": "T019939",
+          "subcluster_name": "Caloric Restriction and Genomic Stability Sirtuin Theory",
+          "reasoning": "Emphasizes sirtuins mediating caloric restriction effects, genomic stability, and protection against age-related diseases."
+        },
+        {
+          "theory_id": "T021918",
+          "subcluster_name": "Caloric Restriction and Genomic Stability Sirtuin Theory",
+          "reasoning": "Focuses on sirtuins promoting genomic stability, DNA repair, and mediating calorie restriction benefits on aging."
+        },
+        {
+          "theory_id": "T020048",
+          "subcluster_name": "Caloric Restriction and Genomic Stability Sirtuin Theory",
+          "reasoning": "Describes sirtuins linking metabolism to aging and mediating lifespan extension via dietary restriction."
+        },
+        {
+          "theory_id": "T022978",
+          "subcluster_name": "Caloric Restriction and Genomic Stability Sirtuin Theory",
+          "reasoning": "Highlights sirtuins' roles in epigenetic regulation, genome stability, and cellular stress responses linked to aging."
+        },
+        {
+          "theory_id": "T022936",
+          "subcluster_name": "Caloric Restriction and Genomic Stability Sirtuin Theory",
+          "reasoning": "Focuses on nuclear sirtuins regulating chromatin and metabolic homeostasis connecting calorie restriction to aging."
+        },
+        {
+          "theory_id": "T022301",
+          "subcluster_name": "Caloric Restriction and Genomic Stability Sirtuin Theory",
+          "reasoning": "Describes sirtuins' roles in calorie restriction mimicry, neuroprotection, and diverse cellular functions affecting aging."
+        },
+        {
+          "theory_id": "T002808",
+          "subcluster_name": "Caloric Restriction and Genomic Stability Sirtuin Theory",
+          "reasoning": "Focuses on SIR2 family proteins regulating lifespan via NAD+ dependence and chromatin silencing mechanisms."
+        },
+        {
+          "theory_id": "T027528",
+          "subcluster_name": "Aging, Metabolism, and Tumorigenesis Integration Sirtuin Theory",
+          "reasoning": "Proposes sirtuins as integrators connecting aging, metabolism, and cancer biology through diverse molecular functions."
+        },
+        {
+          "theory_id": "T023732",
+          "subcluster_name": "Aging, Metabolism, and Tumorigenesis Integration Sirtuin Theory",
+          "reasoning": "Focuses on sirtuins regulating hematopoietic aging and oncogenesis via DNA repair, oxidative stress, and epigenetic mechanisms."
+        },
+        {
+          "theory_id": "T027088",
+          "subcluster_name": "Aging, Metabolism, and Tumorigenesis Integration Sirtuin Theory",
+          "reasoning": "Describes sirtuins as common targets linking aging and neurodegeneration, with therapeutic potential in age-related diseases."
+        },
+        {
+          "theory_id": "T025824",
+          "subcluster_name": "Aging, Metabolism, and Tumorigenesis Integration Sirtuin Theory",
+          "reasoning": "Highlights sirtuins' neuroprotective roles in Alzheimer's disease via mitochondrial function and stress resistance."
+        },
+        {
+          "theory_id": "T026933",
+          "subcluster_name": "Aging, Metabolism, and Tumorigenesis Integration Sirtuin Theory",
+          "reasoning": "Focuses on mitochondrial sirtuin SIRT3 regulating ROS and neurodegeneration, linking metabolism to aging and disease."
+        },
+        {
+          "theory_id": "T027289",
+          "subcluster_name": "Aging, Metabolism, and Tumorigenesis Integration Sirtuin Theory",
+          "reasoning": "Describes sirtuin regulation of brain acetylome dynamics affecting aging, neurogenesis, and neuropathology."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 12:04:03"
+}

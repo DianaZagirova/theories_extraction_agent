@@ -1,0 +1,211 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 27,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+        "theory_ids": [
+          "T018700",
+          "T019079",
+          "T018853",
+          "T018857",
+          "T018717",
+          "T019106",
+          "T018372"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Oxidative Stress Theory of Aging",
+        "theory_ids": [
+          "T018844",
+          "T018804",
+          "T018905",
+          "T019024",
+          "T019051",
+          "T018714",
+          "T018884"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Quality Control and Stress Response Theory of Aging",
+        "theory_ids": [
+          "T018743",
+          "T018754",
+          "T019064",
+          "T018680",
+          "T019003"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Maintenance and Repair Theory of Aging",
+        "theory_ids": [
+          "T018808",
+          "T019012",
+          "T018595",
+          "T018847",
+          "T019031"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial-Nuclear Crosstalk and Epigenetic Regulation Theory of Aging",
+        "theory_ids": [
+          "T018777",
+          "T019013",
+          "T018327"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018700",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Focuses on mitochondrial ROS production causing mtDNA damage and a vicious cycle of oxidative stress driving aging."
+        },
+        {
+          "theory_id": "T019079",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Emphasizes mitochondrial ROS generation, oxidative damage to mtDNA, and the self-amplifying cycle of mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T018853",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Describes mitochondrial ROS and oxidative damage accumulation impairing enzyme activities and mitochondrial function with age."
+        },
+        {
+          "theory_id": "T018857",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Highlights mitochondrial ROS production, oxidative damage, and decline in antioxidant defenses contributing to aging."
+        },
+        {
+          "theory_id": "T018717",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Links mutation in mitochondrial complex II to increased ROS production and oxidative stress driving aging."
+        },
+        {
+          "theory_id": "T019106",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Focuses on mitochondrial ROS causing molecular damage and energetic decline contributing to muscle aging."
+        },
+        {
+          "theory_id": "T018372",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Describes trade-off of high mitochondrial activity producing ROS that cause mtDNA mutations and aging."
+        },
+        {
+          "theory_id": "T018844",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Stress Theory of Aging",
+          "reasoning": "Covers mitochondrial energetic decline, ROS production, mtDNA damage, and impaired quality control leading to aging."
+        },
+        {
+          "theory_id": "T018804",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Stress Theory of Aging",
+          "reasoning": "Focuses on mitochondrial dysfunction causing oxidative stress and apoptosis contributing to muscle aging."
+        },
+        {
+          "theory_id": "T018905",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Stress Theory of Aging",
+          "reasoning": "Describes mitochondrial dysfunction, ROS damage, and links to neurodegenerative aging diseases."
+        },
+        {
+          "theory_id": "T019024",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Stress Theory of Aging",
+          "reasoning": "Details mitochondrial dysfunction, ROS, impaired dynamics, mitophagy, and HMGB1\u2019s dual role in aging and inflammation."
+        },
+        {
+          "theory_id": "T019051",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Stress Theory of Aging",
+          "reasoning": "Focuses on age-related mitochondrial energetic decline and functional restoration by light improving aging phenotypes."
+        },
+        {
+          "theory_id": "T018714",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Stress Theory of Aging",
+          "reasoning": "Emphasizes mtDNA mutation accumulation, ROS damage, maternal inheritance, and bioenergetic decline driving aging."
+        },
+        {
+          "theory_id": "T018884",
+          "subcluster_name": "Mitochondrial Dysfunction and Oxidative Stress Theory of Aging",
+          "reasoning": "Links mtDNA mutation accumulation to mitochondrial respiratory deficiency impairing bone formation and accelerating aging."
+        },
+        {
+          "theory_id": "T018743",
+          "subcluster_name": "Mitochondrial Quality Control and Stress Response Theory of Aging",
+          "reasoning": "Focuses on mitochondrial unfolded protein response (UPRmt) as a protective mechanism maintaining mitochondrial quality and delaying aging."
+        },
+        {
+          "theory_id": "T018754",
+          "subcluster_name": "Mitochondrial Quality Control and Stress Response Theory of Aging",
+          "reasoning": "Proposes mitophagy-independent mitochondrial maintenance in axons via fission-fusion dynamics as key to aging."
+        },
+        {
+          "theory_id": "T019064",
+          "subcluster_name": "Mitochondrial Quality Control and Stress Response Theory of Aging",
+          "reasoning": "Describes balance of mitochondrial fission, fusion, and mitophagy regulating mitochondrial quality and lifespan."
+        },
+        {
+          "theory_id": "T018680",
+          "subcluster_name": "Mitochondrial Quality Control and Stress Response Theory of Aging",
+          "reasoning": "Shows mitochondrial translation and dynamics crosstalk regulating lifespan via autophagy and lysosome biogenesis."
+        },
+        {
+          "theory_id": "T019003",
+          "subcluster_name": "Mitochondrial Quality Control and Stress Response Theory of Aging",
+          "reasoning": "Focuses on increased mitochondrial proton leak mediated by uncoupling proteins as an adaptive mitochondrial quality control mechanism."
+        },
+        {
+          "theory_id": "T018808",
+          "subcluster_name": "Mitochondrial DNA Maintenance and Repair Theory of Aging",
+          "reasoning": "Emphasizes msh1 gene role in maintaining mtDNA integrity and preventing deletions that accelerate aging."
+        },
+        {
+          "theory_id": "T019012",
+          "subcluster_name": "Mitochondrial DNA Maintenance and Repair Theory of Aging",
+          "reasoning": "Focuses on accumulation of mtDNA deletions flanked by direct repeats contributing to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T018595",
+          "subcluster_name": "Mitochondrial DNA Maintenance and Repair Theory of Aging",
+          "reasoning": "Describes age-dependent decline in mitochondrial DNA base-excision repair capacity leading to mtDNA damage accumulation."
+        },
+        {
+          "theory_id": "T018847",
+          "subcluster_name": "Mitochondrial DNA Maintenance and Repair Theory of Aging",
+          "reasoning": "Proposes mitochondrial recombination as a repair mechanism increasing with age to maintain mitochondrial function."
+        },
+        {
+          "theory_id": "T019031",
+          "subcluster_name": "Mitochondrial DNA Maintenance and Repair Theory of Aging",
+          "reasoning": "Focuses on oxidative stress-induced peroxidative damage to mitochondrial membranes impairing function and driving aging."
+        },
+        {
+          "theory_id": "T018777",
+          "subcluster_name": "Mitochondrial-Nuclear Crosstalk and Epigenetic Regulation Theory of Aging",
+          "reasoning": "Highlights mitochondrial-nuclear retrograde signaling and mitochondrial regulation of nuclear epigenome affecting aging."
+        },
+        {
+          "theory_id": "T019013",
+          "subcluster_name": "Mitochondrial-Nuclear Crosstalk and Epigenetic Regulation Theory of Aging",
+          "reasoning": "Focuses on mitochondrial dysfunction driving stem cell aging via ROS, mtDNA damage, and sirtuin-mediated regulation."
+        },
+        {
+          "theory_id": "T018327",
+          "subcluster_name": "Mitochondrial-Nuclear Crosstalk and Epigenetic Regulation Theory of Aging",
+          "reasoning": "Describes interplay between mitochondrial damage and lysosomal degradation impairing autophagy and promoting aging in postmitotic cells."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:49:42"
+}

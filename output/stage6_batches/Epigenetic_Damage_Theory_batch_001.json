@@ -1,0 +1,186 @@
+{
+  "cluster_name": "Epigenetic Damage Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Epigenetic Remodeling and Immune Aging Theory",
+        "theory_ids": [
+          "T000458",
+          "T001320",
+          "T000459",
+          "T001957",
+          "T004451"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Epigenomic Instability and Variability Theory",
+        "theory_ids": [
+          "T002715",
+          "T004077",
+          "T000039",
+          "T002539",
+          "T003134",
+          "T002736",
+          "T004532",
+          "T004151"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Chromatin Repression Loss and Heterochromatin Aging Theory",
+        "theory_ids": [
+          "T001203",
+          "T004055",
+          "T004255",
+          "T004110",
+          "T003298",
+          "T004160",
+          "T001090",
+          "T000061"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "DNA Repair Decline and Epigenetic Regulation Theory",
+        "theory_ids": [
+          "T004045",
+          "T001608",
+          "T001160"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000458",
+          "subcluster_name": "Epigenetic Remodeling and Immune Aging Theory",
+          "reasoning": "This theory focuses on epigenetic remodeling in immune cells and accelerated epigenetic aging linked to immune dysfunction and inflammation after treatment, fitting a theme of immune-related epigenetic aging."
+        },
+        {
+          "theory_id": "T001320",
+          "subcluster_name": "Epigenetic Remodeling and Immune Aging Theory",
+          "reasoning": "Describes accelerated epigenetic aging induced by physical trauma with immune dysregulation and inflammation driving aging, aligning with immune and inflammation-related epigenetic remodeling."
+        },
+        {
+          "theory_id": "T000459",
+          "subcluster_name": "Epigenetic Remodeling and Immune Aging Theory",
+          "reasoning": "Chemotherapy-induced epigenetic changes in brain regions causing cognitive decline resemble brain aging and involve immune and inflammatory pathways, fitting immune/inflammation-related epigenetic remodeling."
+        },
+        {
+          "theory_id": "T001957",
+          "subcluster_name": "Epigenetic Remodeling and Immune Aging Theory",
+          "reasoning": "Psychosocial stress triggers epigenetic changes that activate inflammatory pathways and accelerate aging, linking stress, immune signaling, and epigenetic remodeling."
+        },
+        {
+          "theory_id": "T004451",
+          "subcluster_name": "Epigenetic Remodeling and Immune Aging Theory",
+          "reasoning": "Intergenerational epigenetic inheritance alters longevity pathways including mTORC1 overactivation, which drives systemic aging and inflammation, fitting immune and signaling pathway epigenetic remodeling."
+        },
+        {
+          "theory_id": "T002715",
+          "subcluster_name": "Epigenomic Instability and Variability Theory",
+          "reasoning": "Focuses on age-related increase in DNA methylation variability and epigenomic instability, with sex differences, emphasizing stochastic epigenetic drift and instability mechanisms."
+        },
+        {
+          "theory_id": "T004077",
+          "subcluster_name": "Epigenomic Instability and Variability Theory",
+          "reasoning": "Describes epigenetic drift and epigenetic clock coexistence, highlighting stochastic and regulated methylation changes and chromatin modification interplay, fitting epigenomic instability and variability."
+        },
+        {
+          "theory_id": "T000039",
+          "subcluster_name": "Epigenomic Instability and Variability Theory",
+          "reasoning": "Proposes global DNA hypomethylation and site-specific methylation changes with age, emphasizing epigenetic dysregulation and instability contributing to aging."
+        },
+        {
+          "theory_id": "T002539",
+          "subcluster_name": "Epigenomic Instability and Variability Theory",
+          "reasoning": "Mathematical theory linking DNA methylation rate changes to lifespan, focusing on methylation dynamics and chromatin context, fitting epigenomic variability and instability."
+        },
+        {
+          "theory_id": "T003134",
+          "subcluster_name": "Epigenomic Instability and Variability Theory",
+          "reasoning": "Cockayne syndrome shows accelerated aging with distinct DNA methylation remodeling and epigenomic signatures, representing pathological epigenomic instability."
+        },
+        {
+          "theory_id": "T002736",
+          "subcluster_name": "Epigenomic Instability and Variability Theory",
+          "reasoning": "Eusocial insect caste differences in DNA methylation and epigenetic aging rates illustrate epigenomic variability underlying lifespan and phenotype differences."
+        },
+        {
+          "theory_id": "T004532",
+          "subcluster_name": "Epigenomic Instability and Variability Theory",
+          "reasoning": "Age-related global hypomethylation and site-specific hypermethylation with distinct profiles in centenarians reflect epigenomic maintenance and variability influencing longevity."
+        },
+        {
+          "theory_id": "T004151",
+          "subcluster_name": "Epigenomic Instability and Variability Theory",
+          "reasoning": "DNA methylation regulates age-related disease genes with distinct methylation patterns in centenarians, linking epigenomic variability to disease and longevity."
+        },
+        {
+          "theory_id": "T001203",
+          "subcluster_name": "Chromatin Repression Loss and Heterochromatin Aging Theory",
+          "reasoning": "Focuses on age-related loss of heterochromatin repression and gene silencing, involving histone deacetylases and chromatin remodeling, driving aging phenotypes."
+        },
+        {
+          "theory_id": "T004055",
+          "subcluster_name": "Chromatin Repression Loss and Heterochromatin Aging Theory",
+          "reasoning": "Disruption of chromatin remodeler PASG causes DNA hypomethylation, genome instability, and premature aging, linking chromatin repression loss to aging."
+        },
+        {
+          "theory_id": "T004255",
+          "subcluster_name": "Chromatin Repression Loss and Heterochromatin Aging Theory",
+          "reasoning": "Age-dependent methylation of Polycomb target genes stabilizes stem cell repression, linking chromatin repression changes to carcinogenesis and aging."
+        },
+        {
+          "theory_id": "T004110",
+          "subcluster_name": "Chromatin Repression Loss and Heterochromatin Aging Theory",
+          "reasoning": "miR-34 regulation of PRC2 and H3K27me3 impacts chromatin repression and brain aging, fitting chromatin repression loss and heterochromatin aging."
+        },
+        {
+          "theory_id": "T003298",
+          "subcluster_name": "Chromatin Repression Loss and Heterochromatin Aging Theory",
+          "reasoning": "LIN53 histone chaperone regulates chromatin complexes (NuRD, Sin3) affecting lifespan and muscle integrity, linking chromatin repression and remodeling to aging."
+        },
+        {
+          "theory_id": "T004160",
+          "subcluster_name": "Chromatin Repression Loss and Heterochromatin Aging Theory",
+          "reasoning": "Class I HDACs regulate chromatin compaction and gene expression; their age-dependent downregulation leads to senescence, fitting chromatin repression loss mechanisms."
+        },
+        {
+          "theory_id": "T001090",
+          "subcluster_name": "Chromatin Repression Loss and Heterochromatin Aging Theory",
+          "reasoning": "Epigenetic reprogramming theory emphasizes chromatin remodeling and resetting epigenetic marks to reverse aging, involving chromatin repression and accessibility."
+        },
+        {
+          "theory_id": "T000061",
+          "subcluster_name": "Chromatin Repression Loss and Heterochromatin Aging Theory",
+          "reasoning": "Epigenetic dysregulation hypothesis of cognitive dysfunction involves dynamic DNA methylation and histone modifications affecting chromatin state and gene expression in aging brain."
+        },
+        {
+          "theory_id": "T004045",
+          "subcluster_name": "DNA Repair Decline and Epigenetic Regulation Theory",
+          "reasoning": "Focuses on age-related decline in DNA repair capacity linked to epigenetic repression of repair genes, connecting epigenetic regulation to genome maintenance and aging."
+        },
+        {
+          "theory_id": "T001608",
+          "subcluster_name": "DNA Repair Decline and Epigenetic Regulation Theory",
+          "reasoning": "Epigenetic downregulation of nuclear genes controlling mitochondrial translation causes respiration defects, linking epigenetic regulation to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T001160",
+          "subcluster_name": "DNA Repair Decline and Epigenetic Regulation Theory",
+          "reasoning": "miRNAs and noncoding RNAs regulate epigenetic enzymes and aging pathways, modulating gene expression and repair processes, fitting epigenetic regulation of aging mechanisms."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:16:46"
+}

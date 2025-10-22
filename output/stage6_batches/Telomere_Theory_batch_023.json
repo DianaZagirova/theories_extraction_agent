@@ -1,0 +1,269 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 23,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+        "theory_ids": [
+          "T027296",
+          "T026064",
+          "T026373",
+          "T026971",
+          "T027036",
+          "T026163",
+          "T027188",
+          "T027421",
+          "T018781",
+          "T027459",
+          "T024747",
+          "T027450",
+          "T027143"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Evolutionary Life-History Telomere Theory",
+        "theory_ids": [
+          "T026314",
+          "T025987",
+          "T026223",
+          "T009600",
+          "T026449",
+          "T026901"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Yeast Replicative Aging and Rejuvenation Theory",
+        "theory_ids": [
+          "T026044",
+          "T027065"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Telomerase Regulation and Replicative Senescence Theory",
+        "theory_ids": [
+          "T027175",
+          "T027246",
+          "T026942"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+        "theory_ids": [
+          "T027522",
+          "T027559",
+          "T026157",
+          "T026522",
+          "T009489",
+          "T026337",
+          "T026422",
+          "T018854",
+          "T026076",
+          "T022492"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Telomere Theory",
+        "theory_ids": [
+          "T027156",
+          "T024683"
+        ],
+        "theory_count": 2,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "1 subclusters too small, 1 theories not assigned"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027296",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Focuses on telomere length and attrition rate as biomarkers of aging and their association with age-related diseases."
+        },
+        {
+          "theory_id": "T026064",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Emphasizes telomere shortening as a driver of aging and the role of telomerase and alternative maintenance in longevity."
+        },
+        {
+          "theory_id": "T026373",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Reviews hypotheses linking telomere length and shortening causally to organismal aging and life-history traits."
+        },
+        {
+          "theory_id": "T026971",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Discusses early-life telomere length as a predictor of survival and somatic maintenance capacity."
+        },
+        {
+          "theory_id": "T027036",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Links environmental damage (air pollution) to accelerated telomere shortening and aging."
+        },
+        {
+          "theory_id": "T026163",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Connects telomere shortening and TERRA dysregulation with inflammation and aging in sulfur mustard poisoning."
+        },
+        {
+          "theory_id": "T027188",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Explores telomere dynamics as a mechanism linking stress resilience and aging mortality risk."
+        },
+        {
+          "theory_id": "T027421",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Shows correlation between adult telomere length, survival, and reproductive success as aging biomarkers."
+        },
+        {
+          "theory_id": "T018781",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Focuses on genetic variability in telomere-associated proteins influencing telomere length and longevity."
+        },
+        {
+          "theory_id": "T027459",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Proposes an age-dependent threshold model for telomere length maintenance and its relation to aging."
+        },
+        {
+          "theory_id": "T024747",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Links genetic predisposition to shorter telomeres with early-onset major depressive disorder as aging biomarker."
+        },
+        {
+          "theory_id": "T027450",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Describes telomere shortening as a biological clock regulating gestational timing and preterm labor."
+        },
+        {
+          "theory_id": "T026314",
+          "subcluster_name": "Evolutionary Life-History Telomere Theory",
+          "reasoning": "Analyzes telomere length variation and telomerase activity coevolution with life-history traits across species."
+        },
+        {
+          "theory_id": "T025987",
+          "subcluster_name": "Evolutionary Life-History Telomere Theory",
+          "reasoning": "Integrates telomere biology with life-history decisions and taxon-dependent variability in aging."
+        },
+        {
+          "theory_id": "T026223",
+          "subcluster_name": "Evolutionary Life-History Telomere Theory",
+          "reasoning": "Posits reproduction-associated telomere attrition as a trade-off shaping aging via life-history strategies."
+        },
+        {
+          "theory_id": "T009600",
+          "subcluster_name": "Evolutionary Life-History Telomere Theory",
+          "reasoning": "Demonstrates reproductive effort accelerates telomere shortening, reflecting resource allocation trade-offs."
+        },
+        {
+          "theory_id": "T026449",
+          "subcluster_name": "Evolutionary Life-History Telomere Theory",
+          "reasoning": "Links somatic telomerase activity and telomere biology to species reproductive strategies and aging rates."
+        },
+        {
+          "theory_id": "T026901",
+          "subcluster_name": "Evolutionary Life-History Telomere Theory",
+          "reasoning": "Shows complex ecological and evolutionary influences on telomere length and lifespan across killifish populations."
+        },
+        {
+          "theory_id": "T026044",
+          "subcluster_name": "Yeast Replicative Aging and Rejuvenation Theory",
+          "reasoning": "Describes replicative aging and rejuvenation in budding yeast as a cellular aging model with evolutionary context."
+        },
+        {
+          "theory_id": "T027065",
+          "subcluster_name": "Yeast Replicative Aging and Rejuvenation Theory",
+          "reasoning": "Details replicative and chronological aging models in yeast with genetic regulation insights."
+        },
+        {
+          "theory_id": "T027175",
+          "subcluster_name": "Telomerase Regulation and Replicative Senescence Theory",
+          "reasoning": "Focuses on telomerase dynamics in stem cells regulating replicative senescence and tissue aging."
+        },
+        {
+          "theory_id": "T027246",
+          "subcluster_name": "Telomerase Regulation and Replicative Senescence Theory",
+          "reasoning": "Reviews telomerase activity and telomere stability roles in replicative aging and cellular immortality."
+        },
+        {
+          "theory_id": "T026942",
+          "subcluster_name": "Telomerase Regulation and Replicative Senescence Theory",
+          "reasoning": "Highlights telomerase activity in somatic tissues maintaining telomere length and influencing aging."
+        },
+        {
+          "theory_id": "T027522",
+          "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+          "reasoning": "Links telomere shortening causally to systemic diseases like psoriasis and aging-related decline."
+        },
+        {
+          "theory_id": "T027559",
+          "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+          "reasoning": "Connects telomere dysfunction and replication stress to aging and cancer development."
+        },
+        {
+          "theory_id": "T026157",
+          "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+          "reasoning": "Describes telomere shortening and fusion causing genomic instability and reproductive aging."
+        },
+        {
+          "theory_id": "T026522",
+          "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+          "reasoning": "Proposes co-regulation of telomere and ribosomal DNA shortening driving aging via p53 pathway."
+        },
+        {
+          "theory_id": "T009489",
+          "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+          "reasoning": "Details telomerase inhibition causing mitochondrial dysfunction and accelerated aging in HIV treatment."
+        },
+        {
+          "theory_id": "T026337",
+          "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+          "reasoning": "Describes telomere-DNA-mitochondria feedback loop involving DNA damage and inflammation in aging."
+        },
+        {
+          "theory_id": "T026422",
+          "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+          "reasoning": "Links telomere length and mitochondrial function with environmental impacts on aging mechanisms."
+        },
+        {
+          "theory_id": "T018854",
+          "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+          "reasoning": "Explains premature aging and immunosuppression in honey bees due to telomere shortening."
+        },
+        {
+          "theory_id": "T026076",
+          "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+          "reasoning": "Models oxidative stress accelerating telomere shortening and cellular aging dynamics."
+        },
+        {
+          "theory_id": "T022492",
+          "subcluster_name": "Telomere Dysfunction and Disease Causality Theory",
+          "reasoning": "Suggests cognitive-behavioral traits influence telomere maintenance and biological aging."
+        },
+        {
+          "theory_id": "T027143",
+          "subcluster_name": "Telomere Attrition and Aging Biomarker Theory",
+          "reasoning": "Focuses on telomere biology and oxidative stress explaining gender differences in longevity."
+        },
+        {
+          "theory_id": "T024683",
+          "subcluster_name": "Telomerase Inhibition Cancer Prevention Theory",
+          "reasoning": "Proposes whole-body deletion of telomere elongation capacity to prevent cancer and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:37:45"
+}

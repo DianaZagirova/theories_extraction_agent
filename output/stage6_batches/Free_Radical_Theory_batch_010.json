@@ -1,0 +1,185 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 10,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+        "theory_ids": [
+          "T012202",
+          "T012092",
+          "T011908",
+          "T012241",
+          "T012142",
+          "T012251",
+          "T012052",
+          "T012250",
+          "T012011",
+          "T012079",
+          "T012006",
+          "T012110"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T012235",
+          "T012021",
+          "T012026",
+          "T012036",
+          "T012069",
+          "T012134",
+          "T012246",
+          "T012028",
+          "T012295",
+          "T012281",
+          "T011879"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Antioxidant Enzyme Decline and ROS Accumulation Theory",
+        "theory_ids": [
+          "T012245",
+          "T012051"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T012202",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Focuses on oxidative damage via lipid peroxidation and the role of antioxidants like glutathione and melatonin in modulating aging."
+        },
+        {
+          "theory_id": "T012092",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Emphasizes lipid unsaturation's effect on susceptibility to oxidative damage and protein modification by lipid peroxidation products."
+        },
+        {
+          "theory_id": "T011908",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Highlights lipid peroxidation as a key marker and mechanism of oxidative damage driving aging, with emphasis on balance between damage and defense."
+        },
+        {
+          "theory_id": "T012241",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Describes oxidative damage from free radicals and the shift in antioxidant/prooxidant balance with aging, including dietary antioxidant modulation."
+        },
+        {
+          "theory_id": "T012142",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Focuses on free radical accumulation causing oxidative damage and the protective role of antioxidant defenses in lifespan extension."
+        },
+        {
+          "theory_id": "T012251",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Discusses oxidative damage from reactive species and the role of antioxidant enzymes, including sex and reproductive cycle influences on aging."
+        },
+        {
+          "theory_id": "T012052",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Covers oxidative damage accumulation and the decline or alteration of antioxidant defenses with age, modulated by genetics and environment."
+        },
+        {
+          "theory_id": "T012250",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Focuses on oxidative damage by ROS and the role of antioxidant enzymes, testing the hypothesis that overexpression extends lifespan."
+        },
+        {
+          "theory_id": "T012011",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Highlights balance between ROS production and antioxidant defenses affecting lifespan and healthspan, with genetic manipulation evidence."
+        },
+        {
+          "theory_id": "T012079",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Emphasizes ROS causal role in aging and how calorie restriction reduces oxidative damage by modulating antioxidant defenses."
+        },
+        {
+          "theory_id": "T012006",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Describes damage by ROS and RNS and the balance between oxidative damage and antioxidant defense, with melatonin as an ameliorating agent."
+        },
+        {
+          "theory_id": "T012110",
+          "subcluster_name": "Lipid Peroxidation and Antioxidant Balance Free Radical Theory",
+          "reasoning": "Focuses on cellular resistance to oxidative stress correlating with longevity and the balance between ROS and antioxidants."
+        },
+        {
+          "theory_id": "T012235",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Centers on mitochondrial origin of free radicals, chain reactions, and genetic/environmental modulation of mitochondrial ROS in aging."
+        },
+        {
+          "theory_id": "T012021",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial free radical production as primary cause of aging and interventions targeting mitochondrial ROS."
+        },
+        {
+          "theory_id": "T012026",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing oxidative damage and the protective role of mitochondrial uncoupling proteins in longevity."
+        },
+        {
+          "theory_id": "T012036",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial ROS dual role in aging and regulation by antioxidant proteins like SIRT3 affecting mitochondrial function."
+        },
+        {
+          "theory_id": "T012069",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial oxidative stress as a primary source of aging damage and modulation by mitochondrial antioxidant enzymes."
+        },
+        {
+          "theory_id": "T012134",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Details mitochondrial ROS generation sites, oxidative damage to mitochondrial components, and oxidative stress-induced apoptosis."
+        },
+        {
+          "theory_id": "T012246",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights mitochondrial ROS production rate per oxygen consumed as determinant of aging and longevity differences among species."
+        },
+        {
+          "theory_id": "T012028",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS generation, mtDNA mutations, and oxidative damage leading to mitochondrial dysfunction and apoptosis."
+        },
+        {
+          "theory_id": "T012295",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes oxidative damage to mitochondrial DNA causing deletions that impair mitochondrial function and contribute to aging."
+        },
+        {
+          "theory_id": "T012281",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial DNA damage and oxidative stress causing melanocyte apoptosis and hair graying as an aging phenotype."
+        },
+        {
+          "theory_id": "T011879",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes oxidative damage to nuclear and mitochondrial DNA, diminished repair mechanisms, and their role in cognitive and epigenetic aging."
+        },
+        {
+          "theory_id": "T012245",
+          "subcluster_name": "Antioxidant Enzyme Decline and ROS Accumulation Theory",
+          "reasoning": "Focuses on age-related decline in glutathione peroxidase activity causing accumulation of hydrogen peroxide and oxidative damage."
+        },
+        {
+          "theory_id": "T012051",
+          "subcluster_name": "Antioxidant Enzyme Decline and ROS Accumulation Theory",
+          "reasoning": "Describes oxidative stress due to deficiency in antioxidant enzyme SOD1 leading to retinal aging and degeneration."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:11:51"
+}

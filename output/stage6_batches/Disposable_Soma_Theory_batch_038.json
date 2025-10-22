@@ -1,0 +1,185 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 38,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+        "theory_ids": [
+          "T026985",
+          "T026944",
+          "T026907",
+          "T026950",
+          "T026812",
+          "T026928",
+          "T026984",
+          "T026982",
+          "T026916",
+          "T026943"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Calorie Restriction and Nutrient-Sensing Pathways Theory",
+        "theory_ids": [
+          "T026886",
+          "T027005",
+          "T027006",
+          "T026870",
+          "T026601"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+        "theory_ids": [
+          "T026606",
+          "T026630",
+          "T026857",
+          "T026553",
+          "T026837",
+          "T026505",
+          "T026798",
+          "T026573",
+          "T026661",
+          "T026755"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026985",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on the conserved insulin/IGF-1 signaling pathway regulating lifespan, stress resistance, and metabolism."
+        },
+        {
+          "theory_id": "T026944",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes IIS pathway modulation of antioxidant defenses and lifespan via DAF-16/FOXO transcription factors."
+        },
+        {
+          "theory_id": "T026907",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Highlights IIS pathway and DAF-16 mediated stress resistance and longevity in model organisms."
+        },
+        {
+          "theory_id": "T026950",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on IIS pathway modulation of oxidative stress resilience and genetic regulation of lifespan."
+        },
+        {
+          "theory_id": "T026812",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Emphasizes IIS pathway as a key regulator of aging through nutrient sensing and stress resistance."
+        },
+        {
+          "theory_id": "T026928",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes IIS pathway and DAF-16/FOXO activation promoting longevity and stress resistance."
+        },
+        {
+          "theory_id": "T026984",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Details IIS pathway\u2019s role in lifespan extension and evolutionary implications in aging."
+        },
+        {
+          "theory_id": "T026982",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on IIS pathway coordinating immunity, stress resistance, and longevity across species."
+        },
+        {
+          "theory_id": "T026916",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes IIS inhibition and DAF-16/FOXO activation leading to lifespan extension and stress resistance."
+        },
+        {
+          "theory_id": "T026943",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on DAF-16 mediated longevity via oxidative stress reduction and protein aggregation amelioration."
+        },
+        {
+          "theory_id": "T026886",
+          "subcluster_name": "Calorie Restriction and Nutrient-Sensing Pathways Theory",
+          "reasoning": "Describes calorie restriction effects on lifespan via mTOR, EIF2, and tissue-specific gene expression changes."
+        },
+        {
+          "theory_id": "T027005",
+          "subcluster_name": "Calorie Restriction and Nutrient-Sensing Pathways Theory",
+          "reasoning": "Focuses on caloric restriction slowing aging by reducing metabolic rate and altering signaling pathways."
+        },
+        {
+          "theory_id": "T027006",
+          "subcluster_name": "Calorie Restriction and Nutrient-Sensing Pathways Theory",
+          "reasoning": "Highlights calorie restriction\u2019s modulation of aging and neuroprotection via sirtuins and signaling pathways."
+        },
+        {
+          "theory_id": "T026870",
+          "subcluster_name": "Calorie Restriction and Nutrient-Sensing Pathways Theory",
+          "reasoning": "Details CR\u2019s metabolic and molecular mechanisms including sirtuins, AMPK, IIS, and TOR pathways."
+        },
+        {
+          "theory_id": "T026601",
+          "subcluster_name": "Calorie Restriction and Nutrient-Sensing Pathways Theory",
+          "reasoning": "Describes dietary restriction redirecting resources from reproduction to somatic maintenance promoting longevity."
+        },
+        {
+          "theory_id": "T026606",
+          "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation trade-offs between reproduction and somatic maintenance affecting aging."
+        },
+        {
+          "theory_id": "T026630",
+          "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Emphasizes immune decline and resource trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T026857",
+          "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Describes evolutionary basis of aging as a trade-off favoring reproduction over somatic repair."
+        },
+        {
+          "theory_id": "T026553",
+          "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Highlights resource allocation trade-off causing insufficient somatic maintenance and aging."
+        },
+        {
+          "theory_id": "T026837",
+          "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Presents optimality theory of balancing reproduction and somatic repair leading to senescence."
+        },
+        {
+          "theory_id": "T026505",
+          "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Focuses on inevitable somatic decline due to prioritizing reproduction over maintenance."
+        },
+        {
+          "theory_id": "T026798",
+          "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Describes male reproductive strategy reducing longevity via resource allocation trade-offs."
+        },
+        {
+          "theory_id": "T026573",
+          "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Life history optimization theory emphasizing resource allocation trade-offs causing aging."
+        },
+        {
+          "theory_id": "T026661",
+          "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Links reproduction-associated metabolic load to aging via resource allocation trade-offs."
+        },
+        {
+          "theory_id": "T026755",
+          "subcluster_name": "Reproduction-Maintenance Trade-off Disposable Soma Theory",
+          "reasoning": "Discusses costs of reproduction and trade-offs affecting longevity in eusocial insects."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:15:08"
+}

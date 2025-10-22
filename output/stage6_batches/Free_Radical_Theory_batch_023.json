@@ -1,0 +1,185 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 23,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T026415",
+          "T026683",
+          "T026652",
+          "T026617",
+          "T026618",
+          "T026198",
+          "T026564",
+          "T026213",
+          "T026747",
+          "T026635",
+          "T026686"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+        "theory_ids": [
+          "T026470",
+          "T025903",
+          "T026727",
+          "T025888",
+          "T026330",
+          "T026730",
+          "T026243",
+          "T026512",
+          "T025813",
+          "T026427",
+          "T026567"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Cellular Senescence and Inflammation Theory",
+        "theory_ids": [
+          "T026273",
+          "T026808",
+          "T026815"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T026415",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS generation rates correlating with lifespan and antioxidant defenses modulating aging."
+        },
+        {
+          "theory_id": "T026683",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondria as main ROS source and discusses mitochondrial-targeted antioxidant interventions."
+        },
+        {
+          "theory_id": "T026652",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights mitochondrial ROS production, damage accumulation, and therapeutic antioxidant implications."
+        },
+        {
+          "theory_id": "T026617",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Links mitochondrial heteroplasmy caused by ROS to aging, focusing on mitochondrial DNA damage."
+        },
+        {
+          "theory_id": "T026618",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial ROS accumulation causing damage and aging, with antioxidant intervention potential."
+        },
+        {
+          "theory_id": "T026198",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Connects metabolic rate to ROS production and aging, emphasizing mitochondrial free radical damage."
+        },
+        {
+          "theory_id": "T026564",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction as a source and target of oxidative stress driving aging."
+        },
+        {
+          "theory_id": "T026213",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Discusses ROS imbalance involving mitochondrial enzymes and lipid peroxidation contributing to aging."
+        },
+        {
+          "theory_id": "T026747",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Integrates mitochondrial electron transport chain malfunctions producing ROS with aging as a reliability problem."
+        },
+        {
+          "theory_id": "T026635",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes ROS accumulation from mitochondrial metabolism and pro-oxidant effects accelerating aging."
+        },
+        {
+          "theory_id": "T026686",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on balance of mitochondrial ROS and antioxidant defenses determining aging rate."
+        },
+        {
+          "theory_id": "T026470",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "Emphasizes systemic oxidative stress causing vascular damage and age-related diseases like atherosclerosis and diabetes."
+        },
+        {
+          "theory_id": "T025903",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "Focuses on oxidative damage accumulation in yeast replicative aging and decline in antioxidant defenses."
+        },
+        {
+          "theory_id": "T026727",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "Links oxidative stress and antioxidant decline to sarcopenia and systemic aging phenotypes."
+        },
+        {
+          "theory_id": "T025888",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "Connects oxidative damage to activation of inflammatory pathways driving aging-associated inflammation."
+        },
+        {
+          "theory_id": "T026330",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "Describes oxidative stress triggering chronic inflammation and neurodegeneration in aging."
+        },
+        {
+          "theory_id": "T026730",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "Focuses on protein oxidation as a driver of tissue aging and systemic functional decline."
+        },
+        {
+          "theory_id": "T026243",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "Highlights oxidative damage accumulation and redox modifications as biomarkers in brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T026512",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "General oxidative damage accumulation causing cellular and molecular dysfunction in aging."
+        },
+        {
+          "theory_id": "T025813",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "Describes imbalance between free radicals and antioxidant defenses leading to oxidative stress and aging."
+        },
+        {
+          "theory_id": "T026427",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "Focuses on oxidative stress resilience and damage in brain aging."
+        },
+        {
+          "theory_id": "T026567",
+          "subcluster_name": "Systemic Oxidative Stress and Disease-Linked Free Radical Theory",
+          "reasoning": "Links oxidative damage to energy imbalance, homeostatic decline, and frailty in aging."
+        },
+        {
+          "theory_id": "T026273",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence and Inflammation Theory",
+          "reasoning": "Emphasizes oxidative stress causing cellular senescence, DNA damage, and chronic inflammation driving brain aging."
+        },
+        {
+          "theory_id": "T026808",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence and Inflammation Theory",
+          "reasoning": "Describes free radical reactions causing cellular damage modifiable by genetics/environment, linking aging and disease."
+        },
+        {
+          "theory_id": "T026815",
+          "subcluster_name": "Oxidative Stress-Induced Cellular Senescence and Inflammation Theory",
+          "reasoning": "Applies systems reliability theory to stochastic free radical damage in critical structures causing aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:18:37"
+}

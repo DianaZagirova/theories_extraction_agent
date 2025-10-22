@@ -1,0 +1,348 @@
+[
+  {
+    "doi": "10.1016/j.arr.2021.101557",
+    "pmid": "34990845",
+    "title": "The hyperfunction theory: An emerging paradigm for the biology of aging.",
+    "used_full_text": true,
+    "answers": {
+      "aging_biomarker": {
+        "question": "Does paper suggest an aging biomarker (measurable entity reflecting aging pace or health state, associated with mortality or age-related conditions)? If yes, does the text provide quantitative evidence for the association or is the suggestion qualitative or hypothetical (hypothesis/discussion only)?",
+        "answer": "Yes, but not shown",
+        "confidence": 0.95,
+        "reasoning": "The paper discusses epigenetic clocks (DNA methylation changes) as biomarkers of aging and their association with developmental clocks and mTOR activity, but does not provide quantitative evidence within the text.",
+        "correct_answer": "Yes"
+      },
+      "aging_cannot_be_reversed": {
+        "question": "Does paper contains claim(s) suggesting that aging cannot be reversed?",
+        "answer": "No",
+        "confidence": 0.95,
+        "reasoning": "The paper does not claim aging cannot be reversed; rather, it discusses mechanisms and interventions that modulate aging, implying reversibility or at least modulation.",
+        "correct_answer": "No"
+      },
+      "birds_lifespan_explanation": {
+        "question": "Check if lifespan of birds are mentioned. Does paper contains claim(s)/examples/implies explaining why potentially birds (or some specific species) live  longer than mammals (on average)? ",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "The paper does not discuss birds or explanations for their lifespan relative to mammals or other species.",
+        "correct_answer": "No"
+      },
+      "calorie_restriction_lifespan_explanation": {
+        "question": "Check if calorie restriction (CR) is mentioned in the context of lifespan. Does paper contains claim(s)/examples/implies explaining why potentially calorie restriction (CR) increases the lifespan of vertebrates (or some species)?",
+        "answer": "Yes",
+        "confidence": 0.95,
+        "reasoning": "The paper discusses dietary restriction (DR) extending lifespan by suppressing mTOR activity and quasi-programs rather than resource reallocation, providing an explanation for CR effects on lifespan.",
+        "correct_answer": "Yes"
+      },
+      "cross_species_longevity_biomarker": {
+        "question": "Does paper contains claim(s)/examples/implies suggesting a biomarker that predicts maximal lifespan differences between species (i.e., a cross-species longevity biomarker)?",
+        "answer": "Yes",
+        "confidence": 0.9,
+        "reasoning": "The paper mentions universal mammalian methylation clocks linked to developmental genes and polycomb repressor complex regulation, implying conserved epigenetic biomarkers predictive across species.",
+        "correct_answer": "No"
+      },
+      "large_animals_lifespan_explanation": {
+        "question": "Check if lifespan is mentioned in the context of body size. Does paper contains claim(s)/examples/implies explaining why potentially large animals (or some species) live longer than small ones (or some species)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "There is no discussion relating body size to lifespan or explanations for large animals living longer.",
+        "correct_answer": "Yes"
+      },
+      "longevity_intervention_to_test": {
+        "question": "Does paper contains claim(s) suggesting a specific longevity intervention to test?",
+        "answer": "Yes",
+        "confidence": 0.9,
+        "reasoning": "The paper highlights rapamycin (an mTOR inhibitor) as a longevity intervention that suppresses quasi-programs and extends lifespan, suggesting it as a testable intervention.",
+        "correct_answer": "Yes"
+      },
+      "molecular_mechanism_of_aging": {
+        "question": "Does paper suggest any molecular mechanism of aging?",
+        "answer": "Yes",
+        "confidence": 1.0,
+        "reasoning": "The paper extensively discusses molecular mechanisms such as IIS/mTOR signaling, hyperfunction, and quasi-programs as proximate causes of aging.",
+        "correct_answer": "Yes"
+      },
+      "naked_mole_rat_lifespan_explanation": {
+        "question": "Check if there are statements about naked mole rat potentially explaining their lifespan. Does paper contains claim(s)/examples/implies explaining why potentially the naked mole rat can live a lot of years (despite its small size)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "There is no mention or discussion of naked mole rat lifespan or explanations thereof in the text.",
+        "correct_answer": "No"
+      }
+    }
+  },
+  {
+    "doi": "10.1016/j.tree.2022.08.003",
+    "pmid": "36096982",
+    "title": "Could aging evolve as a pathogen control strategy?",
+    "used_full_text": true,
+    "answers": {
+      "aging_biomarker": {
+        "question": "Does paper suggest an aging biomarker (measurable entity reflecting aging pace or health state, associated with mortality or age-related conditions)? If yes, does the text provide quantitative evidence for the association or is the suggestion qualitative or hypothetical (hypothesis/discussion only)?",
+        "answer": "No",
+        "confidence": 0.95,
+        "reasoning": "The paper discusses aging broadly and evolutionary hypotheses but does not suggest or identify any specific measurable biomarker reflecting aging pace or health state.",
+        "correct_answer": "No"
+      },
+      "aging_cannot_be_reversed": {
+        "question": "Does paper contains claim(s) suggesting that aging cannot be reversed?",
+        "answer": "No",
+        "confidence": 0.95,
+        "reasoning": "The paper does not claim that aging cannot be reversed; it discusses aging as an adaptive or non-adaptive process without definitive statements about reversibility.",
+        "correct_answer": "No"
+      },
+      "birds_lifespan_explanation": {
+        "question": "Check if lifespan of birds are mentioned. Does paper contains claim(s)/examples/implies explaining why potentially birds (or some specific species) live  longer than mammals (on average)? ",
+        "answer": "Yes",
+        "confidence": 0.8,
+        "reasoning": "The paper references bird lifespan variation and discusses population structure and mobility as factors potentially explaining bird longevity.",
+        "correct_answer": "Yes"
+      },
+      "calorie_restriction_lifespan_explanation": {
+        "question": "Check if calorie restriction (CR) is mentioned in the context of lifespan. Does paper contains claim(s)/examples/implies explaining why potentially calorie restriction (CR) increases the lifespan of vertebrates (or some species)?",
+        "answer": "No",
+        "confidence": 0.9,
+        "reasoning": "Calorie restriction is not discussed or mentioned in the context of lifespan or aging in this paper.",
+        "correct_answer": "Yes"
+      },
+      "cross_species_longevity_biomarker": {
+        "question": "Does paper contains claim(s)/examples/implies suggesting a biomarker that predicts maximal lifespan differences between species (i.e., a cross-species longevity biomarker)?",
+        "answer": "No",
+        "confidence": 0.9,
+        "reasoning": "There is no mention or implication of a biomarker that predicts maximal lifespan differences between species.",
+        "correct_answer": "No"
+      },
+      "large_animals_lifespan_explanation": {
+        "question": "Check if lifespan is mentioned in the context of body size. Does paper contains claim(s)/examples/implies explaining why potentially large animals (or some species) live longer than small ones (or some species)?",
+        "answer": "Yes",
+        "confidence": 0.8,
+        "reasoning": "The paper mentions body size and lifespan trade-offs, including references to large animals and ecological dominance, implying explanations for lifespan differences related to size.",
+        "correct_answer": "Yes"
+      },
+      "longevity_intervention_to_test": {
+        "question": "Does paper contains claim(s) suggesting a specific longevity intervention to test?",
+        "answer": "No",
+        "confidence": 0.9,
+        "reasoning": "The paper focuses on evolutionary hypotheses and modeling but does not suggest specific longevity interventions to experimentally test.",
+        "correct_answer": "No"
+      },
+      "molecular_mechanism_of_aging": {
+        "question": "Does paper suggest any molecular mechanism of aging?",
+        "answer": "No",
+        "confidence": 0.9,
+        "reasoning": "While the paper discusses evolutionary theories and pathogen control hypothesis, it does not propose or detail any molecular mechanisms underlying aging.",
+        "correct_answer": "No"
+      },
+      "naked_mole_rat_lifespan_explanation": {
+        "question": "Check if there are statements about naked mole rat potentially explaining their lifespan. Does paper contains claim(s)/examples/implies explaining why potentially the naked mole rat can live a lot of years (despite its small size)?",
+        "answer": "Yes",
+        "confidence": 0.85,
+        "reasoning": "The paper discusses naked mole-rats in the context of pathogen control hypothesis, suggesting their adaptive suicide (phenoptosis) and hypersensitivity to infection may explain their lifespan traits.",
+        "correct_answer": "Yes"
+      }
+    }
+  },
+  {
+    "doi": "10.14336/AD.2025.0541",
+    "pmid": "40423632",
+    "title": "Causality of Aging Hallmarks.",
+    "used_full_text": false,
+    "answers": {
+      "aging_biomarker": {
+        "question": "Does paper suggest an aging biomarker (measurable entity reflecting aging pace or health state, associated with mortality or age-related conditions)? If yes, does the text provide quantitative evidence for the association or is the suggestion qualitative or hypothetical (hypothesis/discussion only)?",
+        "answer": "Yes, but not shown",
+        "confidence": 0.9,
+        "reasoning": "The abstract suggests telomere length as a biomarker of aging but does not provide quantitative evidence within the abstract.",
+        "correct_answer": "Yes"
+      },
+      "aging_cannot_be_reversed": {
+        "question": "Does paper contains claim(s) suggesting that aging cannot be reversed?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "The abstract explicitly suggests that aging can be reversed by increasing telomere and rDNA lengths.",
+        "correct_answer": "No"
+      },
+      "birds_lifespan_explanation": {
+        "question": "Check if lifespan of birds are mentioned. Does paper contains claim(s)/examples/implies explaining why potentially birds (or some specific species) live  longer than mammals (on average)? ",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "The abstract does not mention birds or their lifespan.",
+        "correct_answer": "Yes"
+      },
+      "calorie_restriction_lifespan_explanation": {
+        "question": "Check if calorie restriction (CR) is mentioned in the context of lifespan. Does paper contains claim(s)/examples/implies explaining why potentially calorie restriction (CR) increases the lifespan of vertebrates (or some species)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "Calorie restriction is not mentioned or implied in the abstract.",
+        "correct_answer": "Yes"
+      },
+      "cross_species_longevity_biomarker": {
+        "question": "Does paper contains claim(s)/examples/implies suggesting a biomarker that predicts maximal lifespan differences between species (i.e., a cross-species longevity biomarker)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "There is no mention or implication of biomarkers predicting lifespan differences between species.",
+        "correct_answer": "Yes"
+      },
+      "large_animals_lifespan_explanation": {
+        "question": "Check if lifespan is mentioned in the context of body size. Does paper contains claim(s)/examples/implies explaining why potentially large animals (or some species) live longer than small ones (or some species)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "There is no discussion of body size or lifespan relationships in the abstract.",
+        "correct_answer": "Yes"
+      },
+      "longevity_intervention_to_test": {
+        "question": "Does paper contains claim(s) suggesting a specific longevity intervention to test?",
+        "answer": "Yes",
+        "confidence": 1.0,
+        "reasoning": "The abstract proposes increasing telomere and rDNA array length in adult stem cells as a way to reverse aging and extend lifespan.",
+        "correct_answer": "Yes"
+      },
+      "molecular_mechanism_of_aging": {
+        "question": "Does paper suggest any molecular mechanism of aging?",
+        "answer": "Yes",
+        "confidence": 1.0,
+        "reasoning": "The abstract clearly states a molecular mechanism involving telomere and rDNA shortening mediating aging via the P53 pathway.",
+        "correct_answer": "Yes"
+      },
+      "naked_mole_rat_lifespan_explanation": {
+        "question": "Check if there are statements about naked mole rat potentially explaining their lifespan. Does paper contains claim(s)/examples/implies explaining why potentially the naked mole rat can live a lot of years (despite its small size)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "The abstract does not mention naked mole rats or explanations related to their lifespan.",
+        "correct_answer": "No"
+      }
+    }
+  },
+  {
+    "doi": "10.1038/s43587-023-00527-6",
+    "pmid": "38102202",
+    "title": "The Information Theory of Aging.",
+    "used_full_text": true,
+    "answers": {
+      "aging_biomarker": {
+        "question": "Does paper suggest an aging biomarker (measurable entity reflecting aging pace or health state, associated with mortality or age-related conditions)? If yes, does the text provide quantitative evidence for the association or is the suggestion qualitative or hypothetical (hypothesis/discussion only)?",
+        "answer": "Yes, but not shown",
+        "confidence": 0.95,
+        "reasoning": "The paper discusses DNA methylation clocks as biomarkers of biological age and epigenetic changes correlating with aging, but does not present direct quantitative evidence within the text.",
+        "correct_answer": "Yes"
+      },
+      "aging_cannot_be_reversed": {
+        "question": "Does paper contains claim(s) suggesting that aging cannot be reversed?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "The paper explicitly states that aging is reversible through partial epigenetic reprogramming, contradicting the notion that aging cannot be reversed.",
+        "correct_answer": "No"
+      },
+      "birds_lifespan_explanation": {
+        "question": "Check if lifespan of birds are mentioned. Does paper contains claim(s)/examples/implies explaining why potentially birds (or some specific species) live  longer than mammals (on average)? ",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "The paper does not discuss birds or explanations for their lifespan relative to mammals.",
+        "correct_answer": "No"
+      },
+      "calorie_restriction_lifespan_explanation": {
+        "question": "Check if calorie restriction (CR) is mentioned in the context of lifespan. Does paper contains claim(s)/examples/implies explaining why potentially calorie restriction (CR) increases the lifespan of vertebrates (or some species)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "Calorie restriction is not mentioned or discussed as a factor influencing lifespan in the paper.",
+        "correct_answer": "No"
+      },
+      "cross_species_longevity_biomarker": {
+        "question": "Does paper contains claim(s)/examples/implies suggesting a biomarker that predicts maximal lifespan differences between species (i.e., a cross-species longevity biomarker)?",
+        "answer": "Yes",
+        "confidence": 0.85,
+        "reasoning": "The paper mentions that the rate of epimutations negatively correlates with maximum lifespan in mammals, implying epigenetic information loss as a cross-species longevity biomarker.",
+        "correct_answer": "Yes"
+      },
+      "large_animals_lifespan_explanation": {
+        "question": "Check if lifespan is mentioned in the context of body size. Does paper contains claim(s)/examples/implies explaining why potentially large animals (or some species) live longer than small ones (or some species)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "There is no discussion of body size or explanations for lifespan differences based on size.",
+        "correct_answer": "No"
+      },
+      "longevity_intervention_to_test": {
+        "question": "Does paper contains claim(s) suggesting a specific longevity intervention to test?",
+        "answer": "Yes",
+        "confidence": 0.9,
+        "reasoning": "The paper suggests epigenetic reprogramming via factors like OSK (OCT4, SOX2, KLF4) as an intervention to restore youthful epigenetic states and reverse aging effects.",
+        "correct_answer": "Yes"
+      },
+      "molecular_mechanism_of_aging": {
+        "question": "Does paper suggest any molecular mechanism of aging?",
+        "answer": "Yes",
+        "confidence": 1.0,
+        "reasoning": "The paper proposes the Information Theory of Aging, attributing aging to progressive loss of youthful epigenetic information and epigenetic dysregulation as molecular mechanisms.",
+        "correct_answer": "Yes"
+      },
+      "naked_mole_rat_lifespan_explanation": {
+        "question": "Check if there are statements about naked mole rat potentially explaining their lifespan. Does paper contains claim(s)/examples/implies explaining why potentially the naked mole rat can live a lot of years (despite its small size)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "There is no mention or discussion of naked mole rats or their lifespan in the paper.",
+        "correct_answer": "Yes"
+      }
+    }
+  },
+  {
+    "doi": "10.1016/j.arr.2024.102310",
+    "pmid": "38636560",
+    "title": "Aging as a loss of morphostatic information: A developmental bioelectricity perspective.",
+    "used_full_text": false,
+    "answers": {
+      "aging_biomarker": {
+        "question": "Does paper suggest an aging biomarker (measurable entity reflecting aging pace or health state, associated with mortality or age-related conditions)? If yes, does the text provide quantitative evidence for the association or is the suggestion qualitative or hypothetical (hypothesis/discussion only)?",
+        "answer": "Yes, but not shown",
+        "confidence": 0.8,
+        "reasoning": "The abstract proposes endogenous bioelectric signaling as a form of morphostatic information related to aging, implying it could serve as a biomarker, but no quantitative evidence is presented."
+      },
+      "aging_cannot_be_reversed": {
+        "question": "Does paper contains claim(s) suggesting that aging cannot be reversed?",
+        "answer": "No",
+        "confidence": 0.9,
+        "reasoning": "The abstract discusses links between aging and regeneration and suggests interventions, implying aging might be modifiable or reversible."
+      },
+      "birds_lifespan_explanation": {
+        "question": "Check if lifespan of birds are mentioned. Does paper contains claim(s)/examples/implies explaining why potentially birds (or some specific species) live  longer than mammals (on average)? ",
+        "answer": "No",
+        "confidence": 0.95,
+        "reasoning": "The abstract does not mention birds or explanations for their lifespan."
+      },
+      "calorie_restriction_lifespan_explanation": {
+        "question": "Check if calorie restriction (CR) is mentioned in the context of lifespan. Does paper contains claim(s)/examples/implies explaining why potentially calorie restriction (CR) increases the lifespan of vertebrates (or some species)?",
+        "answer": "No",
+        "confidence": 0.95,
+        "reasoning": "Calorie restriction is not mentioned in the abstract."
+      },
+      "cross_species_longevity_biomarker": {
+        "question": "Does paper contains claim(s)/examples/implies suggesting a biomarker that predicts maximal lifespan differences between species (i.e., a cross-species longevity biomarker)?",
+        "answer": "No",
+        "confidence": 0.95,
+        "reasoning": "There is no mention of biomarkers predicting lifespan differences across species."
+      },
+      "large_animals_lifespan_explanation": {
+        "question": "Check if lifespan is mentioned in the context of body size. Does paper contains claim(s)/examples/implies explaining why potentially large animals (or some species) live longer than small ones (or some species)?",
+        "answer": "No",
+        "confidence": 0.95,
+        "reasoning": "The abstract does not discuss body size or lifespan relationships."
+      },
+      "longevity_intervention_to_test": {
+        "question": "Does paper contains claim(s) suggesting a specific longevity intervention to test?",
+        "answer": "Yes",
+        "confidence": 0.9,
+        "reasoning": "The abstract suggests a research program for healthful longevity via morphoceuticals targeting bioelectric signaling."
+      },
+      "molecular_mechanism_of_aging": {
+        "question": "Does paper suggest any molecular mechanism of aging?",
+        "answer": "No",
+        "confidence": 0.9,
+        "reasoning": "The abstract discusses bioelectric signaling as a biophysical mechanism but does not specify any molecular mechanisms of aging."
+      },
+      "naked_mole_rat_lifespan_explanation": {
+        "question": "Check if there are statements about naked mole rat potentially explaining their lifespan. Does paper contains claim(s)/examples/implies explaining why potentially the naked mole rat can live a lot of years (despite its small size)?",
+        "answer": "No",
+        "confidence": 0.95,
+        "reasoning": "The abstract does not mention naked mole rats or explanations for their lifespan."
+      }
+    }
+  }
+]

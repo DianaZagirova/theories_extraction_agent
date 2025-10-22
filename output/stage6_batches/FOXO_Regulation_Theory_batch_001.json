@@ -1,0 +1,185 @@
+{
+  "cluster_name": "FOXO Regulation Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "FOXO Regulation of Stem Cell Maintenance and Oxidative DNA Damage",
+        "theory_ids": [
+          "T006494",
+          "T004903",
+          "T001274",
+          "T016137",
+          "T005817",
+          "T008545",
+          "T004844",
+          "T001916"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "FOXO Regulation of Oxidative Stress Resistance and Nutrient Signaling",
+        "theory_ids": [
+          "T014615",
+          "T006558",
+          "T014575",
+          "T015429",
+          "T000788",
+          "T015246"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "FOXO Regulation of Epigenetic Nutritional Programming and Lifespan",
+        "theory_ids": [
+          "T002753",
+          "T003176",
+          "T003239",
+          "T003150",
+          "T015499",
+          "T002652"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "FOXO Functional Coupling and Evolutionary Diversification Theory",
+        "theory_ids": [
+          "T003992",
+          "T001801",
+          "T002303"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T006494",
+          "subcluster_name": "FOXO Regulation of Stem Cell Maintenance and Oxidative DNA Damage",
+          "reasoning": "Focuses on FOXO3's role in protecting hematopoietic stem cells from oxidative DNA damage and maintaining stem cell function."
+        },
+        {
+          "theory_id": "T004903",
+          "subcluster_name": "FOXO Regulation of Stem Cell Maintenance and Oxidative DNA Damage",
+          "reasoning": "Describes FOXO factors regulating hematopoietic stem cell quiescence, oxidative stress resistance, and aging-like phenotypes."
+        },
+        {
+          "theory_id": "T001274",
+          "subcluster_name": "FOXO Regulation of Stem Cell Maintenance and Oxidative DNA Damage",
+          "reasoning": "Emphasizes FOXO's role in stem cell self-renewal and longevity, especially in Hydra and humans."
+        },
+        {
+          "theory_id": "T016137",
+          "subcluster_name": "FOXO Regulation of Stem Cell Maintenance and Oxidative DNA Damage",
+          "reasoning": "Highlights FOXO3's regulation of stem cell homeostasis, cellular integrity, and longevity."
+        },
+        {
+          "theory_id": "T005817",
+          "subcluster_name": "FOXO Regulation of Stem Cell Maintenance and Oxidative DNA Damage",
+          "reasoning": "Focuses on FOXO3's conserved role in stem cell maintenance and longevity across species."
+        },
+        {
+          "theory_id": "T008545",
+          "subcluster_name": "FOXO Regulation of Stem Cell Maintenance and Oxidative DNA Damage",
+          "reasoning": "Proposes FOXO as a master regulator of aging via stem cell proliferation and immune function."
+        },
+        {
+          "theory_id": "T004844",
+          "subcluster_name": "FOXO Regulation of Stem Cell Maintenance and Oxidative DNA Damage",
+          "reasoning": "Details FOXO's critical role in stem cell self-renewal and innate immunity in Hydra linked to aging."
+        },
+        {
+          "theory_id": "T001916",
+          "subcluster_name": "FOXO Regulation of Stem Cell Maintenance and Oxidative DNA Damage",
+          "reasoning": "Describes FOXO's control of microbiome resilience via antimicrobial peptides, linking tissue maintenance and aging."
+        },
+        {
+          "theory_id": "T014615",
+          "subcluster_name": "FOXO Regulation of Oxidative Stress Resistance and Nutrient Signaling",
+          "reasoning": "Focuses on FOXO-mediated oxidative stress resistance regulated by insulin/IGF-1 signaling and calorie restriction."
+        },
+        {
+          "theory_id": "T006558",
+          "subcluster_name": "FOXO Regulation of Oxidative Stress Resistance and Nutrient Signaling",
+          "reasoning": "Describes FOXO's role in oxidative stress resistance and skeletal homeostasis integrating stress signals."
+        },
+        {
+          "theory_id": "T014575",
+          "subcluster_name": "FOXO Regulation of Oxidative Stress Resistance and Nutrient Signaling",
+          "reasoning": "Focuses on FoxO6 phosphorylation regulating oxidative stress and its modulation by calorie restriction."
+        },
+        {
+          "theory_id": "T015429",
+          "subcluster_name": "FOXO Regulation of Oxidative Stress Resistance and Nutrient Signaling",
+          "reasoning": "Details FOXO transcription factors as lifespan regulators modulated by insulin/IGF signaling and ROS."
+        },
+        {
+          "theory_id": "T000788",
+          "subcluster_name": "FOXO Regulation of Oxidative Stress Resistance and Nutrient Signaling",
+          "reasoning": "Covers FOXO as conserved lifespan regulators integrating insulin/IGF signaling and stress resistance."
+        },
+        {
+          "theory_id": "T015246",
+          "subcluster_name": "FOXO Regulation of Oxidative Stress Resistance and Nutrient Signaling",
+          "reasoning": "Describes FOXO as central regulators in dietary restriction longevity signaling via insulin/IGF-1 and AMPK."
+        },
+        {
+          "theory_id": "T002753",
+          "subcluster_name": "FOXO Regulation of Epigenetic Nutritional Programming and Lifespan",
+          "reasoning": "Focuses on FOXO inhibition by high sugar diets causing epigenetic changes that program lifespan."
+        },
+        {
+          "theory_id": "T003176",
+          "subcluster_name": "FOXO Regulation of Epigenetic Nutritional Programming and Lifespan",
+          "reasoning": "Emphasizes MYST family histone acetyltransferase complex regulating FOXO transcription epigenetically."
+        },
+        {
+          "theory_id": "T003239",
+          "subcluster_name": "FOXO Regulation of Epigenetic Nutritional Programming and Lifespan",
+          "reasoning": "Focuses on FOXO regulation by multiple post-translational modifications integrating aging-related signaling."
+        },
+        {
+          "theory_id": "T003150",
+          "subcluster_name": "FOXO Regulation of Epigenetic Nutritional Programming and Lifespan",
+          "reasoning": "Describes FOXO regulation by AKT and 14-3-3 proteins affecting localization and activity."
+        },
+        {
+          "theory_id": "T015499",
+          "subcluster_name": "FOXO Regulation of Epigenetic Nutritional Programming and Lifespan",
+          "reasoning": "Details FoxO1 regulation of proteasome subunit expression linking insulin/IGF signaling to proteostasis and longevity."
+        },
+        {
+          "theory_id": "T002652",
+          "subcluster_name": "FOXO Regulation of Epigenetic Nutritional Programming and Lifespan",
+          "reasoning": "Discusses FOXO family functional redundancy and evolutionary diversification affecting regulation and aging."
+        },
+        {
+          "theory_id": "T002076",
+          "subcluster_name": "FOXO Regulation of Genomic Stability and DNA Repair",
+          "reasoning": "Focuses on FOXO3 and other isoforms maintaining genomic stability via DNA repair and redox balance."
+        },
+        {
+          "theory_id": "T003992",
+          "subcluster_name": "FOXO Functional Coupling and Evolutionary Diversification Theory",
+          "reasoning": "Proposes aging arises from evolutionary coupling and functional congestion of FOXO pathways limiting lifespan."
+        },
+        {
+          "theory_id": "T001801",
+          "subcluster_name": "FOXO Functional Coupling and Evolutionary Diversification Theory",
+          "reasoning": "Describes antagonistic interactions between FoxO and FoxM1 balancing cell cycle and stress response affecting aging."
+        },
+        {
+          "theory_id": "T002303",
+          "subcluster_name": "FOXO Functional Coupling and Evolutionary Diversification Theory",
+          "reasoning": "Focuses on FoxO1 regulation of fat catabolism linking nutrient sensing to longevity pathways."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:59:13"
+}

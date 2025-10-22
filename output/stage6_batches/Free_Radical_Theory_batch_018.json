@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 18,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Free Radical Theory of Aging in Neurodegeneration and Protein Oxidation",
+        "theory_ids": [
+          "T020451",
+          "T019388",
+          "T020220"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+        "theory_ids": [
+          "T019991",
+          "T019909",
+          "T019884",
+          "T019321",
+          "T019551",
+          "T019415",
+          "T019195",
+          "T019952",
+          "T019934",
+          "T020375",
+          "T019217",
+          "T019289"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory of Aging",
+        "theory_ids": [
+          "T020109",
+          "T018814",
+          "T018836",
+          "T018779",
+          "T018868",
+          "T019577",
+          "T018842"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "DNA Damage and Stem Cell Exhaustion-Linked Free Radical Theory",
+        "theory_ids": [
+          "T020482",
+          "T019193"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020451",
+          "subcluster_name": "Free Radical Theory of Aging in Neurodegeneration and Protein Oxidation",
+          "reasoning": "Focuses on ROS-induced protein oxidation and neuronal death mechanisms in brain aging and neurodegenerative diseases."
+        },
+        {
+          "theory_id": "T019388",
+          "subcluster_name": "Free Radical Theory of Aging in Neurodegeneration and Protein Oxidation",
+          "reasoning": "Emphasizes free oxygen radical damage to brain macromolecules, mitochondrial dysfunction, and neuronal loss."
+        },
+        {
+          "theory_id": "T019991",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Highlights oxidative protein damage, especially dityrosine cross-linking in muscle tissues and lifespan effects."
+        },
+        {
+          "theory_id": "T019909",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Focuses on oxidative stress, antioxidant decline, and vitamin E effects on lipid peroxidation and aging."
+        },
+        {
+          "theory_id": "T020109",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory of Aging",
+          "reasoning": "Centers on mitochondrial ROS production, mtDNA mutations, and genetic evidence linking mitochondrial oxidative damage to aging."
+        },
+        {
+          "theory_id": "T018814",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory of Aging",
+          "reasoning": "Details accumulation of mtDNA deletions caused by mitochondrial ROS and their impact on tissue function."
+        },
+        {
+          "theory_id": "T019884",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Describes ROS as aging drivers, imbalance of oxidants/antioxidants, and antioxidant defense network status."
+        },
+        {
+          "theory_id": "T018836",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory of Aging",
+          "reasoning": "Focuses on mitochondrial ROS production, oxidative damage accumulation, antioxidant defenses, and genetic lifespan modulation."
+        },
+        {
+          "theory_id": "T019321",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Discusses accumulation of oxidative damage, causal role of free radicals, and antioxidant intervention hypothesis."
+        },
+        {
+          "theory_id": "T020220",
+          "subcluster_name": "Free Radical Theory of Aging in Neurodegeneration and Protein Oxidation",
+          "reasoning": "Focuses on free radical-induced oxidative damage to neuronal membranes and receptor function loss in aging brain."
+        },
+        {
+          "theory_id": "T020482",
+          "subcluster_name": "DNA Damage and Stem Cell Exhaustion-Linked Free Radical Theory",
+          "reasoning": "Emphasizes ROS-induced DNA damage, telomere dynamics, and hematopoietic stem cell aging under oxidative stress."
+        },
+        {
+          "theory_id": "T019551",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Highlights ROS as causal agents, protein carbonylation accumulation, and decline in antioxidant and proteolytic systems."
+        },
+        {
+          "theory_id": "T018779",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory of Aging",
+          "reasoning": "Describes ROS as causal agents, oxidative damage accumulation in skeletal muscle, antioxidant decline, and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T018868",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory of Aging",
+          "reasoning": "Focuses on oxidative damage accumulation with age, ROS scavenging enzymes, and aging in C. elegans."
+        },
+        {
+          "theory_id": "T019577",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory of Aging",
+          "reasoning": "Links mitochondrial ROS, oxidative stress, mitochondrial dysfunction, and antioxidant defense systems to aging."
+        },
+        {
+          "theory_id": "T019415",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Focuses on free radicals causing oxidative stress imbalance, cumulative damage, and aging-related inflammation."
+        },
+        {
+          "theory_id": "T019802",
+          "subcluster_name": "Semiconductive Protein Model of Free Radical Theory in Aging",
+          "reasoning": "Proposes oxygen free radicals have essential physiological roles in protein semiconductivity and synaptic function, with aging linked to altered radical effects."
+        },
+        {
+          "theory_id": "T019195",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Details free radical-induced protein oxidation, proteasome degradation of oxidized proteins, and age-related proteasome inhibition."
+        },
+        {
+          "theory_id": "T019952",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Emphasizes free radicals as primary cause, oxidative damage to macromolecules, and oxidant/antioxidant imbalance."
+        },
+        {
+          "theory_id": "T019934",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Focuses on oxidative damage accumulation, cellular response to oxidative stress, and altered signaling pathways with age."
+        },
+        {
+          "theory_id": "T019193",
+          "subcluster_name": "DNA Damage and Stem Cell Exhaustion-Linked Free Radical Theory",
+          "reasoning": "Highlights ROS-induced DNA damage, antioxidant defenses, DNA repair capacity decline, and mutation accumulation with age."
+        },
+        {
+          "theory_id": "T020375",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Describes ROS-driven molecular damage, antioxidant defense network decline, and disturbed balance between cell proliferation and death."
+        },
+        {
+          "theory_id": "T018842",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory of Aging",
+          "reasoning": "Focuses on ROS as causal agents, oxidative damage accumulation, antioxidant enzymes, and genetic modulation of oxidative stress resistance."
+        },
+        {
+          "theory_id": "T019217",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Proposes free radical damage as primary cause, oxidative damage accumulation, and extension to oxidative stress theory."
+        },
+        {
+          "theory_id": "T019289",
+          "subcluster_name": "Free Radical Theory of Aging in Protein Oxidation and Muscle Decline",
+          "reasoning": "Details free radical-mediated protein oxidation, metal-catalyzed oxidation, and age-related accumulation of oxidized proteins."
+        },
+        {
+          "theory_id": "T017698",
+          "subcluster_name": "Peroxisomal Function-Linked Free Radical Theory of Aging",
+          "reasoning": "Focuses on peroxisomes' role in ROS detoxification, decline in peroxisomal function with age, and impact on oxidative damage and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:14:58"
+}

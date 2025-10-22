@@ -1,0 +1,184 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 32,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+        "theory_ids": [
+          "T022072",
+          "T021791",
+          "T021260",
+          "T021609",
+          "T021587",
+          "T021257",
+          "T021839",
+          "T021494",
+          "T022027",
+          "T021926",
+          "T021462",
+          "T021979",
+          "T021605",
+          "T021624",
+          "T022031",
+          "T021837",
+          "T021234",
+          "T021247"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 18
+      },
+      {
+        "subcluster_name": "Growth Hormone/Insulin/IGF-1 and mTOR Signaling Theory of Aging",
+        "theory_ids": [
+          "T021325",
+          "T021652"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Dietary Restriction and Energy Metabolism Theory of Aging",
+        "theory_ids": [
+          "T021655",
+          "T021908",
+          "T021892",
+          "T021585"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022072",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on IIS pathway regulation of lifespan via DAF-16/FOXO and proteolysis, a core insulin/IGF-1 signaling aging mechanism."
+        },
+        {
+          "theory_id": "T021791",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes genetic regulation of aging through insulin-like signaling and DAF-16 mediated stress resistance, fitting IIS pathway theme."
+        },
+        {
+          "theory_id": "T021260",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Details insulin-like signaling cascade in C. elegans regulating metabolism, stress resistance, and lifespan via DAF-16, matching IIS pathway cluster."
+        },
+        {
+          "theory_id": "T021609",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on attenuation of IIS via IRS1 deletion extending lifespan, a conserved insulin/IGF-1 signaling aging mechanism."
+        },
+        {
+          "theory_id": "T021587",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Emphasizes nutrient sensing and growth regulation by IIS pathway and its conserved role in longevity across species."
+        },
+        {
+          "theory_id": "T021257",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes tissue-specific insulin receptor signaling effects on aging and systemic regulation via IIS pathway."
+        },
+        {
+          "theory_id": "T021839",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on IIS regulation of lifespan and miRNA modulation of IIS components, fitting within IIS pathway mechanisms."
+        },
+        {
+          "theory_id": "T021494",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes reduced insulin/IGF-1 signaling extending lifespan and healthspan, consistent with IIS pathway aging regulation."
+        },
+        {
+          "theory_id": "T022027",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Integrates IIS signaling with neurodegeneration and longevity, focusing on IRS2 as mediator, within IIS pathway framework."
+        },
+        {
+          "theory_id": "T021926",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Highlights neuronal insulin-like peptides and sensory modulation of IIS pathway affecting lifespan."
+        },
+        {
+          "theory_id": "T021462",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on IGF-I signaling and DAF-16 mediated lifespan extension, describing conserved IIS pathway effects."
+        },
+        {
+          "theory_id": "T021979",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Examines tissue-specific effects of insulin/IGF1 signaling impairment on lifespan, fitting IIS pathway cluster."
+        },
+        {
+          "theory_id": "T021605",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Details DAF-16 as central transcriptional effector downstream of IIS regulating longevity genes."
+        },
+        {
+          "theory_id": "T021624",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes DAF-16 downstream gene regulation mediating IIS effects on lifespan, consistent with IIS pathway."
+        },
+        {
+          "theory_id": "T022031",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on nutrient sensing and lifespan regulation by IIS pathway conserved across species."
+        },
+        {
+          "theory_id": "T021837",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes cooperation of LIN-39 and DAF-16 in neurons under reduced IIS to regulate longevity."
+        },
+        {
+          "theory_id": "T021234",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on IGF axis genetic variation influencing aging and longevity, fitting IIS pathway mechanisms."
+        },
+        {
+          "theory_id": "T021247",
+          "subcluster_name": "Insulin/IGF-1 Signaling Pathway Theory of Aging",
+          "reasoning": "Describes IIS pathway mutations extending lifespan via DAF-16, distinct from dietary restriction mechanisms."
+        },
+        {
+          "theory_id": "T021325",
+          "subcluster_name": "Growth Hormone/Insulin/IGF-1 and mTOR Signaling Theory of Aging",
+          "reasoning": "Integrates GH/IGF-1 and mTOR pathways as conserved nutrient-sensing regulators of aging and cancer."
+        },
+        {
+          "theory_id": "T021652",
+          "subcluster_name": "Growth Hormone/Insulin/IGF-1 and mTOR Signaling Theory of Aging",
+          "reasoning": "Focuses on S6K1 downstream of mTOR regulating mitochondrial function, autophagy, and insulin resistance in aging."
+        },
+        {
+          "theory_id": "T021655",
+          "subcluster_name": "Dietary Restriction and Energy Metabolism Theory of Aging",
+          "reasoning": "Describes caloric restriction effects on aging via endocrine and metabolic changes, distinct from IIS pathway."
+        },
+        {
+          "theory_id": "T021908",
+          "subcluster_name": "Dietary Restriction and Energy Metabolism Theory of Aging",
+          "reasoning": "Focuses on nutritional limitation and caloric intake reduction extending lifespan via metabolic and cellular maintenance."
+        },
+        {
+          "theory_id": "T021892",
+          "subcluster_name": "Dietary Restriction and Energy Metabolism Theory of Aging",
+          "reasoning": "Describes caloric restriction slowing aging by reducing metabolic rate and delaying physiological decline."
+        },
+        {
+          "theory_id": "T021585",
+          "subcluster_name": "Dietary Restriction and Energy Metabolism Theory of Aging",
+          "reasoning": "Focuses on caloric restriction inducing metabolic adaptations and partial IIS modulation to extend lifespan."
+        },
+        {
+          "theory_id": "T021689",
+          "subcluster_name": "Reproduction-Somatic Maintenance Trade-off Theory of Aging",
+          "reasoning": "Describes disposable soma theory emphasizing energy allocation trade-offs between reproduction and somatic maintenance."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:12:49"
+}

@@ -1,0 +1,172 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 19,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Caloric Restriction Theory of Aging",
+        "theory_ids": [
+          "T014804",
+          "T014592",
+          "T014628",
+          "T014611",
+          "T014560",
+          "T014788",
+          "T014617",
+          "T014621",
+          "T014649",
+          "T014652",
+          "T014629",
+          "T014637",
+          "T014734",
+          "T014546",
+          "T014678",
+          "T014685",
+          "T014694",
+          "T014588"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 18
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Theory of Aging",
+        "theory_ids": [
+          "T014724",
+          "T014501",
+          "T014480",
+          "T014750",
+          "T014468",
+          "T014538"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T014804",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Focuses on caloric restriction (CR) as a modulator of aging via metabolic, dietary composition, and feeding regimen effects."
+        },
+        {
+          "theory_id": "T014592",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Describes lifespan extension by CR through metabolic rate reduction, oxidative stress decrease, and improved insulin sensitivity."
+        },
+        {
+          "theory_id": "T014628",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Emphasizes CR effects on lifespan, healthspan, nutrient-sensing pathways, and oxidative damage reduction."
+        },
+        {
+          "theory_id": "T014611",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Details CR-induced metabolic adaptations, molecular pathway modulation, and diet quality interactions influencing aging."
+        },
+        {
+          "theory_id": "T014560",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Focuses on CR activating protective cellular pathways like autophagy and nutrient sensing (AMPK, sirtuins) to extend lifespan."
+        },
+        {
+          "theory_id": "T014788",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Links CR to mitochondrial DNA damage reduction, mitohormesis, and modulation of IGF-1, mTOR, sirtuins, and FOXO pathways."
+        },
+        {
+          "theory_id": "T014617",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Describes CR effects on lifespan via metabolic and hormonal reprogramming and nutrient-sensing pathway regulation."
+        },
+        {
+          "theory_id": "T014621",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Presents CR effects on lifespan extension, metabolic modulation, hormonal changes, and improved insulin sensitivity."
+        },
+        {
+          "theory_id": "T014649",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Covers CR\u2019s broad effects on cellular aging markers, metabolic adaptations, and epigenetic mechanisms."
+        },
+        {
+          "theory_id": "T014652",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Focuses on CR mimetics and nutrient-sensing pathways (sirtuins, mTOR, AMPK) mediating lifespan extension."
+        },
+        {
+          "theory_id": "T014629",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Describes CR and intermittent fasting effects on lifespan via nutrient and energy sensing pathways and protein restriction."
+        },
+        {
+          "theory_id": "T014637",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Details CR\u2019s lifespan extension via metabolic rate reduction, oxidative damage decrease, and neuroendocrine modulation."
+        },
+        {
+          "theory_id": "T014734",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Highlights CR\u2019s metabolic and hormonal adaptations, IIS pathway modulation, and protection against age-related diseases."
+        },
+        {
+          "theory_id": "T014546",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Focuses on CR-induced adaptive stress responses, epigenetic regulation, and modulation of key signaling pathways."
+        },
+        {
+          "theory_id": "T014678",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Describes CR\u2019s slowing of primary and secondary aging via physiological adaptations and cross-species generalizability."
+        },
+        {
+          "theory_id": "T014685",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Emphasizes CR\u2019s anti-aging effects mediated by energy metabolism modulation, including reduced body temperature."
+        },
+        {
+          "theory_id": "T014694",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Focuses on CR\u2019s cardiometabolic benefits and mechanistic basis for longevity via energy intake reduction."
+        },
+        {
+          "theory_id": "T014588",
+          "subcluster_name": "Caloric Restriction Theory of Aging",
+          "reasoning": "Attributes CR benefits primarily to prolonged fasting periods driving metabolic, molecular, and epigenetic changes."
+        },
+        {
+          "theory_id": "T014724",
+          "subcluster_name": "Insulin/IGF-1 Signaling Theory of Aging",
+          "reasoning": "Focuses on insulin/IGF-1 signaling as a conserved regulator of lifespan via FOXO transcription factors and tissue-specific effects."
+        },
+        {
+          "theory_id": "T014501",
+          "subcluster_name": "Insulin/IGF-1 Signaling Theory of Aging",
+          "reasoning": "Describes IIS pathway\u2019s role in lifespan regulation, redox modulation, and negative regulation of autophagy and sirtuins."
+        },
+        {
+          "theory_id": "T014480",
+          "subcluster_name": "Insulin/IGF-1 Signaling Theory of Aging",
+          "reasoning": "Details endocrine regulation of aging by IIS pathway, cell-non-autonomous effects, and FOXO transcription factor activation."
+        },
+        {
+          "theory_id": "T014750",
+          "subcluster_name": "Insulin/IGF-1 Signaling Theory of Aging",
+          "reasoning": "Focuses on IIS pathway\u2019s role in aging and cancer, genetic mutations reducing IIS, and oxidative stress resistance."
+        },
+        {
+          "theory_id": "T014468",
+          "subcluster_name": "Insulin/IGF-1 Signaling Theory of Aging",
+          "reasoning": "Links IIS pathway disruption to preserved mitochondrial bioenergetic competence and metabolic shifts promoting longevity."
+        },
+        {
+          "theory_id": "T014538",
+          "subcluster_name": "Insulin/IGF-1 Signaling Theory of Aging",
+          "reasoning": "Describes reduced IIS signaling extending lifespan via mitochondrial function modulation, insulin sensitivity, and tissue-specific effects."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:07:23"
+}

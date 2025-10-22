@@ -1,0 +1,194 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 27,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T020481",
+          "T020393",
+          "T020486",
+          "T020519",
+          "T020586",
+          "T020009",
+          "T020283",
+          "T020329"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+        "theory_ids": [
+          "T020359",
+          "T020286",
+          "T020420",
+          "T020465",
+          "T020412",
+          "T020450",
+          "T020265",
+          "T020272",
+          "T020496",
+          "T020523",
+          "T020511",
+          "T020488",
+          "T020576"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Immunosenescence via Replicative and Stress-Induced T Cell Senescence Theory",
+        "theory_ids": [
+          "T020380",
+          "T020253",
+          "T020552"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020481",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on DNA damage response (DDR) triggering senescence and accumulation of senescent cells via persistent DNA damage, independent of telomere shortening."
+        },
+        {
+          "theory_id": "T020393",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Describes senescence in vascular smooth muscle cells driven by DNA damage and DDR pathways leading to senescence and SASP in atherosclerosis."
+        },
+        {
+          "theory_id": "T020486",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Emphasizes DDR, genome instability, mitochondrial dysfunction, and epigenetic alterations as drivers of senescence and aging."
+        },
+        {
+          "theory_id": "T020519",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Highlights permanent cell cycle arrest via tumor suppressors RB and p53 in response to DNA damage and other stresses inducing senescence."
+        },
+        {
+          "theory_id": "T020586",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Covers replicative and stress-induced senescence driven by DNA damage and telomere shortening, with SASP and cell cycle regulators."
+        },
+        {
+          "theory_id": "T020009",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on DDR in neurons leading to senescence-like state, linking DNA damage, cell cycle arrest, and neuroinflammation."
+        },
+        {
+          "theory_id": "T020283",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Describes miR-96-5p induction causing senescence via epigenetic regulation of DDR-related senescence effectors."
+        },
+        {
+          "theory_id": "T020329",
+          "subcluster_name": "DNA Damage Response-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative senescence caused by telomere shortening triggering DDR and senescence accumulation impairing tissue function."
+        },
+        {
+          "theory_id": "T020359",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Focuses on premature senescence induced by environmental and physiological stressors distinct from replicative senescence, with SASP effects."
+        },
+        {
+          "theory_id": "T020286",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Describes oxidative stress-induced premature senescence independent of telomere shortening, involving cell cycle checkpoint activation."
+        },
+        {
+          "theory_id": "T020420",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Highlights accumulation of senescent cells with pro-inflammatory SASP driving tissue dysfunction and aging-related diseases."
+        },
+        {
+          "theory_id": "T020465",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Describes senescent cell accumulation, markers, dual roles, and senolytic interventions including exercise to reduce senescent burden."
+        },
+        {
+          "theory_id": "T020412",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Focuses on cell cycle arrest from diverse stressors, SASP secretion, senescent cell persistence, and pro-survival pathways."
+        },
+        {
+          "theory_id": "T020450",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Emphasizes senescence as stable arrest with SASP, dual roles in aging and pathology, and changes in cell identity and function."
+        },
+        {
+          "theory_id": "T020265",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Focuses on senescence as causal driver with SASP and apoptotic resistance promoting aging and tissue dysfunction."
+        },
+        {
+          "theory_id": "T020272",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Describes senescent cell accumulation, SASP-mediated inflammation, and causal role in organismal aging with senolytic benefits."
+        },
+        {
+          "theory_id": "T020496",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Focuses on secretion of microvesicular miRNAs as part of SASP contributing to aging and tissue dysfunction."
+        },
+        {
+          "theory_id": "T020523",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Describes senescent cells as causal drivers of aging via SASP, with rejuvenation strategies targeting senescent cell depletion."
+        },
+        {
+          "theory_id": "T020511",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Focuses on senescent cell accumulation, SASP secretion, immune surveillance decline, and immune evasion promoting aging."
+        },
+        {
+          "theory_id": "T020488",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Links senescence accumulation and SASP to accelerated aging in preeclampsia, with persistent pro-inflammatory markers."
+        },
+        {
+          "theory_id": "T020576",
+          "subcluster_name": "Stress-Induced Premature Senescence (SIPS) and SASP Theory",
+          "reasoning": "Describes senescence induced by proteinopathies in Alzheimer\u2019s disease, chronic SASP-driven inflammation, and neurodegeneration."
+        },
+        {
+          "theory_id": "T020380",
+          "subcluster_name": "Immunosenescence via Replicative and Stress-Induced T Cell Senescence Theory",
+          "reasoning": "Focuses on T cell replicative senescence, clonal exhaustion, loss of costimulatory molecules, and apoptosis contributing to immunosenescence."
+        },
+        {
+          "theory_id": "T020253",
+          "subcluster_name": "Immunosenescence via Replicative and Stress-Induced T Cell Senescence Theory",
+          "reasoning": "Describes replicative senescence of CD8+ T cells with NK marker expression, apoptosis resistance, and functional decline in aging immunity."
+        },
+        {
+          "theory_id": "T020552",
+          "subcluster_name": "Immunosenescence via Replicative and Stress-Induced T Cell Senescence Theory",
+          "reasoning": "Details chronic antigenic stress driving T cell senescence, altered gene expression, dysregulated signaling, and proinflammatory phenotype."
+        },
+        {
+          "theory_id": "T020248",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Interaction Theory",
+          "reasoning": "Focuses on age-related autophagy decline impairing cellular homeostasis, promoting accumulation of damaged components that induce senescence."
+        },
+        {
+          "theory_id": "T020372",
+          "subcluster_name": "Mitotic Misregulation and Cellular Senescence Theory",
+          "reasoning": "Proposes aging driven by mitotic machinery dysfunction causing chromosomal instability and gene misregulation linked to senescence phenotypes."
+        },
+        {
+          "theory_id": "T020008",
+          "subcluster_name": "Chromatin Reconfiguration and Nuclear Architecture in Cellular Senescence Theory",
+          "reasoning": "Describes lamin B1 depletion triggering large-scale chromatin remodeling that regulates senescence gene expression and SASP."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:17:44"
+}

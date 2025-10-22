@@ -1,0 +1,236 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 28,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+        "theory_ids": [
+          "T020848",
+          "T020659",
+          "T020907",
+          "T020839",
+          "T020818",
+          "T020608",
+          "T020824",
+          "T020828",
+          "T020790",
+          "T020775",
+          "T020737"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Stress-Induced Senescence Theory",
+        "theory_ids": [
+          "T020725",
+          "T020633",
+          "T020682",
+          "T020784",
+          "T020900",
+          "T020734"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "p53 Pathway-Mediated Cellular Senescence and Aging Theory",
+        "theory_ids": [
+          "T020886",
+          "T020722",
+          "T020727"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Replicative Senescence and Programmed Cellular Senescence Theory",
+        "theory_ids": [
+          "T020754",
+          "T020620",
+          "T020898",
+          "T020815",
+          "T020605"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Chromatin and Nuclear Architecture Remodeling in Cellular Senescence Theory",
+        "theory_ids": [
+          "T020305",
+          "T020008",
+          "T020372"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Autophagy and Cellular Clearance Decline in Aging Theory",
+        "theory_ids": [
+          "T020713",
+          "T020248"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020848",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Focuses on cellular senescence driving aging via SASP secretion, chronic inflammation, and genetic regulation of senescence pathways."
+        },
+        {
+          "theory_id": "T020659",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Emphasizes SASP as a driver of chronic inflammation and aging, regulated by DNA damage response and signaling pathways."
+        },
+        {
+          "theory_id": "T020907",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Describes senescent cells and SASP as causal drivers of aging and age-related diseases with dual beneficial and detrimental roles."
+        },
+        {
+          "theory_id": "T020839",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Focuses on senescent immune cells accumulating with age, SASP secretion, and their role in chronic inflammation and aging."
+        },
+        {
+          "theory_id": "T020818",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Highlights accumulation of senescent cells, SASP secretion, and their systemic impact on aging and age-related diseases."
+        },
+        {
+          "theory_id": "T020608",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Focuses on senescent cell accumulation, SASP, and senolytic removal as a strategy to delay aging and disease."
+        },
+        {
+          "theory_id": "T020824",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Describes senescent cells in aged lungs secreting SASP factors that drive tissue remodeling and fibrosis."
+        },
+        {
+          "theory_id": "T020828",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Focuses on SASP, anti-apoptotic pathways in senescent cells, and senolytics targeting these pathways to reduce aging."
+        },
+        {
+          "theory_id": "T020790",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Discusses senescent cells in skeletal muscle, SASP effects, and senolytics improving muscle aging."
+        },
+        {
+          "theory_id": "T020775",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Surveys senescent cell markers p16 and p21, SASP secretion, and dual roles of senescence in aging."
+        },
+        {
+          "theory_id": "T020737",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Inflammation Theory",
+          "reasoning": "Focuses on vascular aging driven by senescent cells producing ROS and SASP factors causing dysfunction."
+        },
+        {
+          "theory_id": "T020725",
+          "subcluster_name": "Mitochondrial Dysfunction and Stress-Induced Senescence Theory",
+          "reasoning": "Links stress hormone-induced mitochondrial dysfunction, ROS overproduction, DNA damage, and SASP-driven inflammation."
+        },
+        {
+          "theory_id": "T020633",
+          "subcluster_name": "Mitochondrial Dysfunction and Stress-Induced Senescence Theory",
+          "reasoning": "Describes oxidative stress from intermittent hypoxia causing telomere shortening, mitochondrial ROS, and SASP inflammation."
+        },
+        {
+          "theory_id": "T020682",
+          "subcluster_name": "Mitochondrial Dysfunction and Stress-Induced Senescence Theory",
+          "reasoning": "Focuses on mTORC1-autophagy axis dysregulation in senescence, persistent mTORC1 activation, and SASP promotion."
+        },
+        {
+          "theory_id": "T020784",
+          "subcluster_name": "Mitochondrial Dysfunction and Stress-Induced Senescence Theory",
+          "reasoning": "Describes PP2A decline in neural cells causing DNA damage, mitochondrial dysfunction, neural senescence, and behavioral aging."
+        },
+        {
+          "theory_id": "T020900",
+          "subcluster_name": "Mitochondrial Dysfunction and Stress-Induced Senescence Theory",
+          "reasoning": "Includes senescence-like phenotypes in post-mitotic brain cells with mitochondrial dysfunction, DNA damage, and SASP-like secretion."
+        },
+        {
+          "theory_id": "T020734",
+          "subcluster_name": "Mitochondrial Dysfunction and Stress-Induced Senescence Theory",
+          "reasoning": "Shows DNA damage response induces p21-dependent senescence-like phenotype in postmitotic neurons with ROS and inflammation."
+        },
+        {
+          "theory_id": "T020886",
+          "subcluster_name": "p53 Pathway-Mediated Cellular Senescence and Aging Theory",
+          "reasoning": "Focuses on p53 tumor suppressor regulating senescence, apoptosis, and longevity assurance via DNA damage and oncogenic stress."
+        },
+        {
+          "theory_id": "T020722",
+          "subcluster_name": "p53 Pathway-Mediated Cellular Senescence and Aging Theory",
+          "reasoning": "Describes p53 codon 72 polymorphism modulating p53 activity, stem cell function, cancer risk, and aging phenotypes."
+        },
+        {
+          "theory_id": "T020727",
+          "subcluster_name": "p53 Pathway-Mediated Cellular Senescence and Aging Theory",
+          "reasoning": "Emphasizes p21-dependent senescence as a key regulator distinct from p16, contributing to aging and multiple diseases."
+        },
+        {
+          "theory_id": "T020754",
+          "subcluster_name": "Replicative Senescence and Programmed Cellular Senescence Theory",
+          "reasoning": "Focuses on programmed replicative senescence (Hayflick limit) as a genetically encoded aging mechanism limiting cell divisions."
+        },
+        {
+          "theory_id": "T020620",
+          "subcluster_name": "Replicative Senescence and Programmed Cellular Senescence Theory",
+          "reasoning": "Describes replicative senescence as a gradual fibroblast-to-myofibroblast transition with fibrosis-promoting SASP."
+        },
+        {
+          "theory_id": "T020898",
+          "subcluster_name": "Replicative Senescence and Programmed Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative senescence limiting immune cell clonal expansion, telomere dynamics, and immune aging."
+        },
+        {
+          "theory_id": "T020815",
+          "subcluster_name": "Replicative Senescence and Programmed Cellular Senescence Theory",
+          "reasoning": "Shows somatic replicative senescence in clonal colonial metazoans due to telomerase deficiency and telomere shortening."
+        },
+        {
+          "theory_id": "T020605",
+          "subcluster_name": "Replicative Senescence and Programmed Cellular Senescence Theory",
+          "reasoning": "Describes Werner's syndrome accelerated telomere loss and replicative senescence as a model of premature aging."
+        },
+        {
+          "theory_id": "T020305",
+          "subcluster_name": "Chromatin and Nuclear Architecture Remodeling in Cellular Senescence Theory",
+          "reasoning": "Focuses on nuclear reorganization, chromatin remodeling, and 3D genome changes driving senescence phenotype and aging."
+        },
+        {
+          "theory_id": "T020008",
+          "subcluster_name": "Chromatin and Nuclear Architecture Remodeling in Cellular Senescence Theory",
+          "reasoning": "Describes lamin B1 depletion triggering large-scale chromatin changes that regulate senescence gene expression and SASP."
+        },
+        {
+          "theory_id": "T020372",
+          "subcluster_name": "Chromatin and Nuclear Architecture Remodeling in Cellular Senescence Theory",
+          "reasoning": "Links mitotic misregulation and chromosomal instability to gene misregulation and aging phenotypes."
+        },
+        {
+          "theory_id": "T020713",
+          "subcluster_name": "Autophagy and Cellular Clearance Decline in Aging Theory",
+          "reasoning": "Focuses on age-related decline in autophagy and phagocytosis impairing cellular clearance, promoting neurodegeneration and aging."
+        },
+        {
+          "theory_id": "T020248",
+          "subcluster_name": "Autophagy and Cellular Clearance Decline in Aging Theory",
+          "reasoning": "Describes autophagy as a homeostatic mechanism declining with age, causing accumulation of damaged components and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:18:13"
+}

@@ -1,0 +1,195 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 5,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Repair Deficiency in Reproductive and Stem Cell Aging",
+        "theory_ids": [
+          "T006082",
+          "T006204"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Genomic Instability and DNA Repair Deficiency in Aging",
+        "theory_ids": [
+          "T006118",
+          "T006174"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "DREAM Complex-Mediated Repression of Somatic DNA Repair",
+        "theory_ids": [
+          "T006095",
+          "T005869"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "DNA Damage Accumulation in Vascular Aging",
+        "theory_ids": [
+          "T006148",
+          "T006139",
+          "T006165"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Basal Somatic Mutagenesis and DNA Repair Decline in Aging",
+        "theory_ids": [
+          "T005894",
+          "T005873"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T006082",
+          "subcluster_name": "DNA Repair Deficiency in Reproductive and Stem Cell Aging",
+          "reasoning": "Focuses on DNA repair impairment causing accelerated ovarian aging via defective double-strand break repair and stem cell dysfunction."
+        },
+        {
+          "theory_id": "T006118",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency in Aging",
+          "reasoning": "Centers on SIRT6-mediated DNA repair deficiency causing genomic instability and systemic aging phenotypes."
+        },
+        {
+          "theory_id": "T006174",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency in Aging",
+          "reasoning": "RECQL4 dysfunction impairs multiple DNA repair pathways and telomere maintenance, causing genomic instability and aging."
+        },
+        {
+          "theory_id": "T006204",
+          "subcluster_name": "DNA Repair Deficiency in Reproductive and Stem Cell Aging",
+          "reasoning": "Emphasizes DNA repair defects in stem cells leading to genomic instability, stem cell depletion, and premature aging."
+        },
+        {
+          "theory_id": "T006095",
+          "subcluster_name": "DREAM Complex-Mediated Repression of Somatic DNA Repair",
+          "reasoning": "Describes how DREAM complex represses DNA repair gene expression in somatic cells, limiting repair capacity and promoting aging."
+        },
+        {
+          "theory_id": "T005982",
+          "subcluster_name": "Oxidative Stress and DNA Damage Accumulation in Aging",
+          "reasoning": "Focuses on endogenous ROS-induced DNA damage in nuclear and mitochondrial DNA driving aging and cellular senescence."
+        },
+        {
+          "theory_id": "T005678",
+          "subcluster_name": "Telomere-Associated DNA Damage and Repair Deficiency in Aging",
+          "reasoning": "Highlights telomere shortening and DNA damage-induced senescence as key drivers of aging phenotypes."
+        },
+        {
+          "theory_id": "T006080",
+          "subcluster_name": "DNA Repair Deficiency in Premature Aging Syndromes",
+          "reasoning": "NER defects in Cockayne syndrome and xeroderma pigmentosum cause DNA repair failure and premature aging phenotypes."
+        },
+        {
+          "theory_id": "T005876",
+          "subcluster_name": "DNA Damage Accumulation and Stem Cell Dysfunction in Aging and Cancer",
+          "reasoning": "Describes DNA damage accumulation, repair trade-offs, and stem cell roles in aging and cancer risk."
+        },
+        {
+          "theory_id": "T006148",
+          "subcluster_name": "DNA Damage Accumulation in Vascular Aging",
+          "reasoning": "Focuses on DNA damage accumulation and repair deficiency in vascular cells leading to vascular aging."
+        },
+        {
+          "theory_id": "T006139",
+          "subcluster_name": "DNA Damage Accumulation in Vascular Aging",
+          "reasoning": "Details endothelial cell-specific DNA repair deficiency causing vascular dysfunction and aging."
+        },
+        {
+          "theory_id": "T005894",
+          "subcluster_name": "Basal Somatic Mutagenesis and DNA Repair Decline in Aging",
+          "reasoning": "Describes accumulation of somatic mutations due to basal mutagenesis and declining DNA repair efficiency with age."
+        },
+        {
+          "theory_id": "T006123",
+          "subcluster_name": "Genomic Instability and Sex Differences in Aging",
+          "reasoning": "Focuses on sex-specific patterns of genomic instability, DNA damage, and epigenetic alterations influencing aging."
+        },
+        {
+          "theory_id": "T005890",
+          "subcluster_name": "DNA Repair Deficiency and Tissue-Specific Accelerated Aging",
+          "reasoning": "NER defects cause tissue-specific accelerated aging via mutation accumulation and cytotoxicity."
+        },
+        {
+          "theory_id": "T006176",
+          "subcluster_name": "Genomic Instability and Chromosomal Aberrations in Aging",
+          "reasoning": "Emphasizes chromosomal instability and cytogenetic aberrations as drivers of aging and longevity differences."
+        },
+        {
+          "theory_id": "T005869",
+          "subcluster_name": "DREAM Complex-Mediated Repression of Somatic DNA Repair",
+          "reasoning": "Details DREAM complex repression of DNA repair genes leading to somatic mutation accumulation and aging."
+        },
+        {
+          "theory_id": "T006184",
+          "subcluster_name": "PARP-1 Mediated DNA Damage Response and Longevity",
+          "reasoning": "Focuses on poly(ADP-ribosyl)ation by PARP-1 regulating DNA repair and genomic stability linked to longevity."
+        },
+        {
+          "theory_id": "T005726",
+          "subcluster_name": "DNA Damage Response Decline and Immune Aging",
+          "reasoning": "Describes decline in DNA damage response machinery (ATM, DNA-PKcs) causing DNA damage accumulation and immune aging."
+        },
+        {
+          "theory_id": "T006165",
+          "subcluster_name": "DNA Damage Accumulation in Vascular Aging",
+          "reasoning": "Highlights DNA damage accumulation, cellular senescence, and repair deficiency driving vascular aging phenotypes."
+        },
+        {
+          "theory_id": "T005873",
+          "subcluster_name": "Basal Somatic Mutagenesis and DNA Repair Decline in Aging",
+          "reasoning": "Focuses on age-dependent somatic mutation accumulation and decline in genome maintenance systems causing aging."
+        },
+        {
+          "theory_id": "T006191",
+          "subcluster_name": "DNA Repair Deficiency and Genomic Instability in Vascular Aging",
+          "reasoning": "NER defects cause genomic instability and cellular senescence in vascular cells, driving vascular aging."
+        },
+        {
+          "theory_id": "T005705",
+          "subcluster_name": "DNA Damage Accumulation and Cellular Proliferation Decline",
+          "reasoning": "Mathematical model of stochastic DNA damage accumulation leading to loss of proliferative capacity and cell death."
+        },
+        {
+          "theory_id": "T005880",
+          "subcluster_name": "Genomic Integrity and Structural Variation in Longevity",
+          "reasoning": "Focuses on maintenance of genomic integrity via reduced CNVs and structural variants as a driver of longevity."
+        },
+        {
+          "theory_id": "T006122",
+          "subcluster_name": "DNA-Protein Crosslink Repair and Aging",
+          "reasoning": "SPRTN-mediated repair of DNA-protein crosslinks protects genome stability and prevents aging-related damage."
+        },
+        {
+          "theory_id": "T006141",
+          "subcluster_name": "DNA Double Strand Break Repair and Chromatin Stability in Aging",
+          "reasoning": "Emphasizes decline in DSB repair and chromatin remodeling causing genomic instability and aging."
+        },
+        {
+          "theory_id": "T006044",
+          "subcluster_name": "DNA Repair Dysfunction in Menopause and Systemic Aging",
+          "reasoning": "Genetic variants impairing DNA repair cause systemic aging that drives reproductive aging and menopause."
+        },
+        {
+          "theory_id": "T005641",
+          "subcluster_name": "Base Excision Repair Deficiency and Oxidative DNA Damage in Aging",
+          "reasoning": "Reduced BER capacity, especially DNA polymerase beta deficiency, leads to oxidative DNA damage accumulation and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:40:06"
+}

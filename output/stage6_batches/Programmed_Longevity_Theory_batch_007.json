@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Programmed Longevity Theory",
+  "batch_num": 7,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+        "theory_ids": [
+          "T016522",
+          "T017510",
+          "T016540",
+          "T017969",
+          "T016689",
+          "T016730",
+          "T016828",
+          "T016313",
+          "T016298",
+          "T016940",
+          "T017068",
+          "T017076",
+          "T016794"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Sirtuin-Mediated Caloric Restriction Longevity Theory",
+        "theory_ids": [
+          "T017553",
+          "T016392",
+          "T017013",
+          "T016750"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Genetic Program and Epigenetic Regulation Longevity Theory",
+        "theory_ids": [
+          "T016629",
+          "T017472",
+          "T017054",
+          "T017959",
+          "T016213"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Phenoptosis and Programmed Death Longevity Theory",
+        "theory_ids": [
+          "T017091",
+          "T015989",
+          "T016842"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016522",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Focuses on IGF-I/Akt/mTORC1 signaling pathway as a key nutrient-sensing and anabolic regulator controlling aging pace."
+        },
+        {
+          "theory_id": "T017510",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Describes mTOR, SIRT1, and AMPK nutrient-sensing pathways regulating metabolism and aging."
+        },
+        {
+          "theory_id": "T016540",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Details IGF-1 signaling modulation affecting aging and tissue degeneration, linking IGF-1 to nutrient sensing and senescence."
+        },
+        {
+          "theory_id": "T017969",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Focuses on insulin/IGF and mTOR pathways and autophagy as nutrient-sensing mechanisms controlling lifespan."
+        },
+        {
+          "theory_id": "T016689",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Describes interconnected nutrient sensors including mTOR, AMPK, SIRT1, and IGF1 regulating anabolic/catabolic balance and aging."
+        },
+        {
+          "theory_id": "T016730",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Covers GH/IGF-1 axis, mTOR-S6K, AMPK, and sirtuin pathways as nutrient-sensing regulators of longevity."
+        },
+        {
+          "theory_id": "T016828",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Shows essential amino acid restriction extends lifespan via TOR signaling reduction, linking diet to nutrient sensing and aging."
+        },
+        {
+          "theory_id": "T016313",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Discusses IGF-1 as a growth regulator inversely correlated with longevity, fitting nutrient-sensing and growth signaling theme."
+        },
+        {
+          "theory_id": "T016298",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Describes biphasic cardiac IGF1R signaling effects on aging mediated by mTOR and autophagy, linking IGF-1 and nutrient sensing."
+        },
+        {
+          "theory_id": "T016940",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Focuses on nutrient sensing pathways including insulin/IGF, TOR, and AMPK regulating metabolic homeostasis and lifespan."
+        },
+        {
+          "theory_id": "T017068",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Emphasizes nutrient sensing pathways TOR and insulin/IGF in lifespan regulation and dietary restriction effects."
+        },
+        {
+          "theory_id": "T017076",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Describes dietary restriction, IIS, and TOR pathway inhibition as conserved nutrient-sensing mechanisms extending lifespan."
+        },
+        {
+          "theory_id": "T016794",
+          "subcluster_name": "IGF-1/Insulin/mTOR Nutrient-Sensing Longevity Theory",
+          "reasoning": "Focuses on pharmacological targeting of nutrient-sensing network (IIS, mTOR) to modulate aging and extend lifespan."
+        },
+        {
+          "theory_id": "T017553",
+          "subcluster_name": "Sirtuin-Mediated Caloric Restriction Longevity Theory",
+          "reasoning": "Focuses on sirtuins as NAD-dependent deacetylases mediating calorie restriction effects on metabolism and aging."
+        },
+        {
+          "theory_id": "T016392",
+          "subcluster_name": "Sirtuin-Mediated Caloric Restriction Longevity Theory",
+          "reasoning": "Describes SIRT2 deacetylation of FOXO3a under caloric restriction and oxidative stress, linking sirtuins to stress resistance and aging."
+        },
+        {
+          "theory_id": "T017013",
+          "subcluster_name": "Sirtuin-Mediated Caloric Restriction Longevity Theory",
+          "reasoning": "Details SIR2 gene role in lifespan extension via genetic regulation of survival and stress resistance."
+        },
+        {
+          "theory_id": "T016750",
+          "subcluster_name": "Sirtuin-Mediated Caloric Restriction Longevity Theory",
+          "reasoning": "Describes longevity in growth hormone receptor knockout mice with altered metabolism, consistent with sirtuin and nutrient sensing regulation."
+        },
+        {
+          "theory_id": "T016629",
+          "subcluster_name": "Genetic Program and Epigenetic Regulation Longevity Theory",
+          "reasoning": "Describes aging as a genetic program involving biological clocks, hormonal regulation, and telomere shortening."
+        },
+        {
+          "theory_id": "T017472",
+          "subcluster_name": "Genetic Program and Epigenetic Regulation Longevity Theory",
+          "reasoning": "Focuses on programmed epigenetic changes (Type 1 and 2) controlling aging via methylation clocks and gene expression."
+        },
+        {
+          "theory_id": "T017054",
+          "subcluster_name": "Genetic Program and Epigenetic Regulation Longevity Theory",
+          "reasoning": "Emphasizes genetic regulation of aging via conserved pathways and programmatic cellular maintenance decisions."
+        },
+        {
+          "theory_id": "T017959",
+          "subcluster_name": "Genetic Program and Epigenetic Regulation Longevity Theory",
+          "reasoning": "Proposes aging as a programmed continuation of development controlled by epigenetic and systemic factors."
+        },
+        {
+          "theory_id": "T016213",
+          "subcluster_name": "Genetic Program and Epigenetic Regulation Longevity Theory",
+          "reasoning": "Describes transcription factor Grainyhead 1 regulating lifespan via insulin signaling and epigenetic modifications."
+        },
+        {
+          "theory_id": "T017091",
+          "subcluster_name": "Phenoptosis and Programmed Death Longevity Theory",
+          "reasoning": "Defines aging as phenoptosis, a programmed death process mediated by mitochondria and ROS signaling at multiple biological levels."
+        },
+        {
+          "theory_id": "T015989",
+          "subcluster_name": "Phenoptosis and Programmed Death Longevity Theory",
+          "reasoning": "Conceptualizes aging as genetically programmed phenoptosis with evolutionary benefits and temporal scaling of mortality."
+        },
+        {
+          "theory_id": "T016842",
+          "subcluster_name": "Phenoptosis and Programmed Death Longevity Theory",
+          "reasoning": "Describes programmatic hyperfunction and quasi-programs causing senescent pathologies leading to death, fitting phenoptosis concept."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:57:46"
+}

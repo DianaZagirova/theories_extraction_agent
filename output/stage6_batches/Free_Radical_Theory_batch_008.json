@@ -1,0 +1,185 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T011545",
+          "T011488",
+          "T011661",
+          "T011397",
+          "T011444",
+          "T011389",
+          "T011394",
+          "T011673"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+        "theory_ids": [
+          "T011351",
+          "T011641",
+          "T011656",
+          "T011428",
+          "T011679",
+          "T011561",
+          "T011675",
+          "T011486",
+          "T011671",
+          "T011632",
+          "T011646",
+          "T011328",
+          "T011337"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "DNA Damage-Driven Free Radical Theory",
+        "theory_ids": [
+          "T011567",
+          "T011330",
+          "T011479",
+          "T011414"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011545",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction as the main source of ROS causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T011488",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production, mtDNA damage, and apoptosis in aging."
+        },
+        {
+          "theory_id": "T011661",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights mitochondrial oxidative phosphorylation inefficiency, ROS accumulation, and mitonuclear interactions."
+        },
+        {
+          "theory_id": "T011397",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial ROS, especially hydrogen peroxide, as critical aging drivers mitigated by catalase."
+        },
+        {
+          "theory_id": "T011444",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS as causal agents and lifespan extension by mitochondrial-targeted catalase."
+        },
+        {
+          "theory_id": "T011389",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Details mitochondrial ROS production, detoxification, and dysfunction driving aging."
+        },
+        {
+          "theory_id": "T011394",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Links mitochondrial respiratory chain cysteine content to oxidative damage and lifespan."
+        },
+        {
+          "theory_id": "T011673",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial ROS and redox imbalance causing neuromuscular aging and sarcopenia."
+        },
+        {
+          "theory_id": "T011351",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Broadly covers free radicals causing cellular damage and antioxidant mitigation without mitochondrial focus."
+        },
+        {
+          "theory_id": "T011641",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Focuses on ROS as causal agents, oxidative stress balance, and genetic/environmental modulation."
+        },
+        {
+          "theory_id": "T011656",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Emphasizes ROS damage and antioxidant defense mechanisms correlating with lifespan."
+        },
+        {
+          "theory_id": "T011428",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Describes ROS accumulation, oxidative damage, and antioxidant enzyme responses in aging."
+        },
+        {
+          "theory_id": "T011679",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Highlights ROS-induced somatic damage and balance with antioxidant defenses."
+        },
+        {
+          "theory_id": "T011561",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Details free radicals and ROS/RNS as initiators of aging, including lipid peroxidation and dietary factors."
+        },
+        {
+          "theory_id": "T011675",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Focuses on oxidative stress causing protein oxidation and sarcopenia, with antioxidant glutathione role."
+        },
+        {
+          "theory_id": "T011486",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Discusses ROS accumulation, antioxidant enzymes like SOD, and their effects on lifespan."
+        },
+        {
+          "theory_id": "T011671",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Covers oxidative damage, pro-oxidant/antioxidant imbalance, and degenerative disease contribution."
+        },
+        {
+          "theory_id": "T011632",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Extends free radical theory to redox-based global oxidative stress network and catalytic antioxidants."
+        },
+        {
+          "theory_id": "T011646",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Examines antioxidant enzyme activities and their correlation with longevity across species."
+        },
+        {
+          "theory_id": "T011328",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Focuses on oxidative damage to proteins and the role of repair mechanisms in aging."
+        },
+        {
+          "theory_id": "T011337",
+          "subcluster_name": "General Oxidative Stress and Antioxidant Defense Theory",
+          "reasoning": "Discusses endogenous oxygen radicals causing oxidative damage and antioxidant defenses in aging."
+        },
+        {
+          "theory_id": "T011567",
+          "subcluster_name": "DNA Damage-Driven Free Radical Theory",
+          "reasoning": "Emphasizes free radical-induced DNA damage accumulation and antioxidant supplementation reducing DNA damage."
+        },
+        {
+          "theory_id": "T011330",
+          "subcluster_name": "DNA Damage-Driven Free Radical Theory",
+          "reasoning": "Links oxidative stress to DNA damage and genetic instability syndromes with progeroid features."
+        },
+        {
+          "theory_id": "T011479",
+          "subcluster_name": "DNA Damage-Driven Free Radical Theory",
+          "reasoning": "Describes oxidative stress inducing premature senescence via PTRF/cavin-1 and p53/p21 pathway activation."
+        },
+        {
+          "theory_id": "T011414",
+          "subcluster_name": "DNA Damage-Driven Free Radical Theory",
+          "reasoning": "Connects ROS accumulation to oxidative injury affecting DNA and reproductive aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:11:13"
+}

@@ -1,0 +1,356 @@
+{
+  "cluster_name": "Cognitive Reserve Theory",
+  "batches_completed": 2,
+  "batch_results": [
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+          "theory_ids": [
+            "T005631",
+            "T001829",
+            "T001202",
+            "T007601",
+            "T003638",
+            "T000258",
+            "T007811",
+            "T004366",
+            "T003530",
+            "T001969",
+            "T001231",
+            "T002976",
+            "T004622",
+            "T003268",
+            "T001224"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 15
+        },
+        {
+          "subcluster_name": "Education-Based Cognitive Reserve Theory",
+          "theory_ids": [
+            "T008053",
+            "T000050",
+            "T003551"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        },
+        {
+          "subcluster_name": "Quantitative Residual-Based Cognitive Reserve Theory",
+          "theory_ids": [
+            "T004989",
+            "T003991",
+            "T002002"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T005631",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Focuses on life course accumulation of reserve, structural and functional brain reserve, and compensatory neural mechanisms influenced by education, occupation, and lifestyle."
+          },
+          {
+            "theory_id": "T001829",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Emphasizes adaptive neural flexibility, neural capacity and efficiency, and life experiences like education and social engagement building cognitive reserve."
+          },
+          {
+            "theory_id": "T001202",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Highlights education as a main component of cognitive reserve, brain plasticity, and mnemonic strategies moderating brain-cognition relationships."
+          },
+          {
+            "theory_id": "T007601",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Focuses on neuroplasticity driven by environmental complexity and enriched environments enhancing cognitive reserve and neuronal connectivity."
+          },
+          {
+            "theory_id": "T003638",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Describes cognitive reserve as active and passive, influenced by life experiences, neural reserve, and compensation mechanisms in aging and Alzheimer's disease."
+          },
+          {
+            "theory_id": "T000258",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Considers education as a proxy for cognitive reserve that moderates effects of depression on memory, emphasizing compensatory brain network recruitment."
+          },
+          {
+            "theory_id": "T007811",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Explains cognitive reserve as active and passive reserve influenced by education and childhood intelligence, balancing pathology and clinical outcomes."
+          },
+          {
+            "theory_id": "T004366",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Focuses on accumulation of brain resources through life experiences and neural compensation to maintain cognitive performance despite damage."
+          },
+          {
+            "theory_id": "T003530",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Highlights education as protective factor delaying cognitive decline onset and enabling compensation for neurodegeneration."
+          },
+          {
+            "theory_id": "T001969",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Proposes education as a proxy for cognitive reserve moderating brain-cognition relationships, especially in at-risk populations."
+          },
+          {
+            "theory_id": "T001231",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Emphasizes lifestyle factors like education, occupation, and social engagement enhancing brain network flexibility and cognitive resilience."
+          },
+          {
+            "theory_id": "T002976",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Models cognitive reserve capacity as maximum processing potential supported by executive function and cumulative cognitive enrichment from life experiences."
+          },
+          {
+            "theory_id": "T004622",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Defines cognitive reserve as software aspect of brain function, influenced by education and activities, operationalized as residual cognitive performance."
+          },
+          {
+            "theory_id": "T003268",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Focuses on protective effects of education and life experiences modifying neural networks to compensate for brain pathology."
+          },
+          {
+            "theory_id": "T001224",
+            "subcluster_name": "Life Experience and Neural Compensation Cognitive Reserve Theory",
+            "reasoning": "Describes brain reserve, cognitive reserve, neural reserve, and neural compensation influenced by life experiences and brain efficiency."
+          },
+          {
+            "theory_id": "T008053",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Focuses specifically on education's role in passive and active cognitive reserve, neural efficiency, and compensation slowing cognitive decline."
+          },
+          {
+            "theory_id": "T000050",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Highlights passive (brain size) and active (education/intelligence) reserve, emphasizing education's role in building neural networks and compensation."
+          },
+          {
+            "theory_id": "T003551",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Focuses on socioeconomic conditions and education as buffers against aging, with compensatory capacity and accelerated decline after pathology threshold."
+          },
+          {
+            "theory_id": "T001060",
+            "subcluster_name": "Motherhood-Induced Cognitive Reserve Theory",
+            "reasoning": "Unique focus on motherhood-induced cognitive reserve via increased cognitive load, environmental complexity, neuroplasticity, and neuroprotective brain changes."
+          },
+          {
+            "theory_id": "T006061",
+            "subcluster_name": "Neuronal Reserve and Dendritic Pruning Theory",
+            "reasoning": "Mechanistic theory focused on neuronal reserve at single-neuron level, dendritic pruning, soma centrality, and energy efficiency as resilience measures."
+          },
+          {
+            "theory_id": "T004989",
+            "subcluster_name": "Quantitative Residual-Based Cognitive Reserve Theory",
+            "reasoning": "Focuses on operationalizing cognitive reserve as residual variance between predicted brain status and observed cognitive performance using imaging and modeling."
+          },
+          {
+            "theory_id": "T003991",
+            "subcluster_name": "Quantitative Residual-Based Cognitive Reserve Theory",
+            "reasoning": "Uses residual memory variance as a dynamic quantitative measure of cognitive reserve moderating brain-cognition relationships longitudinally."
+          },
+          {
+            "theory_id": "T002002",
+            "subcluster_name": "Quantitative Residual-Based Cognitive Reserve Theory",
+            "reasoning": "Proposes reserve operationalized as residual cognitive performance after accounting for brain pathology, measured via latent variable decomposition."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Education-Based Cognitive Reserve Theory",
+          "theory_ids": [
+            "T017140",
+            "T019892",
+            "T019200",
+            "T021995",
+            "T016902",
+            "T017148",
+            "T017041",
+            "T009635",
+            "T026408",
+            "T023048",
+            "T016880",
+            "T023437",
+            "T027234"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 13
+        },
+        {
+          "subcluster_name": "Neural Efficiency and Compensation Cognitive Reserve Theory",
+          "theory_ids": [
+            "T026087",
+            "T018930",
+            "T008394",
+            "T018942",
+            "T026461",
+            "T016907",
+            "T027555"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 7
+        },
+        {
+          "subcluster_name": "Environmental Enrichment and Life Experience Cognitive Reserve Theory",
+          "theory_ids": [
+            "T001060",
+            "T023075"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 2
+        },
+        {
+          "subcluster_name": "Cognitive Reserve Theory",
+          "theory_ids": [
+            "T022954",
+            "T006061"
+          ],
+          "theory_count": 2,
+          "mechanism_focus": "",
+          "status": "singleton_warning",
+          "warning_reason": "2 subclusters too small"
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T017140",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Focuses on education as a proxy for cognitive reserve and its role in delaying dementia onset and compensating for brain pathology."
+          },
+          {
+            "theory_id": "T019892",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Emphasizes education as a static proxy for cognitive reserve and its protective role in vascular and episodic memory decline."
+          },
+          {
+            "theory_id": "T019200",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Describes cognitive reserve as an active process influenced by lifetime experiences including education and mental activities."
+          },
+          {
+            "theory_id": "T021995",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Operationalizes cognitive reserve through education and cognitive measures, highlighting executive function and life experience."
+          },
+          {
+            "theory_id": "T016902",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Links cognitive reserve to education, occupation, and life course factors influencing cognitive aging trajectories."
+          },
+          {
+            "theory_id": "T017148",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Uses education as a marker of cognitive reserve explaining individual differences in coping with Alzheimer\u2019s pathology."
+          },
+          {
+            "theory_id": "T017041",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Focuses on neural efficiency, capacity, and compensation shaped by education, IQ, and occupational attainment."
+          },
+          {
+            "theory_id": "T009635",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Highlights active and passive components of cognitive reserve including education and lifestyle factors influencing neuroplasticity."
+          },
+          {
+            "theory_id": "T026408",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Considers cognitive stimulation from internet use and social interaction as life experiences contributing to cognitive reserve."
+          },
+          {
+            "theory_id": "T023048",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Bilingualism as a lifelong mentally stimulating activity contributing to cognitive reserve alongside education."
+          },
+          {
+            "theory_id": "T016880",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Focuses on early life environmental and cognitive enrichment including education as foundational for cognitive reserve."
+          },
+          {
+            "theory_id": "T023437",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Includes brain reserve and maintenance concepts linked to lifelong experiences such as education and bilingualism."
+          },
+          {
+            "theory_id": "T027234",
+            "subcluster_name": "Education-Based Cognitive Reserve Theory",
+            "reasoning": "Discusses limitations of cognitive reserve\u2019s protective effects, implicitly linked to education and life experience."
+          },
+          {
+            "theory_id": "T026087",
+            "subcluster_name": "Neural Efficiency and Compensation Cognitive Reserve Theory",
+            "reasoning": "Focuses on neural reserve and neural compensation mechanisms underlying cognitive reserve during aging and pathology."
+          },
+          {
+            "theory_id": "T018930",
+            "subcluster_name": "Neural Efficiency and Compensation Cognitive Reserve Theory",
+            "reasoning": "Describes cognitive reserve as active functional adaptability and compensatory neural mechanisms shaped by life experience."
+          },
+          {
+            "theory_id": "T008394",
+            "subcluster_name": "Neural Efficiency and Compensation Cognitive Reserve Theory",
+            "reasoning": "Details neural reserve and compensation including the posterior-anterior shift as a compensatory mechanism in aging."
+          },
+          {
+            "theory_id": "T018942",
+            "subcluster_name": "Neural Efficiency and Compensation Cognitive Reserve Theory",
+            "reasoning": "Identifies a task-invariant cognitive reserve network supporting efficient and flexible cognitive processing."
+          },
+          {
+            "theory_id": "T026461",
+            "subcluster_name": "Neural Efficiency and Compensation Cognitive Reserve Theory",
+            "reasoning": "Proposes neuronal mechanisms such as plasticity and compensatory network recruitment as bases for cognitive reserve."
+          },
+          {
+            "theory_id": "T016907",
+            "subcluster_name": "Neural Efficiency and Compensation Cognitive Reserve Theory",
+            "reasoning": "Integrates brain reserve, brain maintenance, neural reserve, and neural compensation as mechanisms of cognitive reserve."
+          },
+          {
+            "theory_id": "T027555",
+            "subcluster_name": "Neural Efficiency and Compensation Cognitive Reserve Theory",
+            "reasoning": "Focuses on genetic and molecular mechanisms underlying neural plasticity and adaptive circuit changes supporting cognitive reserve."
+          },
+          {
+            "theory_id": "T022954",
+            "subcluster_name": "Lipid Homeostasis and Neuroprotection Cognitive Reserve Theory",
+            "reasoning": "Emphasizes compensatory lipid metabolism via PLA2G2F maintaining synaptic integrity and reducing neuroinflammation to support cognitive reserve."
+          },
+          {
+            "theory_id": "T001060",
+            "subcluster_name": "Environmental Enrichment and Life Experience Cognitive Reserve Theory",
+            "reasoning": "Highlights motherhood-induced environmental complexity and cognitive load as lifelong enrichment enhancing cognitive reserve."
+          },
+          {
+            "theory_id": "T023075",
+            "subcluster_name": "Environmental Enrichment and Life Experience Cognitive Reserve Theory",
+            "reasoning": "Focuses on positive neuroplasticity from environmental and lifestyle stimulation promoting neuronal connections and cognitive reserve."
+          },
+          {
+            "theory_id": "T006061",
+            "subcluster_name": "Neuronal Structural Reserve Theory",
+            "reasoning": "Describes neuronal reserve at the single-neuron level via dendritic pruning and soma centrality affecting resilience to aging."
+          }
+        ]
+      }
+    }
+  ],
+  "timestamp": "2025-10-22 12:01:34"
+}

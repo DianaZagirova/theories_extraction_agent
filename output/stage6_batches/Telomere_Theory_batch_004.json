@@ -1,0 +1,204 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+        "theory_ids": [
+          "T004938",
+          "T005175",
+          "T004309",
+          "T003777",
+          "T004238",
+          "T004138",
+          "T003714",
+          "T004889",
+          "T004771",
+          "T003910",
+          "T003687",
+          "T004813",
+          "T005162",
+          "T003785",
+          "T004380",
+          "T004610",
+          "T003902"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "Noncanonical Telomerase Function Theory",
+        "theory_ids": [
+          "T003715",
+          "T003221",
+          "T004011"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Telomere Uncapping and DNA Damage Response Theory",
+        "theory_ids": [
+          "T003810",
+          "T003946",
+          "T005139",
+          "T004388"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T004938",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Focuses on telomere shortening as a mitotic clock limiting cell division and replicative lifespan, with telomerase role in immortalization."
+        },
+        {
+          "theory_id": "T005175",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening with age, genetic variation in telomere length, and its role as a biomarker of senescence."
+        },
+        {
+          "theory_id": "T004309",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Describes telomere shortening as a mitotic clock and biosensor triggering DNA damage response and senescence, influenced by oxidative stress."
+        },
+        {
+          "theory_id": "T003777",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Relates telomere shortening and telomerase activity to cellular senescence and organismal longevity in trees."
+        },
+        {
+          "theory_id": "T004238",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Focuses on telomere shortening as a mitotic clock and telomerase activity resetting it, linking to aging in organisms with determinate vs indeterminate growth."
+        },
+        {
+          "theory_id": "T004138",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Highlights telomere length protecting genome stability, reducing cancer risk, and its association with longevity."
+        },
+        {
+          "theory_id": "T003714",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Describes telomere shortening limiting replicative capacity and telomerase counteracting shortening in long-lived tree species."
+        },
+        {
+          "theory_id": "T004889",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Details telomere erosion limiting cell division and telomerase maintaining telomere length to extend replicative lifespan."
+        },
+        {
+          "theory_id": "T004771",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Focuses on telomere shortening limiting cell division, balance of loss and restoration, and evolutionary ecology of telomere dynamics."
+        },
+        {
+          "theory_id": "T003910",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Describes telomere shortening as mitotic clock, telomerase activity variation, and tradeoff between cancer prevention and aging."
+        },
+        {
+          "theory_id": "T003687",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Reassesses telomere shortening as mitotic clock and its role in senescence, crisis, and immortalization."
+        },
+        {
+          "theory_id": "T004813",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Explains telomere shortening as mitotic clock, crisis due to telomere dysfunction, and telomerase activation enabling immortalization."
+        },
+        {
+          "theory_id": "T005162",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Focuses on initial telomere length variation, selective disappearance of short telomere phenotypes, and link to longevity."
+        },
+        {
+          "theory_id": "T003785",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Describes telomere shortening as mechanism of infection-induced accelerated aging via immune activation and oxidative stress."
+        },
+        {
+          "theory_id": "T004380",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Links sepsis-induced oxidative stress to accelerated telomere shortening and delayed aging-like pathophysiology."
+        },
+        {
+          "theory_id": "T004610",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Details telomere shortening as molecular clock causing lung stem cell senescence and age-related lung disease."
+        },
+        {
+          "theory_id": "T003902",
+          "subcluster_name": "Telomere Shortening and Replicative Senescence Theory",
+          "reasoning": "Describes telomere shortening trade-off in stem cells balancing cancer risk and aging via moderate telomerase activity."
+        },
+        {
+          "theory_id": "T004639",
+          "subcluster_name": "Metabolic Telomere Attrition Theory",
+          "reasoning": "Focuses on glucocorticoid-induced mitochondrial inefficiency limiting energy for telomere maintenance, causing telomere attrition independent of oxidative stress."
+        },
+        {
+          "theory_id": "T003715",
+          "subcluster_name": "Noncanonical Telomerase Function Theory",
+          "reasoning": "Describes extranuclear telomerase/TERT isoforms with protective roles against oxidative stress and mitochondrial damage contributing to longevity."
+        },
+        {
+          "theory_id": "T003221",
+          "subcluster_name": "Noncanonical Telomerase Function Theory",
+          "reasoning": "Highlights telomerase's anti-apoptotic role, modulating mitochondrial dysfunction and apoptosis pathways beyond telomere elongation."
+        },
+        {
+          "theory_id": "T004011",
+          "subcluster_name": "Noncanonical Telomerase Function Theory",
+          "reasoning": "Describes paradoxical role of TERT accelerating DNA methylation aging despite telomere elongation, linking telomerase to epigenetic aging."
+        },
+        {
+          "theory_id": "T003335",
+          "subcluster_name": "Telomere Position Effect and Tumor Suppression Theory",
+          "reasoning": "Focuses on telomere position effect over long distances (TPE-OLD) silencing genes to suppress mTOR signaling and tumorigenesis during aging."
+        },
+        {
+          "theory_id": "T003810",
+          "subcluster_name": "Telomere Uncapping and DNA Damage Response Theory",
+          "reasoning": "Describes telomere capping/uncapping dynamics triggering DNA damage response and senescence, modulated by oxidative stress."
+        },
+        {
+          "theory_id": "T003946",
+          "subcluster_name": "Telomere Uncapping and DNA Damage Response Theory",
+          "reasoning": "Details telomere uncapping causing vascular cell senescence via p53/p21 and oxidative stress leading to endothelial dysfunction."
+        },
+        {
+          "theory_id": "T005139",
+          "subcluster_name": "Telomere Uncapping and DNA Damage Response Theory",
+          "reasoning": "Focuses on uncapped telomeres triggering G2 DNA damage checkpoint via shelterin protein loss and p53/pRb pathways."
+        },
+        {
+          "theory_id": "T004388",
+          "subcluster_name": "Telomere Uncapping and DNA Damage Response Theory",
+          "reasoning": "Describes telomere dysfunction-induced endothelial senescence causing SASP, oxidative stress, and vascular/metabolic impairments."
+        },
+        {
+          "theory_id": "T003764",
+          "subcluster_name": "Telomere-Induced Innate Immune Activation Theory",
+          "reasoning": "Explains telomere attrition in hematopoietic stem cells activating IFI16-mediated innate immune signaling causing stem cell exhaustion."
+        },
+        {
+          "theory_id": "T004602",
+          "subcluster_name": "Telomere Length and Disease Risk Trade-off Theory",
+          "reasoning": "Describes telomere length variation influencing aging-related diseases with a trade-off between short telomeres causing degenerative diseases and long telomeres increasing cancer risk."
+        },
+        {
+          "theory_id": "T001803",
+          "subcluster_name": "rDNA Instability and Inflammaging Theory",
+          "reasoning": "Focuses on ribosomal DNA instability causing DNA damage, extrachromosomal circles, and activation of innate immune pathways driving inflammaging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:20:43"
+}

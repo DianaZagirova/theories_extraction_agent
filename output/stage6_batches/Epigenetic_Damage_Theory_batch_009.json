@@ -1,0 +1,180 @@
+{
+  "cluster_name": "Epigenetic Damage Theory",
+  "batch_num": 9,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Methylation Regulation and Aging Theory",
+        "theory_ids": [
+          "T023627",
+          "T027169",
+          "T024908",
+          "T026134",
+          "T026646",
+          "T026038",
+          "T022608"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Epigenetic Inheritance and Longevity Modulation Theory",
+        "theory_ids": [
+          "T022549",
+          "T023219",
+          "T026955",
+          "T027229",
+          "T026228",
+          "T027410"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Chromatin and Genome Stability Epigenetic Aging Theory",
+        "theory_ids": [
+          "T025266",
+          "T026258",
+          "T026807",
+          "T025207",
+          "T026224",
+          "T027226",
+          "T027465"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Epigenetic Regulation in Aging Theory",
+        "theory_ids": [
+          "T025141",
+          "T023138",
+          "T026113"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T023627",
+          "subcluster_name": "DNA Methylation Regulation and Aging Theory",
+          "reasoning": "Focuses on DNA methylation homeostasis and its dysregulation in aging, involving methylstat control of methylation enzymes."
+        },
+        {
+          "theory_id": "T027169",
+          "subcluster_name": "DNA Methylation Regulation and Aging Theory",
+          "reasoning": "Centers on DNA methylation changes as aging markers and stochastic/co-regulated methylation dynamics driving aging."
+        },
+        {
+          "theory_id": "T024908",
+          "subcluster_name": "DNA Methylation Regulation and Aging Theory",
+          "reasoning": "Describes age-associated DNA methylation changes driving aging and cancer risk, emphasizing methylation pattern shifts."
+        },
+        {
+          "theory_id": "T026134",
+          "subcluster_name": "DNA Methylation Regulation and Aging Theory",
+          "reasoning": "Focuses on sperm DNA methylation changes with age and their transgenerational inheritance affecting aging phenotypes."
+        },
+        {
+          "theory_id": "T026646",
+          "subcluster_name": "DNA Methylation Regulation and Aging Theory",
+          "reasoning": "Discusses epigenetic inheritance including DNA methylation clocks and transgenerational effects on lifespan and aging."
+        },
+        {
+          "theory_id": "T026038",
+          "subcluster_name": "DNA Methylation Regulation and Aging Theory",
+          "reasoning": "Highlights epigenetic variation, including DNA methylation, as a causal contributor to aging and phenotypic differences."
+        },
+        {
+          "theory_id": "T022608",
+          "subcluster_name": "DNA Methylation Regulation and Aging Theory",
+          "reasoning": "Links epigenetic age acceleration measured by DNA methylation clocks causally to disease risk and biological aging."
+        },
+        {
+          "theory_id": "T022549",
+          "subcluster_name": "Epigenetic Inheritance and Longevity Modulation Theory",
+          "reasoning": "Focuses on non-genomic parental epigenetic effects influencing longevity and heterosis in lifespan via inherited epigenetic states."
+        },
+        {
+          "theory_id": "T023219",
+          "subcluster_name": "Epigenetic Inheritance and Longevity Modulation Theory",
+          "reasoning": "Describes breast milk miRNA-mediated epigenetic inheritance affecting transgenerational aging and disease susceptibility."
+        },
+        {
+          "theory_id": "T026955",
+          "subcluster_name": "Epigenetic Inheritance and Longevity Modulation Theory",
+          "reasoning": "Explains caste-specific epigenetic programming in social insects that modulates longevity and lifespan differences."
+        },
+        {
+          "theory_id": "T027229",
+          "subcluster_name": "Epigenetic Inheritance and Longevity Modulation Theory",
+          "reasoning": "Shows epigenetic regulation of aging via vitellogenin in honeybee workers linking environmental/social factors to lifespan."
+        },
+        {
+          "theory_id": "T026228",
+          "subcluster_name": "Epigenetic Inheritance and Longevity Modulation Theory",
+          "reasoning": "Partial cellular reprogramming resets epigenetic aging markers, linking epigenetic state inheritance to rejuvenation and aging."
+        },
+        {
+          "theory_id": "T027410",
+          "subcluster_name": "Epigenetic Inheritance and Longevity Modulation Theory",
+          "reasoning": "Environmental factors like stress and mindfulness induce epigenetic changes that modulate aging trajectories and longevity."
+        },
+        {
+          "theory_id": "T025266",
+          "subcluster_name": "Chromatin and Genome Stability Epigenetic Aging Theory",
+          "reasoning": "Focuses on epigenetic regulation of genome stability, including chromatin structure, telomeres, and transposable element repression."
+        },
+        {
+          "theory_id": "T026258",
+          "subcluster_name": "Chromatin and Genome Stability Epigenetic Aging Theory",
+          "reasoning": "Describes large-scale chromatin reorganization and epigenomic landscape changes driving cellular aging and gene expression deregulation."
+        },
+        {
+          "theory_id": "T026807",
+          "subcluster_name": "Chromatin and Genome Stability Epigenetic Aging Theory",
+          "reasoning": "Details heterochromatin organization via EHMT methylation of LaminB1 and its loss causing chromatin disorganization in aging."
+        },
+        {
+          "theory_id": "T025207",
+          "subcluster_name": "Chromatin and Genome Stability Epigenetic Aging Theory",
+          "reasoning": "Involves Polycomb Group protein PCGF1 regulating chromatin and gene silencing, with deficiency causing premature aging phenotypes."
+        },
+        {
+          "theory_id": "T026224",
+          "subcluster_name": "Chromatin and Genome Stability Epigenetic Aging Theory",
+          "reasoning": "Polycomb and Suppressor of zeste proteins epigenetically regulate longevity and oxidative stress response, affecting lifespan."
+        },
+        {
+          "theory_id": "T027226",
+          "subcluster_name": "Chromatin and Genome Stability Epigenetic Aging Theory",
+          "reasoning": "Brd4 epigenetic reader regulates vascular smooth muscle cell senescence and vascular aging via chromatin-mediated gene expression."
+        },
+        {
+          "theory_id": "T027465",
+          "subcluster_name": "Chromatin and Genome Stability Epigenetic Aging Theory",
+          "reasoning": "Histone modifications regulate cardiac aging by altering chromatin structure and gene expression linked to metabolism and inflammation."
+        },
+        {
+          "theory_id": "T025141",
+          "subcluster_name": "Mitochondrial Epigenetic Regulation in Aging Theory",
+          "reasoning": "p49/STRAP epigenetically represses mitochondrial biogenesis genes via histone deacetylation, impairing mitochondrial function in aging."
+        },
+        {
+          "theory_id": "T023138",
+          "subcluster_name": "Mitochondrial Epigenetic Regulation in Aging Theory",
+          "reasoning": "Metabolic regulation of chromatin links metabolite availability to epigenetic states influencing aging, integrating metabolism and epigenetics."
+        },
+        {
+          "theory_id": "T026113",
+          "subcluster_name": "Mitochondrial Epigenetic Regulation in Aging Theory",
+          "reasoning": "Extracellular matrix glycation induces epigenetic changes affecting brain aging and neurodegeneration via histone modification enzymes."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:21:04"
+}

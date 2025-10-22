@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 10,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+        "theory_ids": [
+          "T012611",
+          "T012650",
+          "T012514",
+          "T012707",
+          "T012836",
+          "T012629",
+          "T013211",
+          "T012669",
+          "T012787",
+          "T013129",
+          "T012917",
+          "T013230"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "ROS Signaling and Mitohormesis Theory",
+        "theory_ids": [
+          "T013038",
+          "T013050",
+          "T012806",
+          "T012725",
+          "T012433"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Protein Oxidation Resistance and Longevity Theory",
+        "theory_ids": [
+          "T013069",
+          "T012628",
+          "T012792",
+          "T012668"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T012611",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial respiration as the main source of ROS causing oxidative damage to macromolecules driving aging."
+        },
+        {
+          "theory_id": "T012650",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS causing oxidative damage leading to metabolic dysfunction and aging."
+        },
+        {
+          "theory_id": "T012514",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Highlights oxidative damage to proteins and energy metabolism impairment in brain due to mitochondrial ROS."
+        },
+        {
+          "theory_id": "T012707",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes mitochondrial dysfunction as a major source of ROS causing cardiovascular aging."
+        },
+        {
+          "theory_id": "T012836",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Shows reduced mitochondrial ROS and enhanced antioxidant defense correlating with longevity."
+        },
+        {
+          "theory_id": "T012629",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction increasing ROS production and oxidative damage driving aging."
+        },
+        {
+          "theory_id": "T013211",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes mitochondrial ROS accumulation and antioxidant defenses modulating aging and lifespan."
+        },
+        {
+          "theory_id": "T012669",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Discusses ROS accumulation from metabolism and reproduction, and antioxidant defenses in long-lived termite queen."
+        },
+        {
+          "theory_id": "T012787",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Links oxidative stress from mitochondrial ROS and environmental stress to aging in social insects."
+        },
+        {
+          "theory_id": "T013129",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Proposes genetically programmed anticipatory antioxidant defense against ROS during reproduction."
+        },
+        {
+          "theory_id": "T012917",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Shows antioxidant defense (thioredoxin 1) modulating oxidative damage accumulation and lifespan."
+        },
+        {
+          "theory_id": "T013230",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes oxidative damage accumulation and antioxidant insufficiency causing cognitive decline."
+        },
+        {
+          "theory_id": "T012548",
+          "subcluster_name": "Transgenerational Oxidative Stress and Aging Theory",
+          "reasoning": "Focuses on oxidative stress causing transgenerational inheritance of aging effects via germline DNA damage."
+        },
+        {
+          "theory_id": "T012053",
+          "subcluster_name": "Nuclear DNA Damage-Driven Oxidative Stress Theory",
+          "reasoning": "Emphasizes oxidative stress causing nuclear DNA damage, telomere shortening, and laminopathy-related aging."
+        },
+        {
+          "theory_id": "T012623",
+          "subcluster_name": "Vascular Oxidative Stress and Xanthine Oxidase Activation Theory",
+          "reasoning": "Focuses on oxidative stress from xanthine oxidase activation causing vascular aging and telomere shortening."
+        },
+        {
+          "theory_id": "T012434",
+          "subcluster_name": "Ovarian Follicle Oxidative Stress Aging Theory",
+          "reasoning": "Describes oxidative stress and antioxidant decline causing ovarian follicle aging and microenvironment impairment."
+        },
+        {
+          "theory_id": "T013049",
+          "subcluster_name": "Neurodegeneration and PTSD-Associated Oxidative Stress Theory",
+          "reasoning": "Links chronic PTSD-induced oxidative stress and HPA axis dysregulation to accelerated brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T013119",
+          "subcluster_name": "Metal Dyshomeostasis and Oxidative Stress Neurodegeneration Theory",
+          "reasoning": "Focuses on metal imbalance exacerbating oxidative stress and mitochondrial dysfunction causing neurodegeneration."
+        },
+        {
+          "theory_id": "T013038",
+          "subcluster_name": "ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Highlights dual role of ROS as damaging agents and signaling molecules activating protective pathways and longevity."
+        },
+        {
+          "theory_id": "T013050",
+          "subcluster_name": "ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Describes mitohormesis where mild mitochondrial stress and ROS signaling induce adaptive longevity responses."
+        },
+        {
+          "theory_id": "T012806",
+          "subcluster_name": "ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Details RAS-dependent ROS signaling pathway modulated by mitochondrial superoxide extending lifespan."
+        },
+        {
+          "theory_id": "T012725",
+          "subcluster_name": "ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Proposes balance between superoxide toxicity and prosurvival signaling determines lifespan effects."
+        },
+        {
+          "theory_id": "T012433",
+          "subcluster_name": "ROS Signaling and Mitohormesis Theory",
+          "reasoning": "Explains hormesis where low ROS levels induce adaptive protective responses promoting healthspan and longevity."
+        },
+        {
+          "theory_id": "T013069",
+          "subcluster_name": "Protein Oxidation Resistance and Longevity Theory",
+          "reasoning": "Focuses on species differences in cellular resistance to oxidative protein damage correlating with lifespan."
+        },
+        {
+          "theory_id": "T012628",
+          "subcluster_name": "Protein Oxidation Resistance and Longevity Theory",
+          "reasoning": "Shows long-lived bats have enhanced resistance to protein oxidation and better protein homeostasis."
+        },
+        {
+          "theory_id": "T012792",
+          "subcluster_name": "Protein Oxidation Resistance and Longevity Theory",
+          "reasoning": "Emphasizes repair and elimination of oxidatively damaged proteins as key anti-aging strategies."
+        },
+        {
+          "theory_id": "T012668",
+          "subcluster_name": "Protein Oxidation Resistance and Longevity Theory",
+          "reasoning": "Describes small-molecule Mn antioxidants complementing enzymatic defenses to protect proteins from oxidative damage."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:28:56"
+}

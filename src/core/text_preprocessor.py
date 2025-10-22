@@ -11,7 +11,7 @@ from typing import Dict, Optional
 class TextPreprocessor:
     """Preprocessor for scientific paper text."""
     
-    def __init__(self):
+    def __init__(self, apply_reduction: bool = True):
         # Common reference section headers (case insensitive)
         self.reference_headers = [
             r'\n\s*references?\s*\n',
@@ -20,6 +20,7 @@ class TextPreprocessor:
             r'\n\s*literature\s+cited\s*\n',
             r'\n\s*reference\s+list\s*\n',
         ]
+        self.apply_reduction = apply_reduction
         
     def clean_text(self, text: str) -> str:
         """
@@ -129,11 +130,11 @@ class TextPreprocessor:
             return ""
         # If sections dict seems to be a fallback single blob, just return a budgeted slice
         keys = list(sections.keys())
-        if len(keys) <= 2:
+        if len(keys) <= 1:
             key0 = keys[0].lower() if keys else ''
             if (not keys or
-                'full text' in key0 or 'fallback' in key0 or 'extraction' in key0 or
-                len(keys[0]) > 40):
+                'full text' in key0 or 'processing' in key0 or 'error' in key0 or 'publishing' in key0 or 'pdf' in key0.lower() or 'fallback' in key0 or 'extraction' in key0 or
+                len(keys[0]) > 50):
                 blob = sections.get(keys[0], '') if keys else ''
                 blob = blob if isinstance(blob, str) else ''
                 BUDGET = int(os.getenv('PREPROCESS_BUDGET_CHARS', '40000'))
@@ -182,20 +183,23 @@ class TextPreprocessor:
         scored.sort(key=lambda x: (-x[0], x[1].lower()))
 
         # Assemble under a character budget with adaptive allocation
-        BUDGET = int(os.getenv('PREPROCESS_BUDGET_CHARS', '20000'))
+        if self.apply_reduction:
+            BUDGET = int(os.getenv('PREPROCESS_BUDGET_CHARS', '20000'))
+        else:
+            BUDGET = int(os.getenv('PREPROCESS_BUDGET_CHARS_QUESTIONS', '50000'))
         
         # Adaptive per-section caps based on priority
         def get_section_cap(key_lower):
             if key_lower in ['abstract']:
-                return 3000  # Abstract: compact but complete
+                return 4000  # Abstract: compact but complete
             elif key_lower in ['introduction', 'background']:
-                return 5000  # Intro: more context needed
+                return 6000  # Intro: more context needed
             elif key_lower in ['discussion', 'conclusions', 'conclusion']:
                 return 6000  # Discussion: most theory-rich
             elif key_lower in ['results']:
-                return 4000  # Results: less theory, more data
+                return 7000  # Results: less theory, more data
             else:
-                return 3000  # Other sections: minimal
+                return 7000  # Other sections: minimal
         
         # Smart sampling: take beginning + end for long sections
         def smart_sample(text, max_chars):
@@ -209,17 +213,23 @@ class TextPreprocessor:
         assembled = []
         used = 0
         for _, key, value in scored:
+                           
             if used >= BUDGET:
                 break
+
+            if self.apply_reduction: 
+                section_cap = get_section_cap(key.lower())
+                part = smart_sample(value, section_cap)
+                chunk = f"{key}\n{part}\n\n"
+                
+                if used + len(chunk) > BUDGET:
+                    # trim final chunk to fit
+                    remaining = max(0, BUDGET - used)
+                    chunk = chunk[:remaining]
+            else:
+                # No reduction - use full section
+                chunk = f"{key}\n{value}\n\n"
             
-            section_cap = get_section_cap(key.lower())
-            part = smart_sample(value, section_cap)
-            chunk = f"{key}\n{part}\n\n"
-            
-            if used + len(chunk) > BUDGET:
-                # trim final chunk to fit
-                remaining = max(0, BUDGET - used)
-                chunk = chunk[:remaining]
             assembled.append(chunk)
             used += len(chunk)
 
@@ -263,7 +273,10 @@ class TextPreprocessor:
         
         # Enforce final budget cap if specified (keeps final prompt size under control)
         try:
-            final_budget = int(os.getenv('PREPROCESS_BUDGET_CHARS', '40000'))
+            if self.apply_reduction:
+                final_budget = int(os.getenv('PREPROCESS_BUDGET_CHARS', '40000'))
+            else:
+                final_budget = int(os.getenv('PREPROCESS_BUDGET_CHARS_QUESTIONS', '50000'))
             if final_budget > 0 and len(text) > final_budget:
                 text = text[:final_budget]
         except Exception:

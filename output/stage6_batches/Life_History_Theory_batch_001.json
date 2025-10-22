@@ -1,0 +1,172 @@
+{
+  "cluster_name": "Life History Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Early Life Adversity-Driven Life History Theory",
+        "theory_ids": [
+          "T004085",
+          "T002534",
+          "T004481",
+          "T002208",
+          "T000326",
+          "T001484",
+          "T000545",
+          "T001532"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Reproductive Strategy-Driven Life History Theory",
+        "theory_ids": [
+          "T001077",
+          "T005249",
+          "T004877",
+          "T000572",
+          "T003511",
+          "T003977",
+          "T002701"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Reproduction-Energy Trade-Off Life History Theory",
+        "theory_ids": [
+          "T001880",
+          "T002029",
+          "T002985",
+          "T004496",
+          "T004275",
+          "T001547",
+          "T000800"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T004085",
+          "subcluster_name": "Early Life Adversity-Driven Life History Theory",
+          "reasoning": "Focuses on early life adversity triggering accelerated aging and earlier reproduction as adaptive responses, emphasizing developmental plasticity and trade-offs shaped by early environmental cues."
+        },
+        {
+          "theory_id": "T002534",
+          "subcluster_name": "Early Life Adversity-Driven Life History Theory",
+          "reasoning": "Centers on environmental harshness accelerating development and biological aging, including cellular aging metrics, linking early adversity to life history pace."
+        },
+        {
+          "theory_id": "T004481",
+          "subcluster_name": "Early Life Adversity-Driven Life History Theory",
+          "reasoning": "Highlights adaptive resource allocation trade-offs and developmental plasticity based on early-life nutritional and endocrine cues, with epigenetic mechanisms mediating life history shifts."
+        },
+        {
+          "theory_id": "T002208",
+          "subcluster_name": "Early Life Adversity-Driven Life History Theory",
+          "reasoning": "Explains plasticity in timing of maturation and trade-offs prioritizing reproduction over longevity, shaped by early environmental cues and evolutionary pressures."
+        },
+        {
+          "theory_id": "T000326",
+          "subcluster_name": "Early Life Adversity-Driven Life History Theory",
+          "reasoning": "Describes accelerated life history strategies triggered by mortality cues leading to preference for immediate reproduction and future discounting, linked to early environmental calibration."
+        },
+        {
+          "theory_id": "T001484",
+          "subcluster_name": "Early Life Adversity-Driven Life History Theory",
+          "reasoning": "Connects fast vs. slow life history strategies to resource allocation trade-offs, with sleep behavior as somatic maintenance influenced by life history pace shaped by early environment."
+        },
+        {
+          "theory_id": "T000545",
+          "subcluster_name": "Early Life Adversity-Driven Life History Theory",
+          "reasoning": "Focuses on reduced reproductive effort as an adaptation to environmental variability and juvenile recruitment uncertainty, emphasizing energy allocation trade-offs shaped by life history."
+        },
+        {
+          "theory_id": "T001532",
+          "subcluster_name": "Early Life Adversity-Driven Life History Theory",
+          "reasoning": "Explores rapid life cycle completion under time-limited, harsh environments favoring early reproduction and selfing, consistent with accelerated life history strategies."
+        },
+        {
+          "theory_id": "T003932",
+          "subcluster_name": "Placental Morphology-Linked Life History Theory",
+          "reasoning": "Links evolutionary changes in placental morphology to life history pace, reproductive allocation, and trade-offs between offspring quantity and quality affecting aging."
+        },
+        {
+          "theory_id": "T001077",
+          "subcluster_name": "Reproductive Strategy-Driven Life History Theory",
+          "reasoning": "Focuses on reproductive strategies (semelparity vs. iteroparity) and evolved programmed death influencing aging modalities and resource allocation."
+        },
+        {
+          "theory_id": "T005249",
+          "subcluster_name": "Reproductive Strategy-Driven Life History Theory",
+          "reasoning": "Emphasizes semelparity as an adaptive strategy under high adult mortality and environmental unpredictability, with hormonal regulation mediating reproduction-longevity trade-offs."
+        },
+        {
+          "theory_id": "T004877",
+          "subcluster_name": "Reproductive Strategy-Driven Life History Theory",
+          "reasoning": "Considers extrinsic mortality and social group size effects on longevity and life history pace, linking environmental mortality risk to reproductive strategies."
+        },
+        {
+          "theory_id": "T000572",
+          "subcluster_name": "Reproductive Strategy-Driven Life History Theory",
+          "reasoning": "Describes how age-dependent predation risk shapes senescence and life history trade-offs between growth, reproduction, and somatic maintenance."
+        },
+        {
+          "theory_id": "T003511",
+          "subcluster_name": "Reproductive Strategy-Driven Life History Theory",
+          "reasoning": "Analyzes survival-reproduction trade-offs varying by life history pace, environmental context, and breeding strategy influencing senescence patterns."
+        },
+        {
+          "theory_id": "T003977",
+          "subcluster_name": "Reproductive Strategy-Driven Life History Theory",
+          "reasoning": "Focuses on male reproductive ecology and energetic trade-offs between somatic maintenance and reproductive effort shaped by ecological variation."
+        },
+        {
+          "theory_id": "T002701",
+          "subcluster_name": "Reproductive Strategy-Driven Life History Theory",
+          "reasoning": "Examines experimental evolution of life history traits showing trade-offs between reproduction and somatic maintenance with sex-specific aging patterns."
+        },
+        {
+          "theory_id": "T001880",
+          "subcluster_name": "Reproduction-Energy Trade-Off Life History Theory",
+          "reasoning": "Highlights energy allocation trade-offs where increased reproductive effort accelerates aging via telomere shortening, linking reproduction directly to cellular aging."
+        },
+        {
+          "theory_id": "T002029",
+          "subcluster_name": "Reproduction-Energy Trade-Off Life History Theory",
+          "reasoning": "Focuses on resource allocation trade-offs and costs of reproduction, including terminal investment effects on telomere shortening and aging."
+        },
+        {
+          "theory_id": "T002985",
+          "subcluster_name": "Reproduction-Energy Trade-Off Life History Theory",
+          "reasoning": "Describes terminal investment hypothesis where individuals increase reproductive effort upon survival decline, balancing reproduction and maintenance."
+        },
+        {
+          "theory_id": "T004496",
+          "subcluster_name": "Reproduction-Energy Trade-Off Life History Theory",
+          "reasoning": "Explores terminal investment with age-dependent reproductive effort increases and trade-offs between current and future reproduction."
+        },
+        {
+          "theory_id": "T004275",
+          "subcluster_name": "Reproduction-Energy Trade-Off Life History Theory",
+          "reasoning": "Details terminal allocation in hibernators with age-dependent reproductive investment shifts, balancing survival and reproduction under resource pulsing."
+        },
+        {
+          "theory_id": "T001547",
+          "subcluster_name": "Reproduction-Energy Trade-Off Life History Theory",
+          "reasoning": "Supports terminal restraint hypothesis where older animals restrain reproduction under stress to prioritize survival, mediated by glucocorticoids."
+        },
+        {
+          "theory_id": "T000800",
+          "subcluster_name": "Reproduction-Energy Trade-Off Life History Theory",
+          "reasoning": "Proposes temporality in reproductive investment across slow-fast continuum, linking reproductive cost timing to senescence and life history pace."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 12:01:56"
+}

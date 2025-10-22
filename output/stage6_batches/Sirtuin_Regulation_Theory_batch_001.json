@@ -1,0 +1,174 @@
+{
+  "cluster_name": "Sirtuin Regulation Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Sirtuin Regulation of Neurodegeneration and Metabolic Aging",
+        "theory_ids": [
+          "T015302",
+          "T017371",
+          "T017606",
+          "T001664",
+          "T003231",
+          "T014677",
+          "T003218",
+          "T017732"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Sirtuin Regulation of Longevity and Calorie Restriction",
+        "theory_ids": [
+          "T014948",
+          "T017353",
+          "T014624",
+          "T004806",
+          "T000376",
+          "T003975",
+          "T014554"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Sirtuin Regulation via p53 Deacetylation and Genomic Stability",
+        "theory_ids": [
+          "T004832",
+          "T015591",
+          "T017849",
+          "T017865"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Sirtuin Regulation of Oxidative Stress and Aging",
+        "theory_ids": [
+          "T011219",
+          "T012400",
+          "T014922"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015302",
+          "subcluster_name": "Sirtuin Regulation of Neurodegeneration and Metabolic Aging",
+          "reasoning": "Focuses on sirtuins' role in neurodegeneration, gut-brain axis, and metabolic dysfunction linking to aging."
+        },
+        {
+          "theory_id": "T017371",
+          "subcluster_name": "Sirtuin Regulation of Neurodegeneration and Metabolic Aging",
+          "reasoning": "Describes neuronal SIRT1 regulation of somatotropic axis and systemic metabolic aging responses to calorie restriction."
+        },
+        {
+          "theory_id": "T017606",
+          "subcluster_name": "Sirtuin Regulation of Neurodegeneration and Metabolic Aging",
+          "reasoning": "Covers sirtuins modulating metabolic and stress response pathways affecting neurodegeneration and systemic aging diseases."
+        },
+        {
+          "theory_id": "T001664",
+          "subcluster_name": "Sirtuin Regulation of Neurodegeneration and Metabolic Aging",
+          "reasoning": "Emphasizes SIRT1\u2019s role in mitochondrial function, metabolic reprogramming, and aging-related oxidative stress."
+        },
+        {
+          "theory_id": "T003231",
+          "subcluster_name": "Sirtuin Regulation of Neurodegeneration and Metabolic Aging",
+          "reasoning": "Focuses on sirtuins as metabolic regulators and stress response mediators impacting aging and age-related diseases."
+        },
+        {
+          "theory_id": "T014677",
+          "subcluster_name": "Sirtuin Regulation of Neurodegeneration and Metabolic Aging",
+          "reasoning": "Highlights sirtuin-mediated mitochondrial biogenesis and metabolic adaptations linked to aging and longevity."
+        },
+        {
+          "theory_id": "T003218",
+          "subcluster_name": "Sirtuin Regulation of Neurodegeneration and Metabolic Aging",
+          "reasoning": "Focuses on mitochondrial SIRT3\u2019s NAD-dependent deacetylase activity linking metabolism to aging and longevity."
+        },
+        {
+          "theory_id": "T017732",
+          "subcluster_name": "Sirtuin Regulation of Neurodegeneration and Metabolic Aging",
+          "reasoning": "Describes sirtuins as metabolic sensors linking NAD+/NADH ratios to aging and calorie restriction effects."
+        },
+        {
+          "theory_id": "T014948",
+          "subcluster_name": "Sirtuin Regulation of Longevity and Calorie Restriction",
+          "reasoning": "Focuses on sirtuins mediating calorie restriction-induced lifespan extension and longevity pathways."
+        },
+        {
+          "theory_id": "T017353",
+          "subcluster_name": "Sirtuin Regulation of Longevity and Calorie Restriction",
+          "reasoning": "Describes sirtuins\u2019 roles in physiology, aging, and calorie restriction with emphasis on mitochondrial and nuclear isoforms."
+        },
+        {
+          "theory_id": "T014624",
+          "subcluster_name": "Sirtuin Regulation of Longevity and Calorie Restriction",
+          "reasoning": "Discusses sirtuins as conserved aging regulators mediating calorie restriction effects and lifespan extension."
+        },
+        {
+          "theory_id": "T004806",
+          "subcluster_name": "Sirtuin Regulation of Longevity and Calorie Restriction",
+          "reasoning": "Covers evolutionary conservation of sirtuins and their role in aging and lifespan regulation, including CR."
+        },
+        {
+          "theory_id": "T000376",
+          "subcluster_name": "Sirtuin Regulation of Longevity and Calorie Restriction",
+          "reasoning": "Focuses on evolutionary aspects of sirtuins and NAD+ salvage pathways relevant to longevity and aging."
+        },
+        {
+          "theory_id": "T003975",
+          "subcluster_name": "Sirtuin Regulation of Longevity and Calorie Restriction",
+          "reasoning": "Describes spatio-temporal expression and conservation of sirtuins influencing lifespan and aging phenotypes."
+        },
+        {
+          "theory_id": "T014554",
+          "subcluster_name": "Sirtuin Regulation of Longevity and Calorie Restriction",
+          "reasoning": "Focuses on sirtuins delaying cellular senescence and mediating calorie restriction effects on aging."
+        },
+        {
+          "theory_id": "T004832",
+          "subcluster_name": "Sirtuin Regulation via p53 Deacetylation and Genomic Stability",
+          "reasoning": "Centers on SIRT1-mediated deacetylation of p53 regulating cell fate, senescence, and lifespan."
+        },
+        {
+          "theory_id": "T015591",
+          "subcluster_name": "Sirtuin Regulation via p53 Deacetylation and Genomic Stability",
+          "reasoning": "Emphasizes sirtuins\u2019 roles in genomic stability, DNA repair, and modulation of p53 and senescence."
+        },
+        {
+          "theory_id": "T017849",
+          "subcluster_name": "Sirtuin Regulation via p53 Deacetylation and Genomic Stability",
+          "reasoning": "Discusses sirtuins at the intersection of aging, cancer, genomic stability, and p53 regulation."
+        },
+        {
+          "theory_id": "T017865",
+          "subcluster_name": "Sirtuin Regulation via p53 Deacetylation and Genomic Stability",
+          "reasoning": "Focuses on sirtuins linking aging and cancer through DNA repair, senescence, and metabolic regulation."
+        },
+        {
+          "theory_id": "T011219",
+          "subcluster_name": "Sirtuin Regulation of Oxidative Stress and Aging",
+          "reasoning": "Highlights sirtuins\u2019 role in oxidative stress defense via deacetylation of antioxidant enzymes and transcription factors."
+        },
+        {
+          "theory_id": "T012400",
+          "subcluster_name": "Sirtuin Regulation of Oxidative Stress and Aging",
+          "reasoning": "Focuses on SIRT1\u2019s regulation of antioxidant pathways, inflammation, and ROS crosstalk in aging."
+        },
+        {
+          "theory_id": "T014922",
+          "subcluster_name": "Sirtuin Regulation of Oxidative Stress and Aging",
+          "reasoning": "Describes a metabolite (LCA)-TULP3-v-ATPase-AMPK pathway activating sirtuins to modulate aging and metabolic homeostasis."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 12:03:39"
+}

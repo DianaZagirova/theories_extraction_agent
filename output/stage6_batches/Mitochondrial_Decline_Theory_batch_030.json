@@ -1,0 +1,186 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 30,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial Protein Quality Control and Mitophagy Theory",
+        "theory_ids": [
+          "T020291",
+          "T020360",
+          "T020548",
+          "T020338"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+        "theory_ids": [
+          "T020176",
+          "T020080",
+          "T020150",
+          "T020240",
+          "T020543",
+          "T020264"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+        "theory_ids": [
+          "T020658",
+          "T020354",
+          "T020602",
+          "T020193",
+          "T020321",
+          "T020270",
+          "T020244"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Signaling Theory",
+        "theory_ids": [
+          "T020528",
+          "T020400",
+          "T020218",
+          "T020593",
+          "T020475",
+          "T020672",
+          "T020416"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020291",
+          "subcluster_name": "Mitochondrial Protein Quality Control and Mitophagy Theory",
+          "reasoning": "Focuses on mitochondrial quality control mechanisms including proteases, chaperones, and mitophagy to maintain mitochondrial integrity and prevent aging."
+        },
+        {
+          "theory_id": "T020360",
+          "subcluster_name": "Mitochondrial Protein Quality Control and Mitophagy Theory",
+          "reasoning": "Emphasizes mitochondrial small heat shock proteins (chaperones) that maintain mitochondrial proteostasis and link stress resistance to lifespan."
+        },
+        {
+          "theory_id": "T020548",
+          "subcluster_name": "Mitochondrial Protein Quality Control and Mitophagy Theory",
+          "reasoning": "Describes mitochondrial protein quality control systems (chaperones, proteases) and their decline with age as drivers of mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T020338",
+          "subcluster_name": "Mitochondrial Protein Quality Control and Mitophagy Theory",
+          "reasoning": "Focuses on mitophagy induction via SKN-1/Nrf2 pathway as a key mitochondrial quality control mechanism that delays aging."
+        },
+        {
+          "theory_id": "T020176",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Centers on mitochondrial ROS production causing oxidative damage and a self-amplifying vicious cycle leading to aging."
+        },
+        {
+          "theory_id": "T020080",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Highlights mitochondrial ROS generation, oxidative damage to lipids and proteins, and decline in antioxidant defenses as aging drivers."
+        },
+        {
+          "theory_id": "T020150",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Focuses on mitochondrial free radical production causing mtDNA damage, respiratory chain decline, and cellular heterogeneity in aging."
+        },
+        {
+          "theory_id": "T020240",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Emphasizes mtDNA damage accumulation from free radicals impairing oxidative phosphorylation and driving systemic aging."
+        },
+        {
+          "theory_id": "T020543",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Describes mitochondrial free radical production and how caloric restriction reduces ROS generation to retard aging."
+        },
+        {
+          "theory_id": "T020264",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Details oxidative damage accumulation to mtDNA, proteins, and lipids from mitochondrial ROS causing mitochondrial decay and aging."
+        },
+        {
+          "theory_id": "T020658",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of mtDNA mutations causing mitochondrial failure, increased ROS, and a vicious cycle accelerating aging."
+        },
+        {
+          "theory_id": "T020354",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Describes high mtDNA mutation rate, clonal expansion in postmitotic cells, and resulting biochemical defects driving aging."
+        },
+        {
+          "theory_id": "T020602",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Emphasizes inherited and somatic mtDNA mutations causing bioenergetic decline and ROS-mediated damage accelerating aging."
+        },
+        {
+          "theory_id": "T020193",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Links mtDNA mutation accumulation to NAD+ depletion, UPRmt activation, and stem cell exhaustion causing intestinal aging."
+        },
+        {
+          "theory_id": "T020321",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Focuses on mtDNA mutation accumulation causing bioenergetic crisis, mitochondrial apoptosis, and tissue degeneration in aging."
+        },
+        {
+          "theory_id": "T020270",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Shows somatic mtDNA mutations cause respiratory chain dysfunction in bone cells, linking mtDNA mutation accumulation to systemic aging."
+        },
+        {
+          "theory_id": "T020244",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Describes mtDNA defects causing respiratory chain dysfunction and metabolic imbalances beyond free radicals driving aging."
+        },
+        {
+          "theory_id": "T020528",
+          "subcluster_name": "Mitochondrial Dysfunction and Signaling Theory",
+          "reasoning": "Focuses on mitochondrial damage accumulation, oxidative stress, and genetic regulation of mitochondrial aging pathways influencing lifespan."
+        },
+        {
+          "theory_id": "T020400",
+          "subcluster_name": "Mitochondrial Dysfunction and Signaling Theory",
+          "reasoning": "Emphasizes ETC dysfunction, ROS production, and adaptive responses modulating lifespan and aging across tissues and species."
+        },
+        {
+          "theory_id": "T020218",
+          "subcluster_name": "Mitochondrial Dysfunction and Signaling Theory",
+          "reasoning": "Describes mitochondrial functional decline, oxidative stress, mtDNA mutations, and membrane alterations impairing bioenergetics in aging."
+        },
+        {
+          "theory_id": "T020593",
+          "subcluster_name": "Mitochondrial Dysfunction and Signaling Theory",
+          "reasoning": "Links mitochondrial dysfunction and ROS accumulation induced by intermittent hypoxia and HIF-1 signaling to accelerated aging."
+        },
+        {
+          "theory_id": "T020475",
+          "subcluster_name": "Mitochondrial Dysfunction and Signaling Theory",
+          "reasoning": "Focuses on mitonuclear epistasis modulating mitochondrial function, rapamycin response, and age-specific mortality affecting aging."
+        },
+        {
+          "theory_id": "T020672",
+          "subcluster_name": "Mitochondrial Dysfunction and Signaling Theory",
+          "reasoning": "Describes age-related decline in mitochondrial energy utilization efficiency, compensatory mitochondrial density increase, and oxidative damage."
+        },
+        {
+          "theory_id": "T020416",
+          "subcluster_name": "Mitochondrial Dysfunction and Signaling Theory",
+          "reasoning": "Focuses on reversible mitochondrial oxidative stress regulatory inhibition causing skeletal muscle dysfunction and rapid functional restoration."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:50:45"
+}

@@ -1,0 +1,170 @@
+{
+  "cluster_name": "Circadian Clock Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Circadian Protein Regulation and Homeostasis Theory",
+        "theory_ids": [
+          "T025756",
+          "T023509",
+          "T027273",
+          "T016348",
+          "T016272",
+          "T017768",
+          "T027358",
+          "T025753"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Circadian Clock Synchronization and Cognitive Aging Theory",
+        "theory_ids": [
+          "T027149",
+          "T026263",
+          "T024471",
+          "T023781",
+          "T026778",
+          "T021131",
+          "T027057",
+          "T025306"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Circadian Oscillator Dynamics and Period Change Theory",
+        "theory_ids": [
+          "T025963",
+          "T016889",
+          "T021820",
+          "T003078"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Circadian Clock Theory",
+        "theory_ids": [
+          "T027310"
+        ],
+        "theory_count": 1,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "1 subclusters too small"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025756",
+          "subcluster_name": "Circadian Protein Regulation and Homeostasis Theory",
+          "reasoning": "Focuses on core circadian proteins (BMAL1, PERs) regulating tissue homeostasis, metabolism, ROS, and genotoxic stress, linking protein-level circadian regulation directly to aging phenotypes."
+        },
+        {
+          "theory_id": "T023509",
+          "subcluster_name": "Circadian Protein Regulation and Homeostasis Theory",
+          "reasoning": "Describes circadian clock regulation of antioxidant defense in photoreceptors via core clock proteins and Nrf2, emphasizing protein-level circadian control of oxidative stress and aging."
+        },
+        {
+          "theory_id": "T027273",
+          "subcluster_name": "Circadian Protein Regulation and Homeostasis Theory",
+          "reasoning": "Highlights CLOCK protein\u2019s role in cellular senescence, DNA repair, and interaction with aging pathways (mTOR, NF-\u03baB), focusing on circadian protein signaling in aging and homeostasis."
+        },
+        {
+          "theory_id": "T016348",
+          "subcluster_name": "Circadian Protein Regulation and Homeostasis Theory",
+          "reasoning": "Links clock genes with telomere maintenance and energy metabolism regulators (SIRT1, AMPK), integrating circadian protein function with cellular aging and mitochondrial health."
+        },
+        {
+          "theory_id": "T016272",
+          "subcluster_name": "Circadian Protein Regulation and Homeostasis Theory",
+          "reasoning": "Describes Clk protein\u2019s neuroprotective role independent of circadian rhythm, maintaining dopaminergic neurons and preventing premature locomotor aging, emphasizing protein-level clock functions."
+        },
+        {
+          "theory_id": "T017768",
+          "subcluster_name": "Circadian Protein Regulation and Homeostasis Theory",
+          "reasoning": "Focuses on circadian clock genes controlling metabolism and lifespan in Drosophila, showing diet-clock gene interactions affecting aging, highlighting protein-level circadian gene regulation."
+        },
+        {
+          "theory_id": "T027358",
+          "subcluster_name": "Circadian Protein Regulation and Homeostasis Theory",
+          "reasoning": "Connects clock gene polymorphisms and dysfunction to degenerative diseases and aging acceleration, emphasizing clock gene roles in systemic aging and disease."
+        },
+        {
+          "theory_id": "T025753",
+          "subcluster_name": "Circadian Protein Regulation and Homeostasis Theory",
+          "reasoning": "Describes central and peripheral clock coordination, circadian disruption accelerating aging, and caloric restriction resetting clocks, focusing on protein-level circadian modulation of aging."
+        },
+        {
+          "theory_id": "T027149",
+          "subcluster_name": "Circadian Clock Synchronization and Cognitive Aging Theory",
+          "reasoning": "Emphasizes circadian regulation of cognitive processes, loss of oscillations with aging, and restoration by caloric restriction, focusing on synchronization of clocks with feeding and cognition."
+        },
+        {
+          "theory_id": "T026263",
+          "subcluster_name": "Circadian Clock Synchronization and Cognitive Aging Theory",
+          "reasoning": "Focuses on circadian clock communication between tissues, age-related decay of this communication, and interventions to restore homeostasis, highlighting synchronization mechanisms in aging."
+        },
+        {
+          "theory_id": "T024471",
+          "subcluster_name": "Circadian Clock Synchronization and Cognitive Aging Theory",
+          "reasoning": "Describes tissue-specific rewiring of circadian transcriptomes with aging, preservation of core clock components, and calorie restriction preventing rewiring, emphasizing clock output synchronization."
+        },
+        {
+          "theory_id": "T023781",
+          "subcluster_name": "Circadian Clock Synchronization and Cognitive Aging Theory",
+          "reasoning": "Shows aged stem cells maintain core clock but reprogram rhythmic transcriptome to adapt to stress, with caloric restriction preventing reprogramming, focusing on circadian synchronization in stem cell aging."
+        },
+        {
+          "theory_id": "T026778",
+          "subcluster_name": "Circadian Clock Synchronization and Cognitive Aging Theory",
+          "reasoning": "Posits age-specific changes in circadian gene expression amplitudes and frequencies affecting systemic aging phenotypes, highlighting dynamic circadian gene regulation during aging."
+        },
+        {
+          "theory_id": "T021131",
+          "subcluster_name": "Circadian Clock Synchronization and Cognitive Aging Theory",
+          "reasoning": "Proposes multiple oscillator circadian mechanisms regulate metabolism and aging, with circadian disruption causing metabolic disorders, emphasizing systemic circadian synchronization in aging."
+        },
+        {
+          "theory_id": "T027057",
+          "subcluster_name": "Circadian Clock Synchronization and Cognitive Aging Theory",
+          "reasoning": "Links circadian rhythm disruptions to metabolic dysfunction, immune impairment, DNA damage, and aging-related diseases, and suggests interventions to maintain rhythms for healthy aging."
+        },
+        {
+          "theory_id": "T025306",
+          "subcluster_name": "Circadian Clock Synchronization and Cognitive Aging Theory",
+          "reasoning": "Focuses on circadian clocks regulating metabolism and aging via nutrient-sensing pathways and feeding timing, proposing circadian medicine to optimize antiaging interventions."
+        },
+        {
+          "theory_id": "T025963",
+          "subcluster_name": "Circadian Oscillator Dynamics and Period Change Theory",
+          "reasoning": "Uses mathematical modeling to explain age-dependent changes in circadian period via oscillator coupling strength and variability, focusing on oscillator population dynamics in aging."
+        },
+        {
+          "theory_id": "T016889",
+          "subcluster_name": "Circadian Oscillator Dynamics and Period Change Theory",
+          "reasoning": "Shows circadian clock aging correlates with physiological age and developmental rate, with faster development leading to accelerated circadian aging, linking oscillator aging to systemic aging."
+        },
+        {
+          "theory_id": "T021820",
+          "subcluster_name": "Circadian Oscillator Dynamics and Period Change Theory",
+          "reasoning": "Describes aging-related anatomical and functional changes in the SCN pacemaker, with photoperiod manipulation accelerating aging phenotypes, focusing on central oscillator aging dynamics."
+        },
+        {
+          "theory_id": "T003078",
+          "subcluster_name": "Circadian Oscillator Dynamics and Period Change Theory",
+          "reasoning": "Details oscillatory clock mechanisms including feedback loops, temperature compensation, and phase shifting, foundational to understanding circadian oscillator function and aging."
+        },
+        {
+          "theory_id": "T027310",
+          "subcluster_name": "Circadian Neuroimmunoendocrine Aging Theory",
+          "reasoning": "Focuses on circadian regulation of neuroimmunoendocrine systems, immunosenescence, hormonal modulation, and inflammation in aging, highlighting circadian control of integrated homeostatic systems."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:52:09"
+}

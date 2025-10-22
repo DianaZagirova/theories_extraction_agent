@@ -1,0 +1,149 @@
+{
+  "cluster_name": "Epigenetic Aging Clock Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Epigenetic Pacemaker Non-Linear Aging Clock Theory",
+        "theory_ids": [
+          "T001530",
+          "T001186",
+          "T000454"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T001226",
+          "subcluster_name": "Epigenetic Reprogramming and Plasticity Aging Clock Theory",
+          "reasoning": "Focuses on aging as an epigenetic state reversible by reprogramming, emphasizing plasticity and resetting of epigenetic marks."
+        },
+        {
+          "theory_id": "T000781",
+          "subcluster_name": "Epigenetic Regulation of Circadian and Cognitive Aging Clock Theory",
+          "reasoning": "Centers on epigenetic alterations disrupting circadian rhythms and cognitive decline, linking epigenetics to neural aging mechanisms."
+        },
+        {
+          "theory_id": "T000601",
+          "subcluster_name": "Transcription Factor-Mediated Epigenetic Memory Aging Clock Theory",
+          "reasoning": "Highlights transcriptional memory via dFOXO activation and chromatin remodeling as a mechanism programming aging outcomes."
+        },
+        {
+          "theory_id": "T001530",
+          "subcluster_name": "Epigenetic Pacemaker Non-Linear Aging Clock Theory",
+          "reasoning": "Models epigenetic aging as a non-linear, time-dependent biological age with coordinated methylation rate changes."
+        },
+        {
+          "theory_id": "T002195",
+          "subcluster_name": "Epigenetic Regulation and Environmental Modulation Aging Clock Theory",
+          "reasoning": "Emphasizes systemic epigenetic changes driving aging and their modulation by environmental factors like diet and toxins."
+        },
+        {
+          "theory_id": "T001447",
+          "subcluster_name": "Mitotic Stem Cell Division Epigenetic Aging Clock Theory",
+          "reasoning": "Focuses on methylation accumulation as a molecular clock reflecting stem cell division history and mitotic age."
+        },
+        {
+          "theory_id": "T003100",
+          "subcluster_name": "DNA Methylation Maintenance and Rejuvenation Aging Clock Theory",
+          "reasoning": "Centers on DNMT1's role in maintaining methylation patterns and how modulating it can restore youthful epigenetic states."
+        },
+        {
+          "theory_id": "T000177",
+          "subcluster_name": "Causality-Enriched DNA Methylation Aging Clock Theory",
+          "reasoning": "Distinguishes causal damaging and adaptive methylation changes using Mendelian Randomization to refine epigenetic clocks."
+        },
+        {
+          "theory_id": "T000435",
+          "subcluster_name": "Thermodynamic Information Theory of DNA Methylation Aging Clock",
+          "reasoning": "Models DNA methylation changes as thermodynamic and information processes linking entropy to epigenetic aging."
+        },
+        {
+          "theory_id": "T002855",
+          "subcluster_name": "Genetic and Biomarker Epigenetic Age Acceleration Clock Theory",
+          "reasoning": "Focuses on epigenetic age as a biomarker influenced by genetic variants and distinguishing intrinsic vs extrinsic aging."
+        },
+        {
+          "theory_id": "T002561",
+          "subcluster_name": "Latent DNA Methylation Signature Aging and Reprogramming Clock Theory",
+          "reasoning": "Identifies distinct latent methylation signatures reflecting reversible and irreversible aging components."
+        },
+        {
+          "theory_id": "T002633",
+          "subcluster_name": "Cell-Intrinsic Hematopoietic Epigenetic Aging Clock Theory",
+          "reasoning": "Proposes epigenetic aging as an intrinsic cellular process minimally influenced by external environment."
+        },
+        {
+          "theory_id": "T000784",
+          "subcluster_name": "Epigenetic Instability and Information Loss Aging Clock Theory",
+          "reasoning": "Describes aging as epigenetic drift and loss of methylation information leading to instability and functional decline."
+        },
+        {
+          "theory_id": "T001186",
+          "subcluster_name": "Epigenetic Pacemaker Non-Linear Aging Clock Theory",
+          "reasoning": "Shares core concepts with T001530 on non-linear epigenetic age modeling and coordinated methylation rate changes."
+        },
+        {
+          "theory_id": "T002998",
+          "subcluster_name": "Stem Cell Epigenetic Alteration and Aging Clock Theory",
+          "reasoning": "Focuses on accumulation of epigenetic errors in stem cells causing functional decline and aging."
+        },
+        {
+          "theory_id": "T001023",
+          "subcluster_name": "Evolutionarily Conserved DNA Methylation Aging Clock Theory",
+          "reasoning": "Highlights conserved epigenetic aging signatures across species and systemic organism-wide aging processes."
+        },
+        {
+          "theory_id": "T000454",
+          "subcluster_name": "Epigenetic Pacemaker Non-Linear Aging Clock Theory",
+          "reasoning": "Also models epigenetic age as a universal logarithmic function of chronological age with coordinated site changes."
+        },
+        {
+          "theory_id": "T000908",
+          "subcluster_name": "Pseudo-Programmed Developmental Epigenetic Aging Clock Theory",
+          "reasoning": "Views aging as a continuation of developmental epigenetic programs with reversible methylation changes."
+        },
+        {
+          "theory_id": "T002183",
+          "subcluster_name": "SET Domain Histone Modification Epigenetic Aging Clock Theory",
+          "reasoning": "Focuses on histone modification regulators (SET domain proteins) maintaining chromatin stability and lifespan."
+        },
+        {
+          "theory_id": "T001869",
+          "subcluster_name": "Epigenetic Clock Rejuvenation and Small Molecule Intervention Theory",
+          "reasoning": "Emphasizes reversibility of epigenetic aging and rejuvenation via small molecules and reprogramming factors."
+        },
+        {
+          "theory_id": "T002041",
+          "subcluster_name": "ATP-Dependent Chromatin Remodeler Epigenetic Aging Clock Theory",
+          "reasoning": "Highlights role of ATP-dependent chromatin remodelers in epigenetic regulation of aging and age-related disorders."
+        },
+        {
+          "theory_id": "T002874",
+          "subcluster_name": "Somatic Mutation-Driven Epigenetic Aging Clock Theory",
+          "reasoning": "Links accumulation of somatic mutations with DNA methylation remodeling as a coupled aging mechanism."
+        },
+        {
+          "theory_id": "T003070",
+          "subcluster_name": "Ribosomal DNA Methylation Conserved Aging Clock Theory",
+          "reasoning": "Focuses on rDNA hypermethylation as a conserved, universal epigenetic clock across species."
+        },
+        {
+          "theory_id": "T001677",
+          "subcluster_name": "Mitotic Division Epigenetic Molecular Clock Theory",
+          "reasoning": "Describes methylation accumulation at specific loci as a mitotic clock reflecting cell division history."
+        },
+        {
+          "theory_id": "T000987",
+          "subcluster_name": "Multifactorial Epigenetic Clock and Aging Mechanisms Theory",
+          "reasoning": "Integrates multiple epigenetic aging mechanisms and links to hallmarks of aging and mental health."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:21:24"
+}

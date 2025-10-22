@@ -1,0 +1,197 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 24,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+        "theory_ids": [
+          "T016245",
+          "T016206",
+          "T016218",
+          "T016263",
+          "T016005",
+          "T015979",
+          "T015981",
+          "T016324",
+          "T016134",
+          "T016219",
+          "T016256",
+          "T016312"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Caloric Restriction and Dietary Restriction Longevity Theory",
+        "theory_ids": [
+          "T016120",
+          "T016059",
+          "T016102",
+          "T015993",
+          "T016314",
+          "T016198",
+          "T016179",
+          "T016296"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Energy Allocation and Reproduction-Maintenance Tradeoff Theory",
+        "theory_ids": [
+          "T016029",
+          "T016220",
+          "T016094"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Energy Sensing and AMPK Activation Longevity Theory",
+        "theory_ids": [
+          "T015980",
+          "T015566"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016055",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Metabolic Reprogramming Theory",
+          "reasoning": "Focuses on insulin/IGF signaling pathway modulating aging via methionine metabolism reprogramming, linking IIS to metabolic flexibility and longevity."
+        },
+        {
+          "theory_id": "T016245",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Describes IIS and MAPK pathways regulating lifespan through stress resistance and antioxidant defense mechanisms."
+        },
+        {
+          "theory_id": "T016206",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Emphasizes ROS scavenging and IIS pathway transcription factors DAF-16 and SKN-1 in longevity and neuroprotection."
+        },
+        {
+          "theory_id": "T016218",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Links IIS pathway regulation of uric acid metabolism, ROS production, and FOXO-mediated oxidative stress mitigation."
+        },
+        {
+          "theory_id": "T016120",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Longevity Theory",
+          "reasoning": "Focuses on caloric restriction extending lifespan via systemic metabolic and physiological changes."
+        },
+        {
+          "theory_id": "T016263",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Describes DAF-16/FOXO3A-mediated stress response to oxidative DNA damage and its dysregulation accelerating aging."
+        },
+        {
+          "theory_id": "T016029",
+          "subcluster_name": "Energy Allocation and Reproduction-Maintenance Tradeoff Theory",
+          "reasoning": "Classic disposable soma theory emphasizing resource tradeoff between reproduction and somatic maintenance driving aging."
+        },
+        {
+          "theory_id": "T016059",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Longevity Theory",
+          "reasoning": "Describes dietary restriction extending lifespan via conserved nutrient sensing pathways including IIS, TOR, AMPK, and sirtuins."
+        },
+        {
+          "theory_id": "T016102",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Longevity Theory",
+          "reasoning": "Focuses on caloric restriction effects on lifespan, stress reduction, and molecular pathways including IIS and sirtuins."
+        },
+        {
+          "theory_id": "T016005",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Details IIS pathway regulation of aging via DAF-16 and HSF-1 transcription factors promoting stress resistance and longevity."
+        },
+        {
+          "theory_id": "T015979",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Describes lifespan extension by targeted reduction of IIS receptor DAF-2, highlighting timing and tissue specificity."
+        },
+        {
+          "theory_id": "T015993",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Longevity Theory",
+          "reasoning": "Focuses on dietary restriction mimetics extending lifespan via SKN-1 activation, independent of DAF-16."
+        },
+        {
+          "theory_id": "T015981",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Describes DAF-16-mediated stress resistance and longevity via IIS pathway, with partial ROS reduction independent of DAF-16."
+        },
+        {
+          "theory_id": "T016324",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Genome-wide RNAi screens highlight IIS components DAF-2, AGE-1, and DAF-16 as central regulators of longevity."
+        },
+        {
+          "theory_id": "T016220",
+          "subcluster_name": "Energy Allocation and Reproduction-Maintenance Tradeoff Theory",
+          "reasoning": "Describes disposable soma theory emphasizing energy allocation shifts between reproduction and maintenance under dietary restriction."
+        },
+        {
+          "theory_id": "T016134",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Focuses on IIS cascade controlling lifespan via DAF-16 nuclear translocation and antioxidant gene expression."
+        },
+        {
+          "theory_id": "T016219",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Describes IIS pathway modulation of oxidative stress defenses and lifespan extension in C. elegans."
+        },
+        {
+          "theory_id": "T016314",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Longevity Theory",
+          "reasoning": "Details tissue-specific transcriptional changes induced by caloric restriction linked to mitochondrial function and metabolism."
+        },
+        {
+          "theory_id": "T016198",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Longevity Theory",
+          "reasoning": "Describes metabolic and molecular pathways mediating caloric restriction effects on lifespan and healthspan."
+        },
+        {
+          "theory_id": "T016256",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Summarizes IIS pathway genes and DAF-16 as central regulators of lifespan and dauer diapause connection."
+        },
+        {
+          "theory_id": "T015980",
+          "subcluster_name": "Energy Sensing and AMPK Activation Longevity Theory",
+          "reasoning": "Focuses on S6K inhibition extending lifespan via ARGK-1-mediated AMPK activation and energy homeostasis regulation."
+        },
+        {
+          "theory_id": "T016179",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Longevity Theory",
+          "reasoning": "Discusses dietary restriction as an adaptive environmental response postponing aging and improving physiological functions."
+        },
+        {
+          "theory_id": "T016296",
+          "subcluster_name": "Caloric Restriction and Dietary Restriction Longevity Theory",
+          "reasoning": "Reports caloric restriction effects on health and survival in rhesus monkeys, including sex differences and diet composition effects."
+        },
+        {
+          "theory_id": "T016094",
+          "subcluster_name": "Energy Allocation and Reproduction-Maintenance Tradeoff Theory",
+          "reasoning": "Explores resource allocation tradeoffs shaping age-specific mortality and reproduction patterns driving senescence."
+        },
+        {
+          "theory_id": "T016312",
+          "subcluster_name": "Insulin/IGF-1 Signaling and Oxidative Stress Defense Theory",
+          "reasoning": "Links IIS pathway activity, body size, IGF-1 levels, and aging, highlighting hormonal regulation and cellular senescence."
+        },
+        {
+          "theory_id": "T015566",
+          "subcluster_name": "Energy Sensing and AMPK Activation Longevity Theory",
+          "reasoning": "Molecular mobility theory relates cytoplasmic molecular mobility to aging rates, connecting biochemical reaction kinetics to lifespan."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:09:25"
+}

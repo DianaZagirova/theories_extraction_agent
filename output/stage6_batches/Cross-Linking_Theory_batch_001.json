@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Cross-Linking Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+        "theory_ids": [
+          "T007398",
+          "T009034",
+          "T006755",
+          "T008598",
+          "T002891",
+          "T005728",
+          "T009463",
+          "T005722",
+          "T008262",
+          "T001242",
+          "T002350",
+          "T001408",
+          "T011602",
+          "T007166",
+          "T000464",
+          "T005170",
+          "T009364"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      },
+      {
+        "subcluster_name": "General Molecular Cross-Linking Theory",
+        "theory_ids": [
+          "T008532",
+          "T012443",
+          "T009090"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Maillard Reaction and AGE Cross-Linking Theory",
+        "theory_ids": [
+          "T006527",
+          "T009122",
+          "T007486"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Reactive Carbonyl and Glycation Damage Accumulation Theory",
+        "theory_ids": [
+          "T006512",
+          "T006541",
+          "T008809"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T007398",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Focuses on glycation driven by glucose intolerance and metabolic factors leading to AGE accumulation and aging."
+        },
+        {
+          "theory_id": "T009034",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Describes nonenzymatic glycation of collagen and AGE-induced cross-linking affecting tissue mechanics."
+        },
+        {
+          "theory_id": "T006755",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Links dietary glycemic index to systemic AGE accumulation and proteolytic dysfunction."
+        },
+        {
+          "theory_id": "T008598",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Focuses on non-enzymatic glycation of APP and AGE-RAGE signaling in Alzheimer\u2019s disease."
+        },
+        {
+          "theory_id": "T002891",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Describes collagen glycation and AGE cross-linking as drivers of tissue aging and diabetic complications."
+        },
+        {
+          "theory_id": "T005728",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Focuses on AGE accumulation causing vascular dysfunction and diabetic/aging complications."
+        },
+        {
+          "theory_id": "T009463",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Posits collagen cross-linking by AGEs as a fundamental aging mechanism affecting ECM and tissues."
+        },
+        {
+          "theory_id": "T008532",
+          "subcluster_name": "General Molecular Cross-Linking Theory",
+          "reasoning": "Describes molecular cross-linking broadly across proteins, DNA, and collagen as a universal aging mechanism."
+        },
+        {
+          "theory_id": "T006527",
+          "subcluster_name": "Maillard Reaction and AGE Cross-Linking Theory",
+          "reasoning": "Focuses on Maillard reaction chemistry producing AGEs and specific crosslinks like glucosepane causing ECM stiffening."
+        },
+        {
+          "theory_id": "T012443",
+          "subcluster_name": "General Molecular Cross-Linking Theory",
+          "reasoning": "Describes progressive intracellular and extracellular protein cross-linking causing molecular aggregates and aging."
+        },
+        {
+          "theory_id": "T005722",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Focuses on AGE accumulation on erythrocytes and receptor-mediated clearance as a cellular aging mechanism."
+        },
+        {
+          "theory_id": "T008262",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Describes AGE formation, protein crosslinking, and oxidative damage driving diabetic and aging complications."
+        },
+        {
+          "theory_id": "T001242",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Focuses on AGE accumulation causing vascular stiffness and tissue damage in aging and diabetes."
+        },
+        {
+          "theory_id": "T002350",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Describes Maillard reaction-driven AGE formation and their role in aging and multiple diseases."
+        },
+        {
+          "theory_id": "T001408",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Focuses on dietary AGEs, oxidative stress, and receptor-mediated AGE clearance influencing aging."
+        },
+        {
+          "theory_id": "T011602",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Describes AGE accumulation in skin collagen, RAGE activation, oxidative stress, and inflammation in aging."
+        },
+        {
+          "theory_id": "T006512",
+          "subcluster_name": "Reactive Carbonyl and Glycation Damage Accumulation Theory",
+          "reasoning": "Focuses on glycation by reactive dicarbonyls like glyoxal/methylglyoxal and enzymatic detoxification failure."
+        },
+        {
+          "theory_id": "T006541",
+          "subcluster_name": "Reactive Carbonyl and Glycation Damage Accumulation Theory",
+          "reasoning": "Describes endogenous alpha-oxoaldehydes forming AGEs and enzymatic defenses against glycation damage."
+        },
+        {
+          "theory_id": "T009122",
+          "subcluster_name": "Maillard Reaction and AGE Cross-Linking Theory",
+          "reasoning": "Focuses on Maillard reaction causing collagen browning and cross-linking in aging and diabetes."
+        },
+        {
+          "theory_id": "T007166",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Describes protein glycation and AGE accumulation linking aging and diabetes complications."
+        },
+        {
+          "theory_id": "T009090",
+          "subcluster_name": "General Molecular Cross-Linking Theory",
+          "reasoning": "Describes age-dependent protein cross-linking driven by oxygen free radicals, especially in collagen."
+        },
+        {
+          "theory_id": "T007486",
+          "subcluster_name": "Maillard Reaction and AGE Cross-Linking Theory",
+          "reasoning": "Focuses on Maillard reaction, AGE accumulation, oxidative processes, and tissue dysfunction in aging."
+        },
+        {
+          "theory_id": "T000464",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Describes collagen cross-linking by AGEs via Maillard reaction as a key aging mechanism."
+        },
+        {
+          "theory_id": "T005170",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Focuses on conserved glycopeptidase preventing toxic glycated protein accumulation in aging."
+        },
+        {
+          "theory_id": "T008809",
+          "subcluster_name": "Reactive Carbonyl and Glycation Damage Accumulation Theory",
+          "reasoning": "Describes methylglyoxal-driven AGE formation, glyoxalase detoxification, and AGE role in Alzheimer\u2019s disease."
+        },
+        {
+          "theory_id": "T009364",
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "reasoning": "Focuses on glucose concentration-dependent nonenzymatic glycation as a fundamental aging mechanism."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:41:34"
+}

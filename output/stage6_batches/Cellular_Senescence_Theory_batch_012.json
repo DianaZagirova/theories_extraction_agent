@@ -1,0 +1,221 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 12,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Genetically Programmed Cellular Senescence Theory",
+        "theory_ids": [
+          "T007591",
+          "T007799",
+          "T007248",
+          "T008121",
+          "T007519",
+          "T007122",
+          "T007918",
+          "T007854"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+        "theory_ids": [
+          "T007880",
+          "T006872",
+          "T006969",
+          "T006962",
+          "T007725",
+          "T006943",
+          "T007412",
+          "T008072",
+          "T007868",
+          "T007644",
+          "T007200",
+          "T007279",
+          "T008085",
+          "T007907",
+          "T008073",
+          "T006978"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction Theory",
+        "theory_ids": [
+          "T007674",
+          "T007155",
+          "T007125"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Autophagy Decline and Mitochondrial Dysfunction Senescence Theory",
+        "theory_ids": [
+          "T008087",
+          "T007605"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T007591",
+          "subcluster_name": "Genetically Programmed Cellular Senescence Theory",
+          "reasoning": "Focuses on genetic control and programming of senescence via specific genes and chromosomes."
+        },
+        {
+          "theory_id": "T007799",
+          "subcluster_name": "Genetically Programmed Cellular Senescence Theory",
+          "reasoning": "Emphasizes genetic programming and dominance of senescence phenotype controlled by limited genes."
+        },
+        {
+          "theory_id": "T007248",
+          "subcluster_name": "Genetically Programmed Cellular Senescence Theory",
+          "reasoning": "Describes epigenetic regulation of senescence genes (INK4/ARF locus) by ANRIL, linking genetic control to aging."
+        },
+        {
+          "theory_id": "T008121",
+          "subcluster_name": "Genetically Programmed Cellular Senescence Theory",
+          "reasoning": "Proposes loss of progenitor cells and differentiation as a genetically influenced program contributing to senescence."
+        },
+        {
+          "theory_id": "T007519",
+          "subcluster_name": "Genetically Programmed Cellular Senescence Theory",
+          "reasoning": "Suggests genetic/meristem intrinsic control of aging in trees analogous to programmed cellular senescence."
+        },
+        {
+          "theory_id": "T007122",
+          "subcluster_name": "Genetically Programmed Cellular Senescence Theory",
+          "reasoning": "MAPK pathway dysregulation as a genetically regulated signaling mechanism driving cellular senescence."
+        },
+        {
+          "theory_id": "T007918",
+          "subcluster_name": "Genetically Programmed Cellular Senescence Theory",
+          "reasoning": "Describes senescence as a coordinated phenotype from genetic signaling pathways balancing expansion and arrest."
+        },
+        {
+          "theory_id": "T007854",
+          "subcluster_name": "Genetically Programmed Cellular Senescence Theory",
+          "reasoning": "Cell death program as a genetically encoded mechanism contributing to aging and senescence."
+        },
+        {
+          "theory_id": "T007880",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Focuses on senescent cell antigen (band 3 protein) as a molecular marker triggering immune clearance."
+        },
+        {
+          "theory_id": "T006872",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Describes immune evasion of senescent cells via inhibitory immune checkpoints preventing clearance."
+        },
+        {
+          "theory_id": "T006969",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Details CK2 down-regulation activating NF-\u03baB signaling to induce SASP, linking molecular regulation to immune signaling."
+        },
+        {
+          "theory_id": "T006962",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "SASP-induced CD38 expression links senescence secretome to metabolic decline, a molecular marker-driven mechanism."
+        },
+        {
+          "theory_id": "T007725",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Focuses on senescent cell accumulation, SASP, and therapeutic targeting (senolytics) highlighting molecular markers."
+        },
+        {
+          "theory_id": "T006943",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Describes SASP and senescent cell accumulation as causal drivers of NAFLD, emphasizing molecular secretory phenotype."
+        },
+        {
+          "theory_id": "T007412",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Highlights senescent cell accumulation, SASP, and stem cell interaction as molecular and immune-related aging mechanisms."
+        },
+        {
+          "theory_id": "T008072",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Describes senescence as a multifunctional stress response with SASP mediating diverse molecular and immune effects."
+        },
+        {
+          "theory_id": "T007868",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Details replicative and stress-induced senescence with SASP contributing to kidney aging, emphasizing molecular markers."
+        },
+        {
+          "theory_id": "T007644",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Links stable cell cycle arrest and SASP to vascular aging and microaneurysm formation, focusing on molecular markers."
+        },
+        {
+          "theory_id": "T007200",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Describes replicative senescence, tumor suppressor pathways, and SASP in vascular aging, emphasizing molecular mechanisms."
+        },
+        {
+          "theory_id": "T007279",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "COPD as accelerated cellular senescence with telomere attrition and SASP-related molecular pathways."
+        },
+        {
+          "theory_id": "T008085",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Microglial replicative senescence with telomere-dependent and independent mechanisms, focusing on molecular and functional markers."
+        },
+        {
+          "theory_id": "T007907",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Describes replicative and postmitotic senescence with genomic instability and tumor suppressor pathways as molecular drivers."
+        },
+        {
+          "theory_id": "T008073",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Focuses on replicative senescence, SASP, and paracrine senescence amplifying tissue dysfunction via molecular signals."
+        },
+        {
+          "theory_id": "T006978",
+          "subcluster_name": "Molecular Marker and Immune Recognition Senescence Theory",
+          "reasoning": "Senescent fibroblasts impair wound healing via SASP and inflammation, highlighting molecular secretory phenotype effects."
+        },
+        {
+          "theory_id": "T007674",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction Theory",
+          "reasoning": "Focuses on senescent cell accumulation in white adipose tissue and SASP driving inflammageing and metabolic dysfunction."
+        },
+        {
+          "theory_id": "T007155",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction Theory",
+          "reasoning": "Describes senescence-induced oxidative stress causing endothelial dysfunction mediated by SASP and telomere shortening."
+        },
+        {
+          "theory_id": "T007125",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction Theory",
+          "reasoning": "ROS-mediated senescence activates tumor suppressors and SASP, linking oxidative stress to senescence phenotype."
+        },
+        {
+          "theory_id": "T008087",
+          "subcluster_name": "Autophagy Decline and Mitochondrial Dysfunction Senescence Theory",
+          "reasoning": "Focuses on age-related decline in autophagy and mitophagy leading to accumulation of damaged mitochondria and senescence."
+        },
+        {
+          "theory_id": "T007605",
+          "subcluster_name": "Autophagy Decline and Mitochondrial Dysfunction Senescence Theory",
+          "reasoning": "Describes age-related decline in autophagic proteolysis impairing cellular maintenance and promoting aging phenotypes."
+        },
+        {
+          "theory_id": "T007840",
+          "subcluster_name": "Nucleolus-Centered Cellular Senescence Theory",
+          "reasoning": "Emphasizes nucleolus and rDNA locus as central regulators of cellular senescence and aging mechanisms."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:06:59"
+}

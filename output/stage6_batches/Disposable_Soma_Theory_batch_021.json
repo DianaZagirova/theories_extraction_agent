@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 21,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+        "theory_ids": [
+          "T015103",
+          "T015221",
+          "T015177",
+          "T015171",
+          "T015029",
+          "T015114",
+          "T015201",
+          "T015310",
+          "T015111",
+          "T015256",
+          "T015044",
+          "T014806"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+        "theory_ids": [
+          "T015156",
+          "T015158",
+          "T015141",
+          "T015163",
+          "T015066",
+          "T015209",
+          "T015139",
+          "T015134",
+          "T015167",
+          "T015037"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling Downregulation Theory",
+        "theory_ids": [
+          "T015133",
+          "T015144",
+          "T015061",
+          "T015181"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015103",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "This theory focuses on dietary restriction effects mediated by Sir2 (sirtuins) and p53, linking calorie restriction to molecular genetic pathways involving sirtuins and hormonal regulation."
+        },
+        {
+          "theory_id": "T015221",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Emphasizes CR-induced activation of sirtuin-1 and autophagy, reducing inflammation and oxidative stress, fitting the sirtuin-centered CR mechanism."
+        },
+        {
+          "theory_id": "T015177",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Describes CR effects including sirtuin activation, autophagy, and metabolic/hormonal changes consistent with sirtuin and nutrient sensing pathways."
+        },
+        {
+          "theory_id": "T015171",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Details CR\u2019s modulation of sirtuins, AMPK, FOXO, and autophagy, highlighting conserved nutrient sensing and stress response pathways."
+        },
+        {
+          "theory_id": "T015029",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Focuses on CR\u2019s molecular and physiological responses including mTOR and insulin/IGF-1 signaling, with emphasis on CR mimetics and sirtuin-related pathways."
+        },
+        {
+          "theory_id": "T015114",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Describes CR\u2019s effects on IIS, TOR, and Ras-PKA pathways, stress resistance, and hormesis, consistent with sirtuin and nutrient sensing mechanisms."
+        },
+        {
+          "theory_id": "T015201",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Highlights CR\u2019s activation of AMPK, sirtuins, and mTOR signaling pathways, linking metabolic improvements to longevity."
+        },
+        {
+          "theory_id": "T015310",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Focuses on CR\u2019s modulation of immune function and inflammation via sirtuin pathways and gene regulation, fitting the sirtuin-centered CR theme."
+        },
+        {
+          "theory_id": "T015111",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Emphasizes CR\u2019s reduction of mitochondrial oxidative stress and activation of sirtuins and AMPK, consistent with sirtuin-p53 related CR mechanisms."
+        },
+        {
+          "theory_id": "T015256",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Describes CR\u2019s antioxidative effects, inflammation modulation, autophagy, and mitochondrial biogenesis, all linked to sirtuin and nutrient sensing pathways."
+        },
+        {
+          "theory_id": "T015044",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Focuses on CR\u2019s modulation of mTOR, immunometabolic checkpoints, and inflammaging, consistent with sirtuin and nutrient sensing mechanisms."
+        },
+        {
+          "theory_id": "T014806",
+          "subcluster_name": "Calorie Restriction and Sirtuin-p53 Pathway Theory",
+          "reasoning": "Details CR\u2019s effects on metabolic rate, oxidative stress, and biomarkers of longevity, fitting the sirtuin and nutrient sensing CR theme."
+        },
+        {
+          "theory_id": "T015156",
+          "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+          "reasoning": "Focuses on CR\u2019s metabolic remodeling in yeast, suppression of sulfur amino acid biosynthesis, and TOR1 pathway modulation, highlighting metabolic and TOR-centric mechanisms."
+        },
+        {
+          "theory_id": "T015158",
+          "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+          "reasoning": "Describes CR\u2019s slowing of metabolism and reduction of ROS production, emphasizing metabolic remodeling and protective responses linked to TOR signaling."
+        },
+        {
+          "theory_id": "T015141",
+          "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+          "reasoning": "Highlights CR\u2019s enhancement of mitochondrial stability and reduction of ROS in a fungal model, consistent with metabolic remodeling and mitochondrial maintenance."
+        },
+        {
+          "theory_id": "T015163",
+          "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+          "reasoning": "Focuses on CR\u2019s reduction of oxidative stress, apoptosis upregulation, immune modulation, and tumor suppression, fitting metabolic and mitochondrial remodeling themes."
+        },
+        {
+          "theory_id": "T015066",
+          "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+          "reasoning": "Emphasizes calorie intake\u2019s role in lifespan and disease delay, focusing on metabolic effects rather than macronutrient composition, consistent with metabolic remodeling."
+        },
+        {
+          "theory_id": "T015209",
+          "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+          "reasoning": "Describes chronic energy intake restriction\u2019s effects on immune function, cellular proliferation, and antioxidant defenses, fitting metabolic remodeling and immune maintenance."
+        },
+        {
+          "theory_id": "T015139",
+          "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+          "reasoning": "Focuses on CR\u2019s systemic effects on age-related pathology and metabolic pathways, consistent with metabolic remodeling and disease prevention."
+        },
+        {
+          "theory_id": "T015134",
+          "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+          "reasoning": "Highlights CR\u2019s conserved effects on aging and age-related diseases in primates, emphasizing systemic metabolic remodeling."
+        },
+        {
+          "theory_id": "T015167",
+          "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+          "reasoning": "Discusses CR and drug therapy overlap in delaying aging diseases via metabolic and vascular risk factor modulation, fitting metabolic remodeling."
+        },
+        {
+          "theory_id": "T015037",
+          "subcluster_name": "Calorie Restriction Metabolic Remodeling and TOR Pathway Theory",
+          "reasoning": "Details CR\u2019s dose-dependent lifespan extension, healthspan improvement, and metabolic/hormonal modulation, consistent with metabolic remodeling."
+        },
+        {
+          "theory_id": "T015133",
+          "subcluster_name": "Insulin/IGF-1 Signaling Downregulation Theory",
+          "reasoning": "Focuses on CR-induced downregulation of insulin/IGF-1 signaling and youthful transcriptional profiles, highlighting IIS pathway modulation."
+        },
+        {
+          "theory_id": "T015144",
+          "subcluster_name": "Insulin/IGF-1 Signaling Downregulation Theory",
+          "reasoning": "Describes IIS pathway regulation of lifespan via DAF-16/FOXO and genetic modulation, emphasizing insulin/IGF-1 signaling in aging."
+        },
+        {
+          "theory_id": "T015061",
+          "subcluster_name": "Insulin/IGF-1 Signaling Downregulation Theory",
+          "reasoning": "Details insulin/IGF-1 pathway\u2019s role in longevity, CR effects on IGF-1, and pharmacological modulation, fitting IIS downregulation mechanisms."
+        },
+        {
+          "theory_id": "T015181",
+          "subcluster_name": "Insulin/IGF-1 Signaling Downregulation Theory",
+          "reasoning": "Focuses on insulin/GH/IGF-I axis as a conserved longevity regulator and CR\u2019s modulation of this axis, emphasizing intracellular signaling."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:08:12"
+}

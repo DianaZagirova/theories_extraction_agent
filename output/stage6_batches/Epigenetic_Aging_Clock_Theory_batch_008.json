@@ -1,0 +1,183 @@
+{
+  "cluster_name": "Epigenetic Aging Clock Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+        "theory_ids": [
+          "T025951",
+          "T020822",
+          "T026068",
+          "T026818",
+          "T026537",
+          "T027114",
+          "T023892",
+          "T025670",
+          "T023025",
+          "T025012",
+          "T027419",
+          "T022606",
+          "T026552",
+          "T021923"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Stem Cell Epigenetic Dysregulation and Aging Theories",
+        "theory_ids": [
+          "T026367",
+          "T024925",
+          "T025007",
+          "T026693",
+          "T021754",
+          "T025596"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Oxidative Stress-Induced Epigenetic Aging Theories",
+        "theory_ids": [
+          "T026448",
+          "T024596"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Epigenetic Aging Clock Theory",
+        "theory_ids": [
+          "T010000",
+          "T027478"
+        ],
+        "theory_count": 2,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "1 subclusters too small, 1 theories not assigned"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025951",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "This theory focuses on DNA methylation patterns as biomarkers of aging and epigenetic clocks predicting chronological and biological age."
+        },
+        {
+          "theory_id": "T020822",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Describes DNA methylation accumulation as a mitotic clock linked to stem cell division and cancer risk, a specific form of epigenetic clock."
+        },
+        {
+          "theory_id": "T026068",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Focuses on exponential dynamics of DNA methylation changes with age, modeling methylation as a clock-like process."
+        },
+        {
+          "theory_id": "T026818",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Analyzes epigenetic clocks based on DNA methylation and their functional associations, linking clocks to mitochondrial aging."
+        },
+        {
+          "theory_id": "T026537",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Uses epigenetic clocks to show accelerated biological aging in epilepsy, linking DNA methylation age acceleration to disease."
+        },
+        {
+          "theory_id": "T027114",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Describes how lifestyle factors influence epigenetic clocks based on DNA methylation, affecting biological aging rates."
+        },
+        {
+          "theory_id": "T023892",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Focuses on psychological stress accelerating epigenetic aging via DNA methylation changes, measured by epigenetic clocks."
+        },
+        {
+          "theory_id": "T025670",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Discusses epigenetic inheritance of longevity through chromatin and DNA packaging changes affecting lifespan, related to epigenetic clocks."
+        },
+        {
+          "theory_id": "T023025",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Proposes adaptive DNA methylation changes with age involving PRC2 and CTCF, explaining systematic methylation shifts underlying epigenetic clocks."
+        },
+        {
+          "theory_id": "T025012",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Mathematical modeling of DNA methylation dynamics as a mechanism underlying aging, explaining bistability and methylation changes over time."
+        },
+        {
+          "theory_id": "T027419",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Describes DNA methylation dynamics in mammalian development and aging, linking methylation changes to senescence and disease."
+        },
+        {
+          "theory_id": "T022606",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Focuses on global DNA methylation decline with age and its impact on genome stability and cell function, a key epigenetic clock mechanism."
+        },
+        {
+          "theory_id": "T026552",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Combines DNA damage accumulation with DNA methylation changes as drivers of aging, linking epigenetic clocks to genome integrity."
+        },
+        {
+          "theory_id": "T021923",
+          "subcluster_name": "DNA Methylation-Based Epigenetic Clock Theories",
+          "reasoning": "Shows role of DNA methyltransferase dDnmt2 in Drosophila longevity, linking DNA methylation maintenance to lifespan regulation."
+        },
+        {
+          "theory_id": "T026367",
+          "subcluster_name": "Stem Cell Epigenetic Dysregulation and Aging Theories",
+          "reasoning": "Focuses on epigenetic alterations in stem cells driven by metabolic and mitochondrial stress affecting histone acetylation and differentiation."
+        },
+        {
+          "theory_id": "T024925",
+          "subcluster_name": "Stem Cell Epigenetic Dysregulation and Aging Theories",
+          "reasoning": "Describes histone acetylation changes regulating mesenchymal stem cell aging and differentiation, emphasizing epigenetic control over genetic instability."
+        },
+        {
+          "theory_id": "T025007",
+          "subcluster_name": "Stem Cell Epigenetic Dysregulation and Aging Theories",
+          "reasoning": "Details CLOCK protein's role in heterochromatin stabilization in stem cells, preventing senescence and promoting rejuvenation."
+        },
+        {
+          "theory_id": "T026693",
+          "subcluster_name": "Stem Cell Epigenetic Dysregulation and Aging Theories",
+          "reasoning": "Focuses on epigenetic dysregulation in neural stem cells leading to reduced neurogenesis and functional decline with age."
+        },
+        {
+          "theory_id": "T021754",
+          "subcluster_name": "Stem Cell Epigenetic Dysregulation and Aging Theories",
+          "reasoning": "Describes HDAC2-mediated histone deacetylation in brain aging, repressing gene expression and impairing cognitive function."
+        },
+        {
+          "theory_id": "T025596",
+          "subcluster_name": "Stem Cell Epigenetic Dysregulation and Aging Theories",
+          "reasoning": "Explores epigenetic dysregulation in cognitive aging, including histone modifications and DNA methylation affecting neuronal gene expression."
+        },
+        {
+          "theory_id": "T026448",
+          "subcluster_name": "Oxidative Stress-Induced Epigenetic Aging Theories",
+          "reasoning": "Proposes a feedback loop where oxidative stress from microplastics induces epigenetic changes that further exacerbate cellular aging."
+        },
+        {
+          "theory_id": "T024596",
+          "subcluster_name": "Oxidative Stress-Induced Epigenetic Aging Theories",
+          "reasoning": "Describes epigenetically active peptides influencing gene expression and protein stability, linking to longevity and resistance to oxidative damage."
+        },
+        {
+          "theory_id": "T027478",
+          "subcluster_name": "Developmental and Environmental Programming Epigenetic Aging Theories",
+          "reasoning": "Focuses on epigenetic reprogramming from early life stress and environmental inputs shaping lifelong aging trajectories."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:26:47"
+}

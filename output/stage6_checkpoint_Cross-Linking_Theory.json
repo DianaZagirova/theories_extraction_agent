@@ -1,0 +1,779 @@
+{
+  "cluster_name": "Cross-Linking Theory",
+  "batches_completed": 4,
+  "batch_results": [
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+          "theory_ids": [
+            "T007398",
+            "T009034",
+            "T006755",
+            "T008598",
+            "T002891",
+            "T005728",
+            "T009463",
+            "T005722",
+            "T008262",
+            "T001242",
+            "T002350",
+            "T001408",
+            "T011602",
+            "T007166",
+            "T000464",
+            "T005170",
+            "T009364"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 17
+        },
+        {
+          "subcluster_name": "General Molecular Cross-Linking Theory",
+          "theory_ids": [
+            "T008532",
+            "T012443",
+            "T009090"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        },
+        {
+          "subcluster_name": "Maillard Reaction and AGE Cross-Linking Theory",
+          "theory_ids": [
+            "T006527",
+            "T009122",
+            "T007486"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        },
+        {
+          "subcluster_name": "Reactive Carbonyl and Glycation Damage Accumulation Theory",
+          "theory_ids": [
+            "T006512",
+            "T006541",
+            "T008809"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T007398",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Focuses on glycation driven by glucose intolerance and metabolic factors leading to AGE accumulation and aging."
+          },
+          {
+            "theory_id": "T009034",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Describes nonenzymatic glycation of collagen and AGE-induced cross-linking affecting tissue mechanics."
+          },
+          {
+            "theory_id": "T006755",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Links dietary glycemic index to systemic AGE accumulation and proteolytic dysfunction."
+          },
+          {
+            "theory_id": "T008598",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Focuses on non-enzymatic glycation of APP and AGE-RAGE signaling in Alzheimer\u2019s disease."
+          },
+          {
+            "theory_id": "T002891",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Describes collagen glycation and AGE cross-linking as drivers of tissue aging and diabetic complications."
+          },
+          {
+            "theory_id": "T005728",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Focuses on AGE accumulation causing vascular dysfunction and diabetic/aging complications."
+          },
+          {
+            "theory_id": "T009463",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Posits collagen cross-linking by AGEs as a fundamental aging mechanism affecting ECM and tissues."
+          },
+          {
+            "theory_id": "T008532",
+            "subcluster_name": "General Molecular Cross-Linking Theory",
+            "reasoning": "Describes molecular cross-linking broadly across proteins, DNA, and collagen as a universal aging mechanism."
+          },
+          {
+            "theory_id": "T006527",
+            "subcluster_name": "Maillard Reaction and AGE Cross-Linking Theory",
+            "reasoning": "Focuses on Maillard reaction chemistry producing AGEs and specific crosslinks like glucosepane causing ECM stiffening."
+          },
+          {
+            "theory_id": "T012443",
+            "subcluster_name": "General Molecular Cross-Linking Theory",
+            "reasoning": "Describes progressive intracellular and extracellular protein cross-linking causing molecular aggregates and aging."
+          },
+          {
+            "theory_id": "T005722",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Focuses on AGE accumulation on erythrocytes and receptor-mediated clearance as a cellular aging mechanism."
+          },
+          {
+            "theory_id": "T008262",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Describes AGE formation, protein crosslinking, and oxidative damage driving diabetic and aging complications."
+          },
+          {
+            "theory_id": "T001242",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Focuses on AGE accumulation causing vascular stiffness and tissue damage in aging and diabetes."
+          },
+          {
+            "theory_id": "T002350",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Describes Maillard reaction-driven AGE formation and their role in aging and multiple diseases."
+          },
+          {
+            "theory_id": "T001408",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Focuses on dietary AGEs, oxidative stress, and receptor-mediated AGE clearance influencing aging."
+          },
+          {
+            "theory_id": "T011602",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Describes AGE accumulation in skin collagen, RAGE activation, oxidative stress, and inflammation in aging."
+          },
+          {
+            "theory_id": "T006512",
+            "subcluster_name": "Reactive Carbonyl and Glycation Damage Accumulation Theory",
+            "reasoning": "Focuses on glycation by reactive dicarbonyls like glyoxal/methylglyoxal and enzymatic detoxification failure."
+          },
+          {
+            "theory_id": "T006541",
+            "subcluster_name": "Reactive Carbonyl and Glycation Damage Accumulation Theory",
+            "reasoning": "Describes endogenous alpha-oxoaldehydes forming AGEs and enzymatic defenses against glycation damage."
+          },
+          {
+            "theory_id": "T009122",
+            "subcluster_name": "Maillard Reaction and AGE Cross-Linking Theory",
+            "reasoning": "Focuses on Maillard reaction causing collagen browning and cross-linking in aging and diabetes."
+          },
+          {
+            "theory_id": "T007166",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Describes protein glycation and AGE accumulation linking aging and diabetes complications."
+          },
+          {
+            "theory_id": "T009090",
+            "subcluster_name": "General Molecular Cross-Linking Theory",
+            "reasoning": "Describes age-dependent protein cross-linking driven by oxygen free radicals, especially in collagen."
+          },
+          {
+            "theory_id": "T007486",
+            "subcluster_name": "Maillard Reaction and AGE Cross-Linking Theory",
+            "reasoning": "Focuses on Maillard reaction, AGE accumulation, oxidative processes, and tissue dysfunction in aging."
+          },
+          {
+            "theory_id": "T000464",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Describes collagen cross-linking by AGEs via Maillard reaction as a key aging mechanism."
+          },
+          {
+            "theory_id": "T005170",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Focuses on conserved glycopeptidase preventing toxic glycated protein accumulation in aging."
+          },
+          {
+            "theory_id": "T008809",
+            "subcluster_name": "Reactive Carbonyl and Glycation Damage Accumulation Theory",
+            "reasoning": "Describes methylglyoxal-driven AGE formation, glyoxalase detoxification, and AGE role in Alzheimer\u2019s disease."
+          },
+          {
+            "theory_id": "T009364",
+            "subcluster_name": "AGE-Mediated Glycation and Metabolic Dysfunction Theory",
+            "reasoning": "Focuses on glucose concentration-dependent nonenzymatic glycation as a fundamental aging mechanism."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+          "theory_ids": [
+            "T018219",
+            "T018389",
+            "T014367",
+            "T017508",
+            "T017848",
+            "T018315",
+            "T015512",
+            "T014387",
+            "T015146",
+            "T019190",
+            "T018067",
+            "T013828",
+            "T018239",
+            "T018049",
+            "T017162",
+            "T017619"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 16
+        },
+        {
+          "subcluster_name": "Dietary Advanced Glycation Endproducts (AGEs) and Oxidative Stress Theory",
+          "theory_ids": [
+            "T018990",
+            "T014740",
+            "T014997",
+            "T015001",
+            "T017165"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 5
+        },
+        {
+          "subcluster_name": "General Cross-Linking Theory of Aging",
+          "theory_ids": [
+            "T014116",
+            "T014220"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 2
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T018219",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Focuses on AGE accumulation causing protein cross-linking and tissue stiffness, especially cardiovascular, with emphasis on reversibility by cross-link breakers."
+          },
+          {
+            "theory_id": "T018389",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Describes Maillard reaction-mediated AGE formation causing extracellular matrix cross-linking and tissue stiffening, linking metabolic conditions to accelerated aging."
+          },
+          {
+            "theory_id": "T014367",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Focuses on irreversible fluorescent AGE accumulation as a biomarker and causal molecular damage in aging, consistent with AGE cross-linking mechanisms."
+          },
+          {
+            "theory_id": "T017508",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Details protein glycation and AGE formation via Maillard reaction and reactive dicarbonyl intermediates causing collagen cross-linking in aging."
+          },
+          {
+            "theory_id": "T017848",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Describes AGE accumulation causing extracellular matrix cross-linking and dysfunction, plus receptor-mediated oxidative stress and inflammation."
+          },
+          {
+            "theory_id": "T018315",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Focuses on AGE accumulation and cross-linking in cartilage collagen leading to mechanical alterations and osteoarthritis, a tissue-specific AGE cross-linking effect."
+          },
+          {
+            "theory_id": "T015512",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Links glycoxidation rate of collagen (AGE cross-links) to species longevity and aging, emphasizing genetic control of AGE cross-linking kinetics."
+          },
+          {
+            "theory_id": "T018990",
+            "subcluster_name": "Dietary Advanced Glycation Endproducts (AGEs) and Oxidative Stress Theory",
+            "reasoning": "Emphasizes dietary AGEs as exogenous sources increasing systemic oxidative stress and inflammation, linking diet to AGE accumulation and aging."
+          },
+          {
+            "theory_id": "T014387",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Describes non-enzymatic glycation and AGE accumulation in collagen influenced by glucose metabolism and food restriction, consistent with AGE cross-linking."
+          },
+          {
+            "theory_id": "T014740",
+            "subcluster_name": "Dietary Advanced Glycation Endproducts (AGEs) and Oxidative Stress Theory",
+            "reasoning": "Focuses on dietary and endogenous AGE sources causing protein cross-linking, oxidative stress, and systemic aging, highlighting modifiable dietary impact."
+          },
+          {
+            "theory_id": "T015146",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Describes intracellular AGE accumulation causing proteotoxicity and mitochondrial dysfunction, with glycation inhibitors extending lifespan by reducing AGE cross-links."
+          },
+          {
+            "theory_id": "T019190",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Focuses on AGE accumulation causing protein cross-linking, tissue stiffening, and inflammation via RAGE, driving systemic aging and degenerative diseases."
+          },
+          {
+            "theory_id": "T018067",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Describes nonenzymatic glycation of proteins and nucleic acids forming AGEs that cross-link proteins and impair function, linking to aging and diabetic complications."
+          },
+          {
+            "theory_id": "T013828",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Details AGE formation and accumulation causing extracellular matrix cross-linking, oxidative stress, mitochondrial dysfunction, and RAGE-mediated signaling in aging."
+          },
+          {
+            "theory_id": "T014116",
+            "subcluster_name": "General Cross-Linking Theory of Aging",
+            "reasoning": "Broad crosslinking theory involving diverse endogenous crosslinking agents causing macromolecular immobilization and systemic aging effects beyond just AGEs."
+          },
+          {
+            "theory_id": "T018239",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Maillard reaction-driven AGE formation causing protein cross-linking, oxidative stress, and inflammation, with pharmacological interventions targeting AGE formation."
+          },
+          {
+            "theory_id": "T018049",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Proposes AGE accumulation as causal in aging via protein cross-linking and receptor-mediated oxidative stress, with detoxification pathways modulating effects."
+          },
+          {
+            "theory_id": "T014997",
+            "subcluster_name": "Dietary Advanced Glycation Endproducts (AGEs) and Oxidative Stress Theory",
+            "reasoning": "Highlights AGE accumulation from endogenous and dietary sources causing oxidative stress and inflammation, with kidney clearance and diet modulating systemic AGE levels."
+          },
+          {
+            "theory_id": "T015001",
+            "subcluster_name": "Dietary Advanced Glycation Endproducts (AGEs) and Oxidative Stress Theory",
+            "reasoning": "Focuses on dietary AGEs as oxidants increasing systemic oxidative stress and inflammation, with calorie restriction reducing AGE intake and extending lifespan."
+          },
+          {
+            "theory_id": "T017162",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Links plasma glucose levels to AGE accumulation causing molecular damage and aging, with caloric restriction lowering glucose and potentially retarding aging."
+          },
+          {
+            "theory_id": "T017165",
+            "subcluster_name": "Dietary Advanced Glycation Endproducts (AGEs) and Oxidative Stress Theory",
+            "reasoning": "Describes dietary AGEs increasing oxidative stress via receptor balance (AGER1/RAGE), with chronic intake suppressing defenses and calorie restriction mitigating effects."
+          },
+          {
+            "theory_id": "T014220",
+            "subcluster_name": "General Cross-Linking Theory of Aging",
+            "reasoning": "Focuses on protein and DNA cross-linking, especially collagen, causing decreased solubility and tissue aging, consistent with broad crosslinking mechanisms."
+          },
+          {
+            "theory_id": "T017619",
+            "subcluster_name": "Advanced Glycation Endproducts (AGE) Cross-Linking Theory",
+            "reasoning": "Describes Maillard reaction-driven AGE formation causing protein cross-linking and accumulation in long-lived proteins, contributing to tissue aging."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+          "theory_ids": [
+            "T020534",
+            "T019923",
+            "T019595",
+            "T021451",
+            "T020479",
+            "T021044",
+            "T024687",
+            "T020600",
+            "T021310",
+            "T023418",
+            "T022030",
+            "T019816",
+            "T022774",
+            "T024790",
+            "T024259",
+            "T019283",
+            "T020862",
+            "T021419",
+            "T020324"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 19
+        },
+        {
+          "subcluster_name": "Collagen Cross-Linking Theory of Aging",
+          "theory_ids": [
+            "T020023",
+            "T022018"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 2
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T020534",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Focuses on AGE formation, accumulation, and AGE-RAGE mediated inflammation causing tissue damage and systemic aging phenotypes."
+          },
+          {
+            "theory_id": "T019923",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Describes AGE accumulation as a fundamental aging process with AGE-RAGE signaling driving inflammation and tissue dysfunction."
+          },
+          {
+            "theory_id": "T019595",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Emphasizes AGE accumulation causing tissue damage and multisystem functional decline, with modifiability by diet and drugs."
+          },
+          {
+            "theory_id": "T021451",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Highlights AGE accumulation causing cardiovascular and renal aging pathology and prevention by AGE inhibitors."
+          },
+          {
+            "theory_id": "T020479",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Details non-enzymatic glycation, AGE formation, oxidative stress, and AGE-RAGE mediated tissue dysfunction."
+          },
+          {
+            "theory_id": "T021044",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Focuses on AGE cross-linking in cardiovascular aging and therapeutic reversal by AGE cross-link breakers."
+          },
+          {
+            "theory_id": "T024687",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Describes glycation-induced AGE cross-links in skin collagen causing extracellular matrix changes and skin aging."
+          },
+          {
+            "theory_id": "T020600",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Focuses on protein glycation and AGE accumulation in collagen and effects of dietary restriction on glycation."
+          },
+          {
+            "theory_id": "T021310",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Describes AGE-induced transcriptional changes causing inflammation, matrix remodeling, oxidative stress, and aging."
+          },
+          {
+            "theory_id": "T023418",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Focuses on AGE accumulation causing collagen cross-linking, oxidative stress, apoptosis, and tissue degeneration."
+          },
+          {
+            "theory_id": "T022030",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Describes glycation as a deleterious modification enhanced by hyperglycemia causing oxidative stress and aging."
+          },
+          {
+            "theory_id": "T019816",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Details protein glycation and AGE accumulation causing tissue stiffening, inflammation, and cardiovascular aging."
+          },
+          {
+            "theory_id": "T022774",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Focuses on extracellular matrix glycation crosslinks accumulation, mechanical stiffening, and therapeutic crosslink breakers."
+          },
+          {
+            "theory_id": "T024790",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Describes age-related acceleration of protein glycation (Maillard reaction) causing tissue protein dysfunction."
+          },
+          {
+            "theory_id": "T024259",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Focuses on AGE formation, oxidative stress, and cellular defense systems in skin aging."
+          },
+          {
+            "theory_id": "T019636",
+            "subcluster_name": "Glyoxalase Detoxification and AGE Accumulation Theory",
+            "reasoning": "Focuses on glyoxalase system detoxifying AGE precursors, its age-related decline, and impact on AGE accumulation and aging."
+          },
+          {
+            "theory_id": "T019283",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Describes endogenous and dietary AGE sources, AGE receptor roles, and oxidative stress feedback in aging."
+          },
+          {
+            "theory_id": "T020862",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Details glycation-induced cross-linking in connective tissue proteins altering mechanics and cell-matrix interactions."
+          },
+          {
+            "theory_id": "T021419",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Focuses on AGE cross-linking in cardiovascular ECM causing stiffness and receptor-mediated inflammation."
+          },
+          {
+            "theory_id": "T020324",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Theory of Aging",
+            "reasoning": "Describes AGE formation and cross-linking in arterial ECM causing stiffening and oxidative stress via AGE receptors."
+          },
+          {
+            "theory_id": "T020671",
+            "subcluster_name": "Nonenzymatic Post-Translational Modifications (NEPTMs) Competition Theory",
+            "reasoning": "Focuses on competition between glycation and carbamylation NEPTMs modifying collagen and matrix proteins in aging."
+          },
+          {
+            "theory_id": "T020023",
+            "subcluster_name": "Collagen Cross-Linking Theory of Aging",
+            "reasoning": "Describes enzymic and non-enzymic collagen cross-linking mechanisms and their impact on tissue mechanical properties."
+          },
+          {
+            "theory_id": "T022018",
+            "subcluster_name": "Collagen Cross-Linking Theory of Aging",
+            "reasoning": "Details enzymic lysyl oxidase and non-enzymic glycation cross-linking of collagen affecting turnover and mechanics."
+          },
+          {
+            "theory_id": "T017462",
+            "subcluster_name": "Non-Enzymic Post-Translational Modification (PTM) Theory of Aging",
+            "reasoning": "Covers broad non-enzymic PTMs including glycation, carbamylation, oxidation, racemization affecting protein structure and aging."
+          },
+          {
+            "theory_id": "T023997",
+            "subcluster_name": "Formaldehyde-Induced Protein Cross-Linking Theory",
+            "reasoning": "Focuses on formaldehyde-mediated protein cross-linking via Maillard reaction and its accumulation as aging biomarker."
+          },
+          {
+            "theory_id": "T021015",
+            "subcluster_name": "Connective Tissue Aging via Genetic and Epigenetic Mechanisms",
+            "reasoning": "Emphasizes genetic and epigenetic regulation of connective tissue aging including ECM modifications and cell-matrix signaling."
+          },
+          {
+            "theory_id": "T019282",
+            "subcluster_name": "Advanced Maillard Reaction-Derived Protein Cross-Linking Theory of Lens Aging",
+            "reasoning": "Describes Maillard reaction-derived fluorescent cross-links (vesperlysine A) in lens aging and diabetic cataractogenesis."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+          "theory_ids": [
+            "T025025",
+            "T025332",
+            "T026969",
+            "T027488",
+            "T025727",
+            "T001941",
+            "T024021",
+            "T027264",
+            "T025268",
+            "T006956",
+            "T024811",
+            "T025655",
+            "T025267",
+            "T025276",
+            "T025325",
+            "T024868",
+            "T025250",
+            "T008554",
+            "T025935",
+            "T000098",
+            "T019636"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 21
+        },
+        {
+          "subcluster_name": "Carbonyl and Oxidative Stress-Mediated Cross-Linking Theory",
+          "theory_ids": [
+            "T019180",
+            "T020671",
+            "T017462",
+            "T023997"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 4
+        },
+        {
+          "subcluster_name": "Transglutaminase-Mediated Enzymatic Crosslinking Theory",
+          "theory_ids": [
+            "T006023",
+            "T019233"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 2
+        },
+        {
+          "subcluster_name": "Connective Tissue Collagen Crosslinking and Aging Theory",
+          "theory_ids": [
+            "T014371",
+            "T021015",
+            "T019282"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 3
+        },
+        {
+          "subcluster_name": "Cross-Linking Theory",
+          "theory_ids": [
+            "T015567"
+          ],
+          "theory_count": 1,
+          "mechanism_focus": "",
+          "status": "singleton_warning",
+          "warning_reason": "1 subclusters too small"
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T025025",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Focuses on AGE formation, accumulation, RAGE receptor signaling, and inflammation as drivers of aging."
+          },
+          {
+            "theory_id": "T025332",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Describes non-enzymatic protein glycation leading to AGE accumulation and inflammation contributing to aging."
+          },
+          {
+            "theory_id": "T026969",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Links glycation byproducts like methylglyoxal to AGE formation, metabolic disruption, and systemic aging effects."
+          },
+          {
+            "theory_id": "T027488",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Focuses on AGE accumulation in brain causing proteostasis disruption and neuronal damage via inflammatory pathways."
+          },
+          {
+            "theory_id": "T025727",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Describes AGE accumulation in long-lived proteins and their biochemical effects including receptor-mediated inflammation."
+          },
+          {
+            "theory_id": "T001941",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "AGE cross-linking of arterial wall proteins and RAGE signaling cause arterial stiffening and vascular aging."
+          },
+          {
+            "theory_id": "T024021",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "AGE accumulation in lens proteins with genetic and environmental factors influencing glycation-related tissue damage."
+          },
+          {
+            "theory_id": "T027264",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Highlights endogenous and dietary AGE formation and their causal role in aging and chronic diseases."
+          },
+          {
+            "theory_id": "T025268",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Describes protein glycation and carbonyl stress leading to AGE accumulation and aging-related damage."
+          },
+          {
+            "theory_id": "T006956",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Focuses on pentosidine crosslinks formed by glycation in collagen contributing to tissue aging."
+          },
+          {
+            "theory_id": "T024811",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Maillard reaction leading to AGE formation and accumulation causing protein crosslinking and tissue dysfunction."
+          },
+          {
+            "theory_id": "T025655",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "AGE accumulation as a marker and causal factor in aging with inverse correlation to longevity."
+          },
+          {
+            "theory_id": "T025267",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "AGE accumulation in lens tissue correlates with aging and protein crosslinking."
+          },
+          {
+            "theory_id": "T025276",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Dietary sucrose influences AGE accumulation causing protein crosslinking and tissue dysfunction."
+          },
+          {
+            "theory_id": "T025325",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "AGEs upregulate elastase activity via receptor signaling, promoting extracellular matrix degradation."
+          },
+          {
+            "theory_id": "T024868",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "AGE accumulation in hippocampal neurons contributes to brain aging."
+          },
+          {
+            "theory_id": "T025250",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Pentosidine crosslink formation via glycation and oxidation contributes to protein damage and aging."
+          },
+          {
+            "theory_id": "T008554",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "AGEP accumulation in aging and Alzheimer\u2019s disease links glycation to neurodegeneration."
+          },
+          {
+            "theory_id": "T025935",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "AGE formation and RAGE interaction cause oxidative stress and inflammation driving aging-related diseases."
+          },
+          {
+            "theory_id": "T000098",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Intracellular glycation causes protein damage; FN3K enzyme mitigates glycation, linking to aging and diabetes."
+          },
+          {
+            "theory_id": "T019636",
+            "subcluster_name": "Advanced Glycation End Products (AGEs) Accumulation and Signaling Theory",
+            "reasoning": "Decline of glyoxalase detox system increases methylglyoxal and AGE accumulation, promoting aging."
+          },
+          {
+            "theory_id": "T019180",
+            "subcluster_name": "Carbonyl and Oxidative Stress-Mediated Cross-Linking Theory",
+            "reasoning": "Integrates free radical and glycation theories via carbonyl chemistry causing protein cross-linking and lipofuscin formation."
+          },
+          {
+            "theory_id": "T020671",
+            "subcluster_name": "Carbonyl and Oxidative Stress-Mediated Cross-Linking Theory",
+            "reasoning": "Nonenzymatic post-translational modifications including glycation and carbamylation compete to modify matrix proteins."
+          },
+          {
+            "theory_id": "T017462",
+            "subcluster_name": "Carbonyl and Oxidative Stress-Mediated Cross-Linking Theory",
+            "reasoning": "Non-enzymic PTMs such as glycation, carbamylation, oxidation accumulate with age causing protein dysfunction."
+          },
+          {
+            "theory_id": "T023997",
+            "subcluster_name": "Carbonyl and Oxidative Stress-Mediated Cross-Linking Theory",
+            "reasoning": "Formaldehyde-induced protein cross-linking via Maillard reaction contributes to systemic aging and protein dysfunction."
+          },
+          {
+            "theory_id": "T015567",
+            "subcluster_name": "Thiyl Radical-Mediated Hydrophobic Cross-Linking Theory",
+            "reasoning": "Thiyl radical formation in mitochondrial membrane proteins causes hydrophobic cross-links impairing longevity."
+          },
+          {
+            "theory_id": "T006023",
+            "subcluster_name": "Transglutaminase-Mediated Enzymatic Crosslinking Theory",
+            "reasoning": "Age-related increase in transglutaminase C activity causes enzymatic crosslinking of cellular and extracellular proteins."
+          },
+          {
+            "theory_id": "T019233",
+            "subcluster_name": "Transglutaminase-Mediated Enzymatic Crosslinking Theory",
+            "reasoning": "Transglutaminase crosslinks core histones altering chromatin and promoting cellular senescence."
+          },
+          {
+            "theory_id": "T014371",
+            "subcluster_name": "Connective Tissue Collagen Crosslinking and Aging Theory",
+            "reasoning": "Age-related collagen crosslinking and stabilization alter mechanical properties of connective tissues."
+          },
+          {
+            "theory_id": "T021015",
+            "subcluster_name": "Connective Tissue Collagen Crosslinking and Aging Theory",
+            "reasoning": "Connective tissue aging involves ECM protein modifications including glycation and altered cell-matrix interactions."
+          },
+          {
+            "theory_id": "T019282",
+            "subcluster_name": "Connective Tissue Collagen Crosslinking and Aging Theory",
+            "reasoning": "Advanced Maillard reaction products like vesperlysine A accumulate in lens proteins causing crosslinking and cataract."
+          }
+        ]
+      }
+    }
+  ],
+  "timestamp": "2025-10-22 11:43:04"
+}

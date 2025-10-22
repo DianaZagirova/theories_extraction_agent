@@ -1,0 +1,184 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 16,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+        "theory_ids": [
+          "T019640",
+          "T020190",
+          "T020234",
+          "T019855",
+          "T019618",
+          "T020059",
+          "T020213",
+          "T019713",
+          "T020229",
+          "T020281",
+          "T020194",
+          "T020181",
+          "T020343"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Molecular Damage Accumulation and Oxidative Stress Theory",
+        "theory_ids": [
+          "T019978",
+          "T019895",
+          "T019709",
+          "T020337",
+          "T019787",
+          "T020293"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Damage and Mutation Accumulation Theory",
+        "theory_ids": [
+          "T019997",
+          "T019755",
+          "T019519",
+          "T019772",
+          "T020242"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T019640",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on genome instability and DNA replication stress in nuclear DNA as a fundamental cause of aging."
+        },
+        {
+          "theory_id": "T020190",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes defective transcription-coupled nucleotide excision repair (TC-NER) in nuclear DNA causing accelerated aging."
+        },
+        {
+          "theory_id": "T020234",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Links homocysteine-induced DNA damage and impaired nuclear DNA repair to aging."
+        },
+        {
+          "theory_id": "T019855",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Emphasizes DNA damage accumulation and exonuclease roles in maintaining nuclear genome stability."
+        },
+        {
+          "theory_id": "T019618",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of nuclear DNA damage, DNA damage response, and genome maintenance systems."
+        },
+        {
+          "theory_id": "T020059",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Highlights DNA double-strand breaks in nuclear DNA as causal drivers of aging."
+        },
+        {
+          "theory_id": "T020213",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes DNA damage accumulation and impaired repair in hematopoietic stem cells' nuclear DNA."
+        },
+        {
+          "theory_id": "T019713",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Discusses organ-specific genome maintenance and DNA damage responses in nuclear DNA affecting aging."
+        },
+        {
+          "theory_id": "T020229",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on DNA damage accumulation and repair in adult tissue-specific stem cells' nuclear DNA."
+        },
+        {
+          "theory_id": "T020281",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Covers DNA damage response signaling and its role in nuclear genome maintenance and aging."
+        },
+        {
+          "theory_id": "T020194",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on oxidative DNA damage to nuclear DNA and its contribution to aging."
+        },
+        {
+          "theory_id": "T019978",
+          "subcluster_name": "Molecular Damage Accumulation and Oxidative Stress Theory",
+          "reasoning": "Describes accumulation of molecular damage including ROS-induced oxidative damage and glycation affecting aging."
+        },
+        {
+          "theory_id": "T019895",
+          "subcluster_name": "Molecular Damage Accumulation and Oxidative Stress Theory",
+          "reasoning": "Focuses on oxidative DNA damage accumulation and its causal role in cellular senescence and aging."
+        },
+        {
+          "theory_id": "T019709",
+          "subcluster_name": "Molecular Damage Accumulation and Oxidative Stress Theory",
+          "reasoning": "Broad molecular damage accumulation theory including genomic instability, protein damage, and metabolic dysfunction."
+        },
+        {
+          "theory_id": "T020337",
+          "subcluster_name": "Molecular Damage Accumulation and Oxidative Stress Theory",
+          "reasoning": "Describes decline in biological resilience due to accumulated molecular and cellular damage including oxidative stress."
+        },
+        {
+          "theory_id": "T019787",
+          "subcluster_name": "Molecular Damage Accumulation and Oxidative Stress Theory",
+          "reasoning": "Focuses on decline in stress resistance as a fundamental aging mechanism linked to accumulated damage."
+        },
+        {
+          "theory_id": "T020293",
+          "subcluster_name": "Molecular Damage Accumulation and Oxidative Stress Theory",
+          "reasoning": "Links decline of autophagy to accumulation of damaged molecules and mitochondria, increasing oxidative stress and inflammaging."
+        },
+        {
+          "theory_id": "T019700",
+          "subcluster_name": "Damage Segregation and Cellular Quality Control Theory",
+          "reasoning": "Focuses on asymmetric segregation of damaged cellular components during cell division to maintain cell population longevity."
+        },
+        {
+          "theory_id": "T019997",
+          "subcluster_name": "Mitochondrial DNA Damage and Mutation Accumulation Theory",
+          "reasoning": "Describes age-dependent accumulation of mitochondrial DNA mutations causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T019755",
+          "subcluster_name": "Mitochondrial DNA Damage and Mutation Accumulation Theory",
+          "reasoning": "Focuses on mitochondrial DNA damage accumulation and declining mitochondrial DNA repair contributing to aging."
+        },
+        {
+          "theory_id": "T019519",
+          "subcluster_name": "Mitochondrial DNA Damage and Mutation Accumulation Theory",
+          "reasoning": "Describes functional decline in mitochondria due to age-related mtDNA mutations and heteroplasmy effects."
+        },
+        {
+          "theory_id": "T019772",
+          "subcluster_name": "Mitochondrial DNA Damage and Mutation Accumulation Theory",
+          "reasoning": "DNA-PK links DNA damage sensing to mitochondrial loss and metabolic decline, connecting nuclear DNA damage response to mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T020242",
+          "subcluster_name": "Mitochondrial DNA Damage and Mutation Accumulation Theory",
+          "reasoning": "DNA-PKcs deficiency impairs DNA double-strand break repair and telomere maintenance, linking nuclear DNA repair defects to mitochondrial and aging phenotypes."
+        },
+        {
+          "theory_id": "T020181",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on genetic instability and somatic mutations in post-mitotic neurons' nuclear DNA contributing to aging."
+        },
+        {
+          "theory_id": "T020343",
+          "subcluster_name": "Nuclear Genome Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Emphasizes genome instability and decline in DNA repair capacity in brain cells leading to aging and neurodegeneration."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:51:15"
+}

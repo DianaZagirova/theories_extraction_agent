@@ -1,0 +1,167 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 7,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+        "theory_ids": [
+          "T010691",
+          "T010646",
+          "T010442",
+          "T010305",
+          "T010415",
+          "T010453",
+          "T010680",
+          "T010107",
+          "T009564",
+          "T010078",
+          "T010443",
+          "T010327",
+          "T010178",
+          "T009664",
+          "T010171",
+          "T010463",
+          "T010444",
+          "T010461",
+          "T009541",
+          "T009957",
+          "T010123"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 21
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T010691",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, mitochondrial damage, and the vicious cycle of oxidative stress and energetic decline."
+        },
+        {
+          "theory_id": "T010646",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Emphasizes mtDNA mutations caused by mitochondrial ROS and the resulting feedback loop increasing ROS and damage."
+        },
+        {
+          "theory_id": "T010442",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Highlights mitochondrial ROS production, membrane composition (cardiolipin), and evolutionary adaptations reducing ROS."
+        },
+        {
+          "theory_id": "T010305",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, antioxidant defense via mitochondrial NADPH and IDH2 enzyme, and oxidative damage accumulation."
+        },
+        {
+          "theory_id": "T010415",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes mitochondrial ROS as primary source of oxidative damage, decline in antioxidant defenses, and ROS-induced cellular senescence."
+        },
+        {
+          "theory_id": "T010453",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on chronic oxidative stress from mitochondrial ROS, its role in aging and healthspan, and antioxidant interventions."
+        },
+        {
+          "theory_id": "T010680",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes ROS accumulation from mitochondrial metabolism, imbalance of prooxidants/antioxidants, and lifestyle influences on oxidative stress."
+        },
+        {
+          "theory_id": "T010107",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links mitochondrial ROS production, membrane susceptibility, and antioxidant defenses to longevity differences across species."
+        },
+        {
+          "theory_id": "T009564",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Classic oxidative stress theory focusing on ROS damage accumulation, antioxidant defenses, and age-related increase in oxidative stress."
+        },
+        {
+          "theory_id": "T010078",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Free radical theory emphasizing mitochondrial ROS production, oxidative damage to biomolecules, and declining antioxidant defenses."
+        },
+        {
+          "theory_id": "T010443",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, oxidative damage accumulation, antioxidant defenses, and correlation with lifespan."
+        },
+        {
+          "theory_id": "T010327",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Discusses oxidative damage accumulation from mitochondrial ROS, antioxidant imbalance, and genetic manipulation effects on lifespan."
+        },
+        {
+          "theory_id": "T010178",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Posits ROS as causal agents of aging linked to life history evolution and metabolic trade-offs, focusing on mitochondrial ROS."
+        },
+        {
+          "theory_id": "T009664",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Explores ROS production increase due to reproduction, antioxidant defenses, and oxidative damage affecting aging."
+        },
+        {
+          "theory_id": "T010171",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, antioxidant defense, and ROS damage accumulation as central to aging."
+        },
+        {
+          "theory_id": "T010463",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes mitochondrial dysfunction increasing ROS, balance of oxidants/antioxidants, and ROS signaling roles in aging."
+        },
+        {
+          "theory_id": "T010444",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Summarizes oxidative damage accumulation from mitochondrial ROS and declining antioxidant defenses driving aging."
+        },
+        {
+          "theory_id": "T010461",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links mitochondrial ROS production rates inversely with longevity and oxidative damage as fundamental aging mechanism."
+        },
+        {
+          "theory_id": "T009541",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing mtDNA damage, mitochondrial dysfunction, altered redox state, and cellular defects."
+        },
+        {
+          "theory_id": "T009547",
+          "subcluster_name": "Free Radical and Nitrosative Stress Theory with Melatonin",
+          "reasoning": "Extends free radical theory to include reactive nitrogen species and highlights melatonin as an endogenous antioxidant mitigating oxidative/nitrosative stress."
+        },
+        {
+          "theory_id": "T009609",
+          "subcluster_name": "Mitohormesis and Adaptive Stress Response Theory",
+          "reasoning": "Focuses on mild mitochondrial stress inducing adaptive responses (mitohormesis) that enhance antioxidant defenses and promote longevity."
+        },
+        {
+          "theory_id": "T010526",
+          "subcluster_name": "ROS Homeostasis and Fluctuation Control Theory",
+          "reasoning": "Proposes that stability and homeostatic control of ROS levels, rather than absolute ROS minimization, determine aging and lifespan."
+        },
+        {
+          "theory_id": "T009500",
+          "subcluster_name": "Oxidative Stress-Regulated Gene Expression and Developmental Aging Theory",
+          "reasoning": "Suggests oxidative stress regulates gene expression changes during differentiation and aging, linking metabolism, oxidative stress, and genetic programs."
+        },
+        {
+          "theory_id": "T009957",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Classic free radical theory emphasizing ROS damage accumulation and antioxidant enzyme activity correlating with lifespan."
+        },
+        {
+          "theory_id": "T010123",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links basal metabolic rate to mitochondrial ROS production and oxidative damage accumulation driving metabolic aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:27:46"
+}

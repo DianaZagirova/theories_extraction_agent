@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 25,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+        "theory_ids": [
+          "T019793",
+          "T019799",
+          "T019664",
+          "T019806",
+          "T019532",
+          "T019770",
+          "T019775",
+          "T019457",
+          "T019596",
+          "T019762",
+          "T019586",
+          "T019440"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Tumor Suppressor Pathways and Senescence Growth Arrest Theory",
+        "theory_ids": [
+          "T019404",
+          "T019536",
+          "T019493",
+          "T019499",
+          "T019630"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Oxidative Stress and DNA Damage-Induced Senescence Theory",
+        "theory_ids": [
+          "T019471",
+          "T019698",
+          "T019492",
+          "T019791"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Metabolic Reprogramming and Mitochondrial Dysfunction-Associated Senescence Theory",
+        "theory_ids": [
+          "T019465",
+          "T019463",
+          "T019504",
+          "T019477",
+          "T019410"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T019793",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on accumulation of senescent cells, SASP secretion, and their systemic impact on aging and inflammation."
+        },
+        {
+          "theory_id": "T019799",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Describes senescent cell accumulation in bone, SASP effects, and resistance to apoptosis contributing to aging."
+        },
+        {
+          "theory_id": "T019664",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Emphasizes senescent cells in bone microenvironment, SASP-driven inflammation, and therapeutic clearance effects."
+        },
+        {
+          "theory_id": "T019806",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Highlights senescent cell EV secretion as part of SASP and systemic aging communication."
+        },
+        {
+          "theory_id": "T019532",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on senescence growth arrest, DNA damage response, and SASP in T cell aging."
+        },
+        {
+          "theory_id": "T019770",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Describes senescent cell accumulation, SCAPs anti-apoptotic pathways, SASP, and senolytic therapies."
+        },
+        {
+          "theory_id": "T019775",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "General overview of senescence as stable growth arrest, accumulation with age, and metabolically active SASP phenotype."
+        },
+        {
+          "theory_id": "T019457",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Details stable cell cycle arrest, SASP secretion, senescent cell accumulation, and contribution to age-related diseases."
+        },
+        {
+          "theory_id": "T019596",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on senescence growth arrest, SASP, DNA damage, and interaction with innate immunity in brain aging."
+        },
+        {
+          "theory_id": "T019762",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Describes senescence as aging driver, SASP promoting inflammation and cancer, and tumor suppressor pathways."
+        },
+        {
+          "theory_id": "T019586",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on senescent cell accumulation in skin, SASP-driven inflammaging, and immune cell cross-talk."
+        },
+        {
+          "theory_id": "T019440",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Emphasizes mitochondrial role in senescence and SASP, linking senescence to tissue dysfunction and aging."
+        },
+        {
+          "theory_id": "T019404",
+          "subcluster_name": "Tumor Suppressor Pathways and Senescence Growth Arrest Theory",
+          "reasoning": "Focuses on irreversible growth arrest, tumor suppressor pathways (p16Ink4a/Rb, p53/p21), and senescence as tumor suppression."
+        },
+        {
+          "theory_id": "T019536",
+          "subcluster_name": "Tumor Suppressor Pathways and Senescence Growth Arrest Theory",
+          "reasoning": "Describes chromatin remodeling (SAHF), pRB and p53 pathways enforcing stable senescence growth arrest and tumor suppression."
+        },
+        {
+          "theory_id": "T019493",
+          "subcluster_name": "Tumor Suppressor Pathways and Senescence Growth Arrest Theory",
+          "reasoning": "Details Ink4/Arf locus role in tumor suppression, senescence regulation, and anti-aging effects via quiescence."
+        },
+        {
+          "theory_id": "T019499",
+          "subcluster_name": "Tumor Suppressor Pathways and Senescence Growth Arrest Theory",
+          "reasoning": "Focuses on oncogene-induced senescence, telomere shortening, DNA damage, and immune clearance in tumor suppression."
+        },
+        {
+          "theory_id": "T019630",
+          "subcluster_name": "Tumor Suppressor Pathways and Senescence Growth Arrest Theory",
+          "reasoning": "Describes finite replicative capacity of normal cells as intrinsic aging mechanism linked to senescence and tumor cell immortalization."
+        },
+        {
+          "theory_id": "T019471",
+          "subcluster_name": "Oxidative Stress and DNA Damage-Induced Senescence Theory",
+          "reasoning": "Focuses on oxidative stress causing senescence, lipofuscin accumulation, and genetic mutations accelerating aging."
+        },
+        {
+          "theory_id": "T019698",
+          "subcluster_name": "Oxidative Stress and DNA Damage-Induced Senescence Theory",
+          "reasoning": "Describes neutrophil ROS causing telomere oxidation (TelOxidation), telomere dysfunction, and senescence induction."
+        },
+        {
+          "theory_id": "T019492",
+          "subcluster_name": "Oxidative Stress and DNA Damage-Induced Senescence Theory",
+          "reasoning": "Details DNA damage response, p53 role in DDR, persistent damage causing senescence, and aging."
+        },
+        {
+          "theory_id": "T019791",
+          "subcluster_name": "Oxidative Stress and DNA Damage-Induced Senescence Theory",
+          "reasoning": "Focuses on p53 regulation of oxidative stress responses, balancing antioxidant and prooxidant activities affecting aging."
+        },
+        {
+          "theory_id": "T019465",
+          "subcluster_name": "Metabolic Reprogramming and Mitochondrial Dysfunction-Associated Senescence Theory",
+          "reasoning": "Describes metabolic changes in senescent cells, mitochondrial dysfunction-associated senescence (MiDAS), and SASP regulation."
+        },
+        {
+          "theory_id": "T019463",
+          "subcluster_name": "Metabolic Reprogramming and Mitochondrial Dysfunction-Associated Senescence Theory",
+          "reasoning": "Focuses on neuronal senescence driven by proteostasis failure, mTOR regulation, and neuroprotective senescence phenotype."
+        },
+        {
+          "theory_id": "T019504",
+          "subcluster_name": "Metabolic Reprogramming and Mitochondrial Dysfunction-Associated Senescence Theory",
+          "reasoning": "Describes Caveolin-1 deficiency causing mTOR hyperactivation, mitochondrial dysfunction, and stromal aging promoting tumor growth."
+        },
+        {
+          "theory_id": "T019477",
+          "subcluster_name": "Metabolic Reprogramming and Mitochondrial Dysfunction-Associated Senescence Theory",
+          "reasoning": "Focuses on autophagy decline with age, its regulation by longevity pathways, and impact on cellular homeostasis and aging."
+        },
+        {
+          "theory_id": "T019410",
+          "subcluster_name": "Metabolic Reprogramming and Mitochondrial Dysfunction-Associated Senescence Theory",
+          "reasoning": "Describes noncanonical autophagy gene functions in neuronal waste extrusion and lifespan extension, linking autophagy to aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:16:47"
+}

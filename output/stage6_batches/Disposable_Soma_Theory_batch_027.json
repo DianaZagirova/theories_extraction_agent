@@ -1,0 +1,190 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 27,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+        "theory_ids": [
+          "T016974",
+          "T017127",
+          "T017271",
+          "T016999",
+          "T017385",
+          "T016933",
+          "T016980",
+          "T016932",
+          "T017079",
+          "T016923",
+          "T017101",
+          "T016965",
+          "T017181",
+          "T017021"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "Resource Allocation Disposable Soma Theory",
+        "theory_ids": [
+          "T017225",
+          "T017267",
+          "T017334",
+          "T017087",
+          "T017344",
+          "T017368",
+          "T017045"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Calorie Restriction and Mimetics Theory",
+        "theory_ids": [
+          "T017367",
+          "T017374",
+          "T017077",
+          "T017354"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016974",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on IIS pathway regulation of aging, conserved mechanisms, and molecular signaling components."
+        },
+        {
+          "theory_id": "T017127",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Describes IIS reduction effects on aging and neurodegeneration, emphasizing proteostasis and conserved mechanisms."
+        },
+        {
+          "theory_id": "T017271",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Details IIS downregulation effects on lifespan, autophagy, and oxidative stress linking IIS to aging."
+        },
+        {
+          "theory_id": "T016999",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Covers evolutionary conservation of IIS, stress resistance, and trade-offs with growth and reproduction."
+        },
+        {
+          "theory_id": "T017385",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on IIS as a conserved genetic aging regulator and lifespan modulator."
+        },
+        {
+          "theory_id": "T016933",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Explores IIS regulation in Drosophila metabolism and lifespan with stage-specific effects."
+        },
+        {
+          "theory_id": "T016980",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Highlights IIS pathway conservation, oxidative stress resistance, and tissue-specific regulation."
+        },
+        {
+          "theory_id": "T016932",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Describes partial inactivation of IIS components (p110\u03b1 PI3K) and metabolic effects on aging."
+        },
+        {
+          "theory_id": "T017079",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Summarizes IIS mutations extending lifespan and protecting against age-related diseases."
+        },
+        {
+          "theory_id": "T016923",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Focuses on IIS reduction maintaining neural circuit function via gap junction protein trafficking."
+        },
+        {
+          "theory_id": "T017101",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Details neuronal IGF-1R signaling in aging and Alzheimer's disease pathology modulation."
+        },
+        {
+          "theory_id": "T016965",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Describes IIS regulation of longevity in C. elegans via DAF-16/FOXO and stress response genes."
+        },
+        {
+          "theory_id": "T017181",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Links IIS pathway to dietary modulation and epigenetic aspects of longevity."
+        },
+        {
+          "theory_id": "T017021",
+          "subcluster_name": "Insulin/IGF Signaling Pathway Theory of Aging",
+          "reasoning": "Covers conserved genetic regulation of lifespan via IIS and somatotropic axis involvement."
+        },
+        {
+          "theory_id": "T016805",
+          "subcluster_name": "Growth Hormone/IGF-1 Axis Disposable Soma Theory",
+          "reasoning": "Focuses on GH receptor disruption effects on insulin sensitivity and lifespan, linking GH/IGF-1 axis to aging."
+        },
+        {
+          "theory_id": "T017225",
+          "subcluster_name": "Resource Allocation Disposable Soma Theory",
+          "reasoning": "Classic disposable soma theory emphasizing resource allocation trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T017267",
+          "subcluster_name": "Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes resource allocation trade-offs and polygenic control of longevity via somatic maintenance."
+        },
+        {
+          "theory_id": "T017334",
+          "subcluster_name": "Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on metabolic resource allocation trade-offs influencing maintenance efficiency and lifespan."
+        },
+        {
+          "theory_id": "T017087",
+          "subcluster_name": "Resource Allocation Disposable Soma Theory",
+          "reasoning": "Emphasizes evolutionary neglect post-reproduction and biological warranty period in disposable soma framework."
+        },
+        {
+          "theory_id": "T017344",
+          "subcluster_name": "Resource Allocation Disposable Soma Theory",
+          "reasoning": "Links energy allocation trade-offs to accumulation of cellular injury and inflammation in aging."
+        },
+        {
+          "theory_id": "T017368",
+          "subcluster_name": "Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes trade-offs between survival and early-life fitness mediated by oxidative stress resistance."
+        },
+        {
+          "theory_id": "T017045",
+          "subcluster_name": "Resource Allocation Disposable Soma Theory",
+          "reasoning": "Proposes reproductive switch modulating internal milieu and aging via resource allocation and leptin signaling."
+        },
+        {
+          "theory_id": "T017367",
+          "subcluster_name": "Calorie Restriction and Mimetics Theory",
+          "reasoning": "Focuses on calorie restriction effects on lifespan extension and development of CR mimetics."
+        },
+        {
+          "theory_id": "T017374",
+          "subcluster_name": "Calorie Restriction and Mimetics Theory",
+          "reasoning": "Describes calorie restriction as a longevity intervention improving metabolic health and delaying aging."
+        },
+        {
+          "theory_id": "T017077",
+          "subcluster_name": "Calorie Restriction and Mimetics Theory",
+          "reasoning": "Details traditional caloric restriction effects on healthy aging and disease risk reduction."
+        },
+        {
+          "theory_id": "T017354",
+          "subcluster_name": "Calorie Restriction and Mimetics Theory",
+          "reasoning": "Covers CR mimetics, metabolic shifts, insulin signaling modulation, and stress resistance."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:10:43"
+}

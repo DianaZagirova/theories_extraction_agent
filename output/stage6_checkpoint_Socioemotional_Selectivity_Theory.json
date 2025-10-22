@@ -1,0 +1,341 @@
+{
+  "cluster_name": "Socioemotional Selectivity Theory",
+  "batches_completed": 2,
+  "batch_results": [
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+          "theory_ids": [
+            "T004235",
+            "T001770",
+            "T008935",
+            "T001391",
+            "T007191",
+            "T003222",
+            "T008926",
+            "T008416",
+            "T000100",
+            "T004987",
+            "T007189",
+            "T007308",
+            "T007250",
+            "T004765",
+            "T002207"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 15
+        },
+        {
+          "subcluster_name": "Emotional Regulation and Positivity Effect Socioemotional Selectivity Theory",
+          "theory_ids": [
+            "T006999",
+            "T004643",
+            "T007915",
+            "T008471",
+            "T003544",
+            "T008639",
+            "T002024"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 7
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T004235",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on perceived time horizon shaping motivation and goal prioritization, emphasizing motivational shifts from knowledge to emotional goals."
+          },
+          {
+            "theory_id": "T001770",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Highlights future time perspective constraining motivation and goal adjustment with age, mediating proactive behavior."
+          },
+          {
+            "theory_id": "T008935",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Emphasizes shrinking future time perspective driving motivational shifts and selective social interaction."
+          },
+          {
+            "theory_id": "T001391",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Describes dual trajectories of affective experience driven by motivational shifts linked to perceived time horizons."
+          },
+          {
+            "theory_id": "T007191",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on time perspective influencing motivational goals and positivity effect as a consequence of motivational shift."
+          },
+          {
+            "theory_id": "T003222",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Centers on future time perspective and subjective age shaping social goals and friend network prioritization."
+          },
+          {
+            "theory_id": "T008926",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Highlights time perspective as motivational driver influencing emotional memory and prioritization of emotional meaningfulness."
+          },
+          {
+            "theory_id": "T008416",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Describes limited future temporal perspective shifting motivation toward emotional goals and positivity effect."
+          },
+          {
+            "theory_id": "T000100",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Details time perspective driving goal priorities, social preferences, positivity effect, and trade-offs in health decisions."
+          },
+          {
+            "theory_id": "T004987",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Explains time horizons shaping goal priorities and motivational shifts driving cognitive positivity effects."
+          },
+          {
+            "theory_id": "T007189",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on time horizon perspective influencing consumer behavior and social selectivity with age."
+          },
+          {
+            "theory_id": "T007308",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Emphasizes motivational shifts driven by awareness of limited future time leading to social selectivity."
+          },
+          {
+            "theory_id": "T007250",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Highlights future time perspective as key to social network changes and emotion regulation through social ties."
+          },
+          {
+            "theory_id": "T004765",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Describes time perspective driving motivation and social partner choice, especially in life-threatening contexts."
+          },
+          {
+            "theory_id": "T002207",
+            "subcluster_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on time horizons influencing social motivation and fluidity of social preferences under mortality salience."
+          },
+          {
+            "theory_id": "T006999",
+            "subcluster_name": "Emotional Regulation and Positivity Effect Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on motivational shift to emotional goals, positivity effect, and emotional self-regulation via autobiographical memory."
+          },
+          {
+            "theory_id": "T004643",
+            "subcluster_name": "Emotional Regulation and Positivity Effect Socioemotional Selectivity Theory",
+            "reasoning": "Emphasizes emotion regulation strategies and positivity effect supporting emotional well-being in aging."
+          },
+          {
+            "theory_id": "T007915",
+            "subcluster_name": "Emotional Regulation and Positivity Effect Socioemotional Selectivity Theory",
+            "reasoning": "Describes affective prioritization, positivity effect, and motivational shifts influencing cognitive processing."
+          },
+          {
+            "theory_id": "T008471",
+            "subcluster_name": "Emotional Regulation and Positivity Effect Socioemotional Selectivity Theory",
+            "reasoning": "Highlights positivity effect moderated by cognitive control in older adults."
+          },
+          {
+            "theory_id": "T003544",
+            "subcluster_name": "Emotional Regulation and Positivity Effect Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on motivated cognitive control, selective attention to emotion, and positivity effect in aging brain."
+          },
+          {
+            "theory_id": "T008639",
+            "subcluster_name": "Emotional Regulation and Positivity Effect Socioemotional Selectivity Theory",
+            "reasoning": "Describes improved emotional control, optimization of positive experiences, and selective emotional regulation with age."
+          },
+          {
+            "theory_id": "T002024",
+            "subcluster_name": "Emotional Regulation and Positivity Effect Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on positivity effect in attention requiring cognitive control and prioritization of emotional goals."
+          },
+          {
+            "theory_id": "T003043",
+            "subcluster_name": "Neural and Cognitive Resource Allocation Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on differential aging effects on cognitive vs affective functions and selective resource allocation to socioemotional goals."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+          "theory_ids": [
+            "T009335",
+            "T026402",
+            "T020260",
+            "T012424",
+            "T016782",
+            "T023356",
+            "T013260",
+            "T016639",
+            "T009540",
+            "T025857",
+            "T020805"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 11
+        },
+        {
+          "subcluster_name": "Positivity Effect and Cognitive-Affective Processing Socioemotional Selectivity Theory",
+          "theory_ids": [
+            "T026235",
+            "T026352",
+            "T026255",
+            "T016759",
+            "T017028",
+            "T021507",
+            "T026297",
+            "T026962"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "Social Selectivity and Emotional Regulation Socioemotional Selectivity Theory",
+          "theory_ids": [
+            "T009424",
+            "T026451",
+            "T017039",
+            "T003043",
+            "T016747"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 5
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T009335",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on perceived time left influencing motivational shifts toward emotional meaning and positivity effect."
+          },
+          {
+            "theory_id": "T026402",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Emphasizes emotional valence effects on memory shaped by motivational shifts due to perceived limited time."
+          },
+          {
+            "theory_id": "T020260",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Describes time horizon constriction leading to prioritization of emotional well-being goals and positivity effect."
+          },
+          {
+            "theory_id": "T012424",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Highlights time perception and motivational shifts causing positivity effect and emotional complexity in aging."
+          },
+          {
+            "theory_id": "T016782",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on future time perspective contraction shifting goals to emotional meaning and present well-being."
+          },
+          {
+            "theory_id": "T023356",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Shows motivational shift toward positive information processing and health behavior linked to time perception."
+          },
+          {
+            "theory_id": "T013260",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Describes positivity effect and motivational goal shift driven by perceived limited time in autobiographical memory."
+          },
+          {
+            "theory_id": "T016639",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Details goal shift with limited future time leading to positivity effect and improved emotion regulation."
+          },
+          {
+            "theory_id": "T009540",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Explains how time perspective changes across lifespan drive motivational shifts affecting cognition and behavior."
+          },
+          {
+            "theory_id": "T025857",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on subjective residual life expectancy influencing goal prioritization and positivity effect."
+          },
+          {
+            "theory_id": "T020805",
+            "subcluster_name": "Time Perception and Motivational Goal Shift Socioemotional Selectivity Theory",
+            "reasoning": "Describes future time perception shaping motivational priorities and emotional processing changes with age."
+          },
+          {
+            "theory_id": "T026235",
+            "subcluster_name": "Positivity Effect and Cognitive-Affective Processing Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on positivity effect mechanisms including forgetting negative and remembering positive information."
+          },
+          {
+            "theory_id": "T026352",
+            "subcluster_name": "Positivity Effect and Cognitive-Affective Processing Socioemotional Selectivity Theory",
+            "reasoning": "Emphasizes positivity effect in metamemory beliefs and age-related differences in emotional judgments."
+          },
+          {
+            "theory_id": "T026255",
+            "subcluster_name": "Positivity Effect and Cognitive-Affective Processing Socioemotional Selectivity Theory",
+            "reasoning": "Describes positivity bias in emotional word processing and distinct neural mechanisms in older adults."
+          },
+          {
+            "theory_id": "T016759",
+            "subcluster_name": "Positivity Effect and Cognitive-Affective Processing Socioemotional Selectivity Theory",
+            "reasoning": "Details spontaneous use of emotion regulation tactics and positivity effect in information processing."
+          },
+          {
+            "theory_id": "T017028",
+            "subcluster_name": "Positivity Effect and Cognitive-Affective Processing Socioemotional Selectivity Theory",
+            "reasoning": "Links motivated cognition, positivity effects, and cognitive control in emotion regulation with aging."
+          },
+          {
+            "theory_id": "T021507",
+            "subcluster_name": "Positivity Effect and Cognitive-Affective Processing Socioemotional Selectivity Theory",
+            "reasoning": "Shows positivity effect and emotion regulation strategies helping older adults cope with chronic pain."
+          },
+          {
+            "theory_id": "T026297",
+            "subcluster_name": "Positivity Effect and Cognitive-Affective Processing Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on motivational shifts favoring positive emotions and adaptive emotional regulation in aging."
+          },
+          {
+            "theory_id": "T026962",
+            "subcluster_name": "Positivity Effect and Cognitive-Affective Processing Socioemotional Selectivity Theory",
+            "reasoning": "Describes motivational shifts promoting emotional well-being resilience after disasters in older adults."
+          },
+          {
+            "theory_id": "T009424",
+            "subcluster_name": "Social Selectivity and Emotional Regulation Socioemotional Selectivity Theory",
+            "reasoning": "Emphasizes adaptive pruning of social networks and physiological changes supporting emotion regulation."
+          },
+          {
+            "theory_id": "T026451",
+            "subcluster_name": "Social Selectivity and Emotional Regulation Socioemotional Selectivity Theory",
+            "reasoning": "Focuses on social distance effects in decision-making linked to emotional goal prioritization with age."
+          },
+          {
+            "theory_id": "T017039",
+            "subcluster_name": "Social Selectivity and Emotional Regulation Socioemotional Selectivity Theory",
+            "reasoning": "Describes social selectivity in aging chimpanzees with preference for close, positive relationships."
+          },
+          {
+            "theory_id": "T003043",
+            "subcluster_name": "Social Selectivity and Emotional Regulation Socioemotional Selectivity Theory",
+            "reasoning": "Highlights differential aging effects on cognitive vs affective functions and selective resource allocation."
+          },
+          {
+            "theory_id": "T016747",
+            "subcluster_name": "Social Selectivity and Emotional Regulation Socioemotional Selectivity Theory",
+            "reasoning": "Details strength and vulnerability integration model emphasizing motivation-driven emotion regulation."
+          }
+        ]
+      }
+    }
+  ],
+  "timestamp": "2025-10-22 12:00:53"
+}

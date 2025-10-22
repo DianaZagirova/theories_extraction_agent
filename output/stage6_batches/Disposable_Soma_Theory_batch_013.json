@@ -1,0 +1,205 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 13,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+        "theory_ids": [
+          "T010312",
+          "T009799",
+          "T009809",
+          "T010286",
+          "T009827",
+          "T009860",
+          "T010007",
+          "T010270",
+          "T010302",
+          "T009876",
+          "T010340",
+          "T009979",
+          "T010049",
+          "T009811",
+          "T010198",
+          "T009990",
+          "T010240",
+          "T010156",
+          "T010207"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 19
+      },
+      {
+        "subcluster_name": "Germline-Soma Communication Disposable Soma Theory",
+        "theory_ids": [
+          "T010263",
+          "T009864",
+          "T009952"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T010312",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on trade-offs between reproduction and somatic maintenance, linking ovarian and somatic aging via shared mechanisms like DNA repair and inflammation."
+        },
+        {
+          "theory_id": "T009799",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Emphasizes energy allocation trade-offs between reproduction and somatic maintenance leading to damage accumulation and senescence."
+        },
+        {
+          "theory_id": "T009809",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Highlights resource allocation trade-offs between reproduction and maintenance causing senescence, with evolutionary basis."
+        },
+        {
+          "theory_id": "T010286",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes energy allocation trade-offs where early reproductive investment reduces somatic maintenance, accelerating senescence."
+        },
+        {
+          "theory_id": "T009827",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation trade-offs and germline-soma structural division as basis for aging."
+        },
+        {
+          "theory_id": "T009860",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Discusses trade-offs between early reproduction/growth and somatic maintenance influenced by environmental conditions."
+        },
+        {
+          "theory_id": "T010007",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Classic disposable soma theory emphasizing resource allocation trade-offs causing damage accumulation and aging."
+        },
+        {
+          "theory_id": "T010270",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Explores environmental modulation of resource allocation trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T010302",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Links early-life resource allocation to reproduction at cost of somatic repair, accelerating aging."
+        },
+        {
+          "theory_id": "T009876",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Shows energetic trade-offs between reproduction and somatic maintenance affecting lifespan and life-history strategies."
+        },
+        {
+          "theory_id": "T010340",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Models optimal metabolic resource allocation balancing somatic maintenance and reproduction to explain aging."
+        },
+        {
+          "theory_id": "T010346",
+          "subcluster_name": "DNA Repair and Genome Surveillance Disposable Soma Theory",
+          "reasoning": "Emphasizes time as a resource for DNA repair fidelity and genome surveillance mechanisms affecting lifespan."
+        },
+        {
+          "theory_id": "T009979",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes soma as disposable vessel prioritized less than reproduction, leading to aging via resource allocation."
+        },
+        {
+          "theory_id": "T010049",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Focuses on optimal resource allocation trade-offs between maintenance and reproduction shaping lifespan."
+        },
+        {
+          "theory_id": "T009811",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Integrates evolutionary genetics with resource allocation trade-offs causing damage accumulation and aging."
+        },
+        {
+          "theory_id": "T010198",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Highlights energy trade-offs between somatic maintenance and costly functions like brain development affecting aging."
+        },
+        {
+          "theory_id": "T010263",
+          "subcluster_name": "Germline-Soma Communication Disposable Soma Theory",
+          "reasoning": "Focuses on resource allocation prioritizing germline maintenance over soma, with bidirectional germline-soma signaling affecting aging."
+        },
+        {
+          "theory_id": "T009864",
+          "subcluster_name": "Germline-Soma Communication Disposable Soma Theory",
+          "reasoning": "Shows germline depletion extends lifespan via immune pathways, highlighting soma-germline resource reallocation and sex differences."
+        },
+        {
+          "theory_id": "T009990",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Examines fertility-longevity trade-offs due to resource allocation between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T010134",
+          "subcluster_name": "Oxidative Stress Mediated Disposable Soma Theory",
+          "reasoning": "Includes molecular maintenance costs and oxidative stress as mechanistic mediators of resource allocation trade-offs causing aging."
+        },
+        {
+          "theory_id": "T010240",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Describes energy allocation trade-offs influenced by extrinsic mortality shaping somatic maintenance and senescence."
+        },
+        {
+          "theory_id": "T010156",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Details resource allocation trade-offs causing somatic damage accumulation and sex-specific senescence patterns."
+        },
+        {
+          "theory_id": "T009952",
+          "subcluster_name": "Germline-Soma Communication Disposable Soma Theory",
+          "reasoning": "Focuses on soma-germline resource trade-offs and signaling pathways coordinating aging and reproduction."
+        },
+        {
+          "theory_id": "T010016",
+          "subcluster_name": "Mortality Risk Optimization Disposable Soma Theory",
+          "reasoning": "Proposes somatic maintenance allocation tuned to environmental mortality risk rather than direct reproduction trade-offs."
+        },
+        {
+          "theory_id": "T010207",
+          "subcluster_name": "Reproductive-Somatic Resource Allocation Disposable Soma Theory",
+          "reasoning": "Shows sex-specific reproductive effort trade-offs with somatic maintenance influencing senescence patterns."
+        },
+        {
+          "theory_id": "T010328",
+          "subcluster_name": "Caloric Restriction and Nutrient Sensing Disposable Soma Theory",
+          "reasoning": "Focuses on caloric restriction effects on nutrient sensing, DNA repair, and cellular maintenance pathways extending lifespan."
+        },
+        {
+          "theory_id": "T009425",
+          "subcluster_name": "Resource Acquisition-Allocation Genetic Variation Theory",
+          "reasoning": "Emphasizes genetic variation in resource acquisition driving plasticity in allocation to life-history traits."
+        },
+        {
+          "theory_id": "T007825",
+          "subcluster_name": "Resource Redistribution Ontogenesis Disposable Soma Theory",
+          "reasoning": "Describes aging as side effect of ontogenetic resource shift from housekeeping to integrative genes reducing repair."
+        },
+        {
+          "theory_id": "T007962",
+          "subcluster_name": "Reproductive Aging Biomarker Theory",
+          "reasoning": "Focuses on reproductive system aging as biomarker of organismal aging with hierarchical biomarker relationships."
+        },
+        {
+          "theory_id": "T007498",
+          "subcluster_name": "Cognitive Resource Depletion Theory of Aging",
+          "reasoning": "Describes aging-related decline in vigilance due to depletion of limited cognitive resources during sustained attention."
+        },
+        {
+          "theory_id": "T008942",
+          "subcluster_name": "Life History Trade-off Theory in Hydra",
+          "reasoning": "Focuses on resource allocation trade-offs in hydra between asexual reproduction and maintenance, with non-senescence via regeneration."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:04:23"
+}

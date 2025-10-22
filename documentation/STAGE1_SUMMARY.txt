@@ -1,0 +1,69 @@
+================================================================================
+STAGE 1: FUZZY MATCHING - IMPLEMENTATION SUMMARY
+================================================================================
+
+## Overview
+Stage 1 performs intelligent fuzzy matching of theory names to known theories 
+from the ontology BEFORE LLM involvement. This significantly reduces LLM costs 
+and processing time.
+
+## Features Implemented
+
+### 1. Aggressive Name Normalization
+- Removes common suffixes: "theory", "hypothesis", "model", "aging", etc.
+- Handles smart quotes (U+2019) and regular apostrophes
+- Removes possessives ('s)
+- Example: "Oxidative Stress Hypothesis of Aging" → "oxidative stress"
+
+### 2. Abbreviation Matching (NEW)
+- Extracts abbreviations from theory names: (ABBR) or [ABBR]
+- Matches against abbreviations defined in ontology
+- Examples:
+  * "Dysdifferentiation Hypothesis of Aging and Cancer (DHAC)" → Dysdifferentiation Theory
+  * "Mitochondrial Free Radical Theory of Aging (MFRTA)" → Mitochondrial Decline Theory
+  * "Membrane Hypothesis of Aging (MHA)" → Membrane Theory
+
+### 3. Multi-Level Matching Strategy
+1. **Abbreviation matching** - Check for (ABBR) patterns first
+2. **Exact matching** - Normalized name exact match
+3. **High confidence fuzzy matching** - Score >= 90 with validation
+4. **Compound name validation** - Prevents false matches on variants
+
+### 4. Comprehensive Alias Support
+- Loads all aliases from ontology
+- Maps variations to canonical names
+- Example: "Harman's Theory" → "Free Radical Theory"
+
+## Results on Real Data (7,675 theories)
+
+### Match Statistics:
+- Abbreviation matches: 115 (1.5%)
+- Exact matches: 1,330 (17.3%)
+- High confidence fuzzy: 24 (0.3%)
+- **Total matched: 1,469 (19.1%)**
+- Remaining for LLM: 6,206 (80.9%)
+
+### Top Matched Theories:
+1. Free Radical Theory - 262 theories
+2. Disposable Soma Theory - 202 theories
+3. Antagonistic Pleiotropy Theory - 182 theories
+4. Mitochondrial Decline Theory - 132 theories
+5. Oxidative Stress Theory - 122 theories
+
+## Files Generated:
+1. `output/stage0_filtered_theories.json` - Quality filtered theories
+2. `output/stage1_fuzzy_matched.json` - Matched/unmatched theories (JSON)
+3. `output/stage1_matching_report.txt` - Human-readable report
+
+## Next Steps:
+- Use `unmatched_theories` from stage1_fuzzy_matched.json for LLM processing
+- LLM only needs to process 6,206 theories instead of 7,675
+- **Cost savings: ~19% reduction in LLM calls**
+
+## Configuration:
+- Exact threshold: 100
+- High confidence threshold: 90
+- Min token overlap: 0.8
+- Ontology: ontology/groups_ontology_alliases.json (46 canonical theories, 161 aliases, 12 abbreviations)
+
+================================================================================

@@ -1,0 +1,181 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 36,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+        "theory_ids": [
+          "T024246",
+          "T024271",
+          "T024229",
+          "T024157",
+          "T024497",
+          "T024060",
+          "T024170",
+          "T024405",
+          "T024071",
+          "T024351",
+          "T024341",
+          "T024367"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Mitophagy Deficiency Theory of Aging",
+        "theory_ids": [
+          "T024088",
+          "T024178"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Stress Signaling and Quality Control Theory",
+        "theory_ids": [
+          "T024385",
+          "T024115",
+          "T024220",
+          "T024426",
+          "T024050",
+          "T024398",
+          "T024357"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024246",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Focuses on mitochondrial ROS production causing oxidative damage driving aging, classic free radical theory."
+        },
+        {
+          "theory_id": "T024271",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Emphasizes mitochondrial ROS accumulation and oxidative damage as primary aging drivers."
+        },
+        {
+          "theory_id": "T024229",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Highlights mitochondrial ROS-induced damage and impaired mitophagy leading to aging."
+        },
+        {
+          "theory_id": "T024157",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Describes ROS-induced mitochondrial damage and vicious cycle accelerating aging."
+        },
+        {
+          "theory_id": "T024497",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Focuses on mitochondrial ROS accumulation causing oxidative damage and aging, modulated by antioxidants."
+        },
+        {
+          "theory_id": "T024060",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Classic mitochondrial ROS overproduction causing oxidative damage and aging-related diseases."
+        },
+        {
+          "theory_id": "T024170",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Mitochondrial ROS accumulation and oxidative damage driving reproductive aging."
+        },
+        {
+          "theory_id": "T024405",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Mitochondrial ROS-induced oxidative damage as central to brain aging."
+        },
+        {
+          "theory_id": "T024071",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Mutation in complex II increases mitochondrial ROS causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T024351",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Nox4-mediated mitochondrial ROS production causing oxidative damage and cardiac aging."
+        },
+        {
+          "theory_id": "T024341",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Mitochondrial ROS causes oxidative damage to muscle proteins leading to muscle aging."
+        },
+        {
+          "theory_id": "T024367",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Mitochondrial ROS production and oxidative damage driving cardiac aging phenotypes."
+        },
+        {
+          "theory_id": "T024088",
+          "subcluster_name": "Mitophagy Deficiency Theory of Aging",
+          "reasoning": "Focuses on impaired mitophagy (PINK1/Parkin pathway) causing accumulation of dysfunctional mitochondria and aging."
+        },
+        {
+          "theory_id": "T024178",
+          "subcluster_name": "Mitophagy Deficiency Theory of Aging",
+          "reasoning": "Describes mitochondrial-lysosomal axis dysfunction impairing mitophagy and mitochondrial quality control in aging."
+        },
+        {
+          "theory_id": "T024385",
+          "subcluster_name": "Mitochondrial Stress Signaling and Quality Control Theory",
+          "reasoning": "Focuses on mitochondrial stress signaling, adaptive responses including mitophagy and mtUPR, and failure leading to aging."
+        },
+        {
+          "theory_id": "T024115",
+          "subcluster_name": "Mitochondrial Stress Signaling and Quality Control Theory",
+          "reasoning": "Describes mitochondrial ROS, quality control pathways (mitophagy, mtUPR), and mtDNA mutations affecting stem cell aging."
+        },
+        {
+          "theory_id": "T024220",
+          "subcluster_name": "Mitochondrial Stress Signaling and Quality Control Theory",
+          "reasoning": "Links mitochondrial dysfunction, mitonuclear communication, and stem cell exhaustion in aging."
+        },
+        {
+          "theory_id": "T024426",
+          "subcluster_name": "Mitochondrial Stress Signaling and Quality Control Theory",
+          "reasoning": "Mitochondrial oxidative stress induces cellular senescence and stem cell exhaustion driving aging."
+        },
+        {
+          "theory_id": "T024050",
+          "subcluster_name": "Mitochondrial Stress Signaling and Quality Control Theory",
+          "reasoning": "Mitochondrial ROS, mtDNA mutations, and apoptosis contribute to aging and reproductive senescence."
+        },
+        {
+          "theory_id": "T024398",
+          "subcluster_name": "Mitochondrial Stress Signaling and Quality Control Theory",
+          "reasoning": "Age-related decline in mitochondrial respiratory chain, mtDNA mutations, ROS, and apoptosis in immune cells."
+        },
+        {
+          "theory_id": "T024357",
+          "subcluster_name": "Mitochondrial Stress Signaling and Quality Control Theory",
+          "reasoning": "Mitochondrial hormesis and adaptive mitochondrial responses modulate diabetic complications and aging."
+        },
+        {
+          "theory_id": "T024598",
+          "subcluster_name": "Mitochondrial Chaperone and Proteostasis Theory of Aging",
+          "reasoning": "Mitochondrial small heat shock proteins maintain proteostasis, prevent protein aggregation, and extend lifespan."
+        },
+        {
+          "theory_id": "T024059",
+          "subcluster_name": "Mitochondrial Respiratory Chain Supramolecular Organisation Theory",
+          "reasoning": "Focuses on supramolecular organization of respiratory chain complexes affecting ROS production and mitochondrial function."
+        },
+        {
+          "theory_id": "T024328",
+          "subcluster_name": "Mitochondrial DNA Mutation and Polymorphism Theory of Aging",
+          "reasoning": "Emphasizes accumulation of mtDNA mutations and polymorphisms causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T024041",
+          "subcluster_name": "Mitochondrial Calcium Overload and Dysfunction Theory of Aging",
+          "reasoning": "TRPC3-mediated mitochondrial calcium overload causes mitochondrial dysfunction and renal aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:53:21"
+}

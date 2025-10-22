@@ -1,0 +1,204 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 3,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Transcriptional Stress and DNA Damage Response Theory",
+        "theory_ids": [
+          "T003377",
+          "T003440"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+        "theory_ids": [
+          "T003806",
+          "T003893",
+          "T003489",
+          "T002900",
+          "T003718",
+          "T003813",
+          "T002869",
+          "T003282",
+          "T003452",
+          "T002937",
+          "T003703",
+          "T003879",
+          "T003311"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Somatic Evolution and DNA Damage-Driven Aging Theory",
+        "theory_ids": [
+          "T003751",
+          "T003531",
+          "T003761",
+          "T002854",
+          "T003849"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Oxidative DNA Damage and Repair Theory",
+        "theory_ids": [
+          "T003725",
+          "T003979"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "rDNA Instability and Genome Integrity Theory",
+        "theory_ids": [
+          "T003168",
+          "T003904",
+          "T002828"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T003377",
+          "subcluster_name": "Transcriptional Stress and DNA Damage Response Theory",
+          "reasoning": "Focuses on DNA damage causing RNA polymerase stalling and transcriptional decline affecting aging pathways."
+        },
+        {
+          "theory_id": "T003806",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Centers on accumulation of unrepaired DNA damage causing genomic instability and vascular aging due to defective repair."
+        },
+        {
+          "theory_id": "T003952",
+          "subcluster_name": "Telomere-Associated DNA Damage and PARP-1 Regulation Theory",
+          "reasoning": "Emphasizes oxidative DNA damage at telomeres, PARP-1\u2019s dual role in telomere maintenance and inflammation driving aging."
+        },
+        {
+          "theory_id": "T003893",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes age-related decline in NHEJ efficiency and fidelity leading to genomic instability and aging."
+        },
+        {
+          "theory_id": "T003751",
+          "subcluster_name": "Somatic Evolution and DNA Damage-Driven Aging Theory",
+          "reasoning": "Focuses on somatic cell evolution shaped by DNA damage and mutation-driven fitness landscapes influencing aging and cancer suppression."
+        },
+        {
+          "theory_id": "T003489",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Highlights RecQ helicase activity in DNA repair and genome stability essential for normal lifespan and aging prevention."
+        },
+        {
+          "theory_id": "T003725",
+          "subcluster_name": "Oxidative DNA Damage and Repair Theory",
+          "reasoning": "Focuses on ROS-induced oxidative DNA lesions and repair enzyme Ogg1\u2019s role in preventing aging by removing oxidative damage."
+        },
+        {
+          "theory_id": "T002900",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes endogenous DNA damage accumulation and impaired repair causing systemic aging and cellular senescence."
+        },
+        {
+          "theory_id": "T003168",
+          "subcluster_name": "rDNA Instability and Genome Integrity Theory",
+          "reasoning": "Focuses on instability of rDNA repeats and extrachromosomal rDNA circles driving genome instability and cellular aging."
+        },
+        {
+          "theory_id": "T003904",
+          "subcluster_name": "rDNA Instability and Genome Integrity Theory",
+          "reasoning": "Describes age-related depletion of chromatin factors at rDNA locus causing chromosomal instability and replicative aging."
+        },
+        {
+          "theory_id": "T003531",
+          "subcluster_name": "Somatic Evolution and DNA Damage-Driven Aging Theory",
+          "reasoning": "Explains aging as a consequence of declining natural selection pressure allowing accumulation of late-acting deleterious mutations."
+        },
+        {
+          "theory_id": "T003718",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on DNA repair decline in adult stem cells causing genomic instability, stem cell failure, and aging."
+        },
+        {
+          "theory_id": "T003761",
+          "subcluster_name": "Somatic Evolution and DNA Damage-Driven Aging Theory",
+          "reasoning": "Links decline in regenerative capacity and neuroinflammation to aging, implicating stem cell dysfunction and inflammatory gene expression."
+        },
+        {
+          "theory_id": "T002854",
+          "subcluster_name": "Somatic Evolution and DNA Damage-Driven Aging Theory",
+          "reasoning": "Proposes accumulation of somatic mutations in neurons as a fundamental mechanism of aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T003813",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes age-related decline in DNA repair capacity, especially UV damage repair, linking it to premature aging and cancer."
+        },
+        {
+          "theory_id": "T003440",
+          "subcluster_name": "Transcriptional Stress and DNA Damage Response Theory",
+          "reasoning": "Focuses on persistent DNA damage response activation causing stable cellular senescence and aging."
+        },
+        {
+          "theory_id": "T002869",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Emphasizes accumulation of DNA damage and defective repair causing segmental progeroid aging and neuropathy."
+        },
+        {
+          "theory_id": "T003282",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Links DNA damage accumulation and repair decline to aging and cancer, highlighting caloric restriction\u2019s protective effects."
+        },
+        {
+          "theory_id": "T003452",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes DYRK1A overdose causing unrepaired DNA damage accumulation and progeroid aging in Down syndrome."
+        },
+        {
+          "theory_id": "T002937",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Focuses on DNA2 nuclease-helicase role in replication fork processing preventing replication stress and senescence."
+        },
+        {
+          "theory_id": "T003979",
+          "subcluster_name": "Oxidative DNA Damage and Repair Theory",
+          "reasoning": "Highlights base excision repair of oxidative DNA damage and its correlation with body mass and aging."
+        },
+        {
+          "theory_id": "T003849",
+          "subcluster_name": "Somatic Evolution and DNA Damage-Driven Aging Theory",
+          "reasoning": "Presents aging as increasing molecular disorder due to imperfect repair, shaped by evolutionary decline in selection pressure."
+        },
+        {
+          "theory_id": "T003703",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes DNA double-strand break accumulation and repair decline in hematopoietic stem cells driving aging."
+        },
+        {
+          "theory_id": "T002828",
+          "subcluster_name": "rDNA Instability and Genome Integrity Theory",
+          "reasoning": "Focuses on genetic instability via loss of tandemly duplicated genes like rDNA causing aging-related functional decline."
+        },
+        {
+          "theory_id": "T003879",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Links compromised DNA repair to nuclear DNA damage accumulation, immunosenescence, and aging phenotypes."
+        },
+        {
+          "theory_id": "T003311",
+          "subcluster_name": "Genomic Instability and DNA Repair Deficiency Theory",
+          "reasoning": "Describes DNA damage accumulation and defective repair in progeroid syndromes causing premature aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:39:10"
+}

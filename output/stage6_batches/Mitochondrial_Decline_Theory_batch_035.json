@@ -1,0 +1,210 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 35,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+        "theory_ids": [
+          "T023427",
+          "T023328",
+          "T023341",
+          "T023740",
+          "T023963",
+          "T023930",
+          "T023778",
+          "T023456",
+          "T022045"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+        "theory_ids": [
+          "T023803",
+          "T023271",
+          "T023254",
+          "T023748",
+          "T023175",
+          "T023157"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial Metabolism and Signaling Theory",
+        "theory_ids": [
+          "T023264",
+          "T023298",
+          "T023277",
+          "T023495",
+          "T023029",
+          "T023068"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and Variability Theory",
+        "theory_ids": [
+          "T023611",
+          "T023964",
+          "T024040",
+          "T023521",
+          "T023516",
+          "T023951",
+          "T023652"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T023427",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Focuses on mitochondrial reactive oxygen species (ROS) production causing oxidative damage, mitochondrial permeability transition pore opening, and programmed cell death driving aging."
+        },
+        {
+          "theory_id": "T023328",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Emphasizes mitochondrial free radical (ROS) production causing oxidative damage to mitochondrial components and driving aging."
+        },
+        {
+          "theory_id": "T023341",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Describes mitochondrial ROS generation from electron transport chain dysfunction leading to oxidative damage and aging."
+        },
+        {
+          "theory_id": "T023740",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Highlights mitochondrial ROS production induced by ionizing radiation causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T023963",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Focuses on mitochondrial oxidative stress and redox imbalance from excess ROS causing aging-related damage."
+        },
+        {
+          "theory_id": "T023930",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Describes increased mitochondrial ROS production and oxidative damage in skeletal muscle aging and type 1 diabetes."
+        },
+        {
+          "theory_id": "T023778",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Links mitochondrial mutation-driven ROS production to stem cell dysfunction and aging."
+        },
+        {
+          "theory_id": "T023456",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Focuses on mitochondrial oxidative damage caused by lipid peroxidation product malondialdehyde (MDA) and ROS toxicity."
+        },
+        {
+          "theory_id": "T022045",
+          "subcluster_name": "Mitochondrial ROS-Induced Aging Theory",
+          "reasoning": "Describes lipofuscin-bound iron catalyzing ROS production and oxidative damage, linking mitochondrial-lysosomal axis to aging."
+        },
+        {
+          "theory_id": "T023803",
+          "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+          "reasoning": "Focuses on impaired mitochondrial quality control (fusion/fission, mitophagy) and protein turnover causing mitochondrial dysfunction in muscle aging."
+        },
+        {
+          "theory_id": "T023271",
+          "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+          "reasoning": "Emphasizes mitochondrial quality control impairment and ferritinophagy dysregulation leading to mitochondrial damage and muscle aging."
+        },
+        {
+          "theory_id": "T023254",
+          "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+          "reasoning": "Describes decline of mitochondrial Lon protease, a key quality control protease, causing accumulation of damaged proteins and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T023748",
+          "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+          "reasoning": "Focuses on age-related decline in Lon protease activity impairing mitochondrial protein quality control and contributing to aging."
+        },
+        {
+          "theory_id": "T023175",
+          "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+          "reasoning": "Proposes mitochondrial senescence due to quality control failure and persistent dysfunctional mitochondria driving chronic aging-like pathology."
+        },
+        {
+          "theory_id": "T023157",
+          "subcluster_name": "Mitochondrial Quality Control Dysfunction Theory",
+          "reasoning": "Describes suppression of complex I in oocytes to reduce ROS and activate mitochondrial unfolded protein response, a quality control mechanism."
+        },
+        {
+          "theory_id": "T023264",
+          "subcluster_name": "Mitochondrial Metabolism and Signaling Theory",
+          "reasoning": "Focuses on mitochondrial energy metabolism regulation via AMPK/ACC1 pathway and acetyl-CoA metabolism affecting aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T023298",
+          "subcluster_name": "Mitochondrial Metabolism and Signaling Theory",
+          "reasoning": "Describes mitochondrial energy metabolism impairment causing neuronal excitotoxicity and neurodegeneration."
+        },
+        {
+          "theory_id": "T023277",
+          "subcluster_name": "Mitochondrial Metabolism and Signaling Theory",
+          "reasoning": "Focuses on oxidative damage to alpha-ketoglutarate dehydrogenase complex impairing brain energy metabolism and driving neurodegeneration."
+        },
+        {
+          "theory_id": "T023495",
+          "subcluster_name": "Mitochondrial Metabolism and Signaling Theory",
+          "reasoning": "Links mitochondrial DNA damage accumulation to brain aging and neurocognitive impairment, emphasizing mitochondrial dysfunction in brain."
+        },
+        {
+          "theory_id": "T023029",
+          "subcluster_name": "Mitochondrial Metabolism and Signaling Theory",
+          "reasoning": "Describes mitochondrial bioenergetics, ROS production, and mitochondrial-nuclear interactions influencing aging and life-history traits."
+        },
+        {
+          "theory_id": "T023068",
+          "subcluster_name": "Mitochondrial Metabolism and Signaling Theory",
+          "reasoning": "Focuses on mitochondrial protein synthesis efficiency and accuracy affecting oxidative phosphorylation and mitochondrial-nuclear communication in aging."
+        },
+        {
+          "theory_id": "T023611",
+          "subcluster_name": "Mitochondrial DNA Mutation and Variability Theory",
+          "reasoning": "Emphasizes mtDNA haplotype variability influencing mitochondrial function, ROS production, and aging-related joint damage."
+        },
+        {
+          "theory_id": "T023964",
+          "subcluster_name": "Mitochondrial DNA Mutation and Variability Theory",
+          "reasoning": "Focuses on accumulation of somatic mtDNA mutations causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T024040",
+          "subcluster_name": "Mitochondrial DNA Mutation and Variability Theory",
+          "reasoning": "Describes progressive accumulation and clonal expansion of mtDNA deletions impairing mitochondrial function and driving aging."
+        },
+        {
+          "theory_id": "T023521",
+          "subcluster_name": "Mitochondrial DNA Mutation and Variability Theory",
+          "reasoning": "Links mtDNA damage and substitution rates to lifespan and aging, emphasizing ROS-induced mtDNA damage."
+        },
+        {
+          "theory_id": "T023516",
+          "subcluster_name": "Mitochondrial DNA Mutation and Variability Theory",
+          "reasoning": "Posits mtDNA mutation accumulation from ROS as a causal factor in aging with clonal expansion of mutations."
+        },
+        {
+          "theory_id": "T023951",
+          "subcluster_name": "Mitochondrial DNA Mutation and Variability Theory",
+          "reasoning": "Describes somatic mtDNA mutations accumulation causing mitochondrial dysfunction and aging, supported by mutator mouse models."
+        },
+        {
+          "theory_id": "T023652",
+          "subcluster_name": "Mitochondrial DNA Mutation and Variability Theory",
+          "reasoning": "Focuses on mtDNA mutation burden causing mitochondrial dysfunction and aging phenotypes, independent of oxidative stress increase."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:53:00"
+}

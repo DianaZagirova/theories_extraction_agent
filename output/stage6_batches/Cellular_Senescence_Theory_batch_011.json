@@ -1,0 +1,181 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 11,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Replicative Limit and Telomere-Associated Senescence Theory",
+        "theory_ids": [
+          "T007017",
+          "T007106",
+          "T007039",
+          "T006986",
+          "T006918",
+          "T007021",
+          "T006935"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+        "theory_ids": [
+          "T006867",
+          "T006863",
+          "T006950",
+          "T006955",
+          "T006840",
+          "T006909",
+          "T006957",
+          "T006877",
+          "T006904",
+          "T006974",
+          "T006897"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Neuronal and Brain Cellular Senescence with SASP in Neurodegeneration Theory",
+        "theory_ids": [
+          "T006926",
+          "T006982",
+          "T006970"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T007017",
+          "subcluster_name": "Replicative Limit and Telomere-Associated Senescence Theory",
+          "reasoning": "Focuses on cell division-dependent senescence mechanisms including telomere shortening and threshold gene regulation causing growth arrest."
+        },
+        {
+          "theory_id": "T007106",
+          "subcluster_name": "Replicative Limit and Telomere-Associated Senescence Theory",
+          "reasoning": "Describes senescence triggered by telomere shortening and tumor suppressor pathways, emphasizing replicative limits and DNA damage response."
+        },
+        {
+          "theory_id": "T007039",
+          "subcluster_name": "Replicative Limit and Telomere-Associated Senescence Theory",
+          "reasoning": "Explains limited proliferation as an intrinsic negative regulation linked to telomere shortening and DNA repair infidelity, controlling cell division."
+        },
+        {
+          "theory_id": "T006986",
+          "subcluster_name": "Replicative Limit and Telomere-Associated Senescence Theory",
+          "reasoning": "Highlights stress-induced senescence in chondrocytes including telomere-independent DNA damage and mitochondrial dysfunction contributing to tissue aging."
+        },
+        {
+          "theory_id": "T006918",
+          "subcluster_name": "Replicative Limit and Telomere-Associated Senescence Theory",
+          "reasoning": "Focuses on DNA damage-induced senescence in vascular cells driving early vascular aging, linking DNA damage response to senescence and pathology."
+        },
+        {
+          "theory_id": "T007021",
+          "subcluster_name": "Replicative Limit and Telomere-Associated Senescence Theory",
+          "reasoning": "Emphasizes DNA damage response as a trigger and maintainer of senescence, linking persistent DNA damage to aging phenotypes."
+        },
+        {
+          "theory_id": "T006935",
+          "subcluster_name": "Replicative Limit and Telomere-Associated Senescence Theory",
+          "reasoning": "Details senescence induced by telomere shortening, DNA damage, and oxidative stress affecting skeletal muscle aging."
+        },
+        {
+          "theory_id": "T006867",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Focuses on accumulation of senescent cells with age and their SASP secretion causing tissue dysfunction and systemic aging."
+        },
+        {
+          "theory_id": "T006863",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Describes senescent cell accumulation and SASP as causal drivers of systemic aging and age-related diseases."
+        },
+        {
+          "theory_id": "T006950",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Highlights stable cell cycle arrest, SASP secretion, and accumulation of senescent cells driving tissue dysfunction and aging."
+        },
+        {
+          "theory_id": "T006955",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Focuses on senescent cell accumulation and SASP-mediated chronic inflammation contributing to systemic aging."
+        },
+        {
+          "theory_id": "T006840",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Describes senescent cells as causal drivers of systemic aging via SASP and their heterogeneity complicating targeting."
+        },
+        {
+          "theory_id": "T006909",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Emphasizes senescent cells' dual role, SASP secretion, and immune system decline leading to accumulation and aging."
+        },
+        {
+          "theory_id": "T006957",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Focuses on irreversible cell cycle arrest and SASP secretion contributing to chronic inflammation and age-related diseases."
+        },
+        {
+          "theory_id": "T006877",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Describes senescence as a hallmark of aging with SASP-driven inflammation and systemic effects including cognitive decline."
+        },
+        {
+          "theory_id": "T006904",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Highlights paracrine and systemic spread of senescence via SASP factors causing multi-tissue aging phenotypes."
+        },
+        {
+          "theory_id": "T006969",
+          "subcluster_name": "Molecular Regulation of SASP via NF-\u03baB and CK2 Signaling Theory",
+          "reasoning": "Focuses on molecular pathways regulating SASP expression through CK2 down-regulation and NF-\u03baB activation."
+        },
+        {
+          "theory_id": "T006872",
+          "subcluster_name": "Immune Evasion and Senescent Cell Accumulation via Immune Checkpoints Theory",
+          "reasoning": "Describes how senescent cells evade immune clearance by upregulating inhibitory immune checkpoints, promoting accumulation."
+        },
+        {
+          "theory_id": "T006962",
+          "subcluster_name": "SASP-Induced NAD+ Decline via CD38 Activation Theory",
+          "reasoning": "Links SASP secretion to induction of CD38 NADase in non-senescent cells, causing systemic NAD+ decline during aging."
+        },
+        {
+          "theory_id": "T006978",
+          "subcluster_name": "Senescent Fibroblast Impairment of Wound Healing and Senolytic Therapy Theory",
+          "reasoning": "Focuses on senescent fibroblasts impairing wound healing via SASP and benefits of senolytic drugs in tissue repair."
+        },
+        {
+          "theory_id": "T006974",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Describes senescence in skeletal muscle cells with SASP secretion causing inflammation and tissue dysfunction."
+        },
+        {
+          "theory_id": "T006926",
+          "subcluster_name": "Neuronal and Brain Cellular Senescence with SASP in Neurodegeneration Theory",
+          "reasoning": "Focuses on tau-induced neuronal senescence, SASP-mediated neurotoxicity, and senolytic treatment reducing neurodegeneration."
+        },
+        {
+          "theory_id": "T006982",
+          "subcluster_name": "Neuronal and Brain Cellular Senescence with SASP in Neurodegeneration Theory",
+          "reasoning": "Describes accumulation of senescent brain cells including neurons with SASP contributing to neuroinflammation and cognitive decline."
+        },
+        {
+          "theory_id": "T006970",
+          "subcluster_name": "Neuronal and Brain Cellular Senescence with SASP in Neurodegeneration Theory",
+          "reasoning": "Details neuronal senescence features and SASP involvement in neurodegenerative diseases and epilepsy."
+        },
+        {
+          "theory_id": "T006897",
+          "subcluster_name": "Senescent Cell Accumulation and SASP-Driven Systemic Aging Theory",
+          "reasoning": "Describes permanent cell cycle arrest, SASP secretion, apoptotic resistance, and accumulation of senescent cells driving aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:06:33"
+}

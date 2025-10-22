@@ -1,0 +1,188 @@
+{
+  "cluster_name": "Developmental Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Developmental Gene Regulation and Resource Allocation Theory",
+        "theory_ids": [
+          "T014377",
+          "T017643"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Developmental Drift and Wnt Signaling Theory",
+        "theory_ids": [
+          "T010826",
+          "T017324",
+          "T017504"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Programmed Molecular Continuation of Development Theory",
+        "theory_ids": [
+          "T012074",
+          "T010690",
+          "T016618",
+          "T011739",
+          "T012969"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Developmental Rate and Environmental Modulation Theory",
+        "theory_ids": [
+          "T014333",
+          "T012314",
+          "T013837"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Developmental Programming and Early-Life Environmental Impact Theory",
+        "theory_ids": [
+          "T015421",
+          "T015747",
+          "T005748"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Programmed Decline of Repair Mechanisms Theory",
+        "theory_ids": [
+          "T016453",
+          "T004979"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Suboptimal Adult Gene Expression and Optimization Theory",
+        "theory_ids": [
+          "T009911",
+          "T009880"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T014377",
+          "subcluster_name": "Developmental Gene Regulation and Resource Allocation Theory",
+          "reasoning": "Focuses on specific developmental regulators (unc-62/Homothorax) controlling gene expression and resource allocation affecting aging."
+        },
+        {
+          "theory_id": "T010826",
+          "subcluster_name": "Developmental Drift and Wnt Signaling Theory",
+          "reasoning": "Centers on developmental pathway drift, especially Wnt signaling deregulation, causing aging due to relaxed selection post-development."
+        },
+        {
+          "theory_id": "T012224",
+          "subcluster_name": "Postmaturation Developmental Gene Expression Theory",
+          "reasoning": "Emphasizes continued expression of developmental genes after maturity causing somatic remodeling and aging."
+        },
+        {
+          "theory_id": "T012074",
+          "subcluster_name": "Programmed Molecular Continuation of Development Theory",
+          "reasoning": "Proposes aging as a programmed continuation of developmental molecular mechanisms including epigenetic regulation."
+        },
+        {
+          "theory_id": "T014333",
+          "subcluster_name": "Developmental Rate and Environmental Modulation Theory",
+          "reasoning": "Links developmental growth rate and environmental factors (temperature) to aging and longevity via developmental control."
+        },
+        {
+          "theory_id": "T017643",
+          "subcluster_name": "Developmental Gene Regulation and Resource Allocation Theory",
+          "reasoning": "Although focused on memory, it implicates age-related decline in hippocampal function linked to developmental gene regulation affecting aging."
+        },
+        {
+          "theory_id": "T012314",
+          "subcluster_name": "Developmental Rate and Environmental Modulation Theory",
+          "reasoning": "Connects pre-adult environmental conditions and genetic regulation during development to lifespan and aging."
+        },
+        {
+          "theory_id": "T015421",
+          "subcluster_name": "Developmental Programming and Early-Life Environmental Impact Theory",
+          "reasoning": "Focuses on early-life nutritional programming influencing aging trajectory and disease risk via metabolic and hormonal mechanisms."
+        },
+        {
+          "theory_id": "T010690",
+          "subcluster_name": "Programmed Molecular Continuation of Development Theory",
+          "reasoning": "Describes aging as a pseudorandom continuation of developmental gene expression programs with evolutionary basis."
+        },
+        {
+          "theory_id": "T016618",
+          "subcluster_name": "Programmed Molecular Continuation of Development Theory",
+          "reasoning": "Views aging as genetically programmed continuum of development influenced by genes and environment."
+        },
+        {
+          "theory_id": "T013837",
+          "subcluster_name": "Developmental Rate and Environmental Modulation Theory",
+          "reasoning": "Links developmental timing and environmental factors (temperature) to genetic control of aging and lifespan."
+        },
+        {
+          "theory_id": "T016453",
+          "subcluster_name": "Programmed Decline of Repair Mechanisms Theory",
+          "reasoning": "Proposes programmed deterioration of cellular repair systems as a driver of aging, linking molecular damage accumulation to developmental programming."
+        },
+        {
+          "theory_id": "T009911",
+          "subcluster_name": "Suboptimal Adult Gene Expression and Optimization Theory",
+          "reasoning": "Focuses on decline in natural selection leading to suboptimal gene expression in adulthood causing aging, with potential for optimization."
+        },
+        {
+          "theory_id": "T011739",
+          "subcluster_name": "Programmed Molecular Continuation of Development Theory",
+          "reasoning": "Emphasizes age-related gene expression changes and genetic regulation of aging, including maintenance of regenerative pathways."
+        },
+        {
+          "theory_id": "T017324",
+          "subcluster_name": "Developmental Drift and Wnt Signaling Theory",
+          "reasoning": "Aging as unintended consequence of developmental program optimized for reproduction, with developmental timing regulating aging rate."
+        },
+        {
+          "theory_id": "T017504",
+          "subcluster_name": "Developmental Drift and Wnt Signaling Theory",
+          "reasoning": "Highlights developmental genetic program drift and Wnt signaling misregulation as mechanisms driving aging."
+        },
+        {
+          "theory_id": "T009880",
+          "subcluster_name": "Suboptimal Adult Gene Expression and Optimization Theory",
+          "reasoning": "Proposes aging results from suboptimal adult gene expression due to declining selection, with lifespan extension possible by optimizing expression."
+        },
+        {
+          "theory_id": "T012969",
+          "subcluster_name": "Programmed Molecular Continuation of Development Theory",
+          "reasoning": "Links developmental genetic programs controlling cell proliferation and cyclins to regulation of aging and calorie restriction effects."
+        },
+        {
+          "theory_id": "T015747",
+          "subcluster_name": "Developmental Programming and Early-Life Environmental Impact Theory",
+          "reasoning": "Focuses on early-life environmental epigenetic programming affecting aging, lifespan, and health outcomes."
+        },
+        {
+          "theory_id": "T005748",
+          "subcluster_name": "Developmental Programming and Early-Life Environmental Impact Theory",
+          "reasoning": "Describes maternal nutrient restriction causing mitochondrial dysfunction via developmental programming, accelerating aging."
+        },
+        {
+          "theory_id": "T004979",
+          "subcluster_name": "Programmed Decline of Repair Mechanisms Theory",
+          "reasoning": "Explains cellular senescence via stochastic loss of gene repression leading to irreversible cell cycle arrest, linking to programmed aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:52:50"
+}

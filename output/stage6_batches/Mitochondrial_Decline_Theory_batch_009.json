@@ -1,0 +1,207 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 9,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+        "theory_ids": [
+          "T009449",
+          "T009156",
+          "T009384",
+          "T010017",
+          "T009945",
+          "T009603",
+          "T009974",
+          "T008952"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+        "theory_ids": [
+          "T009512",
+          "T009215",
+          "T009703",
+          "T009175",
+          "T009316",
+          "T009206",
+          "T009356",
+          "T008175",
+          "T009398",
+          "T008781",
+          "T009097"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+        "theory_ids": [
+          "T009722",
+          "T009363",
+          "T009708",
+          "T009992",
+          "T008900",
+          "T009018",
+          "T008399",
+          "T009669"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T009449",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Focuses on mitochondrial quality control pathways including mitophagy, fusion/fission dynamics, and mitochondrial-derived vesicles maintaining mitochondrial homeostasis."
+        },
+        {
+          "theory_id": "T009156",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Emphasizes mitochondrial dynamics (fusion, fission), mitophagy, and quality control as central to aging and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T009384",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Describes mitochondrial quality control mechanisms in T cells including mitophagy and dynamics affecting aging and immune function."
+        },
+        {
+          "theory_id": "T010017",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Incorporates mitochondrial quality control via mitophagy and mitochondrial dynamics (fusion/fission) as key regulators of aging."
+        },
+        {
+          "theory_id": "T009945",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Focuses on mitonuclear communication, mitochondrial quality control, and signaling pathways maintaining mitochondrial and cellular homeostasis."
+        },
+        {
+          "theory_id": "T009603",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Describes altered mitochondrial mass, mitophagy, and bioenergetics changes in stem cells linked to aging."
+        },
+        {
+          "theory_id": "T009974",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Details mitochondrial bioenergetics dysfunction, redox imbalance, and quality control defects contributing to aging."
+        },
+        {
+          "theory_id": "T008952",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Highlights impaired mitochondrial fusion-fission cycles and mitonuclear interactions affecting mitochondrial function and aging."
+        },
+        {
+          "theory_id": "T009807",
+          "subcluster_name": "Mitochondrial Signaling Dysfunction Theory",
+          "reasoning": "Focuses on mitochondria as signaling organelles and how disruption of mitochondrial signaling pathways drives aging."
+        },
+        {
+          "theory_id": "T009512",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Centers on mitochondrial ROS production causing oxidative damage to mtDNA and proteins, leading to dysfunction and apoptosis."
+        },
+        {
+          "theory_id": "T009215",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Emphasizes mitochondrial oxidative stress causing DNA damage, cellular senescence, and aging phenotypes."
+        },
+        {
+          "theory_id": "T009703",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Describes Complex I deficiency increasing mitochondrial superoxide production leading to apoptosis and aging."
+        },
+        {
+          "theory_id": "T009175",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS damage in oocytes causing mtDNA mutations, apoptosis, and aging-related decline."
+        },
+        {
+          "theory_id": "T009316",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Highlights ROS production and oxidative damage accumulation in mitochondria as fundamental causes of aging."
+        },
+        {
+          "theory_id": "T009206",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Links mitochondrial oxidative stress and dysfunction to aging phenotypes in genetic diseases and progeroid syndromes."
+        },
+        {
+          "theory_id": "T009356",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Describes mitochondrial dysfunction and ROS accumulation causing a vicious cycle of damage leading to aging."
+        },
+        {
+          "theory_id": "T008175",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Focuses on Complex I H+ pumping inhibition causing maximal superoxide production and oxidative stress driving aging."
+        },
+        {
+          "theory_id": "T009722",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Centers on accumulation of mtDNA mutations with age causing mitochondrial dysfunction and tissue-specific aging phenotypes."
+        },
+        {
+          "theory_id": "T009363",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Posits mtDNA mutations in respiratory chain genes cause catalytic deficiency and mitochondrial respiratory decline with aging."
+        },
+        {
+          "theory_id": "T009708",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Describes somatic mtDNA mutation accumulation impairing electron transport and causing mitochondrial dysfunction in aging."
+        },
+        {
+          "theory_id": "T009992",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Proposes mtDNA mutation accumulation causes mitochondrial respiratory dysfunction and aging phenotypes."
+        },
+        {
+          "theory_id": "T008900",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Focuses on age-dependent accumulation of large mtDNA deletions impairing respiratory function and contributing to aging."
+        },
+        {
+          "theory_id": "T009018",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Describes mosaic accumulation of mtDNA deletions in aging skeletal muscle leading to respiratory dysfunction."
+        },
+        {
+          "theory_id": "T008399",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Attributes mtDNA mutations mainly to replication errors by mitochondrial DNA polymerase gamma, accumulating with age."
+        },
+        {
+          "theory_id": "T009669",
+          "subcluster_name": "Mitochondrial DNA Mutation Accumulation Theory",
+          "reasoning": "Links age-related decline in OXPHOS to accumulation of mtDNA damage and mutations impairing mitochondrial function."
+        },
+        {
+          "theory_id": "T009398",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Describes respiration-dependent ROS production causing mtDNA damage and mitochondrial decline contributing to aging."
+        },
+        {
+          "theory_id": "T008781",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing oxidative damage in lysosomes leading to lipofuscin accumulation and aging."
+        },
+        {
+          "theory_id": "T009097",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Theory",
+          "reasoning": "Links mitochondrial dysfunction and ROS accumulation to brain aging and Alzheimer's disease pathology."
+        },
+        {
+          "theory_id": "T007449",
+          "subcluster_name": "CLK-1/MCLK1 Mitochondrial Aging Theory",
+          "reasoning": "Focuses on mitochondrial enzyme CLK-1/MCLK1 role in ubiquinone biosynthesis and aging modulation via mitochondrial function."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:41:34"
+}

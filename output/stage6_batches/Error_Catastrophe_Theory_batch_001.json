@@ -1,0 +1,133 @@
+{
+  "cluster_name": "Error Catastrophe Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+        "theory_ids": [
+          "T001122",
+          "T008107",
+          "T007031",
+          "T004467",
+          "T004331",
+          "T002809",
+          "T008340",
+          "T001987",
+          "T007371",
+          "T003719",
+          "T007829",
+          "T003091",
+          "T001273",
+          "T008624",
+          "T008772",
+          "T008108",
+          "T002302"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 17
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T001122",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Focuses on translation fidelity, elongation factors, and how errors in cytosolic translation machinery affect aging, linking translational accuracy directly to longevity."
+        },
+        {
+          "theory_id": "T008107",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Centers on ribosome editing, translational error feedback loops, and mathematical modeling of protein synthesis errors causing aging."
+        },
+        {
+          "theory_id": "T007031",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Describes protein synthesis errors accumulating and cascading through protein synthesis and DNA replication enzymes, causing aging."
+        },
+        {
+          "theory_id": "T004467",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Proposes accumulation of missynthesized proteins due to translation errors leading to functional decline and aging."
+        },
+        {
+          "theory_id": "T004331",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Focuses on accumulation of molecular errors in protein synthesis as a cause of aging, emphasizing testability of protein error accumulation."
+        },
+        {
+          "theory_id": "T002809",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Describes error accumulation in protein synthesis leading to catastrophic failure and cellular senescence."
+        },
+        {
+          "theory_id": "T008340",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Discusses stochastic molecular damage and vicious cycles of error amplification in protein synthesis and DNA replication causing aging."
+        },
+        {
+          "theory_id": "T001987",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Links translation error accumulation to longevity, describing a vicious cycle of declining translational fidelity causing aging."
+        },
+        {
+          "theory_id": "T007371",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Focuses on error propagation in protein synthesis enzymes and self-replicating translational machinery causing aging."
+        },
+        {
+          "theory_id": "T003719",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "The Orgel hypothesis emphasizing error accumulation in protein synthesis and self-reinforcing cycles causing aging."
+        },
+        {
+          "theory_id": "T007829",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Proposes decline in protein synthesis fidelity as causal for aging via error accumulation and feedback loops."
+        },
+        {
+          "theory_id": "T003091",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Mathematical modeling of error propagation in translation leading to error catastrophe and cell senescence."
+        },
+        {
+          "theory_id": "T001273",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Emphasizes translational accuracy control as determinant of healthy aging, linking fidelity to proteostasis and longevity."
+        },
+        {
+          "theory_id": "T008624",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Describes protein synthesis errors and amplification leading to catastrophic cellular function decline in aging."
+        },
+        {
+          "theory_id": "T008772",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Models propagation of translation and transcription errors in protein synthesis enzymes causing catastrophic failure."
+        },
+        {
+          "theory_id": "T008108",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Focuses on accumulation of protein synthesis errors causing heterogeneous protein populations and self-accelerating fidelity decline."
+        },
+        {
+          "theory_id": "T002302",
+          "subcluster_name": "Translation Fidelity and Protein Synthesis Error Catastrophe Theories",
+          "reasoning": "Links increased translational fidelity to longevity, highlighting proteome stability as key to aging."
+        },
+        {
+          "theory_id": "T004391",
+          "subcluster_name": "Somatic Mutation and DNA-Associated Error Catastrophe Theories",
+          "reasoning": "Focuses on accumulation of somatic mutations in DNA and protein synthesis machinery causing error catastrophe and cellular senescence."
+        },
+        {
+          "theory_id": "T007068",
+          "subcluster_name": "Membrane Deterioration and Free Radical-Linked Error Catastrophe Theories",
+          "reasoning": "Integrates protein synthesis errors with membrane protein faults, lipid peroxidation, free radical damage, and feedback loops causing aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:55:36"
+}

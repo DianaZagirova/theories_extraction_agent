@@ -1,0 +1,180 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 18,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+        "theory_ids": [
+          "T013747",
+          "T013797",
+          "T013694",
+          "T013851",
+          "T013874",
+          "T014009",
+          "T013759",
+          "T013679",
+          "T013733",
+          "T013656",
+          "T013829",
+          "T013779",
+          "T013716",
+          "T013744",
+          "T013676",
+          "T013690"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 16
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+        "theory_ids": [
+          "T013741",
+          "T013942",
+          "T013966",
+          "T013940",
+          "T013732",
+          "T013766"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T013747",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Focuses on accumulation of mtDNA mutations caused by ROS, mitochondrial dynamics, and energy depletion linking mtDNA damage and oxidative stress."
+        },
+        {
+          "theory_id": "T013797",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Centers on mtDNA mutation accumulation, heteroplasmy, and integration with free radical damage causing mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T013694",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Emphasizes mitochondrial fusion-fission cycles affecting mtDNA mutant clonal expansion and quality control, linking mtDNA mutations and ROS."
+        },
+        {
+          "theory_id": "T013851",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Describes mtDNA mutation accumulation, ROS-induced damage, and mathematical modeling of mitochondrial population dynamics."
+        },
+        {
+          "theory_id": "T013874",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Focuses on oxidative stress causing mtDNA mutations and deletions, affecting electron transport chain and mitochondrial function."
+        },
+        {
+          "theory_id": "T014009",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Details mtDNA mutation accumulation impairing respiratory chain complexes and mitochondrial enzyme function."
+        },
+        {
+          "theory_id": "T013741",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial ROS as causal agents of aging and oxidative damage driving mitochondrial and cardiac aging."
+        },
+        {
+          "theory_id": "T013759",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Includes mtDNA mutations, ROS damage, mitochondrial quality control decline, and retrograde signaling linking mitochondrial dysfunction to aging."
+        },
+        {
+          "theory_id": "T013942",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial free radicals causing mtDNA damage, especially complex I dysfunction, and antioxidant defense roles."
+        },
+        {
+          "theory_id": "T013679",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Describes mtDNA mutation accumulation, defective oxidative phosphorylation, ROS vicious cycle, and apoptosis involvement."
+        },
+        {
+          "theory_id": "T013733",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Highlights mtDNA damage and ROS vicious cycle, phenotypic threshold effects, and respiratory chain dysfunction."
+        },
+        {
+          "theory_id": "T013656",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Focuses on ROS production, mtDNA mutations, energetic decline, and ROS self-amplifying damage cycle."
+        },
+        {
+          "theory_id": "T013966",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Emphasizes mitochondrial ROS causing oxidative mtDNA damage, repair mechanisms, and heterogeneity in damage distribution."
+        },
+        {
+          "theory_id": "T013829",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Describes somatic mtDNA mutation accumulation, mitochondrial functional decline, ROS damage, and tissue-specific vulnerability."
+        },
+        {
+          "theory_id": "T013779",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Focuses on mtDNA mutation accumulation, defective electron transport chain, especially complex I, and increased oxidative damage."
+        },
+        {
+          "theory_id": "T013639",
+          "subcluster_name": "Mitochondrial Complex II Dysfunction and ROS Theory",
+          "reasoning": "Centers on complex II mutation causing increased ROS production, oxidative stress, and accelerated aging phenotypes."
+        },
+        {
+          "theory_id": "T013950",
+          "subcluster_name": "Mitochondrial Metabolic Decline and TCA Cycle Theory",
+          "reasoning": "Focuses on mitochondrial functional decline with age, TCA cycle metabolite imbalance, and metabolic flux changes predicting aging."
+        },
+        {
+          "theory_id": "T013940",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes mitochondrial ROS causing oxidative damage leading to intervertebral disc degeneration and tissue dysfunction."
+        },
+        {
+          "theory_id": "T013716",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Focuses on mtDNA damage by free radicals, defective mitochondrial function, oxidative damage, and dietary modulation of membranes."
+        },
+        {
+          "theory_id": "T013744",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Proposes mtDNA mutation/inactivation in differentiated cells as primary aging cause, emphasizing vulnerability and bioenergetic decline."
+        },
+        {
+          "theory_id": "T013676",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Describes mitochondrial damage accumulation, ROS production, energetic decline, and mitochondrial regulation of apoptosis."
+        },
+        {
+          "theory_id": "T013732",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on oxidative damage causing mitochondrial dysfunction, ROS-induced mtDNA mutations, and feedback loops accelerating aging."
+        },
+        {
+          "theory_id": "T013766",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction and ROS production causing oxidative damage accumulation and decline in antioxidant defenses."
+        },
+        {
+          "theory_id": "T014032",
+          "subcluster_name": "Mitochondrial Dysfunction in Metabolic Syndrome and Atherosclerosis Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction caused by environmental toxins leading to metabolic syndrome and vascular remodeling."
+        },
+        {
+          "theory_id": "T013893",
+          "subcluster_name": "Mitochondrial Hormesis and Adaptive ROS Signaling Theory",
+          "reasoning": "Proposes transient mitochondrial ROS as beneficial signals triggering adaptive stress responses and longevity promotion."
+        },
+        {
+          "theory_id": "T013690",
+          "subcluster_name": "Mitochondrial DNA Mutation and ROS Feedback Theory",
+          "reasoning": "Describes accumulation of defective mitochondria due to delayed degradation, clonal expansion, and mitochondrial population dynamics."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:45:06"
+}

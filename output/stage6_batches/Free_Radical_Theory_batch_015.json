@@ -1,0 +1,195 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 15,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+        "theory_ids": [
+          "T015577",
+          "T015162",
+          "T014525",
+          "T015879",
+          "T014873",
+          "T015975",
+          "T016004",
+          "T015511",
+          "T015594",
+          "T015933",
+          "T015999",
+          "T015605"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS and Oxidative Damage Feedback Theory",
+        "theory_ids": [
+          "T015997",
+          "T015579",
+          "T014618",
+          "T015767",
+          "T015837"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Oxidative Damage Accumulation to Proteins and Lifespan Correlation",
+        "theory_ids": [
+          "T015634",
+          "T014688",
+          "T015882"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Oxidative DNA Damage Accumulation Theory",
+        "theory_ids": [
+          "T014521",
+          "T015022",
+          "T014648"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T015577",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Focuses on oxidative damage and the role of superoxide dismutase (SOD) and catalase enzyme balance in modulating aging."
+        },
+        {
+          "theory_id": "T015162",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Emphasizes SIRT3-mediated activation of mitochondrial SOD2 and calorie restriction effects on oxidative stress defense."
+        },
+        {
+          "theory_id": "T014525",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Describes oxidative damage by free radicals and modulation of antioxidant enzymes influencing lifespan."
+        },
+        {
+          "theory_id": "T015879",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Focuses on pharmacological upregulation of endogenous antioxidant enzymes like SOD and catalase to reduce oxidative damage."
+        },
+        {
+          "theory_id": "T014873",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Discusses age-related changes in antioxidant systems and their protective role against ROS-induced damage."
+        },
+        {
+          "theory_id": "T015975",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Correlates survival during aging with induction of antioxidant enzymes such as SOD, glutathione reductase, and ascorbate."
+        },
+        {
+          "theory_id": "T016004",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Highlights brain antioxidant enzyme induction and antioxidant/prooxidant balance affecting survival and aging."
+        },
+        {
+          "theory_id": "T015511",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, antioxidant enzyme decline with age, and metabolic rate dependency of oxidative damage."
+        },
+        {
+          "theory_id": "T015594",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Discusses species, strain, and sex differences in oxidative stress response and antioxidant enzyme roles in aging."
+        },
+        {
+          "theory_id": "T015933",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Examines gender differences in ROS homeostasis and antioxidant defenses influencing lifespan."
+        },
+        {
+          "theory_id": "T015999",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Describes roles of SOD enzymes in mitigating ROS and RNS damage and evolutionary adaptations managing oxidative stress."
+        },
+        {
+          "theory_id": "T015605",
+          "subcluster_name": "Antioxidant Enzyme Regulation in Free Radical Theory",
+          "reasoning": "Focuses on ROS accumulation, antioxidant defenses, and mitochondrial/cytosolic ROS production in vascular aging."
+        },
+        {
+          "theory_id": "T015997",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Feedback Theory",
+          "reasoning": "Emphasizes mitochondria as major ROS source, ROS-induced damage to biomolecules, and antioxidant enzyme roles in lifespan."
+        },
+        {
+          "theory_id": "T015579",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Feedback Theory",
+          "reasoning": "Focuses on mitochondrial hydrogen peroxide production, inverse correlation with lifespan, and pro-oxidant/antioxidant balance."
+        },
+        {
+          "theory_id": "T014618",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Feedback Theory",
+          "reasoning": "Describes mitochondria as primary ROS source, oxidative damage feedback loop involving mtDNA damage accelerating aging."
+        },
+        {
+          "theory_id": "T015767",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Feedback Theory",
+          "reasoning": "Links glutathione levels, mitochondrial function, glucose-dependent ROS production, and aging in yeast."
+        },
+        {
+          "theory_id": "T015837",
+          "subcluster_name": "Mitochondrial ROS and Oxidative Damage Feedback Theory",
+          "reasoning": "Highlights accumulation of somatic damage by ROS, DNA damage as critical factor, and mitochondrial ROS in aging."
+        },
+        {
+          "theory_id": "T014999",
+          "subcluster_name": "Hormesis and Stress Response Modulation in Free Radical Theory",
+          "reasoning": "Focuses on hormesis, dietary antioxidants as hormetic agents, and vitagenes regulating stress responses delaying aging."
+        },
+        {
+          "theory_id": "T014519",
+          "subcluster_name": "Protein Repair and Methionine Sulfoxide Reductase Mechanism",
+          "reasoning": "Focuses on methionine sulfoxide reductases (MsrA and MsrB) repairing oxidized methionine residues and their differential effects on aging."
+        },
+        {
+          "theory_id": "T015634",
+          "subcluster_name": "Oxidative Damage Accumulation to Proteins and Lifespan Correlation",
+          "reasoning": "Emphasizes protein oxidation accumulation, species differences in susceptibility, and decline in antioxidative defenses with age."
+        },
+        {
+          "theory_id": "T014688",
+          "subcluster_name": "Oxidative Damage Accumulation to Proteins and Lifespan Correlation",
+          "reasoning": "Describes protein oxidation as marker and driver of aging and dietary restriction reducing oxidative damage."
+        },
+        {
+          "theory_id": "T015882",
+          "subcluster_name": "Oxidative Damage Accumulation to Proteins and Lifespan Correlation",
+          "reasoning": "Focuses on protein carbonyl content as oxidative damage marker and spin-trapping compounds reducing damage and lifespan effects."
+        },
+        {
+          "theory_id": "T014521",
+          "subcluster_name": "Oxidative DNA Damage Accumulation Theory",
+          "reasoning": "Focuses on oxidative DNA damage accumulation, 8-hydroxy-2'-deoxyguanosine as biomarker, and decline in DNA repair with age."
+        },
+        {
+          "theory_id": "T015022",
+          "subcluster_name": "Oxidative DNA Damage Accumulation Theory",
+          "reasoning": "Emphasizes oxidative DNA damage, metabolic rate correlation with lifespan, antioxidant defense, and mitogenesis accelerating mutagenesis."
+        },
+        {
+          "theory_id": "T014648",
+          "subcluster_name": "Oxidative DNA Damage Accumulation Theory",
+          "reasoning": "Describes age-related oxidative DNA damage, decline in mitochondrial efficiency, antioxidant defenses, and DNA repair."
+        },
+        {
+          "theory_id": "T013833",
+          "subcluster_name": "Metal-Dependent Flavonoid Activation and Oxidative Stress Theory",
+          "reasoning": "Focuses on metal ion catalysis of ROS formation, flavonoid prooxidant activation, and PaMTH1 methyltransferase protecting against oxidative stress."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:13:42"
+}

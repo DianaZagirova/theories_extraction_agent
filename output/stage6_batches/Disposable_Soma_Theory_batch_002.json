@@ -1,0 +1,177 @@
+{
+  "cluster_name": "Disposable Soma Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+        "theory_ids": [
+          "T000848",
+          "T000898",
+          "T001064",
+          "T001109",
+          "T000960",
+          "T000962",
+          "T000885",
+          "T000694",
+          "T000767",
+          "T000909",
+          "T001167",
+          "T000718",
+          "T001005",
+          "T000712",
+          "T000931",
+          "T000757",
+          "T000826",
+          "T000799",
+          "T000880"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 19
+      },
+      {
+        "subcluster_name": "Reproductive Potential Disposable Soma Theory",
+        "theory_ids": [
+          "T000940",
+          "T000634",
+          "T000633",
+          "T000897",
+          "T000807"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T000848",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Focuses on IIS/TOR pathway regulation of aging linked to nutrient sensing and lifespan extension."
+        },
+        {
+          "theory_id": "T000898",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Dietary restriction extends lifespan by reducing nutrient-responsive kinase signaling including IIS and TOR."
+        },
+        {
+          "theory_id": "T001064",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Insulin/IGF signaling pathway mutations modulate lifespan via nutrient signaling."
+        },
+        {
+          "theory_id": "T001109",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "IIS pathway regulates lifespan and reproduction through nutrient signaling and dFOXO transcription factor."
+        },
+        {
+          "theory_id": "T000960",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Evolutionarily conserved IIS pathway modulates longevity via nutrient and insulin sensitivity regulation."
+        },
+        {
+          "theory_id": "T000962",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "IIS pathway regulates aging through metabolic and stress response pathways linked to nutrient sensing."
+        },
+        {
+          "theory_id": "T000885",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Dietary restriction theory emphasizing nutrient intake reduction and interaction with IIS/TOR pathways."
+        },
+        {
+          "theory_id": "T000694",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Essential amino acid restriction extends lifespan by downregulating nutrient sensing pathways like TOR and IIS."
+        },
+        {
+          "theory_id": "T000767",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Reduced insulin/IGF-1 signaling extends lifespan via nutrient sensing and FOXO activation."
+        },
+        {
+          "theory_id": "T000909",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "IIS pathway modulates lifespan and functional aging via tissue-specific nutrient signaling effects."
+        },
+        {
+          "theory_id": "T001167",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "IIS pathway regulates longevity assurance mechanisms including detoxification linked to nutrient signaling."
+        },
+        {
+          "theory_id": "T000718",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Insulin/IGF-1 signaling regulates lifespan and antioxidant defense via nutrient sensing pathways."
+        },
+        {
+          "theory_id": "T001005",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Conserved insulin/IGF-1 signaling regulates aging through DAF-16/FOXO transcription factors linked to nutrient sensing."
+        },
+        {
+          "theory_id": "T000712",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Insulin/IGF-1 signaling modulates lifespan and neuroprotection via nutrient sensing and DAF-16/FOXO."
+        },
+        {
+          "theory_id": "T000931",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Forkhead transcription factors downstream of IIS mediate cell type-specific nutrient signaling effects on aging."
+        },
+        {
+          "theory_id": "T000757",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Reduced insulin/IGF-1 signaling extends lifespan via FOXO-mediated nutrient sensing pathways."
+        },
+        {
+          "theory_id": "T000826",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Attenuation of insulin/IGF-1 signaling extends lifespan by enhancing stress resistance linked to nutrient sensing."
+        },
+        {
+          "theory_id": "T000799",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "Reduced IIS activity extends lifespan with sex-specific effects via nutrient and hormonal signaling."
+        },
+        {
+          "theory_id": "T000880",
+          "subcluster_name": "IIS/TOR Nutrient Signaling Disposable Soma Theory",
+          "reasoning": "RGS-1 modulates oxidative stress resistance and longevity via IIS pathway nutrient signaling."
+        },
+        {
+          "theory_id": "T000631",
+          "subcluster_name": "Calorie Restriction Mitochondrial Metabolism Disposable Soma Theory",
+          "reasoning": "Calorie restriction extends lifespan by enhancing mitochondrial oxidative metabolism and respiratory competence."
+        },
+        {
+          "theory_id": "T000940",
+          "subcluster_name": "Reproductive Potential Disposable Soma Theory",
+          "reasoning": "Links reproductive potential, especially ovarian somatic tissue, to systemic aging and lifespan regulation."
+        },
+        {
+          "theory_id": "T000634",
+          "subcluster_name": "Reproductive Potential Disposable Soma Theory",
+          "reasoning": "Trade-off between reproductive effort and somatic maintenance influences aging and lifespan."
+        },
+        {
+          "theory_id": "T000633",
+          "subcluster_name": "Reproductive Potential Disposable Soma Theory",
+          "reasoning": "Life-history trade-offs between reproduction and somatic maintenance drive senescence and aging."
+        },
+        {
+          "theory_id": "T000897",
+          "subcluster_name": "Reproductive Potential Disposable Soma Theory",
+          "reasoning": "Evolutionary reaction norm theory links dietary restriction, reproduction, and longevity trade-offs."
+        },
+        {
+          "theory_id": "T000807",
+          "subcluster_name": "Reproductive Potential Disposable Soma Theory",
+          "reasoning": "Energy allocation between growth, reproduction, and maintenance influenced by thermoregulation strategy affects aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:58:46"
+}

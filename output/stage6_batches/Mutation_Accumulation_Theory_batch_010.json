@@ -1,0 +1,176 @@
+{
+  "cluster_name": "Mutation Accumulation Theory",
+  "batch_num": 10,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+        "theory_ids": [
+          "T023679",
+          "T023703",
+          "T023651",
+          "T025788",
+          "T023701",
+          "T022787",
+          "T025014",
+          "T025064",
+          "T023364",
+          "T024078",
+          "T024343",
+          "T023716"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Somatic Mutation Accumulation in Adult Stem Cells Theory",
+        "theory_ids": [
+          "T021026",
+          "T025371"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Evolutionary Genetic Mutation Accumulation Model",
+        "theory_ids": [
+          "T023459",
+          "T024033",
+          "T023835",
+          "T024196",
+          "T023536",
+          "T024662",
+          "T021477"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T023679",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Focuses on accumulation of somatic mutations in nuclear DNA of differentiated cells and stem cells, emphasizing oxidative stress and regulatory region mutations."
+        },
+        {
+          "theory_id": "T023703",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Describes aging as caused by accumulation of somatic mutations in nuclear DNA during adult life leading to cellular dysfunction."
+        },
+        {
+          "theory_id": "T023651",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Details linear accumulation of somatic mutations with age in human tissues, focusing on nuclear DNA and mutational signatures."
+        },
+        {
+          "theory_id": "T025788",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Emphasizes accumulation of DNA mutations in somatic cells driven by oxidative stress causing genetic mosaicism in aging tissues."
+        },
+        {
+          "theory_id": "T023701",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Proposes stochastic accumulation of somatic DNA mutations and genome instability as drivers of aging."
+        },
+        {
+          "theory_id": "T022787",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Focuses on age-dependent accumulation of somatic mutations in nuclear DNA, mutation load doubling with age, and tissue/gender differences."
+        },
+        {
+          "theory_id": "T025014",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of DNA mutations with age, decline in DNA repair capacity, and role of oxidative stress in nuclear DNA damage."
+        },
+        {
+          "theory_id": "T025064",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Aging caused by random accumulation of nuclear DNA mutations, including mutational interactions and epigenetic changes."
+        },
+        {
+          "theory_id": "T023364",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Somatic mutation burden increases with age in nuclear DNA, causing genome mosaicism and functional decline in tissues."
+        },
+        {
+          "theory_id": "T024078",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Uses transgenic mouse models to study accumulation of nuclear DNA mutations with age and tissue-specific mutation rates."
+        },
+        {
+          "theory_id": "T024343",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Somatic mutations accumulate in nuclear DNA causing genome instability, linked to aging and cancer, consistent with disposable soma theory."
+        },
+        {
+          "theory_id": "T023716",
+          "subcluster_name": "Nuclear Somatic Mutation Accumulation Theory",
+          "reasoning": "Describes accumulation of somatic nuclear DNA mutations leading to clonal expansions that affect tissue function and aging."
+        },
+        {
+          "theory_id": "T021026",
+          "subcluster_name": "Somatic Mutation Accumulation in Adult Stem Cells Theory",
+          "reasoning": "Focuses on accumulation of somatic mutations in skeletal muscle satellite stem cells impairing regeneration and function with age."
+        },
+        {
+          "theory_id": "T022805",
+          "subcluster_name": "Somatic Mutation Accumulation in Post-mitotic Neurons Theory",
+          "reasoning": "Describes accumulation of somatic mutations in post-mitotic neurons causing brain mosaicism and contributing to neurodegeneration."
+        },
+        {
+          "theory_id": "T025371",
+          "subcluster_name": "Somatic Mutation Accumulation in Adult Stem Cells Theory",
+          "reasoning": "Highlights organ-specific accumulation of genome rearrangements in somatic cells, especially liver, affecting aging phenotypes."
+        },
+        {
+          "theory_id": "T023107",
+          "subcluster_name": "Somatic CAG Repeat Instability Theory",
+          "reasoning": "Focuses on somatic instability and expansion of CAG repeats in neurons causing polyglutamine disease aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T021122",
+          "subcluster_name": "Oxidative Nucleotide Pool Sanitization Mutation Accumulation Theory",
+          "reasoning": "Emphasizes oxidative damage to nucleotide pools causing mutations; hMTH1 enzyme sanitizes oxidized nucleotides reducing mutation burden and aging."
+        },
+        {
+          "theory_id": "T023459",
+          "subcluster_name": "Evolutionary Genetic Mutation Accumulation Model",
+          "reasoning": "Penna bit-string model simulates accumulation of deleterious mutations over generations causing age-dependent mortality and aging."
+        },
+        {
+          "theory_id": "T024033",
+          "subcluster_name": "Evolutionary Genetic Mutation Accumulation Model",
+          "reasoning": "Explains aging as accumulation of late-acting deleterious mutations due to declining natural selection with age and life-history trade-offs."
+        },
+        {
+          "theory_id": "T023835",
+          "subcluster_name": "Evolutionary Genetic Mutation Accumulation Model",
+          "reasoning": "Genetic theories of senescence including mutation accumulation and antagonistic pleiotropy explaining age-dependent fitness decline."
+        },
+        {
+          "theory_id": "T024196",
+          "subcluster_name": "Evolutionary Genetic Mutation Accumulation Model",
+          "reasoning": "Frames aging as accumulation of late-acting deleterious mutations due to weakened selection, serving as a null evolutionary model."
+        },
+        {
+          "theory_id": "T023536",
+          "subcluster_name": "Evolutionary Genetic Mutation Accumulation Model",
+          "reasoning": "Studies genetic basis of senescence and life-history trade-offs in wild populations, supporting mutation accumulation as evolutionary aging cause."
+        },
+        {
+          "theory_id": "T024662",
+          "subcluster_name": "Evolutionary Genetic Mutation Accumulation Model",
+          "reasoning": "Argues aging is not genetically programmed but results from accumulation of damage due to declining natural selection with age."
+        },
+        {
+          "theory_id": "T021477",
+          "subcluster_name": "Evolutionary Genetic Mutation Accumulation Model",
+          "reasoning": "Demonstrates heritability of lifespan and genetic variation affecting aging rates, consistent with evolutionary mutation accumulation theory."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:03:20"
+}

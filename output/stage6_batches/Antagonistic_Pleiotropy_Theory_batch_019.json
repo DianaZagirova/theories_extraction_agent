@@ -1,0 +1,167 @@
+{
+  "cluster_name": "Antagonistic Pleiotropy Theory",
+  "batch_num": 19,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Programmatic Aging via IIS and Wild-Type Gene Hyperfunction",
+        "theory_ids": [
+          "T016713",
+          "T016881",
+          "T019111",
+          "T018510",
+          "T017211",
+          "T016970",
+          "T017807",
+          "T017078"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Genetic Trade-Offs Between Early Fitness and Late Aging",
+        "theory_ids": [
+          "T016717",
+          "T017206",
+          "T016605",
+          "T016883",
+          "T016564",
+          "T018261",
+          "T017266"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Sexual Selection and Resource Allocation Trade-Offs in Aging",
+        "theory_ids": [
+          "T016589",
+          "T016587",
+          "T016610",
+          "T017302",
+          "T017993",
+          "T016250",
+          "T018265"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016713",
+          "subcluster_name": "Programmatic Aging via IIS and Wild-Type Gene Hyperfunction",
+          "reasoning": "Focuses on run-on of wild-type biological programs, especially IIS-driven gut-to-yolk biomass conversion causing senescence, illustrating programmatic aging mechanisms."
+        },
+        {
+          "theory_id": "T016881",
+          "subcluster_name": "Programmatic Aging via IIS and Wild-Type Gene Hyperfunction",
+          "reasoning": "Details IIS pathway promoting reproduction and aging through yolk production and maternal tissue degeneration, a programmatic antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T019111",
+          "subcluster_name": "Programmatic Aging via IIS and Wild-Type Gene Hyperfunction",
+          "reasoning": "Describes progressive suppression of proliferation (PSP) via genetic programs (MYCN/LIN28B/Let-7/HMGA2) that limit growth and stem cell renewal, consistent with programmatic aging and antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T018510",
+          "subcluster_name": "Programmatic Aging via IIS and Wild-Type Gene Hyperfunction",
+          "reasoning": "Growth hormone developmental programming theory showing early-life GH benefits but late-life pro-aging effects, a programmatic antagonistic pleiotropy mechanism."
+        },
+        {
+          "theory_id": "T017211",
+          "subcluster_name": "Programmatic Aging via IIS and Wild-Type Gene Hyperfunction",
+          "reasoning": "Appetite-driven neuroendocrine optimization for reproduction causes long-term damage and aging, a programmatic internal milieu trade-off consistent with antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T016970",
+          "subcluster_name": "Programmatic Aging via IIS and Wild-Type Gene Hyperfunction",
+          "reasoning": "Demonstrates fitness cost of longevity mutations in C. elegans with trade-offs between early reproduction and late survival, consistent with programmatic gene effects."
+        },
+        {
+          "theory_id": "T017807",
+          "subcluster_name": "Programmatic Aging via IIS and Wild-Type Gene Hyperfunction",
+          "reasoning": "Shows delayed mortality wave from early reproduction due to pleiotropic genes with early benefits and late costs, fitting programmatic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T017078",
+          "subcluster_name": "Programmatic Aging via IIS and Wild-Type Gene Hyperfunction",
+          "reasoning": "Quantitative trait loci with early-life benefits and late-life costs illustrate genetic trade-offs driving aging, consistent with programmatic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T016717",
+          "subcluster_name": "Genetic Trade-Offs Between Early Fitness and Late Aging",
+          "reasoning": "Focuses on genetic trade-offs where genes beneficial early in life cause late-life aging, with examples like p53 mutations, emphasizing genetic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T017206",
+          "subcluster_name": "Genetic Trade-Offs Between Early Fitness and Late Aging",
+          "reasoning": "Discusses age-dependent gene effects with pleiotropic trade-offs between survival and disease, highlighting genetic influences on longevity and aging."
+        },
+        {
+          "theory_id": "T016605",
+          "subcluster_name": "Genetic Trade-Offs Between Early Fitness and Late Aging",
+          "reasoning": "Examines pleiotropic genes (e.g., ESR1, CYP19) affecting fertility and longevity, illustrating genetic resource allocation trade-offs consistent with antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T016883",
+          "subcluster_name": "Genetic Trade-Offs Between Early Fitness and Late Aging",
+          "reasoning": "Shows genetic correlations between fertility and post-reproductive lifespan, mediated by specific genes, exemplifying genetic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T016564",
+          "subcluster_name": "Genetic Trade-Offs Between Early Fitness and Late Aging",
+          "reasoning": "AP effects of APOE polymorphism on cardiovascular disease and cancer onset illustrate complex genetic trade-offs influencing aging and lifespan."
+        },
+        {
+          "theory_id": "T018261",
+          "subcluster_name": "Genetic Trade-Offs Between Early Fitness and Late Aging",
+          "reasoning": "Age-1 gene mutation in C. elegans shows genetic control of lifespan and reproduction trade-offs, a clear example of genetic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T017266",
+          "subcluster_name": "Genetic Trade-Offs Between Early Fitness and Late Aging",
+          "reasoning": "Explores trade-offs between longevity and reproductive success in humans, consistent with genetic antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T016589",
+          "subcluster_name": "Sexual Selection and Resource Allocation Trade-Offs in Aging",
+          "reasoning": "Focuses on sex-specific reproductive aging shaped by sexual selection and resource allocation trade-offs between reproduction and somatic maintenance."
+        },
+        {
+          "theory_id": "T016587",
+          "subcluster_name": "Sexual Selection and Resource Allocation Trade-Offs in Aging",
+          "reasoning": "Describes male-biased reproductive investment and accelerated aging due to sexual selection pressures, fitting sexual selection-driven trade-offs."
+        },
+        {
+          "theory_id": "T016610",
+          "subcluster_name": "Sexual Selection and Resource Allocation Trade-Offs in Aging",
+          "reasoning": "Expensive germline maintenance and sex-specific costs illustrate resource allocation trade-offs affecting lifespan, linked to sexual selection."
+        },
+        {
+          "theory_id": "T017302",
+          "subcluster_name": "Sexual Selection and Resource Allocation Trade-Offs in Aging",
+          "reasoning": "Reviews evolutionary theories including antagonistic pleiotropy and disposable soma, emphasizing resource allocation trade-offs between reproduction and maintenance."
+        },
+        {
+          "theory_id": "T017993",
+          "subcluster_name": "Sexual Selection and Resource Allocation Trade-Offs in Aging",
+          "reasoning": "Discusses declining natural selection with age and antagonistic pleiotropy, highlighting evolutionary trade-offs affecting aging and lifespan."
+        },
+        {
+          "theory_id": "T016250",
+          "subcluster_name": "Sexual Selection and Resource Allocation Trade-Offs in Aging",
+          "reasoning": "Frames aging as failure of natural selection with pleiotropy and trade-offs between reproduction and longevity, emphasizing resource allocation."
+        },
+        {
+          "theory_id": "T018265",
+          "subcluster_name": "Sexual Selection and Resource Allocation Trade-Offs in Aging",
+          "reasoning": "Combines antagonistic pleiotropy and mutation accumulation theories, focusing on evolutionary trade-offs and genotype-age interactions in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:56:46"
+}

@@ -1,0 +1,372 @@
+{
+  "cluster_name": "Klotho Deficiency Theory",
+  "batches_completed": 2,
+  "batch_results": [
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+          "theory_ids": [
+            "T019976",
+            "T016310",
+            "T019927",
+            "T019776",
+            "T016657",
+            "T018120",
+            "T020452",
+            "T001515",
+            "T018952",
+            "T020489",
+            "T005313",
+            "T000568",
+            "T015968",
+            "T000010"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 14
+        },
+        {
+          "subcluster_name": "Klotho-FGF23 Phosphate Metabolism and Mineral Homeostasis Theory",
+          "theory_ids": [
+            "T019104",
+            "T020545",
+            "T020090",
+            "T008304",
+            "T019173",
+            "T019562"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 6
+        },
+        {
+          "subcluster_name": "Klotho Wnt Signaling Antagonism and Stem Cell Preservation Theory",
+          "theory_ids": [
+            "T017073",
+            "T018964"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 2
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T019976",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Focuses on Klotho as an aging suppressor via inhibition of insulin/IGF-1 signaling and modulation of intracellular pathways including oxidative stress resistance."
+          },
+          {
+            "theory_id": "T016310",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Emphasizes Klotho\u2019s inhibition of insulin/IGF-1 signaling leading to FoxO activation and mitochondrial antioxidant enzyme upregulation."
+          },
+          {
+            "theory_id": "T019927",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Describes secreted Klotho\u2019s endocrine role inhibiting insulin/IGF-1 signaling and regulating phosphate metabolism linked to aging."
+          },
+          {
+            "theory_id": "T019776",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Details Klotho\u2019s suppression of insulin/IGF-1 and Wnt signaling pathways, oxidative stress inhibition, and lifespan extension."
+          },
+          {
+            "theory_id": "T016657",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Focuses on secreted Klotho inhibiting insulin/IGF-1 signaling via receptor glycan modification, linking genetic variants to healthy aging."
+          },
+          {
+            "theory_id": "T018120",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Highlights Klotho as a circulating hormone suppressing insulin/IGF-1 signaling to extend lifespan."
+          },
+          {
+            "theory_id": "T020452",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Describes Klotho\u2019s role in oxidative stress suppression via FOXO activation and insulin/IGF-1 signaling inhibition."
+          },
+          {
+            "theory_id": "T001515",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Details Klotho\u2019s repression of insulin and IGF1 receptor signaling as a conserved mechanism for lifespan extension."
+          },
+          {
+            "theory_id": "T018952",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Describes alpha-Klotho\u2019s inhibition of insulin/IGF-1 signaling, FOXO activation, and antioxidant enzyme upregulation."
+          },
+          {
+            "theory_id": "T020489",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Pleiotropic anti-aging effects of secreted Klotho include modulation of insulin/IGF-1 and Wnt pathways, reducing inflammation and oxidative stress."
+          },
+          {
+            "theory_id": "T005313",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Focuses on pleiotropic anti-aging roles of Klotho isoforms including epigenetic regulation and inflammation reduction linked to insulin/IGF-1 signaling."
+          },
+          {
+            "theory_id": "T000568",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Klotho\u2019s neuroprotective effects via oxidative stress reduction and modulation of insulin/IGF-1 signaling and inflammation."
+          },
+          {
+            "theory_id": "T015968",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Klotho upregulation by aerobic exercise reduces ROS and extends lifespan, linked to insulin/IGF-1 signaling modulation."
+          },
+          {
+            "theory_id": "T000010",
+            "subcluster_name": "Klotho Insulin/IGF-1 Signaling Suppression Theory",
+            "reasoning": "Klotho gene regulates oxidative stress and signaling pathways including insulin/IGF-1, exerting cytoprotective anti-aging effects."
+          },
+          {
+            "theory_id": "T019104",
+            "subcluster_name": "Klotho-FGF23 Phosphate Metabolism and Mineral Homeostasis Theory",
+            "reasoning": "Focuses on Klotho as co-receptor for FGF23 regulating phosphate excretion and vitamin D metabolism linked to aging."
+          },
+          {
+            "theory_id": "T020545",
+            "subcluster_name": "Klotho-FGF23 Phosphate Metabolism and Mineral Homeostasis Theory",
+            "reasoning": "Describes Klotho\u2019s regulation of mineral metabolism via FGF23 co-receptor function affecting phosphate and vitamin D homeostasis."
+          },
+          {
+            "theory_id": "T020090",
+            "subcluster_name": "Klotho-FGF23 Phosphate Metabolism and Mineral Homeostasis Theory",
+            "reasoning": "Details aKlotho/FGF23 hormonal axis regulating phosphate metabolism and vascular calcification linked to aging."
+          },
+          {
+            "theory_id": "T008304",
+            "subcluster_name": "Klotho-FGF23 Phosphate Metabolism and Mineral Homeostasis Theory",
+            "reasoning": "Klotho deficiency causes dysregulated vitamin D and calcium metabolism leading to tissue damage and aging phenotypes."
+          },
+          {
+            "theory_id": "T019173",
+            "subcluster_name": "Klotho-FGF23 Phosphate Metabolism and Mineral Homeostasis Theory",
+            "reasoning": "Klotho deficiency causes hyperphosphatemia and vascular calcification, linking phosphate imbalance to systemic aging."
+          },
+          {
+            "theory_id": "T019562",
+            "subcluster_name": "Klotho-FGF23 Phosphate Metabolism and Mineral Homeostasis Theory",
+            "reasoning": "Klotho\u2019s role as cofactor for FGF23 and regulator of mineral metabolism influences aging and age-related disorders."
+          },
+          {
+            "theory_id": "T019130",
+            "subcluster_name": "Klotho Mitochondrial Dysfunction and Muscle Regeneration Theory",
+            "reasoning": "Focuses on age-related \u03b1-Klotho decline causing mitochondrial dysfunction in muscle progenitor cells impairing regeneration."
+          },
+          {
+            "theory_id": "T017073",
+            "subcluster_name": "Klotho Wnt Signaling Antagonism and Stem Cell Preservation Theory",
+            "reasoning": "Klotho antagonizes Wnt signaling to preserve stem cell function and prevent progenitor senescence driving aging."
+          },
+          {
+            "theory_id": "T018964",
+            "subcluster_name": "Klotho Wnt Signaling Antagonism and Stem Cell Preservation Theory",
+            "reasoning": "Klotho deficiency activates Wnt signaling causing stem cell senescence and tissue atrophy; Klotho suppresses Wnt to protect stem cells."
+          }
+        ]
+      }
+    },
+    {
+      "subclusters": [
+        {
+          "subcluster_name": "Klotho Gene Mutation and Systemic Aging Syndrome Theory",
+          "theory_ids": [
+            "T021927",
+            "T024898",
+            "T020554",
+            "T022644",
+            "T022426",
+            "T025593",
+            "T002053",
+            "T025414"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 8
+        },
+        {
+          "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+          "theory_ids": [
+            "T027109",
+            "T024037",
+            "T021971",
+            "T022025",
+            "T023965",
+            "T024593",
+            "T025481",
+            "T024753",
+            "T021944",
+            "T024614",
+            "T026934",
+            "T025279",
+            "T004816"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 13
+        },
+        {
+          "subcluster_name": "Klotho Anti-Inflammatory and Oxidative Stress Regulation Theory",
+          "theory_ids": [
+            "T025541",
+            "T022197",
+            "T019130",
+            "T022290",
+            "T024693",
+            "T025231",
+            "T016215"
+          ],
+          "mechanism_focus": "",
+          "theory_count": 7
+        }
+      ],
+      "separation_rationale": "Separated based on mechanistic themes",
+      "original_format": {
+        "theory_assignments": [
+          {
+            "theory_id": "T021927",
+            "subcluster_name": "Klotho Gene Mutation and Systemic Aging Syndrome Theory",
+            "reasoning": "This theory focuses on klotho gene mutation causing systemic premature aging phenotypes, highlighting genetic causality and organism-wide effects."
+          },
+          {
+            "theory_id": "T024898",
+            "subcluster_name": "Klotho Gene Mutation and Systemic Aging Syndrome Theory",
+            "reasoning": "Describes functional klotho gene variants affecting protein secretion and enzymatic activity, modulating systemic aging and longevity."
+          },
+          {
+            "theory_id": "T020554",
+            "subcluster_name": "Klotho Gene Mutation and Systemic Aging Syndrome Theory",
+            "reasoning": "Focuses on alpha-klotho gene mutation causing systemic aging via m-calpain activation and tissue deterioration."
+          },
+          {
+            "theory_id": "T022644",
+            "subcluster_name": "Klotho Gene Mutation and Systemic Aging Syndrome Theory",
+            "reasoning": "Emphasizes klotho gene deficiency causing systemic aging phenotypes including endothelial dysfunction and oxidative stress."
+          },
+          {
+            "theory_id": "T022426",
+            "subcluster_name": "Klotho Gene Mutation and Systemic Aging Syndrome Theory",
+            "reasoning": "Describes androgen receptor-mediated regulation of klotho gene expression affecting systemic aging phenotypes."
+          },
+          {
+            "theory_id": "T025593",
+            "subcluster_name": "Klotho Gene Mutation and Systemic Aging Syndrome Theory",
+            "reasoning": "Focuses on klotho genetic variants interacting with psychiatric stress to modulate systemic accelerated aging."
+          },
+          {
+            "theory_id": "T002053",
+            "subcluster_name": "Klotho Gene Mutation and Systemic Aging Syndrome Theory",
+            "reasoning": "Describes epigenetic regulation of klotho gene expression affecting inflammation and systemic aging."
+          },
+          {
+            "theory_id": "T025414",
+            "subcluster_name": "Klotho Gene Mutation and Systemic Aging Syndrome Theory",
+            "reasoning": "Focuses on microRNA-mediated post-transcriptional regulation of klotho expression contributing to systemic aging."
+          },
+          {
+            "theory_id": "T027109",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Highlights \u03b1-Klotho decline linked to renal function and systemic tissue degeneration via phosphate metabolism."
+          },
+          {
+            "theory_id": "T024037",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Focuses on Klotho-FGF23 axis regulating phosphate homeostasis and phosphate toxicity driving aging phenotypes."
+          },
+          {
+            "theory_id": "T021971",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Describes phosphate retention due to disrupted FGF23-Klotho signaling causing aging-like phenotypes and CKD-related accelerated aging."
+          },
+          {
+            "theory_id": "T022025",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Details Klotho as FGF23 co-receptor regulating phosphate metabolism and insulin/IGF-1 signaling impacting aging."
+          },
+          {
+            "theory_id": "T023965",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Focuses on acquired Klotho deficiency in CKD causing phosphate toxicity and systemic accelerated aging."
+          },
+          {
+            "theory_id": "T024593",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Describes Klotho\u2019s role in mineral homeostasis and phosphate toxicity linking to longevity and aging."
+          },
+          {
+            "theory_id": "T025481",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Emphasizes Klotho deficiency causing vascular aging via phosphate toxicity, cellular senescence, and signaling pathway dysregulation."
+          },
+          {
+            "theory_id": "T024753",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Describes Klotho\u2019s systemic regulation of mineral metabolism and multiple signaling pathways affecting aging and age-related diseases."
+          },
+          {
+            "theory_id": "T021944",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Focuses on Klotho as a circulating hormone regulating mineral metabolism and oxidative stress impacting longevity."
+          },
+          {
+            "theory_id": "T024614",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Describes soluble \u03b1-Klotho levels as intrinsic aging markers influenced by sex and hormonal regulation."
+          },
+          {
+            "theory_id": "T026934",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Shows \u03b1-Klotho modulation by Ganoderma lucidum improving systemic aging phenotypes via mineral metabolism pathways."
+          },
+          {
+            "theory_id": "T025279",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Describes Klotho as an anti-aging hormone regulating oxidative stress and systemic aging."
+          },
+          {
+            "theory_id": "T004816",
+            "subcluster_name": "Klotho-Phosphate Metabolism and FGF23 Endocrine Axis Aging Theory",
+            "reasoning": "Focuses on Klotho as a secreted humoral factor regulating systemic aging processes."
+          },
+          {
+            "theory_id": "T025541",
+            "subcluster_name": "Klotho Anti-Inflammatory and Oxidative Stress Regulation Theory",
+            "reasoning": "Focuses on Klotho\u2019s role in suppressing inflammaging via NF-\u03baB and NLRP3 inflammasome inhibition and antioxidant defense."
+          },
+          {
+            "theory_id": "T022197",
+            "subcluster_name": "Klotho Anti-Inflammatory and Oxidative Stress Regulation Theory",
+            "reasoning": "Describes Klotho as a systemic aging regulator modulating conserved longevity pathways including oxidative stress and inflammation."
+          },
+          {
+            "theory_id": "T019130",
+            "subcluster_name": "Klotho Anti-Inflammatory and Oxidative Stress Regulation Theory",
+            "reasoning": "Links \u03b1-Klotho decline to mitochondrial dysfunction and oxidative stress impairing muscle regeneration during aging."
+          },
+          {
+            "theory_id": "T022290",
+            "subcluster_name": "Klotho Anti-Inflammatory and Oxidative Stress Regulation Theory",
+            "reasoning": "Highlights Klotho\u2019s role in white matter aging via regulation of oxidative stress, apoptosis, and gene expression changes."
+          },
+          {
+            "theory_id": "T024693",
+            "subcluster_name": "Klotho Anti-Inflammatory and Oxidative Stress Regulation Theory",
+            "reasoning": "Focuses on Klotho\u2019s regulation of CNS aging through oligodendrocyte maturation and myelination, involving intracellular signaling."
+          },
+          {
+            "theory_id": "T025231",
+            "subcluster_name": "Klotho Anti-Inflammatory and Oxidative Stress Regulation Theory",
+            "reasoning": "Describes Klotho\u2019s influence on brain transcriptomics and RNA processing affecting neurodegeneration and aging."
+          },
+          {
+            "theory_id": "T016215",
+            "subcluster_name": "Klotho Anti-Inflammatory and Oxidative Stress Regulation Theory",
+            "reasoning": "Shows thyroid hormone T3 extends lifespan via Klotho activation and downstream longevity pathways involving oxidative stress resistance."
+          }
+        ]
+      }
+    }
+  ],
+  "timestamp": "2025-10-22 11:57:07"
+}

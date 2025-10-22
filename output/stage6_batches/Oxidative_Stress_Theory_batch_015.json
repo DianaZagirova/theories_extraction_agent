@@ -1,0 +1,202 @@
+{
+  "cluster_name": "Oxidative Stress Theory",
+  "batch_num": 15,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Metal Ion-Catalyzed Oxidative Stress Theory",
+        "theory_ids": [
+          "T017129",
+          "T016760"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+        "theory_ids": [
+          "T017118",
+          "T016439",
+          "T016636",
+          "T016363",
+          "T016338"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "ROS-Induced Hormesis and Stress Response Theory",
+        "theory_ids": [
+          "T016358",
+          "T016321",
+          "T016830",
+          "T016879",
+          "T016972"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Antioxidant Defense and p53-Mediated Apoptosis Theory",
+        "theory_ids": [
+          "T016500",
+          "T016477",
+          "T016294",
+          "T016373",
+          "T016369"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Oxidative Damage Accumulation and Protein Modification Theory",
+        "theory_ids": [
+          "T017189",
+          "T016425",
+          "T016337",
+          "T017031",
+          "T016317",
+          "T016524"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T017129",
+          "subcluster_name": "Metal Ion-Catalyzed Oxidative Stress Theory",
+          "reasoning": "Focuses on transition metal ions like copper and iron catalyzing ROS production and oxidative damage, distinct from general ROS or mitochondrial sources."
+        },
+        {
+          "theory_id": "T016760",
+          "subcluster_name": "Metal Ion-Catalyzed Oxidative Stress Theory",
+          "reasoning": "Emphasizes iron-catalyzed ROS production via Fenton chemistry and its role in aging, fitting the metal ion catalysis mechanism."
+        },
+        {
+          "theory_id": "T017118",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Centers on mitochondrial complex I ROS production and dietary interventions reducing mitochondrial oxidative damage."
+        },
+        {
+          "theory_id": "T016439",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Highlights mitochondrial dysfunction as major ROS source and modulation of redox homeostasis to slow aging."
+        },
+        {
+          "theory_id": "T016636",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Focuses on ROS accumulation causing oxidative damage and the protective role of superoxide dismutase, linked to mitochondrial ROS."
+        },
+        {
+          "theory_id": "T016363",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Describes mitochondrial ROS production, mitochondrial damage, and decline in antioxidant defenses as aging drivers."
+        },
+        {
+          "theory_id": "T016338",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Stress Theory",
+          "reasoning": "Links mitochondrial dysfunction to ROS accumulation causing cellular senescence, with antioxidant intervention delaying aging."
+        },
+        {
+          "theory_id": "T016358",
+          "subcluster_name": "ROS-Induced Hormesis and Stress Response Theory",
+          "reasoning": "Focuses on ROS-triggered hormesis via DAF-16 mediated small heat shock protein expression and adaptive stress resistance."
+        },
+        {
+          "theory_id": "T016321",
+          "subcluster_name": "ROS-Induced Hormesis and Stress Response Theory",
+          "reasoning": "Describes mitohormesis where low mitochondrial ROS induce adaptive protective responses delaying aging."
+        },
+        {
+          "theory_id": "T016830",
+          "subcluster_name": "ROS-Induced Hormesis and Stress Response Theory",
+          "reasoning": "Explores oxidative stress effects on telomere attrition with hormetic compensatory mechanisms involving glutathione and sex-specific responses."
+        },
+        {
+          "theory_id": "T016879",
+          "subcluster_name": "ROS-Induced Hormesis and Stress Response Theory",
+          "reasoning": "Shows genetic variation in oxidative stress resistance correlates with lifespan, highlighting hormetic and adaptive responses."
+        },
+        {
+          "theory_id": "T016972",
+          "subcluster_name": "ROS-Induced Hormesis and Stress Response Theory",
+          "reasoning": "Describes hPNPaseold-35 induced mitochondrial ROS activating NF-\u03baB and proinflammatory senescence, linking ROS signaling to aging."
+        },
+        {
+          "theory_id": "T016368",
+          "subcluster_name": "MsrA-Catalytic Antioxidant Defense Theory",
+          "reasoning": "Focuses on MsrA enzyme repairing oxidized methionine and catalyzing antioxidant reactions with dimethyl sulfide, a specific antioxidant defense mechanism."
+        },
+        {
+          "theory_id": "T016986",
+          "subcluster_name": "Phase 2 Protein Induction and Antioxidant Defense Theory",
+          "reasoning": "Emphasizes Nrf2-mediated induction of phase 2 antioxidant proteins as a protective mechanism against oxidative stress in aging."
+        },
+        {
+          "theory_id": "T016500",
+          "subcluster_name": "Antioxidant Defense and p53-Mediated Apoptosis Theory",
+          "reasoning": "Highlights OXR1 gene regulating antioxidant defenses and p53-mediated apoptosis triggered by oxidative stress leading to aging phenotypes."
+        },
+        {
+          "theory_id": "T016477",
+          "subcluster_name": "Antioxidant Defense and p53-Mediated Apoptosis Theory",
+          "reasoning": "Describes antioxidant enzyme defenses mitigating oxidative stress and stress regulation influencing aging, including antiapoptotic gene upregulation."
+        },
+        {
+          "theory_id": "T016294",
+          "subcluster_name": "Antioxidant Defense and p53-Mediated Apoptosis Theory",
+          "reasoning": "Focuses on enhancing endogenous antioxidant enzymes (SOD, CAT) to reduce oxidative damage and extend lifespan, linking antioxidant defense to aging."
+        },
+        {
+          "theory_id": "T016373",
+          "subcluster_name": "Antioxidant Defense and p53-Mediated Apoptosis Theory",
+          "reasoning": "Details the role of superoxide dismutase enzymes in protecting DNA from oxidative damage and their loss causing accelerated aging."
+        },
+        {
+          "theory_id": "T016369",
+          "subcluster_name": "Antioxidant Defense and p53-Mediated Apoptosis Theory",
+          "reasoning": "Describes oxidative stress causing skeletal aging via ROS accumulation, decreased antioxidant defense, and p53/p66shc apoptosis signaling."
+        },
+        {
+          "theory_id": "T017189",
+          "subcluster_name": "Oxidative Damage Accumulation and Protein Modification Theory",
+          "reasoning": "Focuses on accumulation of oxidative modifications to proteins (nitration, HNE adducts) and systemic impact on aging phenotypes."
+        },
+        {
+          "theory_id": "T016425",
+          "subcluster_name": "Oxidative Damage Accumulation and Protein Modification Theory",
+          "reasoning": "Emphasizes accumulation of oxidative damage to macromolecules and correlation with immune response during aging."
+        },
+        {
+          "theory_id": "T016337",
+          "subcluster_name": "Oxidative Damage Accumulation and Protein Modification Theory",
+          "reasoning": "Discusses oxidative damage accumulation as cause of aging and species differences in oxidative stress correlating with lifespan."
+        },
+        {
+          "theory_id": "T017031",
+          "subcluster_name": "Oxidative Damage Accumulation and Protein Modification Theory",
+          "reasoning": "Proposes oxidative damage as mediator of life-history trade-offs affecting aging and organismal performance."
+        },
+        {
+          "theory_id": "T016317",
+          "subcluster_name": "Oxidative Damage Accumulation and Protein Modification Theory",
+          "reasoning": "Analyzes oxidative stress patterns, lipid peroxidation, and antioxidant capacity differences in canids related to aging and lifespan."
+        },
+        {
+          "theory_id": "T016524",
+          "subcluster_name": "Oxidative Damage Accumulation and Protein Modification Theory",
+          "reasoning": "Describes dual roles of ROS as signaling and damaging agents, with oxidative damage accumulation causing aging and modulating signaling pathways."
+        },
+        {
+          "theory_id": "T014332",
+          "subcluster_name": "ROS Network Robustness and Aging Theory",
+          "reasoning": "Presents aging as breakdown of ROS network robustness involving multiple subnetworks maintaining cellular function and delaying aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:31:03"
+}

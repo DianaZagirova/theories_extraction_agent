@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Damage-Induced Cellular Senescence Theory",
+        "theory_ids": [
+          "T005551",
+          "T005429",
+          "T005482",
+          "T005316",
+          "T004486",
+          "T005330",
+          "T005708",
+          "T005539"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Oxidative Stress and Replicative Senescence Theory",
+        "theory_ids": [
+          "T005468",
+          "T005489",
+          "T005505",
+          "T005508",
+          "T005642",
+          "T005634",
+          "T005535",
+          "T005507"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Senescent Cell Anti-Apoptotic Pathways and Senolytic Therapy Theory",
+        "theory_ids": [
+          "T005821",
+          "T005677",
+          "T005665",
+          "T005668",
+          "T005315"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "p16INK4a-Mediated Cellular Senescence and Tissue Dysfunction Theory",
+        "theory_ids": [
+          "T005765",
+          "T005409",
+          "T005415"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005551",
+          "subcluster_name": "DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "This theory focuses on DNA damage response activation leading to cellular senescence and neurodegeneration, highlighting DNA damage as the primary trigger."
+        },
+        {
+          "theory_id": "T005429",
+          "subcluster_name": "DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "It centers on DNA damage response, cell fate decisions including senescence, and integrates these into a systems biology model linking DNA damage to aging."
+        },
+        {
+          "theory_id": "T005482",
+          "subcluster_name": "DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "This theory emphasizes p53-mediated DNA damage response shifting balance from apoptosis to senescence, linking DNA damage and senescence accumulation to aging."
+        },
+        {
+          "theory_id": "T005316",
+          "subcluster_name": "DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Focuses on stress-induced senescence driven by DNA damage and telomere shortening, with SASP and inflammaging as downstream effects."
+        },
+        {
+          "theory_id": "T004486",
+          "subcluster_name": "DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Caveolin-1 mediates stress-induced premature senescence via p53/p21 pathway, linking oxidative stress and DNA damage response to senescence."
+        },
+        {
+          "theory_id": "T005330",
+          "subcluster_name": "DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Describes cell cycle arrest via p53-p21 and p16 pathways triggered by DNA damage and telomere shortening, with SASP and oxidative stress involvement."
+        },
+        {
+          "theory_id": "T005708",
+          "subcluster_name": "DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Although focused on autophagy impairment, it highlights telomere attrition and DNA damage as triggers of neuronal senescence, linking DNA damage to senescence."
+        },
+        {
+          "theory_id": "T005539",
+          "subcluster_name": "DNA Damage-Induced Cellular Senescence Theory",
+          "reasoning": "Telomere attrition-induced senescence drives tau pathology and neuroinflammation, emphasizing DNA damage and telomere shortening as senescence triggers."
+        },
+        {
+          "theory_id": "T005468",
+          "subcluster_name": "Oxidative Stress and Replicative Senescence Theory",
+          "reasoning": "Focuses on stress-induced premature senescence caused by oxidative stress (ROS), with mechanistic overlap to replicative senescence but emphasizing oxidative damage."
+        },
+        {
+          "theory_id": "T005489",
+          "subcluster_name": "Oxidative Stress and Replicative Senescence Theory",
+          "reasoning": "Centers on replicative senescence driven by telomere shortening accelerated by oxidative stress, linking oxidative damage to cellular aging."
+        },
+        {
+          "theory_id": "T005505",
+          "subcluster_name": "Oxidative Stress and Replicative Senescence Theory",
+          "reasoning": "Describes replicative senescence in T lymphocytes driven by telomere shortening and oxidative stress, with loss of CD28 as a senescence marker."
+        },
+        {
+          "theory_id": "T005508",
+          "subcluster_name": "Oxidative Stress and Replicative Senescence Theory",
+          "reasoning": "Replicative senescence contributes to organismal aging, accelerated by physiological stress, emphasizing telomere shortening and oxidative damage."
+        },
+        {
+          "theory_id": "T005642",
+          "subcluster_name": "Oxidative Stress and Replicative Senescence Theory",
+          "reasoning": "Focuses on limited proliferative potential of fibroblasts linked to telomere shortening and genetic regulation, modeling replicative senescence."
+        },
+        {
+          "theory_id": "T005634",
+          "subcluster_name": "Oxidative Stress and Replicative Senescence Theory",
+          "reasoning": "Describes replicative senescence-induced impaired myoblast differentiation, linking multiple population doublings and altered signaling to aging muscle."
+        },
+        {
+          "theory_id": "T005535",
+          "subcluster_name": "Oxidative Stress and Replicative Senescence Theory",
+          "reasoning": "Premature cellular senescence in fibroblasts from accelerated aging mice, reflecting replicative senescence mechanisms contributing to systemic aging."
+        },
+        {
+          "theory_id": "T005507",
+          "subcluster_name": "Oxidative Stress and Replicative Senescence Theory",
+          "reasoning": "Mathematical Penna model incorporating cellular senescence onset and replicative limits, modeling aging dynamics linked to replicative senescence."
+        },
+        {
+          "theory_id": "T005506",
+          "subcluster_name": "Endothelial Replicative Senescence and Regeneration Theory",
+          "reasoning": "Focuses on endothelial cell replicative senescence, Hayflick limit, and progenitor cell homing dynamics affecting endothelial aging."
+        },
+        {
+          "theory_id": "T005821",
+          "subcluster_name": "Senescent Cell Anti-Apoptotic Pathways and Senolytic Therapy Theory",
+          "reasoning": "Describes senescent cells' resistance to apoptosis via Bcl-2 family proteins and therapeutic targeting by senolytic agents."
+        },
+        {
+          "theory_id": "T005677",
+          "subcluster_name": "Senescent Cell Anti-Apoptotic Pathways and Senolytic Therapy Theory",
+          "reasoning": "Focuses on senescence as aging driver and senolytic interventions targeting senescent cells to alleviate age-related dysfunction."
+        },
+        {
+          "theory_id": "T005665",
+          "subcluster_name": "Senescent Cell Anti-Apoptotic Pathways and Senolytic Therapy Theory",
+          "reasoning": "Senescent glial cells contribute to ALS pathology; senolytic treatment reduces senescence burden and improves function."
+        },
+        {
+          "theory_id": "T005668",
+          "subcluster_name": "Senescent Cell Anti-Apoptotic Pathways and Senolytic Therapy Theory",
+          "reasoning": "Highlights senescent cell heterogeneity, SASP, and interactions with immune cells influencing aging and pathology, relevant for senolytic targeting."
+        },
+        {
+          "theory_id": "T005315",
+          "subcluster_name": "Senescent Cell Anti-Apoptotic Pathways and Senolytic Therapy Theory",
+          "reasoning": "General hallmarks of senescence including apoptosis resistance and SASP, foundational for understanding senolytic targeting."
+        },
+        {
+          "theory_id": "T005684",
+          "subcluster_name": "Developmental and Genetic Regulation of Senescence Theory",
+          "reasoning": "Focuses on early developmental genetic robustness, biomarkers of senescence, and gene-environment interactions influencing aging."
+        },
+        {
+          "theory_id": "T005765",
+          "subcluster_name": "p16INK4a-Mediated Cellular Senescence and Tissue Dysfunction Theory",
+          "reasoning": "Emphasizes p16INK4a accumulation causing senescence, barrier dysfunction, and microbial dysbiosis in intestinal epithelium."
+        },
+        {
+          "theory_id": "T005409",
+          "subcluster_name": "p16INK4a-Mediated Cellular Senescence and Tissue Dysfunction Theory",
+          "reasoning": "Senescence drives osteoporosis via SASP and impaired bone remodeling, involving hormone deficiency and mesenchymal stem cell dysfunction."
+        },
+        {
+          "theory_id": "T005415",
+          "subcluster_name": "p16INK4a-Mediated Cellular Senescence and Tissue Dysfunction Theory",
+          "reasoning": "Senescence acts as tumor suppressor early but promotes cancer via SASP and tissue environment changes later, illustrating antagonistic pleiotropy."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:03:34"
+}

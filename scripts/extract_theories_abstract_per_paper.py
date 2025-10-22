@@ -519,6 +519,7 @@ Return ONLY valid JSON:"""
         limit: Optional[int] = None,
         resume_from: Optional[str] = None,
         resume_from_db: bool = False,
+        only_missing_in_db: Optional[str] = None,
         max_workers: int = 1,
         price_input_per_1M: float = 0.4,
         price_output_per_1M: float = 1.6,
@@ -621,9 +622,30 @@ Return ONLY valid JSON:"""
                 if db_dois:
                     print(f"   Skipping {len(db_dois)} already in DB")
                     meta_rows = [row for row in meta_rows if row[0] not in db_dois]
+
+        # Optional: restrict to DOIs missing in an external theories.db (e.g., full-text results DB)
+        if only_missing_in_db:
+            try:
+                print(f"\n🔎 Filtering to DOIs missing in: {only_missing_in_db}")
+                conn = sqlite3.connect(only_missing_in_db)
+                cur = conn.cursor()
+                cur.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='paper_results'")
+                if cur.fetchone():
+                    cur.execute("SELECT doi FROM paper_results")
+                    existing_dois = {row[0] for row in cur.fetchall()}
+                else:
+                    existing_dois = set()
+                conn.close()
+                before = len(meta_rows)
+                meta_rows = [row for row in meta_rows if row[0] not in existing_dois]
+                after = len(meta_rows)
+                print(f"   ✓ Kept {after} of {before} DOIs (missing in target DB)")
+            except Exception as e:
+                print(f"⚠️  Could not filter by missing-in-DB ({only_missing_in_db}): {e}")
         
-        # Pre-filter: Check which papers actually have only abstracts (no full text)
-        print(f"\n🔍 Pre-filtering {len(meta_rows)} papers for abstract-only eligibility...")
+        # Pre-filter: Check abstracts and (optionally) absence of full text
+        # If --only-missing-in-db is set, we allow papers with full text too; we will still use abstract-only extraction.
+        print(f"\n🔍 Pre-filtering {len(meta_rows)} papers for abstract eligibility...")
         eligible_rows = []
         try:
             pconn = sqlite3.connect(f"file:{papers_db}?mode=ro", uri=True, timeout=30)
@@ -658,13 +680,14 @@ Return ONLY valid JSON:"""
                 except Exception:
                     has_sections = True
             
-            # Skip if has full text
-            if has_full_text or has_sections:
-                continue
-            
             # Skip if no abstract
             if not abstract or not str(abstract).strip():
                 continue
+
+            # In normal mode (no only-missing-in-db), skip papers that have full text or sections
+            if not only_missing_in_db:
+                if has_full_text or has_sections:
+                    continue
             
             eligible_rows.append(row)
         
@@ -672,8 +695,11 @@ Return ONLY valid JSON:"""
         
         skipped_count = len(meta_rows) - len(eligible_rows)
         if skipped_count > 0:
-            print(f"   ⚠️  Skipped {skipped_count} papers (have full text or no abstract)")
-        print(f"   ✓ Found {len(eligible_rows)} papers eligible for abstract-only extraction")
+            if only_missing_in_db:
+                print(f"   ⚠️  Skipped {skipped_count} papers (no abstract)")
+            else:
+                print(f"   ⚠️  Skipped {skipped_count} papers (have full text or no abstract)")
+        print(f"   ✓ Found {len(eligible_rows)} papers eligible for abstract extraction")
         
         meta_rows = eligible_rows
         
@@ -910,6 +936,11 @@ def main():
         help='Skip DOIs already present in results DB'
     )
     parser.add_argument(
+        '--only-missing-in-db',
+        type=str,
+        help='Filter to validated DOIs that are MISSING in the specified theories.db (uses paper_results table). When set, process papers that HAVE AN ABSTRACT regardless of full-text availability.'
+    )
+    parser.add_argument(
         '--max-workers',
         type=int,
         default=4,
@@ -939,6 +970,7 @@ def main():
         limit=args.limit,
         resume_from=args.resume_from,
         resume_from_db=args.resume_from_db,
+        only_missing_in_db=args.only_missing_in_db,
         max_workers=args.max_workers,
         price_input_per_1M=args.price_input_per_1m,
         price_output_per_1M=args.price_output_per_1m,

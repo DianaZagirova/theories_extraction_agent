@@ -1,0 +1,186 @@
+{
+  "cluster_name": "Programmed Longevity Theory",
+  "batch_num": 8,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Genetic Programmed Longevity and Aging Regulation Theories",
+        "theory_ids": [
+          "T019705",
+          "T018213",
+          "T020130",
+          "T019938",
+          "T020067",
+          "T020684",
+          "T019461",
+          "T018281",
+          "T020480"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Nutrient-Sensing and Growth Factor Signaling Longevity Theories",
+        "theory_ids": [
+          "T019567",
+          "T020557",
+          "T018200",
+          "T019817",
+          "T018227",
+          "T019522",
+          "T021098",
+          "T019113"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "IGF-1 Signaling and Brain Aging Longevity Theories",
+        "theory_ids": [
+          "T020975",
+          "T018095",
+          "T019517",
+          "T019943",
+          "T018450"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Structural Protein Longevity and Damage Accumulation Theories",
+        "theory_ids": [
+          "T020715",
+          "T018469"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T019705",
+          "subcluster_name": "Genetic Programmed Longevity and Aging Regulation Theories",
+          "reasoning": "This theory focuses on genetic programming and regulation of aging via daf and age genes, fitting the genetic control and programmed aging theme."
+        },
+        {
+          "theory_id": "T018213",
+          "subcluster_name": "Genetic Programmed Longevity and Aging Regulation Theories",
+          "reasoning": "Emphasizes genetic variability and intrinsic genetic programming of lifespan, aligning with genetic control of aging."
+        },
+        {
+          "theory_id": "T020130",
+          "subcluster_name": "Genetic Programmed Longevity and Aging Regulation Theories",
+          "reasoning": "Focuses on single longevity genes and genetic control of aging, fitting the genetic programming subcluster."
+        },
+        {
+          "theory_id": "T019938",
+          "subcluster_name": "Genetic Programmed Longevity and Aging Regulation Theories",
+          "reasoning": "Describes a genetic clock controlling aging rate, consistent with genetic programming mechanisms."
+        },
+        {
+          "theory_id": "T020067",
+          "subcluster_name": "Genetic Programmed Longevity and Aging Regulation Theories",
+          "reasoning": "Links developmental programming and growth rate to aging, fitting programmed genetic regulation of aging."
+        },
+        {
+          "theory_id": "T020684",
+          "subcluster_name": "Genetic Programmed Longevity and Aging Regulation Theories",
+          "reasoning": "Details daf-2/daf-16 genetic pathway controlling lifespan, a core genetic programmed aging mechanism."
+        },
+        {
+          "theory_id": "T019461",
+          "subcluster_name": "Genetic Programmed Longevity and Aging Regulation Theories",
+          "reasoning": "Focuses on conserved genetic pathways underlying aging and age-related diseases, fitting genetic programmed aging."
+        },
+        {
+          "theory_id": "T018281",
+          "subcluster_name": "Genetic Programmed Longevity and Aging Regulation Theories",
+          "reasoning": "Describes rare genetic variants in conserved aging pathways linked to longevity, consistent with genetic programming."
+        },
+        {
+          "theory_id": "T020480",
+          "subcluster_name": "Genetic Programmed Longevity and Aging Regulation Theories",
+          "reasoning": "Highlights conserved transcription factors as central genetic regulators of aging, fitting genetic programming theme."
+        },
+        {
+          "theory_id": "T019567",
+          "subcluster_name": "Nutrient-Sensing and Growth Factor Signaling Longevity Theories",
+          "reasoning": "Focuses on nutrient sensing pathways (IIS, TOR, sirtuins) regulating aging, a key metabolic and growth factor signaling mechanism."
+        },
+        {
+          "theory_id": "T020557",
+          "subcluster_name": "Nutrient-Sensing and Growth Factor Signaling Longevity Theories",
+          "reasoning": "Describes caloric restriction and nutrient sensing pathways (mTOR, AMPK, IIS) modulating aging, fitting nutrient sensing subcluster."
+        },
+        {
+          "theory_id": "T018200",
+          "subcluster_name": "Nutrient-Sensing and Growth Factor Signaling Longevity Theories",
+          "reasoning": "Focuses on GH/IGF-I and nutrient signaling pathways modulating aging and lifespan, fitting growth factor and nutrient sensing theme."
+        },
+        {
+          "theory_id": "T019817",
+          "subcluster_name": "Nutrient-Sensing and Growth Factor Signaling Longevity Theories",
+          "reasoning": "Describes GH deficiency/resistance extending lifespan via multiple aging-related pathways, fitting growth factor signaling."
+        },
+        {
+          "theory_id": "T018227",
+          "subcluster_name": "Nutrient-Sensing and Growth Factor Signaling Longevity Theories",
+          "reasoning": "Analyzes GH/IGF-1 deficiency effects on aging and lifespan, fitting growth factor signaling and nutrient sensing."
+        },
+        {
+          "theory_id": "T019522",
+          "subcluster_name": "Nutrient-Sensing and Growth Factor Signaling Longevity Theories",
+          "reasoning": "Focuses on GH/IGF-1 signaling deficiency models and their impact on aging, consistent with nutrient sensing and growth factor signaling."
+        },
+        {
+          "theory_id": "T021098",
+          "subcluster_name": "Nutrient-Sensing and Growth Factor Signaling Longevity Theories",
+          "reasoning": "Describes IGF-1 modulation by age and dietary restriction, linking nutrient sensing and growth factor signaling to aging."
+        },
+        {
+          "theory_id": "T019113",
+          "subcluster_name": "Nutrient-Sensing and Growth Factor Signaling Longevity Theories",
+          "reasoning": "Details age-related decline in GH/IGF-1 and its systemic aging effects, fitting growth factor signaling subcluster."
+        },
+        {
+          "theory_id": "T020975",
+          "subcluster_name": "IGF-1 Signaling and Brain Aging Longevity Theories",
+          "reasoning": "Focuses on IGF-1 neuroprotective effects and complex role in brain aging, a specialized IGF-1 signaling subcluster."
+        },
+        {
+          "theory_id": "T018095",
+          "subcluster_name": "IGF-1 Signaling and Brain Aging Longevity Theories",
+          "reasoning": "Describes IGF-1 regulation of mitochondrial function and cognitive aging, fitting IGF-1 brain aging subcluster."
+        },
+        {
+          "theory_id": "T019517",
+          "subcluster_name": "IGF-1 Signaling and Brain Aging Longevity Theories",
+          "reasoning": "Focuses on IGF-1 bioavailability regulation affecting thymic and immune aging, related to IGF-1 signaling in aging tissues."
+        },
+        {
+          "theory_id": "T019943",
+          "subcluster_name": "IGF-1 Signaling and Brain Aging Longevity Theories",
+          "reasoning": "Describes IGF-1 deficiency in cardiovascular aging, linking IGF-1 signaling to tissue-specific aging phenotypes."
+        },
+        {
+          "theory_id": "T018450",
+          "subcluster_name": "IGF-1 Signaling and Brain Aging Longevity Theories",
+          "reasoning": "Focuses on GH/IGF-1 and nutrient signaling pathways regulating ovarian aging, fitting IGF-1 signaling and tissue aging."
+        },
+        {
+          "theory_id": "T020715",
+          "subcluster_name": "Structural Protein Longevity and Damage Accumulation Theories",
+          "reasoning": "Focuses on elastin longevity, damage accumulation, and limited repair, representing a structural protein aging mechanism."
+        },
+        {
+          "theory_id": "T018469",
+          "subcluster_name": "Structural Protein Longevity and Damage Accumulation Theories",
+          "reasoning": "Describes programmed senescence and meristem determinacy in plants, a developmental and structural longevity mechanism."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:58:04"
+}

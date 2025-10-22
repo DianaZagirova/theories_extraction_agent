@@ -1,0 +1,209 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Metabolic Rate and Antioxidant Defense Free Radical Theory",
+        "theory_ids": [
+          "T007056",
+          "T007746",
+          "T007344",
+          "T007495",
+          "T007936",
+          "T007893",
+          "T007036",
+          "T006564",
+          "T007641"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Antioxidant Enzyme Modulation and Lifespan Extension Theory",
+        "theory_ids": [
+          "T007411",
+          "T007145",
+          "T007753",
+          "T007801"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Thiol/Disulfide Redox State Shift Free Radical Theory",
+        "theory_ids": [
+          "T007421",
+          "T007409"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and ROS Production Free Radical Theory",
+        "theory_ids": [
+          "T007326",
+          "T007156",
+          "T007416",
+          "T006543"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Protein Oxidation and Repair Decline Free Radical Theory",
+        "theory_ids": [
+          "T006555",
+          "T006560",
+          "T007067",
+          "T007319",
+          "T006519",
+          "T006529"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T007056",
+          "subcluster_name": "Metabolic Rate and Antioxidant Defense Free Radical Theory",
+          "reasoning": "Focuses on ROS production linked to metabolic rate and antioxidant capacity stabilizing longevity, emphasizing metabolic rate depression and antioxidant enzyme activity."
+        },
+        {
+          "theory_id": "T007746",
+          "subcluster_name": "Metabolic Rate and Antioxidant Defense Free Radical Theory",
+          "reasoning": "Emphasizes accumulation of oxidative damage and antioxidant enzyme defense, with lipid peroxidation as a marker, linking metabolism and oxidative stress."
+        },
+        {
+          "theory_id": "T007344",
+          "subcluster_name": "Metabolic Rate and Antioxidant Defense Free Radical Theory",
+          "reasoning": "Discusses oxidative damage, antioxidant defenses including dietary antioxidants, and their influence on aging and disease, linking metabolism and antioxidant balance."
+        },
+        {
+          "theory_id": "T007495",
+          "subcluster_name": "Metabolic Rate and Antioxidant Defense Free Radical Theory",
+          "reasoning": "Focuses on ROS role in aging, metabolic rate correlation with lifespan, and antioxidant defenses that do not decline significantly with age."
+        },
+        {
+          "theory_id": "T007936",
+          "subcluster_name": "Metabolic Rate and Antioxidant Defense Free Radical Theory",
+          "reasoning": "Covers ROS as causal agents, oxidative damage accumulation, antioxidant defenses, and metabolic rate influence, linking free radical damage to metabolic rate."
+        },
+        {
+          "theory_id": "T007893",
+          "subcluster_name": "Metabolic Rate and Antioxidant Defense Free Radical Theory",
+          "reasoning": "Highlights ROS damage, antioxidant defense mechanisms, and system-level control loss, integrating oxidative stress with organismal aging."
+        },
+        {
+          "theory_id": "T007036",
+          "subcluster_name": "Metabolic Rate and Antioxidant Defense Free Radical Theory",
+          "reasoning": "Compares mitochondrial ROS generation and antioxidant defenses between species, linking these to longevity and metabolic potential."
+        },
+        {
+          "theory_id": "T006564",
+          "subcluster_name": "Metabolic Rate and Antioxidant Defense Free Radical Theory",
+          "reasoning": "Focuses on oxidative damage from oxygen radicals, metabolic rate correlation with lifespan, antioxidant defenses, and mitochondrial vulnerability."
+        },
+        {
+          "theory_id": "T007411",
+          "subcluster_name": "Antioxidant Enzyme Modulation and Lifespan Extension Theory",
+          "reasoning": "Emphasizes ROS as causal agents, insufficiency of antioxidant enzymes, and lifespan extension by overexpressing antioxidant enzymes like SOD and catalase."
+        },
+        {
+          "theory_id": "T007145",
+          "subcluster_name": "Antioxidant Enzyme Modulation and Lifespan Extension Theory",
+          "reasoning": "Refines free radical theory focusing on motorneurons, showing lifespan extension by targeted overexpression of antioxidant enzyme SOD1."
+        },
+        {
+          "theory_id": "T007753",
+          "subcluster_name": "Antioxidant Enzyme Modulation and Lifespan Extension Theory",
+          "reasoning": "Focuses on antioxidant enzyme regulation via NADPH-dependent isocitrate dehydrogenases affecting redox balance and replicative senescence."
+        },
+        {
+          "theory_id": "T007801",
+          "subcluster_name": "Antioxidant Enzyme Modulation and Lifespan Extension Theory",
+          "reasoning": "Includes ROS-caused molecular damage and decline of antioxidant defenses with age, emphasizing antioxidant defense modulation in aging."
+        },
+        {
+          "theory_id": "T007421",
+          "subcluster_name": "Thiol/Disulfide Redox State Shift Free Radical Theory",
+          "reasoning": "Focuses on oxidative shift in thiol/disulfide redox state, cysteine availability, and systemic redox imbalance contributing to aging and muscle wasting."
+        },
+        {
+          "theory_id": "T007409",
+          "subcluster_name": "Thiol/Disulfide Redox State Shift Free Radical Theory",
+          "reasoning": "Links oxidative stress to aging with emphasis on nutritional programming of antioxidant capacity and redox balance affecting senescence."
+        },
+        {
+          "theory_id": "T007326",
+          "subcluster_name": "Mitochondrial Dysfunction and ROS Production Free Radical Theory",
+          "reasoning": "Highlights mitochondrial dysfunction, ROS production, calcium signaling alterations, and autophagy in aging."
+        },
+        {
+          "theory_id": "T007156",
+          "subcluster_name": "Mitochondrial Dysfunction and ROS Production Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS emission, dysfunction, and interaction with other aging mechanisms like telomere attrition and senescence."
+        },
+        {
+          "theory_id": "T007416",
+          "subcluster_name": "Mitochondrial Dysfunction and ROS Production Free Radical Theory",
+          "reasoning": "Details mitochondrial enzyme inactivation by ROS, mitochondrial DNA damage, respiratory failure, and metabolic shifts in aging."
+        },
+        {
+          "theory_id": "T006543",
+          "subcluster_name": "Mitochondrial Dysfunction and ROS Production Free Radical Theory",
+          "reasoning": "Describes free radicals causing cumulative cellular damage, mitochondrial dysfunction increasing ROS, and antioxidant defense modulation."
+        },
+        {
+          "theory_id": "T006555",
+          "subcluster_name": "Protein Oxidation and Repair Decline Free Radical Theory",
+          "reasoning": "Focuses on accumulation of oxidized proteins, proteasome impairment, decline in repair enzymes, and mitochondrial protease activity affecting aging."
+        },
+        {
+          "theory_id": "T006560",
+          "subcluster_name": "Protein Oxidation and Repair Decline Free Radical Theory",
+          "reasoning": "Emphasizes ROS-mediated protein oxidation, accumulation of oxidized proteins, protein carbonylation, and metal-catalyzed oxidation."
+        },
+        {
+          "theory_id": "T007067",
+          "subcluster_name": "Protein Oxidation and Repair Decline Free Radical Theory",
+          "reasoning": "Focuses on protein oxidative damage, loss of sulfhydryl groups, balance of oxidants and antioxidants, and correlation with life expectancy."
+        },
+        {
+          "theory_id": "T007319",
+          "subcluster_name": "Protein Oxidation and Repair Decline Free Radical Theory",
+          "reasoning": "Describes free radical-initiated amino acid epimerization causing protein misfolding and molecular aging."
+        },
+        {
+          "theory_id": "T006519",
+          "subcluster_name": "Protein Oxidation and Repair Decline Free Radical Theory",
+          "reasoning": "Details accumulation of oxidatively damaged proteins, folding-oxidation antagonism, and phenotypic consequences of protein damage."
+        },
+        {
+          "theory_id": "T006529",
+          "subcluster_name": "Protein Oxidation and Repair Decline Free Radical Theory",
+          "reasoning": "Focuses on oxidative damage accumulation in neurodegeneration, repair enzyme decline, and balance between physiological and pathological ROS."
+        },
+        {
+          "theory_id": "T007133",
+          "subcluster_name": "Central Nervous System Vulnerability Free Radical Theory",
+          "reasoning": "Highlights brain vulnerability to oxidative damage due to high metabolism and limited antioxidant defenses, linking to cognitive aging."
+        },
+        {
+          "theory_id": "T000377",
+          "subcluster_name": "Lipid Peroxidation and Fatty Acid Unsaturation Free Radical Theory",
+          "reasoning": "Focuses on lipid peroxidation driven by free radicals, fatty acid unsaturation levels, and their correlation with longevity."
+        },
+        {
+          "theory_id": "T007641",
+          "subcluster_name": "Metabolic Rate and Antioxidant Defense Free Radical Theory",
+          "reasoning": "Describes ROS production, antioxidant defense impairment with age, oxidative stress, and tissue susceptibility based on metabolic demand."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 09:59:24"
+}

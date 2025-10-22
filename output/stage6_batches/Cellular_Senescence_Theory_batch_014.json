@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 14,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+        "theory_ids": [
+          "T010075",
+          "T010052",
+          "T010388",
+          "T009426",
+          "T009975",
+          "T010094",
+          "T009909",
+          "T009840",
+          "T009542",
+          "T009342",
+          "T010024",
+          "T010195",
+          "T010059",
+          "T010139",
+          "T010321"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 15
+      },
+      {
+        "subcluster_name": "Replicative Senescence and Telomere-Driven Senescence Theory",
+        "theory_ids": [
+          "T009624",
+          "T009244",
+          "T009428",
+          "T009391",
+          "T009134"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Epigenetic Regulation of Senescence and SASP Theory",
+        "theory_ids": [
+          "T009950",
+          "T010288",
+          "T007840",
+          "T010370",
+          "T010249",
+          "T010345"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T010075",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on accumulation of senescent cells, their SASP secretion, immune evasion, and inflammation driving aging."
+        },
+        {
+          "theory_id": "T010052",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Describes irreversible cell cycle arrest, SASP, and accumulation of senescent cells promoting inflammation and aging."
+        },
+        {
+          "theory_id": "T010388",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Highlights permanent cell cycle exit, SASP, and senescent cell accumulation causing inflammation and tissue dysfunction."
+        },
+        {
+          "theory_id": "T009426",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Emphasizes senescent cell accumulation, SASP-driven inflammaging, and senolytic interventions to improve healthspan."
+        },
+        {
+          "theory_id": "T009975",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on cell cycle arrest, SASP, paracrine senescence, and immune decline leading to senescent cell buildup."
+        },
+        {
+          "theory_id": "T010094",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Describes senescence as causal driver with SASP promoting inflammation and tissue degradation in aging diseases."
+        },
+        {
+          "theory_id": "T009909",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Details senescence as causal driver, SASP secretion, systemic regulation via parabiosis, and immune clearance."
+        },
+        {
+          "theory_id": "T009840",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Describes irreversible arrest, SASP secretion, and dual role of senescence in cancer and aging."
+        },
+        {
+          "theory_id": "T009542",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on senescent cell accumulation, SASP secretion, and tumor suppression-aging tradeoff."
+        },
+        {
+          "theory_id": "T009342",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Covers replicative and stress-induced senescence, telomere shortening, SASP, and inflammaging."
+        },
+        {
+          "theory_id": "T010024",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Highlights senescence as hallmark, SASP secretion, immune clearance decline, and antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T010195",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on senescent cells driving aging and senolytics as therapeutic agents."
+        },
+        {
+          "theory_id": "T010059",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Describes senescent cells driving inflammation and tissue dysfunction, and senolytic treatment benefits."
+        },
+        {
+          "theory_id": "T010139",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Focuses on senescence in ALS, SASP-driven neuroinflammation, and senolytic therapies."
+        },
+        {
+          "theory_id": "T010321",
+          "subcluster_name": "Senescent Cell Accumulation and SASP Theory",
+          "reasoning": "Describes senescence accumulation in brain cells and reversal by heterochronic parabiosis."
+        },
+        {
+          "theory_id": "T009624",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Senescence Theory",
+          "reasoning": "Focuses on replicative senescence driven by telomere shortening as tumor suppressor and aging mechanism."
+        },
+        {
+          "theory_id": "T009244",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Senescence Theory",
+          "reasoning": "Emphasizes CDK inhibitors p16 and p27 inducing cell cycle arrest and replicative senescence in aging."
+        },
+        {
+          "theory_id": "T009428",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Senescence Theory",
+          "reasoning": "Describes telomere shortening triggering replicative senescence and altered gene expression driving aging."
+        },
+        {
+          "theory_id": "T009391",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Senescence Theory",
+          "reasoning": "Considers senescence as phenotypic variant linked to mitotic age and limited proliferative capacity."
+        },
+        {
+          "theory_id": "T009134",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Senescence Theory",
+          "reasoning": "Focuses on altered protein metabolism in senescent fibroblasts linked to arrested state and aging."
+        },
+        {
+          "theory_id": "T009950",
+          "subcluster_name": "Epigenetic Regulation of Senescence and SASP Theory",
+          "reasoning": "Highlights epigenetic changes orchestrating SASP expression and reinforcing senescent phenotype."
+        },
+        {
+          "theory_id": "T010288",
+          "subcluster_name": "Epigenetic Regulation of Senescence and SASP Theory",
+          "reasoning": "Focuses on p53 regulation of genome integrity, suppression of cytoplasmic chromatin fragments, and inflammation control."
+        },
+        {
+          "theory_id": "T007840",
+          "subcluster_name": "Epigenetic Regulation of Senescence and SASP Theory",
+          "reasoning": "Describes nucleolus and rDNA locus as aging regulators affecting senescence and epigenetic aging mechanisms."
+        },
+        {
+          "theory_id": "T010370",
+          "subcluster_name": "Epigenetic Regulation of Senescence and SASP Theory",
+          "reasoning": "Details programmed cell cycle arrest, SASP secretion, and contribution to cardiac aging and fibrosis."
+        },
+        {
+          "theory_id": "T010249",
+          "subcluster_name": "Epigenetic Regulation of Senescence and SASP Theory",
+          "reasoning": "Describes molecular regulators of senescence including telomere proteins and p16/p53 pathways modulated by exercise."
+        },
+        {
+          "theory_id": "T010345",
+          "subcluster_name": "Epigenetic Regulation of Senescence and SASP Theory",
+          "reasoning": "Focuses on Nrf2 deficiency impairing stress resilience, promoting senescence accumulation and metabolic stress effects."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:07:59"
+}

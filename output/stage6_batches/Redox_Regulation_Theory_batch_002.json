@@ -1,0 +1,209 @@
+{
+  "cluster_name": "Redox Regulation Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial DNA Damage-Driven Redox Regulation Theory",
+        "theory_ids": [
+          "T021750",
+          "T021178",
+          "T011233",
+          "T014465",
+          "T014222",
+          "T000241",
+          "T000399",
+          "T020990"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Redox Modulation and Cellular Electron Carrier Regulation Theory",
+        "theory_ids": [
+          "T019572",
+          "T016438",
+          "T002560",
+          "T015306",
+          "T014467",
+          "T012475",
+          "T002843"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Redox Signaling and Transcription Factor Regulation Theory",
+        "theory_ids": [
+          "T014214",
+          "T010627",
+          "T016347",
+          "T024422",
+          "T026275",
+          "T020398",
+          "T006571"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Redox Signaling in Skeletal Muscle Aging Theory",
+        "theory_ids": [
+          "T024837",
+          "T022156",
+          "T020132",
+          "T025039",
+          "T020485"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T021750",
+          "subcluster_name": "Mitochondrial DNA Damage-Driven Redox Regulation Theory",
+          "reasoning": "Focuses on mitochondrial DNA fragmentation and oxidative damage by hydroxyl radicals causing mtDNA alterations linked to aging."
+        },
+        {
+          "theory_id": "T021178",
+          "subcluster_name": "Mitochondrial DNA Damage-Driven Redox Regulation Theory",
+          "reasoning": "Describes somatic mtDNA mutations caused by ROS leading to mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T011233",
+          "subcluster_name": "Mitochondrial DNA Damage-Driven Redox Regulation Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction and increased ROS production causing oxidative damage and aging."
+        },
+        {
+          "theory_id": "T014465",
+          "subcluster_name": "Mitochondrial DNA Damage-Driven Redox Regulation Theory",
+          "reasoning": "Proposes an optimized mitochondrial redox state balancing energy output and ROS overflow, linking mitochondrial redox to aging."
+        },
+        {
+          "theory_id": "T014222",
+          "subcluster_name": "Mitochondrial DNA Damage-Driven Redox Regulation Theory",
+          "reasoning": "Links mitochondrial redox-thriftiness and insulin resistance to redox signaling and metabolic regulation in aging."
+        },
+        {
+          "theory_id": "T000241",
+          "subcluster_name": "Mitochondrial DNA Damage-Driven Redox Regulation Theory",
+          "reasoning": "Focuses on age-related shift in cellular redox state and thiol/disulfide balance affecting protein function and signaling."
+        },
+        {
+          "theory_id": "T000399",
+          "subcluster_name": "Mitochondrial DNA Damage-Driven Redox Regulation Theory",
+          "reasoning": "Highlights redox homeostasis via PPP and NADPH production supporting antioxidative defense and longevity."
+        },
+        {
+          "theory_id": "T020990",
+          "subcluster_name": "Mitochondrial DNA Damage-Driven Redox Regulation Theory",
+          "reasoning": "Describes redox imbalance with increased ROS and decreased antioxidant protection causing macromolecular damage and aging."
+        },
+        {
+          "theory_id": "T026442",
+          "subcluster_name": "Redox Homeostasis Dysfunction and Gasotransmitter Regulation Theory",
+          "reasoning": "Focuses on systemic redox imbalance, H2S signaling, and nutrient regulation affecting redox homeostasis and brain aging."
+        },
+        {
+          "theory_id": "T019572",
+          "subcluster_name": "Redox Modulation and Cellular Electron Carrier Regulation Theory",
+          "reasoning": "Emphasizes cellular redox state modulation via electron carriers and acceptors, hormesis, and plasma membrane redox system."
+        },
+        {
+          "theory_id": "T016438",
+          "subcluster_name": "Redox Modulation and Cellular Electron Carrier Regulation Theory",
+          "reasoning": "Highlights ROS as signaling molecules modulating immune function and redox balance via cysteine and glutathione metabolism."
+        },
+        {
+          "theory_id": "T002560",
+          "subcluster_name": "Redox Modulation and Cellular Electron Carrier Regulation Theory",
+          "reasoning": "Focuses on NADH/NAD+ ratio regulating sirtuin expression linking redox state to metabolic and longevity control."
+        },
+        {
+          "theory_id": "T015306",
+          "subcluster_name": "Redox Modulation and Cellular Electron Carrier Regulation Theory",
+          "reasoning": "Describes redox regulation of Sir2 deacetylase activity affecting metabolism and longevity in yeast."
+        },
+        {
+          "theory_id": "T014467",
+          "subcluster_name": "Redox Modulation and Cellular Electron Carrier Regulation Theory",
+          "reasoning": "Links redox regulation of cellular polarity and AMPK signaling to aging-related loss of cell function."
+        },
+        {
+          "theory_id": "T012475",
+          "subcluster_name": "Redox Modulation and Cellular Electron Carrier Regulation Theory",
+          "reasoning": "Integrates oxidative stress, telomere attrition, and tumor suppressor regulation modulated by redox balance affecting aging."
+        },
+        {
+          "theory_id": "T002843",
+          "subcluster_name": "Redox Modulation and Cellular Electron Carrier Regulation Theory",
+          "reasoning": "Focuses on tissue-specific reversible cysteine oxidation networks remodeling with age, regulating protein function and aging."
+        },
+        {
+          "theory_id": "T014214",
+          "subcluster_name": "Redox Signaling and Transcription Factor Regulation Theory",
+          "reasoning": "Emphasizes ROS as signaling molecules regulating transcription factors like Nrf2 and redox homeostasis in aging."
+        },
+        {
+          "theory_id": "T010627",
+          "subcluster_name": "Redox Signaling and Transcription Factor Regulation Theory",
+          "reasoning": "Focuses on spatiotemporal ROS dynamics and reversible protein thiol oxidation modulating lifespan-related signaling."
+        },
+        {
+          "theory_id": "T016347",
+          "subcluster_name": "Redox Signaling and Transcription Factor Regulation Theory",
+          "reasoning": "Describes redox-sensitive regulation of FoxO transcription factors via cysteine oxidation and acetylation affecting longevity."
+        },
+        {
+          "theory_id": "T024422",
+          "subcluster_name": "Redox Signaling and Transcription Factor Regulation Theory",
+          "reasoning": "Details redox-sensing thiol control of cell cycle and apoptosis signaling via reversible cysteine oxidation and compartmentalization."
+        },
+        {
+          "theory_id": "T026275",
+          "subcluster_name": "Redox Signaling and Transcription Factor Regulation Theory",
+          "reasoning": "Defines redox-stress signaling threshold (RST) determining beneficial versus harmful ROS effects on aging."
+        },
+        {
+          "theory_id": "T020398",
+          "subcluster_name": "Redox Signaling and Transcription Factor Regulation Theory",
+          "reasoning": "Proposes regulated prooxidant signaling by ROS/RNS as essential second messengers for metabolome and bioenergy regulation."
+        },
+        {
+          "theory_id": "T006571",
+          "subcluster_name": "Redox Signaling and Transcription Factor Regulation Theory",
+          "reasoning": "Highlights essential roles of superoxide, hydrogen peroxide, and nitric oxide as signaling molecules regulating healthy aging."
+        },
+        {
+          "theory_id": "T024837",
+          "subcluster_name": "Redox Signaling in Skeletal Muscle Aging Theory",
+          "reasoning": "Focuses on redox signaling by ROS/RNS regulating muscle adaptation, transcription factors, and aging-related muscle decline."
+        },
+        {
+          "theory_id": "T022156",
+          "subcluster_name": "Redox Signaling in Skeletal Muscle Aging Theory",
+          "reasoning": "Describes redox-sensitive signaling pathways in muscle regulating mitochondrial biogenesis, antioxidant defense, and aging."
+        },
+        {
+          "theory_id": "T020132",
+          "subcluster_name": "Redox Signaling in Skeletal Muscle Aging Theory",
+          "reasoning": "Emphasizes RONS-mediated activation of transcription factors and impaired redox signaling contributing to sarcopenia."
+        },
+        {
+          "theory_id": "T025039",
+          "subcluster_name": "Redox Signaling in Skeletal Muscle Aging Theory",
+          "reasoning": "Shows altered redox signaling and reversible cysteine oxidation in peripheral nerves linked to aging-related degeneration."
+        },
+        {
+          "theory_id": "T020485",
+          "subcluster_name": "Redox Signaling in Skeletal Muscle Aging Theory",
+          "reasoning": "Describes redox regulation of autophagy via H2O2-mediated Atg4a oxidation promoting lifespan extension."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:54:57"
+}

@@ -1,0 +1,199 @@
+{
+  "cluster_name": "Epigenetic Damage Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Epigenetic Regulation of DNA Replication and Genome Stability in Aging",
+        "theory_ids": [
+          "T005600",
+          "T008481"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Global Epigenetic Dysregulation and Chromatin Remodeling in Aging",
+        "theory_ids": [
+          "T006449",
+          "T006832",
+          "T006212",
+          "T006281",
+          "T008667",
+          "T009847"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Histone Modification and HDAC Regulation in Aging",
+        "theory_ids": [
+          "T006325",
+          "T006845",
+          "T009054"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Epigenetic Regulation of Stem Cell Aging and Exhaustion",
+        "theory_ids": [
+          "T006606",
+          "T006691",
+          "T006913",
+          "T009568",
+          "T006247"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "DNA Methylation-Driven Epigenetic Regulation of Aging and Lifespan",
+        "theory_ids": [
+          "T009479",
+          "T010180",
+          "T007800",
+          "T005054",
+          "T007320"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Programmed Epigenetic Information Loss in Aging",
+        "theory_ids": [
+          "T004693",
+          "T004945"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T005600",
+          "subcluster_name": "Epigenetic Regulation of DNA Replication and Genome Stability in Aging",
+          "reasoning": "Focuses on epigenetic control of DNA replication origin inactivation and its impact on genomic stability and cellular senescence."
+        },
+        {
+          "theory_id": "T006280",
+          "subcluster_name": "Epigenetic Regulation of DNA Repair and Chromatin Relaxation in Aging",
+          "reasoning": "Centers on histone acetylation (H4K16ac) controlling chromatin relaxation to facilitate DNA repair, linking epigenetic changes to repair efficiency and aging."
+        },
+        {
+          "theory_id": "T008481",
+          "subcluster_name": "Epigenetic Regulation of DNA Replication and Genome Stability in Aging",
+          "reasoning": "Describes accumulation of replication-associated epigenetic errors (CpG methylation) as a mitotic clock reflecting cellular division history and aging."
+        },
+        {
+          "theory_id": "T006449",
+          "subcluster_name": "Global Epigenetic Dysregulation and Chromatin Remodeling in Aging",
+          "reasoning": "Describes broad epigenetic drift, chromatin remodeling, 3D genome architecture changes, and transposon activation as central aging drivers."
+        },
+        {
+          "theory_id": "T006832",
+          "subcluster_name": "Global Epigenetic Dysregulation and Chromatin Remodeling in Aging",
+          "reasoning": "Focuses on 3D genome reorganization, nuclear lamina loss, and epigenomic entropy as mechanisms of aging-related chromatin changes."
+        },
+        {
+          "theory_id": "T006212",
+          "subcluster_name": "Global Epigenetic Dysregulation and Chromatin Remodeling in Aging",
+          "reasoning": "Emphasizes age-associated chromatin remodeling and epigenetic instability as drivers of aging and targets of longevity interventions."
+        },
+        {
+          "theory_id": "T006281",
+          "subcluster_name": "Global Epigenetic Dysregulation and Chromatin Remodeling in Aging",
+          "reasoning": "Details age-dependent heterochromatin remodeling via H3K9me3 gain and chromatin deterioration contributing to aging phenotypes."
+        },
+        {
+          "theory_id": "T008667",
+          "subcluster_name": "Global Epigenetic Dysregulation and Chromatin Remodeling in Aging",
+          "reasoning": "Describes self-reinforcing epigenetic feedback loops that maintain altered chromatin states driving aging and cancer, linking genetic and metabolic factors."
+        },
+        {
+          "theory_id": "T009847",
+          "subcluster_name": "Global Epigenetic Dysregulation and Chromatin Remodeling in Aging",
+          "reasoning": "Proposes irreversible loss of epigenetic signals and lack of repair mechanisms as universal causes of aging across life forms."
+        },
+        {
+          "theory_id": "T006325",
+          "subcluster_name": "Histone Modification and HDAC Regulation in Aging",
+          "reasoning": "Focuses on histone acetylation/deacetylation balance, HDACs including sirtuins, and their role in lifespan regulation and anti-aging therapeutics."
+        },
+        {
+          "theory_id": "T006845",
+          "subcluster_name": "Histone Modification and HDAC Regulation in Aging",
+          "reasoning": "Details histone modification dynamics in mesenchymal stem cell aging, emphasizing reversible epigenetic marks and therapeutic potential."
+        },
+        {
+          "theory_id": "T009054",
+          "subcluster_name": "Histone Modification and HDAC Regulation in Aging",
+          "reasoning": "Describes NuA4 acetyltransferase-mediated lysine acetylation of nonhistone proteins regulating metabolism and lifespan in yeast."
+        },
+        {
+          "theory_id": "T006606",
+          "subcluster_name": "Epigenetic Regulation of Stem Cell Aging and Exhaustion",
+          "reasoning": "Focuses on epigenetic alterations controlling stem cell fate, function, and exhaustion contributing to tissue aging and systemic decline."
+        },
+        {
+          "theory_id": "T006691",
+          "subcluster_name": "Epigenetic Regulation of Stem Cell Aging and Exhaustion",
+          "reasoning": "Emphasizes accumulation of epigenetic errors in stem cells and rejuvenation via nuclear reprogramming resetting epigenetic age."
+        },
+        {
+          "theory_id": "T006913",
+          "subcluster_name": "Epigenetic Regulation of Stem Cell Aging and Exhaustion",
+          "reasoning": "Describes epigenetic silencing of proregenerative genes limiting regenerative capacity with aging, involving heterochromatin restructuring."
+        },
+        {
+          "theory_id": "T009568",
+          "subcluster_name": "Epigenetic Regulation of Stem Cell Aging and Exhaustion",
+          "reasoning": "Links epigenetic control of EMT-MET programs to cellular plasticity, senescence, and stemness, influencing aging and regeneration."
+        },
+        {
+          "theory_id": "T006247",
+          "subcluster_name": "Epigenetic Regulation of Stem Cell Aging and Exhaustion",
+          "reasoning": "Focuses on epigenetic mechanisms driving aging and neurodegeneration, integrating gene expression regulation and stem cell dysfunction."
+        },
+        {
+          "theory_id": "T009479",
+          "subcluster_name": "DNA Methylation-Driven Epigenetic Regulation of Aging and Lifespan",
+          "reasoning": "Highlights DNA methylation changes as conserved regulators of lifespan, with pharmacological modulation affecting aging-related pathways."
+        },
+        {
+          "theory_id": "T010180",
+          "subcluster_name": "DNA Methylation-Driven Epigenetic Regulation of Aging and Lifespan",
+          "reasoning": "Focuses on age-associated DNA methylation changes at retroelements causing their reactivation, contributing to inflammaging and aging."
+        },
+        {
+          "theory_id": "T007800",
+          "subcluster_name": "DNA Methylation-Driven Epigenetic Regulation of Aging and Lifespan",
+          "reasoning": "General epigenetic theory emphasizing DNA methylation and histone modifications as aging drivers and epigenetic clocks as biomarkers."
+        },
+        {
+          "theory_id": "T005054",
+          "subcluster_name": "DNA Methylation-Driven Epigenetic Regulation of Aging and Lifespan",
+          "reasoning": "Uses DNA methylation clocks to show accelerated epigenetic aging in painful diabetic neuropathy, linking methylation to disease and aging."
+        },
+        {
+          "theory_id": "T007320",
+          "subcluster_name": "DNA Methylation-Driven Epigenetic Regulation of Aging and Lifespan",
+          "reasoning": "Describes common epigenetic mechanisms including global hypomethylation and gene-specific hypermethylation in aging and age-related diseases."
+        },
+        {
+          "theory_id": "T004693",
+          "subcluster_name": "Programmed Epigenetic Information Loss in Aging",
+          "reasoning": "Proposes a programmed gene regulatory mechanism causing active DNA methylation decay and epigenomic integrity loss driving aging."
+        },
+        {
+          "theory_id": "T004945",
+          "subcluster_name": "Programmed Epigenetic Information Loss in Aging",
+          "reasoning": "Describes transgenerational inheritance of longevity via nutritional-induced heritable epigenetic changes affecting lifespan regulation."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:17:10"
+}

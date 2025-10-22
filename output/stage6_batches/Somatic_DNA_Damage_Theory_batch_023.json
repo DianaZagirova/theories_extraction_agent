@@ -1,0 +1,214 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 23,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "DNA Repair Deficiency and Oocyte Aging Theories",
+        "theory_ids": [
+          "T025954",
+          "T020562",
+          "T020462",
+          "T025956",
+          "T014361",
+          "T027330",
+          "T015641",
+          "T025284"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+        "theory_ids": [
+          "T027252",
+          "T027445",
+          "T025985",
+          "T016950",
+          "T027418",
+          "T027301",
+          "T027335",
+          "T023014",
+          "T026207",
+          "T027044"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Damage and Dysfunction Theories",
+        "theory_ids": [
+          "T027233",
+          "T009017",
+          "T019760",
+          "T026280"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "Somatic DNA Damage Theory",
+        "theory_ids": [
+          "T026622",
+          "T026921",
+          "T015672",
+          "T016090",
+          "T008381",
+          "T007074",
+          "T005069",
+          "T027567"
+        ],
+        "theory_count": 8,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "6 subclusters too small, 2 theories not assigned"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025954",
+          "subcluster_name": "DNA Repair Deficiency and Oocyte Aging Theories",
+          "reasoning": "Focuses on DNA repair capacity and its decline in oocytes affecting reproductive aging."
+        },
+        {
+          "theory_id": "T020562",
+          "subcluster_name": "DNA Repair Deficiency and Oocyte Aging Theories",
+          "reasoning": "Links DNA damage response gene defects to reproductive and systemic aging, emphasizing impaired DNA repair."
+        },
+        {
+          "theory_id": "T020462",
+          "subcluster_name": "DNA Repair Deficiency and Oocyte Aging Theories",
+          "reasoning": "Describes impaired DNA repair in oocytes regulated by epigenetic changes leading to oocyte aging."
+        },
+        {
+          "theory_id": "T025956",
+          "subcluster_name": "DNA Repair Deficiency and Oocyte Aging Theories",
+          "reasoning": "Proposes that DNA repair rates correlate with lifespan, highlighting repair efficiency as a longevity factor."
+        },
+        {
+          "theory_id": "T014361",
+          "subcluster_name": "DNA Repair Deficiency and Oocyte Aging Theories",
+          "reasoning": "Describes age-related decline in DNA repair capacity in somatic cells contributing to cellular aging."
+        },
+        {
+          "theory_id": "T027330",
+          "subcluster_name": "DNA Repair Deficiency and Oocyte Aging Theories",
+          "reasoning": "Focuses on PARP enzymes mediating DNA repair and their role in genomic integrity and aging."
+        },
+        {
+          "theory_id": "T015641",
+          "subcluster_name": "DNA Repair Deficiency and Oocyte Aging Theories",
+          "reasoning": "Links species-specific PARP enzymatic activity to DNA repair capacity and lifespan differences."
+        },
+        {
+          "theory_id": "T025284",
+          "subcluster_name": "DNA Repair Deficiency and Oocyte Aging Theories",
+          "reasoning": "Describes ATR kinase\u2019s role in DNA damage response and its impact on RNA processing in senescent cells."
+        },
+        {
+          "theory_id": "T027252",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+          "reasoning": "Focuses on DNA damage accumulation causing cellular senescence and species differences in damage response."
+        },
+        {
+          "theory_id": "T027445",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+          "reasoning": "Describes genomic instability and somatic mosaicism as aging phenotypes driving cellular decline."
+        },
+        {
+          "theory_id": "T025985",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+          "reasoning": "Emphasizes genomic stability maintenance by proteins like TOP3B as determinants of lifespan."
+        },
+        {
+          "theory_id": "T016950",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+          "reasoning": "Proposes replication stress from dynamic DNA sequences causes mutations and genomic instability with age."
+        },
+        {
+          "theory_id": "T027418",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+          "reasoning": "Focuses on epigenetic regulation of rRNA genes affecting genome stability and aging."
+        },
+        {
+          "theory_id": "T027301",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+          "reasoning": "Links rDNA and nucleolar instability to cellular senescence and organismal aging."
+        },
+        {
+          "theory_id": "T027335",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+          "reasoning": "Describes rDNA instability and non-coding RNA transcription promoting cellular senescence."
+        },
+        {
+          "theory_id": "T023014",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+          "reasoning": "Explores interplay between rDNA and transposable elements in genome stability and aging."
+        },
+        {
+          "theory_id": "T026207",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+          "reasoning": "Describes genome reorganization limits and chromatin instability during cell division driving aging."
+        },
+        {
+          "theory_id": "T027044",
+          "subcluster_name": "DNA Damage-Driven Cellular Senescence Theories",
+          "reasoning": "General molecular damage accumulation and homeostatic decline leading to aging phenotypes."
+        },
+        {
+          "theory_id": "T015672",
+          "subcluster_name": "Genomic Instability and Somatic Mutation Burden Theories",
+          "reasoning": "Focuses on accumulation of genetic variants and somatic genome changes as drivers of aging."
+        },
+        {
+          "theory_id": "T027233",
+          "subcluster_name": "Mitochondrial DNA Damage and Dysfunction Theories",
+          "reasoning": "Describes accumulation of mitochondrial DNA deletions impairing mitochondrial function and aging."
+        },
+        {
+          "theory_id": "T009017",
+          "subcluster_name": "Mitochondrial DNA Damage and Dysfunction Theories",
+          "reasoning": "Focuses on mitochondrial DNA damage accumulation causing neuronal loss and aging."
+        },
+        {
+          "theory_id": "T019760",
+          "subcluster_name": "Mitochondrial DNA Damage and Dysfunction Theories",
+          "reasoning": "Links oxidative DNA damage accumulation due to MTH2 deficiency to neuronal aging and cognitive decline."
+        },
+        {
+          "theory_id": "T026280",
+          "subcluster_name": "Mitochondrial DNA Damage and Dysfunction Theories",
+          "reasoning": "Proposes neuronal DNA instability as a primary substrate of aging, including mitochondrial contributions."
+        },
+        {
+          "theory_id": "T016090",
+          "subcluster_name": "DNA Structural and Conformational Stability Theories",
+          "reasoning": "Focuses on DNA conformational polymorphisms influencing genomic stability and longevity."
+        },
+        {
+          "theory_id": "T008381",
+          "subcluster_name": "Cellular Detoxification Decline and Aging Theories",
+          "reasoning": "Describes age-related decline in neuronal efflux transporter function leading to toxic accumulation."
+        },
+        {
+          "theory_id": "T007074",
+          "subcluster_name": "Molecular Clock and Protein Modification Theories",
+          "reasoning": "Proposes deamidation as a molecular clock regulating protein lifespan and organismal aging."
+        },
+        {
+          "theory_id": "T005069",
+          "subcluster_name": "Neuronal Plasticity and Aging Theories",
+          "reasoning": "Defensive Activation Theory links REM sleep and cortical plasticity decline to aging."
+        },
+        {
+          "theory_id": "T027567",
+          "subcluster_name": "Genomic Maintenance and Homeostasis in Negligible Aging Theories",
+          "reasoning": "Highlights enhanced genomic stability, protein homeostasis, and mitochondrial function in negligible aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:54:46"
+}

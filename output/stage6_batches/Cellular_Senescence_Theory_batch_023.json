@@ -1,0 +1,204 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 23,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+        "theory_ids": [
+          "T018640",
+          "T018792",
+          "T018793",
+          "T018819",
+          "T018871"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Tumor Suppression and Cell Cycle Arrest in Cellular Senescence Theory",
+        "theory_ids": [
+          "T018651",
+          "T018715",
+          "T018818",
+          "T018920",
+          "T018902"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "SASP-Mediated Inflammation and Tissue Dysfunction in Cellular Senescence Theory",
+        "theory_ids": [
+          "T018671",
+          "T018690",
+          "T018694",
+          "T018788",
+          "T018860",
+          "T018807",
+          "T018830",
+          "T018823",
+          "T018901"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Dual Role and Heterogeneity of Cellular Senescence Theory",
+        "theory_ids": [
+          "T018815",
+          "T018695",
+          "T018876"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Epigenetic and Chromatin Remodeling Regulation of Cellular Senescence Theory",
+        "theory_ids": [
+          "T018756",
+          "T018827",
+          "T018881"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018640",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Focuses on replicative limit of cell division and telomere shortening as primary triggers of senescence and aging."
+        },
+        {
+          "theory_id": "T018792",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Emphasizes telomere shortening as a mitotic clock and replicative senescence mechanisms converging on p53 and pRb pathways."
+        },
+        {
+          "theory_id": "T018793",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Highlights telomere shortening triggering senescence and accumulation of senescent cells with age."
+        },
+        {
+          "theory_id": "T018819",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Describes replicative senescence via telomere shortening and DNA damage response pathways involving p53 and p16."
+        },
+        {
+          "theory_id": "T018871",
+          "subcluster_name": "Replicative Senescence and Telomere-Driven Cellular Senescence Theory",
+          "reasoning": "Details replicative senescence in endothelial cells with G1 arrest and senescence-associated apoptosis linked to replicative limits."
+        },
+        {
+          "theory_id": "T018651",
+          "subcluster_name": "Tumor Suppression and Cell Cycle Arrest in Cellular Senescence Theory",
+          "reasoning": "Focuses on senescence as a tumor suppressive barrier mediated by CDKN2a locus and cell cycle checkpoint activation."
+        },
+        {
+          "theory_id": "T018715",
+          "subcluster_name": "Tumor Suppression and Cell Cycle Arrest in Cellular Senescence Theory",
+          "reasoning": "Emphasizes senescence as a tumor suppressive mechanism with permanent cell cycle arrest and antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T018818",
+          "subcluster_name": "Tumor Suppression and Cell Cycle Arrest in Cellular Senescence Theory",
+          "reasoning": "Focuses on p16INK4a-mediated cell cycle arrest balancing tumor suppression and aging effects."
+        },
+        {
+          "theory_id": "T018920",
+          "subcluster_name": "Tumor Suppression and Cell Cycle Arrest in Cellular Senescence Theory",
+          "reasoning": "Describes p53 regulation of senescence and ROS with dual roles in tumor suppression and aging."
+        },
+        {
+          "theory_id": "T018902",
+          "subcluster_name": "Tumor Suppression and Cell Cycle Arrest in Cellular Senescence Theory",
+          "reasoning": "Details p53-p21 and p16-pRB pathways controlling senescence and tumor suppression."
+        },
+        {
+          "theory_id": "T018671",
+          "subcluster_name": "SASP-Mediated Inflammation and Tissue Dysfunction in Cellular Senescence Theory",
+          "reasoning": "Highlights senescence-associated secretory phenotype (SASP) causing inflammation and tissue disruption."
+        },
+        {
+          "theory_id": "T018690",
+          "subcluster_name": "SASP-Mediated Inflammation and Tissue Dysfunction in Cellular Senescence Theory",
+          "reasoning": "Focuses on SASP-driven chronic inflammation and fibrosis promoting organ degeneration."
+        },
+        {
+          "theory_id": "T018694",
+          "subcluster_name": "SASP-Mediated Inflammation and Tissue Dysfunction in Cellular Senescence Theory",
+          "reasoning": "Describes SASP secretion causing local and systemic inflammation and aging phenotypes."
+        },
+        {
+          "theory_id": "T018788",
+          "subcluster_name": "SASP-Mediated Inflammation and Tissue Dysfunction in Cellular Senescence Theory",
+          "reasoning": "Emphasizes SASP in adipose tissue driving inflammation and metabolic dysfunction."
+        },
+        {
+          "theory_id": "T018860",
+          "subcluster_name": "SASP-Mediated Inflammation and Tissue Dysfunction in Cellular Senescence Theory",
+          "reasoning": "Describes SASP promoting inflammation and metabolic disease in aging and obesity."
+        },
+        {
+          "theory_id": "T018807",
+          "subcluster_name": "SASP-Mediated Inflammation and Tissue Dysfunction in Cellular Senescence Theory",
+          "reasoning": "Links SASP to chronic inflammation and age-related diseases including depression."
+        },
+        {
+          "theory_id": "T018830",
+          "subcluster_name": "SASP-Mediated Inflammation and Tissue Dysfunction in Cellular Senescence Theory",
+          "reasoning": "Focuses on SASP secretion disrupting tissue homeostasis and promoting aging phenotypes."
+        },
+        {
+          "theory_id": "T018823",
+          "subcluster_name": "SASP-Mediated Inflammation and Tissue Dysfunction in Cellular Senescence Theory",
+          "reasoning": "Highlights SASP-driven chronic inflammation and resistance to apoptosis in senescent cells."
+        },
+        {
+          "theory_id": "T018901",
+          "subcluster_name": "SASP-Mediated Inflammation and Tissue Dysfunction in Cellular Senescence Theory",
+          "reasoning": "Describes SASP regulated by NF-\u03baB driving inflammation and tissue dysfunction in aging."
+        },
+        {
+          "theory_id": "T018815",
+          "subcluster_name": "Dual Role and Heterogeneity of Cellular Senescence Theory",
+          "reasoning": "Focuses on senescence roles in development, repair, and aging with heterogeneity in cell types and stimuli."
+        },
+        {
+          "theory_id": "T018695",
+          "subcluster_name": "Dual Role and Heterogeneity of Cellular Senescence Theory",
+          "reasoning": "Describes senescence in multiple brain cell types contributing to neurodegeneration and aging."
+        },
+        {
+          "theory_id": "T018876",
+          "subcluster_name": "Dual Role and Heterogeneity of Cellular Senescence Theory",
+          "reasoning": "Discusses somatic cell senescence limiting organ repair and transplant outcomes with age-related heterogeneity."
+        },
+        {
+          "theory_id": "T018756",
+          "subcluster_name": "Epigenetic and Chromatin Remodeling Regulation of Cellular Senescence Theory",
+          "reasoning": "Focuses on epigenetic changes and chromatin architecture driving senescence onset and maintenance."
+        },
+        {
+          "theory_id": "T018827",
+          "subcluster_name": "Epigenetic and Chromatin Remodeling Regulation of Cellular Senescence Theory",
+          "reasoning": "Describes redox-sensitive regulation of p53 isoforms affecting senescence and aging via epigenetic mechanisms."
+        },
+        {
+          "theory_id": "T018881",
+          "subcluster_name": "Epigenetic and Chromatin Remodeling Regulation of Cellular Senescence Theory",
+          "reasoning": "Shows mTOR signaling modulates senescence phenotypes and can reverse senescence via epigenetic pathways."
+        },
+        {
+          "theory_id": "T018883",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Interaction Theory",
+          "reasoning": "Focuses on age-related decline in autophagy impairing cellular homeostasis and promoting senescence."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 00:57:12"
+}

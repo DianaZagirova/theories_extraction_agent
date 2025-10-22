@@ -1,0 +1,215 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 10,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+        "theory_ids": [
+          "T010393",
+          "T010145",
+          "T010396",
+          "T010576",
+          "T010501",
+          "T010634",
+          "T010596",
+          "T010568",
+          "T010096",
+          "T010520",
+          "T010384"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 11
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+        "theory_ids": [
+          "T010121",
+          "T010650",
+          "T010375",
+          "T010566",
+          "T010457",
+          "T010242"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+        "theory_ids": [
+          "T010560",
+          "T010369",
+          "T010188",
+          "T010256",
+          "T009807",
+          "T010605"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial Respiratory Regulation and ROS Control Theory",
+        "theory_ids": [
+          "T009453",
+          "T010527",
+          "T010222",
+          "T010143",
+          "T007449"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T010393",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS overproduction causing oxidative damage, mitochondrial fragmentation, mitophagy dysregulation, and cellular senescence."
+        },
+        {
+          "theory_id": "T010145",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production rate, oxidative damage to mtDNA, and membrane fatty acid unsaturation as determinants of aging."
+        },
+        {
+          "theory_id": "T010396",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Proposes mitochondrial ROS cause cumulative oxidative damage to macromolecules driving aging, with interventions targeting ROS to extend lifespan."
+        },
+        {
+          "theory_id": "T010576",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes ROS-induced mtDNA damage and vicious cycle of ROS and mtDNA mutations driving aging."
+        },
+        {
+          "theory_id": "T010501",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS as primary aging drivers and importance of mitochondrial antioxidant capacity in longevity."
+        },
+        {
+          "theory_id": "T010634",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Supports mitochondrial ROS as primary cause of aging and oxidative damage accumulation correlating with age."
+        },
+        {
+          "theory_id": "T010596",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Highlights endogenous mitochondrial ROS production causing mtDNA oxidative damage and links membrane fatty acid unsaturation to aging."
+        },
+        {
+          "theory_id": "T010568",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Posits mitochondrial ROS production causes cumulative oxidative damage and mitochondrial dysfunction, accelerating aging."
+        },
+        {
+          "theory_id": "T010096",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Describes ROS-induced oxidative damage and vicious cycle of mitochondrial dysfunction driving aging, with antioxidant defense considerations."
+        },
+        {
+          "theory_id": "T010520",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial free radicals causing oxidative damage and mitochondrial dysfunction leading to aging and healthspan decline."
+        },
+        {
+          "theory_id": "T010384",
+          "subcluster_name": "Mitochondrial ROS-Induced Oxidative Damage Theory",
+          "reasoning": "Emphasizes mitochondria as ROS source and target, ROS-induced mtDNA damage, and role of mitochondrial antioxidants in aging."
+        },
+        {
+          "theory_id": "T010121",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Focuses on accumulation of mtDNA deletions causing mitochondrial dysfunction and aging via a threshold effect and heteroplasmy."
+        },
+        {
+          "theory_id": "T010650",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Describes accumulation of mtDNA mutations and deletions causing respiratory chain defects and ROS vicious cycle accelerating aging."
+        },
+        {
+          "theory_id": "T010375",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Links oxidative damage accumulation, mtDNA mutations, and copy number decline to mitochondrial dysfunction and systemic aging."
+        },
+        {
+          "theory_id": "T010566",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Describes mtDNA mutation accumulation, oxidative stress, and mitochondrial quality control dysregulation causing sarcopenia and muscle aging."
+        },
+        {
+          "theory_id": "T010457",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Focuses on mtDNA mutation accumulation, mitochondrial dysfunction, ROS damage, and vicious cycle accelerating skeletal muscle aging."
+        },
+        {
+          "theory_id": "T010242",
+          "subcluster_name": "Mitochondrial DNA Mutation and Deletion Accumulation Theory",
+          "reasoning": "Correlates low mtDNA substitution rates with longevity and reduced oxidative stress in long-lived bivalve species."
+        },
+        {
+          "theory_id": "T010560",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Focuses on mitochondrial ROS-induced DNA damage response activating senescence pathways and limitations of ROS as sole senescence cause."
+        },
+        {
+          "theory_id": "T010369",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Describes mitochondrial dysfunction as both cause and consequence of senescence, with feedback loops promoting aging phenotypes."
+        },
+        {
+          "theory_id": "T010188",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Emphasizes mitophagy-mediated mitochondrial quality control, mtDNA leakage triggering inflammation, and mitophagy as anti-aging intervention."
+        },
+        {
+          "theory_id": "T010256",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Links mitochondrial decline to aging, immune dysfunction, inflammaging, and resilience to stressors including infections."
+        },
+        {
+          "theory_id": "T009807",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Focuses on mitochondrial signaling dysfunction, altered metabolite and ROS signaling, and mitochondrial dysfunction driving physiologic aging."
+        },
+        {
+          "theory_id": "T010605",
+          "subcluster_name": "Mitochondrial Dysfunction and Cellular Senescence Theory",
+          "reasoning": "Describes mitochondrial impairment in neurons causing aging, synaptic dysfunction, and neurodegeneration via altered dynamics and quality control."
+        },
+        {
+          "theory_id": "T009453",
+          "subcluster_name": "Mitochondrial Respiratory Regulation and ROS Control Theory",
+          "reasoning": "Proposes ATP/ADP allosteric inhibition of cytochrome c oxidase regulates membrane potential and limits ROS production to prevent aging damage."
+        },
+        {
+          "theory_id": "T010527",
+          "subcluster_name": "Mitochondrial Respiratory Regulation and ROS Control Theory",
+          "reasoning": "Focuses on mitochondrial membrane lipid peroxidation susceptibility, ETS complex organization, and ROS management influencing lifespan."
+        },
+        {
+          "theory_id": "T010222",
+          "subcluster_name": "Mitochondrial Respiratory Regulation and ROS Control Theory",
+          "reasoning": "Describes mitochondrial respiration control at ETS complexes affecting ROS production and lifespan via flux control redistribution."
+        },
+        {
+          "theory_id": "T010143",
+          "subcluster_name": "Mitochondrial Respiratory Regulation and ROS Control Theory",
+          "reasoning": "Emphasizes ETS supercomplex organization integrity as key to efficient electron transport, reduced ROS, and longevity."
+        },
+        {
+          "theory_id": "T007449",
+          "subcluster_name": "Mitochondrial Respiratory Regulation and ROS Control Theory",
+          "reasoning": "Describes CLK-1/MCLK1 mitochondrial enzyme regulating ubiquinone biosynthesis and mitochondrial function, modulating aging rate."
+        },
+        {
+          "theory_id": "T010105",
+          "subcluster_name": "Mitochondrial Epigenetic Regulation and Stem Cell Aging Theory",
+          "reasoning": "Focuses on mitochondrial metabolites regulating nuclear epigenetics, mitochondrial quality control, and stem cell fate affecting aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:41:59"
+}

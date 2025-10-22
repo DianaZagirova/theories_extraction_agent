@@ -1,0 +1,196 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 35,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+        "theory_ids": [
+          "T022883",
+          "T023119",
+          "T022905",
+          "T023190",
+          "T023049",
+          "T022876",
+          "T022887",
+          "T023278",
+          "T023005",
+          "T023270",
+          "T023162",
+          "T023265",
+          "T023302"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Cell Cycle Inhibitors and Molecular Pathways Regulating Senescence",
+        "theory_ids": [
+          "T023037",
+          "T022896",
+          "T022915",
+          "T022865",
+          "T022922",
+          "T023173",
+          "T022939"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Immune Cell Senescence and Clonal Dynamics in Aging",
+        "theory_ids": [
+          "T023261",
+          "T023204"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Oxidative Stress and p53 Isoform-Mediated Senescence Regulation",
+        "theory_ids": [
+          "T022861",
+          "T023039"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022883",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Focuses on accumulation of senescent cells, SASP secretion causing inflammation and tissue repair impairment, and therapeutic targeting of senescent cells."
+        },
+        {
+          "theory_id": "T023119",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Emphasizes SASP-driven chronic inflammation, senescent cell accumulation in vascular disease, and paracrine senescence effects."
+        },
+        {
+          "theory_id": "T022905",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Describes SASP secretion, epigenetic and metabolic changes in senescent cells, and dual roles in physiology and pathology."
+        },
+        {
+          "theory_id": "T023190",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Focuses on senescent cell accumulation and senolytic therapies reducing SASP-related aging phenotypes."
+        },
+        {
+          "theory_id": "T023049",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Highlights senescent cell accumulation, SASP secretion, and their causal role in organ dysfunction and aging."
+        },
+        {
+          "theory_id": "T022876",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Describes irreversible arrest, SASP secretion, accumulation with age, and senolytic clearance improving healthspan."
+        },
+        {
+          "theory_id": "T022887",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Focuses on SASP regulation by NF-kB and related pathways, metabolic changes, and systemic aging effects."
+        },
+        {
+          "theory_id": "T023278",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Explores dynamic SASP communication, microenvironment remodeling, and dual beneficial/detrimental roles of SASP."
+        },
+        {
+          "theory_id": "T023005",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Details senescent cell accumulation impairing wound healing via SASP-mediated inflammation and tissue remodeling."
+        },
+        {
+          "theory_id": "T023270",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Describes senescence-induced irreversible arrest, SASP paracrine effects causing tissue dysfunction, and therapeutic targeting."
+        },
+        {
+          "theory_id": "T023162",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Focuses on SASP-driven chronic inflammation, metabolic dysfunction, and calorie restriction reducing senescent cell burden."
+        },
+        {
+          "theory_id": "T023037",
+          "subcluster_name": "Cell Cycle Inhibitors and Molecular Pathways Regulating Senescence",
+          "reasoning": "Focuses on molecular pathways (p16INK4a, p19ARF, TP53, RB1, JAK/STAT, WNT) regulating senescence induction and maintenance."
+        },
+        {
+          "theory_id": "T022896",
+          "subcluster_name": "Cell Cycle Inhibitors and Molecular Pathways Regulating Senescence",
+          "reasoning": "Describes role of p19INK4d in cell cycle arrest, heterochromatin formation, and senescence maintenance."
+        },
+        {
+          "theory_id": "T022915",
+          "subcluster_name": "Cell Cycle Inhibitors and Molecular Pathways Regulating Senescence",
+          "reasoning": "Focuses on p16INK4a as a marker and mediator of senescence and its role in durable cell cycle arrest."
+        },
+        {
+          "theory_id": "T022865",
+          "subcluster_name": "Cell Cycle Inhibitors and Molecular Pathways Regulating Senescence",
+          "reasoning": "Emphasizes telomere shortening, DNA damage response, and INK4 family inhibitors in replicative senescence."
+        },
+        {
+          "theory_id": "T022922",
+          "subcluster_name": "Cell Cycle Inhibitors and Molecular Pathways Regulating Senescence",
+          "reasoning": "Describes molecular pathways driving senescence including telomere shortening, oncogene-induced senescence, and p53 signaling."
+        },
+        {
+          "theory_id": "T023173",
+          "subcluster_name": "Cell Cycle Inhibitors and Molecular Pathways Regulating Senescence",
+          "reasoning": "Shows senescence induction independent of telomere shortening, DNA damage accumulation, and apoptosis resistance."
+        },
+        {
+          "theory_id": "T022939",
+          "subcluster_name": "Cell Cycle Inhibitors and Molecular Pathways Regulating Senescence",
+          "reasoning": "Focuses on p16INK4a regulation of neural stem cell quiescence and aging-related proliferative arrest."
+        },
+        {
+          "theory_id": "T023261",
+          "subcluster_name": "Immune Cell Senescence and Clonal Dynamics in Aging",
+          "reasoning": "Describes clonal senescence and succession in T cells during persistent viral infection affecting immune aging."
+        },
+        {
+          "theory_id": "T023204",
+          "subcluster_name": "Immune Cell Senescence and Clonal Dynamics in Aging",
+          "reasoning": "Links macrophage-induced nitric oxide production to DNA damage response and senescence in inflammation-associated aging."
+        },
+        {
+          "theory_id": "T022861",
+          "subcluster_name": "Oxidative Stress and p53 Isoform-Mediated Senescence Regulation",
+          "reasoning": "Focuses on ROS-induced senescence, protective role of p53 isoform \u0394133p53 in antioxidant defense, and brain aging."
+        },
+        {
+          "theory_id": "T023039",
+          "subcluster_name": "Oxidative Stress and p53 Isoform-Mediated Senescence Regulation",
+          "reasoning": "Describes senescence contribution to neurodegenerative diseases and functional decline of senescent neural cells."
+        },
+        {
+          "theory_id": "T023265",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Focuses on senescence driving fibrosis via SASP secretion and stem cell exhaustion impairing tissue repair."
+        },
+        {
+          "theory_id": "T023302",
+          "subcluster_name": "Senescence-Associated Secretory Phenotype (SASP) and Tissue Dysfunction",
+          "reasoning": "Highlights dual role of senescence and SASP in aging and regeneration, including beneficial paracrine signaling."
+        },
+        {
+          "theory_id": "T023166",
+          "subcluster_name": "Autophagy Decline and Cellular Senescence Interactions",
+          "reasoning": "Focuses on age-dependent decline in autophagy leading to accumulation of damaged components contributing to senescence and aging."
+        },
+        {
+          "theory_id": "T022878",
+          "subcluster_name": "Stress-Induced Premature Senescence and Aging",
+          "reasoning": "Describes stress response cross-talk with senescence pathways causing premature senescence and biochemical decline driving aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:26:39"
+}

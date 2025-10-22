@@ -1,0 +1,210 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 17,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+        "theory_ids": [
+          "T013619",
+          "T013491",
+          "T013544",
+          "T013568",
+          "T013547",
+          "T013587",
+          "T013615",
+          "T013617",
+          "T013520",
+          "T013483",
+          "T013569",
+          "T013310"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+        "theory_ids": [
+          "T013475",
+          "T013471",
+          "T013632",
+          "T013599",
+          "T013477",
+          "T013505",
+          "T013551",
+          "T013597"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial Complex I Assembly and ROS Regulation Theory",
+        "theory_ids": [
+          "T013567",
+          "T013580",
+          "T013487",
+          "T013512",
+          "T013561"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+        "theory_ids": [
+          "T013610",
+          "T013439",
+          "T013476"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T013619",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Focuses on accumulation of mtDNA mutations causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T013491",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Emphasizes mtDNA mutations impairing respiratory complexes, especially Complex I, leading to aging."
+        },
+        {
+          "theory_id": "T013544",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Describes accumulation of mtDNA mutations causing respiratory chain defects and ROS increase."
+        },
+        {
+          "theory_id": "T013568",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Highlights mtDNA mutation accumulation and vicious cycle of ROS and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T013547",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mtDNA damage accumulation causing mitochondrial dysfunction and cellular senescence."
+        },
+        {
+          "theory_id": "T013587",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Describes mtDNA damage accumulation and respiratory chain dysfunction driving aging."
+        },
+        {
+          "theory_id": "T013615",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mtDNA mutations impairing respiratory chain, supported by mtDNA mutator mouse model."
+        },
+        {
+          "theory_id": "T013617",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Discusses causal role of mtDNA mutations in aging with experimental evidence from mutator mice."
+        },
+        {
+          "theory_id": "T013520",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Emphasizes somatic mtDNA mutation accumulation causing bioenergetic decline and tissue dysfunction."
+        },
+        {
+          "theory_id": "T013483",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Describes mtDNA somatic mutations and ROS production impairing mitochondrial function and aging."
+        },
+        {
+          "theory_id": "T013569",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Links mitochondrial mutation rate and ROS to aging and longevity differences among species."
+        },
+        {
+          "theory_id": "T013310",
+          "subcluster_name": "mtDNA Mutation-Driven Mitochondrial Decline Theory",
+          "reasoning": "Focuses on clonal expansion of somatic mtDNA mutations impairing respiratory chain and aging."
+        },
+        {
+          "theory_id": "T013475",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial ROS accumulation damaging mitochondria and reducing cell proliferative capacity."
+        },
+        {
+          "theory_id": "T013471",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes mitochondrial ROS generation causing oxidative damage and mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T013632",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Highlights mitochondrial ROS overproduction causing oxidative stress and stem cell dysfunction."
+        },
+        {
+          "theory_id": "T013599",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing mtDNA damage, respiratory impairment, and apoptosis."
+        },
+        {
+          "theory_id": "T013477",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Explains sex differences in mitochondrial ROS production affecting aging and lifespan."
+        },
+        {
+          "theory_id": "T013505",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes mitochondrial ROS production, oxidative damage accumulation, and antioxidant defenses."
+        },
+        {
+          "theory_id": "T013551",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Focuses on ROS-induced activation of mitochondrial apoptosis via Bak contributing to aging."
+        },
+        {
+          "theory_id": "T013567",
+          "subcluster_name": "Mitochondrial Complex I Assembly and ROS Regulation Theory",
+          "reasoning": "Focuses on complex I assembly equilibrium affecting ROS production and mitochondrial function."
+        },
+        {
+          "theory_id": "T013580",
+          "subcluster_name": "Mitochondrial Complex I Assembly and ROS Regulation Theory",
+          "reasoning": "Describes mitochondrial dysfunction including uncoupling and ROS effects on premature senescence."
+        },
+        {
+          "theory_id": "T013487",
+          "subcluster_name": "Mitochondrial Complex I Assembly and ROS Regulation Theory",
+          "reasoning": "Focuses on mitochondrial uncoupling proteins reducing ROS production and modulating lifespan."
+        },
+        {
+          "theory_id": "T013512",
+          "subcluster_name": "Mitochondrial Complex I Assembly and ROS Regulation Theory",
+          "reasoning": "Describes reduced mitochondrial coupling and increased proton leak affecting energetics and aging."
+        },
+        {
+          "theory_id": "T013561",
+          "subcluster_name": "Mitochondrial Complex I Assembly and ROS Regulation Theory",
+          "reasoning": "Focuses on oxidative phosphorylation inhibition causing mitochondrial dysfunction and senescence."
+        },
+        {
+          "theory_id": "T013610",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Emphasizes mitophagy, mitochondrial fusion/fission, and quality control in mitochondrial aging."
+        },
+        {
+          "theory_id": "T013439",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Describes mitohormesis, mitochondrial dynamics, and quality control affecting aging and longevity."
+        },
+        {
+          "theory_id": "T013476",
+          "subcluster_name": "Mitochondrial Quality Control and Dynamics Theory",
+          "reasoning": "Focuses on mitochondrial iron homeostasis disruption affecting mitochondrial function and lifespan."
+        },
+        {
+          "theory_id": "T013597",
+          "subcluster_name": "Mitochondrial ROS-Induced Mitochondrial Decline Theory",
+          "reasoning": "Describes ROS overgeneration causing oxidative damage and mitochondrial dysfunction in aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:44:46"
+}

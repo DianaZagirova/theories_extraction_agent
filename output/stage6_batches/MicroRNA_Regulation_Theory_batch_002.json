@@ -1,0 +1,145 @@
+{
+  "cluster_name": "MicroRNA Regulation Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Insulin/IGF-1 Signaling-Associated MicroRNA Regulation Theory",
+        "theory_ids": [
+          "T020538",
+          "T021744",
+          "T021814",
+          "T022664",
+          "T020298",
+          "T019468",
+          "T022814"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Autophagy and Senescence-Regulating MicroRNA Theory",
+        "theory_ids": [
+          "T019928",
+          "T021166",
+          "T019277",
+          "T022449",
+          "T020969"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Oxidative Stress and DNA Repair-Linked MicroRNA Regulation Theory",
+        "theory_ids": [
+          "T024560",
+          "T021253",
+          "T022436"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020538",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Associated MicroRNA Regulation Theory",
+          "reasoning": "This theory focuses on microRNAs regulating the insulin/IGF-1-like signaling (IIS) pathway, a key conserved longevity pathway, with miR-71 and DAF-16 feedback loops influencing lifespan variability."
+        },
+        {
+          "theory_id": "T021744",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Associated MicroRNA Regulation Theory",
+          "reasoning": "Describes microRNA machinery regulating fasting-induced longevity via modulation of IIS pathway effectors like DAF-16, linking miRNA activity to IIS-dependent lifespan extension."
+        },
+        {
+          "theory_id": "T021814",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Associated MicroRNA Regulation Theory",
+          "reasoning": "Focuses on miRNAs interacting with conserved aging pathways including IIS and DNA damage checkpoint, modulating lifespan and stress responses through these pathways."
+        },
+        {
+          "theory_id": "T022664",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Associated MicroRNA Regulation Theory",
+          "reasoning": "Highlights miRNAs as network-level regulators targeting multiple aging pathways including IIS, DNA damage response, and mitochondrial function, coordinating aging-related gene networks."
+        },
+        {
+          "theory_id": "T020298",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Associated MicroRNA Regulation Theory",
+          "reasoning": "General overview of miRNAs modulating canonical aging pathways such as IIS and mTOR, with tissue-specific roles and biomarker potential, emphasizing broad regulation of aging pathways."
+        },
+        {
+          "theory_id": "T019468",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Associated MicroRNA Regulation Theory",
+          "reasoning": "Describes miR-71 regulating global miRNA abundance and gene expression variability during aging, with links to IIS pathway via miR-71 and alg-1 feedback affecting lifespan variability."
+        },
+        {
+          "theory_id": "T019928",
+          "subcluster_name": "Autophagy and Senescence-Regulating MicroRNA Theory",
+          "reasoning": "miR-17-5p regulates longevity by modulating autophagy via mTOR pathway and suppressing cellular senescence, highlighting autophagy and senescence as key mechanisms."
+        },
+        {
+          "theory_id": "T021166",
+          "subcluster_name": "Autophagy and Senescence-Regulating MicroRNA Theory",
+          "reasoning": "miR-34 represses autophagy gene atg9, inhibiting autophagy and accelerating aging, linking miRNA regulation directly to autophagy and senescence control."
+        },
+        {
+          "theory_id": "T019277",
+          "subcluster_name": "Autophagy and Senescence-Regulating MicroRNA Theory",
+          "reasoning": "Secreted miR-83 inhibits autophagy across tissues by targeting cup-5, coordinating age-related decline in autophagy and proteostasis, emphasizing inter-tissue autophagy regulation."
+        },
+        {
+          "theory_id": "T022449",
+          "subcluster_name": "Autophagy and Senescence-Regulating MicroRNA Theory",
+          "reasoning": "miRNAs regulate cellular senescence and growth arrest states by targeting cell cycle, IGF-1 signaling, DNA repair, and apoptosis pathways, linking miRNAs to senescence and aging phenotypes."
+        },
+        {
+          "theory_id": "T020969",
+          "subcluster_name": "Autophagy and Senescence-Regulating MicroRNA Theory",
+          "reasoning": "Describes miRNAs modulating conserved aging pathways including p53 and p16-pRb senescence pathways, inflammatory signaling, and autophagy, highlighting their role in cellular senescence and aging."
+        },
+        {
+          "theory_id": "T024560",
+          "subcluster_name": "Oxidative Stress and DNA Repair-Linked MicroRNA Regulation Theory",
+          "reasoning": "miR-124 regulation linked to WRN helicase function, DNA repair, and oxidative stress; loss leads to ROS accumulation and metabolic decline, emphasizing DNA repair and oxidative stress mechanisms."
+        },
+        {
+          "theory_id": "T021253",
+          "subcluster_name": "Oxidative Stress and DNA Repair-Linked MicroRNA Regulation Theory",
+          "reasoning": "miR-34a regulates cardiac aging via repression of PNUTS, affecting telomere attrition and DNA damage response, linking miRNA to DNA repair and telomere maintenance in aging."
+        },
+        {
+          "theory_id": "T022436",
+          "subcluster_name": "Oxidative Stress and DNA Repair-Linked MicroRNA Regulation Theory",
+          "reasoning": "Focuses on miRNAs regulating hallmarks of aging and progeroid syndromes including DNA repair, telomere maintenance, nuclear architecture, and metabolism, highlighting miRNA roles in genomic stability."
+        },
+        {
+          "theory_id": "T020104",
+          "subcluster_name": "Neuronal Plasticity and Regeneration MicroRNA Regulation Theory",
+          "reasoning": "miRNAs like let-7 and lin-4 act as intrinsic timers controlling neuronal plasticity and regenerative decline with age, involving RNA-binding proteins and conserved mechanisms in neuronal aging."
+        },
+        {
+          "theory_id": "T021404",
+          "subcluster_name": "Stem Cell Aging and Mitochondrial Function MicroRNA Regulation Theory",
+          "reasoning": "miRNAs regulate adult stem cell properties, senescence, DNA repair, and mitochondrial function, influencing tissue regeneration and aging via epigenetic and metabolic pathways."
+        },
+        {
+          "theory_id": "T019072",
+          "subcluster_name": "ER Stress and Proteostasis-Associated MicroRNA Regulation Theory",
+          "reasoning": "miR-80 regulates lifespan via NLP-45 and unfolded protein response in ER (UPRER), modulating proteostasis and lifespan in a temperature-dependent manner."
+        },
+        {
+          "theory_id": "T024568",
+          "subcluster_name": "Dietary Restriction and Metabolic MicroRNA Regulation Theory",
+          "reasoning": "miR-125-chinmo axis mediates dietary restriction-dependent lifespan extension by regulating fat metabolism and nutrient-responsive transcriptional repression, linking miRNA to metabolic aging."
+        },
+        {
+          "theory_id": "T022814",
+          "subcluster_name": "Insulin/IGF-1 Signaling-Associated MicroRNA Regulation Theory",
+          "reasoning": "General theory describing miRNAs as conserved regulators of longevity and aging pathways including developmental timing circuits, consistent with IIS and conserved aging mechanisms."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:53:49"
+}

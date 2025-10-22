@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+        "theory_ids": [
+          "T001461",
+          "T001270",
+          "T002570",
+          "T001695",
+          "T002430",
+          "T001827",
+          "T002233",
+          "T002317",
+          "T002158",
+          "T001337",
+          "T002322",
+          "T001821"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Telomerase Activity and Aging Modulation Theory",
+        "theory_ids": [
+          "T002213",
+          "T001676"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+        "theory_ids": [
+          "T001820",
+          "T000801",
+          "T001541",
+          "T001290",
+          "T002697",
+          "T002386",
+          "T002685",
+          "T002013",
+          "T001736",
+          "T000920"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 10
+      },
+      {
+        "subcluster_name": "Replicative Aging and Telomere-Associated Pathogen Resilience Theory",
+        "theory_ids": [
+          "T001999",
+          "T001726"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T001461",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Focuses on telomere shortening causing DNA damage, cellular senescence, and aging via telomerase repression and mitotic clock."
+        },
+        {
+          "theory_id": "T001270",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Describes telomere erosion triggering replicative senescence and aging, emphasizing telomerase repression as tumor suppression."
+        },
+        {
+          "theory_id": "T002570",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Links telomere shortening in T cells to reduced proliferative capacity and immune aging, fitting replicative senescence theme."
+        },
+        {
+          "theory_id": "T001695",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Explores telomere shortening as causal in aging with sex differences, consistent with attrition-driven senescence."
+        },
+        {
+          "theory_id": "T002430",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Discusses telomere length as aging biomarker, telomerase role, and stress-induced attrition leading to cellular aging."
+        },
+        {
+          "theory_id": "T001827",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Covers telomere shortening, telomerase balance, and environmental/genetic modulation of telomere aging."
+        },
+        {
+          "theory_id": "T002233",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Shows telomere length as marker of senescence and survival, supporting attrition-driven aging."
+        },
+        {
+          "theory_id": "T002317",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Focuses on selective shortening of proliferation-restricting telomeres limiting cell division and triggering senescence."
+        },
+        {
+          "theory_id": "T002158",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Describes telomere shortening as molecular clock triggering senescence and tumor suppression."
+        },
+        {
+          "theory_id": "T001337",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Details telomere shortening triggering senescence and Hayflick limit, classic replicative senescence theory."
+        },
+        {
+          "theory_id": "T002322",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Shows telomere shortening causing senescence and telomerase maintaining length, with evolutionary conservation."
+        },
+        {
+          "theory_id": "T001821",
+          "subcluster_name": "Telomere Attrition and Replicative Senescence Theory",
+          "reasoning": "Links telomere erosion rate to aging rate modulation across species, fitting attrition and senescence theme."
+        },
+        {
+          "theory_id": "T002213",
+          "subcluster_name": "Telomerase Activity and Aging Modulation Theory",
+          "reasoning": "Focuses on telomerase enzyme activity maintaining telomeres and modulating aging beyond length maintenance."
+        },
+        {
+          "theory_id": "T001676",
+          "subcluster_name": "Telomerase Activity and Aging Modulation Theory",
+          "reasoning": "Describes telomerase vs recombination in yeast telomere maintenance and impact on replicative lifespan."
+        },
+        {
+          "theory_id": "T001820",
+          "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+          "reasoning": "Links telomere shortening to behavioral changes (pessimistic bias), integrating telomere attrition with organismal aging."
+        },
+        {
+          "theory_id": "T000801",
+          "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+          "reasoning": "Connects telomere attrition to systemic metabolic alterations and aging phenotypes beyond cellular senescence."
+        },
+        {
+          "theory_id": "T001541",
+          "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+          "reasoning": "Describes telomere uncapping via FBW7 causing senescence and fibrosis, linking telomere dysfunction to systemic aging."
+        },
+        {
+          "theory_id": "T001290",
+          "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+          "reasoning": "Shows telomere dysfunction causing osteoblast senescence and bone aging, a systemic tissue aging manifestation."
+        },
+        {
+          "theory_id": "T002697",
+          "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+          "reasoning": "Details telomere dysfunction impairing osteoblast differentiation and promoting osteoporosis, systemic aging effect."
+        },
+        {
+          "theory_id": "T002386",
+          "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+          "reasoning": "Explores parental age effects on offspring telomere length and longevity, a systemic intergenerational aging mechanism."
+        },
+        {
+          "theory_id": "T002685",
+          "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+          "reasoning": "Describes growth-lifespan trade-offs mediated by telomere loss and oxidative stress, linking telomeres to organismal aging."
+        },
+        {
+          "theory_id": "T002013",
+          "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+          "reasoning": "Focuses on stress-induced telomere shortening accelerating cellular aging, linking psychological stress to systemic aging."
+        },
+        {
+          "theory_id": "T001736",
+          "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+          "reasoning": "Models telomere shortening with oxidative stress contribution, connecting molecular damage to aging phenotypes."
+        },
+        {
+          "theory_id": "T000920",
+          "subcluster_name": "Telomere-Driven Behavioral and Systemic Aging Theory",
+          "reasoning": "Covers telomere shortening and maintenance in plants, emphasizing telomere length homeostasis and aging."
+        },
+        {
+          "theory_id": "T001999",
+          "subcluster_name": "Replicative Aging and Telomere-Associated Pathogen Resilience Theory",
+          "reasoning": "Focuses on replicative aging in fungal pathogens affecting resilience and virulence, a distinct telomere-related aging mechanism."
+        },
+        {
+          "theory_id": "T001726",
+          "subcluster_name": "Replicative Aging and Telomere-Associated Pathogen Resilience Theory",
+          "reasoning": "Describes asymmetric partitioning of damaged components during mitosis promoting replicative rejuvenation, related to replicative aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:19:52"
+}

@@ -1,0 +1,188 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 21,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T024095",
+          "T024211",
+          "T024240",
+          "T024227",
+          "T024205",
+          "T024373",
+          "T024321",
+          "T024112",
+          "T024116",
+          "T024353",
+          "T024241",
+          "T024113"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Lipid Peroxidation and Oxidative Damage in Muscle Aging",
+        "theory_ids": [
+          "T024027",
+          "T024318",
+          "T024036",
+          "T024213",
+          "T024272"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Antioxidant Defense and Oxidative Damage Theory",
+        "theory_ids": [
+          "T023942",
+          "T024147",
+          "T024338",
+          "T024222",
+          "T023885",
+          "T024146"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T024095",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on ROS generated during metabolism, mitochondrial origin of ROS, oxidative damage accumulation, and decline in antioxidant defenses."
+        },
+        {
+          "theory_id": "T024027",
+          "subcluster_name": "Lipid Peroxidation and Oxidative Damage in Muscle Aging",
+          "reasoning": "Emphasizes oxidative damage leading to lipid peroxidation, muscle loss (sarcopenia), platelet activation, and inflammation as aging drivers."
+        },
+        {
+          "theory_id": "T024211",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes ROS accumulation from metabolism, mitochondrial ROS dual role in signaling and damage, and redox homeostasis."
+        },
+        {
+          "theory_id": "T024240",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, oxidative damage accumulation, and genetic variation in antioxidant enzymes affecting aging."
+        },
+        {
+          "theory_id": "T023942",
+          "subcluster_name": "Antioxidant Defense and Oxidative Damage Theory",
+          "reasoning": "Highlights oxidative damage accumulation and the role of antioxidant supplementation (vitamin C) in modulating aging."
+        },
+        {
+          "theory_id": "T024227",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial dysfunction as both source and target of ROS, oxidative damage to proteins and lipids, and CNS aging."
+        },
+        {
+          "theory_id": "T024318",
+          "subcluster_name": "Lipid Peroxidation and Oxidative Damage in Muscle Aging",
+          "reasoning": "Emphasizes lipid peroxidation generating toxic aldehydes like 4-hydroxynonenal, protein modification, and decline in detoxification with age."
+        },
+        {
+          "theory_id": "T024205",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial ROS as main source in seeds, oxidative damage accumulation, and antioxidant/repair mechanisms modulating aging."
+        },
+        {
+          "theory_id": "T024147",
+          "subcluster_name": "Antioxidant Defense and Oxidative Damage Theory",
+          "reasoning": "Focuses on oxidative damage accumulation and cellular antioxidant defense systems influencing lifespan and aging."
+        },
+        {
+          "theory_id": "T024373",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights ROS accumulation causing oxidative damage and ROS-induced cellular senescence contributing to aging."
+        },
+        {
+          "theory_id": "T024036",
+          "subcluster_name": "Lipid Peroxidation and Oxidative Damage in Muscle Aging",
+          "reasoning": "Focuses on mitochondrial oxidative stress in muscle, antioxidant enzyme activity changes, and sarcopenia."
+        },
+        {
+          "theory_id": "T024213",
+          "subcluster_name": "Lipid Peroxidation and Oxidative Damage in Muscle Aging",
+          "reasoning": "Emphasizes ROS-driven oxidative damage in muscle tissues, mitochondrial damage, and antioxidant defense in aging."
+        },
+        {
+          "theory_id": "T023987",
+          "subcluster_name": "Glutathione Deficiency and Antioxidant Decline Theory",
+          "reasoning": "Focuses on glutathione (GSH) deficiency with age, its role in detoxification, and impact on oxidative damage and cancer susceptibility."
+        },
+        {
+          "theory_id": "T024321",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial ROS damage, especially from electron transport chain, and antioxidant enzymes protecting longevity."
+        },
+        {
+          "theory_id": "T024338",
+          "subcluster_name": "Antioxidant Defense and Oxidative Damage Theory",
+          "reasoning": "Focuses on ROS production, oxidative damage accumulation, decline of antioxidant defenses, and enhancement of antioxidative enzymes."
+        },
+        {
+          "theory_id": "T024272",
+          "subcluster_name": "Lipid Peroxidation and Oxidative Damage in Muscle Aging",
+          "reasoning": "Emphasizes oxidative damage accumulation, protein oxidation, and imbalance between ROS and antioxidant defenses."
+        },
+        {
+          "theory_id": "T024112",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on age-related increase in mitochondrial ROS production, decline in antioxidant enzymes, and oxidative damage driving aging."
+        },
+        {
+          "theory_id": "T024116",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights mitochondrial ROS as major damage source, oxidative stress imbalance, and ROS-induced cellular senescence."
+        },
+        {
+          "theory_id": "T024222",
+          "subcluster_name": "Antioxidant Defense and Oxidative Damage Theory",
+          "reasoning": "Focuses on oxidative damage accumulation, decline in antioxidant and DNA repair systems, and oxidized DNA as aging biomarker."
+        },
+        {
+          "theory_id": "T024353",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production, mitochondrial dysfunction, and redox-dependent epigenetic regulation in aging."
+        },
+        {
+          "theory_id": "T024241",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing damage to multiple aging hallmarks including genomic instability and cellular senescence."
+        },
+        {
+          "theory_id": "T023885",
+          "subcluster_name": "Antioxidant Defense and Oxidative Damage Theory",
+          "reasoning": "Describes oxidative stress as imbalance between pro-oxidants and antioxidants causing molecular damage and aging."
+        },
+        {
+          "theory_id": "T024295",
+          "subcluster_name": "Mitochondrial ROS-Induced Apoptosis and Aging Theory",
+          "reasoning": "Focuses on mitochondrial ROS triggering apoptosis via mitochondrial permeability transition, cytochrome c release, and metabolic regulation."
+        },
+        {
+          "theory_id": "T024146",
+          "subcluster_name": "Antioxidant Defense and Oxidative Damage Theory",
+          "reasoning": "Emphasizes oxidative stress imbalance, antioxidant defense decline, and influence of reproductive activity on oxidative damage."
+        },
+        {
+          "theory_id": "T024113",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS production, oxidative damage accumulation, and correlation with oxidative stress markers in aging."
+        },
+        {
+          "theory_id": "T022356",
+          "subcluster_name": "Redox Signaling and ROS-Induced Cellular Senescence Theory",
+          "reasoning": "Highlights ROS as signaling molecules regulating gene expression, senescence, apoptosis, and redox control of signal transduction."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:16:29"
+}

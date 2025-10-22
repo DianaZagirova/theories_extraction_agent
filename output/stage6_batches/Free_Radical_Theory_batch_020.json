@@ -1,0 +1,212 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 20,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T023470",
+          "T022982",
+          "T022409",
+          "T022458",
+          "T023044",
+          "T022875",
+          "T023625",
+          "T022910",
+          "T022443",
+          "T023275",
+          "T022548",
+          "T021716"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 12
+      },
+      {
+        "subcluster_name": "Melatonin-Modulated Free Radical Theory",
+        "theory_ids": [
+          "T022114",
+          "T022678"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Glutathione Deficiency and Antioxidant Imbalance Theory",
+        "theory_ids": [
+          "T022786",
+          "T022818",
+          "T022721",
+          "T022320",
+          "T022408"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "Protein Oxidation and Proteolytic System Inhibition Theory",
+        "theory_ids": [
+          "T022880",
+          "T022173",
+          "T022512"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Oxidative Damage-Induced Meiotic Cohesion Loss Theory",
+        "theory_ids": [
+          "T023125",
+          "T022152"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Brain-Specific Free Radical Theory of Aging",
+        "theory_ids": [
+          "T021206",
+          "T022550"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T023470",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on oxidative damage from mitochondrial ROS and antioxidant defense influencing lifespan."
+        },
+        {
+          "theory_id": "T022982",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial free radical formation and coenzyme Q antioxidant role in aging."
+        },
+        {
+          "theory_id": "T022409",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Highlights oxidative damage accumulation from ROS and antioxidant enzyme roles, linked to longevity."
+        },
+        {
+          "theory_id": "T022458",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes imbalance in antioxidant enzymes managing mitochondrial ROS leading to oxidative damage."
+        },
+        {
+          "theory_id": "T023044",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS causing oxidative DNA/RNA damage and aging, modulated by calorie restriction."
+        },
+        {
+          "theory_id": "T022875",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Details mitochondrial ROS leakage, lipid peroxidation, and caloric restriction effects on aging."
+        },
+        {
+          "theory_id": "T023625",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Links mitochondrial ROS and oxidative stress to brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T022910",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial oxidative damage driving cellular aging and dysfunction in mammary gland."
+        },
+        {
+          "theory_id": "T022443",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial ROS production and antioxidant defense changes in aging liver."
+        },
+        {
+          "theory_id": "T023275",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial ROS as main source of oxidative damage accelerating aging."
+        },
+        {
+          "theory_id": "T022548",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Describes mitochondrial origin of free radicals and oxidative damage accumulation causing aging."
+        },
+        {
+          "theory_id": "T021716",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on oxidative DNA damage from mitochondrial ROS and decline in mitochondrial DNA repair."
+        },
+        {
+          "theory_id": "T022114",
+          "subcluster_name": "Melatonin-Modulated Free Radical Theory",
+          "reasoning": "Highlights melatonin as a key endogenous antioxidant modulating free radical damage in aging."
+        },
+        {
+          "theory_id": "T022678",
+          "subcluster_name": "Melatonin-Modulated Free Radical Theory",
+          "reasoning": "Describes melatonin\u2019s direct scavenging of ROS and activation of antioxidant enzymes protecting cells."
+        },
+        {
+          "theory_id": "T022786",
+          "subcluster_name": "Glutathione Deficiency and Antioxidant Imbalance Theory",
+          "reasoning": "Focuses on glutathione deficiency due to precursor shortage causing oxidative stress in aging."
+        },
+        {
+          "theory_id": "T022818",
+          "subcluster_name": "Glutathione Deficiency and Antioxidant Imbalance Theory",
+          "reasoning": "Describes oxidative stress imbalance and hormesis effects on aging and antioxidant defenses."
+        },
+        {
+          "theory_id": "T022721",
+          "subcluster_name": "Glutathione Deficiency and Antioxidant Imbalance Theory",
+          "reasoning": "Links accumulation of ROS/RNS and antioxidant defense decline to oxidative stress and aging."
+        },
+        {
+          "theory_id": "T022320",
+          "subcluster_name": "Glutathione Deficiency and Antioxidant Imbalance Theory",
+          "reasoning": "Focuses on elevated ROS/RNS causing oxidative damage and cognitive decline, modulated by antioxidants."
+        },
+        {
+          "theory_id": "T022408",
+          "subcluster_name": "Glutathione Deficiency and Antioxidant Imbalance Theory",
+          "reasoning": "Describes ROS dual role in signaling and damage with imbalance leading to aging."
+        },
+        {
+          "theory_id": "T022880",
+          "subcluster_name": "Protein Oxidation and Proteolytic System Inhibition Theory",
+          "reasoning": "Focuses on oxidative protein modifications, impaired proteolysis, and accumulation of damaged proteins."
+        },
+        {
+          "theory_id": "T022173",
+          "subcluster_name": "Protein Oxidation and Proteolytic System Inhibition Theory",
+          "reasoning": "Describes free radical-mediated protein modifications inhibiting proteolytic systems and lipofuscin accumulation."
+        },
+        {
+          "theory_id": "T022512",
+          "subcluster_name": "Protein Oxidation and Proteolytic System Inhibition Theory",
+          "reasoning": "Emphasizes protein oxidation, aggregate formation, and decline in proteasome activity in aging."
+        },
+        {
+          "theory_id": "T023125",
+          "subcluster_name": "Oxidative Damage-Induced Meiotic Cohesion Loss Theory",
+          "reasoning": "Focuses on oxidative damage causing meiotic cohesion loss and chromosome segregation errors in aging oocytes."
+        },
+        {
+          "theory_id": "T022152",
+          "subcluster_name": "Oxidative Damage-Induced Meiotic Cohesion Loss Theory",
+          "reasoning": "Links oxidative damage accumulation to physiological decline including circadian disruption, related to aging."
+        },
+        {
+          "theory_id": "T021206",
+          "subcluster_name": "Brain-Specific Free Radical Theory of Aging",
+          "reasoning": "Focuses on free radical-induced oxidative damage driving brain aging and neurodegeneration."
+        },
+        {
+          "theory_id": "T022550",
+          "subcluster_name": "Brain-Specific Free Radical Theory of Aging",
+          "reasoning": "Describes ROS/RNS accumulation, inflammation, and energy supply impairment in brain aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:15:41"
+}

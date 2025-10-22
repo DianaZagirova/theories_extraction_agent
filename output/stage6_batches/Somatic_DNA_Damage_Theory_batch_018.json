@@ -1,0 +1,170 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 18,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+        "theory_ids": [
+          "T021657",
+          "T021498",
+          "T021693",
+          "T021481",
+          "T022094",
+          "T021594",
+          "T022238",
+          "T021618",
+          "T022006",
+          "T021444",
+          "T021782",
+          "T022010",
+          "T021714",
+          "T021539",
+          "T022174",
+          "T021443",
+          "T021388",
+          "T021912",
+          "T021291",
+          "T022215"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 20
+      },
+      {
+        "subcluster_name": "Decline in Stress Response and Protein Homeostasis Theory",
+        "theory_ids": [
+          "T021998",
+          "T021939"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T022092",
+          "subcluster_name": "rDNA Instability and Repair Theory of Aging",
+          "reasoning": "Focuses specifically on instability and repair mechanisms of ribosomal DNA repeats and their role in aging, distinct from general nuclear DNA damage."
+        },
+        {
+          "theory_id": "T021657",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Centers on accumulation of nuclear DNA damage from various sources and the role of multiple DNA repair pathways in aging and disease."
+        },
+        {
+          "theory_id": "T021498",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Describes aging driven by cumulative nuclear DNA damage and decline in repair capacity, including mitochondrial DNA damage as a related factor."
+        },
+        {
+          "theory_id": "T021693",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Emphasizes genome instability caused by defects in RecQ helicases affecting nuclear DNA repair and telomere maintenance."
+        },
+        {
+          "theory_id": "T021481",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Focuses on age-related increase in nuclear DNA damage and decline in repair efficiency correlating with longevity."
+        },
+        {
+          "theory_id": "T022094",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Highlights superior DNA repair and genome stability in exceptionally old individuals, linking nuclear DNA maintenance to aging."
+        },
+        {
+          "theory_id": "T021594",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Focuses on mismatch repair deficiency causing nuclear genome instability and accelerated aging phenotypes."
+        },
+        {
+          "theory_id": "T022238",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Presents DNA damage as a unifying cause of aging affecting multiple hallmarks, emphasizing nuclear DNA damage and repair pathways."
+        },
+        {
+          "theory_id": "T021618",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of oxidized nuclear DNA bases and decline in base excision repair enzyme activity with aging."
+        },
+        {
+          "theory_id": "T022006",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Describes accumulation of unrepaired nuclear DNA damage in postmitotic neurons and decline in repair capacity driving brain aging."
+        },
+        {
+          "theory_id": "T021444",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Links DNA repair capacity decline to accelerated aging in genetic disorders, focusing on nuclear DNA repair mechanisms."
+        },
+        {
+          "theory_id": "T021782",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Emphasizes DNA damage response and p53 regulation of senescence and apoptosis in response to nuclear DNA damage driving aging."
+        },
+        {
+          "theory_id": "T022010",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Focuses on genomic instability from nuclear DNA damage, DNA damage response gatekeepers and caretakers, and ROS as damage source."
+        },
+        {
+          "theory_id": "T021714",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Describes poly(ADP-ribosyl)ation by PARPs facilitating nuclear DNA repair and maintaining chromosomal stability to prevent aging."
+        },
+        {
+          "theory_id": "T021539",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of nuclear DNA double-strand breaks and imperfect repair mechanisms causing aging phenotypes."
+        },
+        {
+          "theory_id": "T022174",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Highlights genome instability and DNA repair defects caused by RECQL4 mutations affecting nuclear DNA replication and repair."
+        },
+        {
+          "theory_id": "T021443",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Describes age-related decline in multiple nuclear DNA repair pathways leading to mutation accumulation and aging."
+        },
+        {
+          "theory_id": "T021388",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Focuses on genome maintenance and DNA repair pathways preserving nuclear genome integrity as critical for longevity."
+        },
+        {
+          "theory_id": "T021912",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Emphasizes interplay of nuclear DNA damage, chromatin remodeling, and transcriptional changes in aging."
+        },
+        {
+          "theory_id": "T021291",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Focuses on accumulation of nuclear DNA lesions and mutations with age and defective repair causing premature aging."
+        },
+        {
+          "theory_id": "T022215",
+          "subcluster_name": "Nuclear DNA Damage Accumulation and Repair Deficiency Theory",
+          "reasoning": "Describes genome instability from nucleotide excision repair defects causing DNA damage accumulation and premature aging."
+        },
+        {
+          "theory_id": "T021358",
+          "subcluster_name": "Long-Lived Protein Damage and Macromolecular Deterioration Theory",
+          "reasoning": "Focuses on accumulation of spontaneous chemical modifications in long-lived proteins impairing tissue function and aging."
+        },
+        {
+          "theory_id": "T021998",
+          "subcluster_name": "Decline in Stress Response and Protein Homeostasis Theory",
+          "reasoning": "Describes age-related decline in heat shock protein 70 expression and impaired stress response contributing to aging."
+        },
+        {
+          "theory_id": "T021939",
+          "subcluster_name": "Decline in Stress Response and Protein Homeostasis Theory",
+          "reasoning": "Focuses on damaging cellular adaptations including senescence and epigenetic changes that exacerbate aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:52:24"
+}

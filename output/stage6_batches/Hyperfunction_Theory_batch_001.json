@@ -1,0 +1,183 @@
+{
+  "cluster_name": "Hyperfunction Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+        "theory_ids": [
+          "T001875",
+          "T001049",
+          "T002006",
+          "T000881",
+          "T001443",
+          "T000952",
+          "T001432",
+          "T000659",
+          "T000423",
+          "T000676",
+          "T001740",
+          "T000082",
+          "T002202",
+          "T002231",
+          "T000819",
+          "T000717",
+          "T000144",
+          "T001039",
+          "T000426",
+          "T001309",
+          "T001455"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 21
+      },
+      {
+        "subcluster_name": "Insulin/IGF and TOR Signaling Integration Theory",
+        "theory_ids": [
+          "T001214",
+          "T001281",
+          "T000636",
+          "T000440"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T001875",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "This theory emphasizes quasi-programmed aging driven by overactivation of growth-promoting pathways like mTOR causing cellular hyperfunction and senescence."
+        },
+        {
+          "theory_id": "T001049",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Focuses on mTOR signaling as a central regulator of aging and lifespan, highlighting its evolutionary antagonistic pleiotropy and conserved role."
+        },
+        {
+          "theory_id": "T002006",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Describes cellular senescence induced by growth stimulation via mTOR activation during cell cycle arrest, linking mTOR hyperfunction to aging."
+        },
+        {
+          "theory_id": "T000881",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Focuses on mTOR inhibition enhancing autophagy to counteract aging, directly implicating mTOR hyperfunction in aging mechanisms."
+        },
+        {
+          "theory_id": "T001443",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Describes mTOR as a gerogene driving quasi-programmed aging and hyperfunction, with AMPK as a gerosuppressor antagonizing mTOR."
+        },
+        {
+          "theory_id": "T000952",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Presents aging as a quasi-program driven by mTOR overactivation causing cellular geroconversion and hyperfunction."
+        },
+        {
+          "theory_id": "T001432",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Links mTOR-driven vascular aging and cognitive impairment, emphasizing mTOR hyperfunction causing vascular and brain aging."
+        },
+        {
+          "theory_id": "T000659",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Details mTOR inhibition effects on metabolism and longevity, highlighting mTOR\u2019s central role in aging regulation."
+        },
+        {
+          "theory_id": "T000423",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Focuses on TOR signaling in development, metabolism, and aging, emphasizing TOR complexes\u2019 roles in aging regulation."
+        },
+        {
+          "theory_id": "T000676",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Describes mTOR\u2019s role in translational control and cell growth, linking elevated mTOR activity to aging and lifespan."
+        },
+        {
+          "theory_id": "T001740",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Highlights mTOR as a driver of aging and geroconversion, with rapamycin extending lifespan by inhibiting mTOR."
+        },
+        {
+          "theory_id": "T000082",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Presents aging as a quasi-program driven by mTOR hyperfunction causing systemic and cellular hyperfunctions."
+        },
+        {
+          "theory_id": "T002202",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Focuses on geroconversion driven by mTOR in arrested cells, linking cellular senescence and organismal aging."
+        },
+        {
+          "theory_id": "T001214",
+          "subcluster_name": "Insulin/IGF and TOR Signaling Integration Theory",
+          "reasoning": "Emphasizes the integration and cross-talk between insulin and TOR pathways in regulating aging and lifespan."
+        },
+        {
+          "theory_id": "T002231",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Details mTORC1\u2019s central role in growth, metabolism, autophagy, and aging, with inhibition extending lifespan."
+        },
+        {
+          "theory_id": "T000819",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Describes aging driven by persistent growth signaling (mTOR, MAPK) causing hyperfunction and partial geroconversion."
+        },
+        {
+          "theory_id": "T000717",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Focuses on quasi-programmed aging driven by persistent mTOR overactivity causing hyperfunction and senescence."
+        },
+        {
+          "theory_id": "T000144",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Discusses mTORC1 hyperactivation accelerating aging and lifespan reduction, implicating mTORC1 in hyperfunction aging."
+        },
+        {
+          "theory_id": "T001039",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Describes mTOR as a molecular hypothalamus driving quasi-programmed aging and geroconversion."
+        },
+        {
+          "theory_id": "T001281",
+          "subcluster_name": "Insulin/IGF and TOR Signaling Integration Theory",
+          "reasoning": "Focuses on IIS and TOR pathway cross-talk and feedback loops regulating aging and lifespan."
+        },
+        {
+          "theory_id": "T000636",
+          "subcluster_name": "Insulin/IGF and TOR Signaling Integration Theory",
+          "reasoning": "Describes TOR nutrient sensing and its interaction with insulin/IGF signaling in lifespan regulation."
+        },
+        {
+          "theory_id": "T002049",
+          "subcluster_name": "Ras/PKA and Sch9 Signaling Hyperfunction Theory",
+          "reasoning": "Focuses on Ras/PKA and Sch9 pathways in yeast aging, linking oncogenic signaling, genomic instability, and aging."
+        },
+        {
+          "theory_id": "T000440",
+          "subcluster_name": "Insulin/IGF and TOR Signaling Integration Theory",
+          "reasoning": "Describes insulin-TOR signaling regulating aging via Spargel/dPGC-1, linking metabolic signaling to mitochondrial function and longevity."
+        },
+        {
+          "theory_id": "T000426",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Details mTOR complexes\u2019 roles in cell growth, metabolism, and aging, emphasizing mTOR hyperactivation driving aging."
+        },
+        {
+          "theory_id": "T001309",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Focuses on TOR signaling as a conserved aging regulator, with TORC1 inhibition extending lifespan."
+        },
+        {
+          "theory_id": "T001455",
+          "subcluster_name": "mTOR-Driven Quasi-Programmed Hyperfunction Theory",
+          "reasoning": "Describes mTORC1 activation causing stem cell exhaustion and aging, with inhibition preserving stem cell pools."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:08:21"
+}

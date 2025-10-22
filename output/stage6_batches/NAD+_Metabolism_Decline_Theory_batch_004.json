@@ -1,0 +1,194 @@
+{
+  "cluster_name": "NAD+ Metabolism Decline Theory",
+  "batch_num": 4,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+        "theory_ids": [
+          "T024517",
+          "T026662",
+          "T025214",
+          "T024666",
+          "T023396",
+          "T024965",
+          "T027456",
+          "T024500",
+          "T027210",
+          "T025600",
+          "T024758",
+          "T026285",
+          "T026751",
+          "T019985"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "CD38-Mediated NAD+ Degradation and Aging Theory",
+        "theory_ids": [
+          "T024918",
+          "T026712",
+          "T019553",
+          "T027060",
+          "T025215",
+          "T021956"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "NAD+/NADH Redox Ratio and Metabolic Regulation Theory",
+        "theory_ids": [
+          "T014739",
+          "T027243"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "NAD+ Metabolism Decline Theory",
+        "theory_ids": [
+          "T025946",
+          "T007842",
+          "T001164"
+        ],
+        "theory_count": 3,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "3 subclusters too small"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T025946",
+          "subcluster_name": "NAD+ Homeostasis and Caloric Restriction Mimicry Theory",
+          "reasoning": "Focuses on NAD+ homeostasis linked to caloric restriction and ketone body effects, emphasizing metabolic regulation and lifespan extension via CR mimetics."
+        },
+        {
+          "theory_id": "T024517",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Centers on NAD+ as a metabolic coenzyme and substrate for sirtuins, linking NAD+ decline to impaired sirtuin activity and aging."
+        },
+        {
+          "theory_id": "T024918",
+          "subcluster_name": "CD38-Mediated NAD+ Degradation and Aging Theory",
+          "reasoning": "Highlights CD38 enzyme as a major driver of NAD+ decline with age, impacting sirtuin activity and mitochondrial function."
+        },
+        {
+          "theory_id": "T026712",
+          "subcluster_name": "CD38-Mediated NAD+ Degradation and Aging Theory",
+          "reasoning": "Emphasizes CD38's role in NAD+ degradation and the NAD+/SIRT1 axis in aging, with therapeutic NAD+ precursor supplementation."
+        },
+        {
+          "theory_id": "T026662",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Focuses on NAD+ as a central metabolite affecting sirtuin activity, DNA repair, and mitochondrial function in aging."
+        },
+        {
+          "theory_id": "T025214",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Discusses NAD+ decline impairing mitochondrial function and sirtuin activity, with therapeutic NAD+ precursor potential."
+        },
+        {
+          "theory_id": "T024666",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Details NAD+ biosynthesis and salvage pathways regulating sirtuin activity and cellular longevity."
+        },
+        {
+          "theory_id": "T007842",
+          "subcluster_name": "NAD+ Entropy and Aging Delay Theory",
+          "reasoning": "Integrates thermodynamics with NAD+ role in maintaining low entropy and mitochondrial function to delay aging."
+        },
+        {
+          "theory_id": "T019553",
+          "subcluster_name": "CD38-Mediated NAD+ Degradation and Aging Theory",
+          "reasoning": "Identifies CD38 as a primary enzyme destroying NAD+ during aging, driving NAD+ decline and aging phenotypes."
+        },
+        {
+          "theory_id": "T023396",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Focuses on NAD+ homeostasis disruption affecting sirtuin activity and metabolic regulation in aging."
+        },
+        {
+          "theory_id": "T027060",
+          "subcluster_name": "CD38-Mediated NAD+ Degradation and Aging Theory",
+          "reasoning": "Links NAD+ decline to overconsumption by PARP and CD38 enzymes, reducing sirtuin activity and promoting aging."
+        },
+        {
+          "theory_id": "T014739",
+          "subcluster_name": "NAD+/NADH Redox Ratio and Metabolic Regulation Theory",
+          "reasoning": "Emphasizes the NAD+/NADH ratio and redox enzymes in regulating metabolism and aging processes."
+        },
+        {
+          "theory_id": "T024965",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Links NAD+ depletion and sirtuin decline to age-related hearing loss, highlighting NAD+ role in mitochondrial and inflammatory regulation."
+        },
+        {
+          "theory_id": "T027243",
+          "subcluster_name": "NAD+/NADH Redox Ratio and Metabolic Regulation Theory",
+          "reasoning": "Describes NAD+ and NADH as central regulators in brain aging via energy metabolism and calcium homeostasis."
+        },
+        {
+          "theory_id": "T001164",
+          "subcluster_name": "Nicotinamide-Driven Evolutionary Aging and Demographic Theory",
+          "reasoning": "Focuses on nicotinamide intake from diet as a driver of human evolution, longevity, fertility, and demographic patterns."
+        },
+        {
+          "theory_id": "T027456",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Details NMN's role in supporting sirtuin activity, autophagy, and metabolic shifts promoting myocardiocyte longevity."
+        },
+        {
+          "theory_id": "T024500",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Focuses on NAD+ salvage pathways and sirtuin regulation as critical for maintaining NAD+ levels and lifespan extension."
+        },
+        {
+          "theory_id": "T027210",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Links NAD+ homeostasis disruption to protein hyperacetylation and impaired sirtuin activity in aging muscle."
+        },
+        {
+          "theory_id": "T025600",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Describes the Nampt-NAD+-Sirt1 axis regulating stem cell senescence and aging via NAD+ biosynthesis."
+        },
+        {
+          "theory_id": "T024758",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Links NAD+ depletion to loss of neural stem cell proliferation and brain aging, implicating NAD+ in cellular energy metabolism."
+        },
+        {
+          "theory_id": "T026285",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Shows exercise-induced NAD biosynthesis counteracts NAD decline, improving tissue function and aging outcomes."
+        },
+        {
+          "theory_id": "T026751",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Focuses on systemic NAD+ decline affecting metabolism and DNA repair, with NMN supplementation as anti-aging therapy."
+        },
+        {
+          "theory_id": "T025215",
+          "subcluster_name": "CD38-Mediated NAD+ Degradation and Aging Theory",
+          "reasoning": "Highlights NAD+ consumption by CD38 and other enzymes causing ovarian aging and cellular dysfunction."
+        },
+        {
+          "theory_id": "T019985",
+          "subcluster_name": "NAD+ Metabolism and Sirtuin-Mediated Longevity Theory",
+          "reasoning": "Discusses mechanisms of NAD+ decline including biosynthesis reduction and increased consumption, driving aging."
+        },
+        {
+          "theory_id": "T021956",
+          "subcluster_name": "CD38-Mediated NAD+ Degradation and Aging Theory",
+          "reasoning": "Focuses on NAD+ depletion from PARP and CD38 overactivation causing metabolic decline and age-related diseases."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:46:35"
+}

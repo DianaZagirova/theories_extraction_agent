@@ -1,0 +1,2408 @@
+{
+  "metadata": {
+    "stage": "stage7_cluster_refinement",
+    "status": "complete",
+    "clusters_completed": 108,
+    "total_clusters": 108,
+    "total_theories": 2344,
+    "reference_theories": 1661,
+    "rare_theories": 252,
+    "grouped_theories": 146,
+    "mapped_to_reference": 93,
+    "retained_original": 13,
+    "clusters_with_missing": 0,
+    "total_retries": 0,
+    "theories_recovered_by_retry": 0,
+    "total_input_tokens": 506457,
+    "total_output_tokens": 21531,
+    "total_cost": 0.0889,
+    "timestamp": "2025-10-22 13:11:06"
+  },
+  "clusters": [
+    {
+      "cluster_id": "37",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "74",
+      "normalizations": [
+        {
+          "original_name": "Mitohormesis Theory",
+          "strategy": "map",
+          "normalized_name": "Mitohormesis and Mitochondrial ROS Signaling Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Mitohormesis Theory in INPUT_LIST matches closely with 'Mitohormesis and Mitochondrial ROS Signaling Theory' in REFERENCE_LIST, sharing key concepts of mitochondrial ROS signaling and hormetic stress responses."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "5",
+      "normalizations": [
+        {
+          "original_name": "DNA Damage Response and Genomic Stability in Aging",
+          "strategy": "assign_common",
+          "normalized_name": "DNA Damage Response and Repair Pathway Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Mechanisms involve DNA damage response, replication stress, and genomic stability, fitting well under the broad DNA Damage Response and Repair Pathway Theory."
+        },
+        {
+          "original_name": "DNA Damage-Induced Epigenetic Aging",
+          "strategy": "assign_common",
+          "normalized_name": "Epigenetic Alterations Induced by DNA Repair Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Focus on DNA damage causing epigenetic changes aligns with Epigenetic Alterations Induced by DNA Repair Theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "72",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "36",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "50",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "31",
+      "normalizations": [
+        {
+          "original_name": "Mitochondrial Metabolic Rate and Longevity Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Mitochondrial Dysfunction Longevity Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both theories focus on mitochondrial metabolic rate and its impact on longevity; the input theory's emphasis on mitochondrial metabolic rate aligns well with the broader 'Mitochondrial Dysfunction Longevity Theory' which covers metabolic rate decline and mitochondrial number decay as causal drivers of aging and longevity."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "1",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "75",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "65",
+      "normalizations": [
+        {
+          "original_name": "Evolutionary Cell Senescence Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Evolutionary Programmatic Senescence Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both involve evolutionary and genetic programming aspects of senescence; the input fits well under the broader evolutionary programmatic framework."
+        },
+        {
+          "original_name": "Cellular Commitment and Senescence Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Replicative and Cell Cycle Arrest Senescence Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "The theory focuses on cell division limits and commitment to senescence, aligning with replicative senescence and cell cycle arrest mechanisms."
+        },
+        {
+          "original_name": "Post-Transcriptional Regulation of Senescence",
+          "strategy": "assign_common",
+          "normalized_name": "Epigenetic and Genetic Regulation of Cellular Senescence Theories",
+          "decision_confidence": 0.85,
+          "reasoning": "Post-transcriptional regulation via APA and splicing factors is a form of genetic/epigenetic regulation influencing senescence gene expression."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "9",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "42",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "78",
+      "normalizations": [
+        {
+          "original_name": "Germline Rejuvenation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Germline Genetic Quality and Integrity Maintenance",
+          "decision_confidence": 0.9,
+          "reasoning": "Germline rejuvenation via meiosis and epigenetic reprogramming relates to maintaining germline genetic quality and integrity."
+        },
+        {
+          "original_name": "Genetic Quality Control via Sexual Reproduction",
+          "strategy": "assign_common",
+          "normalized_name": "Germline Genetic Quality and Integrity Maintenance",
+          "decision_confidence": 0.95,
+          "reasoning": "Sexual reproduction as a quality control mechanism aligns with germline genetic quality and integrity maintenance concepts."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "77",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "27",
+      "normalizations": [
+        {
+          "original_name": "Epigenetic Regulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Epigenetic Regulation Mechanisms",
+          "decision_confidence": 0.9,
+          "reasoning": "Mechanisms involving PcG, TrxG, and cellular memory relate to epigenetic regulation; maps well to existing Epigenetic Regulation Mechanisms."
+        },
+        {
+          "original_name": "Epigenetic Maintenance Dysfunction Theory",
+          "strategy": "map",
+          "normalized_name": "Epigenetic Drift Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Maintenance dysfunction leads to methylation drift, matching Epigenetic Drift Theory mechanisms."
+        },
+        {
+          "original_name": "Epigenetic and Transcriptional Regulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Epigenetic Regulation via Metabolic Signaling Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "CBP involvement in histone acetylation and transcriptional regulation links to metabolic signaling and epigenetic regulation."
+        },
+        {
+          "original_name": "Cellular Identity Loss and Epigenetic Drift Theory",
+          "strategy": "map",
+          "normalized_name": "Epigenetic Drift Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Mesenchymal drift is a form of epigenetic drift causing loss of cellular identity, fitting within Epigenetic Drift Theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "102",
+      "normalizations": [
+        {
+          "original_name": "Stress Response and Maintenance Trade-off Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Maintenance and Repair Decline Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Both theories involve trade-offs between maintenance and aging processes; stress response regulation and resource allocation to maintenance align with maintenance and repair decline mechanisms."
+        },
+        {
+          "original_name": "Maintenance and Repair Balance Theory",
+          "strategy": "map",
+          "normalized_name": "Maintenance and Repair Decline Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Directly relates to maintenance effort and repair decline concepts already established in the reference list."
+        },
+        {
+          "original_name": "Structural Integrity and Turnover Limitation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Wear and Tear Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Focus on structural damage accumulation and limited turnover fits well with wear and tear mechanisms."
+        },
+        {
+          "original_name": "Adaptive Structural Maintenance Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Activity Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Adaptive reiteration as a maintenance mechanism in trees parallels activity-driven maintenance and role support concepts in activity theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "4",
+      "normalizations": [
+        {
+          "original_name": "Klotho and Mineral Metabolism Regulation Theory",
+          "strategy": "map",
+          "normalized_name": "Klotho-FGF23 Phosphate Metabolism and Mineral Homeostasis Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Both theories focus on klotho, phosphate metabolism, FGF23, and mineral homeostasis affecting aging; strong mechanistic overlap."
+        },
+        {
+          "original_name": "Mitochondrial Calcium Homeostasis Theory",
+          "strategy": "map",
+          "normalized_name": "Calcium Dysregulation Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Mitochondrial calcium regulation is a subset of calcium dysregulation mechanisms impacting neuronal and systemic aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "44",
+      "normalizations": [
+        {
+          "original_name": "Molecular Signaling and Environmental Integration Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Molecular Signaling and Environmental Integration Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "No closely related REFERENCE_LIST theory; unique integration of environmental signals via eicosanoids justifies a new generalized name."
+        },
+        {
+          "original_name": "Na/K-ATPase Oxidant Amplification Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Na/K-ATPase Oxidant Amplification Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Distinct mechanism involving Na/K-ATPase and ROS amplification not covered by existing REFERENCE_LIST theories."
+        },
+        {
+          "original_name": "Kynurenine Pathway and Aryl Hydrocarbon Receptor Signaling",
+          "strategy": "assign_common",
+          "normalized_name": "Kynurenine Pathway and Aryl Hydrocarbon Receptor Signaling",
+          "decision_confidence": 0.9,
+          "reasoning": "Combines two related REFERENCE_LIST theories (Kynurenine Pathway and Aryl Hydrocarbon Receptor Signaling) into one due to mechanistic overlap via kynurenine acting on AhR."
+        },
+        {
+          "original_name": "PARK7-Mediated Cellular Protection",
+          "strategy": "assign_common",
+          "normalized_name": "PARK7-Mediated Cellular Protection",
+          "decision_confidence": 0.9,
+          "reasoning": "Unique enzymatic detoxification mechanism not represented in REFERENCE_LIST; retains original name."
+        },
+        {
+          "original_name": "Receptor Signaling Modulation by Soluble Factors",
+          "strategy": "assign_common",
+          "normalized_name": "Receptor Signaling Modulation by Soluble Factors",
+          "decision_confidence": 0.9,
+          "reasoning": "Distinct mechanism of soluble receptor-mediated competitive inhibition not covered by existing REFERENCE_LIST theories."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "101",
+      "normalizations": [
+        {
+          "original_name": "Senescence-Associated Secretory Phenotype (SASP) Regulation Theory",
+          "strategy": "map",
+          "normalized_name": "Senescence-Associated Secretory Phenotype Regulation",
+          "decision_confidence": 0.9,
+          "reasoning": "Mechanism of SASP regulation fits well under existing SASP Regulation theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "108",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "43",
+      "normalizations": [
+        {
+          "original_name": "Mitochondrial Genome Selection Theory",
+          "strategy": "map",
+          "normalized_name": "Mitochondrial Genetic Drift and Replicative Advantage Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both theories describe selective or replicative advantages of mutant mtDNA leading to accumulation; the input fits well under replicative advantage and drift mechanisms."
+        },
+        {
+          "original_name": "Mitochondrial Genetic Conflict Theory",
+          "strategy": "map",
+          "normalized_name": "Mother's Curse Mitochondrial Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Both focus on maternal inheritance causing male-harming mtDNA mutations accumulation and mitonuclear interactions; concepts overlap strongly."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "2",
+      "normalizations": [
+        {
+          "original_name": "Oxidative Stress and Antioxidant Response Regulation",
+          "strategy": "map",
+          "normalized_name": "Redox Homeostasis and Antioxidant Defense Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both focus on ROS regulation, antioxidant defense, and Nrf2 pathway, fitting well under Redox Homeostasis and Antioxidant Defense Theory."
+        },
+        {
+          "original_name": "Antioxidant Resource Allocation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Antioxidant Defense and Oxidative Damage Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Deals with antioxidant allocation and oxidative stress impact on aging, best grouped under Antioxidant Defense and Oxidative Damage Theory."
+        },
+        {
+          "original_name": "Oxidative Stress and Energy Metabolism Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Oxidative Stress Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Focus on ROS, energy metabolism, and vicious cycles aligns with Oxidative Stress Theory."
+        },
+        {
+          "original_name": "Extracellular Oxidative Stress Generation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Oxidative Stress Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Describes ROS generation at cell surface contributing to oxidative stress, fitting within broader Oxidative Stress Theory."
+        },
+        {
+          "original_name": "Oxidative Stress Sensitization Theory",
+          "strategy": "map",
+          "normalized_name": "Oxidative Stress Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Focus on ROS-induced sensitization and apoptosis fits well within Oxidative Stress Theory."
+        },
+        {
+          "original_name": "Membrane Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Membrane Lipid Composition and Oxidative Damage Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Focus on ROS-induced membrane damage and clearance aligns with Membrane Lipid Composition and Oxidative Damage Theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "13",
+      "normalizations": [
+        {
+          "original_name": "Molecular Pleiotropy and Intrinsic Cellular Fragility Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Genetic and Molecular Antagonistic Pleiotropy in Aging",
+          "decision_confidence": 0.8,
+          "reasoning": "The molecular pleiotropy and intrinsic fragility concept aligns with genetic and molecular pleiotropy mechanisms in aging; no exact match exists but it fits well under the genetic and molecular antagonistic pleiotropy umbrella."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "61",
+      "normalizations": [
+        {
+          "original_name": "Metabolic Dysregulation and Inflammaging",
+          "strategy": "map",
+          "normalized_name": "Senoinflammation: Chronic Inflammation and Metabolic Dysregulation",
+          "decision_confidence": 0.95,
+          "reasoning": "Both involve chronic low-grade inflammation linked with metabolic dysregulation and immune signaling; Senoinflammation covers metabolic and inflammatory interplay."
+        },
+        {
+          "original_name": "Microenvironmental Inflammation Theory",
+          "strategy": "map",
+          "normalized_name": "Chronic Immune Activation and Inflammation Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Bone marrow stromal cell inflammation and altered hematopoiesis fit within chronic immune activation driving systemic aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "0",
+      "normalizations": [
+        {
+          "original_name": "Metabolic Rate and Energy Throughput Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Metabolic Adaptation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both theories address systemic metabolic rate reduction and adaptation affecting aging; Metabolic Adaptation Theory in REFERENCE_LIST covers metabolic rate reduction and energy expenditure."
+        },
+        {
+          "original_name": "Metabolic and System Stability Theory",
+          "strategy": "map",
+          "normalized_name": "Metabolic Stability Theory",
+          "decision_confidence": 1.0,
+          "reasoning": "Directly corresponds to Metabolic Stability Theory in REFERENCE_LIST focusing on metabolic stability and entropy."
+        },
+        {
+          "original_name": "Metabolic and Growth Regulatory Switch Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Metabolic Regulation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Involves regulation of growth and metabolism via insulin/IGF-mTOR pathways, fitting broadly under Metabolic Regulation Theory."
+        },
+        {
+          "original_name": "Metabolic Fuel Utilization Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Metabolic Regulation Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Focuses on dietary restriction and fuel metabolism changes, which relate to metabolic pathway modulation in Metabolic Regulation Theory."
+        },
+        {
+          "original_name": "Endocrine and Metabolic Regulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Metabolic Regulation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "FSH effects on adipose and metabolism fit within broader metabolic regulation mechanisms."
+        },
+        {
+          "original_name": "Hydrogen Metabolism and Proton-Motive Force Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Energy Metabolism Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Focus on proton-motive force and energy currency aligns with Energy Metabolism Theory's focus on energy transformation and mitochondrial function."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "116",
+      "normalizations": [
+        {
+          "original_name": "Systems Energy and Entropy Decline Theory",
+          "strategy": "map",
+          "normalized_name": "Thermodynamic Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Mechanisms of entropy decline and energy maintenance in living systems align closely with Thermodynamic Theory concepts of molecular disorder and entropy changes driving aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "22",
+      "normalizations": [
+        {
+          "original_name": "Stress Response and Adaptive Signaling Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Metabolic and Stress Signaling Regulation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both involve stress signaling pathways (NF-kB, mTOR, antioxidant defenses) regulating metabolism and adaptation, matching Metabolic and Stress Signaling Regulation Theory."
+        },
+        {
+          "original_name": "Cellular Stress Response and Adaptation Theory",
+          "strategy": "map",
+          "normalized_name": "Cellular Stress Response and Resistance Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Focus on cellular stress adaptation, mitochondrial dysfunction, autophagy, and senescence aligns well with Cellular Stress Response and Resistance Theory."
+        },
+        {
+          "original_name": "Mechanical Stress Theory",
+          "strategy": "map",
+          "normalized_name": "Mechanotransduction and Mechanobiology Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Mechanical forces driving brain atrophy and neurodegeneration fit Mechanotransduction and Mechanobiology Theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "76",
+      "normalizations": [
+        {
+          "original_name": "Motor Reserve Hypothesis",
+          "strategy": "assign_common",
+          "normalized_name": "Physiological Reserve Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Motor Reserve relates to capacity to compensate for decline, similar to physiological reserve concept of capacity to restore function after stress."
+        },
+        {
+          "original_name": "Energy Perception and Hormesis Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Exercise and Oxidative Stress-Induced Hormesis Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Both involve hormesis and adaptive stress responses; energy perception triggers hormetic stress similar to exercise-induced oxidative stress hormesis."
+        },
+        {
+          "original_name": "Physiological Set Point Drift Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Physiological Reserve Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Set point drift affects physiological regulation and reserve capacity; both address physiological control system changes with aging."
+        },
+        {
+          "original_name": "Bioelectric Field Regulation Theory",
+          "strategy": "retain",
+          "normalized_name": "Bioelectric Field Regulation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "No related theory in reference list; unique mechanism involving bioelectric fields and quantum thermodynamics."
+        },
+        {
+          "original_name": "Physiological Reserve Theory",
+          "strategy": "retain",
+          "normalized_name": "Physiological Reserve Theory",
+          "decision_confidence": 1.0,
+          "reasoning": "Already in input and suitable as is."
+        },
+        {
+          "original_name": "Hyperhabituation Theory",
+          "strategy": "retain",
+          "normalized_name": "Hyperhabituation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "No related theory in reference list; unique cognitive/behavioral aging mechanism."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "70",
+      "normalizations": [
+        {
+          "original_name": "Efferocytosis Impairment Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Impaired Cellular Clearance and Inflammation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Efferocytosis impairment relates to cellular clearance and inflammation, which is not covered by existing REFERENCE_LIST; grouping under a new generalized name for clearance-related aging."
+        },
+        {
+          "original_name": "Endomembrane System Dysfunction Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Membrane Trafficking and Secretion Dysfunction Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Endomembrane system dysfunction involves membrane fusion and secretion processes distinct from lysosomal or nuclear dysfunction; grouped under a new generalized name for membrane trafficking defects."
+        },
+        {
+          "original_name": "Arginase Dysregulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Metabolic Enzyme Dysregulation and Senescence Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Arginase dysregulation affects metabolism and senescence via multiple pathways, not covered by existing REFERENCE_LIST; grouped under a new generalized metabolic enzyme dysfunction name."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "29",
+      "normalizations": [
+        {
+          "original_name": "Autophagy Theory",
+          "strategy": "map",
+          "normalized_name": "Autophagy Dysfunction Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "The input focuses on autophagy regulation by HLH-30/TFEB and its role in longevity, which aligns well with the Autophagy Dysfunction Theory that covers autophagy as a cellular clearance mechanism critical for aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "106",
+      "normalizations": [
+        {
+          "original_name": "Biological Self-Destruction Regulation Theory",
+          "strategy": "retain",
+          "normalized_name": "Biological Self-Destruction Regulation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "No related theory in REFERENCE_LIST; mechanism distinct from waste accumulation, detoxification, or phosphate toxicity; only one input item, so retain as unique."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "33",
+      "normalizations": [
+        {
+          "original_name": "DNA Damage-Induced Senescence via ROS Regulation",
+          "strategy": "map",
+          "normalized_name": "DNA Damage-Driven Cellular Senescence Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "The mechanism involves DNA damage triggering senescence via ROS regulation, fitting well within the DNA Damage-Driven Cellular Senescence Theory which covers DNA damage, oxidative stress, and senescence."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "51",
+      "normalizations": [
+        {
+          "original_name": "Circadian Clock Theory",
+          "strategy": "map",
+          "normalized_name": "Circadian Clock Dysfunction Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "The input focuses on circadian system disruption, homeostatic impairment, and immunosenescence linked to circadian alterations, which aligns well with the Circadian Clock Dysfunction Theory that covers circadian clock roles in physiology, aging, and immune system decline."
+        },
+        {
+          "original_name": "Biological Timing and Chronobiology Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Biological Timing and Chronobiology Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "No closely matching reference name exists; the input describes a unique metronomic system and temporal DNA concept related to biological timing and aging, warranting a new generalized name to gather these related concepts."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "64",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "25",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "91",
+      "normalizations": [
+        {
+          "original_name": "Metabolic and Nutrient Sensing Regulation Theory",
+          "strategy": "map",
+          "normalized_name": "Metabolic Dysfunction and Nutrient Sensing",
+          "decision_confidence": 0.9,
+          "reasoning": "The GID-complex regulation of AMPK and metabolic adaptation fits well under metabolic dysfunction and nutrient sensing mechanisms involving AMPK and nutrient signaling."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "82",
+      "normalizations": [
+        {
+          "original_name": "Immunosenescence Impact on Disease Progression and Immune Resource Competition",
+          "strategy": "assign_common",
+          "normalized_name": "Immunosenescence and Chronic Inflammation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "This theory involves immune system decline and competition affecting disease progression, fitting well with immunosenescence and chronic inflammation mechanisms."
+        },
+        {
+          "original_name": "Cell Type-Specific Immunosenescence and Functional Divergence",
+          "strategy": "assign_common",
+          "normalized_name": "Immune Signaling and Immunosenescence",
+          "decision_confidence": 0.85,
+          "reasoning": "Focus on cell-specific immune aging and functional changes aligns with immune signaling alterations and immunosenescence mechanisms."
+        },
+        {
+          "original_name": "Immunosenescence Driven by Chronic Inflammation and Autoimmune Disease",
+          "strategy": "assign_common",
+          "normalized_name": "Immunosenescence and Chronic Inflammation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Premature immunosenescence linked to autoimmune disease and chronic inflammation fits well under immunosenescence and chronic inflammation theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "20",
+      "normalizations": [
+        {
+          "original_name": "Cross-Linking Theory",
+          "strategy": "assign_common",
+          "normalized_name": "General Molecular Cross-Linking Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Mechanism involves protein cross-linking similar to General Molecular Cross-Linking Theory but focused on cysteine; no exact match in REFERENCE_LIST, so assigned to broader cross-linking theory."
+        },
+        {
+          "original_name": "Small Molecule Imbalance Theory",
+          "strategy": "retain",
+          "normalized_name": "Small Molecule Imbalance Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "No related theory in REFERENCE_LIST; mechanism involves small molecule signaling imbalance distinct from listed theories."
+        },
+        {
+          "original_name": "H3K4 Trimethylation Theory",
+          "strategy": "retain",
+          "normalized_name": "H3K4 Trimethylation Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "No matching epigenetic theory in REFERENCE_LIST; specific histone modification mechanism justifies retention."
+        },
+        {
+          "original_name": "Polyamine Metabolism and Inflammation Modulation",
+          "strategy": "map",
+          "normalized_name": "Polyamine Metabolism Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Mechanism involves polyamine metabolism and its effects on inflammation, fitting well within Polyamine Metabolism Theory."
+        },
+        {
+          "original_name": "Prostaglandin E2 Sensitivity Theory",
+          "strategy": "retain",
+          "normalized_name": "Prostaglandin E2 Sensitivity Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "No matching prostaglandin or PGE2-related theory in REFERENCE_LIST; mechanism distinct enough to retain."
+        },
+        {
+          "original_name": "Calciprotein Particle Theory",
+          "strategy": "retain",
+          "normalized_name": "Calciprotein Particle Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "No related theory in REFERENCE_LIST; mechanism involving CPP and phosphate-driven aging is unique."
+        },
+        {
+          "original_name": "D-Amino Acid Isomerization Theory",
+          "strategy": "retain",
+          "normalized_name": "D-Amino Acid Isomerization Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "No matching theory in REFERENCE_LIST; mechanism involving D-amino acid accumulation is distinct."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "71",
+      "normalizations": [
+        {
+          "original_name": "Genome Instability Mechanisms",
+          "strategy": "map",
+          "normalized_name": "Genomic Instability Mechanisms",
+          "decision_confidence": 0.9,
+          "reasoning": "The input name matches closely with the existing REFERENCE_LIST name 'Genomic Instability Mechanisms' which covers DNA methylation mutagenesis and genome instability mechanisms."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "21",
+      "normalizations": [
+        {
+          "original_name": "Biological Lifespan Limit Barrier Theory",
+          "strategy": "map",
+          "normalized_name": "Lifespan Limit and Biological Constraint Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both theories propose an upper bound or cap on lifespan with mortality compression near maximum age."
+        },
+        {
+          "original_name": "Somatic Immortality Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Stem Cell-Mediated Immortality and Modularity Theory in Simple Organisms",
+          "decision_confidence": 0.95,
+          "reasoning": "Planarian pluripotent stem cells and telomere maintenance align with stem cell-based immortality mechanisms in simple organisms."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "24",
+      "normalizations": [
+        {
+          "original_name": "Socially Modified Selection Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "decision_confidence": 0.9,
+          "reasoning": "Theory modifies natural selection intensity on fecundity with social factors, fitting well under declining natural selection and life history trade-offs."
+        },
+        {
+          "original_name": "Evolutionary Decline and Cultural Compensation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Declining Force of Natural Selection and Life History Trade-offs",
+          "decision_confidence": 0.8,
+          "reasoning": "Theory describes decline in biological potential with age and compensatory cultural effects, consistent with declining natural selection and life history trade-offs."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "15",
+      "normalizations": [
+        {
+          "original_name": "Quantum Information Integrity Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Information Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both involve information integrity and mutation accumulation affecting aging; quantum model extends information theory concepts."
+        },
+        {
+          "original_name": "Pathological Convergence Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Proliferation Limitation Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Cell aging as common mechanism overlaps with proliferation limitation; also relates to systemic aging mechanisms but best fits proliferation limitation due to cell aging focus."
+        },
+        {
+          "original_name": "Limited Proliferative Potential Theory",
+          "strategy": "map",
+          "normalized_name": "Proliferation Limitation Theory",
+          "decision_confidence": 1.0,
+          "reasoning": "Directly describes limited cell division potential, matching proliferation limitation theory."
+        },
+        {
+          "original_name": "Organizational Heterogeneity Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Heterogeneity Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Focus on ordered heterogeneity and tissue size regulation fits well under heterogeneity theory."
+        },
+        {
+          "original_name": "Stochastic Progression and Irreversibility Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Stochastic Process Model",
+          "decision_confidence": 0.9,
+          "reasoning": "Models stochastic aging progression with irreversibility, fitting stochastic process model cluster."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "56",
+      "normalizations": [
+        {
+          "original_name": "Cellular Signaling Dysregulation Theory",
+          "strategy": "map",
+          "normalized_name": "Conserved Signaling Dysregulation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Cellular signaling dysregulation involving pathways like Cdc42 overlaps with conserved signaling pathways regulating aging; fits well under Conserved Signaling Dysregulation Theory."
+        },
+        {
+          "original_name": "Integrated Cellular Dysregulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Cellular Homeostasis Dysregulation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "This theory integrates multiple cellular dysregulations (inflammation, mitochondrial dysfunction, genomic instability) not covered by existing references; a new generalized name is needed to gather these intersecting cellular mechanisms."
+        },
+        {
+          "original_name": "Gene Expression and RNA Processing Dysregulation Mechanisms",
+          "strategy": "map",
+          "normalized_name": "Transcriptional Dysregulation Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Gene expression and RNA processing dysregulation, including intron retention, are mechanistically related to transcriptional dysregulation driving aging."
+        },
+        {
+          "original_name": "Systemic pH Dysregulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systemic Homeostasis Dysregulation Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Systemic pH dysregulation is a distinct systemic homeostasis failure not covered by existing theories; grouping systemic physiological dysregulations under a new generalized name is appropriate."
+        },
+        {
+          "original_name": "LINC Complex Dysregulation Theory",
+          "strategy": "map",
+          "normalized_name": "Physiological Dysregulation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "LINC complex dysfunction affects nuclear-cytoskeletal integration and mechanotransduction, contributing to physiological dysregulation and aging phenotypes; fits under Physiological Dysregulation Theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "17",
+      "normalizations": [
+        {
+          "original_name": "Discrete Dying Progression Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Distinct Molecular Phases of Aging and Dying",
+          "decision_confidence": 0.8,
+          "reasoning": "Dying is a discrete biological process separable from aging but related; no existing reference covers dying phases, so a new generalized name grouping molecular aging and dying phases is appropriate."
+        },
+        {
+          "original_name": "Constitutive Longevity Assurance Pathways Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Longevity Assurance Pathways",
+          "decision_confidence": 0.85,
+          "reasoning": "This theory describes constitutive pathways modulating lifespan independently of nutrient sensing; no exact match in references, but fits broadly under longevity assurance mechanisms distinct from nutrient-sensing pathways."
+        },
+        {
+          "original_name": "Extrinsic Mortality Reduction Longevity Theory",
+          "strategy": "map",
+          "normalized_name": "Extrinsic Mortality-Driven Resource Allocation Theory of Aging",
+          "decision_confidence": 0.95,
+          "reasoning": "Focus on extrinsic mortality reduction and longevity aligns well with extrinsic mortality-driven resource allocation theory emphasizing extrinsic mortality's role in aging and lifespan."
+        },
+        {
+          "original_name": "Early-Life Origins of Frailty",
+          "strategy": "assign_common",
+          "normalized_name": "Developmental Origins of Frailty",
+          "decision_confidence": 0.9,
+          "reasoning": "Early-life conditions influencing adult frailty and mortality is a distinct but related concept to frailty theory; no exact reference match, so a new generalized name capturing early-life frailty origins is appropriate."
+        },
+        {
+          "original_name": "Population-Level Frailty Dynamics",
+          "strategy": "map",
+          "normalized_name": "Frailty Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Population-level frailty dynamics involving survival environment and mortality selection fit well within the broader Frailty Theory which addresses accumulation and measurement of frailty."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "26",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "7",
+      "normalizations": [
+        {
+          "original_name": "Endo-siRNA Proteostasis Regulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Sirtuin Regulation of Neurodegeneration and Metabolic Aging",
+          "decision_confidence": 0.8,
+          "reasoning": "Endo-siRNA regulation of proteostasis and lifespan via stress response and chaperones relates mechanistically to sirtuin roles in proteostasis, neurodegeneration, and metabolic aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "3",
+      "normalizations": [
+        {
+          "original_name": "Hallmarks of Aging",
+          "strategy": "map",
+          "normalized_name": "Integrated Hallmarks of Aging: Primary, Antagonistic, and Integrative",
+          "decision_confidence": 0.95,
+          "reasoning": "INPUT Hallmarks of Aging aligns well with the comprehensive hallmarks frameworks in REFERENCE_LIST."
+        },
+        {
+          "original_name": "SnRK1-Mediated Plant Senescence Regulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Energy Sensing and Metabolic Regulation of Aging",
+          "decision_confidence": 0.8,
+          "reasoning": "No direct match in REFERENCE_LIST; mechanism relates to energy sensing and metabolic regulation, so generalized name created to group energy-related aging mechanisms."
+        },
+        {
+          "original_name": "Genome Maintenance and Transcriptional Regulation in Aging",
+          "strategy": "map",
+          "normalized_name": "Genetic Regulation of Aging",
+          "decision_confidence": 0.9,
+          "reasoning": "Focus on genome maintenance and transcriptional regulation fits well under Genetic Regulation of Aging."
+        },
+        {
+          "original_name": "Hormesis and Stress Response Longevity Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Stress Response and Hormesis in Aging",
+          "decision_confidence": 0.85,
+          "reasoning": "No exact match; mechanism involves stress response and hormesis, so a new generalized name created to group stress-induced longevity theories."
+        },
+        {
+          "original_name": "IIS and JNK Signaling Modulation in Aging",
+          "strategy": "map",
+          "normalized_name": "Genetic Regulation of Aging via Gerontogenes and Signaling Pathways",
+          "decision_confidence": 0.95,
+          "reasoning": "IIS and JNK signaling pathways are key genetic regulators of aging covered in this reference."
+        },
+        {
+          "original_name": "Cdk5 Regulation of Aging Rate Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Neuronal Signaling and Aging Rate Modulation",
+          "decision_confidence": 0.75,
+          "reasoning": "No direct match; mechanism involves neuronal kinase regulating aging rate, so a new generalized name created for neuronal signaling influences on aging."
+        },
+        {
+          "original_name": "Multicompartmental and Genetic Regulation of Aging",
+          "strategy": "map",
+          "normalized_name": "Genetic Regulation of Aging",
+          "decision_confidence": 0.9,
+          "reasoning": "Multicompartmental genetic control fits within Genetic Regulation of Aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "83",
+      "normalizations": [
+        {
+          "original_name": "Growth Signaling and Oxidative Stress Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Growth Regulation and Arrest Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both involve growth signaling pathways influencing aging via oxidative stress and growth arrest mechanisms, fitting well under Growth Regulation and Arrest Theory."
+        },
+        {
+          "original_name": "Quiescence Regulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Growth Regulation and Arrest Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Quiescence as a growth arrest state relates to growth regulation and aging, aligning with Growth Regulation and Arrest Theory."
+        },
+        {
+          "original_name": "Metabolic Restriction Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Molecular Genetics Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Metabolic regulation via glucose metabolism and caloric restriction links to genetic and transcriptomic longevity mechanisms described in Molecular Genetics Theory."
+        },
+        {
+          "original_name": "Epigenetic and Transcriptional Restriction Theory",
+          "strategy": "map",
+          "normalized_name": "Genetic Regulation Mechanisms",
+          "decision_confidence": 0.95,
+          "reasoning": "5hmC accumulation and transcriptional restriction via epigenetic modifications directly relate to epigenetic gene silencing and gene regulation."
+        },
+        {
+          "original_name": "Genomic Instability and Growth Signaling Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Cell Cycle Dysregulation Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Proto-oncogenic growth signaling promoting DNA damage and genomic instability fits well with cell cycle dysregulation and its role in aging."
+        },
+        {
+          "original_name": "Quantum Proteostasis Regulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Protein Synthesis Regulation Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Quantum effects on RNA and activation of proteostasis pathways relate to protein synthesis regulation and quality control mechanisms."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "57",
+      "normalizations": [
+        {
+          "original_name": "Mutation Accumulation Theory",
+          "strategy": "map",
+          "normalized_name": "Classical Evolutionary Mutation Accumulation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "The input theory focuses on mutation accumulation and evolutionary aspects consistent with the classical evolutionary mutation accumulation theory in the reference list."
+        },
+        {
+          "original_name": "Mutation Accumulation and Load Theories",
+          "strategy": "assign_common",
+          "normalized_name": "Mutation Accumulation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "This input describes mutation load and additive fitness effects, which are mechanistically related to mutation accumulation; no exact match in reference list, so assigned to a generalized 'Mutation Accumulation Theory' grouping."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "11",
+      "normalizations": [
+        {
+          "original_name": "Protein Post-Translational Modification and Signaling Theory",
+          "strategy": "map",
+          "normalized_name": "Protein Homeostasis and Posttranslational Modification Regulation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both involve post-translational modifications regulating protein function and aging-related signaling pathways."
+        },
+        {
+          "original_name": "Translational Control and Longevity Regulation",
+          "strategy": "map",
+          "normalized_name": "Protein Synthesis and Translational Control in Aging",
+          "decision_confidence": 0.95,
+          "reasoning": "Both focus on translational regulation affecting protein synthesis and lifespan."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "34",
+      "normalizations": [
+        {
+          "original_name": "Vulnerable Brain Phenotype Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Neurodegenerative Vulnerability and Cognitive Decline Theories",
+          "decision_confidence": 0.8,
+          "reasoning": "No exact match in REFERENCE_LIST; relates to brain vulnerability and cognitive decline mechanisms distinct from listed theories; grouped as a new generalized name for vulnerability-related brain aging."
+        },
+        {
+          "original_name": "Systemic Functional Decline Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systemic Functional Decline Theories",
+          "decision_confidence": 0.9,
+          "reasoning": "No exact match in REFERENCE_LIST; concept of hierarchical functional decline and biodynamic entropy is systemic and functional; grouped as a new generalized name to gather systemic functional decline concepts."
+        },
+        {
+          "original_name": "Systemic Functional Redundancy Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systemic Functional Redundancy Theories",
+          "decision_confidence": 0.9,
+          "reasoning": "No exact match in REFERENCE_LIST; degeneracy and distributed mechanisms relate to systemic functional redundancy; grouped as a new generalized name for redundancy/plasticity in aging systems."
+        },
+        {
+          "original_name": "Behavioral and Functional Decline Feedback Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Behavioral and Functional Decline Feedback Theories",
+          "decision_confidence": 0.85,
+          "reasoning": "No direct match in REFERENCE_LIST; focuses on feedback loops between behavior and functional decline; grouped as a new generalized name for feedback-driven decline theories."
+        },
+        {
+          "original_name": "Neurotrophic and Developmental Vulnerability Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Neurotrophic and Developmental Vulnerability Theories",
+          "decision_confidence": 0.85,
+          "reasoning": "No direct match in REFERENCE_LIST; focuses on early developmental vulnerability of cholinergic system and lifelong cognitive decline; grouped as a new generalized name for developmental vulnerability mechanisms."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "18",
+      "normalizations": [
+        {
+          "original_name": "Chronic Inflammation and Tissue Degeneration in Aging",
+          "strategy": "map",
+          "normalized_name": "Chronic Inflammation-Driven Immunological Aging",
+          "decision_confidence": 0.9,
+          "reasoning": "The mechanism of extracellular Granzyme B causing chronic inflammation and tissue damage aligns well with chronic inflammation driving aging and tissue dysfunction, matching the Chronic Inflammation-Driven Immunological Aging theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "28",
+      "normalizations": [
+        {
+          "original_name": "Caloric Restriction Modulation Theory",
+          "strategy": "map",
+          "normalized_name": "Caloric Restriction Mechanism",
+          "decision_confidence": 0.9,
+          "reasoning": "The theory focuses on hormonal and metabolic regulation under CR, fitting well within the broader Caloric Restriction Mechanism category."
+        },
+        {
+          "original_name": "Caloric Restriction Mimetics Theory",
+          "strategy": "map",
+          "normalized_name": "Ion Channel and Metabolic Modulation Caloric Restriction Mimetics",
+          "decision_confidence": 0.85,
+          "reasoning": "The theory discusses genetic and nutrient-sensing pathways mimicking CR effects, aligning with CR mimetics mechanisms in the Ion Channel and Metabolic Modulation CR Mimetics category."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "63",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "16",
+      "normalizations": [
+        {
+          "original_name": "Biological Variation and Homeostasis Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Biological Variation and Homeostasis Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "No closely matching REFERENCE_LIST theory; relates broadly to homeostasis and variation, distinct from proteostasis or metabolic decline; assigned as a new generalized name."
+        },
+        {
+          "original_name": "Proteostasis and Metabolic Regulation Theory",
+          "strategy": "map",
+          "normalized_name": "Proteostasis Network Maintenance and Regulation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Focus on proteostasis regulation and metabolic effects aligns well with 'Proteostasis Network Maintenance and Regulation Theory' which covers proteostasis maintenance and systemic regulation."
+        },
+        {
+          "original_name": "Homeostatic Failure and Environmental Interaction Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Homeostatic Failure and Environmental Interaction Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "No direct match in REFERENCE_LIST; theory emphasizes systemic homeostatic failure and environmental interactions, distinct from proteostasis or metabolic decline; assigned as a new generalized name."
+        },
+        {
+          "original_name": "Metabolic Dysfunction and Systemic Decline Theory",
+          "strategy": "map",
+          "normalized_name": "Proteostasis and Metabolic Homeostasis Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Strong mechanistic overlap with metabolic dysfunction and systemic decline involving metabolism and proteostasis; best matched to 'Proteostasis and Metabolic Homeostasis Theory' which covers metabolic and proteostasis interactions."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "41",
+      "normalizations": [
+        {
+          "original_name": "Evolutionary Origins of Sexual Reproduction and Aging",
+          "strategy": "assign_common",
+          "normalized_name": "Evolutionary Origins of Sexual Reproduction and Aging",
+          "decision_confidence": 0.9,
+          "reasoning": "No closely matching reference name; distinct topic on origin of sex and aging; keep as new generalized name."
+        },
+        {
+          "original_name": "Life History and Reproductive Senescence Theory",
+          "strategy": "map",
+          "normalized_name": "Life History Evolution of Reproductive Timing and Senescence",
+          "decision_confidence": 0.95,
+          "reasoning": "Strong overlap with reproductive timing and senescence life history theory in reference list."
+        },
+        {
+          "original_name": "Kin Selection and Longevity Evolution Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Kin Selection and Longevity Evolution Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "No exact match in reference list; distinct kin selection focus on longevity; create new generalized name."
+        },
+        {
+          "original_name": "Sexual Cooperation and Sociality in Aging",
+          "strategy": "map",
+          "normalized_name": "Social Insect Reproductive Longevity Exception",
+          "decision_confidence": 0.9,
+          "reasoning": "Focus on cooperation in social insects and aging matches social insect reproductive longevity exception theory."
+        },
+        {
+          "original_name": "Sociality and Cooperative Breeding Effects on Aging",
+          "strategy": "assign_common",
+          "normalized_name": "Sociality and Cooperative Breeding Effects on Aging",
+          "decision_confidence": 0.85,
+          "reasoning": "No exact match in reference list; distinct sociality and cooperative breeding effects on aging; create new generalized name."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "39",
+      "normalizations": [
+        {
+          "original_name": "Mitochondrial NAD+ Metabolism Theory",
+          "strategy": "map",
+          "normalized_name": "Mitochondrial Signaling Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "NAD+ metabolism and mitochondrial NAD+ carriers regulate mitochondrial signaling and metabolism, fitting well under mitochondrial signaling."
+        },
+        {
+          "original_name": "Mitochondrial Metabolic Pathways Theory",
+          "strategy": "map",
+          "normalized_name": "Mitochondrial Metabolism and Signaling Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Mitochondrial FASII and metabolic shifts relate to mitochondrial metabolism and signaling."
+        },
+        {
+          "original_name": "Mitochondrial Ion Channel Regulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Mitochondrial Functional State and Signaling Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Ion channel regulation affects mitochondrial function and signaling; fits best under functional state and signaling."
+        },
+        {
+          "original_name": "Mitochondrial Stress Signaling Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Mitochondrial Stress Response Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Stress signaling involving GDF15 aligns with mitochondrial stress response mechanisms."
+        },
+        {
+          "original_name": "Mitochondrial Oxidative Stress Regulation Theory",
+          "strategy": "map",
+          "normalized_name": "Mitochondrial Uncoupling Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Regulation of CytOx and ROS production relates to mitochondrial uncoupling and ROS control."
+        },
+        {
+          "original_name": "Mitochondrial Outer Membrane Fragility",
+          "strategy": "assign_common",
+          "normalized_name": "Mitochondrial Functional State and Signaling Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Membrane fragility impacts mitochondrial function and signaling, fitting under functional state and signaling."
+        },
+        {
+          "original_name": "Mitochondrial Healing Cycle Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Mitochondrial Stress Response Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Healing cycle driven by mitochondrial and metabolic changes aligns with mitochondrial stress response."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "73",
+      "normalizations": [
+        {
+          "original_name": "Protein Damage Theory",
+          "strategy": "map",
+          "normalized_name": "Proteostasis Decline and Oxidative Damage Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Protein Damage Theory focuses on proteostasis loss and protein homeostasis decline, which aligns well with the Proteostasis Decline and Oxidative Damage Theory in the reference list."
+        },
+        {
+          "original_name": "Protein Expression Deterioration Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Protein Damage Accumulation and Turnover Decline Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Protein Expression Deterioration Theory involves quantitative changes in protein expression and loss of homeostasis, which relates to protein damage accumulation and turnover decline mechanisms."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "66",
+      "normalizations": [
+        {
+          "original_name": "Protein Investment Theory",
+          "strategy": "retain",
+          "normalized_name": "Protein Investment Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Distinct metabolic allocation of protein across life stages differs mechanistically from proteostasis or aggregation theories; no suitable match in REFERENCE_LIST."
+        },
+        {
+          "original_name": "Protein Thermosensitivity and Network Decline Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Protein Aggregation and Proteostasis Decline Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Thermal effects on protein behavior and network topology relate to proteostasis decline and aggregation mechanisms; best fit under existing proteostasis/aggregation umbrella."
+        },
+        {
+          "original_name": "Protein Semiconduction Theory",
+          "strategy": "retain",
+          "normalized_name": "Protein Semiconduction Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Unique biophysical mechanism involving protein electron transport and radical flux not covered by existing REFERENCE_LIST theories."
+        },
+        {
+          "original_name": "Milk Protein Composition and Longevity Theory",
+          "strategy": "retain",
+          "normalized_name": "Milk Protein Composition and Longevity Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Focus on dietary protein composition and its impact on longevity is distinct from proteostasis or aggregation mechanisms; no suitable existing category."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "59",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "58",
+      "normalizations": [
+        {
+          "original_name": "Hypohydration Acceleration Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Hydration and Metabolic Stress Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "No direct match in REFERENCE_LIST; relates to metabolic and inflammatory stress accelerating aging, so grouped under a new generalized name covering hydration and metabolic stress."
+        },
+        {
+          "original_name": "Biological Weathering Theory",
+          "strategy": "map",
+          "normalized_name": "Weathering Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Mechanisms of chronic stress accelerating biological aging align well with Weathering Theory."
+        },
+        {
+          "original_name": "Hyperfiltration Injury Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Renal Aging and Injury Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "No matching REFERENCE_LIST name; mechanism specific to kidney aging and injury, so assigned to a new generalized renal aging theory."
+        },
+        {
+          "original_name": "Interstitial Fluid Dynamics and Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Tissue Fluid Homeostasis and Aging Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "No direct REFERENCE_LIST match; relates to fluid dynamics affecting tissue aging, grouped under a new generalized name for fluid homeostasis and aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "55",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "111",
+      "normalizations": [
+        {
+          "original_name": "UPRER Dual-Arm Longevity Regulation",
+          "strategy": "assign_common",
+          "normalized_name": "Adaptive Longevity Plasticity and Modulation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "UPRER dual-arm regulation involves modulation of longevity via stress response and metabolic remodeling, fitting well with adaptive longevity plasticity mechanisms."
+        },
+        {
+          "original_name": "Material Time Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Physical Aging Dynamics Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Material time concept aligns closely with physical aging dynamics describing aging as a trajectory in configuration space."
+        },
+        {
+          "original_name": "Mathematical and Statistical Aging Dynamics Theory",
+          "strategy": "map",
+          "normalized_name": "Systems-Level Aging Dynamics",
+          "decision_confidence": 0.9,
+          "reasoning": "Mathematical/statistical modeling of hazard and survival curves fits within systems-level aging dynamics framework."
+        },
+        {
+          "original_name": "Stochastic Event-Driven Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Stochastic Aging Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Both focus on stochastic processes and random events driving aging dynamics, making stochastic aging theory the best existing match."
+        },
+        {
+          "original_name": "Thermodynamic and Kinetic Aging Constraints",
+          "strategy": "assign_common",
+          "normalized_name": "Physical Aging Dynamics Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Thermodynamic and kinetic constraints on aging relate to physical aging dynamics involving material time and relaxation processes."
+        },
+        {
+          "original_name": "Physical Aging Dynamics Theory",
+          "strategy": "retain",
+          "normalized_name": "Physical Aging Dynamics Theory",
+          "decision_confidence": 1.0,
+          "reasoning": "Already a well-defined theory matching the input name."
+        },
+        {
+          "original_name": "Programmed and Stochastic Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Programmed Aging Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Programmed and stochastic factors combined mostly align with programmed aging theory; stochastic aspects are covered separately."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "40",
+      "normalizations": [
+        {
+          "original_name": "Systemic Scaling and Network Robustness Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Network Failure and Interdependence Mechanisms",
+          "decision_confidence": 0.8,
+          "reasoning": "Both address organismal network robustness, failure modes, and systemic scaling of biological networks influencing aging."
+        },
+        {
+          "original_name": "Genetic Network Complexity Theory",
+          "strategy": "map",
+          "normalized_name": "Genetic Network Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both focus on polygenic, genome-wide gene interactions and complex genetic control of aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "14",
+      "normalizations": [
+        {
+          "original_name": "Programmed Reprogramming Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Cellular Reprogramming Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Programmed Reprogramming Theory involves systematic reprogramming and gene expression changes during aging, closely related to Cellular Reprogramming Theory which covers reprogramming and rejuvenation mechanisms."
+        },
+        {
+          "original_name": "Pharmacological Modulation",
+          "strategy": "assign_common",
+          "normalized_name": "Sensory Perception Modulation Theory",
+          "decision_confidence": 0.3,
+          "reasoning": "Pharmacological Modulation involves reversing aging transcriptomic signatures, which is a form of external modulation; closest existing broader category is Sensory Perception Modulation Theory as it covers environmental and signaling modulation of aging. However, this is a weak match and no direct reference exists, so assigned here tentatively."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "8",
+      "normalizations": [
+        {
+          "original_name": "Biological Noise Regulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Neural Noise Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both theories focus on noise regulation in neural systems affecting aging; Biological Noise Regulation Theory aligns well with Neural Noise Theory mechanisms."
+        },
+        {
+          "original_name": "Neural Network Maintenance Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Neural Network Aging Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Maintenance of neural networks over lifespan relates closely to Neural Network Aging Theory's focus on functional connectivity and network dynamics in aging."
+        },
+        {
+          "original_name": "Neural Maintenance and Plasticity Theory",
+          "strategy": "map",
+          "normalized_name": "Neuroplasticity Decline Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Theory emphasizes neuroplasticity mechanisms and cortical territory maintenance, matching Neuroplasticity Decline Theory's focus on plasticity and vulnerability."
+        },
+        {
+          "original_name": "Neuronal Capacity Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Neuronal Loss and Atrophy Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Both address neuronal number and capacity as determinants of aging and longevity; capacity relates to neuronal loss and atrophy mechanisms."
+        },
+        {
+          "original_name": "Neuronal Repair and Rejuvenation Mechanisms Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Neuronal Loss and Atrophy Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Repair and rejuvenation mechanisms are closely related to neuronal atrophy and loss processes in aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "94",
+      "normalizations": [
+        {
+          "original_name": "RNA Processing and Nuclear Export Restriction Theory",
+          "strategy": "map",
+          "normalized_name": "RNA Processing and Splicing Dysregulation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Mechanism involves RNA processing and nuclear export, related to RNA splicing and processing dysregulation."
+        },
+        {
+          "original_name": "Mitochondrial Splicing Imbalance Theory",
+          "strategy": "map",
+          "normalized_name": "Alternative Splicing Dysregulation Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Mitochondrial splicing imbalance relates to splicing dysregulation, fitting under alternative splicing dysregulation."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "89",
+      "normalizations": [
+        {
+          "original_name": "Life History and Resource Allocation Theory",
+          "strategy": "map",
+          "normalized_name": "Resource Allocation and Reproductive Aging Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "The input theory focuses on resource allocation among life functions including reproduction and maintenance, matching the scope of 'Resource Allocation and Reproductive Aging Theory' which covers resource allocation trade-offs and evolutionary basis of senescence."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "104",
+      "normalizations": [
+        {
+          "original_name": "Immune Senescence and Apoptosis Impairment Theory",
+          "strategy": "map",
+          "normalized_name": "Immune Cell Senescence and Inflammation-Driven Aging Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both involve senescent immune cells accumulating due to apoptosis resistance and contributing to inflammation and aging."
+        },
+        {
+          "original_name": "Immune Aging and Clonal Dynamics Theory",
+          "strategy": "map",
+          "normalized_name": "T Cell Aging and Immune Dysfunction Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Clonal decay and memory T cell senescence align with T cell aging and immune dysfunction mechanisms."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "68",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "90",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "115",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "85",
+      "normalizations": [
+        {
+          "original_name": "Motivational and Behavioral Adaptation Theory",
+          "strategy": "map",
+          "normalized_name": "Future Time Perspective-Driven Socioemotional Selectivity Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both theories focus on motivational regulation and adaptive goal pursuit in aging, emphasizing shifts in goal priorities and engagement with health and emotional goals, aligning well with SST's motivational framework."
+        },
+        {
+          "original_name": "Psychosocial and Stereotype Impact Theory",
+          "strategy": "map",
+          "normalized_name": "Stereotype Embodiment Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Both theories address internalization of negative age stereotypes and their impact on self-perception and health outcomes, making them mechanistically aligned."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "100",
+      "normalizations": [
+        {
+          "original_name": "Lifelong Cognitive Variability and Continuity Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Lifelong Cognitive Variability and Continuity Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "This theory focuses on lifelong maturational shifts and variability in cognitive aging, which does not closely align with existing cognitive reserve or brain reserve theories; no suitable reference match found."
+        },
+        {
+          "original_name": "Neurocognitive Adaptation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Neurocognitive Adaptation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "This theory emphasizes emotional regulation and neurocognitive adaptation in midlife and aging, distinct from cognitive reserve or brain reserve mechanisms; no appropriate reference match."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "49",
+      "normalizations": [
+        {
+          "original_name": "Demographic Error Artifact Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Demographic Aging Patterns Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Demographic Error Artifact Theory relates to mortality plateaus and late-life mortality deceleration, which are core topics in Demographic Aging Patterns Theory; mapping reduces singleton names."
+        },
+        {
+          "original_name": "Population Variability Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Demographic Senescence Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Population variability in aging rates fits well under Demographic Senescence Theory which covers physiological decline and mortality slope variation."
+        },
+        {
+          "original_name": "Psychosocial and Resource-Based Aging Resilience",
+          "strategy": "assign_common",
+          "normalized_name": "Psychosocial and Experiential Aging Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Psychosocial resilience concepts like Sense of Coherence align with psychosocial mechanisms of aging in Psychosocial and Experiential Aging Theory."
+        },
+        {
+          "original_name": "Environmental Stress and Aging Interaction Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Social and Environmental Determinants of Aging Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Environmental stress interactions affecting aging fit best under Social and Environmental Determinants of Aging Theory which includes environmental influences on biological aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "38",
+      "normalizations": [
+        {
+          "original_name": "Damage Segregation Asymmetry Theory",
+          "strategy": "map",
+          "normalized_name": "Asymmetric Damage Segregation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Mechanisms of asymmetric damage segregation in cell division closely match the reference Asymmetric Damage Segregation Theory."
+        },
+        {
+          "original_name": "Cellular Reproduction and Damage Partitioning Theory",
+          "strategy": "map",
+          "normalized_name": "Asymmetric Damage Segregation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Focus on asymmetric partitioning of damage during reproduction aligns with Asymmetric Damage Segregation Theory."
+        },
+        {
+          "original_name": "Metabolic State Oscillation and Damage Accumulation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Cumulative Molecular Damage Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Metabolic oscillations causing cumulative molecular damage fit well under the broader Cumulative Molecular Damage Theory which integrates metabolic damage accumulation."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "110",
+      "normalizations": [
+        {
+          "original_name": "Mitochondrial Dysfunction-Induced Apoptosis Theory",
+          "strategy": "map",
+          "normalized_name": "Mitochondrial Dysfunction and Apoptosis Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Mechanisms of apoptosis triggered by mitochondrial dysfunction align closely with the existing 'Mitochondrial Dysfunction and Apoptosis Theory' which covers mitochondrial mutations, apoptosis regulation, and mitomiRs."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "54",
+      "normalizations": [
+        {
+          "original_name": "Stem Cell Exhaustion Theory",
+          "strategy": "map",
+          "normalized_name": "General Stem Cell Exhaustion and Functional Decline Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "The input theory focuses on stem cell regenerative decline and somatic mosaicism, which aligns well with the broad General Stem Cell Exhaustion and Functional Decline Theory in the reference list."
+        },
+        {
+          "original_name": "Metabolic Regulation of Stem Cell Function Theory",
+          "strategy": "map",
+          "normalized_name": "Proteostasis and Metabolic Dysregulation-Driven Stem Cell Exhaustion Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "The input theory on metabolic reprogramming and signaling pathways regulating stem cell function fits well under the Proteostasis and Metabolic Dysregulation-Driven Stem Cell Exhaustion Theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "10",
+      "normalizations": [
+        {
+          "original_name": "Developmental Mitochondrial Programming Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Early-Life Programming Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Mitochondrial dysfunction during early development fits well within Early-Life Programming mechanisms influencing aging trajectories."
+        },
+        {
+          "original_name": "Early-Life Programming and Inflammation Theories",
+          "strategy": "map",
+          "normalized_name": "Early-Life Programming Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Early-life inflammation exposure is a specific environmental factor influencing early-life programming of aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "84",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "96",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "6",
+      "normalizations": [
+        {
+          "original_name": "Metabolite-Mediated Programmed Aging",
+          "strategy": "assign_common",
+          "normalized_name": "Metabolic Signaling and Longevity Regulation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Focus on metabolites regulating aging via signaling and epigenetics aligns with metabolic signaling and longevity regulation."
+        },
+        {
+          "original_name": "Metabolic Stress and Longevity Regulation Theory",
+          "strategy": "map",
+          "normalized_name": "Nutrient Sensing Network Theory of Aging",
+          "decision_confidence": 0.85,
+          "reasoning": "AMPK activation, autophagy induction, and nutrient sensing fit well within nutrient sensing network theory."
+        },
+        {
+          "original_name": "Growth Factor Signaling Modulation of Longevity",
+          "strategy": "map",
+          "normalized_name": "Nutrient and Metabolic Signaling Programmed Longevity Theories",
+          "decision_confidence": 0.9,
+          "reasoning": "PI3K/Akt and FOXO signaling downstream of growth factors fits nutrient and metabolic signaling programmed longevity."
+        },
+        {
+          "original_name": "Metabolic Signaling and Longevity Regulation Theory",
+          "strategy": "map",
+          "normalized_name": "Longevity Signaling and Nutrient Sensing Network Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Metabolite-driven signaling affecting longevity aligns with longevity signaling and nutrient sensing network."
+        },
+        {
+          "original_name": "Nutrient Hormone Signaling and Longevity Theory",
+          "strategy": "map",
+          "normalized_name": "Hormonal Regulation of Metabolic Aging",
+          "decision_confidence": 0.9,
+          "reasoning": "GIP hormone signaling and CR effects fit well under hormonal regulation of metabolic aging."
+        },
+        {
+          "original_name": "Holistic Metabolic-Immunological Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Metabolic Regulation of Aging",
+          "decision_confidence": 0.7,
+          "reasoning": "Broad systemic metabolic and immunological aging concepts best fit under metabolic regulation of aging."
+        },
+        {
+          "original_name": "Metabolic Signaling and Aging",
+          "strategy": "map",
+          "normalized_name": "Nutrient and Metabolic Signaling Programmed Longevity Theories",
+          "decision_confidence": 0.85,
+          "reasoning": "CTRP9 signaling via AMPK and metabolic regulation aligns with nutrient and metabolic signaling programmed longevity."
+        },
+        {
+          "original_name": "Metabolic Rate and Hypoxia-Driven Longevity",
+          "strategy": "assign_common",
+          "normalized_name": "Metabolic Rate Reduction Longevity Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Hypoxia-induced metabolic rate reduction and longevity promotion aligns with metabolic rate reduction longevity theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "46",
+      "normalizations": [
+        {
+          "original_name": "Adaptive Instability Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Evolutionary Optimization Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Both involve evolutionary and adaptive mechanisms at multiple biological levels; Adaptive Instability's focus on instability promoting adaptation aligns with Evolutionary Optimization's resource allocation and systemic homeostasis disruption."
+        },
+        {
+          "original_name": "Multi-Level Resilience Framework",
+          "strategy": "assign_common",
+          "normalized_name": "Adaptive Response Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Both emphasize multi-level adaptive processes and resilience in response to environmental and social contexts, integrating individual and systemic adaptation."
+        },
+        {
+          "original_name": "Evolutionary Optimization Theory",
+          "strategy": "map",
+          "normalized_name": "Evolutionary Optimization Theory",
+          "decision_confidence": 1.0,
+          "reasoning": "Exact match to input and reference concept."
+        },
+        {
+          "original_name": "Systemic Resilience and Critical Dynamics Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systems-Level Regulation and Self-Organization Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both describe aging as emergent system-level processes with order parameters and resilience dynamics governing aging trajectories."
+        },
+        {
+          "original_name": "Systemic Balance and Complex Adaptive Systems Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Complex Systems Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both focus on complex adaptive systems, emergent properties, and dynamic balances underlying aging and disease processes."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "30",
+      "normalizations": [
+        {
+          "original_name": "Tissue and Systemic Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Vascular Aging Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Tissue and systemic aging involves organ-level homeostasis and systemic decline, which aligns with vascular aging as a primary driver of systemic aging; both emphasize systemic and tissue-level mechanisms."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "113",
+      "normalizations": [
+        {
+          "original_name": "Thymocyte Regulatory Feedback Mechanisms",
+          "strategy": "assign_common",
+          "normalized_name": "Thymic Involution Mechanisms",
+          "decision_confidence": 0.9,
+          "reasoning": "Thymocyte feedback regulation relates to thymic microenvironment and cellular dynamics affecting thymic involution; best fits under 'Thymic Involution Mechanisms' which covers cellular and molecular mechanisms of thymic aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "45",
+      "normalizations": [
+        {
+          "original_name": "Pathogen-Induced Hormesis and Immune Adaptation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Stress Response and Maintenance Activation Hormesis Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Pathogen-induced hormesis involves mild stress triggering adaptive maintenance and repair pathways, fitting well within the broader Stress Response and Maintenance Activation Hormesis Theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "52",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "48",
+      "normalizations": [
+        {
+          "original_name": "Metal-Induced Oxidative Stress Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Iron Accumulation and Dyshomeostasis Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Metal-induced oxidative stress overlaps with iron dyshomeostasis and oxidative damage mechanisms; iron is the primary metal discussed in reference theories."
+        },
+        {
+          "original_name": "Systemic Ion Homeostasis Remodeling Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Metal Ion Homeostasis Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Systemic ionome remodeling aligns with metal ion homeostasis changes during aging, including organ-specific elemental shifts."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "32",
+      "normalizations": [
+        {
+          "original_name": "Cellular Asymmetric Division Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Aging Factor Accumulation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both involve asymmetric segregation of aging factors at the cellular level leading to aging phenotypes."
+        },
+        {
+          "original_name": "Genetic Load and Heterosis in Aging",
+          "strategy": "map",
+          "normalized_name": "Multifactorial Aging Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Genetic heterogeneity and hybrid vigor relate to intra-individual and inter-species genetic factors influencing aging."
+        },
+        {
+          "original_name": "Quantitative Aging Metrics Theory",
+          "strategy": "map",
+          "normalized_name": "Biological Age and Aging Biomarker Dynamics",
+          "decision_confidence": 0.95,
+          "reasoning": "Both focus on quantitative metrics and biomarkers to measure biological aging beyond chronological age."
+        },
+        {
+          "original_name": "Molecular Cross-Linking Aging Theory",
+          "strategy": "map",
+          "normalized_name": "Connective Tissue Collagen Crosslinking and Aging Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Cross-linking of molecules as a cause of aging aligns with collagen crosslinking mechanisms in aging tissues."
+        },
+        {
+          "original_name": "Multi-Component Physiological Aging Theory",
+          "strategy": "map",
+          "normalized_name": "Multifactorial Aging Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Multiple physiological components and stages correspond to multifactorial modes and patterns of aging."
+        },
+        {
+          "original_name": "Aging Mechanism Causality Framework",
+          "strategy": "assign_common",
+          "normalized_name": "Genomic Instability and Proteostasis Hallmarks of Aging",
+          "decision_confidence": 0.8,
+          "reasoning": "Focus on causal molecular and cellular drivers aligns best with genomic instability and proteostasis mechanisms."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "62",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "99",
+      "normalizations": [
+        {
+          "original_name": "Electro-Metabolic Signaling Hypothesis",
+          "strategy": "assign_common",
+          "normalized_name": "Metabolic Redox Regulation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "EMS involves metabolic signaling linked to energy demand and supply via electrical signals, which fits well under Metabolic Redox Regulation Theory that covers metabolic signaling and redox chemistry."
+        },
+        {
+          "original_name": "Redox Regulatory Network Theory",
+          "strategy": "map",
+          "normalized_name": "Redox Signaling and Homeostasis Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "RSI describes integrative redox regulation via ROS, RNS, RSS and cysteine redox switches, aligning closely with Redox Signaling and Homeostasis Theory's focus on redox signaling and protein thiol regulation."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "23",
+      "normalizations": [
+        {
+          "original_name": "Neurotransmitter Signaling and Translational Control in Longevity",
+          "strategy": "map",
+          "normalized_name": "Neurotransmitter Signaling and Aging",
+          "decision_confidence": 0.9,
+          "reasoning": "Both involve neurotransmitter receptor signaling affecting lifespan via downstream molecular mechanisms; translational control is a subtype of signaling affecting aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "67",
+      "normalizations": [
+        {
+          "original_name": "Reproductive Modulation of Aging",
+          "strategy": "assign_common",
+          "normalized_name": "Reproductive Control of Aging via Germline Signaling",
+          "decision_confidence": 0.9,
+          "reasoning": "Mechanisms involve neuroendocrine regulation of reproduction affecting aging, overlapping with germline signaling and reproduction-aging trade-offs."
+        },
+        {
+          "original_name": "Endocrine Regulation of Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Endocrine Decline and Hormonal Deficiency Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Involves hormonal regulation and deficiency impacting aging, consistent with endocrine decline and hormonal deficiency concepts."
+        },
+        {
+          "original_name": "Hormonal Deficiency and Endocrine Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Endocrine Decline and Hormonal Deficiency Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Focus on hormonal deficiency (DHEA) and endocrine aging fits well within endocrine decline and hormonal deficiency theory."
+        },
+        {
+          "original_name": "Hormone Receptor Signaling in Aging",
+          "strategy": "assign_common",
+          "normalized_name": "Estrogen Signaling and Aging Modulation Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "SHBG receptor signaling is a steroid hormone receptor pathway related to estrogen signaling and aging modulation."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "35",
+      "normalizations": [
+        {
+          "original_name": "Organelle Remodeling Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Organelle Dysfunction and Oxidative Stress Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Organelle remodeling, especially ER changes, relates to organelle dysfunction and stress mechanisms covered by the existing Organelle Dysfunction theory."
+        },
+        {
+          "original_name": "Molecular Signaling Impairment Theory",
+          "strategy": "map",
+          "normalized_name": "Functional Decline of Cellular Signaling Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Both involve impairment of signaling pathways with aging; molecular signaling impairment fits well under functional decline of cellular signaling."
+        },
+        {
+          "original_name": "Decline in Cellular Signaling and Maintenance",
+          "strategy": "map",
+          "normalized_name": "Functional Decline of Cellular Signaling Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Decline in signaling and maintenance overlaps with functional decline of cellular signaling mechanisms."
+        },
+        {
+          "original_name": "Biomolecular Communication Decline Theory",
+          "strategy": "map",
+          "normalized_name": "Altered Intercellular Communication Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Decline in biomolecular communication at transcription factor level aligns with altered intercellular communication mechanisms."
+        },
+        {
+          "original_name": "Membrane-Less Organelle Dysfunction Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Organelle Dysfunction and Oxidative Stress Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Membrane-less organelle dysfunction is a form of organelle dysfunction contributing to aging, fitting under the broader organelle dysfunction theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "107",
+      "normalizations": [
+        {
+          "original_name": "Developmental Theory",
+          "strategy": "map",
+          "normalized_name": "Developmental Rate and Longevity Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Mechanisms involve deregulation of developmental pathways and epigenetic changes linking development and aging, consistent with Developmental Rate and Longevity Theory."
+        },
+        {
+          "original_name": "Dysgenetics Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Persistent Cellular Instability and Dysregulated Aging Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "No matching reference; multiple related concepts about disturbed cellular aging and genomic instability suggest a new generalized name gathering these related mechanisms."
+        },
+        {
+          "original_name": "Developmental Timing and Aging Onset",
+          "strategy": "map",
+          "normalized_name": "Developmental Timing and Rate Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Focus on timing of sexual maturation and aging onset aligns with Developmental Timing and Rate Theory's emphasis on development pace and aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "60",
+      "normalizations": [
+        {
+          "original_name": "Integrated Hallmarks and Cancer-Aging Interaction Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Multistage Carcinogenesis and Aging Interaction Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "The integrated hallmarks and cancer-aging interaction theory overlaps mechanistically with multistage carcinogenesis and aging interaction, both addressing shared biological processes and context-dependent roles in aging and cancer."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "87",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "97",
+      "normalizations": [
+        {
+          "original_name": "MicroRNA Regulation Theory",
+          "strategy": "map",
+          "normalized_name": "MicroRNA Biogenesis and Processing Decline Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "The input theory broadly covers miRNA regulation in aging, overlapping with the well-established MicroRNA Biogenesis and Processing Decline Theory which addresses miRNA regulation and systemic aging pathways."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "109",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "118",
+      "normalizations": [
+        {
+          "original_name": "Evolutionary Trade-Off and Germ-Soma Differentiation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Evolutionary Disposable Soma and Life-History Trade-off Theories",
+          "decision_confidence": 0.9,
+          "reasoning": "Germ-soma differentiation and metabolic trade-offs align with disposable soma and life-history trade-offs concepts."
+        },
+        {
+          "original_name": "Fitness Landscape Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Adaptive Evolutionary Theories",
+          "decision_confidence": 0.7,
+          "reasoning": "Fitness landscape concepts relate to adaptive evolution shaping life-history traits and diversity."
+        },
+        {
+          "original_name": "Adaptive Signal Transduction Evolution Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Adaptive Evolutionary Theories",
+          "decision_confidence": 0.85,
+          "reasoning": "Genetic modulation of lifespan via signal transduction fits adaptive evolutionary mechanisms."
+        },
+        {
+          "original_name": "Cellular Differentiation and Somatic Evolution Control Theory",
+          "strategy": "map",
+          "normalized_name": "Somatic Evolution Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Differentiation patterns controlling somatic evolution directly relate to somatic evolution and cancer suppression."
+        },
+        {
+          "original_name": "Genetic Pleiotropy and Fitness Correlation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Adaptive Evolutionary Theories",
+          "decision_confidence": 0.9,
+          "reasoning": "Pleiotropy and fitness correlations are core to adaptive evolutionary aging theories."
+        },
+        {
+          "original_name": "Protein Homeostasis and Genetic Variation Buffering Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Gene-Environment Interaction and Phenotypic Plasticity Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Buffering genetic variation and environmental stress effects relate to gene-environment interaction and plasticity."
+        },
+        {
+          "original_name": "Meat-Adaptive Gene Evolution Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Adaptive Evolutionary Theories",
+          "decision_confidence": 0.75,
+          "reasoning": "Genetic adaptations to diet and longevity fit adaptive evolutionary frameworks."
+        },
+        {
+          "original_name": "Hologenome Evolution Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Gene-Environment Interaction and Phenotypic Plasticity Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Host-microbiome interactions represent gene-environment interactions influencing aging."
+        },
+        {
+          "original_name": "Evolutionary Constraint Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Evolutionary Trade-Offs and Mismatch Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Constraints on physiology and aging relate to trade-offs and mismatch concepts."
+        },
+        {
+          "original_name": "Evolutionary Entropy Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Adaptive Evolutionary Theories",
+          "decision_confidence": 0.65,
+          "reasoning": "Entropy as a fitness measure aligns with adaptive evolutionary aging patterns."
+        },
+        {
+          "original_name": "Evolutionary Intelligence Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Evolutionary Mismatch and Environmental Adaptation Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Intelligence as adaptation to novel environments fits mismatch and environmental adaptation."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "80",
+      "normalizations": [
+        {
+          "original_name": "Stem Cell Plasticity and Rejuvenation Theory",
+          "strategy": "map",
+          "normalized_name": "Cellular Rejuvenation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Stem cell plasticity and dedifferentiation are mechanisms of cellular rejuvenation, matching the Cellular Rejuvenation Theory focus on reversing cellular aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "53",
+      "normalizations": [
+        {
+          "original_name": "Immune-Endocrine Decline Theory",
+          "strategy": "map",
+          "normalized_name": "Immune Remodeling and Adaptation Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Thymic involution and its dual immune-endocrine role aligns with thymic involution and immune remodeling in the Immune Remodeling and Adaptation Theory."
+        },
+        {
+          "original_name": "Interferon Response Theory",
+          "strategy": "map",
+          "normalized_name": "Immune Dysfunction and Immune Surveillance Decline Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Decline in interferon-mediated immune surveillance fits within immune dysfunction and surveillance decline mechanisms."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "12",
+      "normalizations": [
+        {
+          "original_name": "TORC1-HMGB Nuclear Retention Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Nuclear Transport Dysfunction Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "TORC1-HMGB nuclear retention involves nuclear protein localization and transport affecting cellular homeostasis, aligning with nuclear transport dysfunction mechanisms."
+        },
+        {
+          "original_name": "Cytonuclear Co-adaptation Theory",
+          "strategy": "map",
+          "normalized_name": "Mitonuclear Interaction and Coevolution Aging Theory",
+          "decision_confidence": 1.0,
+          "reasoning": "Cytonuclear co-adaptation is a core aspect of mitonuclear interaction and coevolution described in the reference."
+        },
+        {
+          "original_name": "Molecular Transport Barrier Dysfunction Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Nuclear Transport Dysfunction Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Molecular transport barrier dysfunction relates to impaired molecular trafficking and cellular homeostasis, which fits broadly under nuclear transport dysfunction."
+        },
+        {
+          "original_name": "Mito-Nuclear Balance Theory",
+          "strategy": "map",
+          "normalized_name": "Mitonuclear Communication and Genomic Compatibility Theory",
+          "decision_confidence": 1.0,
+          "reasoning": "Mito-nuclear balance theory aligns closely with mitonuclear communication and genomic compatibility concepts in the reference."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "69",
+      "normalizations": [],
+      "error": null
+    },
+    {
+      "cluster_id": "103",
+      "normalizations": [
+        {
+          "original_name": "Tissue Integrity Breakdown Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Tissue Maintenance and Repair Decline Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Both involve tissue damage and degradation leading to dysfunction and inflammation; Tissue Integrity Breakdown fits as a subtype or related mechanism within Tissue Maintenance and Repair Decline."
+        },
+        {
+          "original_name": "Damage Accumulation and Programmed Aging Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Damage Accumulation and Asymmetric Segregation in Unicellular Aging",
+          "decision_confidence": 0.7,
+          "reasoning": "Damage accumulation is a core mechanism shared; programmed ultimate cell death is related to aging control but can be considered under damage accumulation framework rather than a separate theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "98",
+      "normalizations": [
+        {
+          "original_name": "Intrinsic Epigenetic Aging Processes",
+          "strategy": "map",
+          "normalized_name": "Epigenetic Aging Reversal and Plasticity Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Intrinsic epigenetic aging as a continuous process and epigenetic clock biomarker aligns with epigenetic aging and plasticity concepts."
+        },
+        {
+          "original_name": "Epigenetic Plasticity and Reprogramming in Aging",
+          "strategy": "map",
+          "normalized_name": "Epigenetic Reprogramming and Cellular Rejuvenation Theory",
+          "decision_confidence": 0.95,
+          "reasoning": "Focus on reprogramming erasing aging marks and epigenetic instability intermediates fits well with cellular rejuvenation and reprogramming theory."
+        },
+        {
+          "original_name": "Epigenetic and Cellular Reprogramming Aging Theory",
+          "strategy": "map",
+          "normalized_name": "Epigenetic Reprogramming and Rejuvenation Theory of Aging",
+          "decision_confidence": 0.95,
+          "reasoning": "Separation of age and developmental reprogramming and partial reprogramming matches the epigenetic reprogramming and rejuvenation theory."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "19",
+      "normalizations": [
+        {
+          "original_name": "Mallostasis Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systemic and Functional Plasticity Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Mallostasis describes systemic homeostatic drift and functional decline, aligning well with systemic and functional plasticity concepts."
+        },
+        {
+          "original_name": "Tissue Architecture Optimization Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systemic and Functional Plasticity Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Tissue architecture optimization relates to systemic regulation of tissue function and cancer risk, fitting under systemic functional plasticity."
+        },
+        {
+          "original_name": "Cellular Oscillatory Dynamics Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systemic and Functional Plasticity Theory",
+          "decision_confidence": 0.8,
+          "reasoning": "Cellular oscillations regulate cell cycle and aging transitions, consistent with regulatory mechanisms in systemic plasticity."
+        },
+        {
+          "original_name": "Dhatu Tissue Formation Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systemic and Functional Plasticity Theory",
+          "decision_confidence": 0.6,
+          "reasoning": "Sequential tissue formation and metabolic regulation relate to systemic tissue maintenance and aging plasticity."
+        },
+        {
+          "original_name": "Glycolytic Oscillation Detuning Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systemic and Functional Plasticity Theory",
+          "decision_confidence": 0.7,
+          "reasoning": "Metabolic oscillation detuning affects cellular energy and aging regulation, fitting systemic plasticity mechanisms."
+        },
+        {
+          "original_name": "Cellular Motility Redistribution Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Actin Cytoskeleton Dynamics Theory",
+          "decision_confidence": 0.85,
+          "reasoning": "Changes in cell motility states with aging relate directly to actin cytoskeleton dynamics."
+        },
+        {
+          "original_name": "Tissue Control System Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systemic and Functional Plasticity Theory",
+          "decision_confidence": 0.75,
+          "reasoning": "Immune regulation of tissue differentiation and aging fits within systemic regulatory and plasticity frameworks."
+        },
+        {
+          "original_name": "Cell Fate Plasticity Theory",
+          "strategy": "assign_common",
+          "normalized_name": "Systemic and Functional Plasticity Theory",
+          "decision_confidence": 0.9,
+          "reasoning": "Cell fate plasticity and reprogramming align with systemic regulation and plasticity of aging."
+        }
+      ],
+      "error": null
+    },
+    {
+      "cluster_id": "93",
+      "normalizations": [],
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 11,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+        "theory_ids": [
+          "T011088",
+          "T011062",
+          "T011053",
+          "T011011",
+          "T011094",
+          "T010925",
+          "T010957",
+          "T011159",
+          "T010674",
+          "T010765",
+          "T011020",
+          "T011128",
+          "T011086",
+          "T011057",
+          "T010731",
+          "T011006",
+          "T010961",
+          "T010994"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 18
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Quality Control Theory",
+        "theory_ids": [
+          "T011008",
+          "T010856",
+          "T010689",
+          "T011009",
+          "T010782",
+          "T010105"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation and Genomic Instability Theory",
+        "theory_ids": [
+          "T011171",
+          "T010928",
+          "T011172"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T011088",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Focuses on mitochondrial ROS as signaling molecules inducing adaptive stress responses and hormesis, distinct from purely damaging ROS theories."
+        },
+        {
+          "theory_id": "T011062",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Emphasizes in vivo mitochondrial hydrogen peroxide increase and ROS-driven signaling contributing to aging, fitting ROS signaling and hormesis theme."
+        },
+        {
+          "theory_id": "T011053",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Highlights mitochondrial ROS as drivers of senescence and aging, with focus on ROS signaling and targeted antioxidant interventions."
+        },
+        {
+          "theory_id": "T011011",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Focuses on balance of mitochondrial ROS production and antioxidant defenses influencing aging and longevity, emphasizing ROS signaling."
+        },
+        {
+          "theory_id": "T011094",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Mitochondrial ROS production and antioxidant defense modulation as key regulators of lifespan, fitting ROS signaling and hormesis cluster."
+        },
+        {
+          "theory_id": "T010925",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Discusses mitochondrial ROS generation, detoxification, and antioxidant defense modulation affecting aging, aligned with ROS signaling and hormesis."
+        },
+        {
+          "theory_id": "T010957",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Links mitochondrial ROS production at complex I and dietary interventions modulating ROS to aging, fitting ROS signaling and hormesis theme."
+        },
+        {
+          "theory_id": "T011159",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Describes mitochondrial free radical damage, selective mitochondrial degradation, and mutant mitochondria proliferation, emphasizing ROS dynamics and hormesis."
+        },
+        {
+          "theory_id": "T010674",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Classic mitochondrial free radical theory focusing on ROS-induced mtDNA damage and lifespan correlation, fitting ROS signaling and hormesis cluster."
+        },
+        {
+          "theory_id": "T010765",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Focuses on mitochondrial ROS as primary aging driver, vicious ROS cycles, and mitochondrial-targeted antioxidants, aligned with ROS signaling and hormesis."
+        },
+        {
+          "theory_id": "T011020",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Emphasizes mtDNA mutations causing ROS overproduction and oxidative damage driving aging, fitting ROS signaling and hormesis cluster."
+        },
+        {
+          "theory_id": "T011128",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Focuses on mitochondrial ROS production and oxidative stress in brain aging and neurodegeneration, fitting ROS signaling and hormesis theme."
+        },
+        {
+          "theory_id": "T011086",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Describes ROS production, vicious cycle of mtDNA damage, and antioxidant defense insufficiency in sarcopenia, fitting ROS signaling and hormesis cluster."
+        },
+        {
+          "theory_id": "T011057",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Links mitochondrial oxidative stress to aging and hypertension, with focus on ROS as causal driver and therapeutic targeting, fitting ROS signaling and hormesis."
+        },
+        {
+          "theory_id": "T010731",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Describes ROS accumulation, vicious cycle of mitochondrial damage, and mitochondrial dysfunction driving aging, fitting ROS signaling and hormesis cluster."
+        },
+        {
+          "theory_id": "T011006",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Focuses on vicious cycle of mitochondrial dysfunction and oxidative stress causing sarcopenia, with mtDNA mutations and antioxidant responses, fitting ROS signaling and hormesis."
+        },
+        {
+          "theory_id": "T011008",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Theory",
+          "reasoning": "Emphasizes mitochondrial dysfunction, impaired quality control (mitophagy, dynamics), hormonal interplay, and inflammation driving endometrial aging."
+        },
+        {
+          "theory_id": "T010856",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Theory",
+          "reasoning": "Broad mitochondrial dysfunction including impaired dynamics, mitophagy, ROS, and inflammation as aging drivers, fitting mitochondrial dysfunction and quality control cluster."
+        },
+        {
+          "theory_id": "T010689",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Theory",
+          "reasoning": "Focuses on mitochondrial DNA mutations, dynamics, mitophagy, and UPRmt in stem cell aging, fitting mitochondrial dysfunction and quality control cluster."
+        },
+        {
+          "theory_id": "T011009",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Theory",
+          "reasoning": "Centers on mitochondrial fission/fusion dynamics regulating mitochondrial function, quality control, and aging, fitting mitochondrial dysfunction and quality control cluster."
+        },
+        {
+          "theory_id": "T010782",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Theory",
+          "reasoning": "Focuses on mitophagy impairment causing accumulation of damaged mitochondria, oxidative stress, and aging, fitting mitochondrial dysfunction and quality control cluster."
+        },
+        {
+          "theory_id": "T011171",
+          "subcluster_name": "Mitochondrial DNA Mutation and Genomic Instability Theory",
+          "reasoning": "Emphasizes mtDNA instability and mutagenesis from environmental exposures driving mitochondrial dysfunction and aging, fitting mtDNA mutation and genomic instability cluster."
+        },
+        {
+          "theory_id": "T010928",
+          "subcluster_name": "Mitochondrial DNA Mutation and Genomic Instability Theory",
+          "reasoning": "Focuses on somatic mtDNA mutations accumulation, clonal expansion, and their impact on mitochondrial dysfunction and aging phenotypes."
+        },
+        {
+          "theory_id": "T011172",
+          "subcluster_name": "Mitochondrial DNA Mutation and Genomic Instability Theory",
+          "reasoning": "Describes age-related accumulation and clonal expansion of mtDNA deletions impairing mitochondrial function and physical performance."
+        },
+        {
+          "theory_id": "T010961",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Mitochondrial free radical theory emphasizing ROS as primary cause of aging and vicious cycle of ROS production."
+        },
+        {
+          "theory_id": "T010994",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Focuses on ROS-induced damage accumulation and vicious cycle of mitochondrial ROS production driving aging."
+        },
+        {
+          "theory_id": "T010105",
+          "subcluster_name": "Mitochondrial Dysfunction and Quality Control Theory",
+          "reasoning": "Links mitochondrial metabolites and dysfunction to epigenetic regulation of stem cell fate and aging, fitting mitochondrial dysfunction and quality control cluster."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:42:25"
+}

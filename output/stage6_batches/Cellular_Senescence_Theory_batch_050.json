@@ -1,0 +1,203 @@
+{
+  "cluster_name": "Cellular Senescence Theory",
+  "batch_num": 50,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "p53 and Tumor Suppression-Linked Cellular Senescence Theory",
+        "theory_ids": [
+          "T027331",
+          "T027076",
+          "T027430"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Metabolic Remodeling and Senescence Theory",
+        "theory_ids": [
+          "T027544",
+          "T027174"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "cGAS-STING Pathway-Driven Cellular Senescence and Inflammation Theory",
+        "theory_ids": [
+          "T027269",
+          "T027303",
+          "T027501",
+          "T026726"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      },
+      {
+        "subcluster_name": "SUMOylation-Regulated Cellular Senescence Theory",
+        "theory_ids": [
+          "T027254",
+          "T027531"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Autophagy and Cellular Senescence Interplay Theory",
+        "theory_ids": [
+          "T027267",
+          "T027294",
+          "T027306"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Cellular Senescence Theory",
+        "theory_ids": [
+          "T027020",
+          "T026764",
+          "T027521",
+          "T027070",
+          "T027384",
+          "T027090",
+          "T027353",
+          "T026594",
+          "T027468",
+          "T003578",
+          "T017916"
+        ],
+        "theory_count": 11,
+        "mechanism_focus": "",
+        "status": "singleton_warning",
+        "warning_reason": "10 subclusters too small, 1 theories not assigned"
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T027331",
+          "subcluster_name": "p53 and Tumor Suppression-Linked Cellular Senescence Theory",
+          "reasoning": "This theory focuses on p53's role in tumor suppression and its trade-off with aging via cellular senescence and apoptosis."
+        },
+        {
+          "theory_id": "T027076",
+          "subcluster_name": "p53 and Tumor Suppression-Linked Cellular Senescence Theory",
+          "reasoning": "Involves tumor suppression mechanisms mediated by retinoic acid receptor beta 2 linked to cellular senescence."
+        },
+        {
+          "theory_id": "T027430",
+          "subcluster_name": "p53 and Tumor Suppression-Linked Cellular Senescence Theory",
+          "reasoning": "Describes p53's transcription-independent roles in DNA repair and genome stability affecting aging."
+        },
+        {
+          "theory_id": "T027544",
+          "subcluster_name": "Metabolic Remodeling and Senescence Theory",
+          "reasoning": "Focuses on metabolic changes in senescent cells and their impact on aging and cancer."
+        },
+        {
+          "theory_id": "T027174",
+          "subcluster_name": "Metabolic Remodeling and Senescence Theory",
+          "reasoning": "Describes creatine's modulation of cellular energy and oxidative stress influencing senescence and aging."
+        },
+        {
+          "theory_id": "T026764",
+          "subcluster_name": "Redox and Inflammation Modulation in Cellular Senescence Theory",
+          "reasoning": "Emphasizes gasotransmitters like H2S in modulating redox balance and inflammation during senescence."
+        },
+        {
+          "theory_id": "T027269",
+          "subcluster_name": "cGAS-STING Pathway-Driven Cellular Senescence and Inflammation Theory",
+          "reasoning": "Focuses on cGAS-STING DNA sensing pathway triggering inflammation and cellular dysfunction in aging."
+        },
+        {
+          "theory_id": "T027303",
+          "subcluster_name": "cGAS-STING Pathway-Driven Cellular Senescence and Inflammation Theory",
+          "reasoning": "Links aneuploidy-induced senescence to inflammation via SASP and cGAS-STING activation."
+        },
+        {
+          "theory_id": "T027501",
+          "subcluster_name": "cGAS-STING Pathway-Driven Cellular Senescence and Inflammation Theory",
+          "reasoning": "Describes cGAS-STING mediated neuroinflammation and senescence in Alzheimer's disease."
+        },
+        {
+          "theory_id": "T027521",
+          "subcluster_name": "RBM33 LLPS-Mediated Microglial Senescence Theory",
+          "reasoning": "Focuses on microglial senescence driven by RBM33 liquid-liquid phase separation activating p21cip1."
+        },
+        {
+          "theory_id": "T027254",
+          "subcluster_name": "SUMOylation-Regulated Cellular Senescence Theory",
+          "reasoning": "Describes sumoylation as a post-translational modification regulating senescence and aging."
+        },
+        {
+          "theory_id": "T027531",
+          "subcluster_name": "SUMOylation-Regulated Cellular Senescence Theory",
+          "reasoning": "Focuses on SUMO modification dynamics influencing senescence and aging processes."
+        },
+        {
+          "theory_id": "T027070",
+          "subcluster_name": "ER Stress and Unfolded Protein Response in Cellular Senescence Theory",
+          "reasoning": "Links ER homeostasis disruption and UPR activation to senescence and aging."
+        },
+        {
+          "theory_id": "T027384",
+          "subcluster_name": "SASP and Non-Coding RNA-Regulated Senescence Theory",
+          "reasoning": "Describes senescence-associated secretory phenotype and ncRNA regulation in aging and cancer."
+        },
+        {
+          "theory_id": "T027267",
+          "subcluster_name": "Autophagy and Cellular Senescence Interplay Theory",
+          "reasoning": "Focuses on the convergence of autophagy decline and senescence accumulation in aging."
+        },
+        {
+          "theory_id": "T027294",
+          "subcluster_name": "Autophagy and Cellular Senescence Interplay Theory",
+          "reasoning": "Describes modulation of senescence and inflammation by soluble epoxide hydrolase affecting aging."
+        },
+        {
+          "theory_id": "T027306",
+          "subcluster_name": "Autophagy and Cellular Senescence Interplay Theory",
+          "reasoning": "Highlights macroautophagy's dual role in quiescence and senescence impacting longevity."
+        },
+        {
+          "theory_id": "T026726",
+          "subcluster_name": "cGAS-STING Pathway-Driven Cellular Senescence and Inflammation Theory",
+          "reasoning": "Zbp1 modulates senescence, inflammation, DNA damage response, and mitochondrial function linked to aging."
+        },
+        {
+          "theory_id": "T027090",
+          "subcluster_name": "Stress-Induced Telomere and Senescence Theory",
+          "reasoning": "Describes chronic psychological and metabolic stress causing telomere shortening and senescence."
+        },
+        {
+          "theory_id": "T027353",
+          "subcluster_name": "Neuronal Senescence ('Neurescence') Theory",
+          "reasoning": "Extends senescence concept to postmitotic neurons entering a G_X arrested senescent-like state."
+        },
+        {
+          "theory_id": "T026594",
+          "subcluster_name": "Accelerated Aging in Disease-Associated Cellular Senescence Theory",
+          "reasoning": "Focuses on accelerated lung aging in COPD driven by genomic damage and epigenetic alterations."
+        },
+        {
+          "theory_id": "T027468",
+          "subcluster_name": "Interorgan Crosstalk-Driven Accelerated Aging Theory",
+          "reasoning": "Describes systemic aging accelerated by organ interactions, senescence, inflammation, and metabolic dysfunction."
+        },
+        {
+          "theory_id": "T003578",
+          "subcluster_name": "Bacterial Asymmetric Division and Limited Senescence Theory",
+          "reasoning": "Models limited senescence in E. coli via asymmetric division producing distinct growth equilibria."
+        },
+        {
+          "theory_id": "T017916",
+          "subcluster_name": "Bacterial Conditional Senescence and Oxidative Damage Theory",
+          "reasoning": "Describes conditional senescence in E. coli stationary phase driven by oxidative damage and stress responses."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:37:47"
+}

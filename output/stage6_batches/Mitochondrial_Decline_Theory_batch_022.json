@@ -1,0 +1,179 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 22,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+        "theory_ids": [
+          "T016036",
+          "T016192",
+          "T015893",
+          "T016112",
+          "T016099",
+          "T015884",
+          "T016078",
+          "T015819",
+          "T016203",
+          "T016012",
+          "T015847",
+          "T015897",
+          "T016064"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+        "theory_ids": [
+          "T016084",
+          "T015902",
+          "T016151",
+          "T016133",
+          "T015820",
+          "T016207",
+          "T015958"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Dynamics and ROS-Mediated Aging Theory",
+        "theory_ids": [
+          "T015877",
+          "T016073",
+          "T015878",
+          "T016104"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T016036",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial ROS as damaging agents causing oxidative damage to macromolecules driving aging."
+        },
+        {
+          "theory_id": "T016192",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production and oxidative damage to mtDNA as key aging drivers."
+        },
+        {
+          "theory_id": "T015893",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Links mitochondrial ROS production rates to lifespan differences and oxidative damage accumulation."
+        },
+        {
+          "theory_id": "T016112",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Describes age-related increase in mitochondrial ROS causing oxidative stress and cellular senescence."
+        },
+        {
+          "theory_id": "T016099",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Details mitochondrial energy decline, mtDNA mutations, and increased ROS causing oxidative damage in aging."
+        },
+        {
+          "theory_id": "T015884",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Focuses on mitochondrial oxidative damage due to SOD2 deficiency causing systemic aging phenotypes."
+        },
+        {
+          "theory_id": "T016078",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Highlights complex I ROS production causing mtDNA damage and aging."
+        },
+        {
+          "theory_id": "T015819",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Classic mitochondrial free radical theory emphasizing ROS-driven damage accumulation."
+        },
+        {
+          "theory_id": "T016203",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Focuses on mtDNA mutations increasing ROS and lipid peroxidation driving aging phenotypes."
+        },
+        {
+          "theory_id": "T016012",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Describes mitochondrial ROS imbalance and oxidative damage as aging drivers."
+        },
+        {
+          "theory_id": "T015847",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Links mtDNA instability and oxidative stress as genetic regulators of aging."
+        },
+        {
+          "theory_id": "T015897",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Shows mitochondrial ROS generation and mtDNA instability causing aging in Podospora anserina."
+        },
+        {
+          "theory_id": "T016064",
+          "subcluster_name": "Mitochondrial ROS Production and Oxidative Damage Theory",
+          "reasoning": "Proposes mitochondria as reactive species sinks reducing oxidative damage and promoting longevity."
+        },
+        {
+          "theory_id": "T016084",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Focuses on mitochondrial complex II-generated mtROS as pro-longevity signaling molecules."
+        },
+        {
+          "theory_id": "T015902",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Describes mitochondrial respiratory threshold and ROS signaling inducing adaptive stress responses."
+        },
+        {
+          "theory_id": "T016151",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Mitohormesis theory where transient mtROS induce protective stress responses extending lifespan."
+        },
+        {
+          "theory_id": "T016133",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "Mild mitochondrial dysfunction triggers hormetic stress responses mediated by p53/cep-1 for longevity."
+        },
+        {
+          "theory_id": "T015820",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "RNAi of ETC components modulates ROS signaling and mitohormesis to extend lifespan."
+        },
+        {
+          "theory_id": "T016207",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "clk-1 gene modulates mitochondrial respiration and ROS signaling affecting aging and longevity."
+        },
+        {
+          "theory_id": "T015958",
+          "subcluster_name": "Mitochondrial ROS Signaling and Hormesis Theory",
+          "reasoning": "CycD/Cdk4 activity imbalance alters mitochondrial biogenesis and ROS signaling causing neurodegeneration and aging."
+        },
+        {
+          "theory_id": "T015877",
+          "subcluster_name": "Mitochondrial Dynamics and ROS-Mediated Aging Theory",
+          "reasoning": "OPA1 insufficiency disrupts mitochondrial fusion, increases ROS, and accelerates aging."
+        },
+        {
+          "theory_id": "T016073",
+          "subcluster_name": "Mitochondrial Dynamics and ROS-Mediated Aging Theory",
+          "reasoning": "Unopposed mitochondrial fission causes fragmentation, ROS sensitivity, apoptosis, and lifespan shortening."
+        },
+        {
+          "theory_id": "T015878",
+          "subcluster_name": "Mitochondrial Dynamics and ROS-Mediated Aging Theory",
+          "reasoning": "Uncoupling protein-2 reduces ROS production via mitochondrial uncoupling, promoting longevity."
+        },
+        {
+          "theory_id": "T016104",
+          "subcluster_name": "Mitochondrial Dynamics and ROS-Mediated Aging Theory",
+          "reasoning": "Mitochondrial oxidative stress and dysfunction theory emphasizing redox regulation and antioxidant defenses."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:47:32"
+}

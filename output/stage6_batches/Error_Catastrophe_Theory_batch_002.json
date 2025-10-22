@@ -1,0 +1,151 @@
+{
+  "cluster_name": "Error Catastrophe Theory",
+  "batch_num": 2,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Translational Fidelity Decline Theories",
+        "theory_ids": [
+          "T017507",
+          "T018103",
+          "T015925",
+          "T012796",
+          "T014278",
+          "T013168",
+          "T014310",
+          "T009510",
+          "T009506",
+          "T014448",
+          "T009326",
+          "T013651",
+          "T008775",
+          "T013340"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 14
+      },
+      {
+        "subcluster_name": "General Macromolecular Synthesis Error Theories",
+        "theory_ids": [
+          "T009341",
+          "T009115",
+          "T013976",
+          "T004391"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 4
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T017507",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Focuses on age-related decline in translational accuracy causing proteostasis disruption and aging."
+        },
+        {
+          "theory_id": "T018103",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Emphasizes increased translation errors with age impairing proteostasis and lifespan."
+        },
+        {
+          "theory_id": "T015925",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Proposes translation fidelity decline causes aging via error accumulation in protein synthesis."
+        },
+        {
+          "theory_id": "T012796",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Describes positive feedback loops in translation errors leading to catastrophic error accumulation."
+        },
+        {
+          "theory_id": "T014278",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Posits aging results from accumulation of protein synthesis errors causing cellular dysfunction."
+        },
+        {
+          "theory_id": "T013168",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Focuses on positive feedback loops in translational errors and their impact on aging."
+        },
+        {
+          "theory_id": "T014310",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Hypothesizes translational fidelity decline triggers error propagation causing tissue dysfunction."
+        },
+        {
+          "theory_id": "T009510",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Describes progressive loss of fidelity in protein synthesis leading to increased amino acid misincorporation."
+        },
+        {
+          "theory_id": "T009506",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Proposes accumulation of protein synthesis errors causes catastrophic decline in cellular function."
+        },
+        {
+          "theory_id": "T014448",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Links protein synthesis errors to altered protein isoforms and aging phenotypes."
+        },
+        {
+          "theory_id": "T009326",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Focuses on exponential accumulation of protein synthesis errors causing senescence."
+        },
+        {
+          "theory_id": "T013651",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Reviews progressive accumulation of macromolecular synthesis errors and ribosomal error amplification."
+        },
+        {
+          "theory_id": "T008775",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Orgel's hypothesis of self-amplifying protein synthesis errors driving aging."
+        },
+        {
+          "theory_id": "T013340",
+          "subcluster_name": "Translational Fidelity Decline Theories",
+          "reasoning": "Shows error-prone protein synthesis causes proteostasis collapse and systemic aging."
+        },
+        {
+          "theory_id": "T009341",
+          "subcluster_name": "General Macromolecular Synthesis Error Theories",
+          "reasoning": "Describes accumulation of stochastic errors in DNA, RNA, and protein synthesis causing aging."
+        },
+        {
+          "theory_id": "T009115",
+          "subcluster_name": "General Macromolecular Synthesis Error Theories",
+          "reasoning": "Proposes breakdown in fidelity of information transfer across DNA, RNA, and proteins causes aging."
+        },
+        {
+          "theory_id": "T013976",
+          "subcluster_name": "General Macromolecular Synthesis Error Theories",
+          "reasoning": "Focuses on error-prone DNA replication and decline in DNA polymerase fidelity with age."
+        },
+        {
+          "theory_id": "T004391",
+          "subcluster_name": "General Macromolecular Synthesis Error Theories",
+          "reasoning": "Posits somatic mutation accumulation in DNA and protein synthesis machinery causes cellular senescence."
+        },
+        {
+          "theory_id": "T014177",
+          "subcluster_name": "DNA Damage and Repair Deficiency Theories",
+          "reasoning": "Emphasizes accumulation of DNA and chromosome damage and defective repair causing premature aging."
+        },
+        {
+          "theory_id": "T007068",
+          "subcluster_name": "Membrane Deterioration and Free Radical Error Catastrophe Theories",
+          "reasoning": "Links protein synthesis errors to faulty membrane proteins, lipid peroxidation, free radicals, and feedback damage."
+        },
+        {
+          "theory_id": "T011788",
+          "subcluster_name": "Protein Crosslinking and AGE Accumulation Theories",
+          "reasoning": "Focuses on accumulation of crosslinked proteins and AGEs causing tissue damage and aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:55:55"
+}

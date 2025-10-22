@@ -1,0 +1,1005 @@
+{
+  "total_clusters_analyzed": 41,
+  "clusters_ok": 5,
+  "clusters_with_issues": 36,
+  "critical_issues": 36,
+  "warnings": 0,
+  "clusters_to_rerun": [
+    "Accumulated Damage Theory",
+    "Antagonistic Pleiotropy Theory",
+    "Autophagy Theory",
+    "Caloric Restriction Mimetics Theory",
+    "Caloric Restriction Modulation Theory",
+    "Circadian Clock Theory",
+    "Cognitive Reserve Theory",
+    "Cross-Linking Theory",
+    "Developmental Theory",
+    "Epigenetic Aging Clock Theory",
+    "Epigenetic Damage Theory",
+    "Error Catastrophe Theory",
+    "FOXO Regulation Theory",
+    "Free Radical Theory",
+    "GH/IGF-1 Signaling Theory",
+    "Hallmarks of Aging",
+    "Hormesis Theory",
+    "Hyperfunction Theory",
+    "Immunological Theory",
+    "Inflammaging Theory",
+    "Klotho Deficiency Theory",
+    "Life History Theory",
+    "Membrane Theory",
+    "MicroRNA Regulation Theory",
+    "Mutation Accumulation Theory",
+    "NAD+ Metabolism Decline Theory",
+    "Neuroendocrine Theory",
+    "Programmed Longevity Theory",
+    "Protein Damage Theory",
+    "Rate of Living Theory",
+    "Redox Regulation Theory",
+    "SIRT1 Signaling Theory",
+    "Sirtuin Regulation Theory",
+    "Socioemotional Selectivity Theory",
+    "Somatic DNA Damage Theory",
+    "Stem Cell Exhaustion Theory"
+  ],
+  "detailed_issues": [
+    {
+      "cluster_name": "Accumulated Damage Theory",
+      "issues": [
+        "94 theories missing from checkpoint",
+        "Theory count mismatch: expected 130, got 36"
+      ],
+      "severity": "critical",
+      "expected_theories": 130,
+      "processed_theories": 36,
+      "missing_theories": 94,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 36,
+      "singleton_rate": 0.27692307692307694,
+      "missing_theory_ids": [
+        "T000028",
+        "T000332",
+        "T000868",
+        "T001229",
+        "T001282",
+        "T001356",
+        "T001519",
+        "T001659",
+        "T001883",
+        "T001901"
+      ]
+    },
+    {
+      "cluster_name": "Antagonistic Pleiotropy Theory",
+      "issues": [
+        "26 theories missing from checkpoint",
+        "Theory count mismatch: expected 609, got 583"
+      ],
+      "severity": "critical",
+      "expected_theories": 609,
+      "processed_theories": 583,
+      "missing_theories": 26,
+      "singleton_warnings": 10,
+      "theories_in_singletons": 146,
+      "singleton_rate": 0.23973727422003285,
+      "missing_theory_ids": [
+        "T000054",
+        "T002593",
+        "T003956",
+        "T004707",
+        "T005911",
+        "T005912",
+        "T007062",
+        "T008833",
+        "T009745",
+        "T023135"
+      ]
+    },
+    {
+      "cluster_name": "Autophagy Theory",
+      "issues": [
+        "37 theories missing from checkpoint",
+        "47.1% theories in singleton warnings (33/70)",
+        "Theory count mismatch: expected 70, got 33"
+      ],
+      "severity": "critical",
+      "expected_theories": 70,
+      "processed_theories": 33,
+      "missing_theories": 37,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 33,
+      "singleton_rate": 0.4714285714285714,
+      "missing_theory_ids": [
+        "T000354",
+        "T000745",
+        "T001073",
+        "T001247",
+        "T001275",
+        "T001534",
+        "T001717",
+        "T002544",
+        "T002554",
+        "T002761"
+      ]
+    },
+    {
+      "cluster_name": "Caloric Restriction Mimetics Theory",
+      "issues": [
+        "12 theories missing from checkpoint",
+        "72.1% theories in singleton warnings (31/43)",
+        "Theory count mismatch: expected 43, got 31"
+      ],
+      "severity": "critical",
+      "expected_theories": 43,
+      "processed_theories": 31,
+      "missing_theories": 12,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 31,
+      "singleton_rate": 0.7209302325581395,
+      "missing_theory_ids": [
+        "T014954",
+        "T014970",
+        "T014977",
+        "T015010",
+        "T015013",
+        "T015031",
+        "T015036",
+        "T015053",
+        "T015054",
+        "T015128"
+      ]
+    },
+    {
+      "cluster_name": "Caloric Restriction Modulation Theory",
+      "issues": [
+        "32 theories missing from checkpoint",
+        "48.4% theories in singleton warnings (30/62)",
+        "Theory count mismatch: expected 62, got 30"
+      ],
+      "severity": "critical",
+      "expected_theories": 62,
+      "processed_theories": 30,
+      "missing_theories": 32,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 30,
+      "singleton_rate": 0.4838709677419355,
+      "missing_theory_ids": [
+        "T000549",
+        "T000720",
+        "T000888",
+        "T000998",
+        "T001048",
+        "T001818",
+        "T001846",
+        "T002435",
+        "T002634",
+        "T003449"
+      ]
+    },
+    {
+      "cluster_name": "Circadian Clock Theory",
+      "issues": [
+        "30 theories missing from checkpoint",
+        "49.2% theories in singleton warnings (29/59)",
+        "Theory count mismatch: expected 59, got 29"
+      ],
+      "severity": "critical",
+      "expected_theories": 59,
+      "processed_theories": 29,
+      "missing_theories": 30,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 29,
+      "singleton_rate": 0.4915254237288136,
+      "missing_theory_ids": [
+        "T001006",
+        "T002446",
+        "T002505",
+        "T002758",
+        "T003198",
+        "T003418",
+        "T003705",
+        "T004047",
+        "T004167",
+        "T004201"
+      ]
+    },
+    {
+      "cluster_name": "Cognitive Reserve Theory",
+      "issues": [
+        "13 theories missing from checkpoint",
+        "71.1% theories in singleton warnings (32/45)",
+        "Theory count mismatch: expected 45, got 32"
+      ],
+      "severity": "critical",
+      "expected_theories": 45,
+      "processed_theories": 32,
+      "missing_theories": 13,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 32,
+      "singleton_rate": 0.7111111111111111,
+      "missing_theory_ids": [
+        "T003268",
+        "T003530",
+        "T003551",
+        "T003638",
+        "T003991",
+        "T004366",
+        "T004622",
+        "T004989",
+        "T005631",
+        "T006061"
+      ]
+    },
+    {
+      "cluster_name": "Cross-Linking Theory",
+      "issues": [
+        "66 theories missing from checkpoint",
+        "34.7% theories in singleton warnings (35/101)",
+        "Theory count mismatch: expected 101, got 35"
+      ],
+      "severity": "critical",
+      "expected_theories": 101,
+      "processed_theories": 35,
+      "missing_theories": 66,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 35,
+      "singleton_rate": 0.3465346534653465,
+      "missing_theory_ids": [
+        "T000464",
+        "T001242",
+        "T001408",
+        "T002350",
+        "T002891",
+        "T005170",
+        "T005722",
+        "T005728",
+        "T006512",
+        "T006527"
+      ]
+    },
+    {
+      "cluster_name": "Developmental Theory",
+      "issues": [
+        "29 theories missing from checkpoint",
+        "50.0% theories in singleton warnings (29/58)",
+        "Theory count mismatch: expected 58, got 29"
+      ],
+      "severity": "critical",
+      "expected_theories": 58,
+      "processed_theories": 29,
+      "missing_theories": 29,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 29,
+      "singleton_rate": 0.5,
+      "missing_theory_ids": [
+        "T000285",
+        "T001419",
+        "T003443",
+        "T003905",
+        "T004662",
+        "T004673",
+        "T004808",
+        "T004847",
+        "T004979",
+        "T005181"
+      ]
+    },
+    {
+      "cluster_name": "Epigenetic Aging Clock Theory",
+      "issues": [
+        "165 theories missing from checkpoint",
+        "Theory count mismatch: expected 199, got 34"
+      ],
+      "severity": "critical",
+      "expected_theories": 199,
+      "processed_theories": 34,
+      "missing_theories": 165,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 34,
+      "singleton_rate": 0.1708542713567839,
+      "missing_theory_ids": [
+        "T000177",
+        "T000435",
+        "T000454",
+        "T000601",
+        "T000781",
+        "T000784",
+        "T000908",
+        "T000987",
+        "T001023",
+        "T001186"
+      ]
+    },
+    {
+      "cluster_name": "Epigenetic Damage Theory",
+      "issues": [
+        "176 theories missing from checkpoint",
+        "Theory count mismatch: expected 209, got 33"
+      ],
+      "severity": "critical",
+      "expected_theories": 209,
+      "processed_theories": 33,
+      "missing_theories": 176,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 33,
+      "singleton_rate": 0.15789473684210525,
+      "missing_theory_ids": [
+        "T000039",
+        "T000061",
+        "T000458",
+        "T000459",
+        "T001090",
+        "T001160",
+        "T001203",
+        "T001320",
+        "T001585",
+        "T001608"
+      ]
+    },
+    {
+      "cluster_name": "Error Catastrophe Theory",
+      "issues": [
+        "28 theories missing from checkpoint",
+        "50.9% theories in singleton warnings (29/57)",
+        "Theory count mismatch: expected 57, got 29"
+      ],
+      "severity": "critical",
+      "expected_theories": 57,
+      "processed_theories": 29,
+      "missing_theories": 28,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 29,
+      "singleton_rate": 0.5087719298245614,
+      "missing_theory_ids": [
+        "T001122",
+        "T001273",
+        "T001987",
+        "T002302",
+        "T002809",
+        "T003091",
+        "T003719",
+        "T004331",
+        "T004391",
+        "T004467"
+      ]
+    },
+    {
+      "cluster_name": "FOXO Regulation Theory",
+      "issues": [
+        "14 theories missing from checkpoint",
+        "70.8% theories in singleton warnings (34/48)",
+        "Theory count mismatch: expected 48, got 34"
+      ],
+      "severity": "critical",
+      "expected_theories": 48,
+      "processed_theories": 34,
+      "missing_theories": 14,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 34,
+      "singleton_rate": 0.7083333333333334,
+      "missing_theory_ids": [
+        "T003239",
+        "T003992",
+        "T004844",
+        "T004903",
+        "T005817",
+        "T006494",
+        "T006558",
+        "T008545",
+        "T014575",
+        "T014615"
+      ]
+    },
+    {
+      "cluster_name": "Free Radical Theory",
+      "issues": [
+        "52 theories missing from checkpoint",
+        "Theory count mismatch: expected 603, got 551"
+      ],
+      "severity": "critical",
+      "expected_theories": 603,
+      "processed_theories": 551,
+      "missing_theories": 52,
+      "singleton_warnings": 5,
+      "theories_in_singletons": 44,
+      "singleton_rate": 0.07296849087893864,
+      "missing_theory_ids": [
+        "T009671",
+        "T012292",
+        "T012470",
+        "T013640",
+        "T013944",
+        "T014508",
+        "T015990",
+        "T016451",
+        "T018273",
+        "T022306"
+      ]
+    },
+    {
+      "cluster_name": "GH/IGF-1 Signaling Theory",
+      "issues": [
+        "15 theories missing from checkpoint",
+        "70.0% theories in singleton warnings (35/50)",
+        "Theory count mismatch: expected 50, got 35"
+      ],
+      "severity": "critical",
+      "expected_theories": 50,
+      "processed_theories": 35,
+      "missing_theories": 15,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 35,
+      "singleton_rate": 0.7,
+      "missing_theory_ids": [
+        "T013873",
+        "T014389",
+        "T014523",
+        "T014695",
+        "T015056",
+        "T015117",
+        "T015140",
+        "T015175",
+        "T015229",
+        "T015769"
+      ]
+    },
+    {
+      "cluster_name": "Hallmarks of Aging",
+      "issues": [
+        "88 theories missing from checkpoint",
+        "Theory count mismatch: expected 122, got 34"
+      ],
+      "severity": "critical",
+      "expected_theories": 122,
+      "processed_theories": 34,
+      "missing_theories": 88,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 34,
+      "singleton_rate": 0.2786885245901639,
+      "missing_theory_ids": [
+        "T000171",
+        "T000591",
+        "T000841",
+        "T000857",
+        "T001613",
+        "T003903",
+        "T004259",
+        "T004819",
+        "T004839",
+        "T005258"
+      ]
+    },
+    {
+      "cluster_name": "Hormesis Theory",
+      "issues": [
+        "65 theories missing from checkpoint",
+        "34.3% theories in singleton warnings (34/99)",
+        "Theory count mismatch: expected 99, got 34"
+      ],
+      "severity": "critical",
+      "expected_theories": 99,
+      "processed_theories": 34,
+      "missing_theories": 65,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 34,
+      "singleton_rate": 0.3434343434343434,
+      "missing_theory_ids": [
+        "T000300",
+        "T000428",
+        "T000706",
+        "T001406",
+        "T001600",
+        "T001748",
+        "T001933",
+        "T002122",
+        "T002154",
+        "T003141"
+      ]
+    },
+    {
+      "cluster_name": "Hyperfunction Theory",
+      "issues": [
+        "198 theories missing from checkpoint",
+        "Theory count mismatch: expected 234, got 36"
+      ],
+      "severity": "critical",
+      "expected_theories": 234,
+      "processed_theories": 36,
+      "missing_theories": 198,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 36,
+      "singleton_rate": 0.15384615384615385,
+      "missing_theory_ids": [
+        "T000082",
+        "T000144",
+        "T000423",
+        "T000426",
+        "T000440",
+        "T000636",
+        "T000659",
+        "T000676",
+        "T000717",
+        "T000819"
+      ]
+    },
+    {
+      "cluster_name": "Immunological Theory",
+      "issues": [
+        "186 theories missing from checkpoint",
+        "Theory count mismatch: expected 220, got 34"
+      ],
+      "severity": "critical",
+      "expected_theories": 220,
+      "processed_theories": 34,
+      "missing_theories": 186,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 34,
+      "singleton_rate": 0.15454545454545454,
+      "missing_theory_ids": [
+        "T000311",
+        "T000360",
+        "T000390",
+        "T000405",
+        "T000427",
+        "T000493",
+        "T000515",
+        "T000829",
+        "T000860",
+        "T001022"
+      ]
+    },
+    {
+      "cluster_name": "Inflammaging Theory",
+      "issues": [
+        "118 theories missing from checkpoint",
+        "Theory count mismatch: expected 153, got 35"
+      ],
+      "severity": "critical",
+      "expected_theories": 153,
+      "processed_theories": 35,
+      "missing_theories": 118,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 35,
+      "singleton_rate": 0.22875816993464052,
+      "missing_theory_ids": [
+        "T000076",
+        "T000104",
+        "T000668",
+        "T001136",
+        "T001308",
+        "T001501",
+        "T001757",
+        "T001852",
+        "T001947",
+        "T002016"
+      ]
+    },
+    {
+      "cluster_name": "Klotho Deficiency Theory",
+      "issues": [
+        "15 theories missing from checkpoint",
+        "70.0% theories in singleton warnings (35/50)",
+        "Theory count mismatch: expected 50, got 35"
+      ],
+      "severity": "critical",
+      "expected_theories": 50,
+      "processed_theories": 35,
+      "missing_theories": 15,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 35,
+      "singleton_rate": 0.7,
+      "missing_theory_ids": [
+        "T017073",
+        "T018120",
+        "T018952",
+        "T018964",
+        "T019104",
+        "T019130",
+        "T019173",
+        "T019562",
+        "T019776",
+        "T019927"
+      ]
+    },
+    {
+      "cluster_name": "Life History Theory",
+      "issues": [
+        "13 theories missing from checkpoint",
+        "71.1% theories in singleton warnings (32/45)",
+        "Theory count mismatch: expected 45, got 32"
+      ],
+      "severity": "critical",
+      "expected_theories": 45,
+      "processed_theories": 32,
+      "missing_theories": 13,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 32,
+      "singleton_rate": 0.7111111111111111,
+      "missing_theory_ids": [
+        "T002208",
+        "T002534",
+        "T002701",
+        "T002985",
+        "T003511",
+        "T003932",
+        "T003977",
+        "T004085",
+        "T004275",
+        "T004481"
+      ]
+    },
+    {
+      "cluster_name": "Membrane Theory",
+      "issues": [
+        "15 theories missing from checkpoint",
+        "70.0% theories in singleton warnings (35/50)",
+        "Theory count mismatch: expected 50, got 35"
+      ],
+      "severity": "critical",
+      "expected_theories": 50,
+      "processed_theories": 35,
+      "missing_theories": 15,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 35,
+      "singleton_rate": 0.7,
+      "missing_theory_ids": [
+        "T007643",
+        "T007737",
+        "T007864",
+        "T007928",
+        "T007975",
+        "T007977",
+        "T008026",
+        "T008065",
+        "T008124",
+        "T008180"
+      ]
+    },
+    {
+      "cluster_name": "MicroRNA Regulation Theory",
+      "issues": [
+        "28 theories missing from checkpoint",
+        "50.9% theories in singleton warnings (29/57)",
+        "Theory count mismatch: expected 57, got 29"
+      ],
+      "severity": "critical",
+      "expected_theories": 57,
+      "processed_theories": 29,
+      "missing_theories": 28,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 29,
+      "singleton_rate": 0.5087719298245614,
+      "missing_theory_ids": [
+        "T000008",
+        "T000283",
+        "T000651",
+        "T002415",
+        "T002838",
+        "T003088",
+        "T006467",
+        "T006646",
+        "T009519",
+        "T010559"
+      ]
+    },
+    {
+      "cluster_name": "Mutation Accumulation Theory",
+      "issues": [
+        "230 theories missing from checkpoint",
+        "Theory count mismatch: expected 263, got 33"
+      ],
+      "severity": "critical",
+      "expected_theories": 263,
+      "processed_theories": 33,
+      "missing_theories": 230,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 33,
+      "singleton_rate": 0.12547528517110265,
+      "missing_theory_ids": [
+        "T000059",
+        "T000569",
+        "T000596",
+        "T000632",
+        "T000673",
+        "T000783",
+        "T000991",
+        "T001045",
+        "T001135",
+        "T001352"
+      ]
+    },
+    {
+      "cluster_name": "NAD+ Metabolism Decline Theory",
+      "issues": [
+        "59 theories missing from checkpoint",
+        "35.9% theories in singleton warnings (33/92)",
+        "Theory count mismatch: expected 92, got 33"
+      ],
+      "severity": "critical",
+      "expected_theories": 92,
+      "processed_theories": 33,
+      "missing_theories": 59,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 33,
+      "singleton_rate": 0.358695652173913,
+      "missing_theory_ids": [
+        "T000056",
+        "T000125",
+        "T000622",
+        "T001606",
+        "T002742",
+        "T002767",
+        "T002961",
+        "T003457",
+        "T003512",
+        "T003572"
+      ]
+    },
+    {
+      "cluster_name": "Neuroendocrine Theory",
+      "issues": [
+        "68 theories missing from checkpoint",
+        "34.6% theories in singleton warnings (36/104)",
+        "Theory count mismatch: expected 104, got 36"
+      ],
+      "severity": "critical",
+      "expected_theories": 104,
+      "processed_theories": 36,
+      "missing_theories": 68,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 36,
+      "singleton_rate": 0.34615384615384615,
+      "missing_theory_ids": [
+        "T000337",
+        "T001021",
+        "T001587",
+        "T002348",
+        "T002441",
+        "T002648",
+        "T002726",
+        "T002782",
+        "T003003",
+        "T003165"
+      ]
+    },
+    {
+      "cluster_name": "Programmed Longevity Theory",
+      "issues": [
+        "237 theories missing from checkpoint",
+        "Theory count mismatch: expected 271, got 34"
+      ],
+      "severity": "critical",
+      "expected_theories": 271,
+      "processed_theories": 34,
+      "missing_theories": 237,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 34,
+      "singleton_rate": 0.12546125461254612,
+      "missing_theory_ids": [
+        "T000006",
+        "T000029",
+        "T000236",
+        "T000275",
+        "T000279",
+        "T000281",
+        "T000315",
+        "T000339",
+        "T000484",
+        "T000684"
+      ]
+    },
+    {
+      "cluster_name": "Protein Damage Theory",
+      "issues": [
+        "208 theories missing from checkpoint",
+        "Theory count mismatch: expected 242, got 34"
+      ],
+      "severity": "critical",
+      "expected_theories": 242,
+      "processed_theories": 34,
+      "missing_theories": 208,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 34,
+      "singleton_rate": 0.14049586776859505,
+      "missing_theory_ids": [
+        "T000391",
+        "T000737",
+        "T000754",
+        "T000978",
+        "T001012",
+        "T001210",
+        "T001288",
+        "T001479",
+        "T001507",
+        "T001805"
+      ]
+    },
+    {
+      "cluster_name": "Rate of Living Theory",
+      "issues": [
+        "53 theories missing from checkpoint",
+        "36.1% theories in singleton warnings (30/83)",
+        "Theory count mismatch: expected 83, got 30"
+      ],
+      "severity": "critical",
+      "expected_theories": 83,
+      "processed_theories": 30,
+      "missing_theories": 53,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 30,
+      "singleton_rate": 0.3614457831325301,
+      "missing_theory_ids": [
+        "T000739",
+        "T000968",
+        "T001388",
+        "T001954",
+        "T002221",
+        "T002323",
+        "T002364",
+        "T002528",
+        "T002793",
+        "T003136"
+      ]
+    },
+    {
+      "cluster_name": "Redox Regulation Theory",
+      "issues": [
+        "28 theories missing from checkpoint",
+        "50.9% theories in singleton warnings (29/57)",
+        "Theory count mismatch: expected 57, got 29"
+      ],
+      "severity": "critical",
+      "expected_theories": 57,
+      "processed_theories": 29,
+      "missing_theories": 28,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 29,
+      "singleton_rate": 0.5087719298245614,
+      "missing_theory_ids": [
+        "T000041",
+        "T000241",
+        "T000307",
+        "T000399",
+        "T001099",
+        "T002560",
+        "T002843",
+        "T003212",
+        "T004317",
+        "T006571"
+      ]
+    },
+    {
+      "cluster_name": "SIRT1 Signaling Theory",
+      "issues": [
+        "12 theories missing from checkpoint",
+        "72.7% theories in singleton warnings (32/44)",
+        "Theory count mismatch: expected 44, got 32"
+      ],
+      "severity": "critical",
+      "expected_theories": 44,
+      "processed_theories": 32,
+      "missing_theories": 12,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 32,
+      "singleton_rate": 0.7272727272727273,
+      "missing_theory_ids": [
+        "T006301",
+        "T006473",
+        "T010907",
+        "T011441",
+        "T013095",
+        "T014898",
+        "T014929",
+        "T014984",
+        "T015000",
+        "T015143"
+      ]
+    },
+    {
+      "cluster_name": "Sirtuin Regulation Theory",
+      "issues": [
+        "12 theories missing from checkpoint",
+        "72.1% theories in singleton warnings (31/43)",
+        "Theory count mismatch: expected 43, got 31"
+      ],
+      "severity": "critical",
+      "expected_theories": 43,
+      "processed_theories": 31,
+      "missing_theories": 12,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 31,
+      "singleton_rate": 0.7209302325581395,
+      "missing_theory_ids": [
+        "T014624",
+        "T014677",
+        "T014922",
+        "T014948",
+        "T015302",
+        "T015591",
+        "T017353",
+        "T017371",
+        "T017606",
+        "T017732"
+      ]
+    },
+    {
+      "cluster_name": "Socioemotional Selectivity Theory",
+      "issues": [
+        "13 theories missing from checkpoint",
+        "71.7% theories in singleton warnings (33/46)",
+        "Theory count mismatch: expected 46, got 33"
+      ],
+      "severity": "critical",
+      "expected_theories": 46,
+      "processed_theories": 33,
+      "missing_theories": 13,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 33,
+      "singleton_rate": 0.717391304347826,
+      "missing_theory_ids": [
+        "T004765",
+        "T004987",
+        "T006999",
+        "T007189",
+        "T007191",
+        "T007250",
+        "T007308",
+        "T007915",
+        "T008416",
+        "T008471"
+      ]
+    },
+    {
+      "cluster_name": "Somatic DNA Damage Theory",
+      "issues": [
+        "423 theories missing from checkpoint",
+        "Theory count mismatch: expected 583, got 160"
+      ],
+      "severity": "critical",
+      "expected_theories": 583,
+      "processed_theories": 160,
+      "missing_theories": 423,
+      "singleton_warnings": 3,
+      "theories_in_singletons": 61,
+      "singleton_rate": 0.10463121783876501,
+      "missing_theory_ids": [
+        "T000722",
+        "T002571",
+        "T004502",
+        "T005069",
+        "T005678",
+        "T005705",
+        "T005726",
+        "T005869",
+        "T005873",
+        "T005876"
+      ]
+    },
+    {
+      "cluster_name": "Stem Cell Exhaustion Theory",
+      "issues": [
+        "111 theories missing from checkpoint",
+        "Theory count mismatch: expected 145, got 34"
+      ],
+      "severity": "critical",
+      "expected_theories": 145,
+      "processed_theories": 34,
+      "missing_theories": 111,
+      "singleton_warnings": 1,
+      "theories_in_singletons": 34,
+      "singleton_rate": 0.23448275862068965,
+      "missing_theory_ids": [
+        "T000338",
+        "T000444",
+        "T000661",
+        "T000728",
+        "T000872",
+        "T001243",
+        "T001665",
+        "T002132",
+        "T002587",
+        "T002599"
+      ]
+    }
+  ]
+}

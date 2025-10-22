@@ -1,0 +1,149 @@
+{
+  "cluster_name": "MicroRNA Regulation Theory",
+  "batch_num": 1,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "MicroRNA Biogenesis Dysregulation Theory",
+        "theory_ids": [
+          "T006467",
+          "T018267",
+          "T000283",
+          "T006646",
+          "T000651",
+          "T002838",
+          "T003088"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Specific MicroRNA Driver Theories",
+        "theory_ids": [
+          "T017446",
+          "T016149",
+          "T017808",
+          "T013752",
+          "T015307",
+          "T016413"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Endocrine MicroRNA Regulation Theories",
+        "theory_ids": [
+          "T000008",
+          "T002415",
+          "T009519",
+          "T010559",
+          "T015090",
+          "T012136"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T006467",
+          "subcluster_name": "MicroRNA Biogenesis Dysregulation Theory",
+          "reasoning": "Focuses on aging-related decline in miRNA biogenesis machinery (Drosha, Dicer, Exportin-5) affecting miRNA levels and aging phenotypes."
+        },
+        {
+          "theory_id": "T018267",
+          "subcluster_name": "MicroRNA Biogenesis Dysregulation Theory",
+          "reasoning": "Describes coordinated group disorganization of miRNAs during aging, implicating systemic dysregulation of miRNA expression networks."
+        },
+        {
+          "theory_id": "T000283",
+          "subcluster_name": "MicroRNA Biogenesis Dysregulation Theory",
+          "reasoning": "Proposes miRNAs maintain biological robustness; aging involves loss of miRNA regulatory capacity and system stability."
+        },
+        {
+          "theory_id": "T006646",
+          "subcluster_name": "MicroRNA Biogenesis Dysregulation Theory",
+          "reasoning": "Covers miRNAs as central regulators of multiple aging hallmarks, integrating miRNA dysregulation across pathways in aging."
+        },
+        {
+          "theory_id": "T000651",
+          "subcluster_name": "MicroRNA Biogenesis Dysregulation Theory",
+          "reasoning": "Describes miRNAs as regulators of aging hallmarks and age-related diseases, emphasizing changes in miRNA profiles with age."
+        },
+        {
+          "theory_id": "T002838",
+          "subcluster_name": "MicroRNA Biogenesis Dysregulation Theory",
+          "reasoning": "Focuses on miRNA regulation of phenotypic plasticity and its decline with aging due to miRNA dysregulation."
+        },
+        {
+          "theory_id": "T003088",
+          "subcluster_name": "MicroRNA Biogenesis Dysregulation Theory",
+          "reasoning": "Describes miRNAs as stabilizers of gene regulatory networks buffering transcriptomic perturbations, with aging reducing this buffering capacity."
+        },
+        {
+          "theory_id": "T017446",
+          "subcluster_name": "Specific MicroRNA Driver Theories",
+          "reasoning": "Focuses on miR-29 as a specific microRNA causally driving aging phenotypes via gene expression regulation."
+        },
+        {
+          "theory_id": "T016149",
+          "subcluster_name": "Specific MicroRNA Driver Theories",
+          "reasoning": "Focuses on miR-305 as a specific microRNA modulating lifespan and aging-related pathways in Drosophila."
+        },
+        {
+          "theory_id": "T017808",
+          "subcluster_name": "Specific MicroRNA Driver Theories",
+          "reasoning": "Focuses on let-7 microRNA regulating metabolism and lifespan with sex-specific effects."
+        },
+        {
+          "theory_id": "T013752",
+          "subcluster_name": "Specific MicroRNA Driver Theories",
+          "reasoning": "Describes specific miRNAs (lin-4, mir-71, mir-239, mir-34) regulating lifespan via insulin signaling and DNA damage response."
+        },
+        {
+          "theory_id": "T015307",
+          "subcluster_name": "Specific MicroRNA Driver Theories",
+          "reasoning": "Describes age-related de-repression of X-linked miRNA cluster targeting growth hormone signaling affecting lifespan."
+        },
+        {
+          "theory_id": "T016413",
+          "subcluster_name": "Specific MicroRNA Driver Theories",
+          "reasoning": "Focuses on miR-80 regulating dietary restriction metabolic state and lifespan extension."
+        },
+        {
+          "theory_id": "T000008",
+          "subcluster_name": "Endocrine MicroRNA Regulation Theories",
+          "reasoning": "Proposes hypothalamus-pituitary secreted miRNA hormones as endocrine regulators of systemic aging processes."
+        },
+        {
+          "theory_id": "T002415",
+          "subcluster_name": "Endocrine MicroRNA Regulation Theories",
+          "reasoning": "Focuses on extracellular miRNAs mediating epigenetic regulation and systemic communication in metabolic memory and endothelial aging."
+        },
+        {
+          "theory_id": "T009519",
+          "subcluster_name": "Endocrine MicroRNA Regulation Theories",
+          "reasoning": "Describes miRNAs regulating proteostasis decline and protein aggregation in aging tissues, with systemic and tissue-specific effects."
+        },
+        {
+          "theory_id": "T010559",
+          "subcluster_name": "Endocrine MicroRNA Regulation Theories",
+          "reasoning": "Focuses on miRNAs regulating metabolic hallmarks of aging including nutrient sensing, mitochondrial function, and inflammation."
+        },
+        {
+          "theory_id": "T015090",
+          "subcluster_name": "Endocrine MicroRNA Regulation Theories",
+          "reasoning": "Describes miRNA regulation of chromatin remodelers affecting transcriptional programs and lifespan, modulated by dietary interventions."
+        },
+        {
+          "theory_id": "T012136",
+          "subcluster_name": "Endocrine MicroRNA Regulation Theories",
+          "reasoning": "Focuses on exercise-induced miRNA bursts modulating epigenetic memory and muscle metabolic adaptation during aging."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 11:53:30"
+}

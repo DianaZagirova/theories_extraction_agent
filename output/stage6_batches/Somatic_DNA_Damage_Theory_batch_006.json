@@ -1,0 +1,198 @@
+{
+  "cluster_name": "Somatic DNA Damage Theory",
+  "batch_num": 6,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "PARP-Mediated DNA Repair and Longevity Theory",
+        "theory_ids": [
+          "T006263",
+          "T006349",
+          "T006275"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Decline of DNA Double-Strand Break Repair and Aging Theory",
+        "theory_ids": [
+          "T006293",
+          "T006284",
+          "T006274",
+          "T006218",
+          "T006285",
+          "T006317",
+          "T006256"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "rDNA Instability and Aging Theory",
+        "theory_ids": [
+          "T006299",
+          "T006282"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 2
+      },
+      {
+        "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+        "theory_ids": [
+          "T006261",
+          "T006307",
+          "T006295",
+          "T006244",
+          "T006217",
+          "T006234",
+          "T006260",
+          "T006289",
+          "T006339"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 9
+      },
+      {
+        "subcluster_name": "Oxidative DNA Damage and Aging Theory",
+        "theory_ids": [
+          "T006205",
+          "T006323",
+          "T006340"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T006263",
+          "subcluster_name": "PARP-Mediated DNA Repair and Longevity Theory",
+          "reasoning": "Focuses on PARP-1 and PARP-2 roles in base-excision repair and their correlation with species longevity, emphasizing poly(ADP-ribosyl)ation in DNA damage response."
+        },
+        {
+          "theory_id": "T006349",
+          "subcluster_name": "PARP-Mediated DNA Repair and Longevity Theory",
+          "reasoning": "Describes poly(ADP-ribosyl)ation by PARP-1 as a key DNA damage sensor and repair facilitator linked to longevity and genomic stability."
+        },
+        {
+          "theory_id": "T006275",
+          "subcluster_name": "PARP-Mediated DNA Repair and Longevity Theory",
+          "reasoning": "Details poly(ADP-ribosyl)ation as a posttranslational modification by PARP-1 that regulates genome stability and correlates with lifespan."
+        },
+        {
+          "theory_id": "T006293",
+          "subcluster_name": "Decline of DNA Double-Strand Break Repair and Aging Theory",
+          "reasoning": "Focuses on age-related decline in homologous recombination repair efficiency, shift to error-prone repair, and SIRT6's role in rescuing HR."
+        },
+        {
+          "theory_id": "T006284",
+          "subcluster_name": "Decline of DNA Double-Strand Break Repair and Aging Theory",
+          "reasoning": "Emphasizes age-associated decline in double-strand break repair pathways (NHEJ and HR) and their fidelity, leading to genomic instability."
+        },
+        {
+          "theory_id": "T006274",
+          "subcluster_name": "Decline of DNA Double-Strand Break Repair and Aging Theory",
+          "reasoning": "Describes accumulation of DNA double-strand breaks with age and impaired repair kinetics, including in premature aging syndromes."
+        },
+        {
+          "theory_id": "T006218",
+          "subcluster_name": "Decline of DNA Double-Strand Break Repair and Aging Theory",
+          "reasoning": "Focuses on RecQ helicase dysfunction affecting homologous recombination and genome maintenance, linking defective DSB repair to aging."
+        },
+        {
+          "theory_id": "T006285",
+          "subcluster_name": "Decline of DNA Double-Strand Break Repair and Aging Theory",
+          "reasoning": "Shows increased DSBs and impaired repair in aging yeast, highlighting defective DSB repair as a cause of genomic instability."
+        },
+        {
+          "theory_id": "T006317",
+          "subcluster_name": "Decline of DNA Double-Strand Break Repair and Aging Theory",
+          "reasoning": "Describes POLD1 mutation impairing DNA replication and repair, causing replication stress and telomere-associated DNA damage."
+        },
+        {
+          "theory_id": "T006256",
+          "subcluster_name": "Decline of DNA Double-Strand Break Repair and Aging Theory",
+          "reasoning": "Werner syndrome exemplifies defective DNA metabolism and repair causing genomic instability and premature aging."
+        },
+        {
+          "theory_id": "T006299",
+          "subcluster_name": "rDNA Instability and Aging Theory",
+          "reasoning": "Focuses on ribosomal DNA instability causing cellular senescence, with SIRT7 maintaining rDNA heterochromatin and stability."
+        },
+        {
+          "theory_id": "T006282",
+          "subcluster_name": "rDNA Instability and Aging Theory",
+          "reasoning": "Describes rDNA noncoding transcription regulated by SIR2 as a driver of rDNA instability and aging, conserved from yeast to mammals."
+        },
+        {
+          "theory_id": "T006261",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Broad genomic instability theory including accumulation of mutations, loss of repetitive DNA, and roles of DNA repair proteins like WRN and PARP-1."
+        },
+        {
+          "theory_id": "T006307",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Describes accumulation of DNA damage and somatic mutations, decline in genome maintenance, and resulting cellular dysfunction and senescence."
+        },
+        {
+          "theory_id": "T006295",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Links genomic instability to skeletal muscle aging and mRNA splicing dysregulation, highlighting exercise as a mitigating factor."
+        },
+        {
+          "theory_id": "T006244",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Genosenium theory describing somatic mutation accumulation in neurons with both stochastic and programmed components."
+        },
+        {
+          "theory_id": "T006217",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Considers genomic instability as a main driver of unsuccessful aging, emphasizing DNA repair decline and somatic mutation accumulation."
+        },
+        {
+          "theory_id": "T006234",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Uses progeroid syndromes as models to support genomic instability and DNA repair defects as fundamental aging mechanisms."
+        },
+        {
+          "theory_id": "T006260",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Describes DNA damage-induced systemic aging via non-cell-autonomous inflammatory responses and cytoplasmic DNA sensing."
+        },
+        {
+          "theory_id": "T006289",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "Focuses on accumulation of somatic mutations and somatic selection in aging neural stem/progenitor cells impairing neurogenesis."
+        },
+        {
+          "theory_id": "T006339",
+          "subcluster_name": "Genomic Instability and DNA Repair Decline Theory",
+          "reasoning": "DNA damage-induced endothelial senescence theory linking impaired DNA repair to blood-brain barrier dysfunction and neuroinflammation."
+        },
+        {
+          "theory_id": "T006205",
+          "subcluster_name": "Oxidative DNA Damage and Aging Theory",
+          "reasoning": "Emphasizes oxidative DNA damage by ROS, decline in antioxidant defenses, and accumulation of chromosomal aberrations with age."
+        },
+        {
+          "theory_id": "T006323",
+          "subcluster_name": "Oxidative DNA Damage and Aging Theory",
+          "reasoning": "Focuses on oxidative DNA damage accumulation, especially in mitochondrial DNA, and the role of DNA repair pathways in modulating aging."
+        },
+        {
+          "theory_id": "T006340",
+          "subcluster_name": "Oxidative DNA Damage and Aging Theory",
+          "reasoning": "Describes base excision repair imbalance generating toxic intermediates causing genomic stress and neurodegeneration in aging neurons."
+        },
+        {
+          "theory_id": "T006243",
+          "subcluster_name": "Somatic DNA Damage-Induced Transcriptional Noise Theory",
+          "reasoning": "Proposes that somatic DNA damage causes stochastic deregulation of gene expression, increasing transcriptional noise and cellular dysfunction."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:41:10"
+}

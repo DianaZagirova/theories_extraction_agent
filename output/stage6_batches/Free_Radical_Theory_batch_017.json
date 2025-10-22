@@ -1,0 +1,191 @@
+{
+  "cluster_name": "Free Radical Theory",
+  "batch_num": 17,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+        "theory_ids": [
+          "T018381",
+          "T017652",
+          "T017588",
+          "T018707",
+          "T017430",
+          "T017741",
+          "T017458",
+          "T017401"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Lipid Peroxidation-Centered Free Radical Theory",
+        "theory_ids": [
+          "T017621",
+          "T018140",
+          "T017852",
+          "T018559",
+          "T017978"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      },
+      {
+        "subcluster_name": "DNA Oxidative Damage-Centered Free Radical Theory",
+        "theory_ids": [
+          "T018387",
+          "T018011",
+          "T017428",
+          "T018730",
+          "T017897",
+          "T017477"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Protein Oxidation and Nitrosative Stress Free Radical Theory",
+        "theory_ids": [
+          "T018709",
+          "T018590",
+          "T018299",
+          "T018340",
+          "T017425"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T018381",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondrial electron transport chain as the main source of free radicals causing aging and the effect of caloric restriction on mitochondrial ROS."
+        },
+        {
+          "theory_id": "T017652",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Classical free radical aging theory emphasizing ROS accumulation mainly from mitochondria and mitohormesis as a mitochondrial ROS adaptive response."
+        },
+        {
+          "theory_id": "T017621",
+          "subcluster_name": "Lipid Peroxidation-Centered Free Radical Theory",
+          "reasoning": "Emphasizes ROS-induced lipid peroxidation as a key mechanism linking free radicals to aging and age-related diseases like atherosclerosis."
+        },
+        {
+          "theory_id": "T018140",
+          "subcluster_name": "Lipid Peroxidation-Centered Free Radical Theory",
+          "reasoning": "Focuses on lipid peroxidation accumulation with age and dietary restriction effects on lipid composition and peroxidation."
+        },
+        {
+          "theory_id": "T017852",
+          "subcluster_name": "Lipid Peroxidation-Centered Free Radical Theory",
+          "reasoning": "Highlights lipid peroxidation markers (pentane, ethane) increasing with age and suppression by food restriction."
+        },
+        {
+          "theory_id": "T018559",
+          "subcluster_name": "Lipid Peroxidation-Centered Free Radical Theory",
+          "reasoning": "Discusses membrane lipid peroxidation damage in aging and antioxidant/dietary restriction modulation of lipid oxidative damage."
+        },
+        {
+          "theory_id": "T017978",
+          "subcluster_name": "Lipid Peroxidation-Centered Free Radical Theory",
+          "reasoning": "Describes age-related lipid peroxidation increases in brain tissue and decline in antioxidant enzymes contributing to oxidative damage."
+        },
+        {
+          "theory_id": "T017588",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on mitochondria as major ROS source causing oxidative damage accumulation in skeletal muscle aging."
+        },
+        {
+          "theory_id": "T018707",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Emphasizes mitochondrial ROS production and mitochondrial protein oxidation as central to aging."
+        },
+        {
+          "theory_id": "T017430",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Links energy restriction effects on mitochondrial proton leak and ROS production to aging modulation."
+        },
+        {
+          "theory_id": "T017741",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Focuses on ROS accumulation from mitochondria causing age-related memory impairment and antioxidant defenses."
+        },
+        {
+          "theory_id": "T017458",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Studies mitochondrial free radical accumulation and oxidative stress response gene regulation in aging."
+        },
+        {
+          "theory_id": "T017401",
+          "subcluster_name": "Mitochondrial ROS-Induced Free Radical Theory",
+          "reasoning": "Examines mitochondrial ROS, oxygen tension, and oxidative damage effects on lifespan and aging."
+        },
+        {
+          "theory_id": "T018387",
+          "subcluster_name": "DNA Oxidative Damage-Centered Free Radical Theory",
+          "reasoning": "Focuses on oxidative DNA damage accumulation (8-OHdG) as a marker and mechanism of aging."
+        },
+        {
+          "theory_id": "T018011",
+          "subcluster_name": "DNA Oxidative Damage-Centered Free Radical Theory",
+          "reasoning": "Emphasizes age-related oxidative DNA damage accumulation and dietary restriction effects on DNA damage."
+        },
+        {
+          "theory_id": "T017428",
+          "subcluster_name": "DNA Oxidative Damage-Centered Free Radical Theory",
+          "reasoning": "Focuses on ROS effects on brain aging, synaptic plasticity, and antioxidant enzyme modulation, highlighting DNA damage and signaling."
+        },
+        {
+          "theory_id": "T018730",
+          "subcluster_name": "DNA Oxidative Damage-Centered Free Radical Theory",
+          "reasoning": "Discusses reactive oxygen intermediates causing molecular damage including DNA and the protective role of melatonin."
+        },
+        {
+          "theory_id": "T017897",
+          "subcluster_name": "DNA Oxidative Damage-Centered Free Radical Theory",
+          "reasoning": "Highlights oxidative damage accumulation to DNA, proteins, and lipids including endocrine gland aging."
+        },
+        {
+          "theory_id": "T018709",
+          "subcluster_name": "Protein Oxidation and Nitrosative Stress Free Radical Theory",
+          "reasoning": "Focuses on oxidative and nitrosative modifications causing protein damage, aggregation, and aging."
+        },
+        {
+          "theory_id": "T018590",
+          "subcluster_name": "Protein Oxidation and Nitrosative Stress Free Radical Theory",
+          "reasoning": "Emphasizes protein oxidative modifications, failure of protein maintenance systems, and their role in aging."
+        },
+        {
+          "theory_id": "T018299",
+          "subcluster_name": "Protein Oxidation and Nitrosative Stress Free Radical Theory",
+          "reasoning": "Focuses on oxidative protein damage, selective protein oxidation, proteolytic impairment, and protein aggregation in aging brain."
+        },
+        {
+          "theory_id": "T018340",
+          "subcluster_name": "Protein Oxidation and Nitrosative Stress Free Radical Theory",
+          "reasoning": "Describes free radical-induced decline in proteolytic capacity due to oxidative modifications of proteolytic enzymes and proteins."
+        },
+        {
+          "theory_id": "T017425",
+          "subcluster_name": "Protein Oxidation and Nitrosative Stress Free Radical Theory",
+          "reasoning": "Focuses on methionine sulfoxide reductase system repairing oxidized proteins and its role in oxidative stress protection and aging."
+        },
+        {
+          "theory_id": "T017698",
+          "subcluster_name": "Peroxisomal Function and Free Radical Detoxification Theory",
+          "reasoning": "Emphasizes peroxisomes' role in ROS detoxification, decline in peroxisomal function with age, and impact on oxidative damage."
+        },
+        {
+          "theory_id": "T017477",
+          "subcluster_name": "DNA Oxidative Damage-Centered Free Radical Theory",
+          "reasoning": "General oxidative stress theory focusing on ROS-induced damage to DNA, proteins, and lipids and cellular defense mechanisms."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:14:37"
+}

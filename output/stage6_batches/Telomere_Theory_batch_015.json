@@ -1,0 +1,253 @@
+{
+  "cluster_name": "Telomere Theory",
+  "batch_num": 15,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+        "theory_ids": [
+          "T020962",
+          "T020581",
+          "T021174",
+          "T021232",
+          "T020935",
+          "T021217",
+          "T020606",
+          "T020567",
+          "T021276",
+          "T021010",
+          "T021204",
+          "T020616",
+          "T021097"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 13
+      },
+      {
+        "subcluster_name": "Mitochondrial Dysfunction and Telomere Attrition Theory",
+        "theory_ids": [
+          "T020740",
+          "T020904",
+          "T020938",
+          "T018943",
+          "T020319",
+          "T020326"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 6
+      },
+      {
+        "subcluster_name": "Somatic Fitness and Telomere Length Variation Theory",
+        "theory_ids": [
+          "T020791",
+          "T021290",
+          "T020247"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      },
+      {
+        "subcluster_name": "Shelterin and Telomere Protection Dysfunction Theory",
+        "theory_ids": [
+          "T020473",
+          "T019860",
+          "T020592",
+          "T020865",
+          "T020437",
+          "T021256",
+          "T019356"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Telomerase Regulation and Telomere Signaling Theory",
+        "theory_ids": [
+          "T020987",
+          "T019424",
+          "T020459",
+          "T021227",
+          "T020071"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 5
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020962",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Focuses on telomere shortening as a mitotic clock triggering replicative senescence and the role of telomerase in cellular immortality and aging."
+        },
+        {
+          "theory_id": "T020581",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Emphasizes telomere shortening driving cellular senescence, telomerase activity, and sex differences in telomere dynamics affecting aging."
+        },
+        {
+          "theory_id": "T021174",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Describes telomere shortening as a mitotic clock causing cellular senescence and the insufficiency of telomerase in somatic cells leading to aging."
+        },
+        {
+          "theory_id": "T021232",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Details telomeres as cellular aging clocks, replicative senescence driving organismal aging, and telomerase as a reset mechanism."
+        },
+        {
+          "theory_id": "T020935",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Focuses on telomere shortening triggering senescence, telomerase role in extending lifespan, and downstream signaling pathways mediating senescence."
+        },
+        {
+          "theory_id": "T021217",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Highlights telomeres as genome stability guardians, replicative senescence from short telomeres, and telomerase activity delaying aging."
+        },
+        {
+          "theory_id": "T020606",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Describes telomere length as a mitotic clock, telomere-induced DNA damage response, and telomerase role in stem cell exhaustion and tissue aging."
+        },
+        {
+          "theory_id": "T020567",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Explains replicative senescence due to telomere shortening, telomerase as protective, and telomerase reactivation reversing tissue degeneration."
+        },
+        {
+          "theory_id": "T021276",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Covers end-replication problem, telomere shortening limiting replicative potential, telomerase counteracting erosion, and links to organismal aging."
+        },
+        {
+          "theory_id": "T021010",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Focuses on telomere shortening as mitotic clock, replicative senescence driving aging, telomerase regulation, and evolutionary antagonistic pleiotropy."
+        },
+        {
+          "theory_id": "T021204",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Discusses telomere length as mitotic clock, replicative senescence, telomere length heterogeneity, and cell culture growth dynamics shaping aging."
+        },
+        {
+          "theory_id": "T020616",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Describes telomere length as biomarker and causal factor, anticancer trade-off, cellular heterogeneity, and psychosocial influences on telomere dynamics."
+        },
+        {
+          "theory_id": "T021097",
+          "subcluster_name": "Replicative Senescence and Telomerase Regulation Theory",
+          "reasoning": "Focuses on telomere length as cellular aging biomarker, psychological stress impact, telomerase role, and lifestyle/environmental modulation."
+        },
+        {
+          "theory_id": "T020740",
+          "subcluster_name": "Mitochondrial Dysfunction and Telomere Attrition Theory",
+          "reasoning": "Links telomere shortening to mitochondrial dysfunction and cellular senescence causing tissue degeneration and systemic aging."
+        },
+        {
+          "theory_id": "T020904",
+          "subcluster_name": "Mitochondrial Dysfunction and Telomere Attrition Theory",
+          "reasoning": "Describes telomere attrition triggering p53 signaling that impairs mitochondrial metabolism in stem cells, reversible by metabolic interventions."
+        },
+        {
+          "theory_id": "T020938",
+          "subcluster_name": "Mitochondrial Dysfunction and Telomere Attrition Theory",
+          "reasoning": "Proposes causal effect of telomere shortening leading to mitochondrial DNA copy number decline, linking telomere attrition to mitochondrial dysfunction."
+        },
+        {
+          "theory_id": "T018943",
+          "subcluster_name": "Mitochondrial Dysfunction and Telomere Attrition Theory",
+          "reasoning": "Describes telomere shortening inducing mitochondrial damage via p53 repression of mitochondrial biogenesis regulators and SIRT1 mediation."
+        },
+        {
+          "theory_id": "T020319",
+          "subcluster_name": "Mitochondrial Dysfunction and Telomere Attrition Theory",
+          "reasoning": "Explains telomere shortening triggers p53-dependent apoptosis early and later mTOR/AKT-driven senescence with mitochondrial dysfunction and ROS."
+        },
+        {
+          "theory_id": "T020326",
+          "subcluster_name": "Mitochondrial Dysfunction and Telomere Attrition Theory",
+          "reasoning": "Highlights oxidative stress accelerating telomere shortening and exposing telomeric overhangs that activate p53 pathway leading to replicative senescence."
+        },
+        {
+          "theory_id": "T020791",
+          "subcluster_name": "Somatic Fitness and Telomere Length Variation Theory",
+          "reasoning": "Focuses on leukocyte telomere length as an index of somatic fitness and biological age, linking telomere dynamics to lifespan and sex differences."
+        },
+        {
+          "theory_id": "T021290",
+          "subcluster_name": "Somatic Fitness and Telomere Length Variation Theory",
+          "reasoning": "Describes telomere attrition constraining hematopoietic stem cell function and driving clonal selection in aging hematopoiesis."
+        },
+        {
+          "theory_id": "T020247",
+          "subcluster_name": "Somatic Fitness and Telomere Length Variation Theory",
+          "reasoning": "Proposes short telomeres as heritable traits causing systemic degenerative defects, especially in hematopoietic and immune systems."
+        },
+        {
+          "theory_id": "T020473",
+          "subcluster_name": "Shelterin and Telomere Protection Dysfunction Theory",
+          "reasoning": "Focuses on TRF2 protein's role in telomere protection, telomere shortening independent of telomerase, and chromosomal instability promoting aging and cancer."
+        },
+        {
+          "theory_id": "T019860",
+          "subcluster_name": "Shelterin and Telomere Protection Dysfunction Theory",
+          "reasoning": "Describes shelterin complex dysfunction causing telomere uncapping, DNA damage response activation, and premature tissue degeneration."
+        },
+        {
+          "theory_id": "T020592",
+          "subcluster_name": "Shelterin and Telomere Protection Dysfunction Theory",
+          "reasoning": "Details telomere dysfunction-induced DNA damage response via ATM/ATR and CHK2/CHK1 kinases leading to senescence and apoptosis driving aging."
+        },
+        {
+          "theory_id": "T020865",
+          "subcluster_name": "Shelterin and Telomere Protection Dysfunction Theory",
+          "reasoning": "Focuses on telomere-associated persistent DNA damage foci (TAF) independent of length, shelterin inhibition of repair, and accumulation driving aging."
+        },
+        {
+          "theory_id": "T020437",
+          "subcluster_name": "Shelterin and Telomere Protection Dysfunction Theory",
+          "reasoning": "Telomeres act as sensors of genotoxic stress activating persistent DNA damage response causing senescence, a tumor-suppressing mechanism."
+        },
+        {
+          "theory_id": "T021256",
+          "subcluster_name": "Shelterin and Telomere Protection Dysfunction Theory",
+          "reasoning": "Describes Smurf2 upregulation specifically induced by telomere attrition triggering telomere-dependent senescence independent of DNA damage response."
+        },
+        {
+          "theory_id": "T019356",
+          "subcluster_name": "Shelterin and Telomere Protection Dysfunction Theory",
+          "reasoning": "Links telomere shortening to tumor suppression and inflammation via senescence and replicative crisis, connecting telomere dysfunction to aging pathology."
+        },
+        {
+          "theory_id": "T020987",
+          "subcluster_name": "Telomerase Regulation and Telomere Signaling Theory",
+          "reasoning": "Focuses on telomerase as master regulator of telomere length and cell lifespan, signaling pathways mediating responses, and regulation by phosphorylation and transcription factors."
+        },
+        {
+          "theory_id": "T019424",
+          "subcluster_name": "Telomerase Regulation and Telomere Signaling Theory",
+          "reasoning": "Describes estrogen regulation of telomerase activity via receptor-mediated transcription and signaling pathways influencing cellular senescence and aging."
+        },
+        {
+          "theory_id": "T020459",
+          "subcluster_name": "Telomerase Regulation and Telomere Signaling Theory",
+          "reasoning": "Shows physical exercise upregulates telomerase and telomere-stabilizing proteins, reducing senescence and apoptosis via endothelial nitric oxide synthase."
+        },
+        {
+          "theory_id": "T021227",
+          "subcluster_name": "Telomerase Regulation and Telomere Signaling Theory",
+          "reasoning": "Describes extra-telomeric telomere length-dependent regulation of gene expression, pluripotency, and chromatin organization mediated by shelterin proteins."
+        },
+        {
+          "theory_id": "T020071",
+          "subcluster_name": "Telomerase Regulation and Telomere Signaling Theory",
+          "reasoning": "Focuses on WRN helicase role in replication fork stability, preventing fork collapse and premature senescence, linking telomere maintenance to genome stability."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 10:25:03"
+}

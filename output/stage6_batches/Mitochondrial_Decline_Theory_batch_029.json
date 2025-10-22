@@ -1,0 +1,192 @@
+{
+  "cluster_name": "Mitochondrial Decline Theory",
+  "batch_num": 29,
+  "batch_result": {
+    "subclusters": [
+      {
+        "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+        "theory_ids": [
+          "T020015",
+          "T020003",
+          "T019546",
+          "T019489",
+          "T019905",
+          "T020033",
+          "T019915",
+          "T019810"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 8
+      },
+      {
+        "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+        "theory_ids": [
+          "T019683",
+          "T019491",
+          "T019743",
+          "T020058",
+          "T019694",
+          "T019528",
+          "T019693"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Quality Control and Turnover Decline Theory",
+        "theory_ids": [
+          "T019832",
+          "T019619",
+          "T019911",
+          "T019783",
+          "T019769",
+          "T019898",
+          "T019808"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 7
+      },
+      {
+        "subcluster_name": "Mitochondrial Function Plasticity and Metabolic Regulation Theory",
+        "theory_ids": [
+          "T019875",
+          "T019527",
+          "T019659"
+        ],
+        "mechanism_focus": "",
+        "theory_count": 3
+      }
+    ],
+    "separation_rationale": "Separated based on mechanistic themes",
+    "original_format": {
+      "theory_assignments": [
+        {
+          "theory_id": "T020015",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Focuses on ROS production by mitochondria causing mtDNA damage, leading to a vicious cycle of oxidative damage and mitochondrial dysfunction driving aging."
+        },
+        {
+          "theory_id": "T020003",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Emphasizes oxidative damage accumulation from mitochondrial free radicals impairing mitochondrial membranes and function, contributing to aging."
+        },
+        {
+          "theory_id": "T019546",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Highlights mitochondrial ROS as a driver of aging through oxidative damage to mtDNA and proteins, with clonal expansion of mutations exacerbating dysfunction."
+        },
+        {
+          "theory_id": "T019489",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Describes mitochondrial ROS generation and oxidative damage accumulation as central to aging, including effects on telomeres and antioxidant defenses."
+        },
+        {
+          "theory_id": "T019905",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Focuses on mitochondrial bioenergetic decline and ROS generation causing oxidative damage to mitochondrial components, linking to aging and disease."
+        },
+        {
+          "theory_id": "T020033",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Proposes mitochondrial ROS-driven oxidative damage as causal in sarcopenia, linking mitochondrial dysfunction and muscle aging."
+        },
+        {
+          "theory_id": "T019915",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Focuses on maternal age-related accumulation of mtDNA damage from ROS causing oocyte dysfunction and offspring aging effects."
+        },
+        {
+          "theory_id": "T019810",
+          "subcluster_name": "Mitochondrial Free Radical Theory of Aging",
+          "reasoning": "Includes ROS and mtDNA mutation accumulation as key mechanisms linking mitochondrial dysfunction to aging and disease."
+        },
+        {
+          "theory_id": "T019683",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Centers on accumulation of mtDNA mutations causing mitochondrial decline and energy deficits driving aging."
+        },
+        {
+          "theory_id": "T019491",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Emphasizes somatic mtDNA mutation accumulation and clonal expansion causing respiratory chain deficiencies and aging."
+        },
+        {
+          "theory_id": "T019743",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Focuses on accumulation and clonal expansion of mtDNA deletions causing mitochondrial dysfunction and aging."
+        },
+        {
+          "theory_id": "T020058",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Describes clonal expansion of mtDNA mutations and replication errors as primary drivers of aging and carcinogenesis."
+        },
+        {
+          "theory_id": "T019694",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Links accumulation of mtDNA mutations to mitochondrial dysfunction and age-related hearing loss, supporting causal role in aging."
+        },
+        {
+          "theory_id": "T019528",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Focuses on mitochondrial loss of heteroplasmy via clonal expansion of mtDNA mutations leading to functional impairment and aging."
+        },
+        {
+          "theory_id": "T019693",
+          "subcluster_name": "Mitochondrial DNA Mutation-Driven Aging Theory",
+          "reasoning": "Highlights mtDNA mutation accumulation causing bioenergetic mosaicism and energy deficits as fundamental aging mechanisms."
+        },
+        {
+          "theory_id": "T019832",
+          "subcluster_name": "Mitochondrial Quality Control and Turnover Decline Theory",
+          "reasoning": "Emphasizes age-related decline in mitochondrial turnover processes (mitophagy, fusion/fission, biogenesis) leading to accumulation of dysfunctional mitochondria."
+        },
+        {
+          "theory_id": "T019619",
+          "subcluster_name": "Mitochondrial Quality Control and Turnover Decline Theory",
+          "reasoning": "Focuses on failure of mitochondrial quality control pathways including mitophagy and mitochondrial-derived vesicles contributing to aging."
+        },
+        {
+          "theory_id": "T019911",
+          "subcluster_name": "Mitochondrial Quality Control and Turnover Decline Theory",
+          "reasoning": "Describes balance of mitochondrial biogenesis and removal via mitophagy/fission/fusion as critical for aging, with dysfunction promoting neurodegeneration."
+        },
+        {
+          "theory_id": "T019783",
+          "subcluster_name": "Mitochondrial Quality Control and Turnover Decline Theory",
+          "reasoning": "Focuses on mitochondrial dynamics (fusion/fission) regulating mitochondrial health and aging, linking morphology changes to lifespan."
+        },
+        {
+          "theory_id": "T019769",
+          "subcluster_name": "Mitochondrial Quality Control and Turnover Decline Theory",
+          "reasoning": "Highlights PGC-1alpha regulation of mitochondrial biogenesis and function as a key mechanism linking mitochondrial quality control to aging."
+        },
+        {
+          "theory_id": "T019898",
+          "subcluster_name": "Mitochondrial Quality Control and Turnover Decline Theory",
+          "reasoning": "Describes multidimensional mitochondrial dysfunction including bioenergetic failure, ROS, and impaired quality control driving aging."
+        },
+        {
+          "theory_id": "T019808",
+          "subcluster_name": "Mitochondrial Quality Control and Turnover Decline Theory",
+          "reasoning": "Covers mitochondrial dysfunction effects on metabolism, immune signaling, and quality control processes like mitophagy and dynamics in aging."
+        },
+        {
+          "theory_id": "T019875",
+          "subcluster_name": "Mitochondrial Function Plasticity and Metabolic Regulation Theory",
+          "reasoning": "Focuses on genetic perturbations of mitochondrial genes affecting lifespan via metabolic and proteostasis pathways, highlighting mitochondrial function plasticity."
+        },
+        {
+          "theory_id": "T019527",
+          "subcluster_name": "Mitochondrial Function Plasticity and Metabolic Regulation Theory",
+          "reasoning": "Describes extranuclear mitochondrial influence on nuclear longevity genes, showing mitochondrial genotype modulates lifespan via gene expression."
+        },
+        {
+          "theory_id": "T019659",
+          "subcluster_name": "Mitochondrial Function Plasticity and Metabolic Regulation Theory",
+          "reasoning": "Details caloric restriction-induced mitochondrial biogenesis and quality control via SREBP1c/PGC1/MIPEP axis, linking metabolic remodeling to lifespan."
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-10-22 08:50:25"
+}
