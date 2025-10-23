@@ -6,3 +6,4 @@ output/output_legacy/stage1_embeddings_advanced.json filter=lfs diff=lfs merge=l
 output/stage0_filtered_theories.json filter=lfs diff=lfs merge=lfs -text
 theories.db filter=lfs diff=lfs merge=lfs -text
 output/stage1_fuzzy_matched.json filter=lfs diff=lfs merge=lfs -text
+output/stage1_5_llm_mapped.json filter=lfs diff=lfs merge=lfs -text

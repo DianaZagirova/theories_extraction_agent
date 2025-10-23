@@ -1,0 +1,63 @@
+
+  {
+    "doi": "10.1001/archneur.1997.00550220042012",
+    "pmid": "9341569",
+    "title": "Excitotoxic neurodegeneration in Alzheimer disease. New hypothesis and new therapeutic strategies.",
+    "used_full_text": true,
+    "answers": {
+      "aging_biomarker": {
+        "question": "Does paper suggest an aging biomarker (measurable entity reflecting aging pace or health state, associated with mortality or age-related conditions)? If yes, does the text provide quantitative evidence for the association or is the suggestion qualitative or hypothetical (hypothesis/discussion only)?",
+        "answer": "No",
+        "confidence": 0.95,
+        "reasoning": "The paper discusses NMDA receptor hypoactivity as a factor in aging and AD but does not propose or quantitatively show any measurable biomarker reflecting aging pace or health state."
+      },
+      "aging_cannot_be_reversed": {
+        "question": "Does paper contains claim(s) suggesting that aging cannot be reversed?",
+        "answer": "No",
+        "confidence": 0.95,
+        "reasoning": "The paper does not claim that aging cannot be reversed; rather, it discusses potential therapeutic approaches to prevent or arrest neurodegeneration."
+      },
+      "birds_lifespan_explanation": {
+        "question": "Check if lifespan of birds are mentioned. Does paper contains claim(s)/examples/implies explaining why potentially birds (or some specific species) live  longer than mammals (on average)? ",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "There is no discussion or mention of birds or their lifespan in the paper."
+      },
+      "calorie_restriction_lifespan_explanation": {
+        "question": "Check if calorie restriction (CR) is mentioned in the context of lifespan. Does paper contains claim(s)/examples/implies explaining why potentially calorie restriction (CR) increases the lifespan of vertebrates (or some species)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "Calorie restriction and its effects on lifespan are not mentioned or discussed in the paper."
+      },
+      "cross_species_longevity_biomarker": {
+        "question": "Does paper contains claim(s)/examples/implies suggesting a biomarker that predicts maximal lifespan differences between species (i.e., a cross-species longevity biomarker)?",
+        "answer": "No",
+        "confidence": 0.98,
+        "reasoning": "Although the paper references studies in mice, rats, and monkeys regarding NMDA receptor changes with age, it does not suggest any biomarker predicting maximal lifespan differences between species."
+      },
+      "large_animals_lifespan_explanation": {
+        "question": "Check if lifespan is mentioned in the context of body size. Does paper contains claim(s)/examples/implies explaining why potentially large animals (or some species) live longer than small ones (or some species)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "The paper does not discuss lifespan in the context of body size or large animals."
+      },
+      "longevity_intervention_to_test": {
+        "question": "Does paper contains claim(s) suggesting a specific longevity intervention to test?",
+        "answer": "Yes",
+        "confidence": 0.9,
+        "reasoning": "The paper proposes therapeutic strategies targeting NMDA receptor hypoactivity, including pharmacological agents like olanzapine and others that block excitotoxicity, as potential interventions to arrest neurodegeneration in AD."
+      },
+      "molecular_mechanism_of_aging": {
+        "question": "Does paper suggest any molecular mechanism of aging?",
+        "answer": "Yes",
+        "confidence": 0.98,
+        "reasoning": "The paper suggests molecular mechanisms involving NMDA receptor hypoactivity and hyperactivity, oxidative stress, energy metabolism disturbances, and excitotoxicity as contributors to aging-related neurodegeneration."
+      },
+      "naked_mole_rat_lifespan_explanation": {
+        "question": "Check if there are statements about naked mole rat potentially explaining their lifespan. Does paper contains claim(s)/examples/implies explaining why potentially the naked mole rat can live a lot of years (despite its small size)?",
+        "answer": "No",
+        "confidence": 1.0,
+        "reasoning": "The paper does not mention naked mole rats or discuss explanations for their lifespan."
+      }
+    }
+  }
