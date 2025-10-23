@@ -75,7 +75,7 @@
 |----------|-------|-------------|
 | `output/stage0_filtered_theories.json` | Stage 0 | **27,420 theories** (high/medium confidence) with enriched metadata |
 | `output/stage1_fuzzy_matched.json` | Stage 1 | **4,265 theories** fuzzy-matched to ontology (≥95% similarity) |
-| `output/stage1_5_llm_mapped.json` | Stage 1.5 | **8,196 theories** LLM-mapped to canonical names (100% confidence rule) |
+| `output/stage1_5_llm_mapped.json` | Stage 1.5 | **8,196 theories** LLM-mapped to canonical names (100% confidence rule) | 
 | `output/stage2_grouped_theories.json` | Stage 2 | Alphabetically batched and coarsely clustered theories |
 | `output/stage3_refined_theories.json` | Stage 3 | Iteratively refined mappings enforcing ontology alignment |
 | `output/stage4_validated_theories.json` | Stage 4 | ✨ **25,567 valid theories** with ontology mappings or novel names (1,853 invalid removed) |
@@ -84,6 +84,7 @@
 | `output/theory_tracking_report.json` | Tracker | Cross-stage lineage tracking all 27,420 theories through normalization pipeline |
 
 ---
+Note: output/stage1_5_llm_mapped.json exceeded LFS quota :( It is not stored in the remote repo, but could be provided by the request.
 
 ---
 
