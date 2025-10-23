@@ -11,19 +11,19 @@
    [Stage 2 repo](https://github.com/DianaZagirova/scihub_api)
 3. **Stage 3:**
   - Used LLM Judge to select only potentially aging-theory-related papers based on the refined with AI aging-theory-related paper definition
-[Stage 3 repo](https://github.com/DianaZagirova/theories_extraction_agent)
+[Stage 3 repo](https://github.com/DianaZagirova/judge_agent)
 
-3. **Stage 4 (this repo):**
+4. **Stage 4 (this repo):**
   - Uses LLM to extract and normalise theories
 - Uses LLM to answer questions with the papers with valid aging theories 
-[Stage 3 repo](https://github.com/DianaZagirova/theories_extraction_agent)
+[Stage 4 repo](https://github.com/DianaZagirova/theories_extraction_agent)
 
 ## 🎯 Executive Summary
 
 **Mission**: Extract and normalize aging theories from a massive scientific corpus into a high-quality, ontology-aligned knowledge base for the **"Agentic AI Against Aging"** hackathon.
 
 **Scale & Impact**:
-- 📚 **Input**: ~30,000 scientific papers validated by [Stage 3 pipeline](https://github.com/DianaZagirova/theories_extraction_agent) as aging-theory-related (valid/doubted)
+- 📚 **Input**: ~30,000 scientific papers validated by [Stage 3 pipeline](https://github.com/DianaZagirova/theories_extraction_agent) as aging-theory-related (LLM assigned statuses valid/doubted)
 - 📄 **Papers Processed**: 16,594 papers with theories (15,177 full-text + 1,417 abstract-only)
 - 🔬 **Raw Extraction**: **27,595 theory mentions** across the corpus
 - ✨ **After Quality Filter**: 27,420 high/medium confidence theories (175 low-confidence removed)
@@ -126,6 +126,7 @@ Note: output/stage1_5_llm_mapped.json exceeded LFS quota :( It is not stored in 
   ]
 }
 ```
+These 'key_concepts' would be used futher for the mechanisms-based clustering.
 
 ### **Extracted Fields & Their Purpose**
 
@@ -150,7 +151,6 @@ Each theory is assigned a **paper_focus score (1-10)**:
 
 **Final DOI-Theory Mapping**: Only connections with `paper_focus ≥ 6` are retained, ensuring high-quality theory-paper associations. If a paper mentions multiple theories, only the **highest-focus theory** is kept.
 
-**Result**: `output/final_output/final_theory_to_dois_mapping.json` contains **2,141 theories → 15,828 DOIs** with strong evidence links.
 
 ---
 
@@ -208,15 +208,24 @@ graph TB
 **Why This Matters**: Even with "low-confidence" theories removed, we still retain **false positives** and **unnormalized names**. This necessitates the multi-stage normalization pipeline.
 
 ---
+At this stage we have too many unique theories names to be able efficiently to process them.
+The idea of the normalization:
+1 - first try to fast/cheap match well known theories (1 try - fuzzy matching, 2 try - LLM) - Stages 1, 1.5, 2, 3
+2 - when the number of the unique names would be comfortable for the bulk processing, start more expensive/detailed LLM-based matching - Stages 4, 5, 6, 7.
 
 ### **Stage 1: Fuzzy Matching** 🔍
 **Module**: `src/normalization/stage1_fuzzy_matching.py`
 
 **Purpose**: Align theory names to ontology using RapidFuzz.
 
-**Strategy**: Since most theories are expected to be **well-known hub theories**, we first attempt fast fuzzy matching against the expert-curated ontology (`ontology/groups_ontology_alliases.json`).
+**Strategy**: Since most theories are expected to be **well-known hub theories**, we first attempt fast fuzzy matching against the ontology (`ontology/groups_ontology_alliases.json`). 
 
-**Ontology Structure** (LLM-generated + expert-refined):
+The initial ontology was created with several runs of LLM - each run asking to add more theories with the correponding data (mechanisms, alliases, etc). Check (`ontology/group_ontology_mechanisms.json`). 
+
+As LLM trained on the large text corpuses, they tend to generate well-known data, thus they are good in getting an idea of the general structure of the ontology, but this output would lack many minor detailed theories. So, this ontology is used just to quicly map well known names extracted from the papers.
+
+
+**Ontology Structure** (LLM-generated):
 ```json
 {
   "TheoriesOfAging": {
@@ -305,6 +314,8 @@ Top LLM-Mapped Theories:
 ### **Stage 2: Group Normalization** 📦
 **Module**: `src/normalization/stage2_group_normalization.py`
 
+**Goal**: We still have too many unique names to be able to process them efficiently. Thus, continue to group.
+
 **Purpose**: Batch and cluster similar theory variants using LLM.
 
 **Critical Strategy**: At this stage, we still have **too many theories** to validate individually. We need coarse clustering to reduce the search space.
@@ -357,13 +368,16 @@ Example:
 ### **Stage 4: Theory Validation** ✅
 **Module**: `src/normalization/stage4_theory_validation.py`
 
+**Purpose**: To this stage we got optimal number of unique names to be able to process them efficiently. 
+If the name was not mapped to the ontology on the previous stages, it means that it is either novel or invalid.
+
 **Purpose**: Validate theory legitimacy and map to canonical names OR identify as novel.
 
 **Critical Decision Point**: If LLM and code haven't matched a theory to a known name by now, it could be:
 1. **Novel theory** (genuinely new)
 2. **Invalid theory** (too specific, not causal, disease-focused)
 
-**Key Innovation**: Use LLM to validate with **theory criteria + name + paper title + key concepts**. This prevents false positives from name similarity alone.
+**Key Concept**: Use LLM to validate with **theory criteria + name + paper title + key concepts**. This prevents false positives from name similarity alone.
 
 **Validation Criteria** (from Stage 3 pipeline):
 ```python
@@ -459,6 +473,9 @@ Final Status Distribution:
 
 ---
 
+## Final Results (after processing)
+**Result**: `output/final_output/final_theory_to_dois_mapping.json` contains **2,141 theories → 15,828 DOIs** with strong evidence links.
+
 ## 💻 Technologies & Advanced Techniques
 
 ### **LLM Orchestration**
@@ -550,7 +567,7 @@ python src/normalization/stage1_5_llm_assistant_mapping.py \
   --output output/stage1_5_llm_mapped.json
 ```
 
-**Stage 2-7**: See `RUN.md` for detailed commands with hyperparameter tuning.
+**Stage 2-7**: See `RUN_NORMALIZATION.md` for detailed commands with hyperparameter tuning.
 
 ---
 

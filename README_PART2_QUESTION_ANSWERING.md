@@ -6,7 +6,7 @@
 
 ## 🎯 Executive Summary
 
-**Mission**: Answer structured research questions across papers containing validated aging theories, creating a queryable knowledge base for the **"Agentic AI Against Aging"** hackathon.
+**Mission**: Part 2 of the Stage 4: answer structured research questions across papers containing validated aging theories, creating a queryable knowledge base for the **"Agentic AI Against Aging"** hackathon.
 
 **Scale & Impact**:
 - 📚 **Input**: Papers with validated aging theories from Part 1 (2,141 canonical theories)
@@ -18,7 +18,7 @@
 
 ---
 
-## 🏆 Why This Matters for Judges
+## 🏆 Key Features & Innovations
 
 ### **Technical Excellence**
 - ✅ **Intelligent question filtering** using synonym matching to skip irrelevant papers
