@@ -56,7 +56,6 @@ def get_dois_with_low_focus(stage0_data: Dict, max_focus_threshold: int = 6) -> 
 def process_theory_data(
     stage7_consolidated: Dict,
     stage0_filtered: Dict,
-    mapping_standard: Dict[str, str],
     excluded_dois: Set[str] = None
 ) -> Dict[str, List[str]]:
     """
@@ -65,7 +64,6 @@ def process_theory_data(
     Args:
         stage7_consolidated: Stage 7 consolidated theories data
         stage0_filtered: Stage 0 filtered theories data
-        mapping_standard: Standard mapping of DOIs to theory names
         excluded_dois: Set of DOIs to exclude from results
         
     Returns:
@@ -99,12 +97,6 @@ def process_theory_data(
                 doi = theory_id_to_doi[tid]['doi']
                 if doi and doi not in excluded_dois:
                     doi_set.add(doi)
-        
-        # Add DOIs from standard mapping if this is a validated theory
-        if final_name in mapping_standard.values():
-            validated_dois = {doi for doi, name in mapping_standard.items() 
-                             if name == final_name and doi not in excluded_dois}
-            doi_set.update(validated_dois)
         
         if doi_set:
             final_name_to_dois[final_name] = sorted(list(doi_set))
@@ -171,9 +163,6 @@ def main():
                        help='Path to stage7 consolidated theories JSON')
     parser.add_argument('--stage0-input', type=Path, default='output/stage0_filtered_theories.json',
                        help='Path to stage0 filtered theories JSON')
-    parser.add_argument('--mapping-input', type=Path, 
-                       default='data/dois_processing_check/validated_golden_set.json',
-                       help='Path to validated golden set mapping JSON')
     parser.add_argument('--output', type=Path, default='output/final_output/final_theory_to_dois_mapping.json',
                        help='Output JSON file path')
     parser.add_argument('--focus-threshold', type=float, default=6.0,
@@ -191,7 +180,6 @@ def main():
     logger.info("Loading input files...")
     stage7_data = load_json_file(args.stage7_input)
     stage0_data = load_json_file(args.stage0_input)
-    mapping_standard = load_json_file(args.mapping_input)
     
     # Identify DOIs to exclude based on focus threshold
     logger.info(f"Identifying DOIs with max focus <= {args.focus_threshold}...")
@@ -203,7 +191,6 @@ def main():
     final_mapping = process_theory_data(
         stage7_consolidated=stage7_data,
         stage0_filtered=stage0_data,
-        mapping_standard=mapping_standard,
         excluded_dois=excluded_dois
     )
     

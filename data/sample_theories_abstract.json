@@ -1,0 +1,1702 @@
+[
+  {
+    "doi": "10.1007/s12035-021-02640-2",
+    "pmid": "34792731",
+    "title": "Carrying Excess Baggage Can Slowdown Life: Protein Clearance Machineries That Go Awry During Aging and the Relevance of Maintaining Them.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:45:17.505979",
+    "theories": [
+      {
+        "name": "Proteostasis Decline Theory of Aging",
+        "mode": "review, discuss, synthesize",
+        "evidence": "The paper reviews known associations between impaired protein clearance and neurodegenerative diseases like Parkinson's and Alzheimer's, discusses proteome-wide changes during aging, and considers genetic and pharmacological interventions to augment proteostasis.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism explaining how aging occurs via decline in protein quality control systems affecting the whole organism; it addresses fundamental aging processes beyond specific diseases and discusses underlying causes.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Proteostasis Network",
+            "description": "The proteostasis network comprises proteolytic machineries, chaperones, and their regulators that coordinate protein synthesis, folding, transport, and degradation to maintain cellular protein homeostasis."
+          },
+          {
+            "concept": "Age-Related Decline in Proteostasis",
+            "description": "During aging, endogenous and external stresses reduce the capacity of the proteostasis network, leading to impaired clearance of aberrant and aggregated proteins, which compromises proteome integrity and fundamental physiological processes."
+          },
+          {
+            "concept": "Proteostasis and Organismal Aging",
+            "description": "The decline in proteostasis affects organismal functions including reproductive fitness and contributes to age-associated pathological consequences, such as neurodegenerative diseases characterized by protein aggregation."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/s10522-025-10310-2",
+    "pmid": "40844718",
+    "title": "Whole genome sequencing reveals telomere associated genomic differences between healthy and unhealthy aging in a Korean population.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:24:18.115981",
+    "theories": [
+      {
+        "name": "Genomic Instability and Telomere Attrition Theory of Aging",
+        "mode": "test, discuss",
+        "evidence": "Whole genome sequencing comparing healthy and unhealthy agers, telomere length measurements (TelSeq and Computel), germline variant burden analysis, pathway enrichment for oxidative stress mutations, and functional validation using GTEx dataset.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets all criteria: explains fundamental aging processes (genomic instability, telomere attrition) with causal mechanisms, supported by organism-level data, and connects molecular damage to systemic aging differences.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Genomic instability as a driver of aging",
+            "description": "The accumulation of DNA damage and impaired DNA repair mechanisms lead to genomic instability, which is a fundamental cause of aging. This instability results in cellular dysfunction and contributes to the aging phenotype."
+          },
+          {
+            "concept": "Telomere attrition",
+            "description": "Telomeres shorten with age, and their attrition limits cellular replicative capacity, promoting cellular senescence and organismal aging. The rate of telomere shortening is linked to health status during aging."
+          },
+          {
+            "concept": "Oxidative stress and antioxidant defense",
+            "description": "Oxidative stress causes molecular damage contributing to aging, while upregulation of antioxidant enzymes (such as SOD1 and SOD2) can mitigate this damage, promoting healthier aging."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1080/13825585.2025.2474472",
+    "pmid": "40084976",
+    "title": "The effect of age and fluid intelligence on working memory in different modalities among elderly individuals: a moderated mediation analysis.",
+    "validation_result": "valid",
+    "confidence_score": 7,
+    "timestamp": "2025-10-19T18:26:32.660390",
+    "theories": [
+      {
+        "name": "Dedifferentiation theory of cognitive aging",
+        "mode": "test, discuss",
+        "evidence": "Empirical data from 106 healthy older adults performing forward and backward recall tasks across verbal, visuospatial, and tactile modalities, along with fluid intelligence assessment via Raven Colored Progressive Matrices; statistical analyses including moderated mediation models showing modality-specific effects and mediation by fluid intelligence.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable mechanism explaining cognitive aging at the organism level, offers a causal explanation (compensation via fluid intelligence), and addresses broad cognitive aging processes rather than narrow phenomena.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Cognitive compensation",
+            "description": "The theory proposes that as certain cognitive abilities decline with age, other cognitive functions compensate to maintain overall cognitive performance. This compensation reflects a dedifferentiation or reduced specialization among cognitive domains in older adults."
+          },
+          {
+            "concept": "Interrelation of cognitive modalities",
+            "description": "Dedifferentiation suggests that different cognitive modalities (e.g., verbal, visuospatial, tactile) become more interrelated or less distinct in aging, allowing one modality to support or compensate for declines in another."
+          },
+          {
+            "concept": "Role of fluid intelligence",
+            "description": "Fluid intelligence is posited to mediate the relationship between different working memory tasks, acting as a compensatory mechanism that becomes more significant as age increases."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/s11033-022-07459-1",
+    "pmid": "35441939",
+    "title": "The role of nicotinamide mononucleotide (NMN) in anti-aging, longevity, and its potential for treating chronic conditions.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:38:56.227312",
+    "theories": [
+      {
+        "name": "NAD+ Decline and Aging Theory",
+        "mode": "review, discuss",
+        "evidence": "References to recent studies in mice and humans targeting NAD+ metabolism with NAD+ intermediates, including clinical trial findings on NMN's effects on age-related chronic conditions.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism for aging (NAD+ decline) affecting multiple tissues and fundamental cellular processes, with implications for organism-level aging and longevity.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Systemic NAD+ Decline",
+            "description": "NAD+ levels decrease across multiple tissues as organisms age, which is associated with the hallmarks of aging. This decline is proposed as a fundamental aging mechanism affecting organismal homeostasis."
+          },
+          {
+            "concept": "NAD+ Role in Cellular Processes",
+            "description": "NAD+ influences key cellular functions such as metabolic pathways, DNA repair, and immune cell activity. These processes are critical for maintaining cellular and tissue homeostasis, and their impairment contributes to aging."
+          },
+          {
+            "concept": "Therapeutic Potential of NAD+ Restoration",
+            "description": "Restoring NAD+ levels through supplementation with intermediates like nicotinamide mononucleotide (NMN) can delay or reverse age-related disorders, suggesting a causal role of NAD+ depletion in aging and age-associated diseases."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1038/s43587-024-00716-x",
+    "pmid": "39379694",
+    "title": "The brain-body energy conservation model of aging.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:22:58.912977",
+    "theories": [
+      {
+        "name": "Brain-Body Energy Conservation (BEC) Model of Aging",
+        "mode": "propose",
+        "evidence": "The abstract presents a conceptual framework integrating known phenomena such as cellular damage accumulation, cytokine secretion, brain energy management, and systemic aging phenotypes; specific experimental data are not detailed in the abstract.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets all criteria: It proposes a general, organism-level causal mechanism explaining why and how aging occurs via energy metabolism and brain-mediated energy allocation; it is not limited to a single organ or disease and offers an organizing principle for aging.",
+        "paper_focus": 10,
+        "key_concepts": [
+          {
+            "concept": "Energetic cost of cellular aging",
+            "description": "As somatic cells accumulate molecular damage, they activate costly intracellular stress responses, leading to increased cellular energy expenditure and secretion of cytokines signaling hypermetabolism."
+          },
+          {
+            "concept": "Brain as mediator of organismal energy economy",
+            "description": "The brain perceives increased energy demand from senescent cells and acts as a broker to manage the whole-body energy budget, which remains stable or decreases with age despite cellular hypermetabolism."
+          },
+          {
+            "concept": "Energy conservation responses by the brain",
+            "description": "To cope with a shrinking energy budget, the brain suppresses low-priority physiological processes, resulting in fatigue, reduced physical activity, sensory decline, immune changes, and endocrine deficits, which manifest as aging phenotypes."
+          },
+          {
+            "concept": "Modifiability of aging trajectories",
+            "description": "The model proposes energetic principles explaining how aging trajectories can be altered by stressors and geroscience interventions through their impact on energy allocation and brain-mediated responses."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1038/s41569-025-01130-5",
+    "pmid": "39972009",
+    "title": "Roadmap for alleviating the manifestations of ageing in the cardiovascular system.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:47:03.168642",
+    "theories": [
+      {
+        "name": "Hallmarks of Aging Theory",
+        "mode": "discuss, synthesize, provide guidance for future research and clinical trials",
+        "evidence": "References to emerging evidence supporting targeting the circulatory system to restore organ function; discussion of clinical trial design and diagnostic tools to measure biological aging markers.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it addresses fundamental aging mechanisms at the organismal level, proposes causal molecular mechanisms (molecular switches), and discusses broad aging processes beyond a single disease or organ, linking cardiovascular aging to systemic aging.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Molecular switches controlling aging",
+            "description": "The theory posits that specific molecular mechanisms or 'switches' regulate the onset and progression of aging processes. Identifying and modulating these switches could delay or prevent age-associated dysfunction."
+          },
+          {
+            "concept": "Organ-specific and cell-specific aging mechanisms",
+            "description": "Aging is driven by mechanisms that vary across different organs and cell types, which collectively contribute to systemic aging. Understanding these mechanisms in the cardiovascular system is crucial for targeted interventions."
+          },
+          {
+            "concept": "Gerotherapeutics targeting aging hallmarks",
+            "description": "Therapeutic strategies aimed at the fundamental hallmarks of aging can potentially restore organ function and improve healthspan by directly modifying aging processes rather than treating symptoms."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.20944/preprints202502.2221.v1",
+    "pmid": "10.20944/preprints202502.2221.v1",
+    "title": "Neurotropic Viruses as Acute and Insidious Drivers of Aging",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:34:47.555323",
+    "theories": [
+      {
+        "name": "Viral-Induced Accelerated Aging Theory",
+        "mode": "review, synthesize",
+        "evidence": "The paper reviews epidemiological correlations between viral infections and neurodegenerative diseases, and contextualizes findings from multiple basic science studies on viral impacts on cellular stress pathways and aging hallmarks.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism linking viral infections to systemic aging processes, discusses underlying biological pathways, and connects to organism-level aging outcomes.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Viral Pathogenesis as a Driver of Aging",
+            "description": "This concept proposes that both active and latent viral infections contribute to aging by inducing cellular stresses that disrupt homeostasis, leading to irreversible damage and age-related pathologies such as neurodegeneration."
+          },
+          {
+            "concept": "Stress Response Pathways Activation by Viruses",
+            "description": "Viruses trigger multiple stress pathways including dysregulation of protein quality control, DNA damage via integration and epigenetic changes, immune-mediated oxidative stress, immune exhaustion, and energy depletion, which collectively accelerate aging processes."
+          },
+          {
+            "concept": "Interaction with Hallmarks of Aging",
+            "description": "The theory integrates viral effects with established hallmarks of aging, suggesting that viral infections exacerbate these fundamental aging mechanisms, thereby promoting premature aging and age-associated diseases."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.mad.2023.111797",
+    "pmid": "36868323",
+    "title": "Sex differences in markers of oxidation and inflammation. Implications for ageing.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:38:12.257581",
+    "theories": [
+      {
+        "name": "Oxidative-inflammatory theory of ageing",
+        "mode": "discuss, propose",
+        "evidence": "Presentation of sex differences in oxidative and inflammatory markers; discussion of circulating cell-free DNA roles; references to existing literature on oxidative-inflammatory theory.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a general causal mechanism explaining why and how ageing occurs through oxidative and inflammatory processes, applicable at the organism level and addressing lifespan differences; it is not limited to a specific organ or disease.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Oxidative stress as a driver of ageing",
+            "description": "The theory posits that ageing results from the establishment of oxidative stress, which causes molecular and cellular damage over time, contributing to functional decline."
+          },
+          {
+            "concept": "Interplay between oxidative stress and inflammation",
+            "description": "Oxidative stress interacts with the immune system to induce inflammatory stress, creating a feedback loop that exacerbates damage and accelerates ageing."
+          },
+          {
+            "concept": "Sexual dimorphism in oxidative and inflammatory markers",
+            "description": "Differences between males and females in levels of oxidation and basal inflammation may explain sex differences in lifespan, with males generally exhibiting higher oxidative and inflammatory stress."
+          },
+          {
+            "concept": "Circulating cell-free DNA as a marker and mediator",
+            "description": "Cell-free DNA in circulation is proposed as both a marker of oxidative damage and an inducer of inflammation, linking the two processes and potentially serving as a useful biomarker of ageing."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/978-3-030-25650-0_7",
+    "pmid": "31493225",
+    "title": "Dietary Restriction, Cardiovascular Aging and Age-Related Cardiovascular Diseases: A Review of the Evidence.",
+    "validation_result": "doubted",
+    "confidence_score": 5,
+    "timestamp": "2025-10-19T18:54:58.258947",
+    "theories": [
+      {
+        "name": "Dietary Restriction as a Modulator of Cardiovascular Aging",
+        "mode": "review, discuss",
+        "evidence": "The abstract references recent studies demonstrating DR's activation of protective cardiovascular signaling pathways and its anti-aging impacts, though specific experimental details are not provided in the abstract.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "The theory attempts to explain how a fundamental intervention (dietary restriction) modulates aging processes at the organism level, specifically cardiovascular aging, by proposing underlying mechanisms involving key signaling pathways. It addresses aging broadly through cardiovascular aging as a driver of systemic aging and proposes causal mechanisms rather than mere correlations.",
+        "paper_focus": 8,
+        "key_concepts": [
+          {
+            "concept": "Dietary Restriction (DR)",
+            "description": "DR includes calorie restriction (CR) and alternate-day fasting (ADF), which are nutritional interventions shown to have anti-aging effects by modulating biological pathways involved in aging."
+          },
+          {
+            "concept": "Cardiovascular Protective Signaling Network",
+            "description": "DR activates a network of cardiovascular protective signals including mTOR, AMP-activated kinase, sirtuins, and endothelial nitric oxide synthase, which interact through positive and negative feedback loops to mediate stress responses and potentially slow cardiovascular aging."
+          },
+          {
+            "concept": "Cardiovascular Aging and Age-Related Diseases",
+            "description": "Cardiovascular aging contributes to increased morbidity and mortality from cardiovascular diseases, and DR is proposed as an intervention to control this aging process and manage cardiovascular health."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1101/2024.12.16.628669",
+    "pmid": "10.1101/2024.12.16.628669",
+    "title": "Metformin inhibits nuclear egress of chromatin fragments in senescence and aging",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:35:45.571627",
+    "theories": [
+      {
+        "name": "Chromatin Fragment Nuclear Egress Theory of Senescence-Associated Inflammation",
+        "mode": "propose, test",
+        "evidence": "Experimental data showing that inactivation of nuclear egress proteins leads to accumulation of chromatin fragments at the nuclear membrane and impaired cGAS-STING activation; metformin treatment reduces ALIX protein levels and chronic inflammation in aged mice intestines.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a general causal mechanism linking chromatin fragment nuclear egress to systemic chronic inflammation, a hallmark of aging, and connects metabolism to aging processes. It addresses a fundamental aging mechanism beyond a single organ or disease.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Cytoplasmic Chromatin Fragments (CCFs) in Senescence",
+            "description": "Senescent cells and aged tissues release chromatin fragments into the cytoplasm, which activate the cGAS-STING pathway, driving chronic inflammation, a hallmark of aging."
+          },
+          {
+            "concept": "Nuclear Egress as a Mechanism for CCF Export",
+            "description": "Chromatin fragments exit the nucleus via nuclear egress, a membrane trafficking process involving the nuclear envelope and ESCRT-III/Torsin proteins, allowing large complexes to shuttle from nucleus to cytoplasm."
+          },
+          {
+            "concept": "Metabolic Regulation of Nuclear Egress",
+            "description": "Nutrient sensing pathways, particularly AMPK activation by glucose limitation or metformin treatment, inhibit nuclear egress by promoting autophagic degradation of ESCRT-III component ALIX, thereby reducing CCF cytoplasmic presence and inflammation."
+          },
+          {
+            "concept": "Linking Metabolism, Inflammation, and Aging",
+            "description": "The theory connects nutrient sensing and chronic inflammation mechanisms, suggesting that metabolic interventions can modulate a fundamental aging process by controlling nuclear egress of chromatin fragments."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1134/S0006297920120044",
+    "pmid": "33705290",
+    "title": "Importance and Meaning of TERRA Sequences for Aging Mechanisms.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:30:16.434776",
+    "theories": [
+      {
+        "name": "Subtelomere-Telomere Theory of Adaptive Aging",
+        "mode": "propose, discuss",
+        "evidence": "The theory references documented characteristics of TERRA sequences and their regulatory roles; it builds on known telomere biology and telomerase regulation; evolutionary reasoning is used to argue adaptiveness.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets all criteria: it proposes a general, organism-level mechanism explaining how aging occurs via telomere dynamics and subtelomeric repression; it provides a causal mechanism linking telomere shortening to cellular senescence and organismal aging; it addresses aging broadly and includes evolutionary logic.",
+        "paper_focus": 10,
+        "key_concepts": [
+          {
+            "concept": "Telomeric Hood and Telomere Shortening",
+            "description": "Each telomere is covered by a 'hood' formed in the first cell of an organism, which maintains its size through cell divisions. Telomere shortening causes this hood to slide onto the subtelomere region, repressing it via the telomeric position effect."
+          },
+          {
+            "concept": "Subtelomeric Regulatory Sequences and TERRA",
+            "description": "The theory postulates the existence of subtelomeric regulatory sequences whose progressive repression by the telomeric hood leads to cellular alterations. These sequences correspond to TElomeric Repeat-containing RNA (TERRA), whose repression affects gene regulation and cellular functions."
+          },
+          {
+            "concept": "Cellular Senescence and Reversibility",
+            "description": "Repression of TERRA sequences increases the probability of activating the cell senescence program, causing replication arrest and functional alterations. Partial repression leads to reversible cellular dysfunctions that can be mitigated by telomerase activation."
+          },
+          {
+            "concept": "Adaptive Evolutionary Role of Telomeric Location",
+            "description": "The evolutionary placement of these regulatory sequences in subtelomeric regions, vulnerable to repression by the telomeric hood, is argued to be adaptive, serving the specific function of determining aging at the cellular and organismal level."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.arr.2021.101458",
+    "pmid": "34500043",
+    "title": "A common signature of cellular senescence; does it exist?",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:51:04.248292",
+    "theories": [
+      {
+        "name": "Cellular Senescence Theory of Aging",
+        "mode": "discuss, synthesize",
+        "evidence": "The abstract references accumulated knowledge about senescent cells in various cell types, their secretory phenotype, DNA damage signaling, and cell cycle dynamics. It synthesizes these findings to propose a common signature of cellular senescence.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "The theory explains a fundamental biological aging process at the organismal level by proposing mechanisms (cell cycle arrest, SASP, DNA damage) that causally contribute to aging and age-related diseases. It is generalizable across cell types and links cellular changes to systemic aging effects.",
+        "paper_focus": 10,
+        "key_concepts": [
+          {
+            "concept": "Cell cycle arrest",
+            "description": "Cellular senescence is characterized by an irreversible arrest of the cell cycle, typically in G0, G1, or G2 phases, preventing further cell division. This arrest is a fundamental feature that distinguishes senescent cells from proliferating cells."
+          },
+          {
+            "concept": "Senescence-associated secretory phenotype (SASP)",
+            "description": "Senescent cells secrete a variety of pro-inflammatory cytokines, growth factors, and proteases collectively known as SASP, which contribute to aging and aging-related diseases by affecting tissue microenvironments and systemic inflammation."
+          },
+          {
+            "concept": "DNA damage and nuclear changes",
+            "description": "DNA damage, alterations in nuclear architecture, and chromatin remodeling are key signaling events that induce and maintain the senescent state, leading to changes in gene expression and SASP production."
+          },
+          {
+            "concept": "Gero Stage (GS) and permanent proliferation arrest",
+            "description": "Beyond temporary cell cycle arrest, cells may exit the cycle into a state termed GS, ensuring irreversible cessation of proliferation. This may involve processes like polyploidization or depolyploidization, consolidating the senescent phenotype."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1080/13607863.2023.2207467",
+    "pmid": "37132430",
+    "title": "Association between driving frequency and well-being among older adults.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:37:51.354252",
+    "theories": [
+      {
+        "name": "Activity theory of aging",
+        "mode": "test, discuss",
+        "evidence": "Analysis of data from the 2018 National Health and Aging Trends Study using logistic regression to associate driving frequency with well-being measures.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a psychosocial aging theory explaining how and why aging individuals' well-being is influenced by activity levels, with generalizability to older adults broadly and causal implications about activity affecting aging outcomes.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Active engagement",
+            "description": "The theory posits that maintaining active participation in social and productive activities leads to higher well-being and successful aging. It emphasizes that older adults who remain active experience better psychosocial outcomes."
+          },
+          {
+            "concept": "Social capital and independence",
+            "description": "Driving is conceptualized as a form of independence that facilitates social engagement and access to resources, which in turn supports well-being in older adults."
+          },
+          {
+            "concept": "Frequency of activity matters",
+            "description": "Not just participation but the frequency of engagement in activities (such as driving) is important for enhancing well-being among older adults."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/s10522-024-10130-w",
+    "pmid": "39196437",
+    "title": "Immunoinformatic-based drug design utilizing hesperetin to target CISD2 activation for liver aging in humans.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:49:09.217189",
+    "theories": [
+      {
+        "name": "CISD2-mediated cellular maintenance theory of aging",
+        "mode": "discuss, propose (therapeutic targeting), synthesize",
+        "evidence": "In silico docking studies showing HST as a CISD2 activator; literature linking CISD2 to longevity, cellular homeostasis, and age-related metabolic dysfunction; associations with oxidative stress and metabolic disorders.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism for aging at the cellular and organismal level via CISD2’s role in maintaining cellular homeostasis and mitigating age-related decline; it connects molecular mechanisms to systemic aging and longevity.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "CISD2 as a regulator of cellular homeostasis",
+            "description": "CISD2 protein regulates intracellular calcium levels and maintains the integrity and function of the endoplasmic reticulum and mitochondria, which are critical for cellular health and longevity."
+          },
+          {
+            "concept": "Age-related decline of CISD2 expression",
+            "description": "CISD2 expression decreases with age, leading to impaired cellular functions such as disrupted calcium homeostasis, increased oxidative stress, and metabolic dysregulation, which contribute to aging and age-related diseases."
+          },
+          {
+            "concept": "CISD2’s protective role against age-related cellular stress",
+            "description": "By maintaining organelle integrity and regulating translation factors like Nrf2 and IL-6, CISD2 protects cells from oxidative and metabolic stress, thereby promoting cellular longevity and healthy liver aging."
+          },
+          {
+            "concept": "Pharmacological activation of CISD2 by hesperetin",
+            "description": "Hesperetin (HST) is proposed as a CISD2 activator that can modulate metabolic pathways to counteract metabolic dysfunction and age-related illnesses, highlighting a potential therapeutic intervention targeting CISD2 to promote healthy aging."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1146/annurev-med-042423-042542",
+    "pmid": "39531852",
+    "title": "Healthy and Unhealthy Aging and the Human Microbiome.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:34:16.530519",
+    "theories": [
+      {
+        "name": "Gut Microbiome Influence on Aging Theory",
+        "mode": "review, discuss, synthesize",
+        "evidence": "Summary of known and possible effects from existing literature on microbiome changes with age and their impact on hallmarks of aging; no new experimental data presented in abstract.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism (microbiome changes) influencing systemic aging processes, discusses underlying mechanisms affecting multiple aging hallmarks, and addresses aging broadly rather than a narrow disease or organ.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Microbiome composition changes with age",
+            "description": "The gut microbiome undergoes compositional shifts as biological age increases, characterized by a differential loss of beneficial commensal microbes and an increase in potentially harmful pathobionts."
+          },
+          {
+            "concept": "Microbiome impacts hallmarks of aging",
+            "description": "The gut microbiome affects key biological processes linked to aging, including host metabolism, immune function, and possibly neurological function, thereby influencing systemic aging mechanisms."
+          },
+          {
+            "concept": "Microbiome as a modulator of healthspan",
+            "description": "Targeting and maintaining a healthy gut microbiome composition could modulate aging processes and prolong healthspan by mitigating age-related health decline."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.neurobiolaging.2024.10.002",
+    "pmid": "39405796",
+    "title": "The histone acylation reader ENL/AF9 regulates aging in Drosophila melanogaster.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:20:41.310751",
+    "theories": [
+      {
+        "name": "Histone crotonylation reader regulation of aging",
+        "mode": "test, propose novel function",
+        "evidence": "Experimental knockdown of dENL/AF9 in Drosophila neurons with lifespan extension, improved fitness measures, gene expression changes (catalase upregulation), decreased oxidative damage (MDA levels), and increased oxidative stress tolerance.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism linking histone crotonylation reading to aging regulation at the organismal level, supported by mechanistic evidence and effects on lifespan and aging phenotypes.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Histone acylation and gene expression",
+            "description": "Histone acylation, including crotonylation, modulates gene expression by altering chromatin structure and accessibility, which in turn affects cellular functions such as neurogenesis and response to signals."
+          },
+          {
+            "concept": "Role of YEATS domain proteins as histone crotonylation readers",
+            "description": "YEATS domain-containing proteins (such as ENL/AF9) preferentially recognize crotonylated lysines on histones, acting as readers that translate this epigenetic mark into downstream gene regulatory effects."
+          },
+          {
+            "concept": "Neuronal ENL/AF9 influences organismal aging",
+            "description": "Knockdown of neuronal ENL/AF9 in Drosophila extends lifespan and improves aging-related phenotypes like sleep and locomotion, suggesting a causal role of histone crotonylation reading in systemic aging regulation."
+          },
+          {
+            "concept": "Oxidative stress modulation via gene regulation",
+            "description": "Reduced ENL/AF9 activity upregulates catalase expression, decreases oxidative damage markers (MDA), and enhances oxidative stress tolerance, linking epigenetic regulation to aging-related oxidative stress mechanisms."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.2174/1389450116666151102095825",
+    "pmid": "26521771",
+    "title": "AMPK Function in Aging Process.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:48:06.990758",
+    "theories": [
+      {
+        "name": "AMPK-mediated metabolic regulation theory of aging",
+        "mode": "review",
+        "evidence": "The paper reviews molecular pathways regulated by AMPK related to aging, citing conserved genetic and biochemical pathways, and discusses links to mitochondrial dysfunction, metabolic deregulation, cell senescence, and autophagy.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "The theory attempts to explain aging as a fundamental process through conserved metabolic regulation mechanisms, proposes causal pathways (AMPK regulation of metabolism, mitochondrial function, senescence, autophagy), and addresses aging broadly rather than a narrow phenomenon.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "AMPK as a metabolic sensor and cellular housekeeper",
+            "description": "AMPK is a conserved protein that senses cellular energy status and regulates metabolic homeostasis. It acts to maintain energy balance and promotes cellular health by coordinating responses to metabolic stress."
+          },
+          {
+            "concept": "Regulation of mitochondrial function",
+            "description": "AMPK influences mitochondrial health and function, which is critical because mitochondrial dysfunction is a hallmark of aging and contributes to physiological decline."
+          },
+          {
+            "concept": "Control of cell senescence and autophagy",
+            "description": "AMPK modulates processes such as cellular senescence and autophagy, both of which are key mechanisms implicated in aging. Proper regulation of these processes can delay aging-related deterioration."
+          },
+          {
+            "concept": "Link between metabolic deregulation and aging",
+            "description": "Disruption in metabolic pathways regulated by AMPK contributes to aging and age-related diseases, suggesting that AMPK activity is causally connected to the aging process."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.2174/13816128113199990498",
+    "pmid": "23859546",
+    "title": "The effects of soluble Aβ oligomers on neurodegeneration in Alzheimer's disease.",
+    "validation_result": "doubted",
+    "confidence_score": 5,
+    "timestamp": "2025-10-19T18:54:30.673773",
+    "theories": [
+      {
+        "name": "Aging Factor Cascade Hypothesis",
+        "mode": "propose",
+        "evidence": "The proposal is based on recent research findings and the limitations of amyloid cascade hypothesis-based therapies, though specific experimental evidence is not detailed in the abstract.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Appears to meet criteria as it proposes a general aging-related framework explaining how aging factors contribute causally to neurodegeneration and AD progression, with potential organism-level implications.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Integration of Aging and Disease Mechanisms",
+            "description": "This newly proposed framework attempts to integrate recent data and concepts linking aging processes with Alzheimer's disease pathology, suggesting that aging factors cascade to influence disease progression."
+          },
+          {
+            "concept": "Disease-Modifying Therapeutic Development",
+            "description": "The hypothesis aims to provide a novel conceptual basis for developing therapies that modify disease progression by targeting aging-related mechanisms rather than solely amyloid pathology."
+          }
+        ]
+      },
+      {
+        "name": "Amyloid Cascade Hypothesis",
+        "mode": "discuss, critique",
+        "evidence": "Citations of in vitro and in vivo studies showing synaptic dysfunction caused by soluble Aβ oligomers; transgenic mouse models with amyloid plaque pathology; novel animal model demonstrating neurodegenerative effects of soluble Aβ oligomers.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a general causal mechanism for neurodegeneration in AD linked to aging-related cognitive decline, addressing fundamental processes at organismal brain level, not limited to a narrow phenomenon.",
+        "paper_focus": 8,
+        "key_concepts": [
+          {
+            "concept": "Soluble Amyloid-β Oligomers as Neurotoxic Agents",
+            "description": "This concept posits that soluble low-molecular-weight amyloid-β (Aβ) oligomers trigger synaptic dysfunction and contribute to neurodegeneration in Alzheimer's disease. These oligomers impair synaptic function before neuronal death occurs, correlating with cognitive deficits."
+          },
+          {
+            "concept": "Progression from Synaptic Dysfunction to Neuronal Death",
+            "description": "The hypothesis describes a cascade where synaptic alterations and loss precede and potentially cause neuronal death, particularly in brain regions critical for memory such as the entorhinal cortex and hippocampus."
+          },
+          {
+            "concept": "Amyloid Plaque Pathology and Its Limitations",
+            "description": "While amyloid plaques are a hallmark of AD, transgenic mouse models overexpressing Aβ show plaques and early synaptic changes but fail to fully replicate the pattern of neuronal loss seen in human AD, suggesting limitations in the hypothesis or models."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1038/s43587-025-00888-0",
+    "pmid": "40588649",
+    "title": "Nonuniversality of inflammaging across human populations.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:25:58.898709",
+    "theories": [
+      {
+        "name": "Inflammaging theory",
+        "mode": "test, critique",
+        "evidence": "Comparative analysis of cytokine profiles from four human populations (two industrialized and two indigenous nonindustrialized) showing differences in inflammaging axis structure and associations with age and health outcomes.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it attempts to explain a fundamental aging process (chronic inflammation) with proposed causal mechanisms (inflammatory cytokines), addresses aging broadly, and tests generalizability across populations.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Chronic low-grade inflammation as hallmark of aging",
+            "description": "Inflammaging refers to the age-associated increase in chronic systemic inflammation, which is proposed to contribute causally to the aging process and age-related diseases."
+          },
+          {
+            "concept": "Inflammaging measurable by circulating cytokines",
+            "description": "The theory posits that inflammaging can be quantified by analyzing patterns or axes of circulating inflammatory cytokines, which reflect systemic inflammatory status linked to aging."
+          },
+          {
+            "concept": "Environmental and population variability in inflammaging",
+            "description": "The theory implies inflammaging is a generalizable aging mechanism, but this paper challenges that by showing inflammaging signatures vary markedly across populations and environments, suggesting it may not be universal."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1242/jcs.264018",
+    "pmid": "40814955",
+    "title": "Energy deprivation in youth and old age.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:48:09.161734",
+    "theories": [
+      {
+        "name": "Aberrant chronic activation of the fasting response theory of aging",
+        "mode": "propose",
+        "evidence": "The paper presents a mechanistic hypothesis based on known molecular pathways (JNK, AMPK, Foxo, autophagy) and their roles in fasting and mitochondrial dysfunction, supported by citations to established biology of fasting responses and aging-related mitochondrial decline. No new experimental data is presented in the abstract.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets all criteria: It proposes a generalizable causal mechanism explaining how aging occurs at the organism level through chronic activation of a conserved energy-sensing pathway. It links mitochondrial dysfunction (a known hallmark of aging) to systemic aging phenotypes via dysregulated autophagy and stress signaling, thus providing a mechanistic explanation rather than mere correlation. The scope is broad, addressing general aging processes and age-related pathologies.",
+        "paper_focus": 10,
+        "key_concepts": [
+          {
+            "concept": "Adaptive fasting response in youth",
+            "description": "In young organisms, energy deprivation due to fasting triggers a conserved adaptive response involving oxidation of the cytoplasm, activation of redox-sensitive kinases (JNK, AMPK), and Foxo transcription factors, which together induce autophagy. This response helps survival by providing metabolic substrates and removing damaged organelles, thereby increasing lifespan during acute nutrient deprivation."
+          },
+          {
+            "concept": "Chronic energy deprivation in old age due to mitochondrial dysfunction",
+            "description": "In aged organisms, cells experience constitutive energy deprivation not from lack of nutrients but from accumulated mitochondrial dysfunction, leading to persistent activation of the fasting response pathways (JNK, AMPK, Foxo, autophagy). Unlike the adaptive acute fasting response, this chronic activation fails to restore ATP production and becomes deleterious."
+          },
+          {
+            "concept": "Aberrant fasting response as a causal driver of age-related pathologies",
+            "description": "The chronic, maladaptive activation of the fasting response in old age contributes causally to multiple age-related diseases and conditions such as oxidative stress, neurodegeneration, and sarcopenia, linking mitochondrial insufficiency and dysregulated autophagy to systemic aging phenotypes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.cell.2025.06.047",
+    "pmid": "40713952",
+    "title": "Comprehensive human proteome profiles across a 50-year lifespan reveal aging trajectories and signatures.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:50:26.422540",
+    "theories": [
+      {
+        "name": "Proteostasis Decline Theory of Aging",
+        "mode": "discuss, synthesize, propose candidate drivers",
+        "evidence": "Comprehensive proteomic and histological analysis of 516 samples from 13 human tissues across five decades; identification of amyloid accumulation; development of tissue-specific proteomic age clocks; temporal aging trajectories; plasma proteomic signatures; identification of candidate senoproteins.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable, causal mechanism (proteostasis decline and senoproteins) underlying systemic aging, supported by multi-tissue data and temporal dynamics; connects molecular changes to organism-level aging trajectories.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Proteostasis decline",
+            "description": "Aging is characterized by a decline in the maintenance of protein homeostasis, leading to the accumulation of misfolded or aggregated proteins such as amyloids, which impair cellular and tissue function."
+          },
+          {
+            "concept": "Transcriptome-proteome decoupling",
+            "description": "During aging, the correlation between mRNA levels and protein abundance weakens, indicating dysregulation in protein synthesis, folding, and degradation processes that contribute to aging phenotypes."
+          },
+          {
+            "concept": "Senoproteins driving systemic aging",
+            "description": "Specific proteins, termed senoproteins (e.g., GAS6), accumulate or change in aging tissues and plasma, potentially acting as causal drivers of vascular and systemic aging processes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/s10522-017-9737-1",
+    "pmid": "29177687",
+    "title": "Epigenetic factors Polycomb (Pc) and Suppressor of zeste (Su(z)2) negatively regulate longevity in Drosophila melanogaster.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:25:52.633374",
+    "theories": [
+      {
+        "name": "Epigenetic regulation of aging via Polycomb group proteins",
+        "mode": "propose, test, discuss",
+        "evidence": "Genetic mutations and inducible knockdown experiments in Drosophila demonstrating increased lifespan and altered aging rates; tissue-specific knockdown experiments; observations on oxidative stress response.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism (epigenetic regulation by PcG proteins) underlying aging at the organism level, supported by experimental evidence in a model organism, and addresses fundamental aging processes rather than a narrow disease or organ-specific effect.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Epigenetic control of longevity",
+            "description": "Epigenetic factors such as Polycomb (PcG) and trithorax (trxG) protein complexes regulate gene expression profiles that influence aging and lifespan. These complexes maintain developmental gene expression and cellular processes that impact aging rates."
+          },
+          {
+            "concept": "Polycomb repressive complex 1 (PRC1) components influence lifespan",
+            "description": "Mutations in PRC1 components Pc and Su(z)2 increase survival and retard aging in Drosophila, suggesting these proteins negatively regulate longevity. This indicates a causal role of epigenetic repression in aging."
+          },
+          {
+            "concept": "Tissue-specific effects of epigenetic regulators",
+            "description": "Knockdown of Pc and Su(z)2 in the fat body, but not muscle or brain, enhances lifespan, implying that epigenetic regulation of aging is tissue-specific and may involve distinct pathways."
+          },
+          {
+            "concept": "Epigenetic regulators affect oxidative stress response",
+            "description": "Pc and Su(z)2 influence lifespan potentially through pathways independent of canonical PRC1 functions, with distinct effects on oxidative stress response, linking epigenetic regulation to a known aging-related mechanism."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/978-3-030-65943-1_8",
+    "pmid": "34424518",
+    "title": "The Idiosyncratic Physiological Traits of the Naked Mole-Rat; a Resilient Animal Model of Aging, Longevity, and Healthspan.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:20:03.959723",
+    "theories": [
+      {
+        "name": "Physiological Resilience and Low Metabolic Rate Theory of Aging",
+        "mode": "review, discuss",
+        "evidence": "Review of physiological traits and demographic data showing negligible aging signs in naked mole-rats; references to their unusual tolerance to environmental stressors and stable physiological parameters with age.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal explanation for aging resistance based on physiological and metabolic mechanisms that affect the organism as a whole, not limited to a single organ or disease.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Low Basal Metabolic Activity as Protective Mechanism",
+            "description": "Naked mole-rats maintain low body temperature, metabolic rate, cardiac output, and kidney concentrating ability under basal conditions, which reduces physiological stress and protects organs and cellular functions from damage, potentially slowing aging processes."
+          },
+          {
+            "concept": "Ability to Rapidly Increase Physiological Functions",
+            "description": "Despite low basal activity, naked mole-rats can rapidly ramp up metabolism and cardiac output 2-5 fold when needed, indicating a flexible physiological system that balances energy conservation with functional demands, contributing to resilience against age-related decline."
+          },
+          {
+            "concept": "Resistance to Age-Related Physiological Deterioration",
+            "description": "Naked mole-rats show negligible changes in lean and fat mass, bone quality, reproductive capacity, and demographic mortality even at ages far beyond expected lifespan, suggesting mechanisms that prevent typical age-associated physiological decline."
+          },
+          {
+            "concept": "Adaptation to Harsh Environmental Conditions",
+            "description": "Their tolerance to hypoxia, hypercapnia, thermolability, and toxins may be linked to systemic protective mechanisms that also confer longevity and healthspan benefits, indicating an evolutionary adaptation that impacts aging."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.26355/eurrev_201902_17146",
+    "pmid": "30840309",
+    "title": "Sesamin suppresses aging phenotypes in adult muscular and nervous systems and intestines in a Drosophila senescence-accelerated model.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:23:03.293933",
+    "theories": [
+      {
+        "name": "Oxidative damage accumulation theory of aging",
+        "mode": "test, discuss",
+        "evidence": "The paper presents experimental evidence from Drosophila senescence-accelerated models showing that sesamin feeding reduces ROS accumulation, decreases damaged protein buildup, protects dopaminergic neurons, suppresses DNA damage and intestinal stem cell hyperproliferation, and upregulates antioxidative and DNA repair genes, resulting in lifespan extension.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a causal mechanism (oxidative damage accumulation) underlying general aging processes across multiple tissues, supported by intervention and mechanistic data in a model organism.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Reactive oxygen species (ROS) accumulation",
+            "description": "The theory posits that aging results from the accumulation of oxidative damage caused by reactive oxygen species, which impair cellular and tissue function over time."
+          },
+          {
+            "concept": "Damage to proteins, DNA, and cells",
+            "description": "Oxidative stress leads to the buildup of damaged proteins and DNA lesions, contributing to functional decline in multiple tissues including muscle, brain, and intestine."
+          },
+          {
+            "concept": "Antioxidative defense and DNA repair mechanisms",
+            "description": "Upregulation of antioxidative enzymes and DNA repair pathways can mitigate oxidative damage, thereby slowing aging phenotypes and extending lifespan."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.exger.2025.112826",
+    "pmid": "40617521",
+    "title": "Exploring age-related iron dysregulation: effects on longevity, body size, and behavior in C. elegans.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:43:02.795205",
+    "theories": [
+      {
+        "name": "Iron dysregulation as a causal mechanism of aging",
+        "mode": "test, discuss",
+        "evidence": "Lifespan assays of iron regulatory gene mutants, mobility and behavioral tests, gene expression analysis over lifespan, and iron accumulation staining (FerroOrange) in C. elegans.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism (iron dysregulation) underlying aging at the organism level, supported by mechanistic genetic and phenotypic data, and addresses multiple aging traits beyond a single organ or disease.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Age-related iron accumulation",
+            "description": "Iron accumulates in organisms as they age, which impacts physiological processes broadly. This accumulation is proposed to influence systemic aging by disrupting iron homeostasis."
+          },
+          {
+            "concept": "Iron regulatory genes influence lifespan and aging phenotypes",
+            "description": "Genes regulating iron uptake and homeostasis, such as smf-1, smf-3, and zipt-17, modulate longevity, mobility, body size, and behavior in C. elegans, suggesting iron regulation is a fundamental aging mechanism."
+          },
+          {
+            "concept": "Iron homeostasis affects multiple aging-related traits",
+            "description": "Altered iron metabolism affects diverse organism-level traits including lifespan, mobility decline, body size changes, and sensory behavior, indicating a systemic role of iron regulation in aging."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.mrgentox.2023.503617",
+    "pmid": "37188431",
+    "title": "Links between telomere dysfunction and hallmarks of aging.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:33:37.687744",
+    "theories": [
+      {
+        "name": "Telomere Dysfunction Theory of Aging",
+        "mode": "review, discuss, synthesize",
+        "evidence": "The paper is a review summarizing existing literature on telomere dysfunction and its connections to other aging hallmarks and diseases; no new experimental data presented.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets all criteria: It proposes a generalizable causal mechanism (telomere dysfunction) underlying aging at the organism level, discusses its broad scope beyond single organs or diseases, and integrates it with other aging hallmarks.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Telomere shortening and dysfunction",
+            "description": "Telomeres, the protective caps at the ends of chromosomes, progressively shorten with each cell division, leading to dysfunction that triggers cellular senescence or apoptosis, contributing to organismal aging."
+          },
+          {
+            "concept": "Interrelationship with other aging hallmarks",
+            "description": "Telomere dysfunction interacts with other molecular and cellular hallmarks of aging, such as genomic instability, epigenetic alterations, and cellular senescence, forming a coordinated network driving the aging process."
+          },
+          {
+            "concept": "Contribution to age-related diseases",
+            "description": "Telomere dysfunction is implicated in the initiation and progression of major age-related diseases including neurodegeneration, cardiovascular disease, and cancer, linking molecular aging mechanisms to clinical outcomes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/s10522-024-10132-8",
+    "pmid": "39196438",
+    "title": "Mitochondria: fundamental characteristics, challenges, and impact on aging.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:45:01.704975",
+    "theories": [
+      {
+        "name": "Mitochondrial dysfunction theory of aging",
+        "mode": "review",
+        "evidence": "The paper provides a comprehensive review of past and present knowledge, citing research progress and therapies targeting mitochondria in various conditions, and discusses mitochondrial characteristics and their impact on aging.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "The theory attempts to explain a fundamental biological aging process by proposing mitochondrial dysfunction as a causal mechanism underlying organismal aging. It is generalizable beyond specific diseases or organs and addresses aging broadly. Therefore, it meets all core criteria for an aging theory.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Mitochondrial dynamics and damage susceptibility",
+            "description": "Mitochondria continuously undergo dynamic processes such as fission, fusion, and biogenesis throughout an organism's lifespan. Due to their intrinsic properties and exposure to external factors, mitochondria are highly vulnerable to accumulating damage over time."
+          },
+          {
+            "concept": "Link between mitochondrial dysfunction and aging",
+            "description": "The decline in biological function observed during aging is closely associated with mitochondrial dysfunction, suggesting that mitochondrial health is a critical determinant of the aging process at the organismal level."
+          },
+          {
+            "concept": "Mitochondria-nuclear DNA interactions",
+            "description": "Mitochondria interact with nuclear DNA, and these interactions may influence aging mechanisms, reflecting complex intracellular communication that impacts cellular and organismal aging."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.freeradbiomed.2023.07.018",
+    "pmid": "37473875",
+    "title": "Expanded bioinformatic analysis of Oximouse dataset reveals key putative processes involved in brain aging and cognitive decline.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:39:08.229114",
+    "theories": [
+      {
+        "name": "Reactive Oxygen Species (ROS) Damage Theory of Aging",
+        "mode": "discuss, critique",
+        "evidence": "The paper references historical dominance of this theory in geroscience and contrasts it with newer evidence about ROS roles in signaling.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it is a generalizable, causal explanation of aging mechanisms at organismal level, addressing fundamental aging processes.",
+        "paper_focus": 7,
+        "key_concepts": [
+          {
+            "concept": "ROS as drivers of aging",
+            "description": "This concept posits that reactive oxygen species generated by oxidative metabolism cause cumulative damage to biomolecules, leading to aging and functional decline."
+          },
+          {
+            "concept": "Oxidative damage to proteins",
+            "description": "ROS induce irreversible oxidative modifications in proteins, impairing their function and contributing to cellular and tissue aging."
+          }
+        ]
+      },
+      {
+        "name": "Redox Signaling Theory of Aging",
+        "mode": "propose, discuss, synthesize",
+        "evidence": "Comprehensive bioinformatics analysis of cysteine oxidation in mouse brain aging using Oximouse dataset; identification of hundreds of putative redox switches in aging-related pathways.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a mechanistic, generalizable explanation for aging involving redox regulation at the proteome level, with implications for systemic brain aging.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "ROS as physiological regulators",
+            "description": "Contrary to purely damaging roles, ROS reversibly oxidize cysteine residues in proteins, modulating their function and regulating cellular processes."
+          },
+          {
+            "concept": "Selective cysteine oxidation changes with age",
+            "description": "Aging involves specific, targeted changes in cysteine oxidation states in key proteins rather than a global increase in oxidative damage."
+          },
+          {
+            "concept": "Impact on pathways linked to aging",
+            "description": "Redox modifications affect pathways such as ubiquitin-proteasome system, one-carbon metabolism, mitochondrial transition pore regulation, and synaptic calcium homeostasis, which are implicated in brain aging and cognitive decline."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/s12010-023-04423-y",
+    "pmid": "36930406",
+    "title": "Gut Microbiota and Its Role in Anti-aging Phenomenon: Evidence-Based Review.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:43:21.007539",
+    "theories": [
+      {
+        "name": "Gut Microbiota Influence on Aging Theory",
+        "mode": "review, discuss",
+        "evidence": "Citations of various studies showing correlations between gut microbiota changes and aging, including effects on longevity, immunity, and age-related diseases.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism linking gut microbiota dynamics to systemic aging processes, addressing fundamental aging mechanisms beyond specific diseases or organs.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Age-associated gut microbiota diversity decline",
+            "description": "With increasing age, the richness and diversity of gut microbial species sharply decline, which is linked to unhealthy aging and reduced longevity."
+          },
+          {
+            "concept": "Microbial shift from commensal to pathogenic",
+            "description": "Aging causes a drift in gut microbiota composition, where beneficial commensal microbes decrease and potentially pathogenic microbes increase, contributing to age-related pathologies."
+          },
+          {
+            "concept": "Host-microbiota communication via biomolecules and epigenetics",
+            "description": "Gut microbiota communicates with the host through biomolecules, epigenetic mechanisms, and signaling pathways, influencing host lifespan and health; disruption in this communication may accelerate aging."
+          },
+          {
+            "concept": "Gut dysbiosis triggering innate immunity and aging-related diseases",
+            "description": "Age-related gut dysbiosis can activate innate immune responses, leading to chronic inflammation and the development of age-associated pathological syndromes, thereby promoting early aging."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.mad.2025.112076",
+    "pmid": "40419228",
+    "title": "Interspecific interactions and aging: Prediction of gerogenic bacteria and critical human protein targets of microbial infections.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:22:34.671974",
+    "theories": [
+      {
+        "name": "Gerogenic bacteria theory",
+        "mode": "propose, discuss, synthesize",
+        "evidence": "Predictions based on bipartite network analyses of protein interactions, supported by published experimental evidence and transcriptomic data; identification of specific bacterial genera (Salmonella, Escherichia, Shigella) with higher potential to interact with human aging proteins; references to common targeting of 14 human aging proteins by both bacteria and viruses.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism by which microbial infections may drive systemic aging through molecular interactions affecting cellular senescence. It addresses aging broadly at the organism level by implicating common pathogens in the aging process and suggests underlying mechanisms rather than mere correlations.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Gerogenic bacteria",
+            "description": "This concept proposes that certain bacteria, termed 'gerogenic,' can induce aging processes in their human hosts by interacting with human proteins associated with aging and cellular senescence. These bacteria act as 'age-distorters' by molecularly hijacking host proteins, potentially accelerating biological aging."
+          },
+          {
+            "concept": "Microbial protein-host protein interactions",
+            "description": "The theory emphasizes that bacterial proteins can interact specifically with human aging-related proteins, disrupting normal cellular functions and promoting senescence. The use of bipartite networks to predict these interspecific protein interactions highlights a mechanistic basis for microbial influence on systemic aging."
+          },
+          {
+            "concept": "Evolutionary convergence of microbial age-distorting proteins",
+            "description": "An observed convergence where both bacterial and viral proteins target a common set of human aging-associated proteins, suggesting a shared evolutionary strategy among pathogens to influence host aging pathways."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1101/2023.04.22.537928",
+    "pmid": "10.1101/2023.04.22.537928",
+    "title": "Chaotic aging: Intrinsically disordered proteins in aging-related processes",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:38:35.506037",
+    "theories": [
+      {
+        "name": "Intrinsically Disordered Proteins (IDPs) Role in Aging Theory",
+        "mode": "discuss, analyze, identify",
+        "evidence": "Analysis of a dataset of 1624 aging-related proteins showing 36% IDP content; Gene Ontology and protein-protein interaction network analyses revealing IDP enrichment in aging pathways; identification of IDPs with high LLPS propensity and predicted aggregation risk.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable, causal mechanism for aging at the molecular level involving IDPs affecting multiple aging hallmarks and cellular functions; it addresses aging broadly rather than a narrow phenomenon.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "IDPs as configurable hubs in signaling cascades",
+            "description": "Intrinsically disordered proteins and regions lack stable tertiary structure, allowing them flexibility to act as dynamic hubs that regulate multiple cellular signaling pathways, including those involved in aging processes."
+          },
+          {
+            "concept": "IDPs involvement in genome regulation and aging hallmarks",
+            "description": "IDPs are enriched in aging-associated processes, particularly those related to genome regulation such as genomic instability, telomere attrition, epigenetic alterations, and stem cell exhaustion, suggesting a central role in the molecular mechanisms underlying aging."
+          },
+          {
+            "concept": "IDP aggregation and toxicity as causal aging mechanisms",
+            "description": "Aggregation of IDPs, especially those with high liquid-liquid phase separation propensity, can lead to loss-of-function and cellular toxicity, potentially driving aging-related cellular dysfunction and damage."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.2174/1573399811666150722124958",
+    "pmid": "26201429",
+    "title": "Good at Heart: Preserving Cardiac Metabolism during aging.",
+    "validation_result": "doubted",
+    "confidence_score": 6,
+    "timestamp": "2025-10-19T18:54:07.961921",
+    "theories": [
+      {
+        "name": "Mitochondrial oxidative stress and quality control theory of aging",
+        "mode": "review",
+        "evidence": "Citations of recent research studies focusing on mitochondrial oxidative stress, energy production, and quality control mechanisms in aging hearts; references to human and animal models demonstrating cardiac aging phenotypes.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism explaining aging at the organismal level through mitochondrial dysfunction, addressing fundamental processes of cellular homeostasis and energy metabolism linked to systemic aging.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Mitochondrial oxidative stress",
+            "description": "This concept posits that the accumulation of reactive oxygen species (ROS) produced by mitochondria leads to cellular damage over time, contributing to aging and age-related decline in organ function, particularly in the heart."
+          },
+          {
+            "concept": "Energy production decline",
+            "description": "Aging impairs mitochondrial energy production efficiency, which compromises cellular homeostasis and function, especially in energy-demanding tissues like cardiac muscle."
+          },
+          {
+            "concept": "Mitochondrial quality control",
+            "description": "Mechanisms such as mitophagy and mitochondrial biogenesis maintain mitochondrial integrity; their dysregulation with age leads to accumulation of dysfunctional mitochondria, promoting cardiac aging and failure."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1038/s43587-025-00938-7",
+    "pmid": "40813813",
+    "title": "Toward precision interventions and metrics of inflammaging.",
+    "validation_result": "doubted",
+    "confidence_score": 6,
+    "timestamp": "2025-10-19T18:55:26.559080",
+    "theories": [
+      {
+        "name": "Inflammaging theory",
+        "mode": "discuss, propose",
+        "evidence": "Discussion of inflammatory clocks with associations to age-related diseases, references to gerotherapies including senolytics, and consideration of environmental and genetic factors shaping inflammaging.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism for aging (chronic inflammation), addresses systemic aging rather than a single organ or disease, and links underlying causes (inflammatory stimuli, genetics, environment) to aging processes.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Chronic low-grade inflammation as a driver of aging",
+            "description": "Inflammaging is characterized by a persistent, systemic, low-level inflammatory state that increases with age and contributes causally to the development of multiple age-related diseases and aging processes."
+          },
+          {
+            "concept": "Heterogeneity shaped by lifelong exposures",
+            "description": "The theory posits that inflammaging arises from an individual's unique lifelong exposures to inflammatory stimuli, influenced by genetics, lifestyle, socioeconomic status, infections, and environmental factors such as pollution, resulting in personalized aging trajectories."
+          },
+          {
+            "concept": "Inflammatory clocks as biomarkers of aging",
+            "description": "Development of inflammatory clocks that quantify 'inflammatory age' provides a measurable metric that correlates strongly with age-related disease incidence and intersects with other biological aging clocks, linking inflammation mechanistically to systemic aging."
+          },
+          {
+            "concept": "Interventions targeting inflammaging",
+            "description": "The theory supports that interventions such as nutritional changes, physical activity, and gerotherapies like senolytics can modulate inflammaging, potentially altering aging trajectories and improving healthspan."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.arr.2025.102727",
+    "pmid": "40096912",
+    "title": "Prevention of cardiovascular disease for healthy aging and longevity: A new scoring system and related \"mechanisms-hallmarks-biomarkers\".",
+    "validation_result": "doubted",
+    "confidence_score": 5,
+    "timestamp": "2025-10-19T18:56:29.217847",
+    "theories": [
+      {
+        "name": "Healthy lifestyle intervention theory for aging and longevity",
+        "mode": "review, propose (scoring system), discuss mechanisms",
+        "evidence": "Review of associations between lifestyle factors and cardiovascular aging; development of a scoring system; conceptual linkage to cellular and molecular mechanisms (no direct experimental data presented in abstract).",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal explanation linking lifestyle interventions to systemic aging processes via immunity and cardiovascular health, addressing aging broadly and proposing mechanisms and biomarkers.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "E(e)SEEDi lifestyle",
+            "description": "A composite lifestyle intervention encompassing environment, sleep, emotion, exercise, and diet aimed at improving human immunity and preventing cardiovascular diseases, thereby promoting healthy aging and longevity."
+          },
+          {
+            "concept": "Mechanisms-hallmarks-biomarkers",
+            "description": "A series of cellular and molecular processes and indicators that mediate the beneficial effects of the E(e)SEEDi lifestyle on delaying aging and increasing life expectancy."
+          },
+          {
+            "concept": "Scoring system for life expectancy prediction",
+            "description": "A novel quantitative system assigning points to core lifestyle factors (20 points each, total 120) to predict and evaluate healthy aging and longevity, linking lifestyle quality to biological aging outcomes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1042/CS20241248",
+    "pmid": "39444221",
+    "title": "The dietary exposome: a brief history of diet, longevity, and age-related health in rodents.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:44:54.167709",
+    "theories": [
+      {
+        "name": "Dietary restriction and nutrient modulation theory of aging",
+        "mode": "review, discuss",
+        "evidence": "Citations of numerous rodent studies over more than a century demonstrating lifespan extension and health improvements via various dietary interventions including caloric restriction, protein/amino acid restriction, ketogenic diets, and fasting protocols.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes generalizable, causal mechanisms by which diet influences fundamental aging processes across the organism, supported by broad experimental evidence in rodents; addresses aging broadly rather than specific diseases or organs.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Caloric restriction extends lifespan",
+            "description": "Reducing total food intake below ad libitum levels increases lifespan and improves multiple aspects of age-related health in rodents, suggesting a fundamental link between energy intake and aging processes."
+          },
+          {
+            "concept": "Protein and amino acid restriction effects",
+            "description": "Limiting specific dietary components such as total protein, branched chain amino acids, or individual amino acids can mimic the lifespan and healthspan benefits of caloric restriction, indicating nutrient composition plays a causal role in aging modulation."
+          },
+          {
+            "concept": "Fasting protocols impact aging",
+            "description": "Intermittent fasting regimens like time-restricted feeding or alternate-day feeding, even without reducing total caloric intake, can significantly influence longevity and late-life health, highlighting the importance of feeding patterns in aging mechanisms."
+          },
+          {
+            "concept": "Dietary exposome as a modulator of aging",
+            "description": "The cumulative dietary environment (dietary exposome) shapes aging trajectories and health outcomes, suggesting that diet acts as a systemic modulator of aging processes at the organismal level."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1038/s43587-023-00360-x",
+    "pmid": "37118423",
+    "title": "Photoactivatable senolysis with single-cell resolution delays aging.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:46:41.004721",
+    "theories": [
+      {
+        "name": "Cellular senescence theory of aging",
+        "mode": "propose, test",
+        "evidence": "Experimental data using a novel photosensitive senolytic prodrug (KSL0608-Se) activated by senescence-associated β-galactosidase (SA-β-gal) in naturally aged mice showed prevention of SnC marker upregulation, reduction of SASP factors, improved liver and renal function, and amelioration of physical dysfunction.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets all criteria: It addresses a fundamental aging mechanism (senescent cell accumulation), proposes a causal mechanism (SnCs drive aging via SASP), and tests an intervention targeting this mechanism with systemic effects in an organismal aging context.",
+        "paper_focus": 10,
+        "key_concepts": [
+          {
+            "concept": "Senescent cells as causal drivers of aging",
+            "description": "The theory posits that accumulation of senescent cells (SnCs) in tissues contributes causally to organismal aging by promoting dysfunction and inflammation through the senescence-associated secretory phenotype (SASP)."
+          },
+          {
+            "concept": "Senolysis as an intervention to delay aging",
+            "description": "Selective elimination of SnCs (senolysis) can reduce age-related pathologies and improve tissue function, thereby extending healthy lifespan and delaying aging phenotypes."
+          },
+          {
+            "concept": "Targeting senescent cells with precision",
+            "description": "Developing technologies to precisely identify and eliminate SnCs at single-cell resolution enables more effective and controlled senolytic therapies, potentially minimizing off-target effects."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.dnarep.2023.103572",
+    "pmid": "37742405",
+    "title": "Alteration in the chromatin landscape during the DNA damage response: Continuous rotation of the gear driving cellular senescence and aging.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:24:19.816969",
+    "theories": [
+      {
+        "name": "DNA Damage Response-Induced Cellular Senescence Theory of Aging",
+        "mode": "review, discuss, synthesize",
+        "evidence": "The paper reviews diverse mechanisms and evidence from prior studies linking DDR to chromatin remodeling, cellular senescence, SASP, and aging-related pathologies; no new experimental data presented.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a general causal mechanism explaining how persistent DNA damage and DDR signaling drive cellular senescence and systemic aging processes via chromatin and epigenetic changes. It addresses aging broadly at the organismal level through cellular senescence and SASP.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "DNA Damage Response (DDR)",
+            "description": "DDR is a complex biological mechanism involving signaling pathways that detect and process DNA lesions to maintain cellular homeostasis. Failure or perturbation in DDR leads to DNA repair failure and genomic instability."
+          },
+          {
+            "concept": "Cellular Senescence as a Consequence of Persistent DDR",
+            "description": "Persistent activation of DDR causes irreversible cell cycle arrest known as cellular senescence, which accumulates with age and contributes to organismal aging."
+          },
+          {
+            "concept": "Chromatin Remodeling and Epigenetic Alterations",
+            "description": "Continuous DDR activation exerts pressure on chromatin dynamics, leading to altered chromatin structure and epigenetic dysregulation, which are closely linked to cellular senescence and aging."
+          },
+          {
+            "concept": "Senescence-Associated Secretory Phenotype (SASP)",
+            "description": "Sustained DDR and heterochromatin changes promote SASP, a pro-inflammatory secretory phenotype that drives aging-related diseases and cancer development, linking cellular senescence to systemic aging pathology."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.3143/geriatrics.61.1",
+    "pmid": "38583963",
+    "title": "[Postnatal epigenome-mediated aging control and global trends].",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:24:30.613292",
+    "theories": [
+      {
+        "name": "Epigenome-mediated aging theory",
+        "mode": "discuss, review, synthesize",
+        "evidence": "Citations of recent observations of epigenomic changes with age, gene expression analyses in aging mice, references to calorie restriction effects, mention of Yamanaka factors and emerging biotech interventions.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets all criteria: It proposes a generalizable mechanism explaining how aging occurs via epigenomic regulation and alterations; it provides causal explanations linking epigenomic changes to tissue and organismal aging; it addresses aging broadly at organismal and cellular levels; and it integrates with known aging hallmarks.",
+        "paper_focus": 10,
+        "key_concepts": [
+          {
+            "concept": "Epigenomic regulation of gene expression",
+            "description": "The epigenome controls the on/off states of genes in response to environmental factors and stress through mechanisms such as DNA methylation, histone modifications, and chromatin remodeling. These epigenetic changes influence cellular identity and function."
+          },
+          {
+            "concept": "Age-related epigenomic alterations",
+            "description": "With aging, the epigenome undergoes changes that lead to the loss of cell-specific epigenetic identity, resulting in tissue functional decline. These changes are dynamic and influenced by metabolic diseases, social stress, infectious diseases, and DNA damage."
+          },
+          {
+            "concept": "Epigenetic clocks and biological age",
+            "description": "DNA methylation patterns serve as biomarkers of biological age, forming the basis of epigenetic aging clocks. These clocks reflect the progression of aging and can be modulated by interventions such as calorie restriction."
+          },
+          {
+            "concept": "Reversibility and control of epigenomic aging",
+            "description": "Postnatal epigenomic changes are reversible, as demonstrated by factors like Yamanaka factors (OKSM and OSK), which can reprogram cells and potentially rejuvenate tissues. Emerging modalities including mRNA, artificial peptides, and genome editing aim to control aging via epigenomic mechanisms."
+          },
+          {
+            "concept": "Integration with aging hallmarks",
+            "description": "The epigenome interacts closely with other aging hallmarks such as inflammation, stem cell function, metabolism, genomic instability, and autophagy, suggesting a central role in orchestrating systemic aging processes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.mad.2023.111858",
+    "pmid": "37652278",
+    "title": "Lipids and the hallmarks of ageing: From pathology to interventions.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:22:51.744150",
+    "theories": [
+      {
+        "name": "Impaired lipid metabolism as a driver of aging",
+        "mode": "review, discuss, synthesize",
+        "evidence": "Comprehensive review of current literature linking lipid metabolism alterations to the hallmarks of aging; correlations between systemic lipid profile changes and aging phenotypes; discussion of dietary lipid impact on aging.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets all criteria as it proposes a generalizable, causal mechanism by which impaired lipid metabolism drives fundamental aging processes across the organism. It addresses broad aging hallmarks rather than narrow phenomena and discusses underlying mechanisms.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Lipids as regulators of aging hallmarks",
+            "description": "Lipids influence multiple fundamental aging processes including cellular senescence, chronic inflammation, gut dysbiosis, telomere attrition, genome instability, proteostasis, autophagy, epigenetic alterations, and stem cell dysfunction. Changes in lipid metabolism can modulate these hallmarks, thereby affecting organismal aging."
+          },
+          {
+            "concept": "Age-dependent deficiencies in lipid metabolism",
+            "description": "With aging, systemic lipid profiles alter in characteristic ways that correlate with the aging phenotype. These inherent deficiencies in lipid metabolism contribute causally to the progression of aging and age-related pathologies."
+          },
+          {
+            "concept": "Dietary lipids as modulators of aging",
+            "description": "The type and quantity of lipids consumed in the diet significantly influence lipid metabolism and its effects on aging. Dietary lipids can either exacerbate or ameliorate age-related changes, making them important modulators of the aging process."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.4414/smw.2004.09885",
+    "pmid": "15635489",
+    "title": "Cancer, type 2 diabetes, and ageing: news from flies and worms.",
+    "validation_result": "doubted",
+    "confidence_score": 6,
+    "timestamp": "2025-10-19T18:53:14.876647",
+    "theories": [
+      {
+        "name": "Insulin/IGF Signalling (IIS) and Target of Rapamycin (TOR) Signalling Pathways in Aging",
+        "mode": "review, discuss, synthesize",
+        "evidence": "Genetic studies in model organisms (Drosophila and C. elegans) dissecting tumour suppressor genes (PTEN, TSC1/2) and nutrient regulation pathways; evolutionary conservation highlighted; references to cancer and aging relevance.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a general, evolutionarily conserved mechanism explaining how nutrient sensing and growth signalling pathways causally influence aging at the organismal level; it is not limited to specific organs or diseases but addresses fundamental aging processes.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Nutrient-dependent growth regulation",
+            "description": "The IIS and TOR pathways regulate cellular and organismal growth in response to nutrient availability, linking metabolism and growth control to aging processes."
+          },
+          {
+            "concept": "Evolutionary conservation of growth and aging pathways",
+            "description": "These signalling pathways are conserved across species, from model organisms like Drosophila and C. elegans to humans, suggesting a fundamental role in aging and disease."
+          },
+          {
+            "concept": "Connection between growth control and aging",
+            "description": "Alterations in IIS and TOR signalling affect not only growth and cancer development but also influence lifespan and aging, indicating these pathways as central mechanisms in aging biology."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.2174/1874609810801030182",
+    "pmid": "20021391",
+    "title": "Human skeletal muscle aging and the oxidative system: cellular events.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:47:13.312726",
+    "theories": [
+      {
+        "name": "Oxidative Stress Theory of Aging",
+        "mode": "review",
+        "evidence": "The paper reviews existing studies on oxidative stress in aging human skeletal muscles, considering physiological factors such as sex, fiber composition, muscle type, and function.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "The theory attempts to explain a fundamental biological aging process (mitochondrial decline and oxidative stress) that affects the organism broadly, proposes causal mechanisms (ROS accumulation causing damage), and is not limited to a narrow phenomenon or specific disease.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Mitochondrial dysfunction",
+            "description": "Aging is associated with a progressive decline in mitochondrial function, which leads to increased production of reactive oxygen species (ROS). This mitochondrial impairment is a fundamental driver of cellular aging processes."
+          },
+          {
+            "concept": "Reactive oxygen species (ROS) accumulation",
+            "description": "ROS are generated as byproducts of mitochondrial respiration, and their accumulation causes oxidative damage to cellular components, contributing to the aging phenotype at the organismal level."
+          },
+          {
+            "concept": "Antioxidant defense imbalance",
+            "description": "With aging, there is an imbalance between increased ROS production and the capacity of antioxidant defenses, leading to oxidative stress that damages skeletal muscle cells and impairs function."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1007/s10522-023-10024-3",
+    "pmid": "36877293",
+    "title": "An AMP Kinase-pathway dependent integrated stress response regulates ageing and longevity.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:20:28.562000",
+    "theories": [
+      {
+        "name": "AMP Kinase-dependent Integrated Stress Response (AMPK-ISR) theory of aging",
+        "mode": "propose, discuss",
+        "evidence": "The paper reports discovery of the feedback loop in the AMPK pathway and its conserved role in stress response; it links pathway activity to health benefits and longevity, referencing effects of exercise, drugs, and health ingredients known to activate AMPK and be impacted by aging.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable, causal mechanism explaining how aging occurs via decline in a fundamental stress response pathway affecting multiple organs and systemic aging; it addresses aging broadly and proposes an evolutionary conserved mechanism.",
+        "paper_focus": 10,
+        "key_concepts": [
+          {
+            "concept": "AMPK pathway as an integrated stress response system",
+            "description": "The AMPK pathway functions as a conserved stress response mechanism that detects cellular energy status changes (AMP/ATP and NAD/NADH ratios) and the presence of toxins, triggering a protective transcriptional response. This response promotes health benefits and longevity by mitigating age-related decline."
+          },
+          {
+            "concept": "Feedback loop in AMPK pathway",
+            "description": "A feedback loop within the AMPK pathway enables it to integrate multiple environmental and metabolic stress signals, coordinating a broad protective response that affects many organs and systems simultaneously."
+          },
+          {
+            "concept": "Age-related inactivation of AMPK pathway",
+            "description": "The decline or inactivation of the AMPK pathway with age is proposed as a causal mechanism underlying the loss of various health benefits and the progression of aging, linking pathway activity directly to aging processes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.21203/rs.3.rs-4045704/v1",
+    "pmid": "10.21203/rs.3.rs-4045704/v1",
+    "title": "Oxidative stress tolerance and salicylic acid levels in early-flowering populations derived from two cultivars of annual flax (Linum usitatissimum L.)",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:34:01.473678",
+    "theories": [
+      {
+        "name": "Oxidative Stress Theory of Aging",
+        "mode": "test, discuss",
+        "evidence": "Experimental comparison of oxidative stress tolerance markers (mitochondrial uncoupling, catalase activity, peroxide-induced membrane damage) between early-flowering (shorter lifespan) and normal-flowering flax populations; measurement of endogenous salicylic acid levels; cultivar-specific responses to exogenous oxidative stress.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets all criteria: the theory attempts to explain a fundamental aging process (oxidative damage accumulation) with causal mechanisms (ROS-induced damage and antioxidant defenses), and is applied to lifespan differences at the organismal level (annual flax populations).",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Oxidative damage as a cause of aging",
+            "description": "This theory proposes that aging results from the accumulation of oxidative damage caused by reactive oxygen species (ROS) produced during normal metabolism. Such damage affects cellular components including DNA, proteins, and lipids, leading to functional decline."
+          },
+          {
+            "concept": "Correlation between oxidative stress tolerance and lifespan",
+            "description": "Long-lived organisms are hypothesized to have greater tolerance to oxidative stress, enabling them to better manage ROS and reduce cumulative damage, thereby extending lifespan."
+          },
+          {
+            "concept": "Role of antioxidant defenses",
+            "description": "Enzymatic antioxidants like catalase and mechanisms such as mitochondrial uncoupling are important in mitigating oxidative damage, and their activity levels are considered indicators of oxidative stress tolerance."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.2174/1570161111666131219112946",
+    "pmid": "24350925",
+    "title": "Telomeres and their role in aging and longevity.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:43:09.157921",
+    "theories": [
+      {
+        "name": "Telomere attrition theory of aging",
+        "mode": "review, discuss",
+        "evidence": "Summary of current research findings linking telomere biology to aging and longevity, including associations with chronic diseases and cellular senescence; mentions scientific disagreements and controversial results.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable, causal mechanism explaining aging at the organism level through telomere dynamics; addresses systemic aging rather than a narrow phenomenon; discusses underlying causes and mechanisms.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Telomeres as protective chromosome caps",
+            "description": "Telomeres are DNA-protein structures that protect chromosome ends from degradation and maintain genomic integrity, preventing loss of genetic information during cell division."
+          },
+          {
+            "concept": "Telomere length variability and aging",
+            "description": "Telomere length varies widely among individuals, tissues, and species, and generally shortens with chronological age, suggesting a link between telomere dynamics and the aging process."
+          },
+          {
+            "concept": "Accelerated telomere shortening and age-related diseases",
+            "description": "Increased telomere loss, potentially driven by oxidative stress and DNA damage, is associated with premature cellular senescence and many chronic diseases of aging, implying a causal role in systemic aging."
+          },
+          {
+            "concept": "Heritability and sex differences in telomere length",
+            "description": "Telomere length is highly heritable and tends to be longer in women than men, indicating genetic and possibly hormonal influences on aging mechanisms mediated by telomeres."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.autrev.2025.103805",
+    "pmid": "40132774",
+    "title": "Immunosenescence in autoimmune diseases.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:49:18.590691",
+    "theories": [
+      {
+        "name": "Immunosenescence theory of aging",
+        "mode": "review, synthesize",
+        "evidence": "Summary of existing literature on immune cell changes, SASP, mitochondrial dysfunction, and their roles in autoimmune diseases and aging; no new experimental data presented.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable, causal explanation of aging at the organismal level through immune system aging mechanisms; connects cellular senescence and metabolic dysfunction to systemic aging and disease susceptibility.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Immune system aging",
+            "description": "The immune system undergoes age-related changes including alterations in lymphocyte quantity, phenotype, and function, as well as a narrowing of the B and T cell receptor repertoire, which collectively contribute to a decline in immune competence."
+          },
+          {
+            "concept": "Senescent immune cells and SASP",
+            "description": "Senescent immune cells develop a senescence-associated secretory phenotype (SASP) that exacerbates chronic inflammation and tissue damage, thereby linking cellular senescence to systemic immune aging and autoimmune disease progression."
+          },
+          {
+            "concept": "Mitochondrial dysfunction and metabolic imbalance",
+            "description": "Mitochondrial dysfunction and metabolic disturbances promote the accumulation of senescent cells, which act as upstream drivers of immunosenescence, suggesting a mechanistic link between cellular metabolism, senescence, and immune aging."
+          },
+          {
+            "concept": "Bidirectional relationship between autoimmune diseases and immunosenescence",
+            "description": "Autoimmune diseases and immunosenescence influence each other, where aging-related immune changes increase susceptibility to autoimmune diseases, and autoimmune pathology further accelerates immune aging."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1126/science.adn8754",
+    "pmid": "40997170",
+    "title": "Lysosomes signal through the epigenome to regulate longevity across generations.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:23:41.373247",
+    "theories": [
+      {
+        "name": "Lysosome-epigenome signaling theory of transgenerational longevity",
+        "mode": "propose, test",
+        "evidence": "Experimental data in Caenorhabditis elegans showing that manipulation of lysosomal signaling pathways affects histone modifications and lifespan across multiple generations; overexpression of H3.3 or H3K79 methyltransferase recapitulates longevity effects.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism linking metabolic sensing by lysosomes to epigenetic regulation of aging and longevity at the organismal level, including transgenerational effects; it explains how aging is regulated beyond single organs or diseases.",
+        "paper_focus": 10,
+        "key_concepts": [
+          {
+            "concept": "Lysosomes as metabolic signaling hubs",
+            "description": "Lysosomes sense metabolic inputs and act as signaling centers that regulate longevity by modulating downstream epigenetic mechanisms."
+          },
+          {
+            "concept": "Epigenetic regulation via histone H3.3 and H3K79 methylation",
+            "description": "Activation of lysosomal lipid signaling and AMPK or reduction of lysosomal mTOR signaling increases expression of histone variant H3.3 and its methylation at lysine 79, which promotes lifespan extension."
+          },
+          {
+            "concept": "Transgenerational inheritance of longevity",
+            "description": "Signals originating from lysosomes in somatic tissues influence the germline epigenome through intestine-to-germline transport of histone H3.3 and germline-specific methyltransferase activity, enabling longevity effects to be inherited across generations."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.jep.2025.119399",
+    "pmid": "39890089",
+    "title": "Crassifolin A prolongs lifespan and healthspan in Caenorhabditis elegans via activating autophagy.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:18:12.379640",
+    "theories": [
+      {
+        "name": "Autophagy activation theory of aging",
+        "mode": "test, discuss",
+        "evidence": "Experimental data from C. elegans survival analysis, aging phenotype assays, RT-qPCR, western blotting, and fluorescence quantification of transgenic reporter strains demonstrating lifespan and healthspan extension by Crassifolin A via activation of autophagy and related signaling pathways.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets criteria as it proposes a generalizable causal mechanism (autophagy activation) underlying aging at the organismal level, supported by molecular pathways known to regulate aging broadly, not limited to a specific disease or organ.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Autophagy as a longevity mechanism",
+            "description": "Autophagy is a cellular process that maintains homeostasis by degrading and recycling damaged cellular components. Its activation is proposed to promote lifespan and healthspan by preventing accumulation of cellular damage, thus contributing to systemic aging delay."
+          },
+          {
+            "concept": "Integration of key aging-related signaling pathways",
+            "description": "The theory involves the insulin/insulin-like signaling (IIS) pathway, dietary restriction (DR) pathway, and germline signaling pathway, which converge to activate transcription factors such as DAF-16/FOXO, SKN-1/NRF2, HSF-1, HLH-30/TFEB, and nuclear receptor DAF-12. These factors regulate autophagy and other longevity-associated processes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1016/j.arr.2025.102733",
+    "pmid": "40120947",
+    "title": "Dietary polyphenols as geroprotective compounds: From Blue Zones to hallmarks of ageing.",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:21:07.357164",
+    "theories": [
+      {
+        "name": "Geroprotective effects of dietary polyphenols via modulation of hallmarks of ageing",
+        "mode": "review, discuss, synthesize",
+        "evidence": "The paper reviews epidemiological observations from Blue Zones, biochemical and biological studies on polyphenols, and their effects on hallmarks of ageing, highlighting existing evidence and knowledge gaps.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "The paper discusses mechanisms by which polyphenols may causally influence general ageing processes through conserved biological pathways, linking dietary factors to systemic ageing and longevity, thus meeting the criteria of a generalizable, causal, and broad-scope aging theory.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Polyphenols as geroprotective compounds",
+            "description": "Polyphenols are a large family of plant-based compounds that may promote healthy ageing by influencing biological mechanisms underlying ageing. They are proposed to contribute to longevity by mitigating age-related diseases and promoting optimal healthspan."
+          },
+          {
+            "concept": "Modulation of evolutionarily conserved ageing mechanisms",
+            "description": "Polyphenols may act on conserved molecular and cellular pathways associated with ageing, potentially impacting the hallmarks of ageing such as genomic instability, cellular senescence, and inflammation, thereby influencing systemic ageing processes."
+          },
+          {
+            "concept": "Dietary patterns in Blue Zones as models for healthy ageing",
+            "description": "The dietary habits of long-lived populations in Blue Zones, characterized by high intake of polyphenol-rich foods, provide a natural model to study how nutrition influences longevity and the biological ageing process."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1101/2025.06.27.662062",
+    "pmid": "10.1101/2025.06.27.662062",
+    "title": "Dietary Zn governs protein: carbohydrate regulation of fecundity and lifespan in <i>Drosophila melanogaster</i>",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "timestamp": "2025-10-19T18:32:53.790110",
+    "theories": [
+      {
+        "name": "Disposable Soma Theory of Ageing",
+        "mode": "discuss,test",
+        "evidence": "The paper presents experimental data on dietary zinc and protein-to-carbohydrate ratios affecting reproduction and lifespan in Drosophila melanogaster. The observed phenotypes align with the disposable soma theory's predictions about resource allocation trade-offs.",
+        "confidence_is_theory": "high",
+        "criteria_reasoning": "Meets all criteria: it is a generalizable evolutionary theory explaining why aging occurs, proposes causal mechanisms (resource allocation trade-offs), and addresses aging broadly at the organism level.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Resource allocation trade-off",
+            "description": "The disposable soma theory posits that organisms allocate limited resources between reproduction and somatic maintenance. This trade-off results in aging because investment in reproduction reduces resources available for maintaining the body, leading to gradual deterioration."
+          },
+          {
+            "concept": "Evolutionary basis of aging",
+            "description": "The theory explains aging as an evolutionary consequence where natural selection favors reproduction over longevity, as the latter provides diminishing returns for fitness."
+          },
+          {
+            "concept": "Nutritional modulation of lifespan and reproduction",
+            "description": "Changes in nutrient availability, such as protein-to-carbohydrate ratio or micronutrients like zinc, influence the balance between reproduction and lifespan, consistent with the theory's predictions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "doi": "10.1080/13825585.2024.2366033",
+    "pmid": "38869322",
+    "title": "Perceptions of task difficulty predict cognitive effort for older adults.",
+    "validation_result": "valid",
+    "confidence_score": 8,
+    "timestamp": "2025-10-19T18:26:19.314338",
+    "theories": [
+      {
+        "name": "Selective Engagement Theory",
+        "mode": "test, discuss",
+        "evidence": "Empirical data from a study comparing younger and older adults performing memory tests, with subjective difficulty ratings and systolic blood pressure response as an index of effort.",
+        "confidence_is_theory": "medium",
+        "criteria_reasoning": "Meets criteria as it proposes a psychosocial mechanism explaining why older adults reduce cognitive effort with increasing task difficulty, addressing a general aging-related change in motivation and effort allocation. It explains a causal mechanism (perceived costs leading to disengagement) relevant to aging at the organismal level.",
+        "paper_focus": 9,
+        "key_concepts": [
+          {
+            "concept": "Perceived cognitive costs reduce motivation",
+            "description": "Older adults perceive higher cognitive costs when engaging in difficult tasks, which leads to reduced motivation to invest effort in those tasks."
+          },
+          {
+            "concept": "Effort allocation based on task difficulty",
+            "description": "Older adults selectively allocate cognitive effort, disengaging from tasks they perceive as highly difficult, as indexed by physiological measures such as systolic blood pressure response."
+          }
+        ]
+      }
+    ]
+  }
+]

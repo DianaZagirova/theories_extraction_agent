@@ -48,19 +48,23 @@
 | Artifact | Source | Description |
 |----------|--------|-------------|
 | `output/stage7_consolidated_final_theories.json` | Part 1 | Validated canonical theories with paper mappings |
-| `data/questions.json` | Manual curation | Structured research questions with allowed answer options |
+| `data/questions_part2.json` | Manual curation | Structured research questions with allowed answer options (9 questions) |
 | `data/questions_synonyms.json` | Manual curation | Keyword filters for intelligent question skipping |
-| `data/papers.db` | Paper corpus | Full texts and abstracts for all papers |
-| `data/evaluations.db` | Paper validation | Paper quality scores and validation results |
+| `data/papers.db` | [Stage 1 repo](https://github.com/DianaZagirova/download_agent) | Full texts and abstracts for all papers - main database generated in Stage 1 |
+| `data/evaluations.db` | [Stage 3 repo](https://github.com/DianaZagirova/judge_agent) | Paper quality scores and validation results - main evaluations database generated in Stage 3 |
+
 
 ### **Outputs**
 
 | Artifact | Description |
 |----------|-------------|
-| `qa_results/qa_results.db` | SQLite database with all answers, metadata, and processed texts |
+| `qa_results/qa_results.db` | SQLite database with all answers, metadata, and processed texts (**NOT submitted** due to size - see sample below) |
+| `data/sample_qa_results.json` | Sample of 50 random DOIs with complete QA data (demonstrates database structure) |
 | `paper_answers.json` | JSON export of all paper-question-answer triples |
 | `qa_exported_results.json` | Structured export for downstream analysis |
 | `current_qa_results.json` | Latest checkpoint for resume capability |
+
+**Note**: The full `qa_results/qa_results.db` database is not included in the repository due to size limitations. A representative sample (`data/sample_qa_results.json`) with 50 random DOIs is provided to demonstrate the complete data structure and field formats.
 
 ### **Database Schema**
 
@@ -141,45 +145,61 @@ graph TB
 
 ### **Question Categories**
 
-The system answers structured questions across multiple research dimensions:
+The system answers **9 structured questions** across multiple research dimensions. For complete question definitions, see `data/questions_part2.json`.
 
-1. **Biomarker Questions**
-   - Does the paper suggest an aging biomarker?
-   - Is it quantitatively shown or just mentioned?
-   - Example: "Yes, quantitatively shown" vs "Yes, but not shown"
+**Question Overview**:
 
-2. **Molecular Mechanism Questions**
-   - Does the paper describe molecular mechanisms contributing to aging?
-   - Are specific pathways or processes detailed?
+1. **`aging_biomarker`** - Aging biomarker identification
+   - Does the paper suggest an aging biomarker (measurable entity reflecting aging pace or health state)?
+   - Answers: "Yes, quantitatively shown" / "Yes, but not shown" / "No"
 
-3. **Species-Specific Questions**
-   - Are findings specific to certain organisms?
-   - Is human relevance discussed?
+2. **`molecular_mechanism_of_aging`** - Molecular mechanisms
+   - Does the paper suggest any molecular mechanism of aging?
+   - Answers: "Yes" / "No"
 
-4. **Intervention Questions**
-   - Are aging interventions proposed or tested?
-   - What is the evidence level?
+3. **`longevity_intervention_to_test`** - Intervention proposals
+   - Does the paper contain claims suggesting a specific longevity intervention to test?
+   - Answers: "Yes" / "No"
 
-### **Question Format**
+4. **`aging_cannot_be_reversed`** - Reversibility claims
+   - Does the paper contain claims suggesting that aging cannot be reversed?
+   - Answers: "Yes" / "No"
+
+5. **`cross_species_longevity_biomarker`** - Cross-species biomarkers
+   - Does the paper suggest a biomarker that predicts maximal lifespan differences between species?
+   - Answers: "Yes" / "No"
+
+6. **`naked_mole_rat_lifespan_explanation`** - Naked mole rat longevity
+   - Does the paper explain why the naked mole rat can live many years despite its small size?
+   - Answers: "Yes" / "No"
+
+7. **`birds_lifespan_explanation`** - Bird longevity
+   - Does the paper explain why birds live longer than mammals (on average)?
+   - Answers: "Yes" / "No"
+
+8. **`large_animals_lifespan_explanation`** - Body size and longevity
+   - Does the paper explain why large animals live longer than small ones?
+   - Answers: "Yes" / "No"
+
+9. **`calorie_restriction_lifespan_explanation`** - Calorie restriction effects
+   - Does the paper explain why calorie restriction (CR) increases the lifespan of vertebrates?
+   - Answers: "Yes" / "No"
+
+### **Question File Structure**
+
+See `data/questions_part2.json` for complete question text and answer options:
 
 ```json
 {
   "aging_biomarker": {
-    "question": "Does the paper suggest an aging biomarker?",
-    "answers": "Yes, quantitatively shown/Yes, but not shown/No"
+    "question": "Does paper suggest an aging biomarker (measurable entity reflecting aging pace or health state, associated with mortality or age-related conditions)? If yes, does the text provide quantitative evidence for the association or is the suggestion qualitative or hypothetical (hypothesis/discussion only)?",
+    "answers": "Yes, quantitatively shown / Yes, but not shown / No"
   },
   "molecular_mechanism_of_aging": {
-    "question": "Does the paper describe molecular mechanisms contributing to aging?",
-    "answers": "Yes/No"
-  },
-  "species_specific": {
-    "question": "Are the findings specific to certain species or organisms?",
-    "answers": "Yes/No"
-  },
-  "intervention_proposed": {
-    "question": "Does the paper propose or test aging interventions?",
-    "answers": "Yes/No"
+    "question": "Does paper suggest any molecular mechanism of aging?",
+    "answers": "Yes / No"
   }
+  // ... 7 more questions
 }
 ```
 
@@ -396,7 +416,7 @@ async def process_papers_concurrent(papers, max_concurrent=10):
 python scripts/answer_questions_per_paper.py \
   --evaluations-db data/evaluations.db \
   --papers-db data/papers.db \
-  --questions-file data/questions.json \
+  --questions-file data/questions_part2.json \
   --synonyms-file data/questions_synonyms.json \
   --output-file paper_answers.json \
   --results-db qa_results/qa_results.db
@@ -410,7 +430,7 @@ python scripts/answer_questions_per_paper.py \
 python scripts/answer_questions_per_paper.py \
   --evaluations-db data/evaluations.db \
   --papers-db data/papers.db \
-  --questions-file data/questions.json \
+  --questions-file data/questions_part2.json \
   --results-db qa_results/qa_results.db \
   --resume-from-db
 ```
@@ -432,7 +452,7 @@ echo "10.1016/j.cell.2023.01.001" >> dois_to_process.txt
 python scripts/answer_questions_per_paper.py \
   --evaluations-db data/evaluations.db \
   --papers-db data/papers.db \
-  --questions-file data/questions.json \
+  --questions-file data/questions_part2.json \
   --results-db qa_results/qa_results.db \
   --dois-file dois_to_process.txt \
   --only-dois-in-file
@@ -585,7 +605,8 @@ print(f"Total cost: ${total_cost:.2f}")
 theories_extraction_agent/
 ├── scripts/
 │   ├── answer_questions_per_paper.py         # Main QA pipeline
-│   └── export_full_qa_results.py             # Export to JSON
+│   ├── export_full_qa_results.py             # Export to JSON
+│   └── export_sample_qa_results.py           # Export sample for demo
 ├── src/
 │   ├── core/
 │   │   ├── llm_integration.py                # Azure/OpenAI clients
@@ -593,15 +614,102 @@ theories_extraction_agent/
 │   └── tracking/
 │       └── theory_tracker.py                 # Cross-stage analytics
 ├── data/
-│   ├── questions.json                        # Research questions
+│   ├── questions_part2.json                  # Research questions (9 questions)
 │   ├── questions_synonyms.json               # Keyword filters
-│   ├── papers.db                             # Paper corpus
-│   └── evaluations.db                        # Paper validation
+│   ├── sample_qa_results.json                # Sample of 50 DOIs with QA results
+│   ├── papers.db                             # Paper corpus (from Stage 1)
+│   └── evaluations.db                        # Paper validation (from Stage 3)
 ├── qa_results/
-│   └── qa_results.db                         # Answer database
+│   └── qa_results.db                         # Answer database (NOT SUBMITTED - see sample)
 ├── paper_answers.json                        # JSON export
 ├── qa_exported_results.json                  # Structured export
 └── current_qa_results.json                   # Latest checkpoint
+```
+
+### **Sample QA Results Structure**
+
+The `data/sample_qa_results.json` file contains 50 randomly selected DOIs with complete QA data:
+
+```json
+[
+  {
+    "doi": "10.1038/nature12345",
+    "pmid": "12345678",
+    "title": "Example paper title",
+    "validation_result": "valid",
+    "confidence_score": 9,
+    "processed_text_length": 45000,
+    "used_full_text": true,
+    "timestamp": "2025-10-27T10:30:00",
+    "answers": [
+      {
+        "question_name": "aging_biomarker",
+        "question_text": "Does paper suggest an aging biomarker...",
+        "answer": "Yes, quantitatively shown",
+        "confidence_score": 0.9,
+        "reasoning": "The paper presents statistical data showing...",
+        "original_answer": null
+      }
+      // ... more answers for other questions
+    ]
+  }
+  // ... 49 more papers
+]
+```
+
+### **Field Descriptions**
+
+#### **Paper-Level Fields**
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| `doi` | String | Digital Object Identifier - unique paper identifier | "10.1016/j.chembiol.2024.11.001" |
+| `pmid` | String | PubMed ID - alternative identifier (may be null) | "39626664" |
+| `title` | String | Full paper title | "β-hydroxybutyrate is a metabolic regulator..." |
+| `validation_result` | String | Paper validation status from Stage 3: "valid" or "doubted" | "valid" |
+| `confidence_score` | Integer | LLM confidence in paper relevance to aging theories (1-10 scale) | 8 |
+| `processed_text_length` | Integer | Character count of processed text used for QA | 19618 |
+| `used_full_text` | Boolean | Whether full text was available and used (true) or only abstract (false) | true |
+| `timestamp` | String | ISO 8601 timestamp when paper was processed | "2025-10-21T03:29:57.898191" |
+| `answers` | Array | List of answer objects for all questions asked | [...] |
+
+#### **Answer-Level Fields**
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| `question_name` | String | Unique identifier for the question (matches `data/questions_part2.json`) | "aging_biomarker" |
+| `question_text` | String | Full text of the question asked | "Does paper suggest an aging biomarker..." |
+| `answer` | String | Normalized answer matching allowed options | "Yes, quantitatively shown" |
+| `confidence_score` | Float | LLM confidence in the answer (0.0-1.0 scale) | 0.9 |
+| `reasoning` | String | LLM explanation justifying the answer | "The paper presents statistical data showing..." |
+| `original_answer` | String or null | Original LLM answer before normalization (null if no normalization needed) | null or "Yes, quantitatively shown (in Figure 3)" |
+
+#### **Key Notes**
+
+**`used_full_text` Field**:
+- `true`: Full paper text was available and processed (higher quality answers)
+- `false`: Only abstract was available (may have lower confidence, some questions may be unanswerable)
+
+**`original_answer` Field**:
+- `null`: LLM answer was already in correct format, no normalization needed
+- Non-null: Shows the original LLM response before normalization (e.g., "Yes, but not shown in detail" → normalized to "Yes, but not shown")
+- Preserved for transparency and audit purposes
+
+**`confidence_score` Interpretation**:
+- **0.9-1.0**: Very high confidence - clear evidence in text
+- **0.7-0.89**: High confidence - strong supporting evidence
+- **0.5-0.69**: Medium confidence - some evidence but not definitive
+- **0.3-0.49**: Low confidence - weak or ambiguous evidence
+- **< 0.3**: Very low confidence - answer is uncertain
+
+**`validation_result` Context**:
+- Papers with "valid" status are high-quality aging theory papers
+- Papers with "doubted" status may have lower relevance or quality
+- This field comes from Stage 3 validation pipeline
+
+**To generate your own sample**:
+```bash
+python scripts/export_sample_qa_results.py
 ```
 
 ---
