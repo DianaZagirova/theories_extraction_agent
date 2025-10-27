@@ -9,7 +9,7 @@
 **Mission**: Part 2 of the Stage 4: answer structured research questions across papers containing validated aging theories, creating a queryable knowledge base for the **"Agentic AI Against Aging"** hackathon.
 
 **Scale & Impact**:
-- 📚 **Input**: Papers with validated aging theories from Part 1 (2,141 canonical theories)
+- 📚 **Input**: Papers with validated aging theories from Part 1 of the Stage 4 (2,141 canonical theories)
 - ❓ **Questions**: Structured research questions covering biomarkers, mechanisms, species, interventions
 - 🎯 **Output**: Comprehensive answer database with confidence scores and reasoning
 - 🔍 **Coverage**: Full-text analysis with abstract fallback for maximum coverage
@@ -217,9 +217,7 @@ See `data/questions_part2.json` for complete question text and answer options:
 ```python
 # data/questions_synonyms.json
 {
-  "aging_biomarker": ["biomarker", "marker", "indicator", "predictor"],
-  "molecular_mechanism_of_aging": ["mechanism", "pathway", "process", "molecular"],
-  "species_specific": ["species", "organism", "human", "mouse", "rat", "worm"]
+  "naked_mole_rat_lifespan_explanation": [ "naked mole rat", "naked mole", "Heterocephalus glaber", "mole-rat", "sand puppy", "sand rat"]
 }
 
 # Skip question if no keywords found
@@ -228,8 +226,8 @@ if not any(keyword in text.lower() for keyword in synonyms):
 ```
 
 **Impact**: 
-- ⚡ **30-50% reduction** in LLM calls
-- 💰 **Significant cost savings** (~$50 per 10K papers)
+- ⚡ **10-20% reduction** in LLM calls
+- 💰 **Significant cost savings** (~$10 per 10K papers)
 - 🎯 **Improved answer quality** by focusing on relevant questions
 
 ---
@@ -543,62 +541,6 @@ print(f"Total cost: ${total_cost:.2f}")
 
 ---
 
-## 🎨 Why This Stage Stands Out
-
-### **1. Intelligent Optimization**
-- ✅ Synonym-based question filtering (30-50% cost reduction)
-- ✅ Dual-mode processing (full-text + abstract fallback)
-- ✅ Answer normalization (handles LLM variations)
-- ✅ Async concurrency (10x speedup)
-
-### **2. Production Quality**
-- ✅ Comprehensive validation at every step
-- ✅ Resume-from-DB for fault tolerance
-- ✅ Structured persistence (SQLite + JSON)
-- ✅ Cost tracking and budget controls
-
-### **3. Scientific Rigor**
-- ✅ Evidence-based answers (no hallucinations)
-- ✅ Confidence scoring for reliability
-- ✅ Reasoning capture for transparency
-- ✅ Multi-question coverage for comprehensive insights
-
-### **4. Actionable Insights**
-- ✅ Queryable database for rapid hypothesis testing
-- ✅ Structured export for downstream analysis
-- ✅ Integration with Part 1 canonical theories
-- ✅ Ready for agentic AI consumption
-
----
-
-## 🔮 Future Enhancements
-
-### **1. Advanced Question Types**
-- Multi-hop reasoning questions
-- Comparative questions across papers
-- Temporal trend questions
-- Quantitative extraction (numbers, statistics)
-
-### **2. Answer Aggregation**
-- Cross-paper consensus detection
-- Confidence-weighted voting
-- Contradiction detection and resolution
-- Meta-analysis capabilities
-
-### **3. Interactive Query Interface**
-- Natural language query → SQL translation
-- Real-time question answering
-- Visual analytics dashboards
-- Export to knowledge graphs
-
-### **4. Continuous Learning**
-- Active learning for uncertain answers
-- Human feedback integration
-- Question refinement based on answer quality
-- Adaptive synonym expansion
-
----
-
 ## 📚 Key Files & Directories
 
 ```
@@ -631,30 +573,90 @@ theories_extraction_agent/
 The `data/sample_qa_results.json` file contains 50 randomly selected DOIs with complete QA data:
 
 ```json
-[
-  {
-    "doi": "10.1038/nature12345",
-    "pmid": "12345678",
-    "title": "Example paper title",
+{
+    "doi": "10.1007/BF03195653",
+    "pmid": "19193984",
+    "title": "Mitochondria and aging: innocent bystanders or guilty parties?",
     "validation_result": "valid",
-    "confidence_score": 9,
-    "processed_text_length": 45000,
+    "confidence_score": 8,
+    "processed_text_length": 25457,
     "used_full_text": true,
-    "timestamp": "2025-10-27T10:30:00",
+    "timestamp": "2025-10-20T22:50:00.365080",
     "answers": [
       {
         "question_name": "aging_biomarker",
-        "question_text": "Does paper suggest an aging biomarker...",
-        "answer": "Yes, quantitatively shown",
+        "question_text": "Does paper suggest an aging biomarker (measurable entity reflecting aging pace or health state, associated with mortality or age-related conditions)? If yes, does the text provide quantitative evidence for the association or is the suggestion qualitative or hypothetical (hypothesis/discussion only)?",
+        "answer": "Yes, but not shown",
         "confidence_score": 0.9,
-        "reasoning": "The paper presents statistical data showing...",
+        "reasoning": "The paper discusses mitochondrial DNA deletions (e.g., common deletion) and mutations as potential markers of aging and photoaging, but quantitative evidence linking them directly to aging pace or mortality is not conclusively demonstrated.",
+        "original_answer": null
+      },
+      {
+        "question_name": "aging_cannot_be_reversed",
+        "question_text": "Does paper contains claim(s) suggesting that aging cannot be reversed?",
+        "answer": "No",
+        "confidence_score": 1.0,
+        "reasoning": "The paper does not claim that aging cannot be reversed; rather, it discusses interventions like calorie restriction and catalase overexpression that slow aging, implying reversibility or modulation.",
+        "original_answer": null
+      },
+      {
+        "question_name": "birds_lifespan_explanation",
+        "question_text": "Check if lifespan of birds are mentioned. Does paper contains claim(s)/examples/implies explaining why potentially birds (or some specific species) live  longer than mammals (on average)? ",
+        "answer": "No",
+        "confidence_score": 1.0,
+        "reasoning": "There is no discussion or mention of birds or explanations for their lifespan in the paper.",
+        "original_answer": null
+      },
+      {
+        "question_name": "calorie_restriction_lifespan_explanation",
+        "question_text": "Check if calorie restriction (CR) is mentioned in the context of lifespan. Does paper contains claim(s)/examples/implies explaining why potentially calorie restriction (CR) increases the lifespan of vertebrates (or some species)?",
+        "answer": "Yes",
+        "confidence_score": 1.0,
+        "reasoning": "The paper explicitly states that calorie restriction is the only known intervention to slow aging in many animals and discusses hypotheses linking mitochondrial uncoupling to natural calorie restriction and lifespan extension.",
+        "original_answer": null
+      },
+      {
+        "question_name": "cross_species_longevity_biomarker",
+        "question_text": "Does paper contains claim(s)/examples/implies suggesting a biomarker that predicts maximal lifespan differences between species (i.e., a cross-species longevity biomarker)?",
+        "answer": "Yes",
+        "confidence_score": 0.8,
+        "reasoning": "The paper mentions a mathematical model correlating mitochondrial DNA repeats with species lifespan and discusses mitochondrial uncoupling differences between species as potential predictors of longevity.",
+        "original_answer": null
+      },
+      {
+        "question_name": "large_animals_lifespan_explanation",
+        "question_text": "Check if lifespan is mentioned in the context of body size. Does paper contains claim(s)/examples/implies explaining why potentially large animals (or some species) live longer than small ones (or some species)?",
+        "answer": "Yes",
+        "confidence_score": 0.7,
+        "reasoning": "The paper notes lifespan differences among mammals of different sizes (e.g., mouse vs. vole rat, whales vs. humans) and discusses mitochondrial factors possibly underlying these differences, though no definitive explanation is provided.",
+        "original_answer": null
+      },
+      {
+        "question_name": "longevity_intervention_to_test",
+        "question_text": "Does paper contains claim(s) suggesting a specific longevity intervention to test?",
+        "answer": "Yes",
+        "confidence_score": 1.0,
+        "reasoning": "The paper describes overexpression of mitochondrially targeted catalase as a longevity intervention that extends lifespan in mice, suggesting it as a testable intervention.",
+        "original_answer": null
+      },
+      {
+        "question_name": "molecular_mechanism_of_aging",
+        "question_text": "Does paper suggest any molecular mechanism of aging?",
+        "answer": "Yes",
+        "confidence_score": 1.0,
+        "reasoning": "The paper discusses molecular mechanisms such as mitochondrial DNA mutations, ROS production, apoptosis, mitochondrial uncoupling, and telomere shortening as contributors to aging.",
+        "original_answer": null
+      },
+      {
+        "question_name": "naked_mole_rat_lifespan_explanation",
+        "question_text": "Check if there are statements about naked mole rat potentially explaining their lifespan. Does paper contains claim(s)/examples/implies explaining why potentially the naked mole rat can live a lot of years (despite its small size)?",
+        "answer": "No",
+        "confidence_score": 1.0,
+        "reasoning": "The paper does not mention naked mole rats or provide explanations related to their lifespan.",
         "original_answer": null
       }
-      // ... more answers for other questions
     ]
   }
-  // ... 49 more papers
-]
 ```
 
 ### **Field Descriptions**
